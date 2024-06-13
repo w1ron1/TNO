@@ -1,0 +1,44 @@
+﻿l_english:
+ 
+ ## Country Names ##
+ ALB_communist:0 "Албанія"
+ ALB_communist_DEF:0 "Албанська народна республіка"
+ ALB_communist_ADJ:0 "Албанськ"
+ ALB_socialist:0 "Албанія"
+ ALB_socialist_DEF:0 "Албанська народна республіка"
+ ALB_socialist_ADJ:0 "Албанськ"
+ ALB_conservatism:0 "Албанія"
+ ALB_conservatism_DEF:0 "Республіка Албанія"
+ ALB_conservatism_ADJ:0 "Албанськ"
+ ALB_paternalism:0 "Албанія"
+ ALB_paternalism_DEF:0 "Королівство Албанія"
+ ALB_paternalism_ADJ:0 "Албанськ"
+ 
+ ## Party Names ##
+ ALB_communist_party:0 "КПА"
+ ALB_communist_party_long:0 "Комуністична партія Албанії"
+ ALB_socialist_party:0 "КПА"
+ ALB_socialist_party_long:0 "Комуністична партія Албанії"
+ ALB_conservatism_party:0 "Республіканські партизани"
+ ALB_conservatism_party_long:0 "Республіканські партизани"
+ ALB_paternalism_party:0 "Роялістські партизани"
+ ALB_paternalism_party_long:0 "Роялістські партизани"
+
+ ## Country Leaders ##
+ ALB_Koci_Xoxe:0 "Кочі Дзодзе"
+ 
+ ## Ministers ##
+ ALB_Enver_Hoxha:0 "Енвер Ходжа"
+
+ ## Ideas ##
+
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Leader Bios ##
+ POLITICS_ENVER_HOXHA_DESC:0 ""
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##

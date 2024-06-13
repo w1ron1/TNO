@@ -1,0 +1,12 @@
+﻿l_english:
+ ### Country Names ###
+ CBR: "People's Republic of Burma"
+ CBR_DEF: "the People's Republic of Burma"
+ CBR_ADJ: "Burmese"
+
+ ### Parties ###
+ CBR_communist_party: "BKP - Alan Ni" # Burmese Communist Party - Red Flag
+ CBR_communist_party_long: "Bamapyi Kunmyunit Pati - Alan Ni"
+
+ ### Characters ###
+ CBR_Thakin_Soe: "Thakin Soe"

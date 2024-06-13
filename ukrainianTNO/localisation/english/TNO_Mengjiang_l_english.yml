@@ -1,0 +1,29 @@
+﻿l_english:
+ ### Country Names ###
+ MEN: "Mengjiang United Autonomous Government"
+ MEN_DEF: "the Mengjiang United Autonomous Government"
+ MEN_ADJ: "Mongol"
+
+ ### Parties ###
+ MEN_communist_party: "Ovor Mongolyn Oortoo Zasakh Khodolgoonii Niigemleg"
+ MEN_socialist_party: "Dotood Mongolyn Ardyn Khuvisgalyn Nam 'Daur'"
+ MEN_paternalism_party: "Dotood Mongolyn Ardyn Khuvisgalyn Nam 'Karaqin'"
+ MEN_despotism_party: "Mongolyn Nokhon Sergeekn Khoroo"
+ MEN_fascism_party: "Mongolyn Zaluuchuudyn Khuvisgalt Nam"
+
+ ### Characters ###
+ MEN_Demchugdongrub: "Demchugdongrub"
+ MEN_Dugursulong: "Dugursulong"
+ MEN_Li_Shouxin: "Li Shouxin"
+ MEN_Tao_Ketao: "Togtokh"
+ MEN_Degulai: "Degulai"
+ MEN_Unenbayan: "Unenbayan"
+
+ ## Leader Descs ##
+ POLITICS_DEMCHUGDONGRUB_DESC: "What would one call Prince Demchugdongrub - the hero of Mongolia, or the traitor of the Chinese Nation? Born in the Sönid Right Banner in 1902, Prince De is the 31st generation descendant of the Golden Clan and the only son of Prince Namjil Wangchuk. Six years later, Prince De inherited his father's title with the approval of the Aisin Gioro court, and was indoctrinated with the essence of the Chinese Civilization. Among all historical figures, Genghis Khan, the ancestor of Prince De, was whom the young Prince worshiped the most, and whose legacy the Prince pursued after throughout his life.\n\nWhen Prince De concurrently served as the Chief of the Xilingol League in 1931, much has changed in the steppe throughout the troubled times - the Kuomintang has replaced the fallen Qing Empire and the Beiyang Regime as the Central Government of China, whereas Outer Mongolia was lost under the schemes of Russia. Later, the Mukden Incident would let Prince De make use of Nanjing's fear to start his Pan-Mongolian self-rule movement. After negotiations fell apart due to the Han Chauvinism of Chiang Kai-Shek and his followers, Prince De turned to his last resort - the Kwantung Army - out of strong desire to achieve his ambitions, despite realizing that the Japanese carried no goodwill in their offer.\n\nDecades of struggle have partially fulfilled the Prince's dream. Nine years after the Greater East Asia War, the Mongol Autonomous Government crushed the forces of the Soviet puppet and recovered the lost territories in the wake of the Siberian Intervention. However, despite Prince De's grand accomplishments, Mongolia has yet been united, let alone independent - Mengjiang is still a de jure vassal of Wang Jingwei and his dogs, as well as a de facto fiefdom of Kwantung. The lands of Eastern Mongolia remain under the grip of Manchukuo, and the resistance of Outer Mongolia never stops troubling the Prince.\n\nSome despise Prince De as a traitor humiliating the spirit of Genghis Khan, while some condemn him as an upstart vassal with delusions of grandeur. Somehow, Prince De echoes with their words - for he has zero desire to follow the steps of his previous overlord Puyi as a Japan puppet. With Nanjing announcing their Modernization Programme, Prince De vigilantly feels that the storm of revolution will soon reach East Asia once more, and perhaps this will be his last chance to prove himself as the worthy descendant of Genghis Khan - the last chance to free Mongolia from the oppressors."
+
+ ## Minister Descs ##
+ MEN_Li_Shouxin_hog_desc: "§YVice Chairman\nWarlordism§!\n--------------\n"
+ MEN_Unenbayan_for_desc: "§YPresident of the Political Affairs House\nAristocratic Conservatism§!\n--------------\n"
+ MEN_Degulai_eco_desc: "§YMinister of Finance\nAristocratic Conservatism§!\n--------------\n"
+ MEN_Tao_Ketao_sec_desc: "§YMinister of Justice\nAristocratic Conservatism§!\n--------------\n"

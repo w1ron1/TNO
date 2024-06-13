@@ -1,0 +1,19 @@
+﻿l_english:
+ ### Country Names ###
+ KAR: "Kawthoolei"
+ KAR_DEF: "Kawthoolei"
+ KAR_ADJ: "Kawthoolei"
+
+ ### Parties ###
+ KAR_progressivism_party: "KNU"
+ KAR_progressivism_party_long: "Karen National Union"
+ KAR_liberalism_party: "NMSP"
+ KAR_liberalism_party_long: "New Mon State Party"
+ KAR_fascism_party: "DSA"
+ KAR_fascism_party_long: "Dobama-Sinyetha Asiayone"
+
+ ### Characters ###
+ KAR_Saw_Ba_U_Gyi: "Saw Ba U Gyi"
+
+ ## Leader Descs ##
+ POLITICS_SAW_BA_U_GYI_DESC: "Born into a wealthy, land-owning Karen family, Saw Ba U Gyi has been striving for Karenni independence for nearly the entirety of his adult life. Trained as a lawyer at Cambridge, he soon returned to Burma. Following his return, he gained a name for himself lobbying Burmese nationalist figures aggressively for an independent Karen state. He was briefly appointed the Burmese Minister of Revenue under Ba Maw, but U Gyi's abrasiveness with Bamars and active lobbying led to his dismissal in 1937.\n\nHe next attached his hopes to the British government, and during the war, U Gyi recruited Karen soldiers to fight alongside the British army. When the British retreated across Burma, however, U Gyi did not join them. He took his troops into the jungles and mountains of Karen State, carving out a territory for the Karens far beyond the reach of the Burmese National Army. U Gyi has spent the past years in wait, training his loyal troops and building a coalition of Burmese minorities. Now, the time has come."
