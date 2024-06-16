@@ -359,14 +359,37 @@
  Дехто скаже, що це сміливий захід, але він відповідає на злочини як Мітсубіші, так і Міцуї з усією жорсткістю,
  щоб подолати корозію гідності японської політичної системи, яку вони вчиняють."
  
- JAP_state_for_the_economy:0 "State for the Economy"
- JAP_state_for_the_economy_desc:0 "The government has worked tirelessly to begin their reorganization of the Japanese economic machine, shifting balances of power and wealth to chime a perfect, delicate calibration. Lining up the business of the Zaibatsu with the organs of state, our cabinet has tailored and suited the economy to fit the nation's modern needs, both as a world-class economy, and military superpower.\n\nOur movements may come as a shock to some, but they can keep their raspy gasps under bated breath. The future demands Japan is supported by her regimented, coordinated, and cooperative economy; there is no time for inefficiency or exploitable weakness. The Prime Minister hails his legislative successes - we're finally able to carry the industrious relationship between the economy and the state to new, innovative heights."
+ JAP_state_for_the_economy:0 "Держава для економіки"
+ JAP_state_for_the_economy_desc:0 "Уряд невтомно працював, щоб розпочати реорганізацію японської економічної машини, зміщуючи баланси влади та 
+ багатства, щоб досягти ідеального балансу в економіці.
+ Поєднавши бізнес зайбацу з державними органами наш уряд адаптував і пристосував економіку до сучасних потреб країни, як економіки 
+ світового класу і військової наддержави. 
+ наддержави.
+ \n\nНаші рішення можуть шокувати когось, але їм краще стримувати свої хрипкі зітхання, затамувавши подих.
+ Майбутнє вимагає від Японії бути регульованою, скоординованою та кооперативною економікою;
+ немає часу на неефективність або слабкість, яку можна використати. 
+ Прем'єр-міністр задоволени своїми законодавчими успіхами, бо ми нарешті можемо вивести промислові відносини між економікою та державою на нові, 
+ інноваційні висоти."
 
- JAP_kaya_restructure_the_system:0 "Restructure the System"
- JAP_kaya_restructure_the_system_desc:0 "The Japanese civil service has been in operation for close to a century, established to run His Imperial Majesty's Empire and carry out the government's policy initiatives. However, after two exhaustive wars and decades of struggle from within and without, much that remains consists of dusty, bush-nosed careerists and opportunistic hounds. It is time we draw the knife once again.\n\nAoki Kazuo has finally gathered his plans and, working alongside the Prime Minister, will rigorously review the composition of the political establishment. Mass firings and forced retirements, alongside plenty of promotions for the worthy, can draw us closer to the restoration of New Bureaucratic dominance over the political machine administering the continent-spanning Empire."
+ JAP_kaya_restructure_the_system:0 "Реструктуризація системи."
+ JAP_kaya_restructure_the_system_desc:0 "Японська державна служба функціонує вже майже сто років, її було створено для управління
+ імперією Його Імператорського Величності та реалізації політичних ініціатив уряду.
+ Однак після двох виснажливих воєн і десятиліть боротьби
+ зсередини і ззовні, багато з того, що залишилося, складається з запорошених кар'єристів і пристосуванців.
+ Настав час витягнути ніж ще раз.
+ \n\nАокі Кадзуо нарешті зібрався з планами і, працюючи разом з прем'єр-міністром, буде ретельно переглядати склад політичного істеблішменту. 
+ Масові звільнення та вимушені відставки, одночасно з великою кількістю підвищень для гідних кадрів, можуть наблизити нас до відновлення домінування
+ нової бюрократії над політичною машиною, яка керує імперією, що охоплює континент."
  
- JAP_our_trusted_stronghold:0 "Our Trusted Stronghold"
- JAP_our_trusted_stronghold_desc:0 "A government, although handed the powers to administer the Empire by His Imperial Majesty, relies on the support of its ministries from below. They are the organs of the state, organizing information, categorizing data, and delivering upon government agendas and policy initiatives.\n\nThe Prime Minister, mortally aware of the facts, has chosen to rely on his two greatest supporters from below: The Ministry of Finance and the Home Ministry. There is little chance we will face any challenge or hiccups in the implementation of these plans; packed with bureaucrats largely aligned to our plans for the Empire, these ministries are a stable base of support wherein government agenda can be rolled out. However, it will not come without a cost, and there is no doubt officials will demand promotions - though, this is an affair best handled by Aoki Kazuo."
+ JAP_our_trusted_stronghold:0 "Наша надійна опора"
+ JAP_our_trusted_stronghold_desc:0 "Уряд, хоча і отримав повноваження керувати імперією від Його Імператорської Величності, покладається 
+ на підтримку своїх міністерств з низів.
+ Вони є органами держави, які організовують інформацію, класифікують дані та реалізують державні програми та політичні ініціативи.
+ \n\nПрем'єр-міністр, обізнаний з фактами, вирішив покластися на двох своїх прихильників знизу: Міністерство фінансів 
+ та Міністерство внутрішніх справ. Існує мало шансів, що ми зіткнемося з будь-якими проблемами чи затримками в реалізації цих планів; 
+ наповнені бюрократами, які значною мірою поділяють наші плани щодо Імперії, ці міністерства є стабільною базою підтримки,
+ на якій можна розгортати наш урядовий порядок. Однак це не обійдеться без витрат, 
+ і немає сумнівів, що чиновники вимагатимуть підвищень - втім, з цим питанням найкраще впорається Аокі Кадзуо."
  
  JAP_the_ways_of_the_bokuminkan:0 "The Ways of the Bokuminkan"
  JAP_the_ways_of_the_bokuminkan_desc:0 "After lending an ear to Aoki's rationale, our agenda has neatly aligned to bring us to this moment. It seems to be in our best interest to approach and reforge friendships, alliances, and connections to those within the Home Ministry. Their experience in administration is of great use to us, and there is no doubt that it is essential to share a positive relationship with a ministry of such importance.\n\nIn our advances, we hearken back to the days of Yoshida Shigeru, and gleam with the vibrant nostalgia of the past. Our march to more glorious days continues one step at a time; increasing support from the conservatives and paternalists in the Diet and civil service neatly aligns with our government's agenda. Only time separates us from the future of our nation, as we gather in strength and support for the revitalization of the Empire."
