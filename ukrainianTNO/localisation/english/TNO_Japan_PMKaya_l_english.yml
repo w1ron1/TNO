@@ -421,20 +421,33 @@
  та інші ініціативи просунуть працюючий народ країни вперед; чим більше депутатів Парламенту зможуть домовитися про
  те, щоб доставити Японію до місця економічної стабільності, тим швидше ми зможемо ми зможемо просуватися до цієї мети."
  
- JAP_going_into_the_red:0 "Going Into the Red"
- JAP_going_into_the_red_desc:0 "The Economic Wars have been like a sledgehammer to the knees of Japan, swinging it off its feet and dragging 
- the disadvantaged down with it. Our guesses were correct - abysmally regulated financial sectors and a speculation-economy were to blame, 
- and now the nation must suffer. It is this government's task, duty even, to help the nation back up to its feet, and restore some honor in 
- the working people of the Empire.\n\nThe Prime Minister, accompanied by the counsel and advice of Fukuda Takeo, has decided that it is in 
- the nation's best interest to tackle these things head on. Deficit spending must be enacted, providing jobs and stable growth to breathe 
- life into the economy. State driven programs may frighten the members of the Diet particularly fascinated by the locks of the coffers, but 
- we have confidence that this is the best path to walk."
+ JAP_going_into_the_red:0 "Йдемо в мінус"
+ JAP_going_into_the_red_desc:0 "Економічні війни були схожі на кувалду, що вдарила Японію по колінах, зваливши її з ніг і потягнувши за собою 
+ знедолені верстви населення. Наші здогадки виявилися правильними - винні в цьому погано регульовані фінансові сектори
+ та спекулятивна економіка, і тепер страждати має нація. Завданням, навіть обов'язком цього уряду є допомогти нації піднятися з колін та відновити 
+ гідність робітників імперії.\n\nПрем'єр-міністр, у супроводі радника Фукуди Такєо, вирішив, що в інтересах нації 
+ вирішити ці проблеми з головою. Дефіцитні видатки мають бути прийняті, забезпечуючи робочі місця та стабільне зростання, щоб вдихнути 
+ життя в економіку. Державні програми можуть налякати членів парламенту, особливо зацікавлених казною, але ми 
+ впевнені, що це найкращий шлях."
  
- JAP_reach_out_to_farmers:0 "Reach Out to Farmers"
- JAP_reach_out_to_farmers_desc:0 "As we pivot towards implementing new policy arrangements, Fukuda's platform of "Stable Growth" draws our attention to the traditional pillars of the Japanese economy - the rural sectors. The farmers in the heartlands of the Home Isles have worked tirelessly to support the Japanese people from even before the reign of Emperor Meiji, and they of all demographics across the Empire have suffered without adequate relief for far too long.\n\nOur initiatives will be a hand-hold for the farmers to approach agricultural modernization, allowing them to produce far greater yields at a much lower cost. Efforts to offer subsidies to farmers will be rolled out across Japan's rural regions, in alignment with Fukuda's projected plans for economic recovery; however, we must remain aware of the landlords, and their reputation of kneecapping subsidiary aid to tenant farmers throughout the implementation of our plans."
- 
- JAP_aokis_bureaucratic_revival:0 "Aoki's Bureaucratic Revival"
- JAP_aokis_bureaucratic_revival_desc:0 "Outstretched hands shake across the aisle - our differences with the conservatives in the Taisei Yokusankai have been settled, for now, and we can come to amicable agreements. Their cooperation here and down the line has secured us our settlement with the Home Ministry; the interlocking set of allegiances and interests between these groups, as well as within the civil service, has fallen neatly into the lap of our government.\n\nAfter a gasp of long-held breath, Aoki Kazuo's plans for a new administrative renaissance may fall into place. We may begin our path to return to the paternalist bureaucracy of the early Shōwa period, wherein new life and vigor pumped through the Empire's veins, and her men were bold governors. What may have initially seemed like a few deals struck and friends made, has secured Japan her future as a nation among those prosperous."
+ JAP_reach_out_to_farmers:0 "Звернутися до фермерів"
+ JAP_reach_out_to_farmers_desc:0 "В той час як ми переходимо до впровадження нових політичних механізмів, платформа Фукуди "Стабільне зростання" 
+ привертає нашу увагу до традиційних стовпів японської економіки - сільських секторів. 
+ Фермери в глибині материкових островів невтомно працювали, щоб підтримати японський народ ще до правління імператора Мейдзі, і вони, 
+ представники всіх демографічних груп по всій імперії, надто довго страждали без адекватної допомоги.\n\nНаші ініціативи стануть для фермерів 
+ допомогою у модернізації сільського господарства, що дозволить їм виробляти значно більший
+ врожай зі значно меншими витратами. Зусилля з надання субсидій фермерам будуть розгорнуті по всім сільським регіонам Японії, відповідно до 
+ прогнозованих планів Фукуди щодо відновлення економіки; однак, ми повинні пам'ятати про землевласників, та їхню репутацію як таких, що встромлюють
+ палки у колеса фермерів-орендарів під час реалізації наших планів."
+    
+ JAP_aokis_bureaucratic_revival:0 "Бюрократичне відродження Аокі"
+ JAP_aokis_bureaucratic_revival_desc:0 "Простягнуті руки неохоче потиснуті - наші розбіжності з консерваторами в Тайсей Йокусанкай наразі
+ врегульовані, і ми можемо дійти до мирних домовленостей. Їхня співпраця з цього моменту і надалі забезпечила нам 
+ врегулювання відносин з Міністерством внутрішніх справ; лояльность та інтересів цих груп, і разом з тим державної служби - тепер
+ в руках нашого уряду.\n\nПісля тривалого очікування плани Аокі Кадзуо щодо нового адміністративного ренесансу можуть стати на свої місця. 
+ Ми можемо почати свій шлях до повернення до патерналістської бюрократії раннього періоду Сьова
+ коли в жилах імперії пульсуваложиття та енергія, а її люди були сміливими управлінцями. Те, що спочатку могло здатися
+ як кілька укладених угод і знайдених друзів, забезпечило майбутнє Японії, як процвітаючої нації."
  
  JAP_a_stable_welfare_net:0 "A Stable Welfare Net"
  JAP_a_stable_welfare_net_desc:0 "The plentiful and guiding hand that guides the nation, the state is our primary tool in securing Japan a future worth fighting and dying for. It is an institution full of bold, patriotic men, dedicated to ensuring that the Empire can preserve itself and its way of life in harmony and prosperity. Fukuda Takeo is one of these men; at the prompt of Aoki Kazuo, he sends in his plans to draw the nation out of its recent rut.\n\nHis stimulus package recently-approved in the Diet is fit for this very purpose. Its sweeping coverage of state-owned industry and business is primed to expand government investment in, and ownership of, production and commerce. A primary measure to combat the fallout of the Yasuda Crash, our cabinet is secure in the belief that the state, and only the state, can deliver us towards recovery."
