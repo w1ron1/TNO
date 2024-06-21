@@ -449,17 +449,41 @@
  коли в жилах імперії пульсуваложиття та енергія, а її люди були сміливими управлінцями. Те, що спочатку могло здатися
  як кілька укладених угод і знайдених друзів, забезпечило майбутнє Японії, як процвітаючої нації."
  
- JAP_a_stable_welfare_net:0 "A Stable Welfare Net"
- JAP_a_stable_welfare_net_desc:0 "The plentiful and guiding hand that guides the nation, the state is our primary tool in securing Japan a future worth fighting and dying for. It is an institution full of bold, patriotic men, dedicated to ensuring that the Empire can preserve itself and its way of life in harmony and prosperity. Fukuda Takeo is one of these men; at the prompt of Aoki Kazuo, he sends in his plans to draw the nation out of its recent rut.\n\nHis stimulus package recently-approved in the Diet is fit for this very purpose. Its sweeping coverage of state-owned industry and business is primed to expand government investment in, and ownership of, production and commerce. A primary measure to combat the fallout of the Yasuda Crash, our cabinet is secure in the belief that the state, and only the state, can deliver us towards recovery."
+ JAP_a_stable_welfare_net:0 "Стабільна соціальна мережа"
+ JAP_a_stable_welfare_net_desc:0 "Жорстка і направляюча рука, яка веде націю та державу - це наш основний інструмент у забезпеченні Японії
+ майбутнього, за яке варто боротися і помирати. Це установа, сповнена сміливих і патріотичних чоловіків, присвятивших себе Імперії, щоб вона могла
+ зберегти себе, свою гармонію і процвітання. Фукуда Такєо один з цих людей;
+ на прохання Аокі Кадзуо він надсилає свої плани, як вивести країну зі стану, в якому вона перебуває останнім часом.
+ \n\nЙого пакет соціальних стимулів, нещодавно схвалений у парламенті, призначений саме для цієї мети.
+ Прийнятий пакет охоплює державну промисловість і бізнес та має на меті розширити державні інвестиції у виробництво, та торгівлю, 
+ а також право власності на них. Першочерговим заходом у боротьбі з наслідками кризи Ясуда є впевненість нашого кабінету в тому, що держава, 
+ і тільки держава, може привести нас до відновлення."
  
- JAP_fukudas_careful_approach:0 "Fukuda's Careful Approach"
- JAP_fukudas_careful_approach_desc:0 "As we step into a period of relaxed pressure, with spending at a deficit and costs to our coffers lowering, we must not neglect our attention paid towards the budget. Although it may have fluctuated in recent times as we manage the Yasuda Crisis, we cannot let it trip up our administration's management of the recovering economy. The moment our political enemies get a whiff of our cabinet's anxieties, their attacks will commence.\n\nAnd so, the gutting knife is drawn once more; for the sake of the budget's stability, it is necessary that we cut spending across the board in regions of the Empire. Korea and Taiwan must face the harshest cuts, for the sake of the Home Isles. Welfare will need to be bled too, for the sake of longevity."
+ JAP_fukudas_careful_approach:0 "Обережний підхід Фукуди"
+ JAP_fukudas_careful_approach_desc:0 "Оскільки ми вступаємо в період послаблення тиску, з дефіцитом видатків і зниженням витрат нашої скарбниці,
+ ми не повинні нехтувати увагою, яку ми приділяємо бюджету. Хоча останнім часом наш контроль міг коливатися в міру того, як ми долаємо
+ кризу Ясуди, ми не можемо допустити, щоб це завадило нашій адміністрації керувати економікою, що відновлюється. Щойно наші політичні вороги
+ відчують занепокоєння нашого уряду, їхні атаки розпочнуться.\n\nІ ось, ніж для знову витягнуто;
+ Заради стабільності бюджету необхідно, щоб ми повсюдно скоротили витрати в регіонах імперії. Корея і Тайвань повинні зіткнутися з 
+ найжорсткішими скороченнями, заради Японського архіпелагу. А заради майбутнього доведеться знекровити і соціальну сферу."
  
- JAP_our_economic_pillars_stabilised:0 "Our Economic Pillars Stabilised"
- JAP_our_economic_pillars_stabilised_desc:0 "The path to this point has not been easy, and at long last we can put down the gutting knife for now. While we may have bloodied our noses with our necessary cuts to spending and welfare, the pillars to hold up the economy and the future of our agenda have been stabilized, and our rural constituents are satisfied for the time being.\n\nHowever, urban discontent is on the rise. Working-class families, urban business, and white-collar employees are expressing foul opinions of our recent legislative agenda. Their queries and complaints must be dealt with soon; the Prime Minister, contacting staff across various ministries, has accepted both the use of benevolent and genuine - and if necessary, more coercive methods of influencing public opinion."
+ JAP_our_economic_pillars_stabilised:0 "Наші економічні показники стабілізувалися"
+ JAP_our_economic_pillars_stabilised_desc:0 "Шлях до цього був нелегким, але нарешті ми можемо відкласти ніж.
+ Хоча ми, можливо, кров'ю залили наші носи через необхідні скорочення видатків і соціальних виплат, стовпи, на яких тримається економіка і 
+ майбутнє програми, стабілізувалися. Майбутнє нашої програми було врятовано,
+ а наші сільські виборці поки що задоволені. \n\nОднак невдоволення в місті зростає. Сім'ї робітничого класу, міський бізнес та державні
+ службовці висловлюють негативну думку про нашу нещодавню програму. Їхні запити та скарги мають бути розглянуті якнайшвидше; 
+ прем'єр-міністр, контактуючи з працівниками різних міністерств, погодився на використання як доброзичливих і щирих, так і,
+ в разі необхідності, більш примусових методів впливу на громадську думку."
  
  JAP_the_greatest_victims:0 "The Greatest Victims"
- JAP_the_greatest_victims_desc:0 "The Zaibatsu Mitsui, Mitsubishi, and Sumitomo have taken heavy hits and great losses from the turbulent Economic Wars, costing them great fortunes in resources and wealth. And so, at the prompt of advisors and councils, it is necessary that they require bailouts. Fukuda Takeo has suggested, upon evaluation of the scale of their influence, that we take a more careful, "harmonious" approach when stating the terms of any possible bailout.\n\nKishi's faction, however, takes a far less diplomatic stance. Their planning from within the Commerce Ministry has drawn them to the opinion that the weakened Zaibatsu should be squeezed even further. They are indeed at the mercy of our government, and we could certainly make use of their weakness to press for regulation and agreement that could not be settled at any time beforehand."
+ JAP_the_greatest_victims_desc:0 "The Zaibatsu Mitsui, Mitsubishi, and Sumitomo have taken heavy hits and great losses from 
+ the turbulent Economic Wars, costing them great fortunes in resources and wealth. And so, at the prompt of advisors and councils,
+ it is necessary that they require bailouts. Fukuda Takeo has suggested, upon evaluation of the scale of their influence, that we 
+ take a more careful, "harmonious" approach when stating the terms of any possible bailout.\n\nKishi's faction, however, takes a 
+ far less diplomatic stance. Their planning from within the Commerce Ministry has drawn them to the opinion that the weakened 
+ Zaibatsu should be squeezed even further. They are indeed at the mercy of our government, and we could certainly make use of 
+ their weakness to press for regulation and agreement that could not be settled at any time beforehand."
  
  JAP_are_also_the_most_responsible:0 "Are Also the Most Responsible"
  JAP_are_also_the_most_responsible_desc:0 "In his evaluation and examinations of the possible consequences of his plans, Fukuda Takeo has suffered a significant setback. Much to our administration's pains, a simple Tax Bureau audit has uncovered Mitsui and Mitsubishi's complicity and involvement in corrupt skimmings directly linked to offshore subsidiaries of Yasuda.\n\nSending shockwaves throughout our financial administration of the crisis, this new revelation indicates that there are many more to blame for our recent economic crises. Their corruption and malpractice is systemic, and will require far more effort in deconstructing and organizing their collapse. Perhaps the worst news for us, Kishi's hardliners are expected to latch onto this report and fuel their agenda with claims of government favoritism and corporate negligence."
