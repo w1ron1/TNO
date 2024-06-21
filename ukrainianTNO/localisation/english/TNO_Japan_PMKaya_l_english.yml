@@ -476,23 +476,42 @@
  прем'єр-міністр, контактуючи з працівниками різних міністерств, погодився на використання як доброзичливих і щирих, так і,
  в разі необхідності, більш примусових методів впливу на громадську думку."
  
- JAP_the_greatest_victims:0 "The Greatest Victims"
- JAP_the_greatest_victims_desc:0 "The Zaibatsu Mitsui, Mitsubishi, and Sumitomo have taken heavy hits and great losses from 
- the turbulent Economic Wars, costing them great fortunes in resources and wealth. And so, at the prompt of advisors and councils,
- it is necessary that they require bailouts. Fukuda Takeo has suggested, upon evaluation of the scale of their influence, that we 
- take a more careful, "harmonious" approach when stating the terms of any possible bailout.\n\nKishi's faction, however, takes a 
- far less diplomatic stance. Their planning from within the Commerce Ministry has drawn them to the opinion that the weakened 
- Zaibatsu should be squeezed even further. They are indeed at the mercy of our government, and we could certainly make use of 
- their weakness to press for regulation and agreement that could not be settled at any time beforehand."
+ JAP_the_greatest_victims:0 "Найбільші жертви..."
+ JAP_the_greatest_victims_desc:0 "Зайбацу Міцуї, Мітсубіші та Сумітомо зазнали сильних втрат у ресурсах і багатстві від 
+ бурхливих економічних війн. І тому, за наполяганням радників, 
+ необхідно, щоб вони отримали допомогу. Фукуда Такєо, оцінивши масштаб їхнього впливу, запропонував нам більш обережно та "гармонійно" 
+ підходити до формулювання умов будь-якої можливої допомоги.\n\nРазом з тим фракція Кіші займає менш дипломатичну позицію.
+ Їхнє планування в Міністерстві торгівлі привело їх до думки, що ослабленого Зайбацу слід притиснути ще більше. 
+ Їх доля знаходиться у руках нашого уряду, і ми, безумовно, могли б використати їхню слабкість, щоб наполягати на регулюванні
+ та укладанні угод, які не могли бути врегульовані раніше."
  
- JAP_are_also_the_most_responsible:0 "Are Also the Most Responsible"
- JAP_are_also_the_most_responsible_desc:0 "In his evaluation and examinations of the possible consequences of his plans, Fukuda Takeo has suffered a significant setback. Much to our administration's pains, a simple Tax Bureau audit has uncovered Mitsui and Mitsubishi's complicity and involvement in corrupt skimmings directly linked to offshore subsidiaries of Yasuda.\n\nSending shockwaves throughout our financial administration of the crisis, this new revelation indicates that there are many more to blame for our recent economic crises. Their corruption and malpractice is systemic, and will require far more effort in deconstructing and organizing their collapse. Perhaps the worst news for us, Kishi's hardliners are expected to latch onto this report and fuel their agenda with claims of government favoritism and corporate negligence."
+ JAP_are_also_the_most_responsible:0 "...є й найбільш винними"
+ JAP_are_also_the_most_responsible_desc:0 "У своїй оцінці та аналізі можливих наслідків своїх планів, 
+ Фукуда Такєо зазнав значної невдачі. На превеликий жаль для нашої адміністрації, проста перевірка Податкового бюро виявила співучасть
+ Міцуї та Мітсубіші у корупційних схемах, безпосередньо пов'язаних з офшорними дочірніми компаніями Ясуди.
+ \n\nЦе нове одкровення, яке потрясло всю нашу фінансову програму управління кризою, та вказує на те, що в наших останніх провалах винно 
+ набагато більше людей, ніж ми думали. Корупція та зловживання службовими обов'язками мають системний характер і
+ потребують набагато більше зусиль для боротьби та демонтажу. Можливо, найгіршим з цього є те, що прихильники
+ жорсткої лінії Кіші, як очікується, вхопляться за цей звіт і пропагуватимуть свою програму заявами про про верховенство уряду та
+ корпоративну недбалість."
  
- JAP_squeeze_them_dry:0 "Squeeze Them Dry"
- JAP_squeeze_them_dry_desc:0 "Our hands are tied, it was bound to happen at some point. Upon the news breaking of Mistui and Mitsubishi's involvement in the corrupt dealings of Yasuda that buckled the economy of the Empire, there was no defensible position but to proceed with criminal investigation. The Commerce Ministry in particular froths at the mouth to hear that such evidence has surfaced, so they too can draw out their surgical tools.\n\nKishi too, awakened with the revelation, has begun to spin his web; he has wasted no time in executing his craft by shaping great snares to pressure industrial rivals into accordance with his agenda. The result: mass credit freezes across the corporate world for names and subsidiaries directly and indirectly implicated in the audit leak. To some, these are measures most rational to take in criminal procedures; to others, Kishi sinks his teeth and influence into the political economy once more."
+ JAP_squeeze_them_dry:0 "Вичавити їх насухо"
+ JAP_squeeze_them_dry_desc:0 "Це мало колись трапитись, у нас зв'язані руки. Після звістки про причетність Міцуї та Мітсубіші до 
+ корупційних схем Ясуди, які підривали економіку Імперії, в нас не було іншого вибору, окрім як розпочати кримінальне розслідування.
+ У Міністерстві торгівлі аж піна з рота пішла, коли вони почули про це, тож вони теж можуть витягнути свої ножі.
+ \n\nКіші, пробуджений одкровенням, теж почав плести своє павутиння; він не гаяв часу дарма,
+ формуючи чудові пастки для тиску на промислових конкурентів відповідно до своєї програми.
+ Результат: масове заморожування кредитів у корпоративному світі для компаній та дочірніх підприємств, прямо чи опосередковано
+ причетних до витоку аудиторської інформації. Для когось це найбільш раціональні заходи у кримінальних провадженнях; 
+ Для інших Кіші знову занурює свої зуби та вплив у політичну економію."
  
  JAP_enact_creeping_acquisitions:0 "Enact Creeping Acquisitions"
- JAP_enact_creeping_acquisitions_desc:0 "Kishi Nobusuke is a man of grand influence, in front of and behind the political arenas of the Empire. He is known to be much more than a man in a suit; with connections from Tokyo to Harbin, there truly is no saying how far his power stretches. With recent news of the Tax Bureau audit leak, however, it seems that he seeks to stretch this power further.\n\nThe great web of his connections stretches far and wide; contacting those in Korea and Manchuria, Kishi pushes for seizures of Mitsubishi assets overseas by rival industrial conglomerates, familiar corporations, or simply by those who owe him a favor. Those in Manchukuo, however, are duly to be swallowed by Mangyō - the elusive corporate conglomerate eager to forfeit industrial assets wherever they pluck them."
+ JAP_enact_creeping_acquisitions_desc:0 "Kishi Nobusuke is a man of grand influence, in front of and behind the political arenas of the Empire. 
+ He is known to be much more than a man in a suit; with connections from Tokyo to Harbin, there truly is no saying how far his power stretches. 
+ With recent news of the Tax Bureau audit leak, however, it seems that he seeks to stretch this power further.
+ \n\nThe great web of his connections stretches far and wide; contacting those in Korea and Manchuria, Kishi pushes for seizures of Mitsubishi 
+ assets overseas by rival industrial conglomerates, familiar corporations, or simply by those who owe him a favor. Those in Manchukuo, however, 
+ are duly to be swallowed by Mangyō - the elusive corporate conglomerate eager to forfeit industrial assets wherever they pluck them."
  
  JAP_politically_convenient_pardons:0 "Politically Convenient Pardons"
  JAP_politically_convenient_pardons_desc:0 "Fukuda's mastermind delivers us to wiser schemes once again. His excellent manipulation of negotiation and appeal to the industrial conglomerates, alongside the donning of the Finance Ministry's corporate guillotines in his proposals, has constructed a new initiative in handling the implicated firms. Fukuda suggests we promise amnesty to the megacorporations, in return for their subscription to a government-advised recovery plan.\n\nDespite the sound resonance within the government, members of the Ministry of Commerce issue their protest. They insist that this plan, if followed, is nothing but backing down and rolling over in the face of the obscenities of corporate corruption. Their calls to divert course grow unruly; it seems, despite our best efforts, they will remember this objection."
