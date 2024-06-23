@@ -505,22 +505,44 @@
  причетних до витоку аудиторської інформації. Для когось це найбільш раціональні заходи у кримінальних провадженнях; 
  Для інших Кіші знову занурює свої зуби та вплив у політичну економію."
  
- JAP_enact_creeping_acquisitions:0 "Enact Creeping Acquisitions"
- JAP_enact_creeping_acquisitions_desc:0 "Kishi Nobusuke is a man of grand influence, in front of and behind the political arenas of the Empire. 
- He is known to be much more than a man in a suit; with connections from Tokyo to Harbin, there truly is no saying how far his power stretches. 
- With recent news of the Tax Bureau audit leak, however, it seems that he seeks to stretch this power further.
- \n\nThe great web of his connections stretches far and wide; contacting those in Korea and Manchuria, Kishi pushes for seizures of Mitsubishi 
- assets overseas by rival industrial conglomerates, familiar corporations, or simply by those who owe him a favor. Those in Manchukuo, however, 
- are duly to be swallowed by Mangyō - the elusive corporate conglomerate eager to forfeit industrial assets wherever they pluck them."
+ JAP_enact_creeping_acquisitions:0 "Розпочати поступове поглинання"
+ JAP_enact_creeping_acquisitions_desc:0 "Кіші Нобусуке - людина з величезним впливом на політичній арені Імперії та за її межами. 
+ Відомо, що він набагато більше, ніж людина в костюмі; маючи зв'язки від Токіо до Харбіна, справді неможливо сказати, 
+ наскільки далеко простягається його влада. 
+ Однак нещодавні новини про витік даних аудиту Податкового бюро свідчать про те, що він прагне ще більше розширити ці повноваження.
+ \n\nПавутина його зв'язків простягається далеко і широко; Зв'язуючись з людьми в Кореї та Маньчжурії, Кіші домагається захоплення активів 
+ Мітсубіші конкуруючими промисловими конгломератами, знайомими корпораціями або просто тими, хто в боржниках перед ним. 
+ Однак ті, хто в Манчукуо, будуть поглинуті Маньго - невловимим корпоративним конгломератом, який прагне 
+ позбутися промислових активів, де б вони їх не вирвали."
  
- JAP_politically_convenient_pardons:0 "Politically Convenient Pardons"
- JAP_politically_convenient_pardons_desc:0 "Fukuda's mastermind delivers us to wiser schemes once again. His excellent manipulation of negotiation and appeal to the industrial conglomerates, alongside the donning of the Finance Ministry's corporate guillotines in his proposals, has constructed a new initiative in handling the implicated firms. Fukuda suggests we promise amnesty to the megacorporations, in return for their subscription to a government-advised recovery plan.\n\nDespite the sound resonance within the government, members of the Ministry of Commerce issue their protest. They insist that this plan, if followed, is nothing but backing down and rolling over in the face of the obscenities of corporate corruption. Their calls to divert course grow unruly; it seems, despite our best efforts, they will remember this objection."
+ JAP_politically_convenient_pardons:0 "Політично вигідні помилування"
+ JAP_politically_convenient_pardons_desc:0 "Фукуда знову пропонує мудрі ідеї. Його чудові маніпуляції з переговорами та 
+ апеляції до промислових конгломератів, а також використання у своїх пропозиціях корпоративної гільйотини Міністерства фінансів
+ привели до нової ініціативи щодо роботи з причетними фірмами. Фукуда пропонує пообіцяти амністію корпораціям в обмін на їхню прихильність
+ до запропонованого урядом плану відновлення.\n\nНезважаючи на значний резонанс в уряді, представники Міністерства торгівлі висловили свій протест.
+ Вони наполягають на тому, що цей план, якщо його буде реалізовано, є нічим іншим, як відступом і відкатом перед обличчям непристойностей 
+ корпоративної корупції. Їхні заклики змінити курс стають все більш некерованими; здається, незважаючи на всі наші зусилля,
+ вони запам'ятають це заперечення."
  
- JAP_the_hand_that_feeds:0 "The Hand That Feeds"
- JAP_the_hand_that_feeds_desc:0 "The government and the Zaibatsu are in a state of mutual reliance - we need them to prevent further economic downturn and to maintain stability in the economy, while they need us to maintain their fortunes and stay afloat in the aftermath of the Economic Wars. Confrontation and conflict between the two would only lead to Japan and her economy and people being plunged into further ruin - no, there is a far smarter way of dealing with these companies, one which will both preserve economic health and cripple their power.\n\nFinance Minister Fukuda has proposed a bill for "corporate stabilization" - in actuality, a treaty between the state and the Zaibatsu. Should the bill be passed, the government will offer a conditional bailout package to the Zaibatsu: in exchange for subsidies, tax relief, and loans, government observers will be appointed to their boards of directors nominally to measure firm performance and work with the Zaibatsu to ensure growth and stability; in truth, this mechanism will also be used to exert control over the companies and threaten them into submission if necessary."
+ JAP_the_hand_that_feeds:0 "Кормлюча рука"
+ JAP_the_hand_that_feeds_desc:0 "Уряд і зайбацу перебувають у стані взаємної залежності - ми потребуємо їх, щоб запобігти подальшому економічному
+ спаду і зберегти стабільність в економіці, а вони потребують нас, щоб зберегти свої статки і втриматися на плаву після економічних воєн. 
+ Конфронтація і конфлікт між нами призведе лише до того, що Японія, її економіка і народ зануряться в ще більшу руїну - ні, є набагато розумніший 
+ спосіб, який збереже економіку Японії, і підірве владу Зайбацу.
+ \n\nМіністр фінансів Фукуда запропонував законопроект про "корпоративну стабілізацію" - фактично, договір між державою та зайбацу.
+ Якщо законопроект буде прийнятий, уряд запропонує зайбацу умовний пакет допомоги: в обмін на субсидії, податкові пільги та кредити, 
+ в ради директорів будуть призначені спостерігачі від уряду, які будуть номінально призначені до
+ їхніх рад директорів для оцінки ефективності діяльності компаній та роботи з зайбацу для забезпечення зростання і стабільності; 
+ насправді, цей механізм також використовуватиметься для здійснення контролю над компаніями і примусу їх до підпорядкування в разі потреби."
  
- JAP_corporatism_modernised:0 "Corporatism Modernized"
- JAP_corporatism_modernised_desc:0 "A modus vivendi has been achieved between the state and business, reluctant or not; the once all-consuming power of the Zaibatsu has been curbed, that of the bureaucracy and state is ascending to what it ought to be, and we have taken a big step towards economic harmony. A new order in the Japanese economy has dawned - one of growth and stability above all else, discarding the myopic demands of the military, whining of fickle partisan politicians, and the corruption of corporate executives, and one which will secure for us the best future.\n\nA big step this may be, but this is but one step on the road to true corporatism - the perfect concord of all actors in the economy, all working together for the common good. Society and the economy as a perfectly efficient and well-oiled machine - this is the technocratic dream, our dream."
+ JAP_corporatism_modernised:0 "Модернізований корпоративізм"
+ JAP_corporatism_modernised_desc:0 "A modus vivendi has been achieved between the state and business, reluctant or not; 
+ the once all-consuming power of the Zaibatsu has been curbed, that of the bureaucracy and state is ascending to what it ought to be, 
+ and we have taken a big step towards economic harmony. A new order in the Japanese economy has dawned - one of growth and stability above all else,
+ discarding the myopic demands of the military, whining of fickle partisan politicians, and the corruption of corporate executives, and one which 
+ will secure for us the best future.\n\nA big step this may be, but this is but one step on the road to true corporatism - the perfect concord of
+ all actors in the economy, all working together for the common good. Society and the economy as a perfectly efficient and well-oiled machine - 
+ this is the technocratic dream, our dream."
  
  JAP_the_new_old_bureaucrats:0 "The New Old Bureaucrats"
  JAP_the_new_old_bureaucrats_desc:0 "Regardless of the path our government has negotiated in recent times, we have arrived at this point having largely stabilized the ailing economy. Careless corporate despots have been constrained; rural crop-farmers have received adequate subsidiaries; even the conservatives have been largely appeased. Our actions and initiatives have been ambitious, but not without successes once thought as unattainable.\n\nHowever, despite these administrative victories, we have certainly felt the costs upon our government rise. Difficult decisions and policy adjustment has made us enemies in the Diet; the Liberal faction specifically has platformed enough speakers to decry us as autocrats. We must curb their offensive into our faction, and blunt their corrosive postulation before their bravery strikes accord with disaffected constituents."
