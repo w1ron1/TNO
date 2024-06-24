@@ -251,9 +251,8 @@
  JAP_a_new_economy:0 "Нова економіка"
  JAP_a_new_economy_desc:0 "Запропонований план описує преференційне фінансування для «Нового зайбацу» в пункті, 
  який привернув увагу багатьох у парламенті. Особливо великих конгломератів, таких як Маньго в Маньчжурії; 
- Він привертає увагу до конгломератів, які швидко отримують прибутки в таких галузях, як Маньго
- It draws attention to conglomerates making swift profits in the industries, 
- such as Mangyō in Manchukuo; їхнє стрімке зростання захопило розуми та жадобу багатьох у Японії.
+ Він привертає увагу до конгломератів, які швидко отримують прибутки в таких галузях, як Маньго; 
+ їхнє стрімке зростання захопило розуми та жадобу багатьох у Японії.
  Більш того, Ніньчітсу та інші хімічні фірми привернули увагу до законопроекту.
  \n\nВисокотехнологічна важка промисловість, промислове хімічне виробництво та електротехнічні корпорації стають помітними в
  новій японській економіці – ми позбавляємося майбутніх економічних успіхів, не полишаючи їм місце в майбутньому розвитку Японії.
@@ -536,19 +535,30 @@
  насправді, цей механізм також використовуватиметься для здійснення контролю над компаніями і примусу їх до підпорядкування в разі потреби."
  
  JAP_corporatism_modernised:0 "Модернізований корпоративізм"
- JAP_corporatism_modernised_desc:0 "A modus vivendi has been achieved between the state and business, reluctant or not; 
- the once all-consuming power of the Zaibatsu has been curbed, that of the bureaucracy and state is ascending to what it ought to be, 
- and we have taken a big step towards economic harmony. A new order in the Japanese economy has dawned - one of growth and stability above all else,
- discarding the myopic demands of the military, whining of fickle partisan politicians, and the corruption of corporate executives, and one which 
- will secure for us the best future.\n\nA big step this may be, but this is but one step on the road to true corporatism - the perfect concord of
- all actors in the economy, all working together for the common good. Society and the economy as a perfectly efficient and well-oiled machine - 
- this is the technocratic dream, our dream."
+ JAP_corporatism_modernised_desc:0 "Між державою та бізнесом, хоч-не-хоч, але було досягнуто modus vivendi; 
+ коли всепоглинаюча влада зайбацу була приборкана, влада уряду піднімається до того рівня, на якому вона повинна бути,
+ ми зробили великий крок до економічної стабільності. В японській економіці встановився новий порядок, який ставить зростання і
+ стабільність понад усе, відкидаючи необачні вимоги військових, скиглення мінливих партійних політиків і корумпованість корпоративних керівників,
+ що забезпечить нам краще майбутнє.
+ \n\nЦе може бути великим кроком, але це лише один крок на шляху до справжнього корпоративізму - досконалої згоди між всіма суб'єктами економіки,
+ які працюють разом заради спільного блага. Суспільство та економіка як надійна і добре змащена машина - це мрія технократів, це, наша мрія."
  
- JAP_the_new_old_bureaucrats:0 "The New Old Bureaucrats"
- JAP_the_new_old_bureaucrats_desc:0 "Regardless of the path our government has negotiated in recent times, we have arrived at this point having largely stabilized the ailing economy. Careless corporate despots have been constrained; rural crop-farmers have received adequate subsidiaries; even the conservatives have been largely appeased. Our actions and initiatives have been ambitious, but not without successes once thought as unattainable.\n\nHowever, despite these administrative victories, we have certainly felt the costs upon our government rise. Difficult decisions and policy adjustment has made us enemies in the Diet; the Liberal faction specifically has platformed enough speakers to decry us as autocrats. We must curb their offensive into our faction, and blunt their corrosive postulation before their bravery strikes accord with disaffected constituents."
+ JAP_the_new_old_bureaucrats:0 "Нові-старі бюрократи"
+ JAP_the_new_old_bureaucrats_desc:0 "Незалежно від того, яким шляхом йшов наш уряд останнім часов, ми дійшли до цього моменту, 
+ значною мірою стабілізувавши хвору економіку. Недбалі корпоративні деспоти були обмежені; сільгоспвиробники отримали дочірні підприємства; 
+ навіть консерватори були більш-менш заспокоєні. Наші дії та ініціативи були амбітними, але не без успіхів, які колись вважалися недосяжними.
+ \n\nОднак, незважаючи на ці адміністративні перемоги, на політичному фронті ситуація залишається складною. Складні рішення і зміни в політиці
+ зробили з нас ворогів у парламенті; ліберали отримали достатньо підтримки, щоб оголосити нас автократами. Ми зобов'язані зупинити їх наступ на
+ нас, до того як їхні шкідливі ідеї позіхатимуть на наш електорат."
  
  JAP_a_cautious_path_for_the_future:0 "A Cautious Path for the Future"
- JAP_a_cautious_path_for_the_future_desc:0 "The very foundation of the Japanese economy has reached a stable position; the worst excesses of our debt spirals, as well as the worsening unemployment statistics, have been blunted and we can finally begin to surgically diagnose and treat inefficiencies and recession where they lay. Some may call this success, but others recognize that we are entering a new world of struggle and trial.\n\nThe Conservatives and the Home Ministry, alongside Kishi's faction of hardliners, are displeased with our lack of initiative in seizing a greater role for the state in the economic troubles of the Empire. It seems that they circle our every decision like hyenas, awaiting their moment to capitalize on anything they see as a government failure. One thing is for sure, however - entering the newest stage of economic recovery, we must be cautious in executing our government's plans."
+ JAP_a_cautious_path_for_the_future_desc:0 "The very foundation of the Japanese economy has reached a stable position; the worst excesses of 
+ our debt spirals, as well as the worsening unemployment statistics, have been blunted and we can finally begin to surgically diagnose and treat 
+ inefficiencies and recession where they lay. Some may call this success, but others recognize that we are entering a new world of struggle and 
+ trial.\n\nThe Conservatives and the Home Ministry, alongside Kishi's faction of hardliners, are displeased with our lack of initiative in seizing 
+ a greater role for the state in the economic troubles of the Empire. It seems that they circle our every decision like hyenas, awaiting their
+ moment to capitalize on anything they see as a government failure. One thing is for sure, however - entering the newest stage of economic recovery, 
+ we must be cautious in executing our government's plans."
 
  JAP_the_militaries_friendly_rivalry:0 "The Military's Friendly Rivalry"
  JAP_the_militaries_friendly_rivalry_desc:0 "Two of the primary organs of maintaining the Emperor's peace have been his bold standing army and his expeditious, mighty navy. For almost a century, the two wings of the Japanese military have defended our shores, brought peace to our and our neighbor's lands, and subdued the enemies of the people's freedom so that harmony in the East may flourish.\n\nHowever, after beating the Americans and Chinese in the Greater East Asia War, the rivalry between the Imperial Japanese Army and Navy has, although far from diminishing itself, continued unabated. In recent years, many have even gone so far to determine the clash of interests to potentially undermine the stability of the Kokutai. Our government believes that something must be done before the situation spirals, and that investigations are to begin immediately."
