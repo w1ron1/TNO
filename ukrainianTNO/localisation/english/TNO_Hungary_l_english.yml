@@ -2,89 +2,89 @@
 
  ### Country Name ###
 
- HUN: "Kingdom of Hungary"
- HUN_DEF: "the Kingdom of Hungary"
- HUN_ADJ: "Hungarian"
+ HUN: "Королівство Угорщина"
+ HUN_DEF: "Королівство Угорщина"
+ HUN_ADJ: "Угорськ"
 
  ## Cosmetic Tags ##
 
- HUN_republic: "Hungarian Republic"
- HUN_republic_DEF: "the Hungarian Republic"
+ HUN_republic: "Угорська республіка"
+ HUN_republic_DEF: "Угорська республіка"
 
- HUN_arrow_cross: "Hungarian Workers' State"
- HUN_arrow_cross_DEF: "the Hungarian Workers' State"
+ HUN_arrow_cross: "Угорська робітнича держава"
+ HUN_arrow_cross_DEF: "Угорська робітнича держава"
 
- HUN_wirbelwind: "Hungarian State"
- HUN_wirbelwind_DEF: "the Hungarian State"
+ HUN_wirbelwind: "Угорська держава"
+ HUN_wirbelwind_DEF: "Угорська держава"
 
  ### Parties ###
 
- HUN_communist_party: "MKP"
- HUN_communist_party_long: "Magyar Kommunista Párt" # Hungarian Communist Party
- HUN_socialist_party: "NPP"
- HUN_socialist_party_long: "Nemzeti Parasztpárt" # National Peasant Party
- HUN_progressivism_party: "SZDP"
- HUN_progressivism_party_long: "Szociáldemokrata Párt" # Social Democratic Party
- HUN_liberalism_party: "PSZ"
- HUN_liberalism_party_long: "Polgári Szabadságpárt" # Civic Freedom Party
- HUN_liberal_conservatism_party: "PSZ-K"
- HUN_liberal_conservatism_party_long: "Polgári Szabadságpárt - Kereszténydemokraták" # Civic Freedom Party - Christian Democrats
- HUN_conservatism_party: "FKgP"
- HUN_conservatism_party_long: "Független Kisgazdapárt" # Independent Smallholders, Agrarian Workers, and Civic Party
- HUN_paternalism_party: "MFP"
- HUN_paternalism_party_long: "Magyar Függetlenségi Párt" # Hungarian Independence Party
- HUN_despotism_party: "MEP"
- HUN_despotism_party_long: "Magyar Élet Pártja" # Party of Hungarian Life
- HUN_fascism_party: "MEP-MMP"
- HUN_fascism_party_long: "Magyar Élet Pártja - Magyar Megújulás Pártja" # Party of Hungarian Life - Party of Hungarian Renewal (Coalition)
- HUN_national_socialism_party: "MMP"
- HUN_national_socialism_party_long: "Magyar Megújulás Pártja" # Party of Hungarian Renewal
- HUN_national_socialism_1_party: "NYKP"
- HUN_national_socialism_1_party_long: "Nyilaskeresztes Párt" # Arrow Cross Party
+ HUN_communist_party: "УКП"
+ HUN_communist_party_long: "Угорська комуністична партія" # Угорська комуністична партія
+ HUN_socialist_party: "НСП"
+ HUN_socialist_party_long: "Національна селянська партія" # Національна селянська партія
+ HUN_progressivism_party: "СДП"
+ HUN_progressivism_party_long: "Соціал-демократична партія" # Соціал-демократична партія
+ HUN_liberalism_party: "ПГС"
+ HUN_liberalism_party_long: "Партія громадянської свободи" # Партія громадянської свободи
+ HUN_liberal_conservatism_party: "ПГС-ХД"
+ HUN_liberal_conservatism_party_long: "Партія громадянської свободи - Християнські демократи" # Партія громадянської свободи - Християнські демократи
+ HUN_conservatism_party: "НПДГ"
+ HUN_conservatism_party_long: "Незалежна партія дрібних господарів" # Незалежна партія дрібних господарів, аграрних робітників та громадян
+ HUN_paternalism_party: "УПН"
+ HUN_paternalism_party_long: "Угорська партія незалежності" # Угорська партія незалежності
+ HUN_despotism_party: "УПЖ"
+ HUN_despotism_party_long: "Угорська партія життя" # Партія угорського життя
+ HUN_fascism_party: "УПЖ-УПО"
+ HUN_fascism_party_long: "Угорська партія життя - Угорська партія оновлення" # Партія угорського життя - Партія угорського відродження (коаліція)
+ HUN_national_socialism_party: "УПО"
+ HUN_national_socialism_party_long: "Угорська партія оновлення" # Угорська партія оновлення
+ HUN_national_socialism_1_party: "ПС"
+ HUN_national_socialism_1_party_long: "Партія «Стрілохрест»" # Партія «Стрілохрест»
 
- HUN_fascism_merger_party: "MEP - Szeged Fascists"
- HUN_fascism_merger_party_long: "Magyar Élet Pártja" # Party of Hungarian Life - Szeged Fascists
- HUN_national_socialism_merger_party: "MEP"
- HUN_national_socialism_merger_party_long: "Magyar Élet Pártja" # Party of Hungarian Life
+ HUN_fascism_merger_party: "УПЖ - сеґедські фашисти"
+ HUN_fascism_merger_party_long: "Угорська партія життя" # Угорська партія життя  - сеґедські фашисти
+ HUN_national_socialism_merger_party: "УПЖ"
+ HUN_national_socialism_merger_party_long: "Угорська партія життя" # Партія угорського життя
 
- HUN_national_socialism_german_imredy_party: "MEP-MNSP"
- HUN_national_socialism_german_imredy_party_long: "Magyar Élet Pártja - Magyar Nemzeti Szocialista Párt" # Party of Hungarian Life - Hungarian National Socialist Party (Coalition)
+ HUN_national_socialism_german_imredy_party: "УПЖ-УНСП"
+ HUN_national_socialism_german_imredy_party_long: "Партія угорського життя - Угорська націонал-соціалістична партія»
 
- HUN_despotism_horthy_party: "Horthy Government"
- HUN_despotism_horthy_party_long: "Horthy Government"
+ HUN_despotism_horthy_party: "Уряд Горті"
+ HUN_despotism_horthy_party_long: "Уряд Горті"
 
- HUN_paternalism_big_coalition_party: "MEP-MFP-FKgP-PSZ-SZDP"
- HUN_paternalism_big_coalition_party_long: "MEP-MFP-FKgP-PSZ-SZDP" # Big coalition of 5 parties, not putting a long name
+ HUN_paternalism_big_coalition_party: "УПЖ-УПН-НПДГ-ПГС-СДП"
+ HUN_paternalism_big_coalition_party_long: "УПЖ-УПН-НПДГ-ПГС-СДП" # Велика коаліція з 5 партій, яка не має довгої назви
 
- HUN_conservatism_small_coalition_party: "MEP-MFP-FKgP-PSZ"
- HUN_conservatism_small_coalition_party_long: "MEP-MFP-FKgP-PSZ"
- HUN_liberalism_small_coalition_party: "MEP-MFP-FKgP-PSZ"
- HUN_liberalism_small_coalition_party_long: "MEP-MFP-FKgP-PSZ"
+ HUN_conservatism_small_coalition_party: "УПЖ-УПН-НПДГ-ПГС"
+ HUN_conservatism_small_coalition_party_long: "УПЖ-УПН-НПДГ-ПГС"
+ HUN_liberalism_small_coalition_party: "УПЖ-УПН-НПДГ-ПГС"
+ HUN_liberalism_small_coalition_party_long: "УПЖ-УПН-НПДГ-ПГС"
 
  ### Characters ###
 
  ## Leaders ##
 
- HUN_Istvan_Horthy: "István Horthy"
- HUN_Janos_Kadar: "János Kádár"
- HUN_Peter_Veres: "Péter Veres"
- HUN_Anna_Kethly: "Anna Kethly"
- HUN_Geza_Teleki: "Géza Teleki"
- HUN_Margit_Slachta: "Margit Slachta"
- HUN_Ferenc_Nagy: "Ferenc Nagy"
- HUN_Zoltan_Pfeiffer: "Zoltán Pfeiffer"
- HUN_Miklos_Bonczos: "Miklós Bonczos"
- HUN_Bela_Imredy: "Béla Imrédy"
- HUN_Andor_Jaross: "Andor Jaross"
- HUN_Ferenc_Szalasi: "Ferenc Szálasi"
- HUN_Laszlo_Bardossy: "László Bárdossy"
- HUN_Fidel_Paffly: "Fidél Pálffy"
- HUN_Jozsef_Mindszenty: "József Mindszenty"
- HUN_Jeno_Ghyczy: "Jenő Ghyczy"
+ HUN_Istvan_Horthy: "Іштван Горті"
+ HUN_Janos_Kadar: "Янош Кадар"
+ HUN_Peter_Veres: "Петер Вереш"
+ HUN_Anna_Kethly: "Анна Кетлі"
+ HUN_Geza_Teleki: "Ґеза Телекі"
+ HUN_Margit_Slachta: "Маргіт Шлахта"
+ HUN_Ferenc_Nagy: "Ференц Надь"
+ HUN_Zoltan_Pfeiffer: "Золтан Пфайффер"
+ HUN_Miklos_Bonczos: "Міклош Бончос"
+ HUN_Bela_Imredy: "Бела Імреді"
+ HUN_Andor_Jaross: "Андор Ярош"
+ HUN_Ferenc_Szalasi: "Ференц Салаші"
+ HUN_Laszlo_Bardossy: "Ласло Бардошші"
+ HUN_Fidel_Paffly: "Фідель Палфі"
+ HUN_Jozsef_Mindszenty: "Йожеф Міндсенті"
+ HUN_Jeno_Ghyczy: "Єне Гіці"
 
  ## Leader Descs ##
 
- POLITICS_ISTVAN_HORTHY_DESC: "Miklós Horthy was once considered a great man, but his son can not even claim this. He is only a hated puppet who is seen as too socialist by fascists, too fascist by liberals, and too liberal by the aristocrats. He is trapped and alone, consumed by shame and regret.\n\nIstván Horthy was once just a simple engineer, toiling away for the good of his nation. When he once had conviction, he fought for his beloved country and publicly criticized the Nazi regime, expressing his sickness at the treatment of the Jewish people. Once he was made co-regent, all this began to slip away. The popularity he first won as the "small regent" slipped away once pro-German fascists began to occupy political institutions, leaving both regents weak and undermined.\n\nBy the time his dear father passed and he alone took the mantle of regent, the damage inflicted upon Hungary had been far too severe; he could only mourn for the nation. His government is controlled by his nominal junior, Prime Minister Bela Imredy, who has packed it with his German-aligned cronies. Now, István can only watch in horror and wait for his moment to save Hungary, a Herculean task, but he will die trying to accomplish it."
+ POLITICS_ISTVAN_HORTHY_DESC: "Міклоша Горті колись вважали великою людиною, але його син навіть на це не може претендувати. Він лише маріонетка, яку ненавидять усі: фашисти вважають його занадто соціалістичним, ліберали - занадто фашистським, а аристократи - занадто ліберальним. Він у пастці й на самоті, його поглинають сором і жаль.\n\nІштван Горті колись був простим інженером, який працював на благо свого народу. У ті часи, коли він мав якісь свої переконання, він боровся за свою кохану країну і публічно критикував нацистський режим, висловлюючи свою огиду відносно їхнього ставлення до єврейського народу. Щойно його призначили співрегентом, все це почало вислизати з його рук. Популярність, яку він спочатку здобув як «малий регент», була втрачена, коли пронімецькі фашисти почали захоплювати політичні інституції, підірвавши вплив обох регентів і зробивши їх слабкими.\n\nНа момент, коли його дорогий батько помер і він сам вдягнув мантію регента, шкода, завдана Угорщині, була занадто серйозною - він міг тільки оплакувати свою державу. Його уряд контролює номінально підлеглий Горті прем'єр-міністр Бела Імреді, який наповнив його своїми близькими друзями, що підтримують Німеччину. Тепер Іштвану залишається лише з жахом спостерігати і чекати того часу, коли він врятує Угорщину - завдання, звісно, непідйомне, але він готовий загинути, намагаючись його виконати."
  POLITICS_BELA_IMREDY_DESC: ""
  POLITICS_LASZLO_BARDOSSY_DESC: ""
  POLITICS_ANDOR_JAROSS_DESC: ""
@@ -98,108 +98,108 @@
  POLITICS_ANNA_KETHLY_DESC: ""
 
  ## Ministers ##
- HUN_Bela_Imredy_hog_desc: "§YPrime Minister\nFascism§!"
+ HUN_Bela_Imredy_hog_desc: "§YПрем'єр-міністр\nФашизм§!"
 
- HUN_Andor_Jaross_for_desc: "§YMinister of Foreign Affairs\nNational Socialism§!"
+ HUN_Andor_Jaross_for_desc: "§YМіністр закордонних справ\nНаціонал-соціалізм§!"
 
- HUN_Lajos_Remenyi_Schneller: "Lajos Reményi-Schneller"
- HUN_Lajos_Remenyi_Schneller_eco_desc: "§YMinister of Finance\nFascism§!"
+ HUN_Lajos_Remenyi_Schneller: "Лайош Ременій-Шнеллер"
+ HUN_Lajos_Remenyi_Schneller_eco_desc: "§YМіністр фінансів\nФашизм§!"
 
- HUN_Vilmos_Nagy: "Vilmos Nagy"
- HUN_Vilmos_Nagy_sec_desc: "§YMinister of Defense\nAristocratic Conservatism§!"
+ HUN_Vilmos_Nagy: "Вілмош Надь"
+ HUN_Vilmos_Nagy_sec_desc: "§YМіністр оборони\nАристократичний консерватизм§!"
 
  ## Generals ##
 
  ### Ideas ###
 
- HUN_Broken_Yoke: "The Broken Yoke of Trianon"
- HUN_Broken_Yoke_desc: "When the Treaty of Trianon emerged from the bowels of hell itself, it broke a nation. Hungary was torn asunder; her people scattered, her lands ravaged, and her dignity snuffed out.\n\nWe can only be thankful to the Admiral Regent for banishing that infernal document to the annals of history where it belongs - thanks to István Horthy's mixture of supreme political acumen and military skill, Hungary is once again whole. While her borders today may not look exactly as they did two centuries ago, the spirit of the Hungarian people remains exactly the same. After such a long period of decline, we are finally back."
+ HUN_Broken_Yoke: "Розбите ярмо Тріанона"
+ HUN_Broken_Yoke_desc: "Коли Тріанонський договір було підписано, певне, в надрах самого пекла, він зламав державу. Угорщина була розірвана на шматки, її народ розсіяний, її землі спустошені, а її гідність принижена.\n\nМи можемо лише подякувати адміралу-регенту за те, що він відправив цей пекельний документ до анналів історії, де йому і належить бути - завдяки поєднанню найвищої політичної проникливості та військової майстерності Іштвана Горті Угорщина знову є цілісною. Хоча кордони сьогодні можуть виглядати не зовсім так, як два століття тому, дух угорського народу залишається незмінним. Після такого тривалого періоду занепаду ми нарешті повернулися."
 
- HUN_Transylvanian_Issue: "The Legacy of Vienna"
- HUN_Transylvanian_Issue_desc: "The Second Vienna Awards were a great boon to our country. The division and return of Transylvania to Hungarian hands was a long time coming even before the Germans decided to take the initiative and make it happen. However, as happy as we are to lay claim to our rightful lands, it has not come without cost, for Transylvania is proving a problematic region to govern.\n\nRumania insists upon funding pro-independence terrorist groups in some vain attempt to regain the land they gave up, whilst the vocal German minority is waited upon hand and foot by the Reich, who intervene in our affairs whenever they see fit. These clashing interests foster a tense atmosphere within the region, ensuring that our security services are almost always occupied."
+ HUN_Transylvanian_Issue: "Спадщина Відня"
+ HUN_Transylvanian_Issue_desc: "Другий Віденський арбітраж був великим благом для нашої країни. Поділ і повернення Трансільванії під владу Угорщини назрівав давно, ще до того, як німці вирішили взяти ініціативу в свої руки і здійснити це. Однак, як би ми не були щасливі заявити про свої законні землі, це повернення мало свою ціну, оскільки Трансільванія виявилася проблемним для управління регіоном.\n\nРумунія наполегливо фінансує терористичні групи, що виступають за незалежність, в марних спробах повернути землі, від яких вона відмовилася, в той час як активна німецька меншина знаходиться під опікою Райху, який втручається в наші справи, коли вважає за потрібне. Ці сутички інтересів створюють напружену атмосферу в регіоні, що призводить до того, що наші служби безпеки майже завжди мають роботу."
 
- HUN_Social_Upheaval: "Social Upheaval"
- HUN_Social_Upheaval_desc: "Hungary may have been one of the victors of the war, but that does not guarantee peace or stability. It is a kingdom with no king - little more than a semi-fascist dictatorship kept in power by German backing.\n\nThis is in no way the ideal way for the country to be run, and as a new generation of Hungarians have grown up under this regime, they are clamoring to change this. However, their efforts are hampered by limited suffrage and a government unwilling to listen. As many begin to call for democracy, socialism, liberalism, and everything in between, the government will need to find a way to suppress these idealists if they wish to continue their rule."
+ HUN_Social_Upheaval: "Соціальні потрясіння"
+ HUN_Social_Upheaval_desc: "Те, що Угорщина є однією з країн-переможниць у війні, зовсім не гарантує миру чи стабільності. Угорщина - королівство без короля - є нічим більшим, ніж напівфашистською диктатурою, що тримається на німецькій підтримці.\n\nЦе аж ніяк не ідеальний спосіб управління країною, і, оскільки при цьому режимі виросло нове покоління угорців, саме це нове покоління хотіло б його змінити. Однак їхнім зусиллям перешкоджає обмежене виборче право й уряд, що не бажає їх слухати. Чимало людей починає закликати до демократії, соціалізму, лібералізму і всього, що знаходиться між ними, тож уряду доведеться знайти спосіб придушити цих ідеалістів, якщо він хоче продовжити своє правління."
 
- HUN_German_Fist: "A Faustian Bargain"
- HUN_German_Fist_desc: "When one makes a deal with the devil, it often comes back to bite. This exact scenario happened in Hungary following Imrédy's reforms, as German corporations quickly leapt in to monopolize Hungarian industries - using the workforce, resources, and land of the nation to their own benefit.\n\nWhilst this may have been a beneficial relationship in the 1950s when great economic boons came from it, the relationship turned sour following the stagnation of the German economy. With the Reich's economic situation remaining tenuous and their dominance over Hungary not seeming to wane in the least, it seems the time has come for Hungary to reap what she has sown."
+ HUN_German_Fist: "Фаустівська угода"
+ HUN_German_Fist_desc: "Коли хтось укладає угоду з дияволом, вона часто вилазить їм боком. Саме такий сценарій стався в Угорщині після реформ Імреді, коли німецькі корпорації швидко монополізували угорську промисловість, використовуючи робочу силу, ресурси і землю країни для власної вигоди.\n\nХоча ці відносини могли бути вигідними в 1950-х роках, коли вони приносили великі економічні вигоди, всіляка користь випарувалася після початку стагнації німецької економіки. Оскільки економічне становище Райху залишається нестабільним, а його домінування над Угорщиною, схоже, нікуди не щезає, здається, настав час Угорщині пожинати плоди того, що вона посіяла."
 
  ### Events ###
 
  ## Skeleton Events ##
 
- HUN_skeleton.1.t: "Horthy pushes for Eletoral Reform"
+ HUN_skeleton.1.t: "Горті наполягає на виборчій реформі"
  HUN_skeleton.1.desc: ""
- HUN_skeleton.1.a: "Imrédy says no, how 'bout we merge the MMP into the MEP instead"
- HUN_skeleton.1.b: "It passed, now get the fuck out here Imrédy"
+ HUN_skeleton.1.a: "Імреді каже «ні», як щодо того, щоб замість цього об'єднати УПЖ і УПО?"
+ HUN_skeleton.1.b: "Зроблено, а тепер іДі нахуй, Імреді."
 
- HUN_skeleton.100.t: "Horthy Goes to the Military"
+ HUN_skeleton.100.t: "Горті йде до війська"
  HUN_skeleton.100.desc: ""
- HUN_skeleton.100.a: "Imrédy goes it alone in purging the military"
- HUN_skeleton.100.b: "Imrédy goes crying to the Germans for help"
- HUN_skeleton.100.c: "LFG, military's all in on Horthy, what's the worst that could happen"
+ HUN_skeleton.100.a: "Імреді самотужки проводить чистки армії"
+ HUN_skeleton.100.b: "Імреді плачеться німцям і просить про допомогу"
+ HUN_skeleton.100.c: "гойда, все військо за Горті, що поганого може статися"
 
- HUN_skeleton.101.t: "Imrédy and Horthy conflict comes to a head"
+ HUN_skeleton.101.t: "Конфлікт між Імреді та Горті досягає апогею"
  HUN_skeleton.101.desc: ""
- HUN_skeleton.101.a: "Imrédy secures power, Horthy is removed"
- HUN_skeleton.101.b: "Horthy's last hooray, dissolve parliament"
+ HUN_skeleton.101.a: "Імреді отримує владу, Горті усунено"
+ HUN_skeleton.101.b: "Останнє слово за Горті, парламент розпущено"
 
- HUN_skeleton.102.t: "Imrédy fucking dies"
+ HUN_skeleton.102.t: "Імреді здихає нахуй."
  HUN_skeleton.102.desc: ""
- HUN_skeleton.102.a: "Bárdossy"
- HUN_skeleton.102.b: "Jaross"
+ HUN_skeleton.102.a: "Бардошші"
+ HUN_skeleton.102.b: "Ярош"
 
- HUN_skeleton.200.t: "Our new PM died, and Imrédy is up to some shit"
+ HUN_skeleton.200.t: "Наш новий прем'єр-міністр помер, а Імреді затіяв якусь хрінь"
  HUN_skeleton.200.desc: ""
- HUN_skeleton.200.a: "Dissidents, Germans, the military hate Horthy"
- HUN_skeleton.200.b: "Horthy keeps the MEP together"
+ HUN_skeleton.200.a: "Дисиденти, німці, військові ненавидять Горті"
+ HUN_skeleton.200.b: "Горті втримує все докупи"
 
- HUN_skeleton.201.t: "Tensions rising as elections approach"
+ HUN_skeleton.201.t: "Напруженість зростає з наближенням виборів"
  HUN_skeleton.201.desc: ""
- HUN_skeleton.201.a: "Situation is controlled, election continue as normal"
- HUN_skeleton.201.b: "Horthy invites a general to bring calm for the election :clueless:"
+ HUN_skeleton.201.a: "Ситуація контрольована, вибори проходять у штатному режимі"
+ HUN_skeleton.201.b: "Горті запрошує генерала для забезпечення спокою на виборах :clueless:"
 
- HUN_skeleton.202.t: "1967 Elections"
+ HUN_skeleton.202.t: "Вибори 1967-го"
  HUN_skeleton.202.desc: ""
- HUN_skeleton.202.a: "DPD Supercoalition wins"
- HUN_skeleton.202.b: "Conservative Coalition wins"
- HUN_skeleton.202.c: "Liberal Coalition wins"
+ HUN_skeleton.202.a: "Суперкоаліція DPD перемагає"
+ HUN_skeleton.202.b: "Консервативна коаліція перемагає"
+ HUN_skeleton.202.c: "Ліберальна коаліція перемагає"
 
- HUN_skeleton.203.t: "THE ARROW CROSS HAVE STORMED THE CAPITOL"
+ HUN_skeleton.203.t: "СТРІЛОХРЕСТ ШТУРМУЄ СТОЛИЦЮ"
  HUN_skeleton.203.desc: ""
- HUN_skeleton.203.a: "Military steps ends this farce"
- HUN_skeleton.203.b: "Military shrugs, this democracy thing doesn't look too good"
+ HUN_skeleton.203.a: "Кроки війська припинять цей фарс"
+ HUN_skeleton.203.b: "Військові розводять руками, ця ваша хуйня, що зветься дємократієй виглядає не надто добре"
 
  ## World Events ##
 
- HUN_WORLD.1.t: "[Get_newspaper_header]Horthyist Gambit Fails; Imrédy Assumes Absolute Power"
- HUN_WORLD.1.desc: "The reign of the Horthy family over Hungary has come to an ignominious end. Prime Minister Béla Imrédy took to state television and radio to announce that the regent, Isvtán Horthy, had attempted to oust him from his position with the help of "a rogue band of misfit officers and other opportunists." The regent himself has gone missing, said to be imprisoned in his palace. A few corpses litter the grounds of the Prime Minister's residence, spirited away just after a few photos by the press.\n\nTo fill the valuable and constitutionally mandated position of Regent, Béla Imrédy will take the unprecedented step of assuming the position, effectively fusing it with the office of Prime Minister. Gathering around him various advocates of further collaboration with Germany, rightists, and general critics of Horthy's regime, Imrédy has promised a stable administration that will continue to collaborate with Germany, while also immediately announcing a new round of press censorship.\n"
- HUN_WORLD.1.a: "Another nation grows a little less free."
+ HUN_WORLD.1.t: "[Get_newspaper_header]Гамбіт гортистів провалився; Імреді отримує абсолютну владу"
+ HUN_WORLD.1.desc: "Правління родини Горті в Угорщині безславно закінчилося. Прем'єр-міністр Бела Імреді виступив на державному телебаченні і радіо, оголосивши, що регент Іштван Горті намагався скинути його з посади за допомогою «банди негідників-офіцерів та інших опортуністів». Сам регент зник безвісти, кажуть, що його ув'язнили у власному палаці. На території резиденції прем'єр-міністра лежали кілька трупів, які зникли одразу після кількох фотографій, зроблених пресою.\n\nЩоб заповнити цінну і передбачену конституцією посаду регента, Бела Імреді зробить безпрецедентний крок і обійме й цю посаду також, фактично об'єднавши її з посадою прем'єр-міністра. Зібравши навколо себе різних прихильників подальшої співпраці з Німеччиною, правих та загальних критиків режиму Горті, Імреді пообіцяв стабільну адміністрацію, яка продовжуватиме співпрацю з Німеччиною, водночас негайно оголосивши про нову хвилю цензури преси.\n"
+ HUN_WORLD.1.a: "Іще одна держава стає трохи менш вільною."
 
- HUN_WORLD.2.t: "[Get_newspaper_header]Regent Imrédy Dies; Bárdossy Seizes Power"
- HUN_WORLD.2.desc: "Reports from Budapest have confirmed what days of radio silence have suggested to the international community. Hungarian Regent Béla Imrédy has passed away from old age. A longtime power player in Hungary's politics, crowds took to the streets to mourn for him, though critics have suggested coercion was involved.\n\nIn the immediate aftermath, former Prime Minister László Bárdossy, seized control. A surprisingly popular fascist, Bárdossy now rules as regent with a coalition of aristocrats and other moderate fascists in a step back from Imrédy's excess.\n\nIn his first speech, Bárdossy promised Hungarians a return to the stability of the Horthy era and vowed to protect Hungarian lands from foreign enemies. Most observers have taken this as a sign that his ascension is a continuity of the status quo.\n"
- HUN_WORLD.2.a: "More of the old."
+ HUN_WORLD.2.t: "[Get_newspaper_header]Регент Імреді помирає; владу захоплює Бардошші"
+ HUN_WORLD.2.desc: "Повідомлення з Будапешта підтвердили те, що міжнародна спільнота очікувала від тієї радіотиші, що існувала останні кілька днів. Від старості помер угорський регент Бела Імреді. Багато років він був впливовим гравцем в угорській політиці, тож натовпи людей вийшли на вулиці, щоб оплакати його, хоча критики припускають, що виною такій масовості був примус.\n\nОдразу після цього колишній прем'єр-міністр Ласло Бардошші захопив владу в свої руки. Бардошші, напрочуд популярний фашист, зараз править як регент разом із коаліцією аристократів та інших поміркованих фашистів, які зробили крок назад від свавілля Імреді.\n\nУ своїй першій промові Бардошші пообіцяв угорцям повернення до стабільності епохи Горті і поклявся захищати угорські землі від зовнішніх ворогів. Більшість спостерігачів сприйняли це як знак того, що його прихід до влади є продовженням статус-кво.\n"
+ HUN_WORLD.2.a: "Знову за старе."
 
- HUN_WORLD.3.t: "[Get_newspaper_header]Regent Imrédy Dies; Jaross Seizes Power"
- HUN_WORLD.3.desc: "Reports from Budapest have confirmed what days of radio silence have suggested to the international community. Hungarian Regent Béla Imrédy has passed away from old age. A longtime power player in Hungary's politics, crowds took to the streets to mourn for him, though critics have suggested coercion was involved.\n\nIn the immediate aftermath, Imrédy's former right-hand man, Andor Jaross, seized control. An ardently pro-German politician, Jaross now rules as regent with a big tent coalition of fascists in a continuance of Imrédy's policies.\n\nWith his first speech offering slavish praise to Germany for their generosity to Hungary, many international observers allege that the Reich may have had an explicit hand in his rise to power. This accusation has quickly gained traction with Jaross' critics.\n"
- HUN_WORLD.3.a: "More of the same."
+ HUN_WORLD.3.t: "[Get_newspaper_header]Регент Імреді помирає; Ярош захоплює владу"
+ HUN_WORLD.3.desc: "Повідомлення з Будапешта підтвердили те, що міжнародна спільнота очікувала від тієї радіотиші, що існувала останні кілька днів. Від старості помер угорський регент Бела Імреді. Багато років він був впливовим гравцем в угорській політиці, тож натовпи людей вийшли на вулиці, щоб оплакати його, хоча критики припускають, що виною такій масовості був примус.\n\nОдразу після цього колишня права рука Імреді, Андор Ярош, захопив владу в свої руки. Ярош, палкий пронімецький політик, тепер править як регент з великою парасольковою коаліцією фашистів, продовжуючи політику Імреді.\n\nПісля його першої промови, що містила рабську похвалу Німеччині за її щедрість до Угорщини, багато міжнародних спостерігачів стверджують, що Райх, можливо, доклав чимало зусиль, аби той прийшов до влади. Це звинувачення швидко набрало обертів серед критиків Яроша.\n"
+ HUN_WORLD.3.a: "Знову за те ж саме."
 
- HUN_WORLD.4.t: "[Get_newspaper_header]Prime Minister Imrédy Fired; Horthy Announces Reform"
- HUN_WORLD.4.desc: "In a shocking upheaval to Budapest's political establishment, perennial Hungarian Prime Minister Béla Imrédy has been fired from their position after an electoral liberalization bill was passed against his wishes. The announcement was made today by István Horthy, a man considered to be a pariah in Hungarian politics. Thrust into the spotlight after the death of his beloved father and co-regent in 1957, Horthy was, until today, widely considered to be a weak puppet of his Prime Minister.\n\nFurthermore, Horthy has announced a reform program for Hungary, a proclamation that has seen his name cheered on by the people who once despised him. This has coincided with his appointment of Lajos Kresztes-Fischer as Prime Minister, a retired yet well-respected general. International observers see these changes as sidelining dominant far-right elements and predict significant changes in future elections.\n"
- HUN_WORLD.4.a: "A decaying country has been given a new breath of life."
+ HUN_WORLD.4.t: "[Get_newspaper_header]Прем'єр-міністра Імреді знято з посади; Горті проголошує реформи"
+ HUN_WORLD.4.desc: "Шокуюче потрясіння для політичного істеблішменту Будапешта: багаторічний прем'єр-міністр Угорщини Бела Імреді був знятий зі своєї посади після того, як всупереч його бажанню був прийнятий законопроект про лібералізацію виборчого законодавства. Про це сьогодні оголосив Іштван Горті, людина, яка вважається ізгоєм, парією угорської політики. Потрапивши в центр уваги після смерті свого улюбленого народом батька і співправителя в 1957 році, Горті до сьогоднішнього дня вважався слабкою маріонеткою свого прем'єр-міністра.\n\nБільше того, Горті оголосив програму реформ для Угорщини, що зробило його ім'я популярним серед людей, які колись його зневажали. Це збіглося з призначенням Лайоша Керестеша-Фішера, генерала у відставці, але дуже шанованого, на посаду прем'єр-міністра. Міжнародні спостерігачі вбачають у цих змінах відсторонення домінуючих ультраправих елементів і прогнозують значні зміни на майбутніх виборах.\n"
+ HUN_WORLD.4.a: "Країна, що занепадає, отримує нове дихання."
 
- HUN_WORLD.5.t: "[Get_newspaper_header]MFP Dominant Coalition Win 1967 Hungarian Election"
- HUN_WORLD.5.desc: "In a historical moment for Hungary, the first free elections have been held after years of fascism. As millions cast their ballots for the first time, the results were waited all with anticipation to see who would lead the nation in this new era.\n\nThe main victor in this election has been the Hungarian Independence Party, finding itself at the head of a coalition of smaller parties. Formed by former FKgP members, the party runs on a national conservative platform.\n\nAs a compromise candidate between the myriad of parties, Jenő Ghyczy has been made Prime Minister. He promised to create an independent and democratic Hungary free from German corporate interests. The results have been welcomed by most, though some voiced disappointment at their reluctance on social reforms and liberalization.\n"
- HUN_WORLD.5.a: "Another small step on the road to a new dawn."
+ HUN_WORLD.5.t: "[Get_newspaper_header]Коаліція, домінована УПН, перемогла на виборах 1967 року в Угорщині"
+ HUN_WORLD.5.desc: "Перші вільні вибори після багатьох років фашизму для Угорщини були просто-таки історичним моментом. Мільйони людей вперше проголосували, і всі з нетерпінням чекали на результати, щоб побачити, хто ж поведе країну в цю нову епоху.\n\nГоловним переможцем на цих виборах стала Угорська партія незалежності, яка очолила коаліцію з менших партій. Сформована колишніми членами НПДГ, партія працює на національно-консервативній платформі.\n\nЯк компромісний кандидат між незліченною кількістю партій, прем'єр-міністром був обраний Єне Гіці. Він пообіцяв створити незалежну і демократичну Угорщину, вільну від німецьких корпоративних інтересів. Результати виборів були схвалені більшістю, хоча дехто висловив розчарування небажанням проводити соціальні реформи і лібералізацію.\n"
+ HUN_WORLD.5.a: "Ще один маленький крок на шляху до нового світанку."
 
- HUN_WORLD.6.t: "[Get_newspaper_header]FKgP-PSZ Dominant Coalition Win 1967 Hungarian Election"
- HUN_WORLD.6.desc: "In a historical moment for Hungary, the first free elections have been held after years of fascism. As millions cast their ballots for the first time, the results were waited all with anticipation to see who would lead the nation in this new era.\n\nAn FKgP-PSZ-led coalition has emerged as the people's choice. The two dominant parties in the bloc are the FKgP, one of the oldest represented parties made up of anti-fascist agrarians, and the PSZ, a centrist and liberal party.\n\nWith FKgP being the larger of the two parties, veteran politician Ferenc Nagy has become Prime Minister. Nagy promises to use his term to revitalize the Hungarian countryside, enact social reforms and liberalization, and weaken aristocratic and German power with protectionist policies in a result that saw many celebrate.\n"
- HUN_WORLD.6.a: "The peasants see their star finally in ascension."
+ HUN_WORLD.6.t: "[Get_newspaper_header]Коаліція, домінована НПДГ-ПГС, перемогла на виборах 1967 року в Угорщині"
+ HUN_WORLD.6.desc: "Перші вільні вибори після багатьох років фашизму для Угорщини були просто-таки історичним моментом. Мільйони людей вперше проголосували, і всі з нетерпінням чекали на результати, щоб побачити, хто ж поведе країну в цю нову епоху.\n\nНародним вибором стала коаліція на чолі з НПДГ-ПГС. Дві домінуючі партії в блоці - НПДГ, одна з найстаріших представлених партій, що складається з аграріїв-антифашистів, і ПГС, центристська і ліберальна партія.\n\nОскільки НПДГ є більшою з двох партій, то прем'єр-міністром став ветеран політики Ференц Надь. Надь обіцяє за свій термін приділити увагу відродженню угорського села, проведенню соціальних реформ і лібералізації, а також послабити аристократичну і німецьку владу за допомогою протекціоністської політики - результат, який багато кому подобається.\n"
+ HUN_WORLD.6.a: "Селяни бачать, що їхня зірка нарешті зійшла."
 
- HUN_WORLD.7.t: "[Get_newspaper_header]PSZ-FKgP Dominant Coalition Win 1967 Hungarian Election"
- HUN_WORLD.7.desc: "In a historical moment for Hungary, the first free elections have been held after years of fascism. As millions cast their ballots for the first time, the results were waited all with anticipation to see who would lead the nation in this new era.\n\nAn PSZ-FKgP-led coalition has emerged as the people's choice. The two dominant parties in the bloc are the PSZ, a centrist and liberal party and the FKgP, one of the oldest represented parties made up of anti-fascist agrarians.\n\nWith PSZ being the larger of the two parties, Géza Teleki, the son of a former Prime Minister, has become Prime Minister himself. Teleki promises vast improvements in social and democratic rights and to open up the country to world trade while combatting German influences within the country in a result that saw many celebrate.\n"
- HUN_WORLD.7.a: "Hungary looks to the free world in hope."
+ HUN_WORLD.7.t: "[Get_newspaper_header]Коаліція, домінована ПГС-НПДГ, перемогла на виборах в Угорщині 1967 року"
+ HUN_WORLD.7.desc: "Перші вільні вибори після багатьох років фашизму для Угорщини були просто-таки історичним моментом. Мільйони людей вперше проголосували, і всі з нетерпінням чекали на результати, щоб побачити, хто ж поведе країну в цю нову епоху.\n\nНародним вибором стала коаліція на чолі з ПГС-НПДГ. Дві домінуючі партії в блоці - ПГС, центристська і ліберальна партія, і НПДГ, одна з найстаріших представлених партій, що складається з аграріїв-антифашистів.\n\nОскільки ПГС  є більшою з двох партій, то прем'єр-міністром став син попереднього прем'єр-міністра, Ґеза Телекі. Телекі обіцяє значно покращити державу в питаннях соціальних і демократичних прав і відкрити країну світовій торгівлі, а також боротися з впливом Німеччини в державі -  результат, який багато кому подобається.\n"
+ HUN_WORLD.7.a: "Угорщина обнадійливо дивиться на вільний світ."
 
- HUN_WORLD.8.t: "[Get_newspaper_header]Massacres in Budapest; Arrow Cross Seizes Power"
- HUN_WORLD.8.desc: "Budapest is in chaos today as members of the National Socialist Arrow Cross have achieved power in a bloody coup. Administrative facilities fly the party's flag, while militants have taken over the parliament building and the regent's residence. Radio stations broadcast old marching songs and an address by the new leader, Ferenc Szálasi.\n\nPromising land and work reform, Szálasi has castigated the deposed government as a tool of global Jewish capital and intent on the destruction of Hungary. Such rhetoric has spurned hundreds of violent incidents against the nation's democratic activists and former government officials. The military, which allowed the coup without opposition, is conspicuously absent from these purges.\n\nEven the Germans seem uneasy at the ascension of this government. The borders are thronged with soldiers, managing both the flow of refugees and monitoring the deteriorating situation.\n"
- HUN_WORLD.8.a: "Hitler's ghost possesses another nation."
+ HUN_WORLD.8.t: "[Get_newspaper_header]Різанина в Будапешті; «Стрілохрест» захоплює владу"
+ HUN_WORLD.8.desc: "Сьогодні Будапешт поглинув хаос: члени націонал-соціалістичної партії «Стрілохрест» захопили владу під час кривавого повстання. На адміністративних будівлях було вивішено прапори партії, в той час як бойові загони захопили будівлю парламенту і резиденцію регента. Радіостанції транслюють старі марші та звернення нового лідера, Ференца Салаші.\n\nПообіцявши земельну і робітничу реформи, Салаші звинуватив скинутий уряд у тому, що вони є «інструментом всесвітнього єврейського капіталу» та в планах «знищення Угорщини». Така риторика викликала сотні кривавих інцидентів проти демократичних активістів і колишніх урядовців країни. Військові, що дозволили повстання відсутністю опору зі свого боку, що помітно, не є жертвами цих чисток.\n\nНавіть німцям, здається, не подобається прихід до влади цього уряду. Кордони держав сповнилися солдатів, що і регулюють потік біженців, і слідкують за ситуацією, що лише погіршується.\n"
+ HUN_WORLD.8.a: "Гітлерів привид зробив одержимою ще одну державу."
