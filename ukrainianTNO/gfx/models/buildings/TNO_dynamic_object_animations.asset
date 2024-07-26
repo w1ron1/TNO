@@ -1,8 +1,0 @@
-animation = {
-	name = "launchpad_idle_animation"
-	file = "rocketpad_idle.anim"
-}
-animation = {
-	name = "launchpad_launch_animation"
-	file = "rocketpad_launch.anim"
-}
