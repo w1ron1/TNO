@@ -835,68 +835,68 @@
  UPH_despotism: "Вільна Філіппінська Республіка"
  UPH_despotism_DEF: "Вільна Філіппінська Республіка"
 
- URG: "Uruguay"
- URG_DEF: "the Oriental Republic of Uruguay"
- URG_ADJ: "Uruguayan"
+ URG: "Уругвай"
+ URG_DEF: "Східна Республіка Уругвай"
+ URG_ADJ: "Уругвайськ"
 
- URL: "Ural League"
- URL_DEF: "the Ural League"
- URL_ADJ: "Uralian"
+ URL: "Уральська ліга"
+ URL_DEF: "Уральська ліга"
+ URL_ADJ: "Уральськ"
 
- URP: "Uruguayan Occupation Zone"
- URP_DEF: "the Uruguayan Occupation Zone in Paraguay"
- URP_ADJ: "Uruguayan"
+ URP: "Уругвайська окупаційна зона"
+ URP_DEF: "Уругвайська окупаційна зона в Парагваї"
+ URP_ADJ: "Уругвайськ"
 
  USA: "Сполучені Штати Америки"
  USA_DEF: "Сполучені Штати Америки"
  USA_ADJ: "Американськ"
 
- USC: "Central African Republic"
- USC_DEF: "the Central African Republic"
- USC_ADJ: "Central African"
+ USC: "Центральноафриканська Республіка"
+ USC_DEF: "Центральноафриканська Республіка"
+ USC_ADJ: "Центральноафриканськ"
 
- UYG: "Uyghuristan"
- UYG_DEF: "Uyghuristan"
- UYG_ADJ: "Uyghuristani"
+ UYG: "Уйгурістан"
+ UYG_DEF: "Уйгурістан"
+ UYG_ADJ: "Уйгурістанськ"
 
  # V
- VAC: "Vatican City"
- VAC_DEF: "Vatican City"
- VAC_ADJ: "Vatican"
+ VAC: "Ватикан"
+ VAC_DEF: "Ватикан"
+ VAC_ADJ: "Ватиканстк"
 
- VEN: "Venezuela"
- VEN_DEF: "the Republic of Venezuela"
- VEN_ADJ: "Venezuelan"
+ VEN: "Венесуела"
+ VEN_DEF: "Республика Венесуэла"
+ VEN_ADJ: Венесуелськ"
 
  VIL: ""
  VIL_DEF: ""
  VIL_ADJ: "Сибірськ"
 
  # W
- WAL: "Wales"
- WAL_DEF: "the Republic of Wales"
- WAL_fascism: "Welsh State"
- WAL_fascism_DEF: "the Welsh State"
- WAL_despotism: "State of Wales"
- WAL_despotism_DEF: "the State of Wales"
- WAL_ADJ: "Welsh"
+ WAL: "Уельс"
+ WAL_DEF: "Республіка Уельс"
+ WAL_fascism: "Держава Уельс"
+ WAL_fascism_DEF: "Держава Уельс"
+ WAL_despotism: "Держава Уельс"
+ WAL_despotism_DEF: "Держава Уельс"
+ WAL_ADJ: "Уельськ"
 
- WIN: "West Indies Federation"
- WIN_DEF: "the West Indies Federation"
- WIN_ADJ: "West Indies"
+ WIN: "Вест-Індська федерація"
+ WIN_DEF: "Вест-Індська федерація"
+ WIN_ADJ: "Вест-Індськ"
 
- WRS: "West Russian Revolutionary Front"
- WRS_DEF: "the West Russian Revolutionary Front"
- WRS_ADJ: "West Russian"
+ WRS: "Західноросійський революційний фронт"
+ WRS_DEF: "Західноросійський революційний фронт"
+ WRS_ADJ: "Західноросійськ"
 
  # X
- XIN: "Xinjiang Border Defense Administration"
- XIN_DEF: "the Xinjiang Border Defense Administration"
- XIN_ADJ: "Xinjiang"
+ XIN: "Синьцзянська прикордонна адміністрація"
+ XIN_DEF: "Синьцзянська прикордонна адміністрація"
+ XIN_ADJ: "Сіньцзян"
 
- XSM: "Ma Clique"
- XSM_DEF: "the Ma Clique"
- XSM_ADJ: "Ma"
+ XSM: "Кліка Ма"
+ XSM_DEF: "Кліка Ма"
+ XSM_ADJ: "Маськ"
 
  # Y
  YAK: "Саха"
@@ -908,9 +908,9 @@
  YAK_ADJ: "Сахськ"
 
  # Z
- ZLT: "Zlatoust Republic"
- ZLT_DEF: "the Zlatoust Republic"
- ZLT_ADJ: "Zlatoust"
+ ZLT: "Республіка Златоуст"
+ ZLT_DEF: "Республіка Златоуст"
+ ZLT_ADJ: "Златоустськ"
 
  ZZZ: ""
  ZZZ_DEF: ""
