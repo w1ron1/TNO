@@ -2,11 +2,11 @@
  #########
  # INDEX #
  #########
- # 0 - COUNTRY NAMES
- # 1 - PARTY NAMES
- # 2 - LEADER NAMES
-   # 2.1 - LEADER BIOS
- # 3 - LEADER TRAITS
+ # 0 - НАЗВА КРАЇНИ
+ # 1 - НАЗВИ ПАРТІЙ
+ # 2 - ІМ'Я ЛІДЕРІВ
+   # 2.1 - DESC ЛІДЕРІВ
+ # 3 - РИСИ ЛІДЕРА
  # 4 - NATIONAL SPIRITS
  # 5 - MINISTERS
    # 5.1 - GENERALS
@@ -57,9 +57,9 @@
 
 
 
- #####################
- # 0 - COUNTRY NAMES #
- #####################
+ ####################
+ # 0 - НАЗВА КРАЇНИ #
+ ####################
  UKR: "Райхскомісаріят Україна"
  UKR_DEF: "Райхскомісаріят Україна"
  UKR_ADJ: "Українськ"
@@ -68,9 +68,9 @@
  UKR_UNR_start_DEF: "Українська Національна Республіка"
  UKR_UNR_start_ADJ: "Українськ"
 
- ###################
- # 1 - PARTY NAMES #
- ###################
+ ####################
+ # 1 - НАЗВИ ПАРТІЙ #
+ ####################
  UKR_communist_party: "КП(Б)У"
  UKR_communist_party_long: "Комуністична Партія (більшовиків) України"
  UKR_socialist_party: "KP(b)U"
@@ -110,7 +110,7 @@
  UKR_ohlendorf_national_socialism_2: "$UKR_national_socialism_2_party$"
 
  ####################
- # 2 - LEADER NAMES #
+ # 2 - ІМ'Я ЛІДЕРІВ #
  ####################
 
  UKR_Erich_Koch: "Еріх Кох"
@@ -128,38 +128,38 @@
  UKR_UNBEKANNT_THREE: "НЕВІДОМИЙ" #for starting piechart
  CRI_Karl_Gunther_von_Hase: "Карл-Гюнтер фон Газе"
 
- #####################
- # 2.1 - LEADER BIOS #
- #####################
- POLITICS_ERICH_KOCH_DESC: "This is what Erich Koch has been left with. This is what he deserves.\n\nAt his peak of authority, Erich Koch was a thug upon a throne, brutal even by the standards of the Third Reich. His colonial policy was an endless cycle of exploitation and repression, designed to beat the Ukrainian people into submission. Under his watch, the Hunger Plan left the native population starving in fields of amber, and his quotas reduced them to slavery. In his mind, he had forged the very picture of lebensraum: a blood diamond in Hitler's crown.\n\nIt could not last, of course. In the wake of the West Russian War, the Reichskommissariat was left with far more problems than Koch could comprehend. Above him, an army of administrators demanded more and more, hoping to prop up the Reich's ailing economy with further blood from its breadbasket. Below him, a crowd of natives screamed, demanding freedom from the abyss he had created. For the first time, Erich Koch was faced with problems which could not be solved with whips and hammers. The Reichskommissar was finally lost.\n\nRather than attempting major changes, the Reichskommissar has let the colony stagnate beneath him, even as terror rises and profits slow. Deep down, Erich Koch may be aware of some solution, but the man lacks the energy to change Ukraine's fate. In the name of profit, the Reichskommissar ground his colony into sand - now, he watches it blow away."
+ ######################
+ # 2.1 - DESC ЛІДЕРІВ #
+ ######################
+ POLITICS_ERICH_KOCH_DESC: "Це те, що залишилося Еріху Коху. Це те, на що він заслуговує.\n\nНа піку своєї влади Еріх Кох був головорізом на троні, жорстоким навіть за мірками Третього Рейху. Його колоніальна політика була нескінченним циклом експлуатації та репресій, покликаних примусити український народ до покори. Під його керівництвом Голодомор залишив корінне населення голодувати на бурштинових копальнях, а квоти звели його до рабства. У своїй уяві він викував саму картину lebensraum: кривавий діамант у короні Гітлера.\n\nЗвісно, це не могло тривати довго. Після закінчення Західно-Російської війни перед Рейхскомісаріатом постало набагато більше проблем, ніж Кох міг собі уявити. Над ним сиділа армія адміністраторів, які вимагали все більше і більше, сподіваючись підтримати хвору економіку Рейху ще більшою кров'ю з його житниці. Під ним кричав натовп тубільців, вимагаючи свободи від прірви, яку він створив. Вперше Еріх Кох зіткнувся з проблемами, які не можна було вирішити за допомогою батогів і молотків. Рейхскомісар остаточно розгубився.\n\nЗамість того, щоб спробувати здійснити серйозні зміни, рейхскомісар дозволив колонії стагнувати під ним, навіть коли терор зростає, а прибутки сповільнюються. У глибині душі Еріх Кох, можливо, і знає якесь рішення, але йому бракує енергії, щоб змінити долю України. Заради прибутку рейхскомісар перетворив свою колонію на пісок - тепер він спостерігає, як її здуває."
 
- POLITICS_VOLODYMYR_KUBIYOVYCH_DESC: "An age of oppression, barbarism, and bloodshed has crushed the will of many men and women to take a stand against foreign imperialism, and even fewer ordinary people would dare openly call for independence. However, Volodymyr Kubiyovych is not most people, as a lifetime as a soldier, a geographer, and a politician has shown. However, the many lifestyles of and bureaucracy surrounding Kubiyovych will not stand in the way of the one, true goal which has always persisted in the mind of the Polish-raised Ukranian, with the image of cheering Ukranians in a free state of their own.\n\nA life of study and teaching would not prepare the intellectual for the Nazi invasion of the Polish land he had lived in for most of his life, spurned by diaspora and, now, another invader of his home. Thus, Kubiyovych delved into the fire of his scorn to establish one of the few social programs on the face of Europe, helping thousands of Ukranian men, women, and children affected by the war. Meanwhile, the former cartographer chose to stand against the infamous Hans Frank in his desired slaughter of Ukranian peasants, allowing just a bit more success for his homeless people. However, as the Nazi victory came, all Kubiyovych could do was encourage the growth of the Galician Waffen-SS to use as a foundation for a pseudo-army to protect against further Nazi persecution.\n\nHowever, in the age of darkness Ukraine has found itself in, a light dawns on the horizon for Kubiyovych and his companions. Men may stand against him, clawing at him to strike down his attempts for independence. But such botherations and sins against the Ukranian people shall not stand against Kubiyovych's work with the Reich. Nothing will."
+ POLITICS_VOLODYMYR_KUBIYOVYCH_DESC: "Епоха гноблення, варварства та кровопролиття зламала волю багатьох чоловіків і жінок виступити проти іноземного імперіалізму, і ще менше простих людей наважилися б відкрито закликати до незалежності. Втім, Володимир Кубійович - не з таких людей, як показало життя військового, географа та політика. Однак численні способи життя та бюрократія, що оточували Кубійовича, не стануть на заваді єдиній, справжній меті, яка завжди жила у свідомості українця, вихованого у Польщі, з образом радісного українця у власній вільній державі.\n\nЖиття, пов'язане з навчанням та викладанням, не підготувало б інтелектуала до нацистського вторгнення на польську землю, на якій він прожив більшу частину свого життя, відкинутий діаспорою, а тепер - ще один загарбник його дому. Таким чином, Кубійович заглибився у вогонь свого презирства, щоб заснувати одну з небагатьох соціальних програм в Європі, яка допомагає тисячам українських чоловіків, жінок і дітей, що постраждали від війни. Тим часом, колишній картограф вирішив протистояти сумнозвісному Гансу Франку в його жаданій бійні з українськими селянами, дозволивши трохи більше успіху для своїх бездомних людей. Однак, коли прийшла перемога нацистів, все, що міг зробити Кубійович - це сприяти зростанню галицького Ваффен-СС, щоб використати його як основу для псевдо-армії для захисту від подальших нацистських переслідувань.\n\nОднак, в епоху темряви, в якій опинилася Україна, для Кубійовича та його товаришів на горизонті з'являється промінь світла. Люди можуть стати проти нього, вчепитися в нього кігтями, щоб знищити його спроби здобути незалежність. Але такі клопоти і гріхи проти українського народу не стануть на заваді співпраці Кубійовича з Райхом. Ніщо не стане."
 
- POLITICS_GEORG_LEIBBRANDT_DESC: "In his years as deputy, Georg Leibbrandt had always dreamed of a moment like this. To see Koch killed by his own hubris, to see every folly of the old regime laid bare, the concept of such a dramatic collapse had come as a spiteful fantasy to the deputy. Yet his dreams always ended with his domain as stable and functional, a product of his scientific reforms. They never ended like this.\n\nShoved into the twisted throne of Erich Koch, Leibbrandt never realized the degree of mismanagement at every level of the Reichskommissariat. Yes, the deputy had seen the Ukrainians as natural allies, but the scale of their insubordination outmatched even his most dire scenarios. Where he imagined himself the sole reformer of Koch's broken system, he now must share power with two fellow "visionaries", who shoot down every one of his proposals. Even now, he hears talks in the halls of the hopped-up deputy who will be swept away as soon as the war is over. Insubordination, it seems, has outlasted even the Reichskommissariat itself.\n\nThere is no time for reform. There is no place for change. As Leibbrandt looks around his dying colony, he can only think one thought, twenty-three years. More than two decades of badly formulated plans, ill-conceived rhetoric, and petty infighting have left Ukraine in this moment. Woe to the man who is left to pick up the pieces."
+ POLITICS_GEORG_LEIBBRANDT_DESC: «У роки свого депутатства Георг Лейббрандт завжди мріяв про такий момент. Побачити Коха вбитим власною пихою, побачити кожну дурість старого режиму оголеною - концепція такого драматичного краху була для депутата злісною фантазією. Проте його мрії завжди закінчувалися тим, що його область стабільна і функціональна, продукт його наукових реформ. Вони ніколи так не закінчувалися.\n\nЗасунутий на покручений трон Еріха Коха, Лейббрандт ніколи не усвідомлював ступінь безгосподарності на всіх рівнях рейхскомісаріату. Так, депутат бачив в українцях природних союзників, але масштаби їхньої непокори перевершили навіть його найжахливіші сценарії. Там, де він уявляв себе єдиним реформатором зруйнованої системи Коха, тепер він змушений ділити владу з двома колегами-«візіонерами», які розстрілюють кожну його пропозицію. Навіть зараз він чує розмови в кулуарах про депутатів, які підскочили, і яких зметуть, щойно закінчиться війна. Непокора, здається, пережила навіть сам Рейхскомісаріат.\n\nНема часу для реформ. Немає місця для змін. Коли Лейббрандт оглядає свою вмираючу колонію, він може думати лише про одне - двадцять три роки. Понад два десятиліття погано сформульованих планів, непродуманої риторики та дрібних чвар залишили Україну в цю мить. Горе тому, хто залишився збирати уламки."
 
- POLITICS_GEORG_LEIBBRANDT_WIN_DESC: "How long did Georg Leibbrandt languish? How long did he let the pages of his plans yellow and crumble, left in their notebooks while Herr Koch was allowed to rampage unchecked? How many loyal Rosenbergites died driftless, believing a better system could never come to pass?\n\nNow unquestioningly in power, Leibbrandt still cannot help but think of these questions. The Reichskommissar has been left with a nation of rubble, but Ukraine should have been a nation of peace and dignity, its noble, simple citizens already uplifted by the gracious German state. Instead, Leibbrandt now must prove his worth to the world, in the midst of the worst of conditions.\n\nAs his plans emerge from dusty binders into allied hands, all can tell just how grand the Reichskommisar's vision is. Leibbrandt wants a transition to an independent Ukrainian state, yet a state perfectly designed at the onset to preserve a slavish German loyalty. To Leibbrandt, it is a victory for rational governance. The Ukrainian people are not so certain.\n\nLeibbrandt has written a script for his nation, one in which he is the hero to a vast and needy people, one in which Ukraine is freed and transformed by his powerful dictums. He has already found his actors, his crew, and his stage. So long as Ukraine can be trusted to follow, Leibbrandt's legacy is already secured."
+ POLITICS_GEORG_LEIBBRANDT_WIN_DESC: "Як довго томився Георг Лейббрандт? Як довго він дозволяв жовтіти і розсипатися сторінкам своїх планів, залишених у блокнотах, поки герру Коху дозволяли безконтрольно розгулювати? Скільки вірних розенбергівців загинуло в безвиході, вірячи, що кращої системи ніколи не буде? \n\nСьогодні, беззаперечно перебуваючи при владі, Лейббрандт все ще не може не думати про ці питання. Рейхскомісар залишив у спадок країну руїн, а Україна мала б бути країною миру та гідності, її шляхетні, прості громадяни вже були піднесені милостивою німецькою державою. Натомість, тепер Лейббрандт повинен довести світові свою цінність у найгірших умовах.\n\nКоли його плани з'являються з запилених папок у руках союзників, всі можуть сказати, наскільки грандіозним є бачення рейхскомісара. Лейббрандт хоче переходу до незалежної української держави, але держави, яка від самого початку була ідеально спроектована для збереження рабської німецької лояльності. Для Лейббрандта це перемога раціонального управління. Український народ не такий впевнений.\n\nЛейббрандт написав сценарій для своєї нації, в якому він є героєм для величезного і нужденного народу, в якому Україна звільняється і трансформується під його владними диктатами. Він вже знайшов своїх акторів, свою знімальну групу і свою сцену. Якщо Україні можна довіряти, то спадщина Лейббрандта вже забезпечена."
 
- POLITICS_HANS_OTTO_BRAUTIGAM_DESC: "While Bräutigam never doubted himself for a second, the rise of such a committed reformist to the position of Reichskommissar astounds even him.\n\nWhen the power of his uncle's pull gifted him a job as Representative of the Foreign Office in Ukraine, Hans-Otto Bräutigam first felt lost in such a foreign land. He could only despair at what seemed like a dead end, but in this eastern colony, he found his calling as ineptitude became abundant. His calls for extreme reforms to the status quo attracted those who looked to his ideals as a cure to the chaos.\n\nA network of contacts, an unwavering belief in reform and luck crafted the magic formula to turn him into the Reichskommissar of Ukraine. Political freedoms and support for the long-suffering natives are in the spotlight as Bräutigam's ideals can come true. But his road is not an easy one. His faction is but a lone lighthouse battered by waves of rigid orthodox attitudes. Even his allies wonder if he is going too far with his proposals.\n\nBut if Bräutigam were to succeed in his reforms, hope may soon rule the day in all of Ukraine once more..."
+ POLITICS_HANS_OTTO_BRAUTIGAM_DESC: "Хоча Браутігам ні на секунду не сумнівався в собі, злет такого відданого реформатора до посади рейхскомісара вразив навіть його самого.\n\nКоли сила впливу його дядька подарувала йому роботу представника Міністерства закордонних справ в Україні, Ганс-Отто Браутігам спершу відчув себе загубленим у такій чужій країні. Він міг лише впасти у відчай від того, що здавалося глухим кутом, але в цій східній колонії він знайшов своє покликання, оскільки бездарність стала повсюдною. Його заклики до радикальних реформ статус-кво приваблювали тих, хто дивився на його ідеали як на ліки від хаосу.\n\nМережа контактів, непохитна віра в реформи і везіння створили магічну формулу, яка перетворила його на рейхскомісара України. Політичні свободи та підтримка багатостраждального корінного населення - в центрі уваги, адже ідеали Браутігама можуть стати реальністю. Але його шлях нелегкий. Його фракція - лише самотній маяк, який б'ється об хвилі жорстких ортодоксальних поглядів. Навіть його союзники задаються питанням, чи не заходить він занадто далеко зі своїми пропозиціями.\n\nАле якщо Браутігаму вдасться здійснити свої реформи, надія може незабаром знову запанувати над усією Україною..."
  
- POLITICS_OTTO_OHLENDORF_DESC: "Otto Ohlendorf is everything that the SS seeks to create in a man. He is independent, a free-thinker in his every manner. He is dutiful, a bureaucrat who chooses to live his life by the mechanical spirit of Bismarck. He is violently willing to enforce Nazism, and is utterly uninterested in the lives and minds of those he deems lesser.\n\nUntil now, the SS have hated him for it. Ohlendorf took the logical extension of Nazi ideals seriously, and viewed the state of the German economy as a tragedy for the Aryan Volk. He wrote down what he saw - a decaying, increasingly unequal society that was failing to use its violent dominance to provide for the everyman. He wrote of a decaying party with an honest pessimism, and the SS saw that opinion as an annoyance. They have punished him ever since.\n\nNow, Ohlendorf has a chance to reverse that slight. Reichskommissar may still not be his ideal role, but if Otto Ohlendorf can economically transform this backwater, he may have a chance of showing Germania just how proper his methods could transform the entire Reich. In his years of study, his years of economic work, his years of violence, he has built a wealth of expertise and connections across every facet of his government. Now the time comes to wield them."
+ POLITICS_OTTO_OHLENDORF_DESC: "Отто Олендорф - це все, що СС прагне створити в людині. Він незалежний, вільнодумець у всіх своїх проявах. Він слухняний, бюрократ, який вирішив прожити своє життя у механічному дусі Бісмарка. Він несамовито прагне впроваджувати нацизм, і його абсолютно не цікавлять життя і думки тих, кого він вважає нижчими.\n\nДо цього часу СС ненавиділи його за це. Олендорф серйозно ставився до логічного продовження нацистських ідеалів і розглядав стан німецької економіки як трагедію для арійського народу. Він записав те, що бачив - занепадаюче, дедалі більш нерівне суспільство, яке не змогло використати своє насильницьке панування для забезпечення пересічного громадянина. Він писав про занепадаючу партію зі щирим песимізмом, і есесівці сприйняли цю думку як роздратування. З тих пір вони його карали.\n\nТепер Олендорф має шанс виправити цю помилку. Рейхскомісар, можливо, все ще не є його ідеальною роллю, але якщо Отто Олендорф зможе економічно трансформувати цю глушину, у нього може з'явитися шанс показати Німеччині, наскільки правильно його методи можуть трансформувати весь Рейх. За роки навчання, роки економічної роботи, роки насильства він здобув багатий досвід і зв'язки в усіх сферах державного управління. Тепер настав час ними скористатися."
 
- POLITICS_PETER_KOZHEVNIKOV_DESC: "Peter Kozhevnikov has been made President of Ukraine, its paramount leader. According to official sources, he has played a vast role in freeing Ukraine. This is not strictly false. The best performances contain a hint of truth, after all.\n\nYet Kozhevnikov hardly liberated his nation on a bayonet's edge. He liberated it with a German stamp of approval, with handshakes and smiles, with Leibbrandt standing beside him. Now, he gets to rant on whatever fascistic subject he likes, while radios blare it across every city in Ukraine.\n\nSuch a story is common in the Ukrainian National Republic. Many Ukrainians have had precipitous rises, their stories blared across every channel as a sign of the times. Freed from bondage, Ukrainians can now enter school, even join upper management. It can feel as if they can do anything.\n\nIn truth, many things still lie behind the curtains, away from Ukrainian hands. The economy still rests with German industrialists, the military with Wehrmacht troops. Even Leibbrandt remains in Kiew, an "advisor" in name only. Yet there is a sense of hope in the air. For the first time in decades, the Ukrainian people see a way out. It may not feel like a true home, but it just might suffice."
+ POLITICS_PETER_KOZHEVNIKOV_DESC: "Петро Кожевников став Президентом України, її верховним лідером. Згідно з офіційними джерелами, він відіграв величезну роль у звільненні України. Це не зовсім неправда. Зрештою, найкращі вистави містять натяк на правду.\n\nАле Кожевніков навряд чи звільнив свій народ на вістрі багнета. Він звільнив його з німецькою печаткою схвалення, з рукостисканнями і посмішками, з Лейббрандтом, який стояв поруч. Тепер він може просторікувати на будь-яку фашистську тему, яка йому до вподоби, а радіостанції транслюють його промови в кожному місті України.\n\nТака історія є поширеною в Українській Народній Республіці. Багато українців пережили стрімкий злет, їхні історії прогриміли по всіх каналах як ознака часу. Звільнені від неволі, українці тепер можуть вступати до школи, навіть приєднатися до вищого керівництва. Може скластися враження, що вони можуть робити все, що завгодно.\n\nНасправді, багато речей все ще залишаються за завісою, подалі від українських рук. Економіка все ще належить німецьким промисловцям, військова сфера - військам Вермахту. Навіть Лейббрандт залишається в Києві, «радником» лише за назвою. І все ж у повітрі витає відчуття надії. Вперше за багато десятиліть український народ бачить вихід. Можливо, він не буде схожий на справжній дім, але він може бути достатнім."
 
  #####################
- # 3 - LEADER TRAITS #
+ # 3 - РИСИ ЛІДЕРА   #
  #####################
- ukraines_gravedigger: "Ukraine's Gravedigger" #Koch
- ukraines_director: "Ukraine's Director" #Leibbrandt
- ukraines_reformer: "Ukraine's Reformer" #Brautigam
- ukraines_policeman: "Ukraine's Policeman" #Ohlendorf
- the_old_fighter: "Fighter Until The End" #Shumskyi
- the_black_raven: "The Black Raven" #Horlis
- pulse_of_the_age: "Pulse of the Age" #Dziuba
- the_road_of_pain: "Road of Pain" #Stus
- ataman_of_babi_yar: "Ataman of Babi Yar" #Ohloblyn
- providnyk_of_the_national_revolution: "Providnyk of the National Revolution" #Klyachkivsky
- mind_of_the_national_revolution: "Mind of the National Revolution" #Stetsko
- soldier_of_the_national_revolution: "Soldier of the National Revolution" #Shukhevych
+ ukraines_gravedigger: "Могильник України" #Koch
+ ukraines_director: "Український директор" #Leibbrandt
+ ukraines_reformer: "Реформатор України" #Brautigam
+ ukraines_policeman: "Український міліціонер" #Ohlendorf
+ the_old_fighter: "Борець до кінця" #Shumskyi
+ the_black_raven: "Чорний Ворон" #Horlis
+ pulse_of_the_age: "Пульс століття" #Dziuba
+ the_road_of_pain: "Шлях болю" #Stus
+ ataman_of_babi_yar: "Отаман Бабиного Яру" #Ohloblyn
+ providnyk_of_the_national_revolution: "Провідник Національної революції" #Klyachkivsky
+ mind_of_the_national_revolution: "Мозок національної революції" #Stetsko
+ soldier_of_the_national_revolution: "Солдат Національної революції" #Shukhevych
  ########################
  # 4 - NATIONAL SPIRITS #
  ########################
