@@ -60,51 +60,51 @@
  #####################
  # 0 - COUNTRY NAMES #
  #####################
- UKR: "Reichskommissariat Ukraine"
- UKR_DEF: "Reichskommissariat Ukraine"
- UKR_ADJ: "Ukrainian"
+ UKR: "Райхскомісаріят Україна"
+ UKR_DEF: "Райхскомісаріят Україна"
+ UKR_ADJ: "Українськ"
 
- UKR_UNR_start: "Ukrainian National Republic"
- UKR_UNR_start_DEF: "the Ukrainian National Republic"
- UKR_UNR_start_ADJ: "Ukrainian"
+ UKR_UNR_start: "Українська Національна Республіка"
+ UKR_UNR_start_DEF: "Українська Національна Республіка"
+ UKR_UNR_start_ADJ: "Українськ"
 
  ###################
  # 1 - PARTY NAMES #
  ###################
- UKR_communist_party: "KP(b)U"
- UKR_communist_party_long: "Komunistychna Partiya (bil'shovykiv) Ukrayiny (Communist Party of Ukraine (Bolsheviks))"
+ UKR_communist_party: "КП(Б)У"
+ UKR_communist_party_long: "Комуністична Партія (більшовиків) України"
  UKR_socialist_party: "KP(b)U"
- UKR_socialist_party_long: "Komunistychna Partiya (bil'shovykiv) Ukrayiny (Communist Party of Ukraine (Bolsheviks))"
- UKR_conservatism_party: "UNRA"
- UKR_conservatism_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya"
- UKR_paternalism_party: "UNRA"
- UKR_paternalism_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya" 
- UKR_paternalism_1_party: "UNRA"
- UKR_paternalism_1_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya" 
- UKR_despotism_party: "UNA-S"
- UKR_despotism_party_long: "Ukrayins'ka Natsional'na Armiya - Shandrukistiv"
- UKR_fascism_party: "UNK-M"
- UKR_fascism_party_long: "Ukrayins'kyy Natsional'nyy Komitet - Mel'nykovtsi"
- UKR_national_socialism_party: "AOdNSDAP"
- UKR_national_socialism_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei"
- UKR_national_socialism_3_party: "AOdNSDAP - Bräutigams Gruppe"
- UKR_national_socialism_3_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei - Bräutigams Gruppe"
- UKR_national_socialism_2_party: "AOdNSDAP - Ohlendorfs Gruppe"
- UKR_national_socialism_2_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei - Ohlendorfs Gruppe"
- UKR_ultranationalism_party: "UPA"
- UKR_ultranationalism_party_long: "Ukrayins'ka Povstans'ka Armiya"
+ UKR_socialist_party_long: "Комуністична Партія (більшовиків) України"
+ UKR_conservatism_party: "УНРА"
+ UKR_conservatism_party_long: "Українська Народно-Революційна Армія"
+ UKR_paternalism_party: "УНРА"
+ UKR_paternalism_party_long: "Українська Народно-Революційна Армія" 
+ UKR_paternalism_1_party: "УНРА"
+ UKR_paternalism_1_party_long: "Українська Народно-Революційна Армія" 
+ UKR_despotism_party: "УНА-Ш"
+ UKR_despotism_party_long: "Українська Національна Армія - Шандрукісти"
+ UKR_fascism_party: "УНК-М"
+ UKR_fascism_party_long: "Українській Національний Комітет - Мельніковічі"
+ UKR_national_socialism_party: "СРЗНСДАР"
+ UKR_national_socialism_party_long: "Східна робоча зона Націонал-соціалістичної робітничої партії Німеччини"
+ UKR_national_socialism_3_party: "СРЗНСДАР - група Броутігама"
+ UKR_national_socialism_3_party_long: "Східний робочий регіон Націонал-соціалістичної робітничої партії Німеччини - група Броутігама"
+ UKR_national_socialism_2_party: "СРЗНСДАР - група Олендорфа"
+ UKR_national_socialism_2_party_long: "Східна робоча область Націонал-соціалістичної німецької робітничої партії - група Олендорфа"
+ UKR_ultranationalism_party: "УПА"
+ UKR_ultranationalism_party_long: "Українська Повстанська Армія"
 
- UKR_speer_prov_government_national_socialism: "Übergangsregierung"
- UKR_speer_prov_government_national_socialism_long: "Übergangsregierung"
- UKR_collab_paternalism: "UNK"
- UKR_collab_paternalism_long: "Ukrayins'kyy Natsional'nyy Komitet"
- UKR_collab_fascism: "NSDAP-U"
- UKR_collab_fascism_long: "Nationalsozialistische Deutsche Arbeiterpartei - Ukraine"
- UKR_collab_national_socialism: "NSDAP-U"
- UKR_collab_national_socialismlong: "Nationalsozialistische Deutsche Arbeiterpartei - Ukraine"
+ UKR_speer_prov_government_national_socialism: "Перехідний уряд"
+ UKR_speer_prov_government_national_socialism_long: "Перехідний уряд"
+ UKR_collab_paternalism: "УНК"
+ UKR_collab_paternalism_long: "Український національний комітет"
+ UKR_collab_fascism: "НСДАП-У"
+ UKR_collab_fascism_long: "Націонал-соціалістична німецька робітнича партія - Україна"
+ UKR_collab_national_socialism: "НСДАП-У"
+ UKR_collab_national_socialismlong: "Націонал-соціалістична німецька робітнича партія - Україна"
 
- UKR_UNR_UNC_party_long: "Ukrayins'kyy Natsional'nyy Konhres"
- UKR_UNR_UNC_party: "UNK"
+ UKR_UNR_UNC_party_long: "Український національний конгрес"
+ UKR_UNR_UNC_party: "УНК"
 
  UKR_brautigam_national_socialism_3: "$UKR_national_socialism_3_party$"
  UKR_ohlendorf_national_socialism_2: "$UKR_national_socialism_2_party$"
@@ -113,20 +113,20 @@
  # 2 - LEADER NAMES #
  ####################
 
- UKR_Erich_Koch: "Erich Koch"
- UKR_Georg_Leibbrandt: "Georg Leibbrandt"
- UKR_Otto_Ohlendorf: "Otto Ohlendorf"
- UKR_Hans_Otto_Brautigam: "Hans-Otto Bräutigam"
- UKR_Theodor_Kretschmer: "Theodor Kretschmer"
- UKR_Pieter_Schelte_Heerema: "Pieter Schelte Heerema"
- UKR_Peter_Kozhevnikov: "Peter Kozhevnikov"
- UKR_Andriy_Melnyk: "Andriy Melnyk"
- UKR_Pavlo_Shandruk: "Pavlo Shandruk"
- UKR_Volodymyr_Kubiyovych: "Volodymyr Kubiyovych"
- UKR_UNBEKANNT: "UNBEKANNT" #for starting piechart
- UKR_UNBEKANNT_TWO: "UNBEKANNT" #for starting piechart
- UKR_UNBEKANNT_THREE: "UNBEKANNT" #for starting piechart
- CRI_Karl_Gunther_von_Hase: "Karl-Günther von Hase"
+ UKR_Erich_Koch: "Еріх Кох"
+ UKR_Georg_Leibbrandt: "Георг Лейббрандт"
+ UKR_Otto_Ohlendorf: "Отто Олендорф"
+ UKR_Hans_Otto_Brautigam: "Ганс-Отто Браутігам"
+ UKR_Theodor_Kretschmer: "Теодор Кречмер"
+ UKR_Pieter_Schelte_Heerema: "Пітер Шельте Хірема"
+ UKR_Peter_Kozhevnikov: "Петро Кожевніков"
+ UKR_Andriy_Melnyk: "Андрій Мельник"
+ UKR_Pavlo_Shandruk: "Павло Шандрук"
+ UKR_Volodymyr_Kubiyovych: "Володимир Кубійович"
+ UKR_UNBEKANNT: "НЕВІДОМИЙ" #for starting piechart
+ UKR_UNBEKANNT_TWO: "НЕВІДОМИЙ" #for starting piechart
+ UKR_UNBEKANNT_THREE: "НЕВІДОМИЙ" #for starting piechart
+ CRI_Karl_Gunther_von_Hase: "Карл-Гюнтер фон Газе"
 
  #####################
  # 2.1 - LEADER BIOS #

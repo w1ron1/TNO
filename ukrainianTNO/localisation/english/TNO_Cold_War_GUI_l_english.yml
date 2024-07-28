@@ -69,19 +69,19 @@ has_access_to_seazone_indian_ocean_tt: "Маємо можливість прое
 
 ## Scoring Categories
 # Military
-TNO_Cold_War_GUI_Rankings_Military_Categories: "КІЛЬКІСТЬ АРМІЇ:\nКІЛЬКІСТЬ ФЛОТУ:\n\nПРОФІЦИТ АРМІЇ.:\nКІЛЬКІСТЬ ЯДЕРНОЇ ЗБРОЇ:"
+TNO_Cold_War_GUI_Rankings_Military_Categories: "КІЛЬКІСТЬ АРМІЇ:\nКІЛЬКІСТЬ ФЛОТУ:\n\nПРОФІЦИТ АРМІЇ:\nКІЛЬКІСТЬ ЯДЕРКИ:"
 TNO_Cold_War_GUI_Rankings_Military_Points: "§W[?Cold_War_GUI_Selected_Superpower.Score_Military^1]\n[?Cold_War_GUI_Selected_Superpower.Score_Military^3]\n\n[?Cold_War_GUI_Selected_Superpower.Score_Military^4]\n[?Cold_War_GUI_Selected_Superpower.Score_Military^5]§!"
 
 # Economy
-TNO_Cold_War_GUI_Rankings_Economy_Categories: "ВВП/КАПІТАЛ:\nНАЦІОНАЛЬНИЙ БОРГ:\nРІВЕНЬ БІДНОСТІ:"
+TNO_Cold_War_GUI_Rankings_Economy_Categories: "ВВП/КАПІТАЛ:\nНАЦ. БОРГ:\nРІВЕНЬ БІДНОСТІ:"
 TNO_Cold_War_GUI_Rankings_Economy_Points: "§W[?Cold_War_GUI_Selected_Superpower.Score_Economy^1]\n[?Cold_War_GUI_Selected_Superpower.Score_Economy^2]\n[?Cold_War_GUI_Selected_Superpower.Score_Economy^3]§!"
-TNO_Cold_War_GUI_Rankings_Economy_Categories2: "СТАБІЛЬНІСТЬ:\nТЕХНОЛОГІЇ:\nSOCDEV:"
+TNO_Cold_War_GUI_Rankings_Economy_Categories2: "СТАБІЛЬНІСТЬ:\nТЕХНОЛОГІЇ:\nСОЦДЕВ:"
 TNO_Cold_War_GUI_Rankings_Economy_Points2: "§W[?Cold_War_GUI_Selected_Superpower.Score_Economy^4]\n[?Cold_War_GUI_Selected_Superpower.Score_Economy^5]\n[?Cold_War_GUI_Selected_Superpower.Score_Economy^6]§!"
 
 # Faction
-TNO_Cold_War_GUI_Rankings_Diplomacy_Categories: "КІЛЬКІСТЬ:\nIND. NATIONS:\nOBSERVERS:\n\nPOWER PROJ.:"
+TNO_Cold_War_GUI_Rankings_Diplomacy_Categories: "КІЛЬКІСТЬ:\nІНД. НАЦІЇ:\nОБСЕРВЕРИ:\n\nПРОЕКЦІЯ СИЛИ:"
 TNO_Cold_War_GUI_Rankings_Diplomacy_Points: "§W[?Cold_War_GUI_Selected_Superpower.faction_members] Участники.\n[?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^2]\n[?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^6]\n\n[?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^7]§!"
-TNO_Cold_War_GUI_Rankings_Diplomacy_Categories2: "ВСЬОГО ВІЙСЬКОВИХ БАЛІВ:\nВСЬОГО ЕКОНОМІЧНИХ БАЛІВ:\n\nРОЗМІР СФЕРИ:\nСИЛА СФЕРИ:"
+TNO_Cold_War_GUI_Rankings_Diplomacy_Categories2: "ВСЬОГО ВІЙСЬКОВИХ БАЛІВ:\nВСЬОГО ЕКОНОМІЧНИХ БАЛІВ:\n\nРОЗМ. СФЕРИ:\nСИЛА СФЕРИ:"
 TNO_Cold_War_GUI_Rankings_Diplomacy_Points2: "§W[?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^3]\n[?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^4]\n\n[?Cold_War_GUI_Selected_Superpower.econ_sphere_members^num] Участники.\n[?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^5]§!"
 
 ## Victories/Achievements
