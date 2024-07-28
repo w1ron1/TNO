@@ -4,55 +4,55 @@
 
  CountryInfo_pls_click_on_entry: "==Клацніть на запис ліворуч=="
 
- CountryInfo_Folder_button_tt: "§F§GClick§! to toggle displaying entries of '§Y[CountryInfo_GET_Folder_Country]§!'§!"
- CountryInfo_Content_button_tt: "§F§GClick§! to display the entry titled '§Y[CountryInfo_GET_Content_Country]§!'§!"
+ CountryInfo_Folder_button_tt: "§F§GКлацніть§! щоб переключити відображення записів '§Y[CountryInfo_GET_Folder_Country]§!'§!"
+ CountryInfo_Content_button_tt: "§F§GКлацність§! щоб відобразити запис під назвою '§Y[CountryInfo_GET_Content_Country]§!'§!"
 
 # Close button text
-TNO_COUNTRY_INFO_BUTTON_TT: "§YDestiny lies ahead.§!"
+TNO_COUNTRY_INFO_BUTTON_TT: "§YДоля чекає нас попереду.§!"
 
  TNO_COUNTRY_INFO_BUTTON_TEXT_VYT: "З нами Бог!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_PRM: "Zig Heyl!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_SVR: "To Serve Russia!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_KOM: "For the Republic!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_OMS: "Vengeance Awaits!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_AMR: "God, Nation, Labor!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_CHT: "S nami Bog!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_SAF: "Voorwaarts!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_RKS: "Vorwärts!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_GEN: "Onwards!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_USA: "Freedom!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_WAL: "Cymru!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_SCO: "In Defens!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_ENG: "Tally-Ho!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_IBR: "Adelante!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_WRS: "Poyekhali!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_BRY: "Poyekhali!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_INS: "Merdeka!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_YUN: "To Prosperity!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_CHI: "Zhonghua Minzu!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_SBA: "Riding On!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_NOV: "Na Vzlyot!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_JAP: "Banzai!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_GER: "Vorwärts!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_ITA: "Avanti!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_BRG: "Heil Himmler!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_IRE: "Erin Go Bragh!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_BRA: "Vai Brasil!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_NOR: "Onwards!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_OST: "Vorwärts!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_GRO: "Heil!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_ANG: "Weiter!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_COG: "Heia Safari!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_GNG: "Gayau!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_UKR: "Vorwärts!"
- TNO_COUNTRY_INFO_BUTTON_TEXT_GGN: "Do Broni!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_PRM: "Зіг хаїль!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_SVR: "На службі у Росії!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_KOM: "Задля республіки!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_OMS: "Помста чекає!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_AMR: "Бог, Нація, Праця!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_CHT: "З нами Бог!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_SAF: "Воорваартс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_RKS: "Ворватс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_GEN: "Онвардс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_USA: "Свобода!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_WAL: "Сумрі!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_SCO: "В обороні!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_ENG: "Таллі-Хо!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_IBR: "Аделанте!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_WRS: "Поїхали!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_BRY: "Поїхали!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_INS: "Мердека!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_YUN: "До процвітання!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_CHI: "Жонгуа Мінзу!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_SBA: "Їдемо далі!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_NOV: "На взлет!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_JAP: "Банзай!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_GER: "Ворватс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_ITA: "Аванті!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_BRG: "Хаїль Гіммлер!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_IRE: "Ерін Го Брагх!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_BRA: "Вай Бразіл!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_NOR: "Онвардс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_OST: "Ворватс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_GRO: "Хаїль!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_ANG: "Вейтер!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_COG: "Хейа Сафарі!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_GNG: "Гайау!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_UKR: "Ворватс!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_GGN: "До броні!"
  
 ### COUNTRY OPENING ###
-CountryInfo_tab_name_country: "Country Overview"
+CountryInfo_tab_name_country: "Огляд країни"
  
  ### Germany
-  GER_CountryInfo_Folder.101: "Endsieg?"
-  GER_CountryInfo_Folder.102: "Those Who Lead"
+  GER_CountryInfo_Folder.101: "Ендзіг?"
+  GER_CountryInfo_Folder.102: "Ті, що ведуть"
  
   # 101
   GER_CountryInfo_Content.1: "The Final Victory"
@@ -83,38 +83,38 @@ CountryInfo_tab_name_country: "Country Overview"
   GER_CountryInfo_Content.9: "Those Who Command"
   GER_CountryInfo_Content_desc.9: "In the chaotic self-devouring nature of the §WReich's§! politics, little stands above the melee. The §jHeer§!, those proud defenders of the §WFatherland§!, are no exception. While they portray themselves as supreme Aryan leaders and warriors, the truth of the matter is that the armed forces are as involved in the power plays and the scheming as any.\n\nThe modern Heer is primarily split between §Qmoderates§! and §kmilitarists§!, respectively led by §QHans Speidel§! and §kFerdinand Schörner§!. On §QSpeidel's§! side lie men like §QHenning von Tresckow and Dietrich von Saucken§!, united in their opposition to the blatant tinkering of the §kmilitarists§!. For their part, the §kMilitarists§! lay claim to men like §kOtto Remer and Hermann Göring§! - driven, ambitious bloodhounds who wish to reach glory through conquest.\n\nBoth sides are inexorably opposed to one another, more focused on defeating their internal rivals than protecting the §WReich§! itself. Will they truly be ready?"
 
- ### Burgundy
-  BRG_CountryInfo_Folder.101: "The Black Stain"
-  BRG_CountryInfo_Folder.102: "Mechanics"
+ ### Бурґундія
+  BRG_CountryInfo_Folder.101: "Темна пляма"
+  BRG_CountryInfo_Folder.102: "Механіки"
 
   # 101
-  BRG_CountryInfo_Content.1: "The Black Stain"
-  BRG_CountryInfo_Content_desc.1: "§WThe SS-Ordensstaat Burgund§! is the youngest state in the Einheitspakt, cobbled together with lands from the §QFrench§! and §YBelgian§! territories of the Reich in order to placate §PReichsführer-SS Heinrich Himmler§!. During the West Russian War, Himmler attempted to launch a coup against the ailing Führer §RAdolf Hitler§!, whom §PHimmler§! saw as a decrepit fool who was driving the Reich into chaos. However, §RHans Speidel§! and the Wehrmacht were able to crush the coup, forcing §RHitler§! to find a punishment for his once-loyal follower. It came in the form of §Wthe Ordensstaat§!, a white elephant that would hopefully keep the SS too busy managing in order to plot. How wrong he was. §PHimmler§! has spent the past several years consolidating his power and ousting anyone in the administration who was not utterly loyal to him, and now he is ready to strike and succeed where he once failed. But even the best-laid plans may go awry..."
+  BRG_CountryInfo_Content.1: "Темна пляма"
+  BRG_CountryInfo_Content_desc.1: "§WСС-Орденштат Бургундія§! є наймолодшою державою в Пакті Єдності, яка була створена за рахунок земель з §QФранцузьких§! та §YБельгійських§! територій Райху, щоб задобрити §PРейхсфюрера СС Генріха Гіммлера§!. Під час Західно-Російської війни §PГіммлер§! намагався здійснити переворот проти хворого фюрера §RАдольфа Гітлера§!, якого він вважав дряхлим дурнем, що веде Райх до хаосу. Однак, §RГанс Шпейдель§! і Вермахт змогли придушити переворот, змусивши Гітлера знайти покарання для свого колись вірного послідовника. Воно прийшло у вигляді §WОрденштаату§!, білого слона, який, як він сподівався, відволікатиме СС від управління та змов. Як же вони помилялися. останні кілька років §PГіммлер§! провів у зміцнення своєї влади і витісненні з адміністрації всіх, хто не був йому безмежно лояльний, і тепер він готовий завдати удару і досягти успіху там, де колись зазнав поразки. Але навіть найкращі плани можуть піти шкереберть..."
  
-  BRG_CountryInfo_Content.2: "The SS Within"
-  BRG_CountryInfo_Content_desc.2: "§WThe Ordensstaat§! is dominated by the SS, who are predominately loyal to §PHimmler§! above all. However, no man rules alone. The native German SS are joined by various collaborators: the §YSS-Legion Wallonien§!, led by the Walloon §RLéon Degrelle§!, the §OSS-Legion Langemarck§!, led by the Flemish §RBert Eriksson§!, and the §QSS-Division Charlemagne§!, led by the French §RChristian de la Mazière§!. All of these factions despise one another and vie for power, sometimes jockeying with one another and sometimes threatening to undermine the rule of the §PReichsführer-SS§!. If there is to be any hope of success, §Rthe collaborators must be kept on a close leash§!."
+  BRG_CountryInfo_Content.2: "СС зсередині"
+  BRG_CountryInfo_Content_desc.2: "У §WОрденштааті§! домінують есесівці, які передусім лояльні до §PГіммлера§!. Однак ніхто не править одноосібно. До корінних німецьких есесівців приєднуються різні колабораціоністи: §YСС-Легіон Валлонія§! на чолі з валлонцем §RЛеоном Дегрель§!, §OСС-Легіон Лангемарк§! на чолі з фламандцем §RБертом Ерікссоном§! та §QСС-Дивізія Шарлемань§! на чолі з Французом §RКрістіан де ла Мазьєр§!. Всі ці угруповання зневажають одне одного і борються за владу, іноді змовляючись між собою, а іноді погрожуючи підірвати владу §PРайхсфюрера СС§! Якщо є хоч якась надія на успіх, §Rколабораціоністів то їх треба тримати на короткому повідку§!."
  
-  BRG_CountryInfo_Content.3: "The SS Without"
-  BRG_CountryInfo_Content_desc.3: "Thankfully, not everyone in the Reich is an enemy. §gReinhard Heydrich§! is as loyal as ever to §PHimmler§!, and more importantly, he resides in Germania, leads the SS in Germany, and has §RHitler§!'s ear. It is no secret that the old Führer is not long for this world, and §gHeydrich§! is poised to sweep in and seize power should some terrible tragedy befall the great leader. If he were to succeed, it would §Ggreatly expedite§! the fulfillment of the §PReichsführer-SS§!'s vision for the Aryan race..."
+  BRG_CountryInfo_Content.3: "Есесівці без СС"
+  BRG_CountryInfo_Content_desc.3: "На щастя, не всі у Райху вороги. §gРейнхард Гейдріх§! як і раніше, вірний §PГіммлеру§!, і що важливіше, він живе в Німеччині, очолює СС в Німеччині і має вухо рядом з §RГітлером§!. Не секрет, що старому фюреру залишилося недовго, і §gГейдріх§! готовий увірватися і захопити владу, якщо з великим вождем трапиться якась жахлива трагедія. Якщо йому це вдасться, §Gто це значно присвидшить§! реалізацію задуму одного з §PРайхсфюрера-СС§! щодо арійської раси..."
  
   # 102
-  BRG_CountryInfo_Content.4: "Mechanics"
-  BRG_CountryInfo_Content_desc.4: "Manage the §Yworkforce§!, carefully maintaining a balance between §WSicherheitspolizei§! and §Wskilled laborers§! in the §WOrdensstaat§!'s territories.\n\n- Launch §Yinvestigations§! into §Rtraitors§! who may be lurking in the ranks of the Waffen-SS.\n\nBring the story of the §qBlack Stain§! of Europe to its §econclusion§!."
+  BRG_CountryInfo_Content.4: "Механіки"
+  BRG_CountryInfo_Content_desc.4: "Керуйте §Yробочою силою§!, ретельно підтримуючи баланс між §Wполіцією безпеки§! та §Wкваліфікованою робочою силою§! на територіях §WОрденштаату§!.\n\n- Розпочніть §Yрозслідування§! щодо §Rзрадників§! які можуть ховатися в лавах Ваффен-СС.\n\nДоведіть історію §qЧорної плями§! Європи до її §eзавершення§!."
   
-  BRG_CountryInfo_Content.5: "The Workforce"
-  BRG_CountryInfo_Content_desc.5: "§WThe SS-Ordensstaat Burgund§! does not meekly stand by and wait for workers to toil of their own free will, it §Vcommands§!. The §Yworkforce§! consists of those §Wskilled laborers§! torn from their homes to slave away in the greater interests of the state which cannot be fulfilled by simple coerced labour, and must be managed accordingly to ensure that there is an even balance between the oppressed and their oppressors. They may be moved around like cattle from the reserve to any state, but mind that they do not find themselves in an underpoliced, unwatched area.\n\n§WThe Sicherheitspolizei§!, meanwhile, are the sword and shield of the state, and are critical to ensuring that the skilled labour act as they are dictated. They, too, may be moved from reserve barracks to states where they are needed."
+  BRG_CountryInfo_Content.5: "Працівники"
+  BRG_CountryInfo_Content_desc.5: "§WСС-Орденштат Бурґундія§! не стоїть покірно осторонь і не чекає, поки робітники почнуть працювати з власної волі, він §Vнаказує§!. §Yробоча сила§! складається з тих §Yкваліфікованих робітників§!, яких відірвали від їхніх домівок, щоб вони працювали на користь великих інтересів держави, які не можуть бути досягнуті простою примусовою працею, і якими треба керувати, щоб забезпечити рівновагу між пригнобленими та їхніми гнобителями. Їх можна переміщати, як худобу, із заповідника в будь-який штат, але пам'ятайте, що вони не повинні опинитися в недостатньо охоронюваній, безнаглядовій зоні.\n\n§WПоліція безпеки§!, тим часом, є мечем і щитом держави, і мають вирішальне значення для забезпечення того, щоб кваліфікована робоча сила діяла так, як їм наказують. Вони також можуть бути переміщені з резервних казарм туди, де вони потрібні."
   
-  BRG_CountryInfo_Content.6: "Investigations"
-  BRG_CountryInfo_Content_desc.6: "The §ESS§!, whilst representing the pinnacle of Aryan rebirth, does not draw solely from German blood. Men from the Walloon, Flemish, and French nations have, too, returned to the fold of Europa - or have they?\n\nLaunch §Yinvestigations§! into the leaders of the §YSS-Legion Wallonien§!, §OSS-Legion Langemarck§!, and the §QSS-Division Charlemagne§! - collect evidence, watch the shadows carefully, and ensure the §PReichsführer-SS's§! eternal dominance - lest the §Rimpostors§! lurking among us in the garb of dedicated National Socialists strike when we least expect it."
+  BRG_CountryInfo_Content.6: "Розслідування"
+  BRG_CountryInfo_Content_desc.6: "Хоча §EСС§! і є вершиною арійського відродження, але не тільки в німецькій крові. Чоловіки з валлонської, фламандської та французької націй також приєдналися до сім'ї Європи - чи ні?\n\nРозпочніть §Yрозслідування§! щодо лідерів §YСС-Валлонський легіон§!, §OСС-Легіон Лангемарк§! та §QСС-Дивізія Шарлемань§! - Збирайте докази, уважно стежте за тінями і забезпечте вічне панування §PРайхсфюрера СС§!, щоб §Rпредателі§!, що ховаються серед нас в одязі відданих націонал-соціалістів, не завдали удару, коли ми цього найменше очікуємо."
   
-  BRG_CountryInfo_Content.7: "Economics"
-  BRG_CountryInfo_Content_desc.7: "§ROnly a fool would fall for the Jewish-Bolshevik aberration that is organized economics.§!"
+  BRG_CountryInfo_Content.7: "Економіка"
+  BRG_CountryInfo_Content_desc.7: "§RТільки дурень повірить у єврейсько-більшовицьку дегенерацію, якою є організована економіка.§!"
   
  # ITALY
-  ITA_CountryInfo_Folder.101: "Events up to WWII"
-  ITA_CountryInfo_Folder.102: "WWII"
-  ITA_CountryInfo_Folder.103: "Postwar Italy"
-  ITA_CountryInfo_Folder.104: "Situation in 1962"
+  ITA_CountryInfo_Folder.101: "Події до Другої світової війни"
+  ITA_CountryInfo_Folder.102: "Друга світова війна"
+  ITA_CountryInfo_Folder.103: "Післявоєнна Італія"
+  ITA_CountryInfo_Folder.104: "Сітуація у 1962 році"
 
   #101 - Introduction
   ITA_CountryInfo_Content.1: "Introduction"
@@ -846,110 +846,110 @@ CountryInfo_tab_name_country: "Country Overview"
 
 # RK. OSTAFRIKA
  
- GRO_CountryInfo_Folder.101: "A New Master"
+ GRO_CountryInfo_Folder.101: "Новий господар"
 
- GRO_CountryInfo_Content.1: "Heart of Darkness"
+ GRO_CountryInfo_Content.1: "Серце пітьми"
  GRO_CountryInfo_Content_desc.1: "To Europe, Africa is not a place. It is not a continent, all-encompassing in its size and diversity, where billions breathe and love under its scorching sun. It is not a home, the cot that humanity crawled out of, still blinking in the awe of its own existence. Africa is not anything that resembles sentience. To Europe, Africa is an §Runruly beast§!, yet to be tamed by its residents and yet to have its natural bounties revealed. A puzzle, a beast, a challenge, whatever. In the eyes of the outsiders, Africa is there for their §Kbenefit§!.\n\nWhen Britain and France collapsed under the might of the §gWehrmacht§!, Germany quickly usurped their colonial holdings in §nSub-Saharan Africa§!. Promising to import their patented cruelty that they had practised in the former-USSR, Germania established three §kReichskommissariats§! to wring every last drop that Africa's previous masters had not tapped."
 
- GRO_CountryInfo_Content.2: "The Standard Colony"
+ GRO_CountryInfo_Content.2: "Стандартна колонія"
  GRO_CountryInfo_Content_desc.2: "By far the most savage and brutal of three fiefdoms, §jReichskommissariat Ostafrika§! makes up the Eastern third of the Sub-Sahara. What makes Ostafrika unique is not its diversion from §rNational Socialism§!, but its strict adherence to it. Compared to its neighbours or even the Eastern European Reichskommissariats, it is an utterly, utterly standard National Socialist state. Which makes it all the more §ebarbaric§!.\n\nThere is a strict hierarchy in Ostafrika. At the top is §EHans Hüttig§!, the Reichskommissar. Below him, stands the ethnic Germans that either came to Africa. Below them are the §VEnglish settlers§!, remnants of the old, colonial regimes that once dominated Africa. At the bottom are the §nAfricans§!. To Hüttig, they are life unworthy of life, even more so than the Jew. To Hüttig, the African will either be in chains or a historical footnote. With each passing day, §ethe latter becomes more tempting...§!"
 
- GRO_CountryInfo_Content.3: "Hüttig's Hell"
+ GRO_CountryInfo_Content.3: "Пекло Хюттіґа"
  GRO_CountryInfo_Content_desc.3: "The average street in the wealthier districts of Ostafrika possesses at least a single patrol of SS men, keeping vigilant on any suspected partisan activity. The soldier will almost certainly be a white man, but those who assume that the few black auxiliaries that sometimes appear will be lenient are §emisled§!. When they brutalise their fellow man, it is not out of some racial creed or ideology. It is the simple fact that Hüttig's eyes are forever peering into their souls. They are §rservants of the Führer§!, but it is the §EReichkommissar§! who will decide whether their family lives or dies. Where the soldier cannot see, technology provides. Hüttig has invested heavily into the emerging field of §cCCTV's§!. With this, a single man can spy on multiple locations at once. Nowhere is safe, and no secret will remain veiled, under Hüttig's iron rule. §xOstafrika is Hell§!, a fact that its leader is far too eager to remind its citizens of."
 
- GRO_CountryInfo_Folder.102: "Behold a Pale Horse"
+ GRO_CountryInfo_Folder.102: "Ось блідий кінь"
 
- GRO_CountryInfo_Content.4: "Judas or Paul?"
+ GRO_CountryInfo_Content.4: "Юда чи Павло?"
  GRO_CountryInfo_Content_desc.4: "In some ways, everything that occurs inside the Reichskommissariat is a grim reflection of its 'beloved' leader. Hans Hüttig is a §eparanoid man§!, for to get as high in the SS as he did, one has to be. While his main priority is cracking down on potential African insurgents, that is a mere hobby compared to his §Eultimate goal§!.\n\nIn his eyes, the other Reichskommissars are diseased. Schenck, leader of the §mSouth-Western RK§!, and Müller, the chief of §wZentralafrika§!, both revel in their sin. For Schenck, it is his reverence of the African as worthy. As if they were co-equal. For Müller, it is similar. He pretends to serve Germania's interest while clicking his glass with a nameless tribe in order to obtain some mortal wealth. The African is §Vcattle or cockroach§!. To pretend otherwise is cruel to them and cruel to the Fatherland. However, they cannot be removed so easily. Not without evidence..."
 
- GRO_CountryInfo_Content.5: "The Second Seal"
+ GRO_CountryInfo_Content.5: "Друга печатка"
  GRO_CountryInfo_Content_desc.5: "South Africa is a powderkeg. Worse, it is a powderkeg that has had decades to boil. Resentment from both §OBoer§! and §nAfrican§! alike has led to Cape Town making rasher and hastier decisions, than it did previously. Without the leash of its §VBritish§! master on its collar, South Africa has become rudderless. They can grovel at the feet of the Boer or the Black Man. Not both.\n\nThe Boer cannot fight South Africa by itself. Fortunately, they will not have to. When South Africa does eventually collapse - §xand it will§! - we will be there. To keep in mind however, we must deliver a crushing blow to both Cape Town and the inevitable §iAmerican§! presence inside their neo-colonial holding. Our numbers of pure Aryan stock and selected native units cannot sustain a war of attrition. If we linger, partisan activity will dismember us and leave us for the vultures. Consider our task a §c"Barbarossa-on-the-Kalahari"§!."
 
 # RK. SÜDWESTAFRIKA
  
- ANG_CountryInfo_Folder.101: "A New Master"
+ ANG_CountryInfo_Folder.101: "Новий господар"
 
- ANG_CountryInfo_Content.1: "Heart of Darkness"
+ ANG_CountryInfo_Content.1: "Серце пітьми"
  ANG_CountryInfo_Content_desc.1: "To Europe, Africa is not a place. It is not a continent, all-encompassing in its size and diversity, where billions breathe and love under its scorching sun. It is not a home, the cot that humanity crawled out of, still blinking in the awe of its own existence. Africa is not anything that resembles sentience. To Europe, Africa is an §Runruly beast§!, yet to be tamed by its residents and yet to have its natural bounties revealed. A puzzle, a beast, a challenge, whatever. In the eyes of the outsiders, Africa is there for their §Kbenefit§!.\n\nWhen Britain and France collapsed under the might of the §gWehrmacht§!, Germany quickly usurped their colonial holdings in §nSub-Saharan Africa§!. Promising to import their patented cruelty that they had practised in the former-USSR, Germania established three §kReichskommissariats§! to wring every last drop that Africa's previous masters had not tapped."
 
- ANG_CountryInfo_Content.2: "Khamsin Blowing"
+ ANG_CountryInfo_Content.2: "Видування Хамсін"
  ANG_CountryInfo_Content_desc.2: "§mReichskommissariat Südwestafrika§! is... strange. Even for idiosyncratic fiefdoms that dot Hitler's Imperial Ambitions, Südwestafrika is more defined by its §gleadership§! than any other colony that Germania possesses. While officially just another holding that was meant to extract as many resources as possible, the land is either far too §Ydesolate§! or far too §Gdense§! to fully take advantage. While this is true for the other Reichskommissariats, it has shaped Südwestafrika into what is essentially a supermassive §LLuftwaffe§! base.\n\nMost of the General Staff that surround the Reichskommissar are §LLuftwaffe personnel§!, most of the budget goes into either creating or expanding existing Luftwaffe infrastructure and it's Reichskommissar seems to be absent half of the time, going on either hunting missions with fellow §wReichskommissar Müller§! or quite literally keeping his head above the clouds in aimless sorties."
 
- ANG_CountryInfo_Content.3: "Schenck's Hell"
+ ANG_CountryInfo_Content.3: "Пекло Шенка"
  ANG_CountryInfo_Content_desc.3: "As for the eponymous Reichskommissar, §iWolfgang Schenck§! is a man stuck in a Hell of his own making. When he is not staring into the crimson sunset from his personal fighter jet, miles above civilization, he is found in his mansion. An intensely private man, servants report him residing in the unused rooms of the estate for days on end, with not even so much the faintest peep of life escaping.\n\nSchenck's Hell is that he is §Cstill alive§!. His glory days are long past him, and the truth brushes its hand against his cheek. Unlike Hüttig, he has no delusions. This "posting" is a prison designed to keep him close to Germany but so far away from the Führer or any real posting inside the §gWehrmacht§!. His advisors can try as they might, but Schenck knows that this entire African venture is a pirouette upon the House of Cards. Sooner or later, they will crumble. The only thing left to do, is to figure out §Kwhat happens next§!."
 
- ANG_CountryInfo_Folder.102: "Engines of War"
+ ANG_CountryInfo_Folder.102: "Двигуни війни"
 
- ANG_CountryInfo_Content.4: "The Bombers Fly Again"
+ ANG_CountryInfo_Content.4: "Бомбардувальники знову літають"
  ANG_CountryInfo_Content_desc.4: "South Africa is a powderkeg. Worse, it is a powderkeg that has had decades to boil. Resentment from both §OBoer§! and §nAfrican§! alike has led to Cape Town making rasher and hastier decisions, than it did previously. Without the leash of its §VBritish§! master on its collar, South Africa has become rudderless. They can grovel at the feet of the Boer or the Black Man. Not both.\n\nSchenck couldn't care less about the whims of the irrelevent former Dominion, but §EHüttig§! agitates for War with secret channels in the Reich goading the Colonies to make a §ejoint offensive§! against the collapsing state. When that happens, Schenck's job will be to deliver the Führer's wrath from §Qabove§!. However, South Africa is not the only player with cards on the table. The §iAmericans§! are getting keener and keener to intervene inside Africa. It'll only be a matter of time until the Americans take off their silken gloves..."
 
- ANG_CountryInfo_Content.5: "Freedom takes Flight"
+ ANG_CountryInfo_Content.5: "Свобода злітає"
  ANG_CountryInfo_Content_desc.5: "§VSchenck has betrayed the Reich§!. Not physically, and nothing that would get him in front of the long end of a firing squad - but he has betrayed the Reich. Once upon a time, every month he would get a sudden thought flashing across his mind. Then it was every week. Now, at the edge of annihilation with America, it is every day. That sedition has a name, §nAngola§!.\n\nAll three Reichskommissariats are castles built on quicksand. They §xwill§! sink, sooner or later. Müller's decadence has made him soft, while Hüttig's harshness has made the forces against him strong. Stronger than he would like to imagine. Schenck's dominion will fall too. But there are §Kcontacts§! inside Angola. People that he is sympathetic to. People that deserve a fighting chance, when the jungle catches fire. If his loyalties are too compromised to serve the Reich, then maybe they can be put in the service of §Ksomeone else?§!"
 
 # RK. ZENTRALAFRIKA
 
- COG_CountryInfo_Folder.101: "A New Master"
+ COG_CountryInfo_Folder.101: "Новий господар"
 
- COG_CountryInfo_Content.1: "Heart of Darkness"
+ COG_CountryInfo_Content.1: "Серце пітьми"
  COG_CountryInfo_Content_desc.1: "To Europe, Africa is not a place. It is not a continent, all-encompassing in its size and diversity, where billions breathe and love under its scorching sun. It is not a home, the cot that humanity crawled out of, still blinking in the awe of its own existence. Africa is not anything that resembles sentience. To Europe, Africa is an §Runruly beast§!, yet to be tamed by its residents and yet to have its natural bounties revealed. A puzzle, a beast, a challenge, whatever. In the eyes of the outsiders, Africa is there for their §Kbenefit§!.\n\nWhen Britain and France collapsed under the might of the §gWehrmacht§!, Germany quickly usurped their colonial holdings in §nSub-Saharan Africa§!. Promising to import their patented cruelty that they had practised in the former-USSR, Germania established three §kReichskommissariats§! to wring every last drop that Africa's previous masters had not tapped."
 
- COG_CountryInfo_Content.2: "Jewel of the Reich"
+ COG_CountryInfo_Content.2: "Перлина Райху"
  COG_CountryInfo_Content_desc.2: "Few places in the Reich have been shaped by its Reichskommissar like §wZentralafrika§!. What makes this settlement unique is the fact that it's the largest §Rinvestment fraud program in human history§!. Millions, if not billions of Reichsmarks have been flushed down the drain, in some foolhardy attempt to settle the most mysterious corner of the §nDark Continent§!. It is not that the money has been used and is to no avail, against the hostile climate - although that would almost certainly be the case. It is that the money hasn't been used at all. Or if it has, it has gone straight into the bank account of one man. §wSiegfried Müller§!.\n\nInstead, what makes up what §Vnear-anarchic§! governance there is, is the network of loosely aligned native tribes that vaguely report to Léopoldville for general orders. The closer you get to the capital, the more concrete German rule becomes - §jbut never totally dominant.§!"
 
- COG_CountryInfo_Content.3: "Cat Burglar of the Reich"
+ COG_CountryInfo_Content.3: "Кіт-злодій Райху"
  COG_CountryInfo_Content_desc.3: "The reason for this is because its Reichskommissar is not interested in establishing any meaningful German presence anywhere outside the locations of his main hobby. Said main hobby being single-handedly driving every big game animal species into §Rextinction§!. Siegfried Müller takes the epithet 'hedonist' and places it next to his §gIron Cross§! as a mark of pride, for he is proud to be a mere sampler in life's finer pleasures.\n\nIn reality, this has meant that the leadership of §wZentralafrika§!, de facto, are whatever foreign companies that Müller decides pertinent to help ravage the depths of the Congolese jungle, no matter the consequences."
 
- COG_CountryInfo_Folder.102: "The Root of all Evil"
+ COG_CountryInfo_Folder.102: "Корінь усього зла"
 
- COG_CountryInfo_Content.4: "The Root of all Evil"
+ COG_CountryInfo_Content.4: "Корінь усього зла"
  COG_CountryInfo_Content_desc.4: "To those who know even the most surface level details about the Reichskommissariat, the main question that always appears to pop up is the question of how exactly its trusted leader is able to §xlaunder so much wealth§!. The main theory is that Müller is given the funds by Germania to invest inside the Reichskommissariat. This is used to fund either industrial equipment meant to extract resources from areas that haven't been drowned by the §BCongo Lake§!, or military equipment used to fight any of the §Rhundreds of resistance groups§! that take advantage of Müller's anarchy. Officially, most of these resources are "lost" in pitched conflicts with partisans and when partisan bases are neutralised, most of the Reich's equipment is strangely missing. Unofficially, Müller trafficks his benefactor's gifts to a §sshadowy network of international agents and mysterious factory complexes§! and then sold at marked-up prices, alongside the black market of rare, exotic goods deep inside the jungle."
 
- COG_CountryInfo_Folder.103: "The Most Dangerous Game"
+ COG_CountryInfo_Folder.103: "Найнебезпечніша гра"
 
- COG_CountryInfo_Content.5: "Earth's Festering Wound"
+ COG_CountryInfo_Content.5: "Гнійна рана Землі"
  COG_CountryInfo_Content_desc.5: "What lies inside the Congo is Mankind's greatest mark of its existence on Planet Earth. To some, it is the epitome of everything wrong with the Nazi ideology. It is §lmadness§!, it is §fvainglory§!, it is §xpointless, barbaric and contradictory§!. To its supporters, it is proof that Humanity is more than just base animals, but §pGods§! in their own right, ready to right the wrongs branded upon it. It is the §BCongo Lake§!. The Congo Dam that fathered said lake was yet another short-sighted byproduct of the postwar euphoria experienced by the near-impossible odds that Germany overcame in the Second World War. Germany created a series of dams near the mouth of the Congo River. What was meant as a shortcut to tame the §nwild foliage of the rainforest§! devolved into Hell. What places the RK still control became hives of disease, poverty and refugee slums, displaced by the lake. Now, nearly 20 years later, the Congo Lake has become nothing less than an eternal reminder of §eMan's folly§!."
 
- COG_CountryInfo_Content.6: "Making the World Go Round"
+ COG_CountryInfo_Content.6: "Заставити світ йти по колу"
  COG_CountryInfo_Content_desc.6: "Whether it's Germany utter apathy to it's failed sons in Africa or it's Zentralafrika's atomic-thin veil of deception fooling the Reich, it appears that nobody has spotted the fact that the Zentralafrikan garrison §Rrarely seems to be in the actual Reichskommissariat most of the time§!. In fact, the main characteristic of Zentralafrika is that it will offer its §x"skills"§! to the highest bidder, bringing along with them the promise of high-tech German weaponry and relatively well-trained troops.\n\n§VAsia§!, §nAfrica§!, §iAmerica§!, it doesn't matter where they end up, as long as Müller's pockets are full, they will fight for anyone and everyone. Even if it goes directly against Germania's interests, even if they directly help the enemy, even if it goes directly against their §wvery own interests§!, they will fight for whoever has the deeper pockets. They wouldn't have it any other way."
 
- COG_CountryInfo_Content.7: "Beyond the Reichsmark"
+ COG_CountryInfo_Content.7: "За межами Райхсмарку"
  COG_CountryInfo_Content_desc.7: "South Africa is a powderkeg. Worse, it is a powderkeg that has had decades to boil. Resentment from both §OBoer§! and §nAfrican§! alike has led to Cape Town making rasher and hastier decisions, than it did previously. Without the leash of its §VBritish§! master on its collar, South Africa has become rudderless. They can grovel at the feet of the Boer or the Black Man. Not both.\n\nTo Müller however, this is nothing more than an §Eobligation§!. He will send his mercenaries over to South Africa where their §Rbattle-hardened experience§! will more than easily wipe away whatever §JCape Town conscripts§! sent to stop them. Once the war is over, the hunting will resume, as it always has. The only thing that worries Müller is §iAmerica§!. Sure, their military can go toe to toe with the best of his army, but imagine what it would do to his §Kbusiness§!? A sobering thought, indeed."
 
 # Ukraine
 
- UKR_CountryInfo_Folder.101: "To Feed Europe"
+ UKR_CountryInfo_Folder.101: "Нагодувати Європу"
 
- UKR_CountryInfo_Content.1: "Breadbasket of Europe"
+ UKR_CountryInfo_Content.1: "Житниця Європи"
  
  UKR_CountryInfo_Content_desc.1: "§MUkr§!§Yaine§!'s history is best condensed in what the word "§MUkr§!§Yaine§!" literally means; from the old Slavic language, it means "Borderland". Caught between the forces of Berlin in the west or Moscow in the east, there has scarcely been a moment of calm in §MUkr§!§Yaine§!'s storied history. Once but a slice of the vast §KRussian Empire§!, §MUkr§!§Yaine§! first gained independence in the chaos of the §VRussian Revolution§! before losing it to Moscow's vengeful return, and now finds itself a slave to §oGermania§!.\n\n§MUkr§!§Yaine§! lies conquered at the mercy of another empire's hand, subject to its cruelty and decree, yet the cycle has begun to churn out another vain imitation of §MUkrai§!§Ynian§! history, put on show for the thousandth time as a ruler's crown starts to slip. Every twisted dream of §MUkrai§!§Ynian§! nationhood now vies with one another for the nation's soul; be it east or west, §gcollaboration§! or §Gindependence§!, §Ofascism§! or §yfreedom§!, every hope and prayer for §MUkr§!§Yaine§! has come to seize Destiny - or die trying."
 
- UKR_CountryInfo_Content.2: "A Million Broken Dreams"
+ UKR_CountryInfo_Content.2: "Мільйони розбитих мрій"
  UKR_CountryInfo_Content_desc.2: "§MUkrai§!§Ynian§! dreams have a habit of stillbirth. Starting with the Cossack hetmanate, §MUkrai§!§Ynian§! nationhood could only flare up for fleeting moments. In 1917, with Moscow in §Vturmoil§!, the §DUkrainian Rada§! tried their hand. This dream, too, died young, with the remnants of §MUkrai§!§Ynian§! democracy fleeing from the advancing §eSoviets§! to §CPoland§!. The §gOrganization of Ukrainian Nationalists§! soon began resistance across Western Ukraine and in Polish Galicia, and fought with the §oNazis§! against their hated enemy.\n\nBut with the end of the §SUA-SSR's§! dream, the §gOUN§! soon floundered, with those opposing collaboration breaking away under §sStepan Bandera§!. Meanwhile, another movement arose in Western Ukraine and Galicia, fighting for a §Gdemocratic dream§!. But §Rnone§! of these visions would survive - nor would almost any leader of the Ukrainian resistance movements, including Bandera. Even §oGermany's§! vision would die, as Erich Koch's colony slowly lost its position as the breadbasket of Europe at the hands of countless terrorist freedom fighters."
 
- UKR_CountryInfo_Content.3: "Frozen in Time"
+ UKR_CountryInfo_Content.3: "Застиглі в часі"
  UKR_CountryInfo_Content_desc.3: "The Reichskommissariat was designed with the goal of subjugation. Its planners believed that someday, §MUkr§!§Yaine§! would submit to §oGermany§! and meekly accept its cultural and demographic §Rdecline§!. Instead, the situation on the ground has barely progressed, even after almost two decades spent attempting to move the dial. The §MUkrai§!§Ynian§! people have proven effective at maintaining their armies, and with violence already the core of their colonial policy, the Germans have no other answers.\n\nThe §DUNRA§! still fights for a §Grepublic§!, one now slipping into history. The §sUPA§! still fight for a man who died in prison a decade earlier, their nationalistic dreams more fantastical than ever. The §SPartisans§! battle for a Union which has long since §eshattered§!. Even the §oReichskommissariat§! battles for eventual Germanization, a dream that has endlessly delayed as the situation on the ground failed to change. The world has moved on from the Second World War, but Ukraine remains here, fighting with §Vno way out§!."
 
- UKR_CountryInfo_Folder.102: "Relics of the Past"
+ UKR_CountryInfo_Folder.102: "Реліквії минулого"
 
- UKR_CountryInfo_Content.4: "Reformers of Rot"
+ UKR_CountryInfo_Content.4: "Реформатори гнилі"
  UKR_CountryInfo_Content_desc.4: "The reality is that this system is utterly §xbroken§! in its current form, and that reality is clear even to the oppressors who run it. §MUkrai§!§Ynian§! colonialism has meant great expense and greater death. If it is to last, to continue to provide what the Nazi machine requires of it, it will need reforms.\n\nWhat those reforms will look like is still a matter of great debate. §oOhlendorf§!, an SS leader and thinker, looks to the free-market and pragmatic government action to §Grejuvenate§! the colonial system and §Rwipe out§! resistance. §BLeibbrandt§!, a disciple of Rosenberg, sees a §Llimited devolution§! to the natives as the reform the Reichskommissariat was always designed for. §sBräutigam§!, a rising star in the diplomatic core, imagines an even more radical reform that sees Ukraine as a §Dtrue equal§! with a fair government.\n\nFor now, the Reichskommissariat's reformers are forever §eblocked§! by Koch, yet he is an ancient man now. If the Reichskommissariat survives, it will likely be without him."
 
- UKR_CountryInfo_Content.5: "The Dud Revolution"
+ UKR_CountryInfo_Content.5: "Дудська Революція"
  UKR_CountryInfo_Content_desc.5: "The dream of the Soviet is still alive. With the present grim and the future bleak, most §MUkrai§!§Ynians§! have little to rally behind but the past. No group exemplifies this more than the §SUA-SSR§!, a group of leftists under §SOleksandr Shumskyi§! who wish desperately for a return to the glory days of the §VUkrainian Soviet§!. Old soldiers and young dreamers all flock to that antique red banner.\n\nThey are tenacious and driven in this goal, but also incredibly ideologically diverse. §SShumskyists§!, §RTrotskyists§!, §eBukharinists§! and more fight alongside one another as begrudging comrades. A strained yet resolute adhesive of a common goal holds them together, just barely maintained by §SShumskyi§! himself. Were the movement to lose him, there is no guarantee the §SSSR§! would stay together, and their dream would §enever be realized§!."
 
- UKR_CountryInfo_Content.6: "Heirs of 1917"
+ UKR_CountryInfo_Content.6: "Спадкоємці 1917 року"
  UKR_CountryInfo_Content_desc.6: "The history of the §DUkrainian National Revolutionary Army§! has seen it collect traditions stretching across a century of §MUkrai§!§Ynian§! history, from the first rumblings of §Gindependence§! to present day. Perhaps their movement is best summarized in a common slogan: "it is 1917 once more."\n\nThat year, a Ukrainian Republic was first created. Though it would be destroyed by the §VBolsheviks§!, the Republic would nevertheless come to define the §DUNRA§!, most clearly its liberalism and republicanism. When Taras Bulba-Borovets formed his own army, he took these §yideals§!, and that year of §Rrevolution§!, in his heart.\n\nNow, in 1962, it survives with new leadership. A §Ynew generation§! sees the §DUNRA§! as the movement looking forward, even as it looks back. Their nationalist, even leftist beliefs have become increasingly the norm - even if a §eblack heart§! of collaborationism and §sUPA§! connections lurk within the movement."
 
- UKR_CountryInfo_Content.7: "In Bandera's Footsteps"
+ UKR_CountryInfo_Content.7: "Слідами Бандери"
  UKR_CountryInfo_Content_desc.7: "Once, the §sUPA§! would have been defined by §sStepan Bandera's§! words. Like most in the §MUkrai§!§Ynian§! nationalist movement, he began resisting the §CPoles§! before collaborating with the §oNazis§!. Yet only Bandera, with his uniquely radical position and surprising popularity, managed to break from §oGermany§! and rise against their former masters.\n\nNow, the §sUPA§! is defined by Bandera's death. Killed in a concentration camp, his movement outlived him, finding new leadership under Dmytro Klyachkivsky. His movement lurks in the west, engaged in an endless war with the §DUNRA§! and the German occupiers.\n\nNow, the §sUPA§! survives strong, but leadership is §Ysplit§! over the future of Bandera's vision. Some seek the nostalgia of past orthodoxy, whilst others audaciously seek to reforge the §sUPA§! for their own ends. The Banderites walk a dangerous and uncertain path just as likely to be their §xdoom§! as their §ysalvation§!."
 
 
  ### ECONOMIC DATA
-  CountryInfo_tab_name_economic: "Economic Data"
-  CountryInfo_Economic.1: "Economic Data"
-  CountryInfo_Economic.2: "Overview"
+  CountryInfo_tab_name_economic: "Інформація про Економіку"
+  CountryInfo_Economic.1: "Інформація про Економіку"
+  CountryInfo_Economic.2: "Огляд"
  
-  CountryInfo_Economic_Overview_GER: "Econ broke"
+  CountryInfo_Economic_Overview_GER: "Економіка зламана."
   CountryInfo_Economic_Overview_ITA: "As 1962 begins, the §nItalian Empire§! finds itself in a difficult situation.\n\nItaly's §Wcorporatist§! economy, while undoubtedly more lively than the twitching corpse that is the §rGerman§! one after the market crash of the Fifties, is plagued by §Robsolete§! production methods, §Rlack§! of private investment, as well as §Rcorruption§! and §Rcronyism§! in the supervision organs. Unemployment is on the rise, and while the oil from the Gulf fields maintains the budget afloat, and allows Italy to afford massive subsidization programs, public debt grows at an §Ralarming rate§!."
   CountryInfo_Economic_Overview_IRE: "Ireland's Economy is that of a §fFree Market Economy§!. This is a system where corporate enterprise is allowed to run with either no or few checks from the Government. Depending on the government, this system will have varying amounts of regulation ensuring that corporations are kept in check. More importantly for Ireland, it is a Bündnispartner. The Irish Economy has a series of ties with that of the Reich. With German mistreatment of Irish workers in factories, the influence that the Reich has over Ireland is getting more strained by the day. However, German influence also has meant investment. The §pAufsichtsrat der Wehrwirtschaftsführer in Irland§! - or just the Adwil - is the main board in charge of German investment in Ireland, also being Germany's main mode of influencing the Economy. One one hand, the Adwil is a "free" source of funds, which Ireland can use to fund national projects. On the other, displease the investors too much and they may pull out, leaving us destitute."
   CountryInfo_Economic_Overview_IBR: "Iberia's Economy operates on the principles of Dirigisme - a system where the state is the unchecked maestro of the economy it benefits from. In this case, Iberia is responsible for building and managing it's projects using quotas and forecasts alongside deep co-operation with the many corporations that make up the state.\n\nAgriculture is in shambles, due to the stagnation that the repression has caused. Much of the population still toils in the countryside, which hurts industrialisation. Conditions in the rural areas are varied, however the poorest areas suffer from crippling poverty and lack of basic, governmental services. Spain serves as the Industrial Heartland of the Union, with most corporations being in Madrid's orbit. However, Portugal still remains as the main heart of global trade, although it's a role that has diminished in importance with Iberia's retreat from the Globe."
@@ -971,56 +971,56 @@ CountryInfo_tab_name_country: "Country Overview"
   CountryInfo_Economic_Overview_COG: "Reichskommissariat Zentralafrika's Economy is that of the §oGelenkte Wirtschaft§! model. This model tries to balance between the command economy of the former §RSoviet Union§! and the free market capitalism of the §iUnited States of America§! by combining a use of state-directed initiatives and cooperation with private enterprise and selecting a few trusted and proven corporations to serve the state in a fashion that suits both parties.\n\nThe reality on the ground is that Zentralafrika is run more like Müller's §ysweetshop§! than anything else. The entire colony is littered with shell companies of Western and other §oforeign-based corporations§! who pay Müller a hefty fee to sap what resources haven't been drowned by the §BCongo Lake§! - with the Reichskommissar away to hunt down big game and leaving the economic paperwork to his underlings."
 
 ### TUTORIALS ###
-CountryInfo_tab_name_tutorials: "Mod Info"
+CountryInfo_tab_name_tutorials: "Інформація про мод"
 
- CountryInfo_Tutorial_Folder.101: "The New Order" # fuck you
+ CountryInfo_Tutorial_Folder.101: "Новий порядок" # fuck you
 
- CountryInfo_Tutorial_Content.1: "The Cold War"
+ CountryInfo_Tutorial_Content.1: "Холодна війна"
  CountryInfo_Tutorial_Content_desc.1: "§WThe New Order: Last Days of Europe§! answers the question of what a §BCold War§! would look like in the scenario of an §WAxis§! victory in the Second World War. Mirroring its real life counterpart, the world of §WTNO§! is locked in a three-way standoff between the remaining powers of the Second World War: the §qGreater German Reich§!, the §eEmpire of Japan§!, and the §aUnited States of America§!.\n\n§YGlobal domination§! is no longer fought directly within the battlefield between great powers seeking nothing but the §xdemise of the others§!, rather it is sought after through §Ybackroom dealings§!, §Cinternational manipulation§!, §Geconomic competition§!, and §Yexpansion of a superpower's sphere of influence§!, §WTNO§!'s gameplay differs greatly from the vanilla experience with the use of unique gameplay aspects that are discussed below."
 
- CountryInfo_Tutorial_Content.3: "Proxy Wars"
+ CountryInfo_Tutorial_Content.3: "Проксі-війни"
  CountryInfo_Tutorial_Content_desc.3: "It does not mean that war is uncommon in §WThe New Order§!. On the contrary, war is actually §Gextremely common§! and you will fight several as almost every nation. However, wars are not normally expressed through direct conflict, but instead as §RProxy Wars§!. §RProxy Wars§! are wars between two nations, who are backed by two larger nations using their conflict as a way to battle one another without an outright battle. These can also occur during §RCivil Wars§!, which are also exceedingly common.\n\nDuring a §RProxy War§!, nations at war with one another may find themselves being supported by an outside power. If nobody is playing as the backing power, then units will be gifted to the nation fighting the war. If a player is the backing power, however, they will be able to support their side via the §WVolunteer System§! as in vanilla §WHearts of Iron IV§!."
 
- CountryInfo_Tutorial_Content.4: "The Cold War Interface"
+ CountryInfo_Tutorial_Content.4: "Інтерфейс холодної війни"
  CountryInfo_Tutorial_Content_desc.4: "Of course, there is a way to measure and keep track of the contenders to global domination. The button in the shape of the nuclear symbol in the top bar will lead you to the §YCold War Interface§!. It will tell you everything you need to know about those competing in the §BCold War§!, which is currently winning by how much, and in what ways, along with other useful informations.\n\nThe §Yrankings§! tab shows you which country is currently in the lead, calculated by factors such as their §Rmilitary§! and §Geconomic§! power. The §Rtensions§! tab records the palpability of relations between great powers, as well as the incidents that led to this development of tension. The §Gspheres§! tab highlights the economic sphere of the major powers, showing their raw economic power and influence amongst other nations.\n\nFinally, the §xNukes§! tab, discussed in the next entry."
  
- CountryInfo_Tutorial_Content.5: "Nuclear Warfare"
+ CountryInfo_Tutorial_Content.5: "Ядерна війна"
  CountryInfo_Tutorial_Content_desc.5: "§WThe New Order: Last Days of Europe§! ultimately takes place during a Cold War, and not a World War. Each of the major three nations: §Wthe United States§!, §WGermany§!, and §WJapan§!, enjoy full §Rnuclear triad capabilities§! as of 1962; locking the world under the fear of §Rnuclear holocaust§!.\n\nAs such, nations are ultimately at the whim of the §Gsuperpowers§! of the world, and they are forever locked against one another without the means to secure an easy victory. Any war between the three §Gsuperpowers§! will inevitably be §RWorld War III§!.\n\nWhen §RWorld War III§! is fought, it can not end well. The sides will fight until one side begins to falter. If a nation feels that it is about to collapse, is unable to continue a war, or has their core territory overwhelmingly threatened then §Rnuclear war§! is an inevitability. If a nuclear strike is launched, it will be a matter of days until thousands of nuclear weapons are deployed in the war. If this happens, it is §Rgame over§!!"
  
- CountryInfo_Tutorial_Folder.102: "Mechanics"
+ CountryInfo_Tutorial_Folder.102: "Механіки"
  
- CountryInfo_Tutorial_Content.6: "The Economy"
+ CountryInfo_Tutorial_Content.6: "Економіка"
  CountryInfo_Tutorial_Content_desc.6: "§WThe New Order: Last Days of Europe§! features a complex §Weconomy§! mechanic. You can access your economic overview by clicking upon the §Wglobe sign§! in between the §Wresearch§! and §WCold War§! tabs. The foundation of your national economy is your §GGDP§!, which will be the key to the economic prosperity of your state. Your §GGDP§! needs to be balanced out with your §Rdebt§!. Every year, interest upon your §Rdebt§! will be deducted as an expense, and ending up with too high of a §RDebt§! to §GGDP§! ratio could spell financial ruin.\n\nTo avoid troubling economic times, keep a watchful eye upon your §Gincome§! and your §Yexpenditures§!. Your §Gincome§! is determined by multiple factors, the most obvious of which being your §GGDP§!. Many other factors come to play, however, such as your industry, poverty rate, academia, and much more! On the other hand, you have your §Yexpenditures§!, the bane of any economist. §YExpenditures§! are a measure of factors such as military upkeep, social securities, construction projects, and more."
  
- CountryInfo_Tutorial_Content.7: "Laws and Social Development"
+ CountryInfo_Tutorial_Content.7: "Законодавство та соціальний розвиток"
  CountryInfo_Tutorial_Content_desc.7: "Taking inspiration from the law system of Victoria 2, §WThe New Order: Last Days of Europe§! features a detailed law system to express the specific §Ypolicies§! of your nation, providing greater immersion and complexity. Your §Ypolicies§! are located under the §Wpolitical§! tab, and includes a wide range of §Ypolicies§! to consider during the course of your playthrough. Each §Ypolicy§! has its own effects on various game variables, with both pros and cons to each §Ypolicy§!.\n\nFurthermore, each §Ypolicy§! has §Yeffectiveness§! which can improve or worsen as the game goes on, with some being determined by buildings and funding. This determines the effects gained by a §Ypolicy§! and the more effective a §Ypolicy§!, the better the effects.\n\nFinally, §Ysocietal development§! represents the progress of your country and can trend towards positive progress or negative progress, §Gupgrading§! or §Rdowngrading§! throughout your playthrough."
  
- CountryInfo_Tutorial_Content.8: "Country Specific Mechanics"
+ CountryInfo_Tutorial_Content.8: "Специфічні механіки країн"
  CountryInfo_Tutorial_Content_desc.8: "Many of the countries in §WThe New Order§! feature expansive §GScripted GUIs§! designed to add more depth to your §Rgameplay experience§!, and make peacetime gameplay more interactive. §GDecision Scripted GUIs§! are built directly into the §Ydecisions tab§!, and can be accessed simply by opening the tab. This includes the §WTomsk Duma GUI§!, the §WSouth African Referendum GUI§!, and §Rmany§! others!\n\nOn the other hand, §GFull Scripted GUIs§! are accessed via the §Ypolitics tab§!, using a button located below your §Wcountry leader's portrait§!, next to the §WHead of Government's portrait§!. These §GFull Scripted GUIs§! tend to be much more in-depth, and are oftentimes vital to a country's §Rgameplay experience§!. This includes the §WUnited States Voting GUI§!, the §WSpeer Zollverein GUI§!, the §WJapan Legislature GUI§!, and §Rseveral§! others. Furthermore, most §GScripted GUIs§! also feature an §Yinfo button§!, which, when §Rhovered over or clicked on§!, will display helpful information on how the interface works and other features of the §Rintegrated mechanic§!."
  
 ### Development ###
-CountryInfo_tab_name_development: "Mod Development"
+CountryInfo_tab_name_development: "Розробники моду"
  
- CountryInfo_Development_Folder.101: "Social Media"
+ CountryInfo_Development_Folder.101: "Соціальні медіа"
  
- CountryInfo_Development_Content.1: "Follow TNO Development!"
+ CountryInfo_Development_Content.1: "Слідкуйте за розвитком ТНО!"
  CountryInfo_Development_Content_desc.1: "\nYou can find our various social media pages §Ybelow§!.\n\nMake sure to keep yourself up-to-date with our latest development news!"
  
- CountryInfo_Development_Folder.102: "The Ruin Team"
+ CountryInfo_Development_Folder.102: "Команда працююча над Руїна"
  
- CountryInfo_Development_Content.2: "Credits 1"
- CountryInfo_Development_Content.3: "Credits 2"
- CountryInfo_Development_Content.4: "Credits 3"
- CountryInfo_Development_Content.5: "Credits 4"
+ CountryInfo_Development_Content.2: "Титри 1"
+ CountryInfo_Development_Content.3: "Титри 2"
+ CountryInfo_Development_Content.4: "Титри 3"
+ CountryInfo_Development_Content.5: "Титри 4"
 
  CountryInfo_Development_Content_desc.2: "2970, Admiral Ackbar, Afrandez, Albert Himself, AlbertSphere, Alexmaths, Alexmikli, All_names_were_took, Alseber•Linyahu, Ameto17, AnActualFan, Anarcho-Reactionary Leninist, AnarchoNerd, anna.rose, Antarctic Bassist, Antiochus, ANZAC, Arashi89, ArgoniaElTinieblas, ArthurS, Ashley, Atom_Heart_Mother, AtomicFalco, Auskommissar, Averaiden, AvGeekboy, AztechnologyPR, Bababooey, Bagouda, Baguettecommissar, Bak, Baron, Beige, Best Wizard, Blase, Blaze921, Blissenobiarella, Bob69elysium, BomberMonkey, Braxton, BreenChat, Bruhingrad91, Brutalism, Call of the Clock, Calph, Camarade M, CarthAntilles, Catbutr, CGS, Chaosservant, Chatterbox, ChrisProvidence, Chrisuam, Chromonkey, Cimmaron, Clickaholic, Coda, Con, Concommie, Corn, Critical Existence Failure, CrookDoodle, Crys7aL_L1nE, Curvinghawk_5, D3ash, DadJuice, Daffy, Dafid25, Dapowar, DapperT, Deathgriffin, detribulator, diceycloth, DiocletianFanBoy, Dispenser, DJ ZOTA, Dread, DruimNanDeur, Edgar Harford, ElectronicMars, ElWatan, Emmettmcglynn, Englishrocker97, Erich Lukacs,"
  CountryInfo_Development_Content_desc.3: "Eternal Iberian, Fausting, Femkultra, Fillmore48th, Fischer, Flesh Being, Foka, Foxwmv, frost, GameGuy, Garth Hillsborough, GDIFIREHAWK, Georgius_Agricola, Georgy, Gordy, Grek, Happy Warrior, Harroi, Haruhi is Waifuhi, Heboulang, Herennius, Heroin Chic-Fil-a, HIMDogson, Hiyajo Maho, Hkrrm, Hochi, Holiday_in_Cambodia1, Hystiklopp, I Like Cake Too, Imaginary_Reimu, IngJon, INGSOC, Internetismean, IPain, Itsandyru, JadedFanatic, Jag, Jake Zakkarad, Janey, Jazzbro23, Jimmy Carter 80', Johnny Come Home, Jormad, JustAsPlanned, jyano1, KaiserLink, Kaisernut, KapnKetchup, Keisis236, KingDragon, KingOfPandas, Kingquayle, Koovaek, Koyama, Krieg, Krone Ironforger, Kuzunoha, Kvesir, Lady Fortuna, Lamounier, leoJ, Leonskye, Libaton, Lightknight, li kuo jan, Lilian, Local Tory, Losos2408, Maedhros, Makerd, Mango, Manuun, Marethyu, Marxivi, Masterbobli, Matsuo_Basho, matto, McBungus, Me123849, Mic2, Miki Hiiro, Missold_PPI, Mister_cellophane, Mnike, Monogram, Motharchoddar, Na kanapie siedzi Lenin, Nedtheindecisive, Nekronion, Nexerus,"
  CountryInfo_Development_Content_desc.4: "Ngp3, Nick Cutter, Nicolas_B, Nihil, NIKA, NobitaNobi, Noey, NonUnifiedMemoryArchitecture, NotHere, NothingHere, NotMrZ, NukeGaming, Numbers, Oby, OKIKMW, Omega, OPAsian, Orbbri, Ordiel2417, Paradoxicah2, Pedrocomepalomas, PhoenixDefender, Pikeman, Pjero, Pluto, Poobix, Poon Senook, Powism, Professional Bad Person, PrussianBlue, Quétrab, QuoProQuid, Raoultastisch, Rapop101, Raptor, Reccetin, Red_CV6, Rei!, RemyRat, Riko, RobinMukyu, Rooin, Rose Colored Ryan, ruler968, Runelead00, Sableavi, Sakuya, Salic, Sapphireonice, Sausage Man, Scoop, Scrubaverse, Sennylowkey, Shawn, Shift, Shukla, Sick and Restless, Sid McMath, SilverImperator, Sintchdiz, Small-Pinky, SmokedDuck, SomeRandom Texan, SomethingLikeALawyer, Southern Cross, Spughatti, Squee, Starly, StereoRapier, Story, Tanaka Gang, Tannenberg, °*Tarepa*°, Targai, Tarn, TeenSpirit, Tenente Góis, Term, Texan Arms Dealer, ThatGuyNamedSeth, The Fresh Prince, The Wild West Pyro, The WIZARD, The_BlackTiger, TheMountainKing, Theo, ThePingusDingus, TheRedKing247,"
  CountryInfo_Development_Content_desc.5: "TheTortle, TheYugoHOI4Patcher, Thiagosilver, TQR114514, Trun, Tyman, Uglidoll, Vinicioart4, Volkov_Su55, Walmart Employee, Warl0rd13, Wendell, Whyyoumad, Wilzy, Xabiar, Xalas, xFullNelsonx, Yesnttt, Yui, Yveltal, Zarusen, Zerogamer, Zhaba\n\nIn memory of §Lsoftboy anarchist§! and §LLecon_Basin§!"
 
- CountryInfo_Development_Folder.103: "Legal Information"
- CountryInfo_Development_Content.6: "Fair Use Statement"
+ CountryInfo_Development_Folder.103: "Правова інформація"
+ CountryInfo_Development_Content.6: "Заява про добросовісне використання"
  CountryInfo_Development_Content_desc.6: "The New Order: Last Days of Europe ("This Mod") may contain copyrighted material.\n\nThis Mod makes copyrighted materials, if any, available to promote the understanding of the danger of fascism, Nazism, and other forms extremism. This Mod currently does not, and will not attempt to, generate profit via its use of copyrighted materials. Hence, This Mod believes that this constitutes a "fair use" of the copyrighted material as provided for in Title 17, Section 107 of the United States Code or comparative laws in other applicable jurisdictions.\n\nIf you wish to use copyrighted materials for purposes of your own that go beyond "fair use" (or its equivalence in your jurisdiction), you must obtain permission from the copyright owner."
 ### COUNTRY ENDING ###
-CountryInfo_tab_name_ending: "Afterthought"
+CountryInfo_tab_name_ending: "Задумка"
  
