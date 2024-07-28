@@ -1,6 +1,6 @@
 ﻿l_english:
  # Format - TNO vMajorVersion.ContentUpdate.PatchNumber(Hotfix Letter) - Content Update Name
- tno_current_version:0 "TNO v1.5.0д - §R"Руїна"§!"
+ tno_current_version:0 "TNO v1.5.0d - §R"Руїна"§!"
  # Format - Date of most recent update - Hotfix Or Patch Contents
  tno_current_version_date:0 "§Y15 Червня, 2024 - §R"Руїна"§!§!"
 

@@ -2,11 +2,11 @@
  #########
  # INDEX #
  #########
- # 0 - НАЗВА КРАЇНИ
- # 1 - НАЗВИ ПАРТІЙ
- # 2 - ІМ'Я ЛІДЕРІВ
-   # 2.1 - DESC ЛІДЕРІВ
- # 3 - РИСИ ЛІДЕРА
+ # 0 - COUNTRY NAMES
+ # 1 - PARTY NAMES
+ # 2 - LEADER NAMES
+   # 2.1 - LEADER BIOS
+ # 3 - LEADER TRAITS
  # 4 - NATIONAL SPIRITS
  # 5 - MINISTERS
    # 5.1 - GENERALS
@@ -57,109 +57,109 @@
 
 
 
- ####################
- # 0 - НАЗВА КРАЇНИ #
- ####################
- UKR: "Райхскомісаріят Україна"
- UKR_DEF: "Райхскомісаріят Україна"
- UKR_ADJ: "Українськ"
+ #####################
+ # 0 - COUNTRY NAMES #
+ #####################
+ UKR: "Reichskommissariat Ukraine"
+ UKR_DEF: "Reichskommissariat Ukraine"
+ UKR_ADJ: "Ukrainian"
 
- UKR_UNR_start: "Українська Національна Республіка"
- UKR_UNR_start_DEF: "Українська Національна Республіка"
- UKR_UNR_start_ADJ: "Українськ"
+ UKR_UNR_start: "Ukrainian National Republic"
+ UKR_UNR_start_DEF: "the Ukrainian National Republic"
+ UKR_UNR_start_ADJ: "Ukrainian"
 
- ####################
- # 1 - НАЗВИ ПАРТІЙ #
- ####################
- UKR_communist_party: "КП(Б)У"
- UKR_communist_party_long: "Комуністична Партія (більшовиків) України"
+ ###################
+ # 1 - PARTY NAMES #
+ ###################
+ UKR_communist_party: "KP(b)U"
+ UKR_communist_party_long: "Komunistychna Partiya (bil'shovykiv) Ukrayiny (Communist Party of Ukraine (Bolsheviks))"
  UKR_socialist_party: "KP(b)U"
- UKR_socialist_party_long: "Комуністична Партія (більшовиків) України"
- UKR_conservatism_party: "УНРА"
- UKR_conservatism_party_long: "Українська Народно-Революційна Армія"
- UKR_paternalism_party: "УНРА"
- UKR_paternalism_party_long: "Українська Народно-Революційна Армія" 
- UKR_paternalism_1_party: "УНРА"
- UKR_paternalism_1_party_long: "Українська Народно-Революційна Армія" 
- UKR_despotism_party: "УНА-Ш"
- UKR_despotism_party_long: "Українська Національна Армія - Шандрукісти"
- UKR_fascism_party: "УНК-М"
- UKR_fascism_party_long: "Українській Національний Комітет - Мельніковічі"
- UKR_national_socialism_party: "СРЗНСДАР"
- UKR_national_socialism_party_long: "Східна робоча зона Націонал-соціалістичної робітничої партії Німеччини"
- UKR_national_socialism_3_party: "СРЗНСДАР - група Броутігама"
- UKR_national_socialism_3_party_long: "Східний робочий регіон Націонал-соціалістичної робітничої партії Німеччини - група Броутігама"
- UKR_national_socialism_2_party: "СРЗНСДАР - група Олендорфа"
- UKR_national_socialism_2_party_long: "Східна робоча область Націонал-соціалістичної німецької робітничої партії - група Олендорфа"
- UKR_ultranationalism_party: "УПА"
- UKR_ultranationalism_party_long: "Українська Повстанська Армія"
+ UKR_socialist_party_long: "Komunistychna Partiya (bil'shovykiv) Ukrayiny (Communist Party of Ukraine (Bolsheviks))"
+ UKR_conservatism_party: "UNRA"
+ UKR_conservatism_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya"
+ UKR_paternalism_party: "UNRA"
+ UKR_paternalism_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya" 
+ UKR_paternalism_1_party: "UNRA"
+ UKR_paternalism_1_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya" 
+ UKR_despotism_party: "UNA-S"
+ UKR_despotism_party_long: "Ukrayins'ka Natsional'na Armiya - Shandrukistiv"
+ UKR_fascism_party: "UNK-M"
+ UKR_fascism_party_long: "Ukrayins'kyy Natsional'nyy Komitet - Mel'nykovtsi"
+ UKR_national_socialism_party: "AOdNSDAP"
+ UKR_national_socialism_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei"
+ UKR_national_socialism_3_party: "AOdNSDAP - Bräutigams Gruppe"
+ UKR_national_socialism_3_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei - Bräutigams Gruppe"
+ UKR_national_socialism_2_party: "AOdNSDAP - Ohlendorfs Gruppe"
+ UKR_national_socialism_2_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei - Ohlendorfs Gruppe"
+ UKR_ultranationalism_party: "UPA"
+ UKR_ultranationalism_party_long: "Ukrayins'ka Povstans'ka Armiya"
 
- UKR_speer_prov_government_national_socialism: "Перехідний уряд"
- UKR_speer_prov_government_national_socialism_long: "Перехідний уряд"
- UKR_collab_paternalism: "УНК"
- UKR_collab_paternalism_long: "Український національний комітет"
- UKR_collab_fascism: "НСДАП-У"
- UKR_collab_fascism_long: "Націонал-соціалістична німецька робітнича партія - Україна"
- UKR_collab_national_socialism: "НСДАП-У"
- UKR_collab_national_socialismlong: "Націонал-соціалістична німецька робітнича партія - Україна"
+ UKR_speer_prov_government_national_socialism: "Übergangsregierung"
+ UKR_speer_prov_government_national_socialism_long: "Übergangsregierung"
+ UKR_collab_paternalism: "UNK"
+ UKR_collab_paternalism_long: "Ukrayins'kyy Natsional'nyy Komitet"
+ UKR_collab_fascism: "NSDAP-U"
+ UKR_collab_fascism_long: "Nationalsozialistische Deutsche Arbeiterpartei - Ukraine"
+ UKR_collab_national_socialism: "NSDAP-U"
+ UKR_collab_national_socialismlong: "Nationalsozialistische Deutsche Arbeiterpartei - Ukraine"
 
- UKR_UNR_UNC_party_long: "Український національний конгрес"
- UKR_UNR_UNC_party: "УНК"
+ UKR_UNR_UNC_party_long: "Ukrayins'kyy Natsional'nyy Konhres"
+ UKR_UNR_UNC_party: "UNK"
 
  UKR_brautigam_national_socialism_3: "$UKR_national_socialism_3_party$"
  UKR_ohlendorf_national_socialism_2: "$UKR_national_socialism_2_party$"
 
  ####################
- # 2 - ІМ'Я ЛІДЕРІВ #
+ # 2 - LEADER NAMES #
  ####################
 
- UKR_Erich_Koch: "Еріх Кох"
- UKR_Georg_Leibbrandt: "Георг Лейббрандт"
- UKR_Otto_Ohlendorf: "Отто Олендорф"
- UKR_Hans_Otto_Brautigam: "Ганс-Отто Браутігам"
- UKR_Theodor_Kretschmer: "Теодор Кречмер"
- UKR_Pieter_Schelte_Heerema: "Пітер Шельте Хірема"
- UKR_Peter_Kozhevnikov: "Петро Кожевніков"
- UKR_Andriy_Melnyk: "Андрій Мельник"
- UKR_Pavlo_Shandruk: "Павло Шандрук"
- UKR_Volodymyr_Kubiyovych: "Володимир Кубійович"
- UKR_UNBEKANNT: "НЕВІДОМИЙ" #for starting piechart
- UKR_UNBEKANNT_TWO: "НЕВІДОМИЙ" #for starting piechart
- UKR_UNBEKANNT_THREE: "НЕВІДОМИЙ" #for starting piechart
- CRI_Karl_Gunther_von_Hase: "Карл-Гюнтер фон Газе"
+ UKR_Erich_Koch: "Erich Koch"
+ UKR_Georg_Leibbrandt: "Georg Leibbrandt"
+ UKR_Otto_Ohlendorf: "Otto Ohlendorf"
+ UKR_Hans_Otto_Brautigam: "Hans-Otto Bräutigam"
+ UKR_Theodor_Kretschmer: "Theodor Kretschmer"
+ UKR_Pieter_Schelte_Heerema: "Pieter Schelte Heerema"
+ UKR_Peter_Kozhevnikov: "Peter Kozhevnikov"
+ UKR_Andriy_Melnyk: "Andriy Melnyk"
+ UKR_Pavlo_Shandruk: "Pavlo Shandruk"
+ UKR_Volodymyr_Kubiyovych: "Volodymyr Kubiyovych"
+ UKR_UNBEKANNT: "UNBEKANNT" #for starting piechart
+ UKR_UNBEKANNT_TWO: "UNBEKANNT" #for starting piechart
+ UKR_UNBEKANNT_THREE: "UNBEKANNT" #for starting piechart
+ CRI_Karl_Gunther_von_Hase: "Karl-Günther von Hase"
 
- ######################
- # 2.1 - DESC ЛІДЕРІВ #
- ######################
- POLITICS_ERICH_KOCH_DESC: "Це те, що залишилося Еріху Коху. Це те, на що він заслуговує.\n\nНа піку своєї влади Еріх Кох був головорізом на троні, жорстоким навіть за мірками Третього Рейху. Його колоніальна політика була нескінченним циклом експлуатації та репресій, покликаних примусити український народ до покори. Під його керівництвом Голодомор залишив корінне населення голодувати на бурштинових копальнях, а квоти звели його до рабства. У своїй уяві він викував саму картину lebensraum: кривавий діамант у короні Гітлера.\n\nЗвісно, це не могло тривати довго. Після закінчення Західно-Російської війни перед Рейхскомісаріатом постало набагато більше проблем, ніж Кох міг собі уявити. Над ним сиділа армія адміністраторів, які вимагали все більше і більше, сподіваючись підтримати хвору економіку Рейху ще більшою кров'ю з його житниці. Під ним кричав натовп тубільців, вимагаючи свободи від прірви, яку він створив. Вперше Еріх Кох зіткнувся з проблемами, які не можна було вирішити за допомогою батогів і молотків. Рейхскомісар остаточно розгубився.\n\nЗамість того, щоб спробувати здійснити серйозні зміни, рейхскомісар дозволив колонії стагнувати під ним, навіть коли терор зростає, а прибутки сповільнюються. У глибині душі Еріх Кох, можливо, і знає якесь рішення, але йому бракує енергії, щоб змінити долю України. Заради прибутку рейхскомісар перетворив свою колонію на пісок - тепер він спостерігає, як її здуває."
+ #####################
+ # 2.1 - LEADER BIOS #
+ #####################
+ POLITICS_ERICH_KOCH_DESC: "This is what Erich Koch has been left with. This is what he deserves.\n\nAt his peak of authority, Erich Koch was a thug upon a throne, brutal even by the standards of the Third Reich. His colonial policy was an endless cycle of exploitation and repression, designed to beat the Ukrainian people into submission. Under his watch, the Hunger Plan left the native population starving in fields of amber, and his quotas reduced them to slavery. In his mind, he had forged the very picture of lebensraum: a blood diamond in Hitler's crown.\n\nIt could not last, of course. In the wake of the West Russian War, the Reichskommissariat was left with far more problems than Koch could comprehend. Above him, an army of administrators demanded more and more, hoping to prop up the Reich's ailing economy with further blood from its breadbasket. Below him, a crowd of natives screamed, demanding freedom from the abyss he had created. For the first time, Erich Koch was faced with problems which could not be solved with whips and hammers. The Reichskommissar was finally lost.\n\nRather than attempting major changes, the Reichskommissar has let the colony stagnate beneath him, even as terror rises and profits slow. Deep down, Erich Koch may be aware of some solution, but the man lacks the energy to change Ukraine's fate. In the name of profit, the Reichskommissar ground his colony into sand - now, he watches it blow away."
 
- POLITICS_VOLODYMYR_KUBIYOVYCH_DESC: "Епоха гноблення, варварства та кровопролиття зламала волю багатьох чоловіків і жінок виступити проти іноземного імперіалізму, і ще менше простих людей наважилися б відкрито закликати до незалежності. Втім, Володимир Кубійович - не з таких людей, як показало життя військового, географа та політика. Однак численні способи життя та бюрократія, що оточували Кубійовича, не стануть на заваді єдиній, справжній меті, яка завжди жила у свідомості українця, вихованого у Польщі, з образом радісного українця у власній вільній державі.\n\nЖиття, пов'язане з навчанням та викладанням, не підготувало б інтелектуала до нацистського вторгнення на польську землю, на якій він прожив більшу частину свого життя, відкинутий діаспорою, а тепер - ще один загарбник його дому. Таким чином, Кубійович заглибився у вогонь свого презирства, щоб заснувати одну з небагатьох соціальних програм в Європі, яка допомагає тисячам українських чоловіків, жінок і дітей, що постраждали від війни. Тим часом, колишній картограф вирішив протистояти сумнозвісному Гансу Франку в його жаданій бійні з українськими селянами, дозволивши трохи більше успіху для своїх бездомних людей. Однак, коли прийшла перемога нацистів, все, що міг зробити Кубійович - це сприяти зростанню галицького Ваффен-СС, щоб використати його як основу для псевдо-армії для захисту від подальших нацистських переслідувань.\n\nОднак, в епоху темряви, в якій опинилася Україна, для Кубійовича та його товаришів на горизонті з'являється промінь світла. Люди можуть стати проти нього, вчепитися в нього кігтями, щоб знищити його спроби здобути незалежність. Але такі клопоти і гріхи проти українського народу не стануть на заваді співпраці Кубійовича з Райхом. Ніщо не стане."
+ POLITICS_VOLODYMYR_KUBIYOVYCH_DESC: "An age of oppression, barbarism, and bloodshed has crushed the will of many men and women to take a stand against foreign imperialism, and even fewer ordinary people would dare openly call for independence. However, Volodymyr Kubiyovych is not most people, as a lifetime as a soldier, a geographer, and a politician has shown. However, the many lifestyles of and bureaucracy surrounding Kubiyovych will not stand in the way of the one, true goal which has always persisted in the mind of the Polish-raised Ukranian, with the image of cheering Ukranians in a free state of their own.\n\nA life of study and teaching would not prepare the intellectual for the Nazi invasion of the Polish land he had lived in for most of his life, spurned by diaspora and, now, another invader of his home. Thus, Kubiyovych delved into the fire of his scorn to establish one of the few social programs on the face of Europe, helping thousands of Ukranian men, women, and children affected by the war. Meanwhile, the former cartographer chose to stand against the infamous Hans Frank in his desired slaughter of Ukranian peasants, allowing just a bit more success for his homeless people. However, as the Nazi victory came, all Kubiyovych could do was encourage the growth of the Galician Waffen-SS to use as a foundation for a pseudo-army to protect against further Nazi persecution.\n\nHowever, in the age of darkness Ukraine has found itself in, a light dawns on the horizon for Kubiyovych and his companions. Men may stand against him, clawing at him to strike down his attempts for independence. But such botherations and sins against the Ukranian people shall not stand against Kubiyovych's work with the Reich. Nothing will."
 
- POLITICS_GEORG_LEIBBRANDT_DESC: «У роки свого депутатства Георг Лейббрандт завжди мріяв про такий момент. Побачити Коха вбитим власною пихою, побачити кожну дурість старого режиму оголеною - концепція такого драматичного краху була для депутата злісною фантазією. Проте його мрії завжди закінчувалися тим, що його область стабільна і функціональна, продукт його наукових реформ. Вони ніколи так не закінчувалися.\n\nЗасунутий на покручений трон Еріха Коха, Лейббрандт ніколи не усвідомлював ступінь безгосподарності на всіх рівнях рейхскомісаріату. Так, депутат бачив в українцях природних союзників, але масштаби їхньої непокори перевершили навіть його найжахливіші сценарії. Там, де він уявляв себе єдиним реформатором зруйнованої системи Коха, тепер він змушений ділити владу з двома колегами-«візіонерами», які розстрілюють кожну його пропозицію. Навіть зараз він чує розмови в кулуарах про депутатів, які підскочили, і яких зметуть, щойно закінчиться війна. Непокора, здається, пережила навіть сам Рейхскомісаріат.\n\nНема часу для реформ. Немає місця для змін. Коли Лейббрандт оглядає свою вмираючу колонію, він може думати лише про одне - двадцять три роки. Понад два десятиліття погано сформульованих планів, непродуманої риторики та дрібних чвар залишили Україну в цю мить. Горе тому, хто залишився збирати уламки."
+ POLITICS_GEORG_LEIBBRANDT_DESC: "In his years as deputy, Georg Leibbrandt had always dreamed of a moment like this. To see Koch killed by his own hubris, to see every folly of the old regime laid bare, the concept of such a dramatic collapse had come as a spiteful fantasy to the deputy. Yet his dreams always ended with his domain as stable and functional, a product of his scientific reforms. They never ended like this.\n\nShoved into the twisted throne of Erich Koch, Leibbrandt never realized the degree of mismanagement at every level of the Reichskommissariat. Yes, the deputy had seen the Ukrainians as natural allies, but the scale of their insubordination outmatched even his most dire scenarios. Where he imagined himself the sole reformer of Koch's broken system, he now must share power with two fellow "visionaries", who shoot down every one of his proposals. Even now, he hears talks in the halls of the hopped-up deputy who will be swept away as soon as the war is over. Insubordination, it seems, has outlasted even the Reichskommissariat itself.\n\nThere is no time for reform. There is no place for change. As Leibbrandt looks around his dying colony, he can only think one thought, twenty-three years. More than two decades of badly formulated plans, ill-conceived rhetoric, and petty infighting have left Ukraine in this moment. Woe to the man who is left to pick up the pieces."
 
- POLITICS_GEORG_LEIBBRANDT_WIN_DESC: "Як довго томився Георг Лейббрандт? Як довго він дозволяв жовтіти і розсипатися сторінкам своїх планів, залишених у блокнотах, поки герру Коху дозволяли безконтрольно розгулювати? Скільки вірних розенбергівців загинуло в безвиході, вірячи, що кращої системи ніколи не буде? \n\nСьогодні, беззаперечно перебуваючи при владі, Лейббрандт все ще не може не думати про ці питання. Рейхскомісар залишив у спадок країну руїн, а Україна мала б бути країною миру та гідності, її шляхетні, прості громадяни вже були піднесені милостивою німецькою державою. Натомість, тепер Лейббрандт повинен довести світові свою цінність у найгірших умовах.\n\nКоли його плани з'являються з запилених папок у руках союзників, всі можуть сказати, наскільки грандіозним є бачення рейхскомісара. Лейббрандт хоче переходу до незалежної української держави, але держави, яка від самого початку була ідеально спроектована для збереження рабської німецької лояльності. Для Лейббрандта це перемога раціонального управління. Український народ не такий впевнений.\n\nЛейббрандт написав сценарій для своєї нації, в якому він є героєм для величезного і нужденного народу, в якому Україна звільняється і трансформується під його владними диктатами. Він вже знайшов своїх акторів, свою знімальну групу і свою сцену. Якщо Україні можна довіряти, то спадщина Лейббрандта вже забезпечена."
+ POLITICS_GEORG_LEIBBRANDT_WIN_DESC: "How long did Georg Leibbrandt languish? How long did he let the pages of his plans yellow and crumble, left in their notebooks while Herr Koch was allowed to rampage unchecked? How many loyal Rosenbergites died driftless, believing a better system could never come to pass?\n\nNow unquestioningly in power, Leibbrandt still cannot help but think of these questions. The Reichskommissar has been left with a nation of rubble, but Ukraine should have been a nation of peace and dignity, its noble, simple citizens already uplifted by the gracious German state. Instead, Leibbrandt now must prove his worth to the world, in the midst of the worst of conditions.\n\nAs his plans emerge from dusty binders into allied hands, all can tell just how grand the Reichskommisar's vision is. Leibbrandt wants a transition to an independent Ukrainian state, yet a state perfectly designed at the onset to preserve a slavish German loyalty. To Leibbrandt, it is a victory for rational governance. The Ukrainian people are not so certain.\n\nLeibbrandt has written a script for his nation, one in which he is the hero to a vast and needy people, one in which Ukraine is freed and transformed by his powerful dictums. He has already found his actors, his crew, and his stage. So long as Ukraine can be trusted to follow, Leibbrandt's legacy is already secured."
 
- POLITICS_HANS_OTTO_BRAUTIGAM_DESC: "Хоча Браутігам ні на секунду не сумнівався в собі, злет такого відданого реформатора до посади рейхскомісара вразив навіть його самого.\n\nКоли сила впливу його дядька подарувала йому роботу представника Міністерства закордонних справ в Україні, Ганс-Отто Браутігам спершу відчув себе загубленим у такій чужій країні. Він міг лише впасти у відчай від того, що здавалося глухим кутом, але в цій східній колонії він знайшов своє покликання, оскільки бездарність стала повсюдною. Його заклики до радикальних реформ статус-кво приваблювали тих, хто дивився на його ідеали як на ліки від хаосу.\n\nМережа контактів, непохитна віра в реформи і везіння створили магічну формулу, яка перетворила його на рейхскомісара України. Політичні свободи та підтримка багатостраждального корінного населення - в центрі уваги, адже ідеали Браутігама можуть стати реальністю. Але його шлях нелегкий. Його фракція - лише самотній маяк, який б'ється об хвилі жорстких ортодоксальних поглядів. Навіть його союзники задаються питанням, чи не заходить він занадто далеко зі своїми пропозиціями.\n\nАле якщо Браутігаму вдасться здійснити свої реформи, надія може незабаром знову запанувати над усією Україною..."
+ POLITICS_HANS_OTTO_BRAUTIGAM_DESC: "While Bräutigam never doubted himself for a second, the rise of such a committed reformist to the position of Reichskommissar astounds even him.\n\nWhen the power of his uncle's pull gifted him a job as Representative of the Foreign Office in Ukraine, Hans-Otto Bräutigam first felt lost in such a foreign land. He could only despair at what seemed like a dead end, but in this eastern colony, he found his calling as ineptitude became abundant. His calls for extreme reforms to the status quo attracted those who looked to his ideals as a cure to the chaos.\n\nA network of contacts, an unwavering belief in reform and luck crafted the magic formula to turn him into the Reichskommissar of Ukraine. Political freedoms and support for the long-suffering natives are in the spotlight as Bräutigam's ideals can come true. But his road is not an easy one. His faction is but a lone lighthouse battered by waves of rigid orthodox attitudes. Even his allies wonder if he is going too far with his proposals.\n\nBut if Bräutigam were to succeed in his reforms, hope may soon rule the day in all of Ukraine once more..."
  
- POLITICS_OTTO_OHLENDORF_DESC: "Отто Олендорф - це все, що СС прагне створити в людині. Він незалежний, вільнодумець у всіх своїх проявах. Він слухняний, бюрократ, який вирішив прожити своє життя у механічному дусі Бісмарка. Він несамовито прагне впроваджувати нацизм, і його абсолютно не цікавлять життя і думки тих, кого він вважає нижчими.\n\nДо цього часу СС ненавиділи його за це. Олендорф серйозно ставився до логічного продовження нацистських ідеалів і розглядав стан німецької економіки як трагедію для арійського народу. Він записав те, що бачив - занепадаюче, дедалі більш нерівне суспільство, яке не змогло використати своє насильницьке панування для забезпечення пересічного громадянина. Він писав про занепадаючу партію зі щирим песимізмом, і есесівці сприйняли цю думку як роздратування. З тих пір вони його карали.\n\nТепер Олендорф має шанс виправити цю помилку. Рейхскомісар, можливо, все ще не є його ідеальною роллю, але якщо Отто Олендорф зможе економічно трансформувати цю глушину, у нього може з'явитися шанс показати Німеччині, наскільки правильно його методи можуть трансформувати весь Рейх. За роки навчання, роки економічної роботи, роки насильства він здобув багатий досвід і зв'язки в усіх сферах державного управління. Тепер настав час ними скористатися."
+ POLITICS_OTTO_OHLENDORF_DESC: "Otto Ohlendorf is everything that the SS seeks to create in a man. He is independent, a free-thinker in his every manner. He is dutiful, a bureaucrat who chooses to live his life by the mechanical spirit of Bismarck. He is violently willing to enforce Nazism, and is utterly uninterested in the lives and minds of those he deems lesser.\n\nUntil now, the SS have hated him for it. Ohlendorf took the logical extension of Nazi ideals seriously, and viewed the state of the German economy as a tragedy for the Aryan Volk. He wrote down what he saw - a decaying, increasingly unequal society that was failing to use its violent dominance to provide for the everyman. He wrote of a decaying party with an honest pessimism, and the SS saw that opinion as an annoyance. They have punished him ever since.\n\nNow, Ohlendorf has a chance to reverse that slight. Reichskommissar may still not be his ideal role, but if Otto Ohlendorf can economically transform this backwater, he may have a chance of showing Germania just how proper his methods could transform the entire Reich. In his years of study, his years of economic work, his years of violence, he has built a wealth of expertise and connections across every facet of his government. Now the time comes to wield them."
 
- POLITICS_PETER_KOZHEVNIKOV_DESC: "Петро Кожевников став Президентом України, її верховним лідером. Згідно з офіційними джерелами, він відіграв величезну роль у звільненні України. Це не зовсім неправда. Зрештою, найкращі вистави містять натяк на правду.\n\nАле Кожевніков навряд чи звільнив свій народ на вістрі багнета. Він звільнив його з німецькою печаткою схвалення, з рукостисканнями і посмішками, з Лейббрандтом, який стояв поруч. Тепер він може просторікувати на будь-яку фашистську тему, яка йому до вподоби, а радіостанції транслюють його промови в кожному місті України.\n\nТака історія є поширеною в Українській Народній Республіці. Багато українців пережили стрімкий злет, їхні історії прогриміли по всіх каналах як ознака часу. Звільнені від неволі, українці тепер можуть вступати до школи, навіть приєднатися до вищого керівництва. Може скластися враження, що вони можуть робити все, що завгодно.\n\nНасправді, багато речей все ще залишаються за завісою, подалі від українських рук. Економіка все ще належить німецьким промисловцям, військова сфера - військам Вермахту. Навіть Лейббрандт залишається в Києві, «радником» лише за назвою. І все ж у повітрі витає відчуття надії. Вперше за багато десятиліть український народ бачить вихід. Можливо, він не буде схожий на справжній дім, але він може бути достатнім."
+ POLITICS_PETER_KOZHEVNIKOV_DESC: "Peter Kozhevnikov has been made President of Ukraine, its paramount leader. According to official sources, he has played a vast role in freeing Ukraine. This is not strictly false. The best performances contain a hint of truth, after all.\n\nYet Kozhevnikov hardly liberated his nation on a bayonet's edge. He liberated it with a German stamp of approval, with handshakes and smiles, with Leibbrandt standing beside him. Now, he gets to rant on whatever fascistic subject he likes, while radios blare it across every city in Ukraine.\n\nSuch a story is common in the Ukrainian National Republic. Many Ukrainians have had precipitous rises, their stories blared across every channel as a sign of the times. Freed from bondage, Ukrainians can now enter school, even join upper management. It can feel as if they can do anything.\n\nIn truth, many things still lie behind the curtains, away from Ukrainian hands. The economy still rests with German industrialists, the military with Wehrmacht troops. Even Leibbrandt remains in Kiew, an "advisor" in name only. Yet there is a sense of hope in the air. For the first time in decades, the Ukrainian people see a way out. It may not feel like a true home, but it just might suffice."
 
  #####################
- # 3 - РИСИ ЛІДЕРА   #
+ # 3 - LEADER TRAITS #
  #####################
- ukraines_gravedigger: "Могильник України" #Koch
- ukraines_director: "Український директор" #Leibbrandt
- ukraines_reformer: "Реформатор України" #Brautigam
- ukraines_policeman: "Український міліціонер" #Ohlendorf
- the_old_fighter: "Борець до кінця" #Shumskyi
- the_black_raven: "Чорний Ворон" #Horlis
- pulse_of_the_age: "Пульс століття" #Dziuba
- the_road_of_pain: "Шлях болю" #Stus
- ataman_of_babi_yar: "Отаман Бабиного Яру" #Ohloblyn
- providnyk_of_the_national_revolution: "Провідник Національної революції" #Klyachkivsky
- mind_of_the_national_revolution: "Мозок національної революції" #Stetsko
- soldier_of_the_national_revolution: "Солдат Національної революції" #Shukhevych
+ ukraines_gravedigger: "Ukraine's Gravedigger" #Koch
+ ukraines_director: "Ukraine's Director" #Leibbrandt
+ ukraines_reformer: "Ukraine's Reformer" #Brautigam
+ ukraines_policeman: "Ukraine's Policeman" #Ohlendorf
+ the_old_fighter: "Fighter Until The End" #Shumskyi
+ the_black_raven: "The Black Raven" #Horlis
+ pulse_of_the_age: "Pulse of the Age" #Dziuba
+ the_road_of_pain: "Road of Pain" #Stus
+ ataman_of_babi_yar: "Ataman of Babi Yar" #Ohloblyn
+ providnyk_of_the_national_revolution: "Providnyk of the National Revolution" #Klyachkivsky
+ mind_of_the_national_revolution: "Mind of the National Revolution" #Stetsko
+ soldier_of_the_national_revolution: "Soldier of the National Revolution" #Shukhevych
  ########################
  # 4 - NATIONAL SPIRITS #
  ########################
@@ -606,7 +606,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_intro_chain.10.a: "Our Party, like any other political party, strives after political domination for itself."
 
  UKR_intro_chain.11.t: "To Never Again Lose a Generation"
- UKR_intro_chain.11.desc: ""Laying our hopes down to some sort of collapse is the exact line of thought which lost us Filkov and Petrovich and countless other young men! The Reich is as strong as ever, their units are replenished regularly, and we can't even harass supply lines anymore!"\n\nMiksim Korniychuk thought the meeting was going swimmingly, as in it hadn't already ended, which most in the room seemed to want.\n\n"We have nothing, then! We can't feed our troops, defections are rising, and the people here don't even speak Ukrainian! There is no national feeling at all it seems, much less class consciousness! Raiding is the only thing that excites the men!"\n\n"Probably because all of your 'men' are common murderers and bandits wearing old uniforms!"\n\n"That's enough!" Korniychuk stood above the other commanders, who all immediately yielded. "We all know our failures. We stare them in the face daily. How many countless times do I wish Filkov had lived, and I had not ordered him to raid Kharkiv? Those photos of Petrovich dangling from a tree still haunt me. We all have made mistakes, that is the only thing I know surely. Our failure hangs over every village we plundered for a few chickens while the whole nation starved. It hangs over every city ringed by ruins. It hangs over the graves of men we ordered to their deaths. It hangs over me, heavier and heavier with each passing moment!"\n\nThe whole room was silent now. Not a man averted their gaze from Korniychuk's steely visage. Not a man disagreed.\n\n"We have what we have. I have talked to peasants, who view themselves not as Ukrainians or even as Russians, but simply as residents of farms. I have conversed with factory workers who don't even remember Soviet times, and who believe every word of Hitlerite propaganda. I shall not lie, the situation is bleaker, bleaker than you know. However, we still fight, and we will continue to fight, for Ukraine will never live unless we do!"\n\nKorniychuk sunk unto his chair. The room returned to a slight din, as each commander rattled off possible strategies. The meeting ended with each man leaving, one by one..."
+ UKR_intro_chain.11.desc: ""Laying our hopes down to some sort of collapse is the exact line of thought which lost us Filkov and Petrovich and countless other young men! The Reich is as strong as ever, their units are replenished regularly, and we can't even harass supply lines anymore!"\n\nMaksym Korniychuk thought the meeting was going swimmingly, as in it hadn't already ended, which most in the room seemed to want.\n\n"We have nothing, then! We can't feed our troops, defections are rising, and the people here don't even speak Ukrainian! There is no national feeling at all it seems, much less class consciousness! Raiding is the only thing that excites the men!"\n\n"Probably because all of your 'men' are common murderers and bandits wearing old uniforms!"\n\n"That's enough!" Korniychuk stood above the other commanders, who all immediately yielded. "We all know our failures. We stare them in the face daily. How many countless times do I wish Filkov had lived, and I had not ordered him to raid Kharkiv? Those photos of Petrovich dangling from a tree still haunt me. We all have made mistakes, that is the only thing I know surely. Our failure hangs over every village we plundered for a few chickens while the whole nation starved. It hangs over every city ringed by ruins. It hangs over the graves of men we ordered to their deaths. It hangs over me, heavier and heavier with each passing moment!"\n\nThe whole room was silent now. Not a man averted their gaze from Korniychuk's steely visage. Not a man disagreed.\n\n"We have what we have. I have talked to peasants, who view themselves not as Ukrainians or even as Russians, but simply as residents of farms. I have conversed with factory workers who don't even remember Soviet times, and who believe every word of Hitlerite propaganda. I shall not lie, the situation is bleaker, bleaker than you know. However, we still fight, and we will continue to fight, for Ukraine will never live unless we do!"\n\nKorniychuk sunk unto his chair. The room returned to a slight din, as each commander rattled off possible strategies. The meeting ended with each man leaving, one by one..."
  UKR_intro_chain.11.a: "Their cause bloodied, but just as necessary."
 
  # UPA Mini-Chain
@@ -2018,9 +2018,9 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_power_struggle_reassure_the_businessmen: "Reassure The Businessmen"
  UKR_power_struggle_assuage_the_orthodoxy: "Assuage The Orthodoxy"
  UKR_power_struggle_isolate_ohlendorfs_allies: "Isolate Ohlendorf's Allies"
- UKR_power_struggle_empower_loyal_collabolators: "Empower Loyal Collabolators"
- UKR_power_struggle_empower_loyal_collabolators_decision_cost: "£GFX_weapon_icon  §Y100§!  £GFX_political_power_texticon  §Y25§!"
- UKR_power_struggle_empower_loyal_collabolators_decision_cost_blocked: "£GFX_weapon_icon  §R100§!  £GFX_political_power_texticon  §R25§!"
+ UKR_power_struggle_empower_loyal_collaborators: "Empower Loyal Collaborators"
+ UKR_power_struggle_empower_loyal_collaborators_decision_cost: "£GFX_weapon_icon  §Y100§!  £GFX_political_power_texticon  §Y25§!"
+ UKR_power_struggle_empower_loyal_collaborators_decision_cost_blocked: "£GFX_weapon_icon  §R100§!  £GFX_political_power_texticon  §R25§!"
  UKR_power_struggle_bring_in_foreign_academics: "Bring In Foreign Academics"
  UKR_power_struggle_sacrifice_for_greater_good: "Sacrifice For Greater Good"
 
@@ -2063,7 +2063,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UCW_brothers_war: "§RThe Brother's War Intensifies!§!"
  UCW_brothers_war_intensify: "§RThe effects of the §YBrother's War§! national spirit will §Vintensify§!.§!"
  
- UKR_UCW_haggle_with_industrialists: "Haggle With §kIndustrialists§!"
+ UKR_UCW_haggle_with_industrialists: "Haggle With §LIndustrialists§!"
  UKR_UCW_haggle_with_industrialists_desc: "Many industrialists are still unsure about their loyalties - but this can change. Leibbrandt believes that factories are crucial, more crucial than the others give them credit. If he convinces the council, he can trade off some of the current supplies to the factory guards in return for their loyalty - making certain that the war can continue as long as the government requires."
  
  UKR_UCW_secure_farms_and_factories: "Secure the §fFarms§! and §wFactories§!"
@@ -2505,9 +2505,9 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  PS_Leibbrandt_name: "§BLeibbrandt§!"
  PS_Ohlendorf_name: "§oOhlendorf§!"
  
- UKR_ind_influence_increase_tt: "§GIncreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §kIndustrialists§! by §G[?PS_IND_temp]%§!"
- UKR_ind_influence_decrease_tt: "§RDecreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §kIndustrialists§! by §R[?PS_IND_temp]%§!"
- UKR_PS_IND_lowpoint: "§R[getInfGuy]'s support amongst the£UKR_industrial_texticon §kIndustrialists§! cannot decrease further.§!"
+ UKR_ind_influence_increase_tt: "§GIncreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §LIndustrialists§! by §G[?PS_IND_temp]%§!"
+ UKR_ind_influence_decrease_tt: "§RDecreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §LIndustrialists§! by §R[?PS_IND_temp]%§!"
+ UKR_PS_IND_lowpoint: "§R[getInfGuy]'s support amongst the£UKR_industrial_texticon §LIndustrialists§! cannot decrease further.§!"
  
  UKR_bur_influence_increase_tt: "§GIncreases§! [getInfGuy]'s support amongst the £UKR_bureaucracy_texticon  §rBureaucracy§! by §G[?PS_BUR_temp]%§!."
  UKR_bur_influence_decrease_tt: "§RDecreases§! [getInfGuy]'s support amongst the £UKR_bureaucracy_texticon   §rBureaucracy§! by §R[?PS_BUR_temp]%§!."
@@ -2523,7 +2523,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  
  UKR_power_struggle_info_tt: "basically you got to get the guy you want to take charge to have the support of the most groups thats it really"
  
- UKR_PS_IND_tt: "§FThe £UKR_industrial_texticon §kIndustrialists'§! loyalty belongs to [Get_UKR_PS_inf_IND].§!"
+ UKR_PS_IND_tt: "§FThe £UKR_industrial_texticon §LIndustrialists'§! loyalty belongs to [Get_UKR_PS_inf_IND].§!"
  UKR_PS_IND_tt_delayed: "§LThe great mass of landlords, shareholders, and industrial barons of Ukraine are collectively known as the industrialists.\n\nThe beneficiaries of the Reich's system of slavery and slaughter, they are perhaps the only men who truly benefit from the crumbling Ukrainian state - and they wish to keep it alive however possible.§!\n\n§BLeibbrandt§! has [?UKR_PS_Industrialist^1]% support\n\n§oOhlendorf§! has [?UKR_PS_Industrialist^0]% support\n\n§gBräutigam§! has [?UKR_PS_Industrialist^2]% support"
  UKR_PS_BUR_tt: "§FThe £UKR_bureaucracy_texticon §rBureaucracy's§! loyalty belongs to [Get_UKR_PS_inf_BUR].§!"
  UKR_PS_BUR_tt_delayed: "§LA motley crew of exiles from across the Reich, the bureaucracy of the Reichskommissariat can only seem to agree on a single phrase: stability must be restored.\n\nYet they propose no real solution, no direction. Should one wish to rule the Reichskommissariat, he will need to provide one.§!\n\n§BLeibbrandt§! has [?UKR_PS_Bureaucrat^1]% support\n\n§oOhlendorf§! has [?UKR_PS_Bureaucrat^0]% support\n\n§gBräutigam§! has [?UKR_PS_Bureaucrat^2]% support"
@@ -2595,7 +2595,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_remind_diplomats_of_hitlers_decree_tt: "§gBräutigam§! and his fellow £SGR_NSDAP_Dissident §gsentimentalists§! have overstepped their bounds. §RIt is time to remind §gthem§! of their duties.§!"
  UKR_but_humble_the_selfrighteous_prussian_tt: "§oOhlendorf§! has given himself too much credit for what §YI§! have achieved. §RI will put §ohim§! in his place.§!"
  UKR_thatll_keep_the_deputy_busy_tt: "If §BLeibbrandt§! cares so much for the §BSlavic degenerates§!, maybe he will actually do his §Gjob§! instead of §Rwhining§!."
- UKR_skip_noc_holdings_tt: "§kHeerema§! and his little §kcompany§! have no need for funds that must go to §Ymore important projects§!. §RI am sure he will understand.§!"
+ UKR_skip_noc_holdings_tt: "§LHeerema§! and his little §Lcompany§! have no need for funds that must go to §Ymore important projects§!. §RI am sure he will understand.§!"
  UKR_the_committee_in_our_grasp_tt: "Our £UKR_collab_texticon §Qcollaborators§! could do with some §Gsupport§!. §RBut we will not let them entertain any independent ideas.§!"
  UKR_finish_up_the_third_phase_of_gpo_tt: "§F§OThird Phase§! of §oGeneralplan Ost§! will be updated to the §VFinalized§! §OThird Phase§! of §oGeneralplan Ost§! in our assorted laws.§!"
  UKR_the_committee_in_our_grasp_2_tt: "§F§RPowerless§! £UKR_collab_texticon §QUkrainian National Committee§! will be updated to the §YSupervised§! £UKR_collab_texticon §QUkrainian National Committee§! in our assorted laws.§!"
@@ -2623,7 +2623,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_UCW_UKS_uprising_play_tt: "The time is now, the §Vrevolution§! has §Gbegun§!!"
  UKR_UCW_UKS_uprising_tt: "...and falling."
  
- UKR_UCW_FUK_uprising_play_tt: "At long last, §aUkraine§! will finally breathe the air of §Gfreedom§!!"
+ UKR_UCW_FUK_uprising_play_tt: "At long last, §MUkraine§! will finally breathe the air of §Gfreedom§!!"
  UKR_UCW_FUK_uprising_tt: "...and falling."
  
  UKR_UCW_BOV_uprising_play_tt: "We will exact our §evengeance§! on those who have wronged us!"
@@ -2641,7 +2641,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  ## POLISSIAN GUARD PRE-UCW ##
  UKR_FUK_intro_tt: ""
  UKR_galicia_roots_tt: "We will gain §Gextra support§! in §BGalicia§! upon our uprising."
- UKR_FUK_collaboration_gonna_be_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Rharder§!, benefitting §aBorovets§! and §cDziuba§!."
+ UKR_FUK_collaboration_gonna_be_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Rharder§!, benefitting §MBorovets§! and §PDziuba§!."
  UKR_FUK_collaboration_gonna_be_less_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Geasier§!, benefitting §gOhloblyn§!."
 
  ### COMMUNISTS PRE-UCW ###
@@ -2787,8 +2787,8 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_Bandenbekampfung_law_desc: "Under §xBandenbekämpfung§!, The £UKR_military_texticon §sGerman garrison§! is currently empowered to take extreme action against so-called "Bandits", essentially meaning any §mpartisan§! forces. This included not only free reign to kill any suspects without process but also freedom to §qpillage and destroy§! villages in §Vpartisan controlled territory§! as needed. At present, there are functionally §Vno limits§! to §sGarrison§! action in the field, so long as it is done under these pretenses."
  UKR_National_Symbols_Forbidden_law: "§MNational§! §YSymbols§! §RForbidden§!"
  UKR_National_Symbols_Forbidden_law_desc: "The §rReichskommissariat Ukraine§!, despite the name, is not a §sUkrainian institution§!. As such, statements of §BUkrainian§! §Ynationalism§! are §fforbidden§!, and this suppression extends even into the visual; symbols of Ukraine are §Vforbidden§! in public. Even £UKR_collab_texticon §Qcollaborators§! are limited to the designated symbols for the UNA and UNC. Most towns have been redecorated to be §j"German"§!, removing symbols of Ukraine and adding £UKR_bureaucracy_texticon §rNazi§! iconography."
- UKR_Land_Management_Company_Ukraine_law: "£UKR_industrial_texticon §kLand Management Company Ukraine§!"
- UKR_Land_Management_Company_Ukraine_law_desc: "Though much land has been sold off to important and connected German £UKR_industrial_texticon §kindustrialists§!, a great wealth of Ukrainian territory is still held by the £UKR_bureaucracy_texticon §rEastern Ministry (Ostministerium)§!. With their proxy in the Land Management Company Ukraine, the Reichskommissariat holds much of the former §xSoviet§! State farms and agricultural machinery, repurposing them to aid the German economy. This gives the §rRK§! great latitude with which to shape economic policy."
+ UKR_Land_Management_Company_Ukraine_law: "£UKR_industrial_texticon §LLand Management Company Ukraine§!"
+ UKR_Land_Management_Company_Ukraine_law_desc: "Though much land has been sold off to important and connected German £UKR_industrial_texticon §Lindustrialists§!, a great wealth of Ukrainian territory is still held by the £UKR_bureaucracy_texticon §rEastern Ministry (Ostministerium)§!. With their proxy in the Land Management Company Ukraine, the Reichskommissariat holds much of the former §xSoviet§! State farms and agricultural machinery, repurposing them to aid the German economy. This gives the §rRK§! great latitude with which to shape economic policy."
 
  UKR_SC_law_0: "§sSecurity Council§!"
  UKR_SC_law_desc_0: "Formed as a temporary measure following the §Vincapacitation§! of Erich Koch, the §sSecurity Council§! serves as a collective body which functionally operates the government. Composed of leading members of the £UKR_bureaucracy_texticon §rbureaucracy§! from all ministries and factions, the Council operates through consensus of its membership, functionally checking the power of the Deputy Reichskommissar - though §BGeorg Leibbrandt§! is himself a member."
