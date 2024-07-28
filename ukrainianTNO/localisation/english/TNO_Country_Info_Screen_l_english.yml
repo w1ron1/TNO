@@ -2,7 +2,7 @@
 
 # GUI functionality
 
- CountryInfo_pls_click_on_entry: "==Click on an entry to the left=="
+ CountryInfo_pls_click_on_entry: "==Клацніть на запис ліворуч=="
 
  CountryInfo_Folder_button_tt: "§F§GClick§! to toggle displaying entries of '§Y[CountryInfo_GET_Folder_Country]§!'§!"
  CountryInfo_Content_button_tt: "§F§GClick§! to display the entry titled '§Y[CountryInfo_GET_Content_Country]§!'§!"
@@ -10,7 +10,7 @@
 # Close button text
 TNO_COUNTRY_INFO_BUTTON_TT: "§YDestiny lies ahead.§!"
 
- TNO_COUNTRY_INFO_BUTTON_TEXT_VYT: "S nami Bog!"
+ TNO_COUNTRY_INFO_BUTTON_TEXT_VYT: "З нами Бог!"
  TNO_COUNTRY_INFO_BUTTON_TEXT_PRM: "Zig Heyl!"
  TNO_COUNTRY_INFO_BUTTON_TEXT_SVR: "To Serve Russia!"
  TNO_COUNTRY_INFO_BUTTON_TEXT_KOM: "For the Republic!"
