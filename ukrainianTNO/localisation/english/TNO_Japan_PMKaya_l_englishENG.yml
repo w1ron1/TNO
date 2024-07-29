@@ -1,564 +1,223 @@
 ﻿l_english:
 ###FLAGS###
- japan_kaya_hardliners_making_demands_of_us_flag:0 "Прихильники жорсткої лінії вимагали від нас певних речей"
- JAP_hardliner_choice:0 "Більшість нашого кабінету міністрів складають §rПрихильники жорсткої лінії§!.\n"
+ japan_kaya_hardliners_making_demands_of_us_flag:0 "The Hardliners have demanded things from us"
+ JAP_hardliner_choice:0 "Our Cabinet is dominated by the §rHardliners§!.\n"
  # KAYA TREE 1
 
- JAP_prime_minister_kaya:0 "Прем'єр-міністр Кая"
- JAP_prime_minister_kaya_desc:0 "В хаосі розпаду уряду Іно внаслідок кризи Ясуда, Кая Окінорі, з технократів, став прем'єр-міністром кризового уряду, який є непопулярним серед населення, стикнувся з розколотою армією і тепер на його плечах справитися з наслідками кризи Ясуда. Він повинен подалати ці виклики та внутрішні проблеми, щоб стабілізувати Японію.\n\nНавіть серед технократів дві фракції борються за вплив і його підтримку, кожна із своїм баченням Японії: Нові бюрократи, на чолі з Фукуда Такєо, Бюрократи реформісти, очолені Ецузабуро Шиіна та Нобусуке Кіші\n\nЧиї ідеї стануть реальністю та яким буде майбутнє Японії - залежатиме від Кая."
+ JAP_prime_minister_kaya:0 "Prime Minister Kaya"
+ JAP_prime_minister_kaya_desc:0 "In the chaos of the collapse of Ino's government following the Yasuda Crisis, Kaya Okinori of the Technocrats has emerged to secure his position as Prime Minister of Japan - And has taken charge of a government in crisis that is unpopular with the public, faces a deeply divided military, and must contend with the aftershocks of the Yasuda Crisis. Each of these challenges and problems he must solve if he is to stabilize Japan.\n\nEven within the Technocrats, two factions have emerged to compete for influence and vye for his support, each with their own vision for Japan: the New Bureaucrats, headed by Fukuda Takeo, and the Reform Bureaucrats, led by Shiina Etsusaburo and Kishi Nobusuke.\n\nIt will be up to Kaya to decide whose vision to enact - and in so doing, determine the future of Japan."
 
- JAP_the_new_cabinet:0 "Новий кабінет"
- JAP_the_new_cabinet_desc:0 "Перше завдання будь-якого прем'єр-міністра це сформувати новий кабінет. Будуть відібрані близькі соратники і 
- талановиті люди, з якими будуть проводитися тижневі дискусії для того, щоб оцінити ситуацію, в якій ми опинилися.  
- \n\nНам треба діяти швидко, щоб зібрати підтримку та закріпитися у японскій політиці, бо інші фракції Йокусанкай дивляться на 
- наш молодий уряд з презирством в їхніх очах. Слід нам показати будь-яку слабкість, вони знищать нас без вагань. 
-\n\nНаш Імператор дав нам шанс, але вони не дадуть. Ми доведемо цим стерв'ятникам, що вони помиляються."
+ JAP_the_new_cabinet:0 "The New Cabinet"
+ JAP_the_new_cabinet_desc:0 "The first task of any new Prime Minister is to form a new cabinet. Close associates and talented individuals alike will be selected and week-long discussions shall be held to understand the position we've been placed in.\n\nWe must act quickly to garner support and root ourselves in Japanese politics, as the other factions of the Yokusankai look down on our fledgling government with disdain in their eyes. Should we show any vulnerability, they will decimate us without hesistation.\n\nOur Emperor has given us a chance, but they will not. We shall prove the vultures wrong."
 
- JAP_appeal_to_the_hardliners:0 "Звернення до прихильників жорсткої лінії"
- JAP_appeal_to_the_hardliners_desc:0 "Можливо, це складний вибір, проте інших прийнятних варіантів у нас не багато.
- Зважаючи на це, ми визначили, що підтримка технократів фракції "Бюрократи реформісти" - це те, що потрібно для успіху Кая.\n\nОчолені 
- Ецузабуро Шиіна та Нобусуке Кіші, ця клика технократів є прихильниками кейнсіанської технократії, стиль управління, який приніс Імперії процвітання 
- , проте занепав коли Японія опинался в застійному статусі-кво.\n\nКая зустрінеться з ними обома, щоб заручитися їньою підтримкою його кабінету 
- та визначити їх роль у відновленні кейнсіанської технократії і, можливо, відродити велич Японії."
+ JAP_appeal_to_the_hardliners:0 "Appeal to the Hardliners"
+ JAP_appeal_to_the_hardliners_desc:0 "It is perhaps a difficult choice to make, but there are few other acceptable options. With these constraints in mind, it is determined that the support of the Technocrat "Reform Bureaucrats" is what is needed for Kaya to succeed.\n\nHeaded by Shiina Etsusaburo and Kishi Nobusuke, this clique of the Technocratic faction are supporters of the Keynesian technocracy, a style of governance that brought the Empire to prominence, but has since fallen out of style as Japan has fallen into a stagnant status quo.\n\nKaya will meet with both men for the purposes of gaining their support for his cabinet, and aligning their roles to the restoration of this Keynesian technocracy - and perhaps with it, the revival of Japan itself."
 
- JAP_rub_our_back:0 "Ти почухаєш мою спину"
- JAP_rub_our_back_desc:0 "Як і очікувалося, Кіші и Шиіна висунули свої вимоги в обмін на їх підтримку. Вони вимагають призначення конкректних осіб
- в уряді, які є або частиною бюрократів реформістів, або є чиновниками, які мають зв'язки з ними. 
- \n\nНа додачу до цих вимог Кіші, особисто для себе, запросив підтримку та зміценння Міністерства торгівлі щодо справ Маньчжурії, а також інших
- ринків в межах імперії та сфери сопроцвітання.
-\n\nЦіна за їх підтримку велика, але якщо ми хочемо досягти успіху, цю ціну потрібно буде заплатити."
+ JAP_rub_our_back:0 "Rub Our Back"
+ JAP_rub_our_back_desc:0 "As was expected, both Kishi and Shiina had their terms to give us in exchange for their support. They have requested appointments of specific individuals throughout the government, all of them either part of the Reform Bureaucrat clique, or economic officials with connections to economic hubs throughout the Sphere - all of whom have connections both obscured and obvious to Kishi.\n\nIn addition to these appointments, promises have been made specifically to Kishi for supporting and strengthening the Ministry of Commerce, particularly in relation to Manchukuo's affairs, as well as other markets within the Empire and wider Co-Prosperity Sphere.\n\nThe price for their support is high - but if we wish to succeed, this will be the price we need to pay."
 
- JAP_and_we_will_rub_yours:0 "А я почухаю твою"
- JAP_and_we_will_rub_yours_desc:0 "Кіші та Шиіна знають, що якщо ми надамо їм привілеї, то з нашої сторони будуть певні очікування. 
- Ми потребуватимемо їхньої підтримки щодо декількох ключових політичних рішень.
- \n\nЗокрема, реформацію кабінету планової ради.\n\nЩоб уряд Кая став успішним, повноваження та обов'язки ради з питань планування 
- кабінету міністрів мають бути реформовані, щоб ми отримали повноваження реалізувати своє бачення Японії.
- Кая знає, що сам-на-сам ці спроби будуть безуспішними, але з підтримкою реформістів бюрократів та Міністерства торгівлі - його шанси будуть вищі
-\n\nЦе буде перевірка впливу Кіші та Шиіна, а також їх готовності допомогти нам."
+ JAP_and_we_will_rub_yours:0 "And We Will Rub Yours"
+ JAP_and_we_will_rub_yours_desc:0 "Both Kishi and Shiina are well aware that if we are going to grant these favors to the Reform Bureaucrats - there are certain expectations. We will require their support for a few key policies.\n\nSpecifically, the reformation of the Cabinet Planning Board.\n\nFor Kaya's government to succeed, the powers and responsibilities of the Cabinet Planning Board must be reformed and empowered to accomplish his vision for Japan. On his own, Kaya knows that these efforts will be unsuccessful. However, with the support of the Reform Bureaucrats as well as the Ministry of Commerce, his chances are much better.\n\nIt will be a test of Kishi and Shiina's influence - as well as their willingness to come through for us."
 
- JAP_a_new_face:0 "Нове лице"
- JAP_a_new_face_desc:0 "Зараз, поки уряд формується, Кіші та Шиіна висунули несподівану кандиатуру на посаду міністра закордонних справ
- - Теїчі Сузукі, колишній голова адміністрації провінції Гуандун і видатний міністр Великої Східної Азії.
- \n\nРаніше Сузукі з ганьбою пішов у відставку після кризи Ясуда і подальшого економічного краху в Гуандуні - це було дуже гучною подією.
- Хоча його колишня невдача мало пов'язана з зовнішньої політикою, Кая не впевнений, що він є правильним вибором, особливо коли є декілька 
- більш безпечних варіантів.
- \n\nТим не менш призначення когось іншого може позначитися на лояльності бюрократів реформістів та, навіть, може зруйнувати коаліцію на такому ранньому 
- етапі. Проте потрібно зробити вибір... і робити його обережно."
+ JAP_a_new_face:0 "A New Face"
+ JAP_a_new_face_desc:0 "As the cabinet continues to be filled, an unexpected candidate has been brought forward by both Kishi and Shiina for the position of Foreign Minister - the former Chief Executive of Guangdong and prominent Greater East Asia minister Teiichi Suzuki.\n\nSuzuki had previously resigned in disgrace following the Yasuda Crisis and the subsequent economic crash in Guangdong - all of which had been a very public affair. While his failure had little to do with foreign policy, Kaya is uncertain that he is an appropriate choice, especially when there are safer options.\n\nHowever, choosing someone else would risk displeasing the Reform Bureaucrats, and might risk souring the alliance at this early stage. Yet a choice must be made - and made carefully."
 
- JAP_deal_with_the_devil:0 "Угода з дияволом"
- JAP_deal_with_the_devil_desc:0 "Кабінет в зборі.\n\nСкладаючись з інноваторів та бюрократів - це, справді, технократичний кабінет, в якому
- представлені всі крила фракції. Укладання такої угоди з дияволом було пов'язано з ризиками, але, поки, ці ризикибули пом'якшені першими успіхами.
- \n\nОднак проблеми потрібно вирішувати по черзі і, в перші роки, ми зосередимося на військових. Якщо ми хочемо зробити Японію великою знову, то
- це потребуватиме військову силу співрозмірну цій амбіції.\n\nОскільки саме військові забезпечили наше панування та допомогли збудувати нашу
- імперію, то, тепер, потрібно впевнитися, що вони зможуть її втримати."
+ JAP_deal_with_the_devil:0 "Deal With the Devil"
+ JAP_deal_with_the_devil_desc:0 "The cabinet is complete.\n\nComposed of innovationists and state-centric bureaucrats, it is a true technocratic cabinet, one which has representation from all wings of the faction. To make such a deal with the Devil of Shōwa came with risks - but thus far, these risks have been tempered with early successes.\n\nHowever, the problems must be tackled one at a time, and our focus for these first years will be a dedicated focus on the military. If we are to bring Japan into a new glorious age, it will require a military to match this ambition.\n\nFor it was the military which secured our dominance once, it was they who helped build our Empire - and now it will be necessary to ensure they can maintain it."
 
- JAP_on_our_own:0 "Самі по собі"
- JAP_on_our_own_desc:0 "Ми нікому не будемо підкорятися. Ми не станемо на коліна перед будь-якою іншою владою, вищою
- чи нижчою. Ми не будемо вносити їх корективи в наші реформи чи йти на будь-які інші поступки, щоб задобрити наших конкурентів.
- \n\nІ ми не з тих, з ким можна жартувати. Все піде по нашому плану і його нічого не перерве. 
- Наші ідеї не підлягають осуду, бо це ми у керма і ми не віддамо нашу владу тим, хто нам протистоїть. 
- Бо нас обрали не просто так і, тепер, це наше право вести за собою націю до перемоги. 
- \n\nМи очолимо Японію і народ Японію користуючись тільки своїми силами."
+ JAP_on_our_own:0 "On Our Own"
+ JAP_on_our_own_desc:0 "We shall kowtow no master. We shall not kneel to any other power, higher or lower. We shall not revise our reforms or give concessions to appease our rivals.\n\nOur party is not to be trifled with. Our plans are not to be interrupted. Our ideas are not to be denounced. We are the ones in control. We shall not give in to those who oppose us. We were elected for a reason. It is our right to lead this nation and guide it to victory.\n\nWe shall spearhead the rejuvenation of Japan and its people, all on our own."
 
- JAP_forge_our_own_path:0 "Виковуємо власний шлях"
- JAP_forge_our_own_path_desc:0 "Удача посміхається сміливим, тим, хто дивлячись на протоптані доріжки, ризикує і вирішує прокласти свій шлях;
- світ змінюється з шаленою швидкістю і надія Кая про своє бачення майбутнього Японії пов'язана не з розколотим урядом, а з тим хто поділяє його
- бачення - Аокі Кадзуо, саме він приборкав бюрократів у 30-х.
- \n\nПоміж прихильниками жорсткої лінії Кіші та сумнівними компромісами - незалежний кабінет стає найбільшою надією на процвітання нашої нації."
+ JAP_forge_our_own_path:0 "Forge Our Own Path"
+ JAP_forge_our_own_path_desc:0 "Fortune favors the bold, those that glance upon the beaten paths and take the risk to carve one for themselves; the world is changing at a breakneck pace, and Kaya's best hope towards his vision of Japan is not with a split cabinet, but one that shares his very own vision, and managed to tame the beast called Bureaucracy in the '30s, Aoki Kazuo?\n\nBetween Kishi's Hardliners, and a diluted compromise, an independent cabinet is the best hope towards true, proper progress for our nation."
 
- JAP_standing_tall:0 "Стоїмо високо"
- JAP_standing_tall_desc:0 "Як і очікувалося, наше рішення щодо кабінету міністрів викликало багато здивувань та насмішок з боку Кіші та його
- кліки. Проте політика це не гра де треба догоджати всім, бо інакше це будуть безглузді танці під чиюсь пісеньку. 
- Поки нам везе, однак фортуна - мінлива пані і може забрати стільки ж, скільки дає, особливо коли з'являється віра в непереможність.
- Наші наступні кроки будуть дуже обережні, нам треба запевнити Кідо і з'їзд, що ми будемо триматися традиційних стовпів влади, на яких стоїть
- наша нація. \n\nЗвісно, наскільки ми це робитимемо, покаже майбутнє, але коли сонце над країною вранішнього сонця засіяє як ніколи, то навряд чи
- це буде предметом дебатів."
+ JAP_standing_tall:0 "Standing Tall"
+ JAP_standing_tall_desc:0 "As expected, our decision of a cabinet raised many eyebrows and scoffs through the diet, mostly from Kishi and his own clique. However, politics is not a game one should aim to please everyone, lest one indulge in the blandest exercise of futility. However, fortune is a fickle mistress, one that can take away as much as she gives, and abandons rationality in a misplaced belief of invincibility. Our next steps will be very careful, for we must assure Kido and the diet that we will withhold the traditional pillars of power our nation stands on.\n\nOf course, how much we will is up to debate in the future, but once the Rising Sun shines as brightly as it did thirty years before, not much will be up to debate, after all."
 
- JAP_leading_by_example:0 "Показати приклад"
- JAP_leading_by_example_desc:0 "Як добре написана математична функція, наш уряд потребує останню змінну, перш ніж його 
- можна буде реалізувати на практиці. Один блискучий дорогоцінний камінь, який тьмяно сяє без належного освітлення - Фукуда Такєо, фінансовий експерт,
- протеже Такаші. Тепер він стане останнім увінчанням корони нашого уряду."
+ JAP_leading_by_example:0 "Leading by Example"
+ JAP_leading_by_example_desc:0 "Like a well-written mathematical function, our cabinet needs one last factor before it can be put into practice, one shining gem that shone dully without the proper spotlight. Fukuda Takeo, a fiscal expert, protegé of Takashi, and fruit of the '30s economical miracle, hand-picked by our closest associates and Kazuo himself, will be the final piece of the crown of the new, developmental line of thought of Kaya's government."
 
- JAP_rule_by_our_view_or_none:0 "Правління тільки за нашим баченням"
- JAP_rule_by_our_view_or_none_desc:0 "Тепер, після остаточного схвалення, новий кабінет міністрів затверджено під ввічливе схвалення
- парламенту, підтримкою бюрократів та фракції Такаші і це не зважаючи на презирство Кіші та його кліки. 
- Політка - це емоційний звір, але, як і звіра, її можна контролювати, годувати або морити голодом, поки вона не стане ручною та покірною.
- Нова Японія при Кая не буде тією, що йтиме на нескінченні компроміси та закулісні угоди. Нова Японія буде тією країною, яка зможе піднести її до
- висот які бачили лише на початку століття.\n\nНовий шлях прокладено, час його безперешкодно подолати."
+ JAP_rule_by_our_view_or_none:0 "Rule by Our View or None"
+ JAP_rule_by_our_view_or_none_desc:0 "With a final stamp of approval, the new cabinet is minted, to the polite approval of the Diet, the support of the bureaucrats and Takagi's faction, and the scorn of Kishi and his clique. Politics is an emotional beast, but much like a beast, it can be controlled, fed, or starved carefully, until it is tame, docile, and most importantly, obedient.The new Japan under Kaya will not be one that will cause awe by saber-rattling, or endless compromises and backroom deals, but the ones that can propel her to heights only seen in the early century.\n\nThe new path has been carved, and it's time to pave it, unimpended."
 
- JAP_realpolitik:0 "Реальна політика"
- JAP_realpolitik_desc:0 "Йокусанкай - хижий звір, який пережовує та їсть всіх, хто думає, що може його повністю контролювати;
- він увінчаний підступністю, плітками і зрадами, а на його стінах написані імена тих, хто був достатньо дурний, щоб зіткнутися з ним віч-на-віч,
- як той самий Хірота Кокі.\n\nМи не припустимося тієї-ж помилки. Настав час скористатися деякими послугами."
+ JAP_realpolitik:0 "Realpolitik"
+ JAP_realpolitik_desc:0 "The Yokusankai is a ravenous beast, one that spits and chews all those that think they can fully control it; a cloaked stage of backstabbing, gossiping, and betrayals mark its history, the names of those foolish enough to face it head-on painted on the walls, like Hirota Koki.\n\nWe will not commit the same mistake. It is time to cash in some favours."
 
- JAP_talk_with_ikeda:0 "Поговорити з Ікеда"
- JAP_talk_with_ikeda_desc:0 "Масаносуке Ікеда має величезний вплив на сильну кліку корпоративістів і це можливість, яка може принести
- величезну політичну перевагу уряду Кая. Потрібно буде провести зустріч де Ікеда захоче впевнитися в тому, що
- його теперішні і майбутні побоювання будуть почуті.\n\nТому Кавасіма Шодзіро буде призначений міністром внутрішніх справ. Принципи Йокусанкай,
- безсумнівно, будуть дотримані урядом."
+ JAP_talk_with_ikeda:0 "Talk With Ikeda"
+ JAP_talk_with_ikeda_desc:0 "Ikeda Masanosuke has a vast influence over a clique of powerful corporatists, it is a resource that, once tapped, could bring immense political capital to Kaya's government. An appointment will have to be made in order for Ikeda to be assured that his present and future concerns are to be well heard.\n\nKawashima Shojiro will therefore be assigned to the task of managing the Home Ministry. The Yokusankai's principles are surely to be dutifully followed by the government."
 
- JAP_listen_with_kido:0 "Порозумітися з Кідо"
- JAP_listen_with_kido_desc:0 "Кідо та його група аристократів - це ще одна фракція з якою нам треба порозумітися, щоб привнести стабільність
- в наш уряд. На щастя ми маємо змогу легко задовольнити їx; обіцянки захистити силу джушинів від майбутніх реформ, швидше за все, буде достатньо
- для того щоб вони залишалися на нашому боці в осяжному майбутньому.\n\nЄ надія, що ми зможемо взаємно прислухатися до інтересів одне одного."
+ JAP_listen_with_kido:0 "Listen With Kido"
+ JAP_listen_with_kido_desc:0 "Kido and his group of nobles are another faction which must be dealt with to preserve the stability of our government. Fortunately we should be able to satisfy them easily enough; promises of protecting the power of the Jushin from future reform will likely be enough to keep them on our side for the foreseeable future.\n\nHopefully then we'll both be able to mutually keep an ear out for each other's interests."
 
- JAP_bend_to_pressure:0 "Піддаватися тиску"
- JAP_bend_to_pressure_desc:0 "Аокі це людина яка благословенна не тільки місцем у серці уряду, а й гострим розумінням підкилимних ігор Йокусанкай.
- Він має деякий вплив та користується ним закликаючи Кая прислухатися до аналітичних центрів Йокусанкай, втихомирюючи Ікеда в процесі.
- \n\nПіддатися цьому тиску, може бути мудрим рішенням прем'єр-міністра."
+ JAP_bend_to_pressure:0 "Bend to Pressure"
+ JAP_bend_to_pressure_desc:0 "Aoki is a man who is both blessed with a keen understanding of the inner machinations of the Yokusankai and a seat amidst the heart of the government. He has made his presence felt, urging Kaya to follow the lead of the various Yokusankai think tanks, pacifying Ikeda in the process.\n\nIt would be wise for the Prime Minister to give into the pressure."
 
- JAP_pragmatism_reigns_supreme:0 "Прагматизм всьому голова"
- JAP_pragmatism_reigns_supreme_desc:0 "Мистцетво домовлятися є неймовірно тонким, це було доведено протягом формування нового кабінету міністрів,
- яке було зустріто прохолодно. Це буде кабінет, обмежений різними компромісами на які довелося піти, щоб його створити, тим не менш
- прем'єр-міністр впевнено себе почуває.\n\nЧи то через бюрократію, чи то через міністерства, Кайя 
- подолає обмеження укладених домовленостей і доб'ється свого."
+ JAP_pragmatism_reigns_supreme:0 "Pragmatism Reigns Supreme"
+ JAP_pragmatism_reigns_supreme_desc:0 "The art of compromise is an incredibly delicate one, this is an assertion which has been proven by the disappointing lukewarm response expected once the new cabinet has been minted. It will be a cabinet restricted by the various compromises made in order to create it, yet the Prime Minister remains confident.\n\nWhether it be through the bureaucracy or the ministries, Kaya will overcome the limitations of pragmatism and he will get his way."
 
- JAP_begin_the_reforms:0 "Розпочати реформи"
- JAP_begin_the_reforms_desc:0 "Прем'єр-міністр переконаний, що економічний ріст має стимулюватися, насамперед, державою; 
- проте, незважаючи на його впевненість, його переконання не так широко популярні серед решти можновладців. Без сумніву, треба буде багато кого
- переконати, щоб уряд повернувся до економічної політики 30-х років.
- \n\nНаразі можна зробити лише кілька маленьких кроків перед очікуванням майбутніх стрибків."
+ JAP_begin_the_reforms:0 "Begin the Reforms"
+ JAP_begin_the_reforms_desc:0 "The Prime Minister is headstrong in his belief that economic growth must be driven, primarily, by the state; yet, despite all of his confidence, his beliefs are not widely popular with the rest of the powers that be. There is no avoiding that a lot of convincing will be needed in order to unite the government behind a return to the economic policies of the 1930's.\n\nFor now, only tentative steps can be taken in expectation of the leaps and bounds to come."
 
- JAP_integrate_the_military:0 "Інтеграція військових"
- JAP_integrate_the_military_desc:0 "На жаль, військові залишаються звіром якого важко приборкати. 
- З одної сторони вони повинні навчитися уживатися з нами, а з іншого їх не можна реформувати, щоб не зруйнувати статус-кво.
- \n\nВище військове керівництво потрібно заманювати політикою, яка показуватиме, що уряд є жорстким і рішучим у боротьбі з будь-якою загрозою.
- Це буде спрямовувати військових ближче до нашого контролю."
+ JAP_integrate_the_military:0 "Integrate the Military"
+ JAP_integrate_the_military_desc:0 "Unfortunately, the military remains a beast that is difficult to wrangle. On the one hand it must learn to work with us, however, on the other it cannot be completely brought to heal for fear of wrecking the status quo.\n\nSenior commanders will therefore need to be enticed with policies which make the government appear tough and firm against any threat. From there a steady stream of change will guide the military closer into our control."
 
- JAP_court_the_generals:0 "Задобрювати генералів"
- JAP_court_the_generals_desc:0 "Хоча верхівка імператорської армії розколота, Кая залишається оптимістом щодо того, що більшість офіцерів 
- вдасться залучити на свій бік. Щоб цього досягти, треба запровадити жорстку політику щодо безпеки Маньчжурії і Кореї. 
- Крім того, подальше збереження стабільності в цих регіонах має визначальне значення для доброзичливого ставлення збройних сил до нас."
+ JAP_court_the_generals:0 "Court the Generals"
+ JAP_court_the_generals_desc:0 "Though the top brass of the Imperial Army is deeply divided against itself, Kaya remains optimistic that a majority of officers can be brought on to his side. To achieve this, a strong policy toward the security of Manchuria and Korea is to be proposed. Furthermore, continuing to preserve the stability of these key regions will be crucial to maintaining the Army's goodwill."
 
- JAP_dine_with_admirals:0 "Вечеря з адміралами"
- JAP_dine_with_admirals_desc:0 "Адміралтейство стурбоване можливістю втрати Японією панівної позиції на світовій арені не менш ніж армія.
- Щоб заспокоїти їх, доведеться давати багато обіцянок.
- \n\nБудуть надані гарантії посилення морської оборони в стратегічно важливому регіоні Південно-Східної Азії, причому особлива увага буде
- приділена Філіппінам та Індонезії."
+ JAP_dine_with_admirals:0 "Dine With Admirals"
+ JAP_dine_with_admirals_desc:0 "The admiralty is no less concerned over the possibility of Japan letting its commanding position on the world stage slip than their counterparts in the Army. More promises will have to be made in order to keep them calm too.\n\nGuarentees of stronger defences across the critical region of Southeast Asia will be given, emphasis will be put on the Philippines and Indonesia in particular."
 
- JAP_the_civilians_will_learn:0 "Громадяни під контролем"
- JAP_the_civilians_will_learn_desc:0 "Наслідки наших обіцянок вже видно. Оскільки все більше коштів вливається у військові бюрократичні структури
- та компанії пов'язані з армією, то поступово ми посилюємо контроль військових на теренах Кореї, Маньчжурії та
- Гуандуна. На додачу до цього, в цих регіонах проходить розгортання свіжих військових частин. Народи цих місць скоро знову згадають своє місце."
+ JAP_the_civilians_will_learn:0 "The Civilians Will Learn"
+ JAP_the_civilians_will_learn_desc:0 "The effects of our promises to the military have started to set in. Slowly the Army is re-asserting itself over Korea, Manchukuo and Guangdong as more funds begin to pour into the military aligned bureaucracies and companies. On top of that, fresh soldiers are being deployed across these regions, the people of these places will remember their place soon enough."
 
- JAP_the_might_of_our_military:0 "Сила нашої армії"
- JAP_the_might_of_our_military_desc:0 "Тепер, коли військові знайшли своє місце в новому режимі, прем'єр-міністр може далі впроваджувати
- свої реформи, будучи впевненим у тому, що збройні сили на його боці; чи, принаймні, занадто зайняті в інших місцях, щоб оскаржувати його владу.
- Тільки час покаже, як довго ця домовленість може протриматися."
+ JAP_the_might_of_our_military:0 "The Might of Our Military"
+ JAP_the_might_of_our_military_desc:0 "With the military assured of its position in the regime, the Prime Minister can continue to pioneer his vision of state driven reforms back home, safe in the knowledge that the might of the armed forces is on his side; or at least too busy in other places to challenge his authority. Time alone will tell how long this arrangement can hold."
 
- JAP_political_cleansing:0 "Політична чистка"
- JAP_political_cleansing_desc:0 "Тепер, з сформованим кабінетом міністрів та приборканими двома гілками збройних сил, ворожі фракції в Йокусанкай
- повинні брати з них приклад. Незважаючи на їх цілі, тепер не може бути опозиції правління прем'єр-міністра.
- \n\nНаші цілі на знищення варіюються від реформістів на чолі з Такагі, консерваторів Ікеда та до прихильників жорсткої лінії Кіші Нобусуке. 
- Будь-яка з цих фракцій може бути усунена шляхом концесії або конфронтації, однак напад на фракцію, яка становить значну частину нашого кабінету
- прирече прем'єр-міністра на провал."
+ JAP_political_cleansing:0 "Political Cleansing"
+ JAP_political_cleansing_desc:0 "With the cabinet assembled and the twin branches of the armed forces tamed, the rival factions within the Yokusankai must follow suit. By the carrot or the stick, there can be no opposition to the Prime Minister's rule.\n\nOur targets range from the reformists led by Takagi, the conservatives led by Ikeda and the hardliners ruled in part by Kishi Nobusuke. Any one of these factions can be eliminated through concessions or confrontation, however assaulting a faction that makes up a significant portion of our cabinet will doom the Prime Minister's tenure."
 
- JAP_preserve_the_kotukai:0 "Збережемо Котукай"
- JAP_preserve_the_kotukai_desc:0 "Вже вкотре виявляється, що шкідливі ідеї соціалізму впроваджуються серед населення через іноземний вплив.
- Ці огидні ідеї треба вирвати з корнем, перш ніж занадто багато наших громадян буде зіпсовано ними.
- \n\nКабінетом міністрів було запропоновано пропогандистську ініціативу, що заохочує доноси на соціалістів
- та пропагує посилення національної автаркії. За прогнозами - ця ініціатива буде працювати та не принесе за собою особливих проблем.
- Безумовно, що жоден з наших високопоставлених політиків не виступить проти цього та не буде захищати соціалістичних покидьків."
+ JAP_preserve_the_kotukai:0 "Preserve the Kotukai"
+ JAP_preserve_the_kotukai_desc:0 "It once again appears that the perverted ideals of socialism have been introduced into our nation through the use of foreign intervention and influence. These disgusting concepts must be torn out from Japan, root and stem, before too many of our citizens are corrupted.\n\nA federal propaganda initiative encouraging the reporting of suspected socialists and the reinforcement of national autarky has been proposed to the cabinet, and should certainly pass without too much trouble. Surely none of our senior politicians would side with such filth."
 
- JAP_take_names:0 "Взяти імена"
- JAP_take_names_desc:0 "Важко сказати чи є реліктові бюрократи з адміністрації Іно ворогами нашому прем'єр-міністру, але нам байдуже.
- Японія - країна майбутнього, а наша бюрократія має відповідати цьому факту
- \n\nЦих старців треба прибрати з їх посад, поки вони не завдали шкоди нашому режиму своїми застарілими методами управління, тому якщо вони
- будуть нашими ворогами, то це тільки на краще."
+ JAP_take_names:0 "Take Names"
+ JAP_take_names_desc:0 "It is hard to tell whether the relic bureaucrats from the Ino administration are truly enemies of the Prime Minister, but it makes no difference. Japan is a nation of the future, and our bureaucracy should represent this fact.\n\nThese aged professionals shall be removed from their positions so that they may not damage our regime further with their antiquated practices, and if they happen to be supporters of our enemies' factions, all the better."
 
- JAP_make_lists:0 "Зробити списки"
- JAP_make_lists_desc:0 "Якимось чином, антиурядові організації все ще залишаються в нашій країні, чи то соціалісти, чи будь-яка інша нечисть. 
- Не можна допускати жодного інакомислення в Японії. Жодного. З допомогою Міністерства внутрішніх справ і Токко ми можемо відправити наших агентів,
- щоб усунути і дерадікалізувати ворогів нашої батьківщини."
+ JAP_make_lists:0 "Make Lists"
+ JAP_make_lists_desc:0 "Somehow, anti-government organisations still remain within our nation, be it socialists or any other kind of filth. No dissent can be allowed in Japan, none at all. With the help of the Home Ministry and the Tokkō, we shall send forth our agents to remove and deradicalise the threats to our homeland."
  
- JAP_move_quick:0 "Рухайся швидше"
- JAP_move_quick_desc:0 "Швидкість і гнучкість важливі в час занепаду і стагнації. Щоб запобігти контратаці наших опонентів
- з боку Ікеда та основної фракції партії, слід заохочити міністра внутрішніх справ прискорити ліквідацію зазначених цілей в нашій адміністрації.
- \n\nЖодна ціна не буде великою, коли річ йде про стабільність нашої країни."
+ JAP_move_quick:0 "Move Quick"
+ JAP_move_quick_desc:0 "Speed and flexibility are all important in this nation of decadent stagnation. To ensure that a counterattack from Ikeda and the parties' mainstream faction can be prevented, the Home Minister shall be encouraged to speed up the elimination of our targets within the administration.\n\nNo price is too high when it comes to the stability of our nation."
 
- JAP_crush_dissenters:0 "Розчавити незгодних"
- JAP_crush_dissenters_desc:0 "Розбіжності між націями, що входять до складу Японії останнім часом зросли, особливо якщо річ йде про народи 
- Корейського півострова та острова Тайвань. Хоча їх загроза Японії - мінімальна, тим не менш будь-яка протидія нашому уряду є неприпустимою.
- \n\nМісцева поліція добре оснащена, проте вони не можуть впоратися самостійно на такій великій території. Ми можемо використати армію і військову
- поліцію, проте такі заходи можуть виявитися надмірними."
+ JAP_crush_dissenters:0 "Crush Dissenters"
+ JAP_crush_dissenters_desc:0 "Dissent within the constituent nations of Japan, especially the peoples of the Korean peninsula and the island of Taiwan, has recently surged. While the threats to Japan are minimal, a rebellion within our nation is unacceptable.\n\nLocal police are certainly well equipped, especially for a mission of this scale, but may not pull through entirely on their own. We may choose to use military units and their accompanying police, however such measures may prove overzealous."
 
- JAP_baptism_by_fire:0 "Хрещення вогнем"
- JAP_baptism_by_fire_desc:0 "Шкідливі елементи які перешкоджали нашому прогресу, були приборкані. Народне невдоволення було вгамоване, а політичний
- істеблішмент був приборканий. Тепер, коли ніхто не висмикне у нас кермо, нарешті настав час прем'єр-міністру діяти згідно зі своїм баченням
- майбутнього для цієї нації."
+ JAP_baptism_by_fire:0 "Baptism by Fire"
+ JAP_baptism_by_fire_desc:0 "The elements within Japan preventing our progress have been curbed. Popular dissent has been quenched, and the political establishment has been tamed. With the assurance that nobody remains to pull the rug out from under us, it is finally time to act on our Prime Minister's vision for this nation."
  
- JAP_untangle_the_economy:0 "Розплутати економіку"
- JAP_untangle_the_economy_desc:0 "Марнотратство - заклятий ворог ефективності у будь-якій галузі.
- Надмірна економічна бюрократія імперії повинна бути вибракувана, очищена від корисливих інтересів і парафіяльних вотчин. 
- Деякі можуть сказати що такі скорочення суперечать нашим інтересам економічного розвитку, але що доброго в інструменті, який не може зробити те,
- що задумав його власник? Під керівництвом оновленої Ради планування кабінету міністрів, яка була координуючою силою Японської військової
- економіки в 30-х, ми спрямуємо економічні ресурси Японії на досягнення наших великих цілей."
+ JAP_untangle_the_economy:0 "Untangle the Economy"
+ JAP_untangle_the_economy_desc:0 "Waste is the nemesis of efficiency in all things. The excessive economic bureaucracy of the Empire must be culled, cleaned out of venal interests and parochial fiefdoms. Some might say that paring the state down to size runs against our interest in state-led economic development, but what good is a tool that cannot do exactly what its master intends? Under a renewed Cabinet Planning Board - the coordinating force of Japan's wartime economy in the 1930s - we will marshal Japan's economic resources towards our glorious ends."
 
- JAP_cleanse_the_corruption:0 "Вичистити корупцію"
- JAP_cleanse_the_corruption_desc:0 "Політика це люди, чи як там кажуть. Одна лиш інтеграція різних агенцій економічного планування і бюро в нову
- Раду планування кабінету міністрів не відженуть агентів, які беруть хабарі та переслідують свої політичні інтереси, бо за цей час вони глибоко
- заповзли в політику Імперії. Під наглядом Аокі Кадзуо ми будемо перевіряти кожного кандидата, який прагне отримати посаду в новому СРВ, і
- гарантувати, що кожен з них обраний, щоб служити нашим інтересам."
+ JAP_cleanse_the_corruption:0 "Cleanse the Corruption"
+ JAP_cleanse_the_corruption_desc:0 "Personnel is policy, or so the saying goes. Simply integrating the various economic planning agencies and bureaux into a new Cabinet Planning Board will not drive away the agents of graft and political interest that have burrowed so deep into the Empire's body politic. Under Aoki Kazuo's watch, we will vet each individual candidate looking to secure a position in the new CPB, and ensure that incorruptible men of loyal caliber are chosen to serve our interests."
 
- JAP_prepare_our_tools:0 "Підготувати інструменти"
- JAP_prepare_our_tools_desc:0 "Жодна людина не піде в бій без амуніції - так само і у світі політики. Ми не можемо працювати без знань та
- інформації. Інструментом нашої боротьби з опозицією в парламенті є статистика, величезна купа друкованих фактів і цифр витягнутих з глибин архівів
- міністерства фінансів і торгівлі, щоб підтвердити нашу точку зору, що ми єдині хто може зробити Імперію кращою знову. 
- Ми підтримуватимемо нові аналітичні центри та політичні дослідження щедрими бюджетними витратами;
- щоб кожен, хто насмілиться кинути нам виклик, буде вимушений шукати хоч якісь аргументи, щоб довести свою правоту."
+ JAP_prepare_our_tools:0 "Prepare Our Tools"
+ JAP_prepare_our_tools_desc:0 "No man would charge into battle without ammunition - and so too in the world of policy can we not be left bereft of knowledge. The tools in our battle with the opposition in the Diet are statistics, reams and reams of printed facts and figures pulled from the depths of the Finance and Commerce Ministries' archives to prove our point: that we are the only ones who can do best by the Empire. We will support new think tanks and policy research with generous budget allocations; anyone that dares to challenge us will be found sorely wanting for an argument to prove their point."
 
- JAP_start_digging:0 "Почати копати"
- JAP_start_digging_desc:0 "Згідно з нашою конституцією, наша армія та флот мають привілейований голос у політиці, що іноді є як перевагою, 
- так і завадою. Але увага кожної організації не є нескінченною і не може охопити все.
- У роки, після завершення Великої східно-азіатської війни, військові служили безпеці Сфери процвітання - і пожинали з цього значні прибутки.
- Тому ще кілька ліцензій на видобуток корисних копалин в Кореї точно не зашкодять їм, а, задобривши їх, ми зможемо переслідувати наші власні цілі
- в Токіо."
+ JAP_start_digging:0 "Start Digging"
+ JAP_start_digging_desc:0 "By the nature of our constitution, our Army and Navy have a privileged voice in politics, at times both a benefit and a nuisance. But no organization's attention span is infinite and all-encompassing. In the years since the end of the Greater East Asian War, the military has had to minister to the safety and the prosperity of the Sphere at large - and reaping handsome profits in the process. A few more mining licenses in Korea surely would do no harm - to them, and to our own aims in Tokyo."
 
- JAP_by_any_means:0 "В будь-який спосіб"
- JAP_by_any_means_desc:0 "Рада планування Кабінету міністрів, через відсутність конкуренції, має значні повноваження в керуванні
- економікою як їм хочеться. Але чиїсь - занадто розпливчата річ і не можна затвержджати авторитет наших програм опираючись на них.
- Ми повинні закріпити верховенство Ради планування кабінету міністрів - з нашими людьми на чолі, 
- щоб ніхто не міг поставити під сумнів походження її рішень про національну політику. Парламент повинен зрозуміти мотив."
+ JAP_by_any_means:0 "By Any Means"
+ JAP_by_any_means_desc:0 "The Cabinet Planning Board, by virtue of lacking competition, has significant powers to direct the functions of the economy at a whim. But whim is a precious and intangible thing, and to base the authority of our programs solely around it is hardly a sustainable solution. We must enshrine the primacy of the Cabinet Planning Board - with our men at its head - in national policymaking in law, so that none can question the provenance of its decisions. The Diet will surely see reason."
 
- JAP_the_premiership_secured:0 "Прем'єр-ліга в безпеці"
- JAP_the_premiership_secured_desc:0 "Було багато тих, хто сумнівався, що технократ-бюрократ зможе коли-небудь 
- піднятися на висоту політики після краху Ясуди, вийшовши на вершину політичного болота після падінням прем’єр-міністра Іно.
- Вони помилялися!  
- How wrong they were! Кожен має цінник, потрібно тільки її заплатити - і прем'єр-міністр Кая знає це.
- \n\nДворяни, політики Йокусанкай, реформатори, війсьові - деякі з них показалися занадто рано, інші - занадто пізно.
- При прем’єр-міністрі Кая, 'політика' - це вже вирішена гра, а її актори танцюють під солодкі обіцянки, або залякані батогом."
+ JAP_the_premiership_secured:0 "The Premiership Secured"
+ JAP_the_premiership_secured_desc:0 "There were many who doubted that a technocrat, a bureaucrat, could ever scale the heights of politics in the wake of the Yasuda Collapse, coming out on top of the political quagmire birthed by the fall of Prime Minister Ino. How wrong they were! Everyone has a price, if only it could be quantified - and Prime Minister Kaya excels at just that.\n\nThe nobles, the Yokusankai politicians, the reformers, and the military - some showed their hands too early, and others too late. Under Prime Minister Kaya, 'politics' is a solved game - its actors dancing to honeyed promises or cowed by the nightstick."
 
  # KAYA TREE 2
 
- JAP_kaya_we_survived:0 "Ми вижили"
- JAP_kaya_we_survived_desc:0 "Незважаючи на наші зусилля в політичних маневрах, наші вороги та суперники фракції спричинили хаос у наших рядах і
- загрожували існуванню нашої коаліції, однак після наших успішних спроб ми тепер достатньо здатні протистояти їх жалюгідним спробам.
- \n\nЗалишивши позаду зміїну яму Імператорського парламенту, настав час поглянути на жахливий стан, у якому зараз перебуває Японія.
- Глянувши ближче ми бачимо декілька проблем, які загрожують Японії, від щоденної боротьби всередині нашої власної економіки до 
- інтенсивного політичного протистояння між нашими збройними силами. Як ми обіцяли раніше, так чи інакше ми вирішимо ці питання."
+ JAP_kaya_we_survived:0 "We Survived"
+ JAP_kaya_we_survived_desc:0 "Before our efforts in political maneuver, faction enemies and rivals caused chaos within our ranks and threatened our coalition's existence, however after our successful attempts, we now are capable enough to withstand their pitiful jests.\n\nLeaving the snake pit of the Imperial Diet behind, it is now time to set our eyes on observing the horrendous condition Japan is currently in. On closer inspection, we see the several problems menacing Japan, from the daily tussles within our own economy, to the intense staredown between our armed forces. As we've pledged before, we shall solve these issues, one way or another."
 
- JAP_kaya_destroy_them_and_start_anew:0 "Знищити їх і почати заново"
- JAP_kaya_destroy_them_and_start_anew_desc:0 "Відчуваючи подих американців на своїй шиї, найбільш палкі члени парламенту склали і 
- представили палаті новий п'ятирічний план. Вони сподіваються більш ефективно керувати економікою та організувати її таким чином, 
- щоб Імперія могла зібрати всю свою силу для боротьби з зовнішніми загрозами.
- Із загостренням напруженості в Південно-Східній Азії і тим, що нам все складніше підтримувати громадянський контроль, 
- стає зрозуміло, що їхні переживання не взяті з повітря.
- \n\nТим не менш, їхня пропозиція має велику перевагу. Запропонована ними грандіозна реорганізація відгородить і регламентуватиме 
- бізнес-діяльність звадливого зайбацу. Без сумніву, це викличе здивування і обурення тих, хто бере гроші з-під столу, але ми готові йти 
- по цій лінії, навіть якщо це означає підведення межі для проблемних корпорацій. Підпис прем'єр-міністра під законопроектом стане 
- першим кроком до приведення зайбацу до ладу."
+ JAP_kaya_destroy_them_and_start_anew:0 "Destroy Them and Start Anew"
+ JAP_kaya_destroy_them_and_start_anew_desc:0 "Feeling the breath of the Americans down their neck, the more passionate members of the Diet have drawn up and presented the house with a new five-year plan. They hope to more effectively manage the economy and organize it in a way in which the Empire can gather the entirety of its strength in handling threats from abroad. With tensions escalating in Southeast Asia, and civil control quickly slipping out of our hands, it is clear their anxieties are not plucked from thin air.\n\nThere is an awful convenience in what they propose, however. Their grand reorganization proposed will cordon off and regiment the business activities of the bickering Zaibatsu. There is no doubt it will raise eyebrows and voices, outraging those who take their money from under the table, but it's a line we're willing to walk if it means drawing the line for the troublesome corporations. The Prime Minister's signature on the bill will be the first step to bringing the Zaibatsu to heel."
 
- JAP_a_new_economy:0 "Нова економіка"
- JAP_a_new_economy_desc:0 "Запропонований план описує преференційне фінансування для «Нового зайбацу» в пункті, 
- який привернув увагу багатьох у парламенті. Особливо великих конгломератів, таких як Маньго в Маньчжурії; 
- Він привертає увагу до конгломератів, які швидко отримують прибутки в таких галузях, як Маньго; 
- їхнє стрімке зростання захопило розуми та жадобу багатьох у Японії.
- Більш того, Ніньчітсу та інші хімічні фірми привернули увагу до законопроекту.
- \n\nВисокотехнологічна важка промисловість, промислове хімічне виробництво та електротехнічні корпорації стають помітними в
- новій японській економіці – ми позбавляємося майбутніх економічних успіхів, не полишаючи їм місце в майбутньому розвитку Японії.
- Ці галузі будуть основним порядком нової системи, який ми будуватимо в Імперії."
+ JAP_a_new_economy:0 "A New Economy"
+ JAP_a_new_economy_desc:0 "The proposed plan describes the preferential funding for the "New Zaibatsu" in a striking clause - one that has drawn the attention of many in the Diet. It draws attention to conglomerates making swift profits in the industries, such as Mangyō in Manchukuo; their rise to prominence in the region has seized the minds, and greed, of many in Japan. Moreover, Nichitsu and other chemical intensive firms are believed to have climbed up to the bill's attention.\n\nHigh-tech heavy industry, industrial chemical production, and electrical hardware corporations are rising to prominence in the new Japanese economy - we rob ourselves of economic successes to come by not securing them a place in the future of Japanese development. These industries will be the prime order of the new system we construct in the future of the Empire."
 
- JAP_oil_sufficiency:0 "Достатність нафти"
- JAP_oil_sufficiency_desc:0 "Якби американці взагалі були чимось одержимі, то це була б їхня любов до палива, 
- яке рухає їхню нищівну економіку. Зрештою, нафта під землею та берегами живить великі машини, залізниці та танки, щоб ми могли 
- продовжувати керувати Імперією та її союзниками. Це чорна, як ніч, кров, що стікає в кожну жилку національної економіки, 
- і що, зрештою, зробить безпечним наше становище у світі.
- \n\nГроші мають бути спрямовані з марнотратних авантюр на розширення потужностей з розробки нафти в Маньчжурії, де ця промисловість прижилася
- в останні роки. Необхідно спрямувати ресурси на розширення пошуків нафти на Борнео, де, як ми очікуємо, знаходяться величезні жили.
- Маючи достатній доступ до палива, Японія ніколи не відчуватиме спраги під час свого правління як протектора Азії."
+ JAP_oil_sufficiency:0 "Oil Sufficiency"
+ JAP_oil_sufficiency_desc:0 "If the Americans were rightfully obsessed with anything at all, it would be their love of fuel that powered their ravaging economy. After all, the oil beneath the soil and shores powers great machines, railways, and tanks - enough for us to continue our administration of the Empire and her allies. It is the black-as-night blood that trickles down every vein of the national economy, and what will ultimately make secure our position in the world.\n\nMoney is to be diverted away from wasteful adventures and into expanding oil development facilities in Manchuria, where the industry has taken root in recent years. Resources must be allocated into expanding oil prospecting in Borneo, where we expect huge deposits lay dormant and untapped. With enough access to fuel, Japan will never thirst in her reign as protector."
  
- JAP_outweave_the_reformists:0 "Переплести реформістів"
- JAP_outweave_the_reformists_desc:0 "Із посиленням державного контролю та впливу на національну економіку, є члени парламенту, 
- які не тільки засуджують нас у своїх кулуарах, але й формують внутрішню опозицію.
- На чолі з адміралом Такагі вони зімкнули свої ряди в парламенті, щоб протистояти нашим успіхам у реорганізації економічної діяльності Імперії.
- \n\nОднак протидія ключовим політичним питанням кидає виклик кожному уряду, і ми не позбавлені способів обійти їхню непокору. 
- Ретельне маніпулювання парламентськими процедурами, а також використання інших квазілегальних методів розробки законопроектів буде розгорнуто в залі.
- Врешті-решт ми зможемо легко впоратися з протистоянням і подамо законопроект на розгляд Палаті представників."
+ JAP_outweave_the_reformists:0 "Outweave the Reformists"
+ JAP_outweave_the_reformists_desc:0 "With increasing state control and influence over the national economy, there are members of the Diet that are not only turning up their noses at our plans, but are also forming an internal opposition. Led by Admiral Takagi, they have been closing their ranks in the house to resist our advances in reorganizing the economic performance of the Empire.\n\nOpposition of key policy issues challenge every government, however, and we are not without methods to skirt around their clear defiance. A careful manipulation of parliamentary procedures, as well as the exploitation of other quasi-legal bill-drafting techniques, will be deployed to the floor. Eventually we will be able to easily navigate confrontation altogether, and submit the bill to the House of Representatives for review."
  
- JAP_the_reformists_base_withered:0 "База реформістів зникла"
- JAP_the_reformists_base_withered_desc:0 "Після переслідувань, лайки і ненависті до наших нещодавніх пропозицій 
- щодо парламенту, міністр торгівлі Кіші Нобусуке, з коаліції Такагі, виявив зручну політичну лазівку, яку ми можемо експлуатувати.
- Настав час заглушити їхній голос, бо перешкоджання нашим планам коштуватиме Імперії дорого через обмежений час, гроші та ресурси.
- \n\nЗ розширенням попередніх антикорупційних законів, які стосуються аналітичних центрів, які «приєднуються» 
- до Кокутаї та держави, ми можемо витягнути ніж, щоб випотрошити ряди інтелектуалів і софістів Такагі, спіймавши їх аналітичні центри в нашу пастку. 
- Вони, безсумнівно, будуть засуджувати, що ми використовуємо політичну владу як зброю проти критики, але конгруентність і зручні 
- угоди відгодували попередні уряди перед нашим власним. Немає часу чекати."
+ JAP_the_reformists_base_withered:0 "The Reformists' Base Withered"
+ JAP_the_reformists_base_withered_desc:0 "After harassment, heckling, and hatred towards our recent motions from within the Diet by Takagi's coalition of convenience, Minister of Commerce Kishi Nobusuke had discovered a convenient political loophole ripe for our exploitation. It is time we gag their wailing; obstruction to our agenda will cost the Empire more than enough in limited time, wealth, and resources.\n\nWith a rider in expanding previous anti-corruption laws, which tackle head-on think-tanks "adhering" to the Kokutai and state, we may draw the knife to gut Takagi's ranks of intellectuals and sophists by catching his think-tanks in the net. They will certainly decry that we wield political power like a weapon against criticism, but congruency and convenient agreements have fattened previous governments before our own. There is no time to wait."
  
- JAP_trick_the_zaibatsu:0 "Обдурити зайбацу"
- JAP_trick_the_zaibatsu_desc:0 "Започатковуючи кардинальні зміни в національній економіці, ми повинні бути обережними, щоб не злякати 
- капітал з островів, щоб у майбутньому не боротися з підозрілістю зайбацу, що нам дорого коштуватиме.
- Таким чином, ми запропонуємо м’які слова та дружні гарантії тим, хто має владу як Міцуї, так і Мітсубіші зайбацу, але не більше того.
- У нашій промові має бути межа між добрим попередженням і напівправдою.
- \n\nХоча ми не будемо проявляти таку ж милість до Сумітомо, але, зрештою, ми займаємо місце в уряді. 
- Зайбацу повинні бути вдячні нам за те, що ми будемо координувати з ними наші зусилля з реорганізації японської економіки. 
- Співпраця на наших умовах і тільки на наших умовах є найбільш прийнятною."
+ JAP_trick_the_zaibatsu:0 "Trick the Zaibatsu"
+ JAP_trick_the_zaibatsu_desc:0 "As we inaugurate sweeping change across the national economy, we must be careful not to scare capital away from the Home Isles - lest we wrestle with the anxiety of Zaibatsu in the future, costing us greatly. As such, we will offer soft words and amicable assurances to those in authority of both Mitsui and Mitsubishi Zaibatsu, but nothing more. Our speech must dance the line between kind warning and half-truths.\n\nAlthough we will not show the same mercy to Sumitomo, we hold the seat of government at the end of the day. The Zaibatsu should be thankful we would be so kind as to coordinate with them in our efforts to reorganize the Japanese economy. Cooperation, on our terms and on our terms alone, is most acceptable."
  
- JAP_patience_is_a_virtue:0 "Терпіння - це чеснота"
- JAP_patience_is_a_virtue_desc:0 "Кажуть, що час - це найцінніше, що людина може витрачати, і при достатньому терпінні будь-яка істина
- рано чи пізно випливе на поверхню. 
- Уряд Кая викрив подібне одкровення; розплутаний слід із паперів вказав на причетність зайбацу Міцуї та Мітсубіші до корупції та відмивання грошей.
- Тепер це лише питання часу коли їх піддадуть викривним звинуваченням.
- \n\nПроте, замість того, щоб накидатися зараз, краще нам залишатися на місці і чекати, поки вони залишать достатньо
- доказів, щоб вивести їх на чисту воду щодо їхніх тіньових оборудках з флотом і людьми в таборі Такаґі. 
- Залишивши цю нитку відкритою нам для розплутування, зайбацу та їхні пішаки неодмінно потраплять у пастку корумпованої 
- павутини зв'язків, якe вони так довго плели у нас під носом/"
+ JAP_patience_is_a_virtue:0 "Patience is a Virtue"
+ JAP_patience_is_a_virtue_desc:0 "They say time is the most valuable thing a man can spend, and with enough patience, any truth will rear its head eventually. The Kaya government has had a similar revelation; there exists a trail of paper crumbs implicating the Zaibatsu Mitsui and Mitsubishi in accounts of corruption and money laundering. It is only a matter of time before the two trip over their own feet, and leave themselves exposed to incriminating charges.\n\nRather than pounce now, It is best we stay still and watch for them to leave behind enough evidence to pull them up in their shady dealings with the Navy and those in Takagi's camp. With the thread left open and left to unravel, the Zaibatsu and their pawns are bound to ensnare themselves in the corrupt web of connections they have spun for so long beneath our noses."
  
- JAP_break_their_backs:0 "Зламати їм хребта"
- JAP_break_their_backs_desc:0 "Зайбацу завжди мали значний вплив на японській політичній аренi; їхнє домінування в економіці відчувається в 
- парламенті, в префектурах і по всій імперії. Однак, незважаючи на їхню користь для економіки, вкрай важливо, щоб вони не кидали виклик уряду
- в питаннях управління країною. Останніми роками деякі зайбацу стали жадібними і непокірними, нарощуючи свій вплив в моменти слабкості уряду та
- розширяючись без поміркованості.
- \n\nТаким чином, немає іншого варіанту, окрім як відрізати їм язики і кишені, і прийнятно, бо тільки уряд може мати владу.
- Вплив Міцуї і Мітсубіші на політекономіку, від економічного домінування в цілих регіонах 
- до преференційного адміністративного режиму, а також їхні хрипкі голоси в парламенті, повинні бути зсунуті з позицій на яких вони засіли."
+ JAP_break_their_backs:0 "Break Their Backs"
+ JAP_break_their_backs_desc:0 "The Zaibatsu have always had a significant presence felt in the Japanese political arena; their dominance in the economy is felt in the Diet, across prefectures, and throughout the Empire. However, despite their usefulness, it is imperative they do not challenge the government in governing the country. In recent years, some Zaibatsu have grown greedy and unruly, even fattening themselves in moments of government neglect and growing in influence without moderation.\n\nThus, there is no other option but to cut out their tongues and pockets, and it is only acceptable that this government holds the knife. Mitsui and Mistubishi's influence in the political economy, stretching from realms of economic domination of entire regions to preferential administrative treatment, and their raspy voices in the Diet, must be cut down from where they are seated."
  
- JAP_reignite_the_rivalries:0 "Розпалити суперництво"
- JAP_reignite_the_rivalries_desc:0 "Зважаючи на те, що наші цілі спрямовані проти загарбницького впливу Міцуї та Мітсубіші на політекономіку,
- наші зусилля, спрямовані на те, щоб подвоїти і перехопити владу у Зайбацу, повинні враховувати їхні зусилля зі співробітництва.
- \n\nДійсно, вони поділяють спільний інтерес у протистоянні зазіханням на їхнє економічне домінування та у віроломному впливі на
- японську політичну машину. Можливо, для цього нам доведеться інвестувати у використання неналежних засобів, але межа має бути проведена. 
- Зрештою, коли вдарить молоток, саме корумповані бізнесмени зіткнуться з ненавистю."
+ JAP_reignite_the_rivalries:0 "Reignite the Rivalries"
+ JAP_reignite_the_rivalries_desc:0 "With our crosshairs lining up to target Mitsui and Mistubishi's rapacious influence across the political economy, our efforts to double-down and draw power from the Zaibatsu must consider their efforts to collaborate. Both facing government crack-downs, there is a chance, although slim, that they make to scurry and defend themselves in collaboration.\n\nIndeed, they share a mutual interest in resisting attacks on their economic dominance and perfidious influence over the Japanese political machine. Thus, it is of paramount interest that disagreements, bickering, and strife arise between the two, so that we may eliminate any interest in corporate partnership. It may require that we invest in the use of inappropriate means to do so, but the line must be drawn. After all, when the gavel is struck, it will be the corrupt businessmen who will face the hate."
  
- JAP_the_gambit:0 "Гамбіт"
- JAP_the_gambit_desc:0 "Улюблена лібералами ідея "вільної руки ринку" знову і знову виявляється занадто крихкою, щоб керувати майбутнім імперії; 
- під безладом суперечок і розбіжностей корпоративних інтересів процвітання нації ледве дихає.
- Настав час переходити до радикальних рішень, щоб нас не спіткала доля тих, хто не зміг підкорити жадібність Кокутай.
- \n\nНезважачюи на тещо ми багато кого звидуємо, ми оберемо такий метод боротьби з їхнім впливом, як державне захоплення та примусове 
- відчуження земельних ділянок.
- Користуючись тим, що суперництво між Мітсубіші та Міцуї знову розгорілося і вони не зможуть протистояти заходам уряду, 
- ми спрямуємо сили на встановлення контролю над їхніми акціями в розпалі їхніх дрібних суперечок один з одним.
- Цілком справедливо, що ми ініціюємо нашу рішучу боротьбу з їхньою кричущою некомпетентністю."
+ JAP_the_gambit:0 "The Gambit"
+ JAP_the_gambit_desc:0 "The oft-praised 'Free Hand' of liberal markets have time and time again proved too fragile to rule the Empire's future; beneath the bickering mess of diverging corporate interests, the prosperity of the nation struggles to breathe. It is time we leap to radical solutions, lest we suffer the same fate of those who were unable to subjugate greed to the very livelihood of the Kokutai.\n\nRaising many eyebrows, state-seizure and eminent domain will be our chosen method of hacking away at their influence. By exploiting reignited rivalries across the board, Mitsubishi and Mitsui cannot resist government measures to exert control over their fought-over shares in the heat of their petty quarrels with each other. It is only right we initiate our sweeping tackle against their gross incompetence."
  
- JAP_economic_consolidation:0 "Консолідація економіки"
- JAP_economic_consolidation_desc:0 "Колесо фортуни обертається, і разом з ним майбутнє японської економіки, яка звертає увагу на нових людей у грі.
- "Новий" Зайбацу, який деякі з наших міністрів, а також професори економіки почали називати Нічіцу, піднявся 
- в галереях економічного зростання та різких прибутків і таким чином привернув увагу нашого уряду як новий партнер у наших зусиллях 
- реорганізувати економіку.
- \n\nДавайте запросимо представників Нічіцу на офіційну зустріч з нашим урядом. Це в наших спільних інтересах співпрацювати та
- координувати виробництво важких промислових хімікатів.
- Розвиток потужної і добре укомплектованої військової промисловості, багатої на природні та освоєні ресурси, є надзвичайно
- важливим для того, щоб Японія залишилася наддержавою на міжнародній шахівниці."
+ JAP_economic_consolidation:0 "Economic Consolidation"
+ JAP_economic_consolidation_desc:0 "The wheel of fortune turns, and with it the future of the Japanese economy pivots its attention to new skin in the game. The "New" Zaibatsu, some of our ministers as well as economic professors have taken to calling Nichitsu, has risen in the halls of economic growth and hiking profits, and has thus caught the attention of our government as a new partner in our efforts to reorganize the economy.\n\nLet us invite representatives from Nichitsu to a formal meeting with our government. It is in their best interests, and in the best interests of our government, to collaborate and coordinate on the production of heavy industrial chemicals. The development of a robust and well-staffed military industry, rich in natural and developed resources, is of the utmost importance if Japan is to last as a superpower on the international chessboard."
  
- JAP_a_new_order:0 "Новий порядок"
- JAP_a_new_order_desc:0 "Маючи свіже чорнило на законопроектах, написаних у співавторстві, і бурхливі оплески, що лунають у Національному парламенті,
- ми починаємо знищення побитого та сварливого Зайбацу. 
- Поки ми впиваємося зубами в їхні роздуті бюджети та погано розподілені ресурси, важливо замислитися над обов’язком, 
- який ми взяли на плечі, і який ми вимовляємо з вуст кожного міністра нашого уряду: «Мир в Азії»
- \n\nРеорганізація машини, яка десятиліттями живила Японську імперію, — це більше, ніж просто змащення;
- безсонні ночі та корпоративна війна поглинули саме життя нашої адміністрації над Імперією, але з кожним законодавчим
- успіхом ми наближаємося до вдосконалення національної економіки. Світло в кінці тунелю витончено мерехтить; тріумфатор Японії
- проти дефіциту, марнотратної конкуренції та корупції знаходиться в межах досяжності."
+ JAP_a_new_order:0 "A New Order"
+ JAP_a_new_order_desc:0 "With ink fresh on the co-authored bills, and rounds of applause circulating the National Diet, we initiate our culling of the battered and bickering Zaibatsu. As we sink our teeth into their inflated budgets and poorly-allocated resource heaps, it is important to reflect upon the duty taken upon our shoulders, and uttered from the lips of every minister of our government - "Peace in Asia"\n\nReorganizing the machine that has fueled and powered the Empire of Japan for decades is more than simply an oiling; sleepless nights and corporate warfare have gnawed at the very life of our administration over the Empire, but with each legislative success we march closer to the refinement of the national economy. The light at the end of the tunnel glimmers daintily; a Japan triumphant against shortage, wasteful competition, and corruption is within an arm's reach."
  
- JAP_economy_for_the_state:0 "Економіка для держави"
- JAP_economy_for_the_state_desc:0 "Наближається той момент, коли наточені нами леза можна раз і назавжди встромити в ахіллесову п'яту
- Мітсубіші та Міцуї. Занадто довго їхні фінанси чіплялися за членами парламенту, передаючи мільйони між липкими руками та награними посмішками
- Японія більше не може терпіти їхню корупцію, і тому їх буде вирізано з місця, де вони насаджували свою владу стільки років.
- \n\nНаш законопроект, поданий до Сейму, приведе в дію плани потрощити можливість обох Зайбацу конкурувати зі своїми суперниками, і, 
- таким чином, їхнє підпорядкування порядку поточного уряду буде питанням часу. 
- Дехто скаже, що це сміливий захід, але він відповідає на злочини як Мітсубіші, так і Міцуї з усією жорсткістю,
- щоб подолати корозію гідності японської політичної системи, яку вони вчиняють."
+ JAP_economy_for_the_state:0 "Economy for the State"
+ JAP_economy_for_the_state_desc:0 "The final stretch arrives, wherein the blades we have sharpened can be buried in the Achilles of Mitsubishi and Mitsui once and for all. For too long have their finances clung to members of the Diet, passing millions between clammy hands and slimy smiles. Japan can no longer stomach their corruption, and so they will be cut down from where they have enjoyed their position of power for so many years.\n\nOur bill presented to the Diet will set plans in motion to gut the working efficiency of both Zaibatsu to compete with their rivals, and thus their subordination to the agenda of the current government will soon follow. It is a bold measure, some would claim, but it is one that meets the crimes of both Mitsubishi and Mitsui in ferocity, in order to tackle their corrosion of the dignity of the Japanese political system."
  
- JAP_state_for_the_economy:0 "Держава для економіки"
- JAP_state_for_the_economy_desc:0 "Уряд невтомно працював, щоб розпочати реорганізацію японської економічної машини, зміщуючи баланси влади та 
- багатства, щоб досягти ідеального балансу в економіці.
- Поєднавши бізнес зайбацу з державними органами наш уряд адаптував і пристосував економіку до сучасних потреб країни, як економіки 
- світового класу і військової наддержави. 
- наддержави.
- \n\nНаші рішення можуть шокувати когось, але їм краще стримувати свої хрипкі зітхання, затамувавши подих.
- Майбутнє вимагає від Японії бути регульованою, скоординованою та кооперативною економікою;
- немає часу на неефективність або слабкість, яку можна використати. 
- Прем'єр-міністр задоволени своїми законодавчими успіхами, бо ми нарешті можемо вивести промислові відносини між економікою та державою на нові, 
- інноваційні висоти."
+ JAP_state_for_the_economy:0 "State for the Economy"
+ JAP_state_for_the_economy_desc:0 "The government has worked tirelessly to begin their reorganization of the Japanese economic machine, shifting balances of power and wealth to chime a perfect, delicate calibration. Lining up the business of the Zaibatsu with the organs of state, our cabinet has tailored and suited the economy to fit the nation's modern needs, both as a world-class economy, and military superpower.\n\nOur movements may come as a shock to some, but they can keep their raspy gasps under bated breath. The future demands Japan is supported by her regimented, coordinated, and cooperative economy; there is no time for inefficiency or exploitable weakness. The Prime Minister hails his legislative successes - we're finally able to carry the industrious relationship between the economy and the state to new, innovative heights."
 
- JAP_kaya_restructure_the_system:0 "Реструктуризація системи."
- JAP_kaya_restructure_the_system_desc:0 "Японська державна служба функціонує вже майже сто років, її було створено для управління
- імперією Його Імператорського Величності та реалізації політичних ініціатив уряду.
- Однак після двох виснажливих воєн і десятиліть боротьби
- зсередини і ззовні, багато з того, що залишилося, складається з запорошених кар'єристів і пристосуванців.
- Настав час витягнути ніж ще раз.
- \n\nАокі Кадзуо нарешті зібрався з планами і, працюючи разом з прем'єр-міністром, буде ретельно переглядати склад політичного істеблішменту. 
- Масові звільнення та вимушені відставки, одночасно з великою кількістю підвищень для гідних кадрів, можуть наблизити нас до відновлення домінування
- нової бюрократії над політичною машиною, яка керує імперією, що охоплює континент."
+ JAP_kaya_restructure_the_system:0 "Restructure the System"
+ JAP_kaya_restructure_the_system_desc:0 "The Japanese civil service has been in operation for close to a century, established to run His Imperial Majesty's Empire and carry out the government's policy initiatives. However, after two exhaustive wars and decades of struggle from within and without, much that remains consists of dusty, bush-nosed careerists and opportunistic hounds. It is time we draw the knife once again.\n\nAoki Kazuo has finally gathered his plans and, working alongside the Prime Minister, will rigorously review the composition of the political establishment. Mass firings and forced retirements, alongside plenty of promotions for the worthy, can draw us closer to the restoration of New Bureaucratic dominance over the political machine administering the continent-spanning Empire."
  
- JAP_our_trusted_stronghold:0 "Наша надійна опора"
- JAP_our_trusted_stronghold_desc:0 "Уряд, хоча і отримав повноваження керувати імперією від Його Імператорської Величності, покладається 
- на підтримку своїх міністерств з низів.
- Вони є органами держави, які організовують інформацію, класифікують дані та реалізують державні програми та політичні ініціативи.
- \n\nПрем'єр-міністр, обізнаний з фактами, вирішив покластися на двох своїх прихильників знизу: Міністерство фінансів 
- та Міністерство внутрішніх справ. Існує мало шансів, що ми зіткнемося з будь-якими проблемами чи затримками в реалізації цих планів; 
- наповнені бюрократами, які значною мірою поділяють наші плани щодо Імперії, ці міністерства є стабільною базою підтримки,
- на якій можна розгортати наш урядовий порядок. Однак це не обійдеться без витрат, 
- і немає сумнівів, що чиновники вимагатимуть підвищень - втім, з цим питанням найкраще впорається Аокі Кадзуо."
+ JAP_our_trusted_stronghold:0 "Our Trusted Stronghold"
+ JAP_our_trusted_stronghold_desc:0 "A government, although handed the powers to administer the Empire by His Imperial Majesty, relies on the support of its ministries from below. They are the organs of the state, organizing information, categorizing data, and delivering upon government agendas and policy initiatives.\n\nThe Prime Minister, mortally aware of the facts, has chosen to rely on his two greatest supporters from below: The Ministry of Finance and the Home Ministry. There is little chance we will face any challenge or hiccups in the implementation of these plans; packed with bureaucrats largely aligned to our plans for the Empire, these ministries are a stable base of support wherein government agenda can be rolled out. However, it will not come without a cost, and there is no doubt officials will demand promotions - though, this is an affair best handled by Aoki Kazuo."
  
- JAP_the_ways_of_the_bokuminkan:0 "Шляхом Бокумінкана"
- JAP_the_ways_of_the_bokuminkan_desc:0 "Після того, як ми вислухали аргументацію Аокі, а наша програма чітко узгоджена, 
- що привело нас до цього моменту. Здається, що в наших інтересах налагодити та відновити дружбу, альянси та зв'язки з тими,
- хто працює в Міністерстві внутрішніх справ. Їхній досвід в управлінні є дуже корисним для нас, і немає сумнівів, що для нас 
- дуже важливо підтримувати позитивні стосунки з Міністерством внутрішніх справ.
- \n\nУ наших успіхах ми вдивляємося у часи Йошиди Шіґеру і виблискуємо яскравою ностальгією за цим минулим.
- Крок за кроком ми продовжуємо наш шлях до повернення величі; зростаюча підтримка з боку консерваторів та патерналістів у парламенті 
- та на державній службі чітко відповідає програмі нашого уряду.  Лише час відділяє нас від майбутнього нашої нації, коли ми згуртуємося в силі 
- та підтримці для відродження Імперії."
+ JAP_the_ways_of_the_bokuminkan:0 "The Ways of the Bokuminkan"
+ JAP_the_ways_of_the_bokuminkan_desc:0 "After lending an ear to Aoki's rationale, our agenda has neatly aligned to bring us to this moment. It seems to be in our best interest to approach and reforge friendships, alliances, and connections to those within the Home Ministry. Their experience in administration is of great use to us, and there is no doubt that it is essential to share a positive relationship with a ministry of such importance.\n\nIn our advances, we hearken back to the days of Yoshida Shigeru, and gleam with the vibrant nostalgia of the past. Our march to more glorious days continues one step at a time; increasing support from the conservatives and paternalists in the Diet and civil service neatly aligns with our government's agenda. Only time separates us from the future of our nation, as we gather in strength and support for the revitalization of the Empire."
  
- JAP_takahashis_proteges:0 "Протеже Такахаші"
- JAP_takahashis_proteges_desc:0 "Видатна і висхідна зірка в Міністерстві фінансів, Фукуда Такєо був зустрінутий дружніми оплесками членів 
- кабінету міністрів за свої пропозиції щодо майбутнього японської економіки. Його плани лежать на наших столах та лише чекають на схвалення
- прем'єр-міністра у прагненні до прискореного економічного зростання.
- \n\nНаша бюрократія роздута і надмірно фінансується, потребуючи відбірку непотрібного, щоб зрізати жир з ледь живих, 
- дихаючих економічних органів імперії. Фукуда запропонував нам рішення; запланована політика "стабільного зростання" через вибіркову фіскальну 
- політику та цільовиї видатків може привести японську економіку до періоду безперешкодного зростання, незважаючи на зовнішні дефіцити
- та внутрішні негаразди, які дошкуляють конкурентам імперії за кордоном."
+ JAP_takahashis_proteges:0 "Takahashi's Proteges"
+ JAP_takahashis_proteges_desc:0 "An outstanding and rising star in the Ministry of Finance, Fukuda Takeo has been met with amicable applause from members of the cabinet over his proposals for the future of the Japanese economy. His plans rest on our desks - only awaiting the approval of the Prime Minister in pursuing heightened economic growth.\n\nOur bureaucracy is over-bloated and over-funded, requiring a culling agent necessary to trim the fat from the barely living, breathing economic organs of the Empire. Fukuda has offered us a solution; his plotted policy of "stable growth" through select fiscal policies and targeted spending can carry the Japanese economy through periods of undisturbed growth, unmolested by external deficits and domestic troubles that plague the Empire's rivals abroad."
  
- JAP_an_offer_of_stability:0 "Пропозиція стабільності"
- JAP_an_offer_of_stability_desc:0 "Наше нещодавнє зближення з більш консервативними членами парламенту,
- пов'язаними з нашими зв'язками в Міністерстві внутрішніх справ, свідчить про дедалі більше схвалення політики нашої адміністрації 
- проти патерналістських заходів у державній політиці.
- Зважаючи на те, що все більше і більше депутатів симпатизують нашому уряду, можливо, настав час офіційно простягнути руку консервативним
- фракціям, які колись конкурували з нашим впливом.
- \n\nМи зобов'язуємося продовжувати державні соціальні програми, спрямовані на подолання наслідків економічних воєн, щоб спробувати
- пом'якшити найгірші наслідки рецесії для японської громадськості. Громадські роботи, програми професійної підготовки
- та інші ініціативи просунуть працюючий народ країни вперед; чим більше депутатів Парламенту зможуть домовитися про
- те, щоб доставити Японію до місця економічної стабільності, тим швидше ми зможемо ми зможемо просуватися до цієї мети."
+ JAP_an_offer_of_stability:0 "An Offer of Stability"
+ JAP_an_offer_of_stability_desc:0 "Our recent rapprochements towards more conservative members of the Diet surrounding our connections being made in the Home Ministry has signaled a proliferating approval of our administration's policy over more paternal public policy measures. As such, with more and more members growing fonder of our government, it may be the time to officially extend a hand to the conservative factions that had once rivaled our influence.\n\nWe pledge to continue state-directed social programs, in the fallout of the Economic Wars, to try to alleviate the worst consequences of the recession for the Japanese public. Public works, jobs training programs, and other initiatives will carry the working people of the nation forward; as more in the Diet can agree on delivering Japan to a place of economic stability, the faster we can march on towards that point."
  
- JAP_going_into_the_red:0 "Йдемо в мінус"
- JAP_going_into_the_red_desc:0 "Економічні війни були схожі на кувалду, що вдарила Японію по колінах, зваливши її з ніг і потягнувши за собою 
- знедолені верстви населення. Наші здогадки виявилися правильними - винні в цьому погано регульовані фінансові сектори
- та спекулятивна економіка, і тепер страждати має нація. Завданням, навіть обов'язком цього уряду є допомогти нації піднятися з колін та відновити 
- гідність робітників імперії.\n\nПрем'єр-міністр, у супроводі радника Фукуди Такєо, вирішив, що в інтересах нації 
- вирішити ці проблеми з головою. Дефіцитні видатки мають бути прийняті, забезпечуючи робочі місця та стабільне зростання, щоб вдихнути 
- життя в економіку. Державні програми можуть налякати членів парламенту, особливо зацікавлених казною, але ми 
- впевнені, що це найкращий шлях."
+ JAP_going_into_the_red:0 "Going Into the Red"
+ JAP_going_into_the_red_desc:0 "The Economic Wars have been like a sledgehammer to the knees of Japan, swinging it off its feet and dragging the disadvantaged down with it. Our guesses were correct - abysmally regulated financial sectors and a speculation-economy were to blame, and now the nation must suffer. It is this government's task, duty even, to help the nation back up to its feet, and restore some honor in the working people of the Empire.\n\nThe Prime Minister, accompanied by the counsel and advice of Fukuda Takeo, has decided that it is in the nation's best interest to tackle these things head on. Deficit spending must be enacted, providing jobs and stable growth to breathe life into the economy. State driven programs may frighten the members of the Diet particularly fascinated by the locks of the coffers, but we have confidence that this is the best path to walk."
  
- JAP_reach_out_to_farmers:0 "Звернутися до фермерів"
- JAP_reach_out_to_farmers_desc:0 "В той час як ми переходимо до впровадження нових політичних механізмів, платформа Фукуди "Стабільне зростання" 
- привертає нашу увагу до традиційних стовпів японської економіки - сільських секторів. 
- Фермери в глибині материкових островів невтомно працювали, щоб підтримати японський народ ще до правління імператора Мейдзі, і вони, 
- представники всіх демографічних груп по всій імперії, надто довго страждали без адекватної допомоги.\n\nНаші ініціативи стануть для фермерів 
- допомогою у модернізації сільського господарства, що дозволить їм виробляти значно більший
- врожай зі значно меншими витратами. Зусилля з надання субсидій фермерам будуть розгорнуті по всім сільським регіонам Японії, відповідно до 
- прогнозованих планів Фукуди щодо відновлення економіки; однак, ми повинні пам'ятати про землевласників, та їхню репутацію як таких, що встромлюють
- палки у колеса фермерів-орендарів під час реалізації наших планів."
-    
- JAP_aokis_bureaucratic_revival:0 "Бюрократичне відродження Аокі"
- JAP_aokis_bureaucratic_revival_desc:0 "Простягнуті руки неохоче потиснуті - наші розбіжності з консерваторами в Тайсей Йокусанкай наразі
- врегульовані, і ми можемо дійти до мирних домовленостей. Їхня співпраця з цього моменту і надалі забезпечила нам 
- врегулювання відносин з Міністерством внутрішніх справ; лояльность та інтересів цих груп, і разом з тим державної служби - тепер
- в руках нашого уряду.\n\nПісля тривалого очікування плани Аокі Кадзуо щодо нового адміністративного ренесансу можуть стати на свої місця. 
- Ми можемо почати свій шлях до повернення до патерналістської бюрократії раннього періоду Сьова
- коли в жилах імперії пульсуваложиття та енергія, а її люди були сміливими управлінцями. Те, що спочатку могло здатися
- як кілька укладених угод і знайдених друзів, забезпечило майбутнє Японії, як процвітаючої нації."
+ JAP_reach_out_to_farmers:0 "Reach Out to Farmers"
+ JAP_reach_out_to_farmers_desc:0 "As we pivot towards implementing new policy arrangements, Fukuda's platform of "Stable Growth" draws our attention to the traditional pillars of the Japanese economy - the rural sectors. The farmers in the heartlands of the Home Isles have worked tirelessly to support the Japanese people from even before the reign of Emperor Meiji, and they of all demographics across the Empire have suffered without adequate relief for far too long.\n\nOur initiatives will be a hand-hold for the farmers to approach agricultural modernization, allowing them to produce far greater yields at a much lower cost. Efforts to offer subsidies to farmers will be rolled out across Japan's rural regions, in alignment with Fukuda's projected plans for economic recovery; however, we must remain aware of the landlords, and their reputation of kneecapping subsidiary aid to tenant farmers throughout the implementation of our plans."
  
- JAP_a_stable_welfare_net:0 "Стабільна соціальна мережа"
- JAP_a_stable_welfare_net_desc:0 "Жорстка і направляюча рука, яка веде націю та державу - це наш основний інструмент у забезпеченні Японії
- майбутнього, за яке варто боротися і помирати. Це установа, сповнена сміливих і патріотичних чоловіків, присвятивших себе Імперії, щоб вона могла
- зберегти себе, свою гармонію і процвітання. Фукуда Такєо один з цих людей;
- на прохання Аокі Кадзуо він надсилає свої плани, як вивести країну зі стану, в якому вона перебуває останнім часом.
- \n\nЙого пакет соціальних стимулів, нещодавно схвалений у парламенті, призначений саме для цієї мети.
- Прийнятий пакет охоплює державну промисловість і бізнес та має на меті розширити державні інвестиції у виробництво, та торгівлю, 
- а також право власності на них. Першочерговим заходом у боротьбі з наслідками кризи Ясуда є впевненість нашого кабінету в тому, що держава, 
- і тільки держава, може привести нас до відновлення."
+ JAP_aokis_bureaucratic_revival:0 "Aoki's Bureaucratic Revival"
+ JAP_aokis_bureaucratic_revival_desc:0 "Outstretched hands shake across the aisle - our differences with the conservatives in the Taisei Yokusankai have been settled, for now, and we can come to amicable agreements. Their cooperation here and down the line has secured us our settlement with the Home Ministry; the interlocking set of allegiances and interests between these groups, as well as within the civil service, has fallen neatly into the lap of our government.\n\nAfter a gasp of long-held breath, Aoki Kazuo's plans for a new administrative renaissance may fall into place. We may begin our path to return to the paternalist bureaucracy of the early Shōwa period, wherein new life and vigor pumped through the Empire's veins, and her men were bold governors. What may have initially seemed like a few deals struck and friends made, has secured Japan her future as a nation among those prosperous."
  
- JAP_fukudas_careful_approach:0 "Обережний підхід Фукуди"
- JAP_fukudas_careful_approach_desc:0 "Оскільки ми вступаємо в період послаблення тиску, з дефіцитом видатків і зниженням витрат нашої скарбниці,
- ми не повинні нехтувати увагою, яку ми приділяємо бюджету. Хоча останнім часом наш контроль міг коливатися в міру того, як ми долаємо
- кризу Ясуди, ми не можемо допустити, щоб це завадило нашій адміністрації керувати економікою, що відновлюється. Щойно наші політичні вороги
- відчують занепокоєння нашого уряду, їхні атаки розпочнуться.\n\nІ ось, ніж для знову витягнуто;
- Заради стабільності бюджету необхідно, щоб ми повсюдно скоротили витрати в регіонах імперії. Корея і Тайвань повинні зіткнутися з 
- найжорсткішими скороченнями, заради Японського архіпелагу. А заради майбутнього доведеться знекровити і соціальну сферу."
+ JAP_a_stable_welfare_net:0 "A Stable Welfare Net"
+ JAP_a_stable_welfare_net_desc:0 "The plentiful and guiding hand that guides the nation, the state is our primary tool in securing Japan a future worth fighting and dying for. It is an institution full of bold, patriotic men, dedicated to ensuring that the Empire can preserve itself and its way of life in harmony and prosperity. Fukuda Takeo is one of these men; at the prompt of Aoki Kazuo, he sends in his plans to draw the nation out of its recent rut.\n\nHis stimulus package recently-approved in the Diet is fit for this very purpose. Its sweeping coverage of state-owned industry and business is primed to expand government investment in, and ownership of, production and commerce. A primary measure to combat the fallout of the Yasuda Crash, our cabinet is secure in the belief that the state, and only the state, can deliver us towards recovery."
  
- JAP_our_economic_pillars_stabilised:0 "Наші економічні показники стабілізувалися"
- JAP_our_economic_pillars_stabilised_desc:0 "Шлях до цього був нелегким, але нарешті ми можемо відкласти ніж.
- Хоча ми, можливо, кров'ю залили наші носи через необхідні скорочення видатків і соціальних виплат, стовпи, на яких тримається економіка і 
- майбутнє програми, стабілізувалися. Майбутнє нашої програми було врятовано,
- а наші сільські виборці поки що задоволені. \n\nОднак невдоволення в місті зростає. Сім'ї робітничого класу, міський бізнес та державні
- службовці висловлюють негативну думку про нашу нещодавню програму. Їхні запити та скарги мають бути розглянуті якнайшвидше; 
- прем'єр-міністр, контактуючи з працівниками різних міністерств, погодився на використання як доброзичливих і щирих, так і,
- в разі необхідності, більш примусових методів впливу на громадську думку."
+ JAP_fukudas_careful_approach:0 "Fukuda's Careful Approach"
+ JAP_fukudas_careful_approach_desc:0 "As we step into a period of relaxed pressure, with spending at a deficit and costs to our coffers lowering, we must not neglect our attention paid towards the budget. Although it may have fluctuated in recent times as we manage the Yasuda Crisis, we cannot let it trip up our administration's management of the recovering economy. The moment our political enemies get a whiff of our cabinet's anxieties, their attacks will commence.\n\nAnd so, the gutting knife is drawn once more; for the sake of the budget's stability, it is necessary that we cut spending across the board in regions of the Empire. Korea and Taiwan must face the harshest cuts, for the sake of the Home Isles. Welfare will need to be bled too, for the sake of longevity."
  
- JAP_the_greatest_victims:0 "Найбільші жертви..."
- JAP_the_greatest_victims_desc:0 "Зайбацу Міцуї, Мітсубіші та Сумітомо зазнали сильних втрат у ресурсах і багатстві від 
- бурхливих економічних війн. І тому, за наполяганням радників, 
- необхідно, щоб вони отримали допомогу. Фукуда Такєо, оцінивши масштаб їхнього впливу, запропонував нам більш обережно та "гармонійно" 
- підходити до формулювання умов будь-якої можливої допомоги.\n\nРазом з тим фракція Кіші займає менш дипломатичну позицію.
- Їхнє планування в Міністерстві торгівлі привело їх до думки, що ослабленого Зайбацу слід притиснути ще більше. 
- Їх доля знаходиться у руках нашого уряду, і ми, безумовно, могли б використати їхню слабкість, щоб наполягати на регулюванні
- та укладанні угод, які не могли бути врегульовані раніше."
+ JAP_our_economic_pillars_stabilised:0 "Our Economic Pillars Stabilised"
+ JAP_our_economic_pillars_stabilised_desc:0 "The path to this point has not been easy, and at long last we can put down the gutting knife for now. While we may have bloodied our noses with our necessary cuts to spending and welfare, the pillars to hold up the economy and the future of our agenda have been stabilized, and our rural constituents are satisfied for the time being.\n\nHowever, urban discontent is on the rise. Working-class families, urban business, and white-collar employees are expressing foul opinions of our recent legislative agenda. Their queries and complaints must be dealt with soon; the Prime Minister, contacting staff across various ministries, has accepted both the use of benevolent and genuine - and if necessary, more coercive methods of influencing public opinion."
  
- JAP_are_also_the_most_responsible:0 "...є й найбільш винними"
- JAP_are_also_the_most_responsible_desc:0 "У своїй оцінці та аналізі можливих наслідків своїх планів, 
- Фукуда Такєо зазнав значної невдачі. На превеликий жаль для нашої адміністрації, проста перевірка Податкового бюро виявила співучасть
- Міцуї та Мітсубіші у корупційних схемах, безпосередньо пов'язаних з офшорними дочірніми компаніями Ясуди.
- \n\nЦе нове одкровення, яке потрясло всю нашу фінансову програму управління кризою, та вказує на те, що в наших останніх провалах винно 
- набагато більше людей, ніж ми думали. Корупція та зловживання службовими обов'язками мають системний характер і
- потребують набагато більше зусиль для боротьби та демонтажу. Можливо, найгіршим з цього є те, що прихильники
- жорсткої лінії Кіші, як очікується, вхопляться за цей звіт і пропагуватимуть свою програму заявами про про верховенство уряду та
- корпоративну недбалість."
+ JAP_the_greatest_victims:0 "The Greatest Victims"
+ JAP_the_greatest_victims_desc:0 "The Zaibatsu Mitsui, Mitsubishi, and Sumitomo have taken heavy hits and great losses from the turbulent Economic Wars, costing them great fortunes in resources and wealth. And so, at the prompt of advisors and councils, it is necessary that they require bailouts. Fukuda Takeo has suggested, upon evaluation of the scale of their influence, that we take a more careful, "harmonious" approach when stating the terms of any possible bailout.\n\nKishi's faction, however, takes a far less diplomatic stance. Their planning from within the Commerce Ministry has drawn them to the opinion that the weakened Zaibatsu should be squeezed even further. They are indeed at the mercy of our government, and we could certainly make use of their weakness to press for regulation and agreement that could not be settled at any time beforehand."
  
- JAP_squeeze_them_dry:0 "Вичавити їх насухо"
- JAP_squeeze_them_dry_desc:0 "Це мало колись трапитись, у нас зв'язані руки. Після звістки про причетність Міцуї та Мітсубіші до 
- корупційних схем Ясуди, які підривали економіку Імперії, в нас не було іншого вибору, окрім як розпочати кримінальне розслідування.
- У Міністерстві торгівлі аж піна з рота пішла, коли вони почули про це, тож вони теж можуть витягнути свої ножі.
- \n\nКіші, пробуджений одкровенням, теж почав плести своє павутиння; він не гаяв часу дарма,
- формуючи чудові пастки для тиску на промислових конкурентів відповідно до своєї програми.
- Результат: масове заморожування кредитів у корпоративному світі для компаній та дочірніх підприємств, прямо чи опосередковано
- причетних до витоку аудиторської інформації. Для когось це найбільш раціональні заходи у кримінальних провадженнях; 
- Для інших Кіші знову занурює свої зуби та вплив у політичну економію."
+ JAP_are_also_the_most_responsible:0 "Are Also the Most Responsible"
+ JAP_are_also_the_most_responsible_desc:0 "In his evaluation and examinations of the possible consequences of his plans, Fukuda Takeo has suffered a significant setback. Much to our administration's pains, a simple Tax Bureau audit has uncovered Mitsui and Mitsubishi's complicity and involvement in corrupt skimmings directly linked to offshore subsidiaries of Yasuda.\n\nSending shockwaves throughout our financial administration of the crisis, this new revelation indicates that there are many more to blame for our recent economic crises. Their corruption and malpractice is systemic, and will require far more effort in deconstructing and organizing their collapse. Perhaps the worst news for us, Kishi's hardliners are expected to latch onto this report and fuel their agenda with claims of government favoritism and corporate negligence."
  
- JAP_enact_creeping_acquisitions:0 "Розпочати поступове поглинання"
- JAP_enact_creeping_acquisitions_desc:0 "Кіші Нобусуке - людина з величезним впливом на політичній арені Імперії та за її межами. 
- Відомо, що він набагато більше, ніж людина в костюмі; маючи зв'язки від Токіо до Харбіна, справді неможливо сказати, 
- наскільки далеко простягається його влада. 
- Однак нещодавні новини про витік даних аудиту Податкового бюро свідчать про те, що він прагне ще більше розширити ці повноваження.
- \n\nПавутина його зв'язків простягається далеко і широко; Зв'язуючись з людьми в Кореї та Маньчжурії, Кіші домагається захоплення активів 
- Мітсубіші конкуруючими промисловими конгломератами, знайомими корпораціями або просто тими, хто в боржниках перед ним. 
- Однак ті, хто в Манчукуо, будуть поглинуті Маньго - невловимим корпоративним конгломератом, який прагне 
- позбутися промислових активів, де б вони їх не вирвали."
+ JAP_squeeze_them_dry:0 "Squeeze Them Dry"
+ JAP_squeeze_them_dry_desc:0 "Our hands are tied, it was bound to happen at some point. Upon the news breaking of Mistui and Mitsubishi's involvement in the corrupt dealings of Yasuda that buckled the economy of the Empire, there was no defensible position but to proceed with criminal investigation. The Commerce Ministry in particular froths at the mouth to hear that such evidence has surfaced, so they too can draw out their surgical tools.\n\nKishi too, awakened with the revelation, has begun to spin his web; he has wasted no time in executing his craft by shaping great snares to pressure industrial rivals into accordance with his agenda. The result: mass credit freezes across the corporate world for names and subsidiaries directly and indirectly implicated in the audit leak. To some, these are measures most rational to take in criminal procedures; to others, Kishi sinks his teeth and influence into the political economy once more."
  
- JAP_politically_convenient_pardons:0 "Політично вигідні помилування"
- JAP_politically_convenient_pardons_desc:0 "Фукуда знову пропонує мудрі ідеї. Його чудові маніпуляції з переговорами та 
- апеляції до промислових конгломератів, а також використання у своїх пропозиціях корпоративної гільйотини Міністерства фінансів
- привели до нової ініціативи щодо роботи з причетними фірмами. Фукуда пропонує пообіцяти амністію корпораціям в обмін на їхню прихильність
- до запропонованого урядом плану відновлення.\n\nНезважаючи на значний резонанс в уряді, представники Міністерства торгівлі висловили свій протест.
- Вони наполягають на тому, що цей план, якщо його буде реалізовано, є нічим іншим, як відступом і відкатом перед обличчям непристойностей 
- корпоративної корупції. Їхні заклики змінити курс стають все більш некерованими; здається, незважаючи на всі наші зусилля,
- вони запам'ятають це заперечення."
+ JAP_enact_creeping_acquisitions:0 "Enact Creeping Acquisitions"
+ JAP_enact_creeping_acquisitions_desc:0 "Kishi Nobusuke is a man of grand influence, in front of and behind the political arenas of the Empire. He is known to be much more than a man in a suit; with connections from Tokyo to Harbin, there truly is no saying how far his power stretches. With recent news of the Tax Bureau audit leak, however, it seems that he seeks to stretch this power further.\n\nThe great web of his connections stretches far and wide; contacting those in Korea and Manchuria, Kishi pushes for seizures of Mitsubishi assets overseas by rival industrial conglomerates, familiar corporations, or simply by those who owe him a favor. Those in Manchukuo, however, are duly to be swallowed by Mangyō - the elusive corporate conglomerate eager to forfeit industrial assets wherever they pluck them."
  
- JAP_the_hand_that_feeds:0 "Кормлюча рука"
- JAP_the_hand_that_feeds_desc:0 "Уряд і зайбацу перебувають у стані взаємної залежності - ми потребуємо їх, щоб запобігти подальшому економічному
- спаду і зберегти стабільність в економіці, а вони потребують нас, щоб зберегти свої статки і втриматися на плаву після економічних воєн. 
- Конфронтація і конфлікт між нами призведе лише до того, що Японія, її економіка і народ зануряться в ще більшу руїну - ні, є набагато розумніший 
- спосіб, який збереже економіку Японії, і підірве владу Зайбацу.
- \n\nМіністр фінансів Фукуда запропонував законопроект про "корпоративну стабілізацію" - фактично, договір між державою та зайбацу.
- Якщо законопроект буде прийнятий, уряд запропонує зайбацу умовний пакет допомоги: в обмін на субсидії, податкові пільги та кредити, 
- в ради директорів будуть призначені спостерігачі від уряду, які будуть номінально призначені до
- їхніх рад директорів для оцінки ефективності діяльності компаній та роботи з зайбацу для забезпечення зростання і стабільності; 
- насправді, цей механізм також використовуватиметься для здійснення контролю над компаніями і примусу їх до підпорядкування в разі потреби."
+ JAP_politically_convenient_pardons:0 "Politically Convenient Pardons"
+ JAP_politically_convenient_pardons_desc:0 "Fukuda's mastermind delivers us to wiser schemes once again. His excellent manipulation of negotiation and appeal to the industrial conglomerates, alongside the donning of the Finance Ministry's corporate guillotines in his proposals, has constructed a new initiative in handling the implicated firms. Fukuda suggests we promise amnesty to the megacorporations, in return for their subscription to a government-advised recovery plan.\n\nDespite the sound resonance within the government, members of the Ministry of Commerce issue their protest. They insist that this plan, if followed, is nothing but backing down and rolling over in the face of the obscenities of corporate corruption. Their calls to divert course grow unruly; it seems, despite our best efforts, they will remember this objection."
  
- JAP_corporatism_modernised:0 "Модернізований корпоративізм"
- JAP_corporatism_modernised_desc:0 "Між державою та бізнесом, хоч-не-хоч, але було досягнуто modus vivendi; 
- коли всепоглинаюча влада зайбацу була приборкана, влада уряду піднімається до того рівня, на якому вона повинна бути,
- ми зробили великий крок до економічної стабільності. В японській економіці встановився новий порядок, який ставить зростання і
- стабільність понад усе, відкидаючи необачні вимоги військових, скиглення мінливих партійних політиків і корумпованість корпоративних керівників,
- що забезпечить нам краще майбутнє.
- \n\nЦе може бути великим кроком, але це лише один крок на шляху до справжнього корпоративізму - досконалої згоди між всіма суб'єктами економіки,
- які працюють разом заради спільного блага. Суспільство та економіка як надійна і добре змащена машина - це мрія технократів, це, наша мрія."
+ JAP_the_hand_that_feeds:0 "The Hand That Feeds"
+ JAP_the_hand_that_feeds_desc:0 "The government and the Zaibatsu are in a state of mutual reliance - we need them to prevent further economic downturn and to maintain stability in the economy, while they need us to maintain their fortunes and stay afloat in the aftermath of the Economic Wars. Confrontation and conflict between the two would only lead to Japan and her economy and people being plunged into further ruin - no, there is a far smarter way of dealing with these companies, one which will both preserve economic health and cripple their power.\n\nFinance Minister Fukuda has proposed a bill for "corporate stabilization" - in actuality, a treaty between the state and the Zaibatsu. Should the bill be passed, the government will offer a conditional bailout package to the Zaibatsu: in exchange for subsidies, tax relief, and loans, government observers will be appointed to their boards of directors nominally to measure firm performance and work with the Zaibatsu to ensure growth and stability; in truth, this mechanism will also be used to exert control over the companies and threaten them into submission if necessary."
  
- JAP_the_new_old_bureaucrats:0 "Нові-старі бюрократи"
- JAP_the_new_old_bureaucrats_desc:0 "Незалежно від того, яким шляхом йшов наш уряд останнім часов, ми дійшли до цього моменту, 
- значною мірою стабілізувавши хвору економіку. Недбалі корпоративні деспоти були обмежені; сільгоспвиробники отримали дочірні підприємства; 
- навіть консерватори були більш-менш заспокоєні. Наші дії та ініціативи були амбітними, але не без успіхів, які колись вважалися недосяжними.
- \n\nОднак, незважаючи на ці адміністративні перемоги, на політичному фронті ситуація залишається складною. Складні рішення і зміни в політиці
- зробили з нас ворогів у парламенті; ліберали отримали достатньо підтримки, щоб оголосити нас автократами. Ми зобов'язані зупинити їх наступ на
- нас, до того як їхні шкідливі ідеї позіхатимуть на наш електорат."
+ JAP_corporatism_modernised:0 "Corporatism Modernized"
+ JAP_corporatism_modernised_desc:0 "A modus vivendi has been achieved between the state and business, reluctant or not; the once all-consuming power of the Zaibatsu has been curbed, that of the bureaucracy and state is ascending to what it ought to be, and we have taken a big step towards economic harmony. A new order in the Japanese economy has dawned - one of growth and stability above all else, discarding the myopic demands of the military, whining of fickle partisan politicians, and the corruption of corporate executives, and one which will secure for us the best future.\n\nA big step this may be, but this is but one step on the road to true corporatism - the perfect concord of all actors in the economy, all working together for the common good. Society and the economy as a perfectly efficient and well-oiled machine - this is the technocratic dream, our dream."
+ 
+ JAP_the_new_old_bureaucrats:0 "The New Old Bureaucrats"
+ JAP_the_new_old_bureaucrats_desc:0 "Regardless of the path our government has negotiated in recent times, we have arrived at this point having largely stabilized the ailing economy. Careless corporate despots have been constrained; rural crop-farmers have received adequate subsidiaries; even the conservatives have been largely appeased. Our actions and initiatives have been ambitious, but not without successes once thought as unattainable.\n\nHowever, despite these administrative victories, we have certainly felt the costs upon our government rise. Difficult decisions and policy adjustment has made us enemies in the Diet; the Liberal faction specifically has platformed enough speakers to decry us as autocrats. We must curb their offensive into our faction, and blunt their corrosive postulation before their bravery strikes accord with disaffected constituents."
  
  JAP_a_cautious_path_for_the_future:0 "A Cautious Path for the Future"
- JAP_a_cautious_path_for_the_future_desc:0 "The very foundation of the Japanese economy has reached a stable position; the worst excesses of 
- our debt spirals, as well as the worsening unemployment statistics, have been blunted and we can finally begin to surgically diagnose and treat 
- inefficiencies and recession where they lay. Some may call this success, but others recognize that we are entering a new world of struggle and 
- trial.\n\nThe Conservatives and the Home Ministry, alongside Kishi's faction of hardliners, are displeased with our lack of initiative in seizing 
- a greater role for the state in the economic troubles of the Empire. It seems that they circle our every decision like hyenas, awaiting their
- moment to capitalize on anything they see as a government failure. One thing is for sure, however - entering the newest stage of economic recovery, 
- we must be cautious in executing our government's plans."
+ JAP_a_cautious_path_for_the_future_desc:0 "The very foundation of the Japanese economy has reached a stable position; the worst excesses of our debt spirals, as well as the worsening unemployment statistics, have been blunted and we can finally begin to surgically diagnose and treat inefficiencies and recession where they lay. Some may call this success, but others recognize that we are entering a new world of struggle and trial.\n\nThe Conservatives and the Home Ministry, alongside Kishi's faction of hardliners, are displeased with our lack of initiative in seizing a greater role for the state in the economic troubles of the Empire. It seems that they circle our every decision like hyenas, awaiting their moment to capitalize on anything they see as a government failure. One thing is for sure, however - entering the newest stage of economic recovery, we must be cautious in executing our government's plans."
 
  JAP_the_militaries_friendly_rivalry:0 "The Military's Friendly Rivalry"
  JAP_the_militaries_friendly_rivalry_desc:0 "Two of the primary organs of maintaining the Emperor's peace have been his bold standing army and his expeditious, mighty navy. For almost a century, the two wings of the Japanese military have defended our shores, brought peace to our and our neighbor's lands, and subdued the enemies of the people's freedom so that harmony in the East may flourish.\n\nHowever, after beating the Americans and Chinese in the Greater East Asia War, the rivalry between the Imperial Japanese Army and Navy has, although far from diminishing itself, continued unabated. In recent years, many have even gone so far to determine the clash of interests to potentially undermine the stability of the Kokutai. Our government believes that something must be done before the situation spirals, and that investigations are to begin immediately."
