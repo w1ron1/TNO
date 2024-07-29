@@ -14,9 +14,9 @@
  econ_sphere_map_mode_mapicon_tooltip_entry: "  - §Y[?FROM.econ_sphere_members^temp_sphere_idx.GetNameWithFlag]§!"
  
  # Culture map mode
- MAPMODE_TNO_CULTURE_MAP_MODE: "§YCulture§!"
- MAPMODE_TNO_CULTURE_MAP_MODE_NAME: "Culture"
- MAPMODE_TNO_CULTURE_MAP_MODE_DESCRIPTION: "Shows the majority cultures in the world map."
+ MAPMODE_TNO_CULTURE_MAP_MODE: "§YКультура§!"
+ MAPMODE_TNO_CULTURE_MAP_MODE_NAME: "Культура"
+ MAPMODE_TNO_CULTURE_MAP_MODE_DESCRIPTION: "Показує більшість культур на карті світу."
  
  tno_culture_map_mode_tooltip: "§Y[FROM.GetNationality]§!"
  tno_culture_map_mode_tooltip_delayed: "§F(§Y[FROM.Controller.GetNameWithFlag]§!): [FROM.GetName] has a majority culture of §Y[FROM.GetNationality]§!.§!"
