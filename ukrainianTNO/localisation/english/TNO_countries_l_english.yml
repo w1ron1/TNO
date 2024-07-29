@@ -123,10 +123,6 @@
  BRP_DEF: "the Brazilian Occupation Zone in Paraguay"
  BRP_ADJ: "Brazilian"
 
- BRT: "Republic of Brittany"
- BRT_DEF: "the Republic of Brittany"
- BRT_ADJ: "Breton"
-
  BSO: "Free Britain"
  BSO_DEF: "Special Operations Executive"
  BSO_ADJ: "British"
@@ -182,11 +178,11 @@
 
  CRI: "Reichsgau Gotenland"
  CRI_DEF: "das Reichsgau Gotenland"
- CRI_ADJ: "Gotenland"
+ CRI_ADJ: "Gotenlander"
 
  CRN: "Militärverwaltung der Britischen Inseln"
  CRN_DEF: "die Militärverwaltung der Britischen Inseln"
- CRN_ADJ: "Cornwall Garrison"
+ CRN_ADJ: "Cornwall Garrisonian"
 
  CRO: "Kingdom of Croatia"
  CRO_DEF: "the Kingdom of Croatia"
@@ -206,7 +202,7 @@
  
  CZE: "Wehrkreis XIX"
  CZE_DEF: "Wehrkreis XIX"
- CZE_ADJ: "Czech"
+ CZE_ADJ: "Bohemian"
 
  DEN: "Denmark"
  DEN_DEF: "the Kingdom of Denmark"
@@ -335,10 +331,6 @@
  GRN_DEF: "Greenland"
  GRN_ADJ: "Greenlandic"
 
- GTL: "Gotland"
- GTL_DEF: "Gotland"
- GTL_ADJ: "Gotlands"
-
  GUA: "Guatemala"
  GUA_DEF: "the Republic of Guatemala"
  GUA_ADJ: "Guatemalan"
@@ -363,7 +355,7 @@
  JAM_ADJ: "Jamaican"
 
  JER: "Jerusalem"
- JER_DEF: "Jerusalem"
+ JER_DEF: "the Mandate of Jerusalem"
  JER_ADJ: "Jerusalem"
 
  JOR: "Jordan"
@@ -488,6 +480,7 @@
 
  PAL: "Palestine"
  PAL_DEF: "Palestine"
+ PAL_progressivism_DEF: "the Republic of Palestine"
  PAL_despotism: "Kingdom of Palestine"
  PAL_despotism_DEF: "the Kingdom of Palestine"
  PAL_ADJ: "Palestinian"
@@ -547,10 +540,6 @@
  QUE_ADJ: "Québécois"
 
  # R
- RNW: "Regierung des Nationalen Wiederaufbaus"
- RNW_DEF: "die Regierung des Nationalen Wiederaufbaus"
- RNW_ADJ: "German"
-
  RPS: "Republic of Sudan"
  RPS_DEF: "the Republic of Sudan"
  RPS_ADJ: "Sudanese"
@@ -604,24 +593,6 @@
  SDS_national_socialism: "Ba'athist State of Sudan"
  SDS_national_socialism_DEF: "the Ba'athist State of Sudan"
  SDS_ADJ: "Sudanese"
-
- SER: "Republic of Serbia"
- SER_DEF: "the Republic of Serbia"
- SER_communist: "Socialist Republic of Serbia"
- SER_communist_DEF: "the Socialist Republic of Serbia"
- SER_socialist: "Socialist Republic of Serbia"
- SER_socialist_DEF: "the Socialist Republic of Serbia"
- SER_paternalism: "Serbian National Liberation Front"
- SER_paternalism_DEF: "the Serbian National Liberation Front"
- SER_despotism: "Kingdom of Serbia"
- SER_despotism_DEF: "the Kingdom of Serbia"
- SER_fascism: "Independent State of Serbia"
- SER_fascism_DEF: "the Independent State of Serbia"
- SER_national_socialism: "Independent State of Serbia"
- SER_national_socialism_DEF: "the Independent State of Serbia"
- SER_ultranationalism: "Independent State of Serbia"
- SER_ultranationalism_DEF: "the Independent State of Serbia"
- SER_ADJ: "Serbian"
 
  SGR: "Speer's Germany"
  SGR_DEF: "Speer's Germany"
@@ -678,10 +649,6 @@
  SPR: "Spanish Republic"
  SPR_DEF: "the Spanish Republic"
  SPR_ADJ: "Spanish"
-
- SRN: "Ravna Gora Movement"
- SRN_DEF: "the Ravna Gora Movement"
- SRN_ADJ: "Serbian"
 
  SRT: "Armeeverband "Freies Europa""
  SRT_DEF: "Armeeverband "Freies Europa""
@@ -777,7 +744,7 @@
 
  TMJ: "Republic of New Tomsk"
  TMJ_DEF: "the Republic of New Tomsk"
- TMJ_ADJ: "Tomskian"
+ TMJ_ADJ: "New Tomsk"
 
  TMK: "Free Kazakh Clans"
  TMK_DEF: "the Free Kazakh Clans"

@@ -12,12 +12,12 @@ POLITICS_Leonida_Suzzi_Valli_DESC:0 "His Excellence Leonida Suzzi Valli is the n
 #############################
 
 ### Andorra ###
-PAD_despotism_party:0 "CGdA"
-PAD_despotism_party_long:0 "Consell General d'Andorra"
+PAD_despotism_party:0 "АГК"
+PAD_despotism_party_long:0 "Андоррська генеральна контора"
 
 ### Monaco ###
-MOC_paternalism_party: "Royal Family"
-MOC_paternalism_party_long: "Royal Family"
+MOC_paternalism_party: "Королівська родина"
+MOC_paternalism_party_long: "Королівська родина"
 MOC_fascism_party: "Consolato Italiano di Monaco"
 MOC_fascism_party_long: "Consolato Italiano di Monaco"
 MOC_socialist_party: "USM"
@@ -48,8 +48,8 @@ SNM_liberalism_party: "MLS"
 SNM_liberalism_party_long: "Movimento Libertà Statutarie"
 
 ### Vatican City ###
-VAC_despotism_party:0 "Holy See"
-VAC_despotism_party_long:0 "Sancta Sedes"
+VAC_despotism_party:0 "Святий Престол"
+VAC_despotism_party_long:0 "Санкта Седес"
 
 ###########################
 ##=====| Ministers |=====##

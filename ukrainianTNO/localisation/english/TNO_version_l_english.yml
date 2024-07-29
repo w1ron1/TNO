@@ -1,8 +1,8 @@
 ﻿l_english:
  # Format - TNO vMajorVersion.ContentUpdate.PatchNumber(Hotfix Letter) - Content Update Name
- tno_current_version:0 "TNO v1.5.0c - §R"The Ruin"§!"
+ tno_current_version:0 "TNO v1.5.0d - §R"Руїна"§!"
  # Format - Date of most recent update - Hotfix Or Patch Contents
- tno_current_version_date:0 "§YMarch 8th, 2024 - §R"The Ruin"§!§!"
+ tno_current_version_date:0 "§Y15 Червня, 2024 - §R"Руїна"§!§!"
 
  # Patch History logged below
  # TNO v1.0.0 - Released on July 21st, 2020 - Initial Release
@@ -56,3 +56,4 @@
  # TNO v1.5.0a - Released on October 10th, 2023 - The Ruin Patch A
  # TNO v1.5.0b - Released on October 31st, 2023 - The Ruin Patch B
  # TNO v1.5.0c - Released on March 8th, 2024 - The Ruin Patch C
+ # TNO v1.5.0d - Released on June 15th, 2024 - The Ruin Patch D

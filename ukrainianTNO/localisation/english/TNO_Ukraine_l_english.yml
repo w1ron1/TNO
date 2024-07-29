@@ -60,51 +60,51 @@
  #####################
  # 0 - COUNTRY NAMES #
  #####################
- UKR: "Reichskommissariat Ukraine"
- UKR_DEF: "Reichskommissariat Ukraine"
- UKR_ADJ: "Ukrainian"
+ UKR: "Райхскомісаріят Україна"
+ UKR_DEF: "Райхскомісаріят Україна"
+ UKR_ADJ: "Українськ"
 
- UKR_UNR_start: "Ukrainian National Republic"
- UKR_UNR_start_DEF: "the Ukrainian National Republic"
- UKR_UNR_start_ADJ: "Ukrainian"
+ UKR_UNR_start: "Українська Народна Республіка"
+ UKR_UNR_start_DEF: "Українська Народна Республіка"
+ UKR_UNR_start_ADJ: "Українськ"
 
  ###################
  # 1 - PARTY NAMES #
  ###################
- UKR_communist_party: "KP(b)U"
- UKR_communist_party_long: "Komunistychna Partiya (bil'shovykiv) Ukrayiny (Communist Party of Ukraine (Bolsheviks))"
- UKR_socialist_party: "KP(b)U"
- UKR_socialist_party_long: "Komunistychna Partiya (bil'shovykiv) Ukrayiny (Communist Party of Ukraine (Bolsheviks))"
- UKR_conservatism_party: "UNRA"
- UKR_conservatism_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya"
- UKR_paternalism_party: "UNRA"
- UKR_paternalism_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya" 
- UKR_paternalism_1_party: "UNRA"
- UKR_paternalism_1_party_long: "Ukrayins'ka Narodno-Revolyutsiyna Armiya" 
- UKR_despotism_party: "UNA-S"
- UKR_despotism_party_long: "Ukrayins'ka Natsional'na Armiya - Shandrukistiv"
- UKR_fascism_party: "UNK-M"
- UKR_fascism_party_long: "Ukrayins'kyy Natsional'nyy Komitet - Mel'nykovtsi"
+ UKR_communist_party: "КП(б)У"
+ UKR_communist_party_long: "Комуністична Партія (більшовиків) України"
+ UKR_socialist_party: "КП(б)У"
+ UKR_socialist_party_long: "Комуністична Партія (більшовиків) України"
+ UKR_conservatism_party: "УНРА"
+ UKR_conservatism_party_long: "Українська Народно-Революційна Армія"
+ UKR_paternalism_party: "УНРА"
+ UKR_paternalism_party_long: "Українська Народно-Революційна Армія" 
+ UKR_paternalism_1_party: "УНРА"
+ UKR_paternalism_1_party_long: "Українська Народно-Революційна Армія" 
+ UKR_despotism_party: "УНА-Ш"
+ UKR_despotism_party_long: "Українська національна армія - Шандрукісти"
+ UKR_fascism_party: "УНК-М"
+ UKR_fascism_party_long: "Український національний комітет - Мельниківці"
  UKR_national_socialism_party: "AOdNSDAP"
- UKR_national_socialism_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei"
- UKR_national_socialism_3_party: "AOdNSDAP - Bräutigams Gruppe"
- UKR_national_socialism_3_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei - Bräutigams Gruppe"
- UKR_national_socialism_2_party: "AOdNSDAP - Ohlendorfs Gruppe"
- UKR_national_socialism_2_party_long: "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei - Ohlendorfs Gruppe"
- UKR_ultranationalism_party: "UPA"
- UKR_ultranationalism_party_long: "Ukrayins'ka Povstans'ka Armiya"
+ UKR_national_socialism_party_long: "Східна робоча зона Націонал-соціалістичної робітничої партії Німеччини"
+ UKR_national_socialism_3_party: "СРЗНСДАП - Група Браутігама"
+ UKR_national_socialism_3_party_long: "Східна робоча зона Націонал-соціалістичної робітничої партії Німеччини - Група Браутігама"
+ UKR_national_socialism_2_party: "СРЗНСДАП - Група Олендорф"
+ UKR_national_socialism_2_party_long: "Східна робоча зона Націонал-соціалістичної робітничої партії Німеччини - Група Олендорфа"
+ UKR_ultranationalism_party: "УПА"
+ UKR_ultranationalism_party_long: "Українська Повстанська Армія"
 
- UKR_speer_prov_government_national_socialism: "Übergangsregierung"
- UKR_speer_prov_government_national_socialism_long: "Übergangsregierung"
- UKR_collab_paternalism: "UNK"
- UKR_collab_paternalism_long: "Ukrayins'kyy Natsional'nyy Komitet"
- UKR_collab_fascism: "NSDAP-U"
- UKR_collab_fascism_long: "Nationalsozialistische Deutsche Arbeiterpartei - Ukraine"
- UKR_collab_national_socialism: "NSDAP-U"
- UKR_collab_national_socialismlong: "Nationalsozialistische Deutsche Arbeiterpartei - Ukraine"
+ UKR_speer_prov_government_national_socialism: "Перехідний уряд"
+ UKR_speer_prov_government_national_socialism_long: "Перехідний уряд"
+ UKR_collab_paternalism: "УНК"
+ UKR_collab_paternalism_long: "Український національний комітет"
+ UKR_collab_fascism: "НСДАП-У"
+ UKR_collab_fascism_long: "Націонал-соціалістична німецька робітнича партія - Україна"
+ UKR_collab_national_socialism: "НСДАП-У"
+ UKR_collab_national_socialismlong: "Націонал-соціалістична німецька робітнича партія - Україна"
 
- UKR_UNR_UNC_party_long: "Ukrayins'kyy Natsional'nyy Konhres"
- UKR_UNR_UNC_party: "UNK"
+ UKR_UNR_UNC_party_long: "Український національний конгрес"
+ UKR_UNR_UNC_party: "УНК"
 
  UKR_brautigam_national_socialism_3: "$UKR_national_socialism_3_party$"
  UKR_ohlendorf_national_socialism_2: "$UKR_national_socialism_2_party$"
@@ -113,25 +113,25 @@
  # 2 - LEADER NAMES #
  ####################
 
- UKR_Erich_Koch: "Erich Koch"
- UKR_Georg_Leibbrandt: "Georg Leibbrandt"
- UKR_Otto_Ohlendorf: "Otto Ohlendorf"
- UKR_Hans_Otto_Brautigam: "Hans-Otto Bräutigam"
- UKR_Theodor_Kretschmer: "Theodor Kretschmer"
- UKR_Pieter_Schelte_Heerema: "Pieter Schelte Heerema"
- UKR_Peter_Kozhevnikov: "Peter Kozhevnikov"
- UKR_Andriy_Melnyk: "Andriy Melnyk"
- UKR_Pavlo_Shandruk: "Pavlo Shandruk"
- UKR_Volodymyr_Kubiyovych: "Volodymyr Kubiyovych"
- UKR_UNBEKANNT: "UNBEKANNT" #for starting piechart
- UKR_UNBEKANNT_TWO: "UNBEKANNT" #for starting piechart
- UKR_UNBEKANNT_THREE: "UNBEKANNT" #for starting piechart
- CRI_Karl_Gunther_von_Hase: "Karl-Günther von Hase"
+ UKR_Erich_Koch: "Еріх Кох"
+ UKR_Georg_Leibbrandt: "Георг Лейббрандт"
+ UKR_Otto_Ohlendorf: "Отто Олендорф"
+ UKR_Hans_Otto_Brautigam: "Ганс-Отто Браутігам"
+ UKR_Theodor_Kretschmer: "Теодор Кречмер"
+ UKR_Pieter_Schelte_Heerema: "Пітер Шельте Хірема"
+ UKR_Peter_Kozhevnikov: "Петро Кожевніков"
+ UKR_Andriy_Melnyk: "Андрій Мельник"
+ UKR_Pavlo_Shandruk: "Павло Шандрук"
+ UKR_Volodymyr_Kubiyovych: "Володимир Кубійович"
+ UKR_UNBEKANNT: "НЕВІДОМИЙ" #for starting piechart
+ UKR_UNBEKANNT_TWO: "НЕВІДОМИЙ" #for starting piechart
+ UKR_UNBEKANNT_THREE: "НЕВІДОМИЙ" #for starting piechart
+ CRI_Karl_Gunther_von_Hase: "Карл-Гюнтер фон Газе"
 
  #####################
  # 2.1 - LEADER BIOS #
  #####################
- POLITICS_ERICH_KOCH_DESC: "This is what Erich Koch has been left with. This is what he deserves.\n\nAt his peak of authority, Erich Koch was a thug upon a throne, brutal even by the standards of the Third Reich. His colonial policy was an endless cycle of exploitation and repression, designed to beat the Ukrainian people into submission. Under his watch, the Hunger Plan left the native population starving in fields of amber, and his quotas reduced them to slavery. In his mind, he had forged the very picture of lebensraum: a blood diamond in Hitler's crown.\n\nIt could not last, of course. In the wake of the West Russian War, the Reichskommissariat was left with far more problems than Koch could comprehend. Above him, an army of administrators demanded more and more, hoping to prop up the Reich's ailing economy with further blood from its breadbasket. Below him, a crowd of natives screamed, demanding freedom from the abyss he had created. For the first time, Erich Koch was faced with problems which could not be solved with whips and hammers. The Reichskommissar was finally lost.\n\nRather than attempting major changes, the Reichskommissar has let the colony stagnate beneath him, even as terror rises and profits slow. Deep down, Erich Koch may be aware of some solution, but the man lacks the energy to change Ukraine's fate. In the name of profit, the Reichskommissar ground his colony into sand - now, he watches it blow away."
+ POLITICS_ERICH_KOCH_DESC: "Це те, що залишилося Еріху Коху. Це те, на що він заслуговує.\n\nНа піку своєї влади Еріх Кох був головорізом на троні, жорстоким навіть за мірками Третього Райху. Його колоніальна політика була нескінченним циклом експлуатації та репресій, покликаних примусити Український народ до покори. Під його керівництвом Голодомор залишив корінне населення голодувати на бурштинових копальнях, а квоти звели його до рабства. У своїй уяві він викував саму картину лебенсрауму: кривавий діамант у короні Гітлера.\n\nЗвісно, це не могло тривати довго. Після закінчення Західно-Російської війни перед Райхскомісаріятом постало набагато більше проблем, ніж Кох міг собі уявити. Над ним сиділа армія адміністраторів, які вимагали все більше і більше, сподіваючись підтримати хвору економіку Райху ще більшою кров'ю з його житниці. Під ним кричав натовп тубільців, вимагаючи свободи від прірви, яку він створив. Вперше Еріх Кох зіткнувся з проблемами, які не можна було вирішити за допомогою батогів і молотків. Райхскомісар остаточно розгубився.\n\nЗамість того, щоб спробувати здійснити серйозні зміни, райхскомісар дозволив колонії стагнувати під ним, навіть коли терор зростає, а прибутки сповільнюються. У глибині душі Еріх Кох, можливо, і знає якесь рішення, але йому бракує енергії, щоб змінити долю України. Заради прибутку райхскомісар перетворив свою колонію на пісок - тепер він спостерігає, як її розвіює."
 
  POLITICS_VOLODYMYR_KUBIYOVYCH_DESC: "An age of oppression, barbarism, and bloodshed has crushed the will of many men and women to take a stand against foreign imperialism, and even fewer ordinary people would dare openly call for independence. However, Volodymyr Kubiyovych is not most people, as a lifetime as a soldier, a geographer, and a politician has shown. However, the many lifestyles of and bureaucracy surrounding Kubiyovych will not stand in the way of the one, true goal which has always persisted in the mind of the Polish-raised Ukranian, with the image of cheering Ukranians in a free state of their own.\n\nA life of study and teaching would not prepare the intellectual for the Nazi invasion of the Polish land he had lived in for most of his life, spurned by diaspora and, now, another invader of his home. Thus, Kubiyovych delved into the fire of his scorn to establish one of the few social programs on the face of Europe, helping thousands of Ukranian men, women, and children affected by the war. Meanwhile, the former cartographer chose to stand against the infamous Hans Frank in his desired slaughter of Ukranian peasants, allowing just a bit more success for his homeless people. However, as the Nazi victory came, all Kubiyovych could do was encourage the growth of the Galician Waffen-SS to use as a foundation for a pseudo-army to protect against further Nazi persecution.\n\nHowever, in the age of darkness Ukraine has found itself in, a light dawns on the horizon for Kubiyovych and his companions. Men may stand against him, clawing at him to strike down his attempts for independence. But such botherations and sins against the Ukranian people shall not stand against Kubiyovych's work with the Reich. Nothing will."
 
@@ -148,18 +148,18 @@
  #####################
  # 3 - LEADER TRAITS #
  #####################
- ukraines_gravedigger: "Ukraine's Gravedigger" #Koch
- ukraines_director: "Ukraine's Director" #Leibbrandt
- ukraines_reformer: "Ukraine's Reformer" #Brautigam
- ukraines_policeman: "Ukraine's Policeman" #Ohlendorf
- the_old_fighter: "Fighter Until The End" #Shumskyi
- the_black_raven: "The Black Raven" #Horlis
- pulse_of_the_age: "Pulse of the Age" #Dziuba
- the_road_of_pain: "Road of Pain" #Stus
- ataman_of_babi_yar: "Ataman of Babi Yar" #Ohloblyn
- providnyk_of_the_national_revolution: "Providnyk of the National Revolution" #Klyachkivsky
- mind_of_the_national_revolution: "Mind of the National Revolution" #Stetsko
- soldier_of_the_national_revolution: "Soldier of the National Revolution" #Shukhevych
+ ukraines_gravedigger: "Могильник України" #Koch
+ ukraines_director: "Український директор" #Leibbrandt
+ ukraines_reformer: "Український реформатор" #Brautigam
+ ukraines_policeman: "Український поліціянт" #Ohlendorf
+ the_old_fighter: "Борець до кінця" #Shumskyi
+ the_black_raven: "Чорний Ворон" #Horlis
+ pulse_of_the_age: "Пульс часу" #Dziuba
+ the_road_of_pain: "Дорога болю" #Stus
+ ataman_of_babi_yar: "Отаман Бабиного Яру" #Ohloblyn
+ providnyk_of_the_national_revolution: "Провідник Національної революції" #Klyachkivsky
+ mind_of_the_national_revolution: "Розум національної революції" #Stetsko
+ soldier_of_the_national_revolution: "Солдат Національної революції" #Shukhevych
  ########################
  # 4 - NATIONAL SPIRITS #
  ########################
@@ -175,20 +175,20 @@
  UKR_consumption_cycle_dynmod_add_tt: "A National Spirit named §YThe Consumption Cycle§! will be obtained with following effects:\nGDP Growth: §G[?UKR_BB_consumption_cycle_profits_gdp_display|2]%§!.\nMisc Income: §G[?UKR_BB_consumption_cycle_profits_income_display|3] B§!.\n"
 
  # STARTING
- UKR_paradise_undone: "Paradise Undone"
+ UKR_paradise_undone: "Зруйнований рай"
  UKR_paradise_undone_desc: "Ukraine was promised to be a paradise for the Aryan people. A lush land where one would not need lift a finger to reap great wealth, and where the future of Germany could be built in the sun by her sons. A humble Aryan man, with a peaceful farm for his family, free from all of the degeneracy of urban life. Life as it was meant to be.\n\nThe dream died a slow, painful death.\n\nMillions were slaughtered. Cities were left to rot. German settlements continue to be endangered. Endless partisan warfare has rendered Ukraine a hellscape. Poverty, pain, and misery all around.\n\nUkraine is dying.\n\n§ROr already dead.§!"
- UKR_breadbasket_of_the_reich: "The Breadbasket of the Reich"
+ UKR_breadbasket_of_the_reich: "Житниця Райху"
  UKR_breadbasket_of_the_reich_desc: "§FStability: [?UKR_bb_stab_mod|%+=]\n    [?national_dynmod_gov_control_stab|%+=] From government control\n    [?national_dynmod_desolation_stab|%+=] From £UKR_desolation_texticon §VDesolation§!\nResource Gain Efficiency: [?UKR_bb_resources_mod|%+=]\n    [?national_dynmod_exploitation_resources|%+=] From §OExploitation§!\n    [?national_dynmod_desolation_resources|%+=] From £UKR_desolation_texticon §VDesolation§!\nGDP Growth: [?UKR_bb_gdp_mod|%%+=]\n    [?national_dynmod_dev_gdp|%%+=] From [?UKR_total_development|G0] £UKR_development §DDevelopment Levels§!\n    [?national_dynmod_exploitation_gdp|%%+=] From §OExploitation§!\n    [?national_dynmod_desolation_gdp|%%+=] From £UKR_desolation_texticon §VDesolation§!\nMonthly Population: [?UKR_bb_pop_mod|%+=]\n    [?national_dynmod_exploitation_pop|%+=] From §OExploitation§!\n    [?national_dynmod_desolation_pop|%+=] From £UKR_desolation_texticon §VDesolation§!\nCivilian Spending Factor: [?UKR_bb_civ_spend_mod|%-=]\nDaily Command Power Gain: [?UKR_bb_cp_mod|+=]\n--------------\n§!Since the Reich's great triumph in the east, Ukraine has been the breadbasket of the Reich and its allies in the Pakt. With its cities starved and its industries reduced to rubble following the Second World War and the Hunger Plan, agriculture was all Ukraine had left.\n\nUkraine is still hopelessly dependent on agriculture twenty years later, despite small developments in other sectors. It will remain so, as that is what the Reich wants. The Breadbasket will continue on, harvesting, exploiting, and killing forever."
  UKR_breadbasket_dynmod: "£GFX_pol_idea §FThe Breadbasket of the Reich§!"
- UKR_land_of_contrasts: "Land of Contrasts"
+ UKR_land_of_contrasts: "Країна контрастів"
  UKR_land_of_contrasts_desc: "Reichskommissariat Ukraine is divided. Not just between the Germans who rule the land and the Ukrainians who are ruled, but within the halls of power as well. Erich Koch stands for hardline National Socialist policy, for ruthless colonization and exploitation, for unending violence, but there are many within the Reichskommissariat who see things differently.\n\nLeibbrandt's gang of Rosenbergite academics and collaborators. Ohlendorf's and his allies in the SS. Bräutigam's small but growing liberal clique. All propose a different vision for National Socialism, for Ukraine.\n\nKoch is surrounded by men who oppose him, but the question remains.\n\n§RWill they ever amount to anything?§!"
 
  # INTRO TREE
- UKR_development_tax: "One-Time Development Tax"
+ UKR_development_tax: "Одноразовий податок на розвиток"
  UKR_development_tax_desc: "Difficulties in the Reich have forced the administration to look elsewhere for funds. To look internally. A special tax levied on Ukrainians for development programs will ensure that needed work is financed. It is a certainty that it will not be imposed again. An absolute certainty."
 
  # PRE-UCW
- UKR_paradise_aflame: "Paradise Aflame"
+ UKR_paradise_aflame: "Палаючий рай"
  UKR_paradise_aflame_desc: "Ukraine was promised to be a paradise for the Aryan people. A lush land where one would not need lift a finger to reap great wealth, and where the future of Germany could be built in the sun by her sons. A humble Aryan man, with a peaceful farm for his family, free from all of the degeneracy of urban life. Life as it was meant to be.\n\nThe dream is burning before our eyes.\n\nThe Reichskommissar is comatose. The government is divided, bickering with itself. The police are overstretched, struggling to contain a tidal wave of banditry. The partisans are stronger than ever, seeing Koch's demise as the first step to the fall of National Socialism. The people are screaming, crying, and dying.\n\nIt is now clear:\n\n§xUkraine is doomed.§!"
 
  # CIVIL WAR
@@ -360,11 +360,11 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  ############
 
  ### 6.1 - INTRO FOCI ###
- UKR_the_herzogs_rage: "The Herzog's Rage"
- UKR_fuel_the_breadbasket: "Fuel the Breadbasket"
- UKR_mechanization_in_dnieper_ukraine: "Mechanization in Dnieper Ukraine"
- UKR_finish_off_communal_farms: "Finish Off "Communal Farms""
- UKR_skip_noc_holdings: "Skip NOC Holdings"
+ UKR_the_herzogs_rage: "Лють Герцога"
+ UKR_fuel_the_breadbasket: "Заправити хлібний кошик"
+ UKR_mechanization_in_dnieper_ukraine: "Механізація Дніпра України"
+ UKR_finish_off_communal_farms: "Добити «комунальні господарства»"
+ UKR_skip_noc_holdings: "Пропустити NOC Holdings"
  UKR_blood_from_a_stone: "Blood from a Stone"
  UKR_thatll_keep_the_deputy_busy: "That'll Keep the Deputy Busy"
  UKR_reap_the_harvest: "Reap the Harvest"
@@ -606,7 +606,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_intro_chain.10.a: "Our Party, like any other political party, strives after political domination for itself."
 
  UKR_intro_chain.11.t: "To Never Again Lose a Generation"
- UKR_intro_chain.11.desc: ""Laying our hopes down to some sort of collapse is the exact line of thought which lost us Filkov and Petrovich and countless other young men! The Reich is as strong as ever, their units are replenished regularly, and we can't even harass supply lines anymore!"\n\nMiksim Korniychuk thought the meeting was going swimmingly, as in it hadn't already ended, which most in the room seemed to want.\n\n"We have nothing, then! We can't feed our troops, defections are rising, and the people here don't even speak Ukrainian! There is no national feeling at all it seems, much less class consciousness! Raiding is the only thing that excites the men!"\n\n"Probably because all of your 'men' are common murderers and bandits wearing old uniforms!"\n\n"That's enough!" Korniychuk stood above the other commanders, who all immediately yielded. "We all know our failures. We stare them in the face daily. How many countless times do I wish Filkov had lived, and I had not ordered him to raid Kharkiv? Those photos of Petrovich dangling from a tree still haunt me. We all have made mistakes, that is the only thing I know surely. Our failure hangs over every village we plundered for a few chickens while the whole nation starved. It hangs over every city ringed by ruins. It hangs over the graves of men we ordered to their deaths. It hangs over me, heavier and heavier with each passing moment!"\n\nThe whole room was silent now. Not a man averted their gaze from Korniychuk's steely visage. Not a man disagreed.\n\n"We have what we have. I have talked to peasants, who view themselves not as Ukrainians or even as Russians, but simply as residents of farms. I have conversed with factory workers who don't even remember Soviet times, and who believe every word of Hitlerite propaganda. I shall not lie, the situation is bleaker, bleaker than you know. However, we still fight, and we will continue to fight, for Ukraine will never live unless we do!"\n\nKorniychuk sunk unto his chair. The room returned to a slight din, as each commander rattled off possible strategies. The meeting ended with each man leaving, one by one..."
+ UKR_intro_chain.11.desc: ""Laying our hopes down to some sort of collapse is the exact line of thought which lost us Filkov and Petrovich and countless other young men! The Reich is as strong as ever, their units are replenished regularly, and we can't even harass supply lines anymore!"\n\nMaksym Korniychuk thought the meeting was going swimmingly, as in it hadn't already ended, which most in the room seemed to want.\n\n"We have nothing, then! We can't feed our troops, defections are rising, and the people here don't even speak Ukrainian! There is no national feeling at all it seems, much less class consciousness! Raiding is the only thing that excites the men!"\n\n"Probably because all of your 'men' are common murderers and bandits wearing old uniforms!"\n\n"That's enough!" Korniychuk stood above the other commanders, who all immediately yielded. "We all know our failures. We stare them in the face daily. How many countless times do I wish Filkov had lived, and I had not ordered him to raid Kharkiv? Those photos of Petrovich dangling from a tree still haunt me. We all have made mistakes, that is the only thing I know surely. Our failure hangs over every village we plundered for a few chickens while the whole nation starved. It hangs over every city ringed by ruins. It hangs over the graves of men we ordered to their deaths. It hangs over me, heavier and heavier with each passing moment!"\n\nThe whole room was silent now. Not a man averted their gaze from Korniychuk's steely visage. Not a man disagreed.\n\n"We have what we have. I have talked to peasants, who view themselves not as Ukrainians or even as Russians, but simply as residents of farms. I have conversed with factory workers who don't even remember Soviet times, and who believe every word of Hitlerite propaganda. I shall not lie, the situation is bleaker, bleaker than you know. However, we still fight, and we will continue to fight, for Ukraine will never live unless we do!"\n\nKorniychuk sunk unto his chair. The room returned to a slight din, as each commander rattled off possible strategies. The meeting ended with each man leaving, one by one..."
  UKR_intro_chain.11.a: "Their cause bloodied, but just as necessary."
 
  # UPA Mini-Chain
@@ -2018,9 +2018,9 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_power_struggle_reassure_the_businessmen: "Reassure The Businessmen"
  UKR_power_struggle_assuage_the_orthodoxy: "Assuage The Orthodoxy"
  UKR_power_struggle_isolate_ohlendorfs_allies: "Isolate Ohlendorf's Allies"
- UKR_power_struggle_empower_loyal_collabolators: "Empower Loyal Collabolators"
- UKR_power_struggle_empower_loyal_collabolators_decision_cost: "£GFX_weapon_icon  §Y100§!  £GFX_political_power_texticon  §Y25§!"
- UKR_power_struggle_empower_loyal_collabolators_decision_cost_blocked: "£GFX_weapon_icon  §R100§!  £GFX_political_power_texticon  §R25§!"
+ UKR_power_struggle_empower_loyal_collaborators: "Empower Loyal Collaborators"
+ UKR_power_struggle_empower_loyal_collaborators_decision_cost: "£GFX_weapon_icon  §Y100§!  £GFX_political_power_texticon  §Y25§!"
+ UKR_power_struggle_empower_loyal_collaborators_decision_cost_blocked: "£GFX_weapon_icon  §R100§!  £GFX_political_power_texticon  §R25§!"
  UKR_power_struggle_bring_in_foreign_academics: "Bring In Foreign Academics"
  UKR_power_struggle_sacrifice_for_greater_good: "Sacrifice For Greater Good"
 
@@ -2063,7 +2063,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UCW_brothers_war: "§RThe Brother's War Intensifies!§!"
  UCW_brothers_war_intensify: "§RThe effects of the §YBrother's War§! national spirit will §Vintensify§!.§!"
  
- UKR_UCW_haggle_with_industrialists: "Haggle With §kIndustrialists§!"
+ UKR_UCW_haggle_with_industrialists: "Haggle With §LIndustrialists§!"
  UKR_UCW_haggle_with_industrialists_desc: "Many industrialists are still unsure about their loyalties - but this can change. Leibbrandt believes that factories are crucial, more crucial than the others give them credit. If he convinces the council, he can trade off some of the current supplies to the factory guards in return for their loyalty - making certain that the war can continue as long as the government requires."
  
  UKR_UCW_secure_farms_and_factories: "Secure the §fFarms§! and §wFactories§!"
@@ -2173,47 +2173,47 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  ######################
 
  ### 9.1 - BREADBASKET GUI ###
- UKR_BB_open_button: "§FThe §MBread§!§Ybasket§! of the §jReich§!§!"
+ UKR_BB_open_button: "§F§MХлібний§! §YКошик§! §jРайху§!§!"
  
- UKR_BB_tab_development: "DEVELOPMENT"
- UKR_BB_tab_development_tt: "§YDEVELOPMENT§! tab"
- UKR_BB_tab_development_current_tt: "We are currently in the §YDEVELOPMENT§! tab."
- UKR_BB_tab_resistance: "RESISTANCE"
- UKR_BB_tab_resistance_tt: "§YRESISTANCE§! tab"
- UKR_BB_tab_resistance_current_tt: "We are currently in the §YRESISTANCE§! tab."
+ UKR_BB_tab_development: "РОЗВИТОК"
+ UKR_BB_tab_development_tt: "Вкладця §YРОЗВИТКУ§!"
+ UKR_BB_tab_development_current_tt: "Ми знаходимось у вкладці §YРОЗВИТОК§! tab."
+ UKR_BB_tab_resistance: "СУПРОТИВ"
+ UKR_BB_tab_resistance_tt: "Вкладця §YСУПРОТИВУ§!"
+ UKR_BB_tab_resistance_current_tt: "Ми знаходимось у вкладці §YСУПРОТИВ§! tab."
 
- UKR_BB_partisan_stockpile: "STOCKPILE"
+ UKR_BB_partisan_stockpile: "ЗАПАС"
 
- UKR_BB_map_title: "Highlighted Region:"
- UKR_BB_map_tooltip: "§F§GClick§! to highlight the region of §Y[?k.GetName]§!.\n--------------\n[UKR_BB_Get_map_tooltip]§!"
- UKR_BB_map_tooltip_dev: "§Y[?k.GetName]§!'s regional development overview:\n£UKR_development §DDevelopment Level:§! [?k:development_level|Y0]\n§BDevelopment Progress:§! [?k:development|Y]\n§OExploitation:§! [?k:exploitation|Y]\n§fGrain output:§! [?k:grain_output|Y0]"
- UKR_BB_map_tooltip_res: "§Y[?k.GetName]§!'s insurgencies overview:\n[UKR_BB_SLOT_0_C][UKR_BB_SLOT_0]:§! [UKR_BB_pie_map_tt_color_0][?k:resistance_control^0|2]%§!\n[UKR_BB_SLOT_1_C][UKR_BB_SLOT_1]:§! [UKR_BB_pie_map_tt_color_1][?k:resistance_control^1|2]%§!\n[UKR_BB_SLOT_2_C][UKR_BB_SLOT_2]:§! [UKR_BB_pie_map_tt_color_2][?k:resistance_control^2|2]%§!\n[UKR_BB_SLOT_3_C][UKR_BB_SLOT_3]:§! [UKR_BB_pie_map_tt_color_3][?k:resistance_control^3|2]%§!"
- UKR_BB_map_tooltip_alert: "§F§GClick§! to highlight the region of §Y[?k.GetName]§!.\n--------------\n[UKR_BB_Get_map_tooltip]§!\n--------------\n§RTHE RULING GOVERNMENT DOES NOT HAVE MAJORITY CONTROL OVER §Y[?k.GetName]§!. THE FOLLOWING §YEFFECTS§! ARE APPLIED FOR EVERY §eACTIVITY CYCLE§!:§!\n\n[!map_button_alert_click]"
- UKR_BB_ACTIONS_tt: "ACTIONS"
+ UKR_BB_map_title: "Виділений регіон:"
+ UKR_BB_map_tooltip: "§F§GКлацніть§! щоб виділити регіон §Y[?k.GetName]§!.\n--------------\n[UKR_BB_Get_map_tooltip]§!"
+ UKR_BB_map_tooltip_dev: "§Y[?k.GetName]§! огляд регіонального розвитку::\n£UKR_development §DРівень розвитку:§! [?k:development_level|Y0]\n§BПрогрес розвитку:§! [?k:development|Y]\n§OЕксплуатація:§! [?k:exploitation|Y]\n§fВиробництво зерна:§! [?k:grain_output|Y0]"
+ UKR_BB_map_tooltip_res: "§Y[?k.GetName]§! огляд повстанців:\n[UKR_BB_SLOT_0_C][UKR_BB_SLOT_0]:§! [UKR_BB_pie_map_tt_color_0][?k:resistance_control^0|2]%§!\n[UKR_BB_SLOT_1_C][UKR_BB_SLOT_1]:§! [UKR_BB_pie_map_tt_color_1][?k:resistance_control^1|2]%§!\n[UKR_BB_SLOT_2_C][UKR_BB_SLOT_2]:§! [UKR_BB_pie_map_tt_color_2][?k:resistance_control^2|2]%§!\n[UKR_BB_SLOT_3_C][UKR_BB_SLOT_3]:§! [UKR_BB_pie_map_tt_color_3][?k:resistance_control^3|2]%§!"
+ UKR_BB_map_tooltip_alert: "§F§GКлацніть§! щоб виділити регіон §Y[?k.GetName]§!.\n--------------\n[UKR_BB_Get_map_tooltip]§!\n--------------\n§RПРАВЛЯЧИЙ УРЯД НЕ МАЄ ПЕРЕВАЖНОГО КОНТРОЛЮ НАД §Y[?k.GetName]§!. §YЕФЕКТИ§! ЧЕРЕЗ ЦЕ ЗАСТОСОВУЮТЬСЯ ДЛЯ КОЖНОГО §eЦИКЛУ ДІЯЛЬНОСТІ§!:§!\n\n[!map_button_alert_click]"
+ UKR_BB_ACTIONS_tt: "ДІЇ"
 
- UKR_BB_stateview_region_tt: "§Y[THIS.GetName]§! is included within the §Y[?region_var.GetName]§! region."
- UKR_BB_stateview_modifiers_tt: "§FEffects of the §MBread§!§Ybasket§!:\n£UKR_development §DDevelopment Level§! (§D[?region_var:development_level]§!/§Y10§!) gives the following:\n    State GDP Growth Factor: [?UKR_BB_state_dynmod_growth|=+%2]\n    Max Buildings in State: [?UKR_BB_state_dynmod_building_slots|=+%2]\n\n§ORegion Exploitation§! (§O[?region_var:exploitation]§!/§Y100§!) gives the following:\n    Local Resources: [?UKR_BB_state_dynmod_resources|=+%2]\n    State Population Growth: [?UKR_BB_state_population_growth|=+%2]\n\nAll modifiers with the exception of Max Buildings in State are diminished based on regional §Vdesolation§! (§V[?region_var:desolation]§!/§Y100§!).§!"
+ UKR_BB_stateview_region_tt: "§Y[THIS.GetName]§! входить до регіону §Y[?region_var.GetName]§!."
+ UKR_BB_stateview_modifiers_tt: "§FEffects of the §MХлібний§!§YКошик§!:\n£UKR_development §DРівень розвитку§! (§D[?region_var:development_level]§!/§Y10§!) Дає наступне:\n    Коефіцієнт зростання ВВП держави: [?UKR_BB_state_dynmod_growth|=+%2]\n    Максимальна кількість будівель у регіоні: [?UKR_BB_state_dynmod_building_slots|=+%2]\n\n§OЕксплуатація Оегіону§! (§O[?region_var:exploitation]§!/§Y100§!) дає наступне:\n    Місцеві ресурси: [?UKR_BB_state_dynmod_resources|=+%2]\n    Приріст населення регіону: [?UKR_BB_state_population_growth|=+%2]\n\nВсі модифікатори, за винятком максимальної кількості будівель у стані, зменшуються на основі регіонального §Vспустошення§! (§V[?region_var:desolation]§!/§Y100§!).§!"
 
  ## 9.1.1 - Development Tab
 
- UKR_BB_development_bar_label: "§BDevelopment Progress§!"
- UKR_BB_development_bar_tt: "§BDevelopment Progress§!"
- UKR_BB_development_bar_tt_delayed: "§BDevelopment Progress§! shows how economically developed a region is, from its §Yagriculture§! to its §sindustry§! to its §Ginfrastructure§!, which all contribute how close a region is to reaching its next £UKR_development §Ddevelopment level§!."
+ UKR_BB_development_bar_label: "§BПрогрес розвитку§!"
+ UKR_BB_development_bar_tt: "§BПрогрес розвитку§!"
+ UKR_BB_development_bar_tt_delayed: "§BПрогрес розвитку§! показує, наскільки економічно розвинений регіон, починаючи з його §Yсільського господарства§! та її §sпромисловістю§! і закінчуючи §Gінфраструктурою§!, що в сукупності впливає на те, наскільки близько регіон знаходиться до досягнення свого наступного рівня £UKR_development §Dрівня розвитку§!."
 
- UKR_BB_development_level_label: "§DDevelopment Level§!"
- UKR_BB_development_level_tt: "£UKR_development §DDevelopment Level§!"
- UKR_BB_development_level_tt_delayed: "£UKR_development §DDevelopment Level§! is used as a measurement of how developed a region is as a whole on a scale of §Y1-10§!. An increase of this value will be recorded when a region's §BDevelopment Progress§! reaches §Y100§!.\n\n§YAt the national level §L(evaluated by average)§! this affects:§!\n- GDP growth §G(+)§!\n\n§YAt the regional level, this affects:§!\n- GDP growth §G(+)§!\n- Maximum building slots §G(+)§!"
+ UKR_BB_development_level_label: "§DПрогрес розвитку§!"
+ UKR_BB_development_level_tt: "£UKR_development §DПрогрес розвитку§!"
+ UKR_BB_development_level_tt_delayed: "£UKR_development §DРівень розвитку§! використовується для вимірювання рівня розвитку регіону в цілому за шкалою §Y1-10§!. Зростання цього значення буде зафіксовано, коли §BРівень Розвитку§! регіону досягне §Y100§!.\n\n§YНа національному рівні §L(оцінено у середньому)§! На регіональному рівні це впливає на:§!\n- Зростання ВВП §G(+)§!\n\n§YAt the regional level, this affects:§!\n- Зростання ВВП §G(+)§!\n- Максимум будівельних слотів §G(+)§!"
 
- UKR_BB_exploitation_bar_label: "§ORegion Exploitation§!"
- UKR_BB_exploitation_bar_tt: "§ORegion Exploitation§!"
- UKR_BB_exploitation_bar_tt_delayed: "§OExploitation§! within a region indicates how much of the state's resources and potential have been thoroughly §Runearthed§! and §Rutilized§! by the state, much to the people's dismay.\n\n§YAt the national level §L(evaluated by average)§! this affects:§!\n- Resource gain efficiency §G(+)§!\n- GDP growth §G(+)§!\n- Monthly Population §R(-)§!\n\n§YAt the regional level, this affects:§!\n- Local Resources §G(+)§!\n- State Population Growth §R(-)§!"
+ UKR_BB_exploitation_bar_label: "§OЕксплуатація регіону§!"
+ UKR_BB_exploitation_bar_tt: "§OЕксплуатація регіону§!"
+ UKR_BB_exploitation_bar_tt_delayed: "§OЕксплуатація§! в регіоні вказує на те, яка частина ресурсів та потенціалу держави була ретельно §Rрозкопані§! та §Rвикористані§! державою, на превеликий жах людей.\n\n§YНа національному рівні §L(оцінено в середньому)§! це впливає на:§!\n- Ефективність використання ресурсів §G(+)§!\n- Зростання ВВП §G(+)§!\n- Щомісячне зростання населення §R(-)§!\n\n§YНа регіональному рівні це впливає на:§!\n- Місцеві ресурси §G(+)§!\n- Приріст населення регіону §R(-)§!"
 
- UKR_BB_grain_output_label: "§fGrain Output:§!\n[?BB_selected_region:grain_output]"
+ UKR_BB_grain_output_label: "§fВиробництво зерна:§!\n[?BB_selected_region:grain_output]"
 
  # CONSUMPTION SECTION
- UKR_BB_consumption_header: "GRAIN\nCONSUMPTION"
- UKR_BB_consumption_x_axis: "AMOUNT OF GRAIN"
- UKR_BB_consumption_tooltip: "§FAs the §MBread§!§Ybasket§! of the §oReich§!, there are high expectations placed on our administration to adequately deliver a supply of our grain harvests by the end of every consumption cycle. However, we must also keep in mind the grain needs of our own to make sure that our people are sufficiently fed as well.\n\nEvery consumption cycle, we are expected to fulfill an §oexport demand§! from Germania, which will take priority. On top of that, we must also consume a certain amount of grain to keep the people fed. The grain will be harvested from our harvests in a §Gcycle§! as well as any stockpile carried over from a §Yprevious harvest§!.\n\nMoreover, §oGermania§! also expects our administration to properly handle the development of the region. At the end of every consumption cycle, there will be a certain level of §Ddevelopment§! expected from the regions within the Reichskommissariat.\n\n§RFailure to meet any of these demands and necessities will lead to dire consequences.§!§!"
+ UKR_BB_consumption_header: "ЗЕРНО\nСПОЖИВАННЯ"
+ UKR_BB_consumption_x_axis: "КІЛЬКІСТЬ ЗЕРНА"
+ UKR_BB_consumption_tooltip: "§FЯк на §MХлібну§!§Yнорзину§! §oРайху§!, На нашу адміністрацію покладаються великі сподівання щодо адекватного постачання нашого врожаю зернових до кінця кожного циклу споживання. Однак ми також повинні пам'ятати про власні потреби в зерні, щоб забезпечити достатнє харчування для нашого населення.\n\nКожного циклу споживання ми повинні задовольняти §oпопит на експорт§! з боку Німеччини, який буде мати пріоритетне значення. Крім того, ми також повинні споживати певну кількість зерна, щоб тримати людей нагодованими. Зерно буде зібрано з наших врожаїв у §Gциклі§!, а також з будь-яких запасів, перенесених з §Yпопереднього врожаю§!.\n\nБільше того, §oНімеччина§! також очікує, що наша адміністрація буде належним чином опікуватися розвитком регіону. Наприкінці кожного циклу споживання від регіонів Райхскомісаріату очікується певний рівень §Розвитку§!\n\n§RНевиконання будь-якої з цих вимог і потреб призведе до жахливих наслідків.§!§!"
 
  UKR_BB_consumption_stocks_tt: "§FThe stocks of §fgrain§! by the end of this consumption cycle are as follows:\n£UKR_consumption_stockpile  Grain stockpile from §Yprevious harvest§!: [?UKR_BB_consumption_grain_STOCKPILE|f0]\n£UKR_consumption_gain  Grain to be harvested §Gthis cycle§!: [?UKR_total_grain_output|f0]\n--------------\nUp to a total of §Y[?stockpile_total]§! §fgrain§! to be utilized this cycle. §fGrain§! not spent in the consumption cycle will be added to the next cycle's §Ystockpile§!.§!"
  UKR_BB_consumption_demands_tt: "§FThe stocks of §fgrain§! §Rrequired§! by the end of this consumption cycle are as follows:\n£UKR_consumption_demands  §oGermania§!'s export demands: [?UKR_BB_Germania_Demand_grain|f0]\n£UKR_consumption_needs  Grain needed locally by §MUkrai§!§Ynians§!: [?UKR_BB_local_grain_needs|f0]\n--------------\nUp to a total of §R[?demands_total]§! §fgrain§! required this cycle.\n\nShipping §fgrain§! to our §oGerman§! masters is our number one priority, the §MUkrai§!§Ynian§! people will receive the remainders.§!"
@@ -2262,32 +2262,32 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_BB_desolation_rating_60: "§RCommonplace§!"
  UKR_BB_desolation_rating_80: "§xDevastating§!"
 
- UKR_BB_full_control_0: "[UKR_BB_SLOT_0_PIE_C]Full Control§!"
- UKR_BB_full_control_1: "[UKR_BB_SLOT_1_PIE_C]Full Control§!"
- UKR_BB_full_control_2: "[UKR_BB_SLOT_2_PIE_C]Full Control§!"
- UKR_BB_full_control_3: "[UKR_BB_SLOT_3_PIE_C]Full Control§!"
+ UKR_BB_full_control_0: "[UKR_BB_SLOT_0_PIE_C]Повний контроль§!"
+ UKR_BB_full_control_1: "[UKR_BB_SLOT_1_PIE_C]Повний контроль§!"
+ UKR_BB_full_control_2: "[UKR_BB_SLOT_2_PIE_C]Повний контроль§!"
+ UKR_BB_full_control_3: "[UKR_BB_SLOT_3_PIE_C]Повний контроль§!"
 
  # Pre UCW
- UKR_BB_nazis: "RKU - SS and Police"
- UKR_BB_u_ssr: "Ukrainian Red Army"
- UKR_BB_pg: "Ukrainian National Revolutionary Army"
- UKR_BB_upa: "Ukrainian Insurgent Army"
+ UKR_BB_nazis: "РКУ - СС та Поліція"
+ UKR_BB_u_ssr: "Українська Червона Армія"
+ UKR_BB_pg: "Українська Національна Революційна Армія"
+ UKR_BB_upa: "Українська Повстанська Армія"
  # UPA
- UKR_BB_upa_state: "Ukrainian State"
- UKR_BB_upra_west: "UPRA - West"
- UKR_BB_upra_south: "UPRA - South"
- UKR_BB_upra_east: "UPRA - East"
+ UKR_BB_upa_state: "Українська Держава"
+ UKR_BB_upra_west: "УПРА - Захід"
+ UKR_BB_upra_south: "УПРА - Південь"
+ UKR_BB_upra_east: "УПРА - Схід"
 
  # Pre UCW
- UKR_BB_nazis_clr: "£UKR_reichskommissariat §jRKU - SS and Police§!"
- UKR_BB_u_ssr_clr: "£UKR_communists §SUkrainian Red Army§!"
- UKR_BB_pg_clr: "£UKR_pg §DUkrainian National Revolutionary Army§!"
- UKR_BB_upa_clr: "£UKR_UPA §sUkrainian Insurgent Army§!"
+ UKR_BB_nazis_clr: "£UKR_reichskommissariat §jРКУ - СС та поліція§!"
+ UKR_BB_u_ssr_clr: "£UKR_communists §SУкраїнська Червона Армія§!"
+ UKR_BB_pg_clr: "£UKR_pg §DУкраїнська Національна Революційна Арміяy§!"
+ UKR_BB_upa_clr: "£UKR_UPA §sУкраїнська Повстанська Армія§!"
  # UPA - Klyachkivsky
- UKR_BB_upa_state_clr: "§sUkrainian State§!"
- UKR_BB_upra_west_clr: "§OUPRA - West§!"
- UKR_BB_upra_south_clr: "§gUPRA - South§!"
- UKR_BB_upra_east_clr: "§PUPRA - East§!"
+ UKR_BB_upa_state_clr: "§sУкраїнська Держава§!"
+ UKR_BB_upra_west_clr: "§OУПРА - Захід§!"
+ UKR_BB_upra_south_clr: "§gУПРА - Південь§!"
+ UKR_BB_upra_east_clr: "§PУПРА - Схід§!"
 
  # Pre UCW
  UKR_BB_nazis_c: "£UKR_reichskommissariat §j"
@@ -2312,31 +2312,31 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_BB_upra_east_pie_c: "§P"
 
  ## RESISTANCE GROUP INFO SECTION
- UKR_BB_resistance_activity_header: "RESISTANCE"
- UKR_BB_resistance_activity_spike: "§eActivity cycle§! in §Y[?UKR_bb_resistance_countdown]§! days"
+ UKR_BB_resistance_activity_header: "ОПОРА"
+ UKR_BB_resistance_activity_spike: "§eЦикл активності§! через §Y[?UKR_bb_resistance_countdown]§! днів"
  UKR_BB_resistance_activity_tooltip: "§FManaging the numerous groups that are opposed to us is crucial if we are to succeed in our goals. In this interface, we can easily access information on these different groups by hovering over their names, as well as allowing us to monitor their effects on our state.\n\n§eActivity cycles§! are periods of time when at their end, resistance groups will carry out operations which will apply effects on the different regions of Ukraine.\n\nEach resistance group is assigned a decisive region which acts as their base of operations. If a resistance group's §Rcontrol§! surpasses a certain §Ythreshold§! within these specified decisive regions, the effects applied at the end of an activity cycle will be worse compared to if they do not surpass the threshold.\n\nThe effects for each resistance group can be seen by §Yhovering§! over the §Bexclamation mark§! to the right of each resistance group.§!"
 
  # Pre-UCW resistances
- UKR_BB_Resistance_Activities_RK_Active: "§jRKU - SS and Police§!"
- UKR_BB_Resistance_Activities_RK_Active_leader: "Leader: §YOtto Ohlendorf§!"
- UKR_BB_Resistance_Activities_RK_Active_Desc: "£UKR_reichskommissariat §jSchutzstaffel und Polizei in der Reichskommissariat Ukraine§!\nLeader: §YOtto Ohlendorf§!\n\n\n\n\n\n\n\n£UKR_ohlendorf_texticon\n\n\n\n\n\n\n\n\n--------------\nThe Reichskommissariat's SS and police are the backbone of the administration's security apparatus. While the SS maintains its elite status by commanding anti-partisan operations, the dirty fieldwork is primarily done by police units staffed by Ukrainian collaborators as they slaughter their countrymen. The recent turmoil within the administration has had ripple effects on their ability to combat rebellious elements, a weakness eagerly exploited by insurgents looking to topple the colonial regime. With the Wehrmacht left idle, they are the only truly prepared line of defense, and many await their destruction."
+ UKR_BB_Resistance_Activities_RK_Active: "§jРКУ - СС та Поліція§!"
+ UKR_BB_Resistance_Activities_RK_Active_leader: "Лідер: §YОтто Олендорф§!"
+ UKR_BB_Resistance_Activities_RK_Active_Desc: "£UKR_reichskommissariat §jШуцштадт і поліція в Райхскомісаріяті Україна§!\nЛідер: §YОтто Олендорф§!\n\n\n\n\n\n\n\n£UKR_ohlendorf_texticon\n\n\n\n\n\n\n\n\n--------------\nСС та поліція Райхскомісаріяту є основою апарату безпеки адміністрації. У той час як СС підтримує свій елітний статус, командуючи антипартійними операціями, брудну польову роботу виконують переважно поліцейські підрозділи, укомплектовані Українськими колабораціоністами, які вбивають своїх співвітчизників. Нещодавні потрясіння в адміністрації мали хвилеподібний вплив на її здатність боротися з бунтівними елементами - слабкість, яку охоче використовують повстанці, що прагнуть повалити колоніальний режим. В умовах, коли Вермахт залишився бездіяльним, вони є єдиною справді підготовленою лінією оборони, і багато хто чекає на їхнє знищення."
 
- UKR_BB_Resistance_Activities_UA_SSR_Active: "§SUkrainian Red Army§!"
- UKR_BB_Resistance_Activities_UA_SSR_Active_leader: "Leader: §YOleksandr Shumskyi§!"
+ UKR_BB_Resistance_Activities_UA_SSR_Active: "§SУкраїнська Червона Армія§!"
+ UKR_BB_Resistance_Activities_UA_SSR_Active_leader: "Лідер: §YOleksandr Shumskyi§!"
  UKR_BB_Resistance_Activities_UA_SSR_Active_Desc: "£UKR_communists §SUkrainian Workers' and Peasants' Red Army§!\nLeader: §YOleksandr Shumskyi§!\n\n\n\n\n\n\n\n£UKR_oleksandr_texticon\n\n\n\n\n\n\n\n\n--------------\nFor as long the Reich has ruled Ukraine, forces pledging loyalty to the old Communist government have unceasingly fought us under the name of the £UKR_communists §SUkrainian Workers' and Peasants' Red Army§!. While the narrow failure of their attempt to overthrow the £UKR_reichskommissariat §jReichskommissariat§! during the West Russian War has forced them to abandon previous strongholds in Volyn and Zhytomyr for more defensible positions in the East, they are not to be underestimated. Their professionalism, political coherence, and broad support among urban workers and the peasantry make them a very dangerous threat."
  
- UKR_BB_Resistance_Activities_PG_Active: "§DUkrainian NRA§!"
- UKR_BB_Resistance_Activities_PG_Active_leader: "Leader: §YYuriy Horlis§!"
+ UKR_BB_Resistance_Activities_PG_Active: "§DУкраїнська НРА§!"
+ UKR_BB_Resistance_Activities_PG_Active_leader: "Лідер: §YYuriy Horlis§!"
  UKR_BB_Resistance_Activities_PG_Active_Desc: "£UKR_pg §DUkrainian National Revolutionary Army§!\nLeader: §YYuriy Horlis§!\n\n\n\n\n\n\n\n£UKR_yuriy_horlis_texticon\n\n\n\n\n\n\n\n\n--------------\nFirst formed by Taras Bulba-Borovets, the organization that has become the £UKR_pg §DUkrainian National Revolutionary Army§! has always been in stark contrast to the §sBanderite§! £UKR_UPA §sUkrainian Insurgent Army§!. With popular support in western Ukraine, they are a tough force to dislodge, allowed to grow in strength in the 1950s. Worse yet, they seem to have a friend, one of our £UKR_collab_texticon §Qcollaborators§! turned to the side of treason, supplying them arms. If they weren't constantly fighting their rivals, they could be the most dangerous force in Ukraine."
  
- UKR_BB_Resistance_Activities_UPA_Active: "§sUkrainian Insurgent Army§!"
- UKR_BB_Resistance_Activities_UPA_Active_leader: "Leader: §YDmytro Klyachkivsky§!"
+ UKR_BB_Resistance_Activities_UPA_Active: "§sУкраїнська повстанська армія§!"
+ UKR_BB_Resistance_Activities_UPA_Active_leader: "Лідер: §YDmytro Klyachkivsky§!"
  UKR_BB_Resistance_Activities_UPA_Active_Desc: "£UKR_UPA §sUkrainian Insurgent Army§!\nLeader: §YDmytro Klyachkivsky§!\n\n\n\n\n\n\n\n£UKR_dmytro_kylachkivsky_texticon\n\n\n\n\n\n\n\n\n--------------\n§sStepan Bandera§! may have died in 1945, but the £UKR_UPA §sUkrainian Insurgent Army§! carries on his legacy. One of the most violent groups in Ukraine, the £UKR_UPA §sUkrainian Insurgent Army§! is known for using terror against the populace, especially against Poles and Germans. While their crushing defeat in the "Second Struggle" in the 1950s was thought to have doomed their organization, Dmytro Klyachkivsky has managed to prevent it from collapsing. Their clashes with the £UKR_pg §DUNRA§! have weakened them, yet they seem to be just as extreme and devoted as ever to Bandera's vision."
 
  # UPA Klyachkivsky Post-UCW resistances
- UKR_BB_Resistance_Activities_UPRA_West_Active: "§OUPRA - West§!"
- UKR_BB_Resistance_Activities_UPRA_West_Active_leader: "Leader: §YTaras Bulba Borovets§!"
- UKR_BB_Resistance_Activities_UPRA_West_Active_Desc: "§OUkrainian People's Revolutionary Army - Western Group§!"
+ UKR_BB_Resistance_Activities_UPRA_West_Active: "§OУПРА - Захід§!"
+ UKR_BB_Resistance_Activities_UPRA_West_Active_leader: "Лідер: §YTaras Bulba Borovets§!"
+ UKR_BB_Resistance_Activities_UPRA_West_Active_Desc: "§OУкраїнська народна революційна армія - Західна група§!"
 
  UKR_BB_Resistance_Activities_UPRA_South_Active: "§gUPRA - South§!"
  UKR_BB_Resistance_Activities_UPRA_South_Active_leader: "Leader: §YPavlo Shandruk§!"
@@ -2420,43 +2420,43 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
 
  # RKU Pre-UCW #
  
- UKR_BB_D_Action_RK_PreUCW_1: "Mechanize Farms"
- UKR_BB_D_Action_RK_PreUCW_2: "Invest in Industrial Development"
- UKR_BB_D_Action_RK_PreUCW_3: "Raise Resource Quotas"
- UKR_BB_D_Action_RK_PreUCW_4: "Brutal Quotas"
- UKR_BB_D_Action_RK_PreUCW_5: "'Experimental' Extractionist Methods"
+ UKR_BB_D_Action_RK_PreUCW_1: "Механізувати ферм"
+ UKR_BB_D_Action_RK_PreUCW_2: "Інвестиція у промисловий розвиток"
+ UKR_BB_D_Action_RK_PreUCW_3: "Підвищити квоти на ресурси"
+ UKR_BB_D_Action_RK_PreUCW_4: "Жорстокіщі квоти"
+ UKR_BB_D_Action_RK_PreUCW_5: "«Експериментальні» екстракціоністські методи"
  
- UKR_BB_R_Action_RK_PreUCW_1: "Arm Police"
- UKR_BB_R_Action_RK_PreUCW_2: "Raid Bandit Bases"
- UKR_BB_R_Action_RK_PreUCW_3: "Crack Down on Banditry"
- UKR_BB_R_Action_RK_PreUCW_4: "Special Operations Strike"
- UKR_BB_R_Action_RK_PreUCW_5: "Lock Down Strongholds"
- UKR_BB_R_Action_RK_PreUCW_6: "Unleash the Kampfgruppen"
- UKR_BB_R_Action_RK_PreUCW_7: "Restrain Approach"
+ UKR_BB_R_Action_RK_PreUCW_1: "Озброїти поліцію"
+ UKR_BB_R_Action_RK_PreUCW_2: "Рейд на бази бандитів"
+ UKR_BB_R_Action_RK_PreUCW_3: "Боротьба з бандитизмом"
+ UKR_BB_R_Action_RK_PreUCW_4: "Спецоперація «Удар»"
+ UKR_BB_R_Action_RK_PreUCW_5: "Заблокувати опорні пункти"
+ UKR_BB_R_Action_RK_PreUCW_6: "Розблокувати бойові групи"
+ UKR_BB_R_Action_RK_PreUCW_7: "Підхід «Стримування»"
 
  # PG Pre-UCW #
 
- UKR_BB_D_Action_PG_PreUCW_1: "Sabotage Grain Production"
- UKR_BB_D_Action_PG_PreUCW_2: "Free the Enslaved"
- UKR_BB_D_Action_PG_PreUCW_3: "Disrupt Resource Extraction"
+ UKR_BB_D_Action_PG_PreUCW_1: "Саботаж виробництва зерна"
+ UKR_BB_D_Action_PG_PreUCW_2: "Звільнити поневолених"
+ UKR_BB_D_Action_PG_PreUCW_3: "Підірвати видобуток ресурсів"
  
- UKR_BB_R_Action_PG_PreUCW_1: "Strengthen Friendly Networks"
- UKR_BB_R_Action_PG_PreUCW_2: "Defend Local Populace"
- UKR_BB_R_Action_PG_PreUCW_3: "Raid Supplies"
+ UKR_BB_R_Action_PG_PreUCW_1: "Зміцнення дружніх мереж"
+ UKR_BB_R_Action_PG_PreUCW_2: "Захистити місцеве населення"
+ UKR_BB_R_Action_PG_PreUCW_3: "Рейд на припаси"
 
- UKR_BB_R_Action_PG_PreUCW_4: "Limit Criminality in Base Areas"
+ UKR_BB_R_Action_PG_PreUCW_4: "Обмеження злочинності в базових районах"
 
  # UA-SSR Pre-UCW #
 
- UKR_BB_D_Action_UA_SSR_PreUCW_1: "Sabotage Grain Production"
- UKR_BB_D_Action_UA_SSR_PreUCW_2: "Steal Machinery"
- UKR_BB_D_Action_UA_SSR_PreUCW_3: "Disrupt Resource Extraction"
+ UKR_BB_D_Action_UA_SSR_PreUCW_1: "Саботаж виробництва зерна"
+ UKR_BB_D_Action_UA_SSR_PreUCW_2: "Викрадення техніки"
+ UKR_BB_D_Action_UA_SSR_PreUCW_3: "Перервати видобуток ресурсів"
  
- UKR_BB_R_Action_UA_SSR_PreUCW_1: "Distribute Propaganda"
- UKR_BB_R_Action_UA_SSR_PreUCW_2: "Disrupt Infrastructure"
- UKR_BB_R_Action_UA_SSR_PreUCW_3: "Attack Occupiers"
- UKR_BB_R_Action_UA_SSR_PreUCW_4: "Target Collaborators"
- UKR_BB_R_Action_UA_SSR_PreUCW_5: "Enlarge Cell Presence" ##mutually exclusive w/ 'Assault Nazi Stronghold'
+ UKR_BB_R_Action_UA_SSR_PreUCW_1: "Поширювати пропаганду"
+ UKR_BB_R_Action_UA_SSR_PreUCW_2: "Руйнувати інфраструктуру"
+ UKR_BB_R_Action_UA_SSR_PreUCW_3: "Атакувати окупантів"
+ UKR_BB_R_Action_UA_SSR_PreUCW_4: "Цільові колаборанти"
+ UKR_BB_R_Action_UA_SSR_PreUCW_5: "Збільшити присутність комірок" ##mutually exclusive w/ 'Assault Nazi Stronghold'
  UKR_BB_R_Action_UA_SSR_PreUCW_6: "Assault Nazi Stronghold" 
  UKR_BB_R_Action_UA_SSR_PreUCW_7: "Tap the Weapons Pipeline" ##intended as final boost
  UKR_BB_R_Action_UA_SSR_PreUCW_8: "Contact the Union's Remnants" ##intended as final boost
@@ -2491,23 +2491,23 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
 
  UKR_BB_D_Action_Effects: "§F§Y[?d_action_val.GetTokenLocalizedKey]§!\n\n§YCost(s):§!\n[!do_action_button_click]"
  UKR_BB_R_Action_Effects: "§F§Y[?r_action_val.GetTokenLocalizedKey]§!\n\n§YCost(s):§!\n[!do_action_button_click]"
- UKR_BB_D_Action_Effects_divider: "\n§YEffects:§!"
- UKR_BB_Action_Not_Enough: "§RNot enough resources to execute this action§!"
+ UKR_BB_D_Action_Effects_divider: "\n§YЕфекти:§!"
+ UKR_BB_Action_Not_Enough: "§RНедостатньо ресурсів для виконання цієї дії§!"
  UKR_BB_Action_phantom_cost_tooltip: "[!phantom_cost_tooltip_click_enabled]"
 
  ### 9.2 - POWER STRUGGLE GUI ###
- UKR_power_struggle_category: "An Empty Throne"
+ UKR_power_struggle_category: "Порожній трон"
  
- powerstruggle_infobox_tt: "An Empty Throne"
+ powerstruggle_infobox_tt: "Порожній трон"
  powerstruggle_infobox_delayed_tt: "Hitler ran the NSDAP under the all-powerful Führerprinzip, the principle that great societies are governed by lone autocrats, unshackled from the burdens of red tape. In other words, power exists to be wielded, and it can only be held by one.\n\nThose within the Security Council are already aware of this reality. Already, three leading figures - Braütigam, Leibbrandt, and Ohlendorf - are preparing to wield the Führerprinzip and take over completely. Yet without any orders from the Eastern Ministry, the choice of leader will come from within the Security Council and its backers.\n\nTo take power, a candidate for Reichskommissar is going to need the blessing of at least two of the four leading RK institutions whenever the time comes, likely once the immediate security problems are resolved. This will require maintaining more support within these key institutions than opposing candidates. If they have the most support, that institution will be displayed as aligned to them for the moment, though this can always change."
 
- PS_Brautigam_name: "§gBräutigam§!"
- PS_Leibbrandt_name: "§BLeibbrandt§!"
- PS_Ohlendorf_name: "§oOhlendorf§!"
+ PS_Brautigam_name: "§gБраутігам§!"
+ PS_Leibbrandt_name: "§BЛейббрандт§!"
+ PS_Ohlendorf_name: "§oОлендорф§!"
  
- UKR_ind_influence_increase_tt: "§GIncreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §kIndustrialists§! by §G[?PS_IND_temp]%§!"
- UKR_ind_influence_decrease_tt: "§RDecreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §kIndustrialists§! by §R[?PS_IND_temp]%§!"
- UKR_PS_IND_lowpoint: "§R[getInfGuy]'s support amongst the£UKR_industrial_texticon §kIndustrialists§! cannot decrease further.§!"
+ UKR_ind_influence_increase_tt: "§GIncreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §LIndustrialists§! by §G[?PS_IND_temp]%§!"
+ UKR_ind_influence_decrease_tt: "§RDecreases§! [getInfGuy]'s support amongst the £UKR_industrial_texticon §LIndustrialists§! by §R[?PS_IND_temp]%§!"
+ UKR_PS_IND_lowpoint: "§R[getInfGuy]'s support amongst the£UKR_industrial_texticon §LIndustrialists§! cannot decrease further.§!"
  
  UKR_bur_influence_increase_tt: "§GIncreases§! [getInfGuy]'s support amongst the £UKR_bureaucracy_texticon  §rBureaucracy§! by §G[?PS_BUR_temp]%§!."
  UKR_bur_influence_decrease_tt: "§RDecreases§! [getInfGuy]'s support amongst the £UKR_bureaucracy_texticon   §rBureaucracy§! by §R[?PS_BUR_temp]%§!."
@@ -2523,7 +2523,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  
  UKR_power_struggle_info_tt: "basically you got to get the guy you want to take charge to have the support of the most groups thats it really"
  
- UKR_PS_IND_tt: "§FThe £UKR_industrial_texticon §kIndustrialists'§! loyalty belongs to [Get_UKR_PS_inf_IND].§!"
+ UKR_PS_IND_tt: "§FThe £UKR_industrial_texticon §LIndustrialists'§! loyalty belongs to [Get_UKR_PS_inf_IND].§!"
  UKR_PS_IND_tt_delayed: "§LThe great mass of landlords, shareholders, and industrial barons of Ukraine are collectively known as the industrialists.\n\nThe beneficiaries of the Reich's system of slavery and slaughter, they are perhaps the only men who truly benefit from the crumbling Ukrainian state - and they wish to keep it alive however possible.§!\n\n§BLeibbrandt§! has [?UKR_PS_Industrialist^1]% support\n\n§oOhlendorf§! has [?UKR_PS_Industrialist^0]% support\n\n§gBräutigam§! has [?UKR_PS_Industrialist^2]% support"
  UKR_PS_BUR_tt: "§FThe £UKR_bureaucracy_texticon §rBureaucracy's§! loyalty belongs to [Get_UKR_PS_inf_BUR].§!"
  UKR_PS_BUR_tt_delayed: "§LA motley crew of exiles from across the Reich, the bureaucracy of the Reichskommissariat can only seem to agree on a single phrase: stability must be restored.\n\nYet they propose no real solution, no direction. Should one wish to rule the Reichskommissariat, he will need to provide one.§!\n\n§BLeibbrandt§! has [?UKR_PS_Bureaucrat^1]% support\n\n§oOhlendorf§! has [?UKR_PS_Bureaucrat^0]% support\n\n§gBräutigam§! has [?UKR_PS_Bureaucrat^2]% support"
@@ -2595,7 +2595,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_remind_diplomats_of_hitlers_decree_tt: "§gBräutigam§! and his fellow £SGR_NSDAP_Dissident §gsentimentalists§! have overstepped their bounds. §RIt is time to remind §gthem§! of their duties.§!"
  UKR_but_humble_the_selfrighteous_prussian_tt: "§oOhlendorf§! has given himself too much credit for what §YI§! have achieved. §RI will put §ohim§! in his place.§!"
  UKR_thatll_keep_the_deputy_busy_tt: "If §BLeibbrandt§! cares so much for the §BSlavic degenerates§!, maybe he will actually do his §Gjob§! instead of §Rwhining§!."
- UKR_skip_noc_holdings_tt: "§kHeerema§! and his little §kcompany§! have no need for funds that must go to §Ymore important projects§!. §RI am sure he will understand.§!"
+ UKR_skip_noc_holdings_tt: "§LHeerema§! and his little §Lcompany§! have no need for funds that must go to §Ymore important projects§!. §RI am sure he will understand.§!"
  UKR_the_committee_in_our_grasp_tt: "Our £UKR_collab_texticon §Qcollaborators§! could do with some §Gsupport§!. §RBut we will not let them entertain any independent ideas.§!"
  UKR_finish_up_the_third_phase_of_gpo_tt: "§F§OThird Phase§! of §oGeneralplan Ost§! will be updated to the §VFinalized§! §OThird Phase§! of §oGeneralplan Ost§! in our assorted laws.§!"
  UKR_the_committee_in_our_grasp_2_tt: "§F§RPowerless§! £UKR_collab_texticon §QUkrainian National Committee§! will be updated to the §YSupervised§! £UKR_collab_texticon §QUkrainian National Committee§! in our assorted laws.§!"
@@ -2623,7 +2623,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_UCW_UKS_uprising_play_tt: "The time is now, the §Vrevolution§! has §Gbegun§!!"
  UKR_UCW_UKS_uprising_tt: "...and falling."
  
- UKR_UCW_FUK_uprising_play_tt: "At long last, §aUkraine§! will finally breathe the air of §Gfreedom§!!"
+ UKR_UCW_FUK_uprising_play_tt: "At long last, §MUkraine§! will finally breathe the air of §Gfreedom§!!"
  UKR_UCW_FUK_uprising_tt: "...and falling."
  
  UKR_UCW_BOV_uprising_play_tt: "We will exact our §evengeance§! on those who have wronged us!"
@@ -2641,7 +2641,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  ## POLISSIAN GUARD PRE-UCW ##
  UKR_FUK_intro_tt: ""
  UKR_galicia_roots_tt: "We will gain §Gextra support§! in §BGalicia§! upon our uprising."
- UKR_FUK_collaboration_gonna_be_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Rharder§!, benefitting §aBorovets§! and §cDziuba§!."
+ UKR_FUK_collaboration_gonna_be_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Rharder§!, benefitting §MBorovets§! and §PDziuba§!."
  UKR_FUK_collaboration_gonna_be_less_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Geasier§!, benefitting §gOhloblyn§!."
 
  ### COMMUNISTS PRE-UCW ###
@@ -2787,8 +2787,8 @@ UKR_Erwin_Weinmann_sec_desc: "§YNational Socialism§!\n--------------\n§LFloat
  UKR_Bandenbekampfung_law_desc: "Under §xBandenbekämpfung§!, The £UKR_military_texticon §sGerman garrison§! is currently empowered to take extreme action against so-called "Bandits", essentially meaning any §mpartisan§! forces. This included not only free reign to kill any suspects without process but also freedom to §qpillage and destroy§! villages in §Vpartisan controlled territory§! as needed. At present, there are functionally §Vno limits§! to §sGarrison§! action in the field, so long as it is done under these pretenses."
  UKR_National_Symbols_Forbidden_law: "§MNational§! §YSymbols§! §RForbidden§!"
  UKR_National_Symbols_Forbidden_law_desc: "The §rReichskommissariat Ukraine§!, despite the name, is not a §sUkrainian institution§!. As such, statements of §BUkrainian§! §Ynationalism§! are §fforbidden§!, and this suppression extends even into the visual; symbols of Ukraine are §Vforbidden§! in public. Even £UKR_collab_texticon §Qcollaborators§! are limited to the designated symbols for the UNA and UNC. Most towns have been redecorated to be §j"German"§!, removing symbols of Ukraine and adding £UKR_bureaucracy_texticon §rNazi§! iconography."
- UKR_Land_Management_Company_Ukraine_law: "£UKR_industrial_texticon §kLand Management Company Ukraine§!"
- UKR_Land_Management_Company_Ukraine_law_desc: "Though much land has been sold off to important and connected German £UKR_industrial_texticon §kindustrialists§!, a great wealth of Ukrainian territory is still held by the £UKR_bureaucracy_texticon §rEastern Ministry (Ostministerium)§!. With their proxy in the Land Management Company Ukraine, the Reichskommissariat holds much of the former §xSoviet§! State farms and agricultural machinery, repurposing them to aid the German economy. This gives the §rRK§! great latitude with which to shape economic policy."
+ UKR_Land_Management_Company_Ukraine_law: "£UKR_industrial_texticon §LLand Management Company Ukraine§!"
+ UKR_Land_Management_Company_Ukraine_law_desc: "Though much land has been sold off to important and connected German £UKR_industrial_texticon §Lindustrialists§!, a great wealth of Ukrainian territory is still held by the £UKR_bureaucracy_texticon §rEastern Ministry (Ostministerium)§!. With their proxy in the Land Management Company Ukraine, the Reichskommissariat holds much of the former §xSoviet§! State farms and agricultural machinery, repurposing them to aid the German economy. This gives the §rRK§! great latitude with which to shape economic policy."
 
  UKR_SC_law_0: "§sSecurity Council§!"
  UKR_SC_law_desc_0: "Formed as a temporary measure following the §Vincapacitation§! of Erich Koch, the §sSecurity Council§! serves as a collective body which functionally operates the government. Composed of leading members of the £UKR_bureaucracy_texticon §rbureaucracy§! from all ministries and factions, the Council operates through consensus of its membership, functionally checking the power of the Deputy Reichskommissar - though §BGeorg Leibbrandt§! is himself a member."
