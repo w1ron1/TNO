@@ -80,8 +80,8 @@
  GER_debug_break_pakt:0 "§qGermany§! - Dismantle the Pakt"
 
  ### COUNTRY NAMES ###
- GER:0 "ВеликоНімецька імперія"
- GER_DEF:0 "Великонімецька імперія Німецької нації"
+ GER:0 "Великоґерманський райх"
+ GER_DEF:0 "ВеликоҐерманський Райх Німецької нації"
  GER_ADJ:0 "Німецьк"
  
  ### PARTIES ###
