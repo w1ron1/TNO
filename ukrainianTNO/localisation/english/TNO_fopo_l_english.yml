@@ -57,15 +57,15 @@
   GC_Haitian_Blitz: "Гаїтянський бліц"
   GC_ChannelCrisis: "Канальська криза"
 
-  PROXYNATIONAL_CP_GAIN: "Foreign Conflict Command Power Gain Bonus"
+  PROXYNATIONAL_CP_GAIN: "Бонус за командування зовнішнім конфліктом"
 
   fopo_desc_text: "[Get_fopo_desc]"
   fopo_header_type: "[Get_fopo_header]"
 
-  fopo_ongoing_title: "§BONGOING CONFLICTS§!"
+  fopo_ongoing_title: "§BТРИВАЮЧІ КОНФЛІКТИ§!"
 
-  fopo_frontlines_tt: "Deal with the situation on §YThe Frontlines§!"
-  fopo_homefront_tt: "Deal with the situation on §YThe Homefront§!"
+  fopo_frontlines_tt: "Розібратися з ситуацією на §YФронті§!"
+  fopo_homefront_tt: "Розібратися з ситуацією на §YТилу§!"
 
 ### Info Tooltips
    TNO_fopo_into_tab_tt: "[Get_fopo_info_tooltip]"

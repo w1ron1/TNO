@@ -48,13 +48,13 @@ Alert_BRI_ChaosThreshold_Desc: "Наш рівень Хаосу досяг нов
 
 # Ukraine alerts
 Alert_UKR_BreadBasket_GovControl: "Низький рівень державного контролю"
-Alert_UKR_BreadBasket_GovControl_Desc: "Повстанцям вдалося встановити контроль над більшістю територій у наступних регіоні(ах)"
+Alert_UKR_BreadBasket_GovControl_Desc: "Повстанцям вдалося встановити контроль над більшістю територій у наступному(их) регіоні(ах)"
 Alert_UKR_Breadbasket_GovControl_entry: "- §Y[?UKR_bb_map_array^temp_govcontrol_idx.GetName]§! ([?check_resistance_control:resistance_control^0|%%R0])"
 
 Alert_UKR_BreadBasket_ConsCycle: "Закінчення циклу споживання"
 Alert_UKR_BreadBasket_ConsCycle_Desc: "Цикл споживання незабаром закінчиться."
 
-Alert_UKR_BreadBasket_ActionAvailable: "Акція «Хлібниця» діє"
+Alert_UKR_BreadBasket_ActionAvailable: "Акція «Хлібниці» діє"
 Alert_UKR_BreadBasket_ActionAvailable_Desc: "У «Хлібниці» діє акція."
 
 Alert_UKR_BreadBasket_DecisiveRegionWarning: "Опозиційна група підбадьорена"
