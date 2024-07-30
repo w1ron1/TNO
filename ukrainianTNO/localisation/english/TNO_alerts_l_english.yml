@@ -54,7 +54,7 @@ Alert_UKR_Breadbasket_GovControl_entry: "- §Y[?UKR_bb_map_array^temp_govcontrol
 Alert_UKR_BreadBasket_ConsCycle: "Закінчення циклу споживання"
 Alert_UKR_BreadBasket_ConsCycle_Desc: "Цикл споживання незабаром закінчиться."
 
-Alert_UKR_BreadBasket_ActionAvailable: "Акція «Хлібниці» діє"
+Alert_UKR_BreadBasket_ActionAvailable: "Акція(ї) «Хлібниці» діє(ють)"
 Alert_UKR_BreadBasket_ActionAvailable_Desc: "У «Хлібниці» діє акція."
 
 Alert_UKR_BreadBasket_DecisiveRegionWarning: "Опозиційна група підбадьорена"
