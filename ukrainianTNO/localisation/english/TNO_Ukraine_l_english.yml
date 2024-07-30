@@ -363,20 +363,20 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_the_herzogs_rage: "Лють Герцога"
  UKR_fuel_the_breadbasket: "Заправити хлібний кошик"
  UKR_mechanization_in_dnieper_ukraine: "Механізація наддніпрянщини України"
- UKR_finish_off_communal_farms: "Добити «комунальні господарства»"
+ UKR_finish_off_communal_farms: "Добити «коллективні господарства»"
  UKR_skip_noc_holdings: "Пропустити NOC Holdings"
  UKR_blood_from_a_stone: "Кров з каменю"
  UKR_thatll_keep_the_deputy_busy: "Це займе заступника"
  UKR_reap_the_harvest: "Пожинати врожай"
- UKR_reinforce_the_strongholds: "Зміцнюємо опорні пункти"
+ UKR_reinforce_the_strongholds: "Зміцнити опорні пункти"
  UKR_support_the_gendarmerie: "Підтримайте жандармерію"
  UKR_finish_up_the_third_phase_of_gpo: "Завершення третьої фази ГПО"
  UKR_remind_diplomats_of_hitlers_decree: "Нагадати дипломатам про указ Гітлера"
- UKR_but_humble_the_selfrighteous_prussian: "Впокорити самовпевненого пруссака"
+ UKR_but_humble_the_selfrighteous_prussian: "Утихомирити самовпевненого пруссака"
  UKR_crack_down_on_the_termites: "Знищити термітів"
  UKR_the_committee_in_our_grasp: "Комітет у наших руках"
  UKR_this_is_not_enough: "Цього недостатньо"
- UKR_a_visit_for_old_times_sake: "Візит на згадку про старі часи"
+ UKR_a_visit_for_old_times_sake: "Відвідини, як в старі-добрі"
 
  UKR_the_herzogs_rage_desc: "Райхскомісар Кох - надзвичайно зайнята людина, яка виконує політичні обов'язки в самому Райху, і тому не варто очікувати, що він проводитиме багато часу в Україні. Це було правдою ще до початку Західно-Російської війни. Проте, не можна заперечувати безліч проблем, що впливають на державу, і тому його присутність необхідна для стабілізації ситуації.\n\nНе дивлячись на його бажання бути менш залученим, і його явний гнів від того, що він змушений бути присутнім в нашій адміністрації, він тут. Таким чином, як і в попередні роки, ми можемо очікувати, що проблеми будуть рішуче вирішуватися."
  UKR_fuel_the_breadbasket_desc: "Мета України, нашої адміністрації в цілому, полягає в тому, щоб забезпечувати ресурсами Райх. Вугілля, сталь та багато іншого, але над усім цим лежить зерно. Україна годує Європу, і оскільки континент стає все більш голодним, ми повинні вжити заходів для збільшення виробництва і врожайності зерна.\n\nРезультат не викликає сумнівів - питання лише в тому, як його досягти. З усіх куточків нашого уряду надходять ідеї, різні за інтенсивністю, відданістю та ґрунтовністю. Ми оцінимо їх і виберемо ту, яка найкраще підходить для досягнення нашої мети."
@@ -401,7 +401,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_the_melt_of_rot: "Плавлення гнилі"
  UKR_the_melt_of_rot_desc: "Райхскомісар Кох лежить у комі в Киеуі, а на державу нападають - з усіх боків і з джерел, яких не злічити. Тубільці кричать у повстанні, їхні партизани нападають на наших солдатів і об'єкти, фракції всередині партії сваряться і саботують одна одну, а новини і постачання з Райху стають дедалі мізернішими.\n\nОчевидно, що розвиток гнилі, яка, за словами багатьох, вразила Україну, досягає своєї останньої фази. Необхідно вжити рішучих заходів у всіх сферах. Ми, і держава в цілому, повинні бути готові зробити все, пожертвувати всім, щоб вижити."
 
- UKR_politics_cant_be_silenced: "Політику не можна замовчувати"
+ UKR_politics_cant_be_silenced: "Політику не можливо замовчувати"
  UKR_politics_cant_be_silenced_desc: "Дрібні чвари партійних фракцій у Райхскомісаріяті повинні припинитися! Якщо ми хочемо вистояти, ми, партія, повинні бути єдині в одній меті, і ці штучні розбіжності повинні, повинні і будуть стерті. Олендорф і Браутігам, безсумнівно, зрозуміють необхідність відкласти вбік свою опозиційність заради блага Райху.\n\nЯкщо вони цього не зроблять, їх заохотять політичними поступками, забезпечивши належну увагу і перегляд найбільш важливих частин їхніх майбутніх планів дій. Після розв'язання кризи."
 
  UKR_degenerates_amok: "Дегенерати шаленіють"
@@ -419,7 +419,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_bol_east: "Більшовики на Сході"
  UKR_bol_east_desc: "Незважаючи на всі зусилля держави, протягом багатьох років вироджена ракова пухлина, якою є більшовизм, все ще процвітає в партизанах та інших повстанцях, що заполонили східні провінції. Вони занадто довго грабували, здійснювали набіги, палили і перешкоджали транзиту до Райху і повинні бути знищені як паразити, якими вони є.\n\nВідправка великих контингентів сил безпеки на схід, в поєднанні з відповідною пропагандистською кампанією, дозволить нам остаточно їх викорінити. Мир повернеться, коли ці залишки будуть знищені - хоча б тому, що не залишиться нікого, хто б його порушував."
 
- UKR_expand_kampfgrupe_ohlendorf: "Розгорнути Бойову Группу Олендорф"
+ UKR_expand_kampfgrupe_ohlendorf: "Розгорнути юойову группу Олендорф"
  UKR_expand_kampfgrupe_ohlendorf_desc: "Під час великого хрестового походу проти більшовизму, лібералізму та виродження різні сили СС об'єдналися в бойові групи. Такі підрозділи виявилися корисними на всіх фронтах, доповнюючи зусилля інших сил.\n\nВони можуть стати в нагоді знову. Олендорф повинен зібрати нову, розширену бойову групу: бойову групу Олендорфа. Це дуже допоможе державі в переслідуванні та захисті на майбутніх судових процесах. Так буде зроблено, незалежно від того, що скажуть Ляйббрандт і Браутігам про розширення впливу Олендорфа."
 
  UKR_revive_civil_authority: "Відродити цивільну владу"
@@ -428,7 +428,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_sipo_infiltration: "Тактика проникнення ПоБе"
  UKR_sipo_infiltration_desc: "Якщо ми хочемо викорінити дегенератів, повстанців, партизанів і відвертих злочинців, ми повинні робити більше, ніж просто нападати на них. Ми повинні проникнути в них, відстежувати їхні мережі, визначити, яким впливом вони володіють, і лише потім вирвати їх з корінням і повністю викорінити.\n\nМи можемо наказати ПоБе зосередитися на цій тактиці, використовуючи їхню «уніформу», культивуючи подвійних агентів, заохочуючи дезертирство, ліквідовуючи мережі впливу тощо, і таким чином забезпечити їх повне знищення в довгостроковій перспективі."
 
- UKR_consider_industrialists: "Розглянемо промисловців"
+ UKR_consider_industrialists: "Розгляньте промисловців"
  UKR_consider_industrialists_desc: "Для багатьох не секрет, що відносини держави з промисловцями завжди були в кращому випадку бурхливими, а в гіршому - відверто ворожими. Їх жадібність не знає меж і часто заважає досягненню політичних цілей. Проте, враховуючи обставини, ми не можемо дозволити собі створювати більше внутрішніх ворогів, і нам потрібна будь-яка допомога, яку ми можемо отримати.\n\nТому держава буде звертатися до них з проханням про будь-яку прихильність і надавати будь-які поступки, щоб забезпечити збільшення виробництва військової техніки та обладнання - принаймні, на даний момент - і таким чином забезпечити подальше виживання."
 
  UKR_our_most_important_tool: "Наш найважливіший інструмент"
@@ -440,7 +440,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_a_corrupted_system: "Корумпована система..."
  UKR_a_corrupted_system_desc: "«Житниця Райху! Бездоганний гвинтик, що годує Нову Європу!» - ось що ми з гордістю проголошували б, наші посмішки були б жорсткими і напруженими, якби ми відчайдушно ігнорували гнилу, зламану машину, якою є керівництво нашої колонії. Стара кров занадто зайнята безглуздими хобі, а нова кров сперечається про проблему і пропонує десятки різних, диких рішень для нашої політичної системи.\n\nМи дивимося на блакитне небо і сперечаємося про семантику і про те, якого кольору ця блакить насправді. Можливо, якщо ми зможемо змусити головних гравців сісти за стіл переговорів, ми зможемо дійти згоди? Не зовсім мирний договір чи угоду, але принаймні щось, що зробить напругу достатньо низькою, щоб ми могли вирішити це питання?\n\nМи всі цивільні люди, врешті-решт. Ніхто не хоче, щоб ця дискусія стала кривавою."
 
- UKR_but_whos_to_blame: "...Але хто винен?"
+ UKR_but_whos_to_blame: "...Але хто у цьому винен?"
  UKR_but_whos_to_blame_desc: "З огляду на це, що взагалі є спільним для нас? У нас немає єдиної позиції, новачки звинувачують у всіх наших бідах систему Коха, систему, яку ветерани підживлюють і роблять все можливе, щоб вона ніколи не змінилася на їхню користь. У них є важелі впливу, але їм бракує імпульсу і натхнення, які є у нового покоління. Нерухлива стіна зустрічається з об'єктом, який неможливо зупинити, і поки ми не знайдемо єдиного ворога, нам залишиться лише спостерігати за феєрверками."
 
  UKR_rot_within: "Гниль росте зсередини"
@@ -455,7 +455,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_the_unavoidable: "Неминуче"
  UKR_the_unavoidable_desc: "Європа котиться до катастрофи. Не лише ми - кожна грань Райху зазнає труднощів через хворобу нашого фюрера. Загибель Московії вже запущена. Польські дисиденти, здається, готові виплеснутися в будь-який момент. Німеччина може незабаром стати жертвою власних дарвіністських надмірностей. Але навіть якщо всі вони чудесним чином одужають, ясно одне - ніхто з них не врятує нас.\n\nМи повинні звільнитися від наших ілюзій. Наближається велика битва, і наша мета - наша єдина мета - переконатися, що ми виживемо. Це ледь помітна зміна в політиці, але водночас сейсмічна зміна. Ми більше не можемо уявити собі рожеве майбутнє, в якому кримінальний клас України піддасться розуму. Партизани оточують нас - наша єдина мета - розтоптати їх, поки вони не втратять сили боротися."
 
- UKR_dial_other_brautigam: "Наберіть інший Браутігам"
+ UKR_dial_other_brautigam: "Наберіть Браутігаму"
  UKR_dial_other_brautigam_desc: "Райх нас покинув. Боляче так відверто говорити про жорстокість наших лідерів, але це правда, яку ми мусимо прийняти. З кожним днем їхні запаси боєприпасів стають все тоншими і тоншими, опускаючись нижче навіть наших найсміливіших прогнозів щодо того, що вони можуть запропонувати. Хоча ми не можемо з'ясувати їхні міркування, ми впевнені, що їхніх мізерних пропозицій незабаром буде недостатньо, щоб зупинити хвилю.\n\nВтім, наші люди всередині, можливо, зможуть просунути нас трохи далі. Дядько Ганса-Отто Браутігама насправді є шанованим дипломатом у Німеччині. І хоча озброєння, звісно, не його сфера, він може потягнути за кілька ниточок і вибити для нас трохи більше. Це буде небагато, але це буде рятівне коло. На даний момент ми беремо те, що можемо отримати."
 
  UKR_take_more_no_cost: "Беріть більше, незважаючи на ціну"
@@ -478,9 +478,9 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_shelter_the_settlers: "Дати притулок поселенцям"
  UKR_restore_order_to_the_countryside: "Навести лад у сільській місцевості"
  UKR_rebuild_the_government: "Перезавантажити уряд"
- UKR_to_the_strongest: "За найсильніших"
+ UKR_to_the_strongest: "За найсильнішими"
  UKR_utilize_spare_divisions: "Використовуйте запасні підрозділи"
- UKR_mobilize_the_kampfgruppe: "Мобілізуйте Бойову группу"
+ UKR_mobilize_the_kampfgruppe: "Мобілізуйте бойову группу"
  UKR_hungerpolitik: "Політика голоду"
  UKR_bandenbekmpfung: "Боротьба з бандами"
  UKR_useless_mouths: "Безглузді роти."
@@ -497,8 +497,8 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_silence_the_sentimentalists: "Замовкніть сентименталісти!"
  UKR_corruption: "Корупція"
 
- UKR_the_depth_of_decay_desc: "The Führer's death has generated shockwaves of instability across the Reich and its hard-won conquests, and our administration has been no exception. Mismanagement, incompetence, and treason have brought the Reichskommissariat to its knees; bandits run rampant across the colony under the banners of the old communist state, the mad mongrels of the UPA, or the rats of the Ukrainian National Revolutionary Army, traitors to even their own cause. This must not stand.\n\nThe future of the Aryan race in the East and its conquests, the future of our very Lebensraum, depends on no one but us. It is not a time for reflection, or moderation, or weakness. The Slav must once more learn to know his place, or we shall perish."
- UKR_regroup_our_forces_desc: "Our commanders admit no contingency plan had predicted the sheer volume of bandits assailing us, and as such our men are dispersed across the countryside. As the uprisings of the 1950s showed, these isolated detachments are vulnerable to bandit assaults, and already many units have broken contact.\n\nCaptured, destroyed - or worse, defected; no one knows, but we cannot win a war like this. Concentrated in large formations, our troops will crush any force the bandits can muster; we must do so as swiftly as possible. The Wehrmacht has known nothing but victory in the east for twenty years, and that will not change here."
+ UKR_the_depth_of_decay_desc: "Смерть фюрера породила ударну хвилю нестабільності в усьому Райху та його завоюваннях, здобутих тяжкою працею, і наша адміністрація не стала винятком. Безгосподарність, некомпетентність і зрада поставили Райхскомісаріят на коліна; по всій колонії розгулюють бандити під прапорами старої комуністичної держави, скажені шавки УПА або щури УНРА, зрадники навіть власної справи. Майбутнє арійської раси на Сході та її завоювань, майбутнє нашого Лебенсрауму не залежить ні від кого, окрім нас самих. Це не час для роздумів, чи поміркованості, чи слабкості. Слов'янин повинен знову навчитися знати своє місце, інакше ми зникнемо."
+ UKR_regroup_our_forces_desc: "Наші командири визнають, що жоден план дій на випадок надзвичайних ситуацій не передбачав такої кількості бандитів, які нападають на нас, і тому наші люди розпорошені по всій країні. Як показали повстання 1950-х років, ці ізольовані групи вразливі до нападів бандитів, і вже багато підрозділів втратили зв'язок.\n\nПолонені, знищені - або ще гірше, дезертири - ніхто не знає, але ми не зможемо виграти таку війну. Сконцентровані у великі з'єднання, наші війська розчавлять будь-яку силу, яку бандити зможуть зібрати; ми повинні зробити це якнайшвидше. Двадцять років Вермахт не знав на сході нічого, крім перемог, і тут нічого не зміниться."
  UKR_our_lifeline_cut_desc: "Our calls for aid from Germania go unanswered, no matter how many distress signals we send back to the Reich or other Reichskommissariats. Our Fatherland has abandoned us, and we cannot rely on them to send us supplies or men to assist against the bandits. We are alone.\n\nOur men will have to steel themselves for a fierce campaign; this will be a much more challenging task than the revolts in the fifties. But, one way or another, we will return the Reich's order to this lawless land of degenerates and traitors."
  UKR_shelter_the_settlers_desc: "The fundamental goal of any Reichskommissariat, the reason we're here in the first place, is to settle the land with proper Aryan settlers in place of the various criminals, bandits, and other assorted subhumans squatting herein. Therefore, their livelihoods are our greatest priority, far above that of any mongrel collaborator.\n\nThe current wave of attacks against Aryan strongholds cannot be tolerated. We will now devote massive resources to protect our settlers; garrisons, armaments, trenches, walls, and fences, nothing will be considered inadequate. If we can get hold of some extra men from among the settlers we have saved, that will be all the better."
  UKR_restore_order_to_the_countryside_desc: "Ukraine is in abject chaos. Fortunately, the cities under the control of the Reichskommissariat Ukraine are still stable, since previous Reichskommissaren were at least able to successfully settle them with proper German colonists and secure those colonists' lives and liberty with strong police forces dedicated to their protection. But the countryside has lately been plunged into anarchy.\n\nThis has happened because various bandits have deluded themselves into thinking that Ukraine is anything other than a province of the Greater Germanic Reich of the German Nation. This cannot be tolerated, nor permitted to remain as anything more than a mere slight setback. We will deploy our forces and make the bandit subhumans remember the fear we taught them during the glorious Operation Barbarossa."
@@ -2111,8 +2111,8 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
 
  ### 8.4 - DESTINY DECISIONS ###
  UKR_destiny_category: "§CПрихильність долі§!"
- UKR_destiny_category_desc: "\n\n\n\n\n\nДля багатьох §MУкр§!§Yаїна§! є житницею Європи, наповненою гниллю та цвіллю, що по вінця просякнута гниллю. Плоди родючого ґрунту, можна було б очікувати, що MУкр§!§Yаїна§! процвітатиме за часів Радянського Союзу і, принаймні, переживе Райх. Але тепер це цвинтар, заповнений мільйонами мертвих, а разом з ними поховані їхні мрії.\n\nМрія про вільну республіку, розчавлена, не встигнувши зробити свій перший подих. Мрія про націонал-комунізм, знищена в бурі Барбаросса. Мрія Степана Бандери, що загинула так само, як і він. Мрія про націонал-соціалізм, що швидко розкладається.\n\nЦі мрії мертві, чи не так? Одному з них буде надано другий шанс. Шанс визначити долю України. Яку мрію вибереш §Oти§!?\n\n§CДоля§! прихильна до тебе: [GetUKR_destiny_favorite]."
- UKR_destiny_favourite_0: "§RNo One§!"
+ UKR_destiny_category_desc: "\n\n\n\n\n\nДля багатьох §MУкр§!§Yаїна§! є житницею Європи, наповненою гниллю та цвіллю, що по вінця просякнута гниллю. Плоди родючого ґрунту, можна було б очікувати, що MУкр§!§Yаїна§! процвітатиме за часів Радянського Союзу і, принаймні, переживе Райх. Але тепер це цвинтар, заповнений мільйонами мертвих, а разом з ними поховані їхні мрії.\n\nМрія про вільну республіку, розчавлена, не встигнувши зробити свій перший подих. Мрія про націонал-комунізм, знищена в бурі Барбаросса. Мрія Степана Бандери, що загинула так само, як і він. Мрія про націонал-соціалізм, що швидко розкладається.\n\nЦі мрії мертві, чи не так? Одному з них буде надано другий шанс. Шанс визначити долю України. Яку мрію вибереш §Oти§!?\n\n§CДоля§! прихильна до: [GetUKR_destiny_favorite]."
+ UKR_destiny_favourite_0: "§RНікого§!"
  UKR_destiny_favourite_UKR: "£UKR_reichskommissariat §jРайхскомісаріят Україна§!"
  UKR_destiny_favourite_FUK: "£UKR_pg §DУкраїнська національна революційна армія§!"
  UKR_destiny_favourite_UKS: "£UKR_communists §SУкраїнська Соціалістична Радянська Республіка§!"
@@ -2135,7 +2135,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_DEC_destiny_pick_BOV_tt: "§OВи§! стежитиме за історією £UKR_UPA §sОрганізація українських націоналістів - Бандерівців§!.\n\nНасильство - це милиця для слабких, щоб здаватися сильними."
  
  UKR_MIS_destiny_timer: "§CПрихильність долі буде виконана§!"
- UKR_MIS_destiny_timer_timeout_tt: "§CДоля§! не любить §Oнерішучих§!. Якщо §Oви§! дозволите §Rтаймеру§! добігти кінця - не прийнявши жодного з §YРішень§! вище - §Доля§! вибере одну з фракцій, щоб продовжити гру§!."
+ UKR_MIS_destiny_timer_timeout_tt: "§CДоля§! не любить §Oнерішучих§!. Якщо §Oви§! дозволите §Rтаймеру§! добігти кінця - не прийнявши жодного з §YРішень§! вище - §CДоля§! вибере одну з фракцій, щоб продовжити гру§!."
 
  ### 8.5 - BREADBASKET GERMANY INTERACTIONS DECISIONS ###
  UKR_bb_germany_category: "§oGermania§!'s Demands"
