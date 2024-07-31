@@ -2314,7 +2314,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  ## RESISTANCE GROUP INFO SECTION
  UKR_BB_resistance_activity_header: "ОПОРА"
  UKR_BB_resistance_activity_spike: "§eЦикл активності§! через §Y[?UKR_bb_resistance_countdown]§! днів"
- UKR_BB_resistance_activity_tooltip: "§FУправління численними групами, які виступають проти нас, має вирішальне значення, якщо ми хочемо досягти успіху в наших цілях. У цьому інтерфейсі ми можемо легко отримати доступ до інформації про ці різні групи, навівши курсор на їхні назви, а також відстежувати їхній вплив на нашу державу.\n\n§eЦикл активності§! - це періоди часу, в кінці яких групи опору здійснюватимуть операції, що матимуть вплив на різні регіони України.\n\nКожній групі опору призначено вирішальний регіон, який є базою їхніх операцій. Якщо §Rконтроль§! групи опору перевищує певний §Yпоріг§! в межах цих визначених вирішальних регіонів, то ефекти, застосовані в кінці циклу активності, будуть гіршими порівняно з тими, що не перевищують цей поріг.\n\nЕфекти для кожної групи опору можна побачити за допомогою §Yнаведення§! на §Bкличний знак§! праворуч від кожної групи опору.§!"
+ UKR_BB_resistance_activity_tooltip: "§FУправління численними групами, які виступають проти нас, має вирішальне значення, якщо ми хочемо досягти успіху в наших цілях. У цьому інтерфейсі ми можемо легко отримати доступ до інформації про ці різні групи, навівши курсор на їхні назви, а також відстежувати їхній вплив на нашу державу.\n\n§eЦикл активності§! - це періоди часу, в кінці яких групи опору здійснюватимуть операції, що матимуть вплив на різні регіони України.\n\nКожній групі опору призначено головний регіон, який є базою їхніх операцій. Якщо §Rконтроль§! групи опору перевищує певний §Yпоріг§! в межах цих визначених вирішальних регіонів, то ефекти, застосовані в кінці циклу активності, будуть гіршими порівняно з тими, що не перевищують цей поріг.\n\nЕфекти для кожної групи опору можна побачити за допомогою §Yнаведення§! на §Bкличний знак§! праворуч від кожної групи опору.§!"
 
  # Pre-UCW resistances
  UKR_BB_Resistance_Activities_RK_Active: "§jРКУ - СС та Поліція§!"
@@ -2366,7 +2366,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_BB_Resistance_Activities_tt: "§F[Get_UKR_BB_resistance_activity_desc]§!"
  UKR_BB_Resistance_name_tt: "[?v.GetTokenLocalizedKey]"
  
- UKR_BB_Resistance_Activities_decisive_region_label: "Вирішальний регіон"
+ UKR_BB_Resistance_Activities_decisive_region_label: "Головний регіон"
  UKR_BB_Resistance_Activities_decisive_region: "§Y[Get_UKR_BB_resistance_activity_decisive_region]§!"
 
  UKR_BB_Resistance_Activities_decisive_region_tt: "[?v.GetTokenLocalizedKey] вирішальним регіоном є §Y[?UKR_bb_resistance_activities_decisive_region_array^r_i.GetName]§!"
@@ -2395,17 +2395,17 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_bb_R_change_desolation_bad_all_tt: "£UKR_desolation_texticon §VСпустошення§! in every region §Rrises§! by [?temp_all_des|Y2]"
  UKR_bb_R_change_desolation_good_all_tt: "£UKR_desolation_texticon §VСпустошення§! in every region §Gfalls§! by [?temp_all_des|Y2]"
 
- UKR_BB_consumption_actions_button: "§GACTIONS§!"
- UKR_BB_consumption_actions_button_tt: "Toggle viewing consumption related §GACTIONS§!"
+ UKR_BB_consumption_actions_button: "§GДІЇ§!"
+ UKR_BB_consumption_actions_button_tt: "Перемикання перегляду пов'язаних зі використанням §GДІЙ§!"
 
- UKR_BB_consumption_actions_click_tt: "§Y[?v.GetTokenLocalizedKey]§!\n\n§YAvailable if:§!\n[!consumption_action_button_click_enabled]\n§YEffects:§!\n[!consumption_action_button_click]"
- UKR_BB_consumption_actions_cooldown_tt: "This action is in cooldown for the next §Y[?UKR_bb_consumption_actions_cooldown^i]§! days"
- UKR_BB_consumption_request_aid_against_insurgents: "Request Aid Against Insurgents"
- UKR_BB_consumption_request_political_aid: "Request Political Aid"
- UKR_BB_consumption_enforce_food_austerity: "Enforce Food Austerity"
+ UKR_BB_consumption_actions_click_tt: "§Y[?v.GetTokenLocalizedKey]§!\n\n§YДоступно якщо:§!\n[!consumption_action_button_click_enabled]\n§YЕфекти:§!\n[!consumption_action_button_click]"
+ UKR_BB_consumption_actions_cooldown_tt: "Ця дія перебуває у стані паузи протягом наступних §Y[?UKR_bb_consumption_actions_cooldown^i]§! днів"
+ UKR_BB_consumption_request_aid_against_insurgents: "Прохання про допомогу проти бойовиків"
+ UKR_BB_consumption_request_political_aid: "Запит на політичну допомогу"
+ UKR_BB_consumption_enforce_food_austerity: "Забезпечити продовольчу економію"
 
- UKS_uprising_division_exp_tt: "Our forces shall each receive additional §Yexperience§! at the start of the §Suprising§! every time we take this action"
- UKS_pre_uprising_guns_tt: "We shall be able to take advantage of extra §YInfantry Equipment§! at the start of the §Suprising§!"
+ UKS_uprising_division_exp_tt: "Кожен з наших загонів отримає додатковий §Yдосвід§! на початку §Sповстання§! кожного разу, коли ми виконуватимемо цю дію"
+ UKS_pre_uprising_guns_tt: "Ми зможемо скористатися перевагами додаткової §YПіхотної зброї§! на початку §Suprising§!"
  UKR_BB_resistance_stockpile_amount: "£weapon_icon  [?UKR_bb_partisan_stockpile_guns]  £manpower_texticon [?UKR_bb_partisan_stockpile_manpower]" #  £dollar_sign [?UKR_bb_partisan_stockpile_money]M
  UKR_bb_resistance_stockpile_tt: "We will use our resistance group's §YStockpile§! to execute actions in the §MBread§!§Ybasket§!.\nAny resources we do not use here will be utilized at the start of any §Suprising§!.\n\nCurrent weekly change:\n£weapon_icon   [?UKR_bb_stockpile_guns_gain|0+=]\n£manpower_texticon  [?UKR_bb_stockpile_manpower_gain|0+=]\n" 
  UKR_bb_guns_stockpile_change_tt: "Change in £weapon_icon Weapons §YStockpile§!: [?temp_guns|0=+]\n"
