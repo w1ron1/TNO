@@ -2,7 +2,7 @@
 
 # GUI functionality
 
- CountryInfo_pls_click_on_entry: "==Клацніть на запис ліворуч=="
+ CountryInfo_pls_click_on_entry: "==Клацніть на записи ліворуч=="
 
  CountryInfo_Folder_button_tt: "§F§GКлацніть§! щоб переключити відображення записів '§Y[CountryInfo_GET_Folder_Country]§!'§!"
  CountryInfo_Content_button_tt: "§F§GКлацність§! щоб відобразити запис під назвою '§Y[CountryInfo_GET_Content_Country]§!'§!"

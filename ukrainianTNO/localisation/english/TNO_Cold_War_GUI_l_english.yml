@@ -19,7 +19,7 @@ TNO_Cold_War_GUI_Selected_Superpower_CHI: "§O[?CHI.GetName]§!"
 TNO_Cold_War_GUI_Selected_Superpower_IND: "§E[?IND.GetName]§!"
 
 superpower_scoring_effects_modifier: "Ефекти балів"
-superpower_power_projection_modifier: "Power Projection Effects"
+superpower_power_projection_modifier: "Ефекти від проекції сили"
 
 threat_button_tt: "Відкрити ГІК Холодної Війни"
 
