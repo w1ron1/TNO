@@ -1,19 +1,19 @@
 ﻿l_english:
  ### Country Names ###
- CAO: "Камерун"
- CAO_DEF: "Камерун"
- CAO_paternalism: "Республіка Камерун"
- CAO_paternalism_DEF: "Республіка Камерун"
- CAO_socialist: "Африканська держава Камерун"
- CAO_socialist_DEF: "Африканська держава Камерун"
- CAO_fascism: "Камерун"
- CAO_fascism_DEF: "Африканська держава Камерун"
- CAO_ADJ: "Камерунськ"
+ CAO: "Cameroon"
+ CAO_DEF: "Cameroon"
+ CAO_paternalism: "Republic of Cameroon"
+ CAO_paternalism_DEF: "the Republic of Cameroon"
+ CAO_socialist: "Cameroonian African State"
+ CAO_socialist_DEF: "the Cameroonian African State"
+ CAO_fascism: "Cameroon"
+ CAO_fascism_DEF: "the Cameroonian African State"
+ CAO_ADJ: "Cameroonian"
 
  ## Cosmetic Tags ##
- CAO_win: "Західноафриканський союз"
- CAO_win_DEF: "Західноафриканський союз"
- CAO_win_ADJ: "Західноафриканськ"
+ CAO_win: "West African Union"
+ CAO_win_DEF: "the West African Union"
+ CAO_win_ADJ: "West African"
 
  ### Parties ###
  CAO_communist_party: "PLA-R"

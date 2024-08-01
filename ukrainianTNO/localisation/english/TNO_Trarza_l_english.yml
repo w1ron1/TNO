@@ -1,13 +1,13 @@
 ﻿l_english:
  ### Country Names ###
- TRZ: "Трарза"
- TRZ_DEF: "Трарза"
- TRZ_ADJ: "Трарзаськ"
+ TRZ: "Trarza"
+ TRZ_DEF: "Trarza"
+ TRZ_ADJ: "Trarzan"
 
  ## Cosmetic Tags ##
- TRZ_iberian_war: "Ісламська Республіка Мавританія"
- TRZ_iberian_war_DEF: "Ісламська Республіка Мавританія"
- TRZ_iberian_war_ADJ: "Маврітанськ"
+ TRZ_iberian_war: "Islamic Republic of Mauritania"
+ TRZ_iberian_war_DEF: "the Islamic Republic of Mauritania"
+ TRZ_iberian_war_ADJ: "Mauritanian"
 
  ### Parties ###
  TRZ_communist_party: "-"

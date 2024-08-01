@@ -9,13 +9,13 @@
  ####################################################################################
  
  ### Country Names ###
- KEM: "Кемерово"
- KEM_DEF: "Кемерово"
- KEM_paternalism: "Кемеровське князівство"
- KEM_paternalism_DEF: "Кемеровське князівство"
- KEM_despotism: "Кемеровське князівство"
- KEM_despotism_DEF: "Кемеровське князівство"
- KEM_ADJ: "Кемеровськ"
+ KEM: "Kemerovo"
+ KEM_DEF: "Kemerovo"
+ KEM_paternalism: "Principality of Kemerovo"
+ KEM_paternalism_DEF: "the Principality of Kemerovo"
+ KEM_despotism: "Principality of Kemerovo"
+ KEM_despotism_DEF: "the Principality of Kemerovo"
+ KEM_ADJ: "Kemerovo"
 
  ### Party Names ###
  KEM_communist_party: "VKP(b)"

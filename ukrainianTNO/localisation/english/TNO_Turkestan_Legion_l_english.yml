@@ -1,28 +1,28 @@
 ﻿l_english:
  ### Country Names ###
- UTL: "Туркестанський легіон"
- UTL_DEF: "Туркестанський легіон"
- UTL_ADJ: "Туркестанськ"
+ UTL: "Turkestan Legion"
+ UTL_DEF: "the Turkestan Legion"
+ UTL_ADJ: "Turkestani"
 
  ## Cosmetic Tags ##
- UTL_Baymirza_Legion: "Держава Турків"
- UTL_Baymirza_Legion_DEF: "Держава Турків"
+ UTL_Baymirza_Legion: "State of Turks"
+ UTL_Baymirza_Legion_DEF: "the State of Turks"
 
- UTL_unified_1: "Туркестанський Меліоративний Уряд"
- UTL_unified_1_DEF: "Туркестанський Меліоративний Уряд"
+ UTL_unified_1: "Turkestan Reclamation Government"
+ UTL_unified_1_DEF: "the Turkestan Reclamation Government"
 
- UTL_unified_2: "Туркестанська Національна Держава"
- UTL_unified_2_DEF: "Туркестанська Національна Держава"
+ UTL_unified_2: "Turkestan National State"
+ UTL_unified_2_DEF: "the Turkestan National State"
 
- UTL_unified_3: "Тимчасова Адміністрація Туркестану"
- UTL_unified_3_DEF: "Тимчасова Адміністрація Туркестану"
+ UTL_unified_3: "Provisional Authority of Turkestan"
+ UTL_unified_3_DEF: "the Provisional Authority of Turkestan"
 
- UTL_occupation: "Туркестанський Військовий Округ"
- UTL_occupation_DEF: "Туркестанський Військовий Округ"
+ UTL_occupation: "Military District of Turkestan"
+ UTL_occupation_DEF: "the Military District of Turkestan"
 
- UTL_TURAN: "Туранський Каганат"
- UTL_TURAN_DEF: "Туранський Каганатn"
- UTL_TURAN_ADJ: "Тюркськ"
+ UTL_TURAN: "Khaganate of Turan"
+ UTL_TURAN_DEF: "the Khaganate of Turan"
+ UTL_TURAN_ADJ: "Turkic"
 
  ### Parties ###
  UTL_despotism_party: "TL(K)"

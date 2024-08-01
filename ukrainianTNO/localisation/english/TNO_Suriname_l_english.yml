@@ -1,17 +1,17 @@
 ﻿l_english:
   # ADJ
-  SUR:0 "Суринам"
-  SUR_DEF:0 "Королівство Нідерланди"
-  SUR_ADJ:0 "Суринамськ"
+  SUR:0 "Suriname"
+  SUR_DEF:0 "the Kingdom of the Netherlands"
+  SUR_ADJ:0 "Surinamese"
   
-  SUR_Republic_of_Suriname: "Суринам"
-  SUR_Republic_of_Suriname_DEF: "Республіка Суринам"
+  SUR_Republic_of_Suriname: "Suriname"
+  SUR_Republic_of_Suriname_DEF: "the Republic of Suriname"
   
-  SUR_kingdom_of_netherlands: "Королівство Нідерланди"
+  SUR_kingdom_of_netherlands: "Kingdom of the Netherlands"
   
-  CUR_Netherlands_Antilles: "Голландські Антильські острови"
-  CUR_Netherlands_Antilles_DEF: "Голландські Антильські острови"
-  CUR_Netherlands_Antilles_ADJ: "Голландськ"
+  CUR_Netherlands_Antilles: "Netherlands Antilles"
+  CUR_Netherlands_Antilles_DEF: "the Netherlands Antilles"
+  CUR_Netherlands_Antilles_ADJ: "Dutch"
 
   # Parties
   SUR_progressivism_party:0 "PvdA"

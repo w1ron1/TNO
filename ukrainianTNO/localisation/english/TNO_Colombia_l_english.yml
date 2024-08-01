@@ -1,19 +1,19 @@
 ﻿l_english:
-  COL: "Республіка Колумбія" #uses full name unlike others to differentiate in civil war
-  COL_DEF: "Республіка Колумбія"
-  COL_ADJ: "Колумбійськ"
+  COL: "Republic of Colombia" #uses full name unlike others to differentiate in civil war
+  COL_DEF: "the Republic of Colombia"
+  COL_ADJ: "Colombian"
 
-  CLC: "Нова Ґранада"
-  CLC_DEF: "Держава Нова Гранада"
-  CLC_ADJ: "Ново-Ґранадськ"
+  CLC: "New Granada"
+  CLC_DEF: "the State of New Granada"
+  CLC_ADJ: "New Granadine"
 
-  CLL: "Колумбійський революційний союз"
-  CLL_DEF: "Колумбійський революційний союз
-  CLL_ADJ: "Революційно-Колумбійськ"
+  CLL: "Colombian Revolutionary Union"
+  CLL_DEF: "the Colombian Revolutionary Union"
+  CLL_ADJ: "Colombian Revolutionary"
 
-  CLD: "Друга Вітчизняна Армія"
-  CLD_DEF: "Друга Вітчизняна Армія"
-  CLD_ADJ: "Свободно-Колумбійськ"
+  CLD: "Second Patriotic Army"
+  CLD_DEF: "the Second Patriotic Army"
+  CLD_ADJ: "Free Colombian"
   
 
   ## Colombia ##

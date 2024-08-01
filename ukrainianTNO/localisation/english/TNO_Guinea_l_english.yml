@@ -1,21 +1,21 @@
 ﻿l_english:
  ### Country Names ###
- SUS_socialist: "Ґвінея"
- SUS_socialist_DEF: "Соціалістична Республіка Ґвінея"
- SUS_progressivism: "Ґвінея"
- SUS_progressivism_DEF: "Ґвінейська Республіка"
- SUS_paternalism: "Ґвінея"
- SUS_paternalism_DEF: "Ґвінейська Республіка"
- SUS_ADJ: "Ґвінейськ"
+ SUS_socialist: "Guinea"
+ SUS_socialist_DEF: "the Socialist Republic of Guinea"
+ SUS_progressivism: "Guinea"
+ SUS_progressivism_DEF: "the Republic of Guinea"
+ SUS_paternalism: "Guinea"
+ SUS_paternalism_DEF: "the Republic of Guinea"
+ SUS_ADJ: "Guinean"
 
  ## Cosmetic Tags ##
- SUS_CAO: "Ґвінея"
- SUS_CAO_DEF: "Соціалістична Республіка Ґвінея"
- SUS_CAO_ADJ: "Ґвінейськ"
+ SUS_CAO: "Guinea"
+ SUS_CAO_DEF: "the Socialist Republic of Guinea"
+ SUS_CAO_ADJ: "Guinean"
 
- SUS_FFRPuppet: "Ґвінея"
- SUS_FFRPuppet_DEF: "Республіка Ґвінеяa"
- SUS_FFRPuppet_ADJ: "Ґвінейськ"
+ SUS_FFRPuppet: "Guinea"
+ SUS_FFRPuppet_DEF: "the Republic of Guinea"
+ SUS_FFRPuppet_ADJ: "Guinean"
 
  ### Parties ###
  SUS_communist_party: "PAIGC"

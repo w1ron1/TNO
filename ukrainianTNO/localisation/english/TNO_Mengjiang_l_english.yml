@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- MEN: "Об'єднаний автономний уряд Менцзян"
- MEN_DEF: "Об'єднаний автономний уряд Менцзян"
- MEN_ADJ: "Монгольск"
+ MEN: "Mengjiang United Autonomous Government"
+ MEN_DEF: "the Mengjiang United Autonomous Government"
+ MEN_ADJ: "Mongol"
 
  ### Parties ###
  MEN_communist_party: "Ovor Mongolyn Oortoo Zasakh Khodolgoonii Niigemleg"

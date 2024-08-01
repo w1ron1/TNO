@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- SAU: "Саудівська Аравія"
- SAU_DEF: "Королівство Саудівська Аравія"
- SAU_ADJ: "Саудівсько-Аравськ"
+ SAU: "Saudi Arabia"
+ SAU_DEF: "the Kingdom of Saudi Arabia"
+ SAU_ADJ: "Saudi Arabian"
 
  ### Parties ###
  SAU_communist_party: "MSS"

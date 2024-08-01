@@ -1,12 +1,12 @@
 ﻿l_english:
  ## Country Names ##
- GRO:0 "Африканський фронт оборони"
- GRO_DEF:0 "Африканський фронт оборони"
- GRO_ADJ:0 "Африканськ"
+ GRO:0 "Afrikaner-Abwehrfront"
+ GRO_DEF:0 "die Afrikaner-Abwehrfront"
+ GRO_ADJ:0 "Afrikaner"
 
- GRO_GER:0 "Райхскомісаріят Остафріка"
- GRO_GER_DEF:0 "Райхскомісаріят Остафріка"
- GRO_GER_ADJ:0 "Остафріканськ"
+ GRO_GER:0 "Reichskommissariat Ostafrika"
+ GRO_GER_DEF:0 "Reichskommissariat Ostafrika"
+ GRO_GER_ADJ:0 "Ostafrikan"
 
  ##### Investigation stuff #####
  GRO_investigation_gui_case_title_tt:0 "Offizielle Untersuchung des Ostafrikanischen Büros"

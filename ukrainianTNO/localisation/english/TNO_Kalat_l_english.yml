@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- KLT: "Калатське ханство"
- KLT_DEF: "Калатське ханство"
- KLT_ADJ: "Балушийськ"
+ KLT: "Khanate of Kalat"
+ KLT_DEF: "the Khanate of Kalat"
+ KLT_ADJ: "Balochi"
 
  ### Parties ###
  KLT_communist_party: "Parrari Movement"

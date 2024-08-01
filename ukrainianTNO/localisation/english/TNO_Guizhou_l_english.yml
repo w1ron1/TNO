@@ -13,9 +13,9 @@ GUZ_communist_party:0 "CPC Remnants"
 GUZ_communist_party_long:0 "CPC Remnants"
 
 ### Country Names ###
-GUZ:0 "Провінція Ґуйчжоу"
-GUZ_DEF:0 "Провінція Ґуйчжоу"
-GUZ_ADJ:0 "Ґуйчжоуськ"
+GUZ:0 "Guizhou Province"
+GUZ_DEF:0 "the Guizhou Province"
+GUZ_ADJ:0 "Guizhou"
 
 GUZ_He_Yingqin:0 "He Yingqin"
 GUZ_Lu_Han:0 "Lu Han"

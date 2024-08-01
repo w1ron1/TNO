@@ -3,13 +3,13 @@
 ###################
 ## COUNTRY NAMES ##
 ###################
-STC: "Санта Круз"
-STC_DEF: "Східна урядова комісія"
-STC_ADJ: "Східн"
+STC: "Santa Cruz"
+STC_DEF: "the Oriental Government Comission"
+STC_ADJ: "Oriental"
 
-STC_camba: "Камба"
-STC_camba_DEF: "Народ Камба"
-STC_camba_ADJ: "Камбаськ"
+STC_camba: "Camba"
+STC_camba_DEF: "the Camba Nation"
+STC_camba_ADJ: "Camba"
 
 #################
 ## PARTY NAMES ##

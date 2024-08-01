@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- MFP: "Прикордонні провінції"
- MFP_DEF: "Прикордонні провінції"
- MFP_ADJ: "Пуштунськ"
+ MFP: "Frontier Provinces"
+ MFP_DEF: "the Frontier Provinces"
+ MFP_ADJ: "Pashtun"
 
  ### Parties ###
  MFP_conservatism_party: "Pashtun Tribal Clans"

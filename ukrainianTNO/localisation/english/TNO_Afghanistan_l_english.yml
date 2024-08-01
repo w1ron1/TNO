@@ -1,20 +1,20 @@
 ﻿l_english:
  ### Country Names ###
- AFG: "Королівство Афганістан"
- AFG_DEF: "Королівство Афганістан"
- AFG_ADJ: "Афганськ"
+ AFG: "Kingdom of Afghanistan"
+ AFG_DEF: "the Kingdom of Afghanistan"
+ AFG_ADJ: "Afghan"
 
- AFG_republic: "Республіка Афганістан"
- AFG_republic_DEF: "Республіка Афганістан"
+ AFG_republic: "Republic of Afghanistan"
+ AFG_republic_DEF: "the Republic of Afghanistan"
 
- AFG_republic_amin: "Республіка Афганістан"
- AFG_republic_amin_DEF: "Республіка Афганістан"
+ AFG_republic_amin: "Republic of Afghanistan"
+ AFG_republic_amin_DEF: "the Republic of Afghanistan"
 
- AFG_mao: "Революційна Республіка Афганістан"
- AFG_mao_DEF: "Революційна Республіка Афганістан"
+ AFG_mao: "Revolutionary Republic of Afghanistan"
+ AFG_mao_DEF: "the Revolutionary Republic of Afghanistan"
 
- AFG_islamist: "Ісламський емірат Афганістан"
- AFG_islamist_DEF: "Ісламський емірат Афганістан"
+ AFG_islamist: "Islamic Emirate of Afghanistan"
+ AFG_islamist_DEF: "the Islamic Emirate of Afghanistan"
 
  ### Parties ###
  AFG_communist_party: "JEN"

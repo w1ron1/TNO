@@ -1,22 +1,22 @@
 ﻿l_english:
  ### Country Names ###
- EWE: "Гана"
- EWE_DEF: "Республіка Гана"
- EWE_socialist_DEF: "Соціалістична Республіка Гана"
- EWE_ADJ: "Ганськ"
+ EWE: "Ghana"
+ EWE_DEF: "the Republic of Ghana"
+ EWE_socialist_DEF: "the Socialist Republic of Ghana"
+ EWE_ADJ: "Ghanaian"
 
- CPP: "Народна партія Конвенту"
- CPP_DEF: "Народна партія Конвенту"
- CPP_ADJ: "Конвенційно-народно-партійськ"
+ CPP: "Convention People's Party"
+ CPP_DEF: "the Convention People's Party"
+ CPP_ADJ: "Convention People's Party"
 
  ## Cosmetic Tags ##
- EWE_FFRPuppet: "Гана"
- EWE_FFRPuppet_DEF: "Республіка Гана"
- EWE_FFRPuppet_ADJ: "Ганськ"
+ EWE_FFRPuppet: "Ghana"
+ EWE_FFRPuppet_DEF: "the Republic of Ghana"
+ EWE_FFRPuppet_ADJ: "Ghanaian"
 
- CPP_unified: "Гана"
- CPP_unified_DEF: "Соціалістична Республіка Гана"
- CPP_unified_ADJ: "Ганськ"
+ CPP_unified: "Ghana"
+ CPP_unified_DEF: "the Socialist Republic of Ghana"
+ CPP_unified_ADJ: "Ghanaian"
 
  ### Parties ###
  EWE_communist_party: "-"

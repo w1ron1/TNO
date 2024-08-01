@@ -1,7 +1,7 @@
 ﻿ l_english:
- GGN:0 "Ґенеральна губернія"
- GGN_DEF:0 "Ґенеральна губернія"
- GGN_ADJ:0 "Німецьк"
+ GGN:0 "Generalgouvernement"
+ GGN_DEF:0 "das Generalgouvernement"
+ GGN_ADJ:0 "German"
 
  #Parties - let it be known that GGN received political party loc more than a year after the video diary
 

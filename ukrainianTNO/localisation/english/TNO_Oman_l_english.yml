@@ -1,20 +1,20 @@
 ﻿l_english:
  ### Country Names ###
- OMA: "Оман"
- OMA_DEF: "Султанат Оман"
- OMA_ADJ: "Оманськ"
+ OMA: "Oman"
+ OMA_DEF: "the Sultanate of Oman"
+ OMA_ADJ: "Omani"
 
- OMB: "Повстання Дофар"
- OMB_DEF: "Повстання Дофар"
- OMB_ADJ: "Оманськ"
+ OMB: "Dhofar Rebellion"
+ OMB_DEF: "the Dhofar Rebellion"
+ OMB_ADJ: "Omani"
 
- OMI: "Імамат Оману"
- OMI_DEF: "Імамат Оману"
- OMI_ADJ: "Оманськ"
+ OMI: "Imamate of Oman"
+ OMI_DEF: "the Imamate of Oman"
+ OMI_ADJ: "Omani"
 
  ## Cosmetic Tags ##
- OMB_postwar: "Оманська Арабська Республіка"
- OMB_postwar_DEF: "Оманська Арабська Республіка"
+ OMB_postwar: "Omani Arab Republic"
+ OMB_postwar_DEF: "the Omani Arab Republic"
 
  ### Parties ###
  OMA_communist_party: "JSTKM"

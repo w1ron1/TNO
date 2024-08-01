@@ -1,15 +1,15 @@
 ﻿l_english:
  ### Country Names ###
- LAO: "Королівство Лаос"
- LAO_DEF: "Королівство Лаос"
- LAO_ADJ: "Лаоськ"
+ LAO: "Kingdom of Laos"
+ LAO_DEF: "the Kingdom of Laos"
+ LAO_ADJ: "Lao"
 
  ## Cosmetic Tags ##
- LAO_republic: "Республіка Лаос"
- LAO_republic_DEF: "Республіка Лаос"
+ LAO_republic: "Republic of Laos"
+ LAO_republic_DEF: "the Republic of Laos"
 
- LAO_LPDR: "Лаоська Соціалістична Республіка"
- LAO_LPDR_DEF: "Лаоська Соціалістична Республіка"
+ LAO_LPDR: "Lao Socialist Republic"
+ LAO_LPDR_DEF: "the Lao Socialist Republic"
 
  ### Parties ###
  LAO_communist_party: "NLHX"

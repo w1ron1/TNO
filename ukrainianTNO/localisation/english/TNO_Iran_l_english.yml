@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- PER: "Імператорська держава Іран"
- PER_DEF: "Імператорська держава Іран"
- PER_ADJ: "Іранськ"
+ PER: "Imperial State of Iran"
+ PER_DEF: "the Imperial State of Iran"
+ PER_ADJ: "Iranian"
 
  ### Parties ###
  PER_liberalism_party: "NAI"

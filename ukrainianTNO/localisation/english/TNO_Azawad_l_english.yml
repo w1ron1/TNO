@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- AZW: "Азавад"
- AZW_DEF: "Туарезька конфедерація Азавад"
- AZW_ADJ: "Азавадськ"
+ AZW: "Azawad"
+ AZW_DEF: "the Tuareg Confederation of Azawad"
+ AZW_ADJ: "Azawadi"
 
  ### Parties ###
  AZW_communist_party: "-"

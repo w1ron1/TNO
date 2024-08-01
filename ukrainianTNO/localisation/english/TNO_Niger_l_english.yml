@@ -1,13 +1,13 @@
 ﻿l_english:
  ### Country Names ###
- NGR: "Ніжер"
- NGR_DEF: "Республіка річки Ніжер
- NGR_ADJ: "Ніжерійськ"
+ NGR: "Niger"
+ NGR_DEF: "the Republic of the Niger River"
+ NGR_ADJ: "Nigerien"
 
  ## Cosmetic Tags ##
- NGR_FFRPuppet: "Ніжер"
- NGR_FFRPuppet_DEF: "Республіка річки Ніжер"
- NGR_FFRPuppet_ADJ: "Ніжерійськ"
+ NGR_FFRPuppet: "Niger"
+ NGR_FFRPuppet_DEF: "the Republic of the Niger River"
+ NGR_FFRPuppet_ADJ: "Nigerien"
 
  ### Parties ###
  NGR_communist_party: "-"

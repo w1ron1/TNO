@@ -1,15 +1,15 @@
 ﻿l_english:
  ### Country Names ###
- IBR: "Іберійський союз"
- IBR_DEF: "Іберійський союз"
- IBR_ADJ: "Іберійськ"
+ IBR: "Iberian Union"
+ IBR_DEF: "the Iberian Union"
+ IBR_ADJ: "Iberian"
 
  ## Cosmetic Tags ##
- IBR_CONGRESS: "Іберійська федерація"
- IBR_CONGRESS_DEF: "Іберійська федерація"
+ IBR_CONGRESS: "Iberian Federation"
+ IBR_CONGRESS_DEF: "the Iberian Federation"
 
- IBR_WARS: "Іберійський федеральний уряд"
- IBR_WARS_DEF: "Іберійський федеральний уряд"
+ IBR_WARS: "Iberian Federal Government"
+ IBR_WARS_DEF: "the Iberian Federal Government"
 
 #Parties (Game start)
  IBR_communist_party:0 "JCSPI"

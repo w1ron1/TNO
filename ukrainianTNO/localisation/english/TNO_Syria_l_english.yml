@@ -1,17 +1,17 @@
 ﻿l_english:
  ### Country Names ###
- SYR: "Сирійська Республіка"
- SYR_DEF: "Сирійська Республіка"
- SYR_ADJ: "Сирійськ"
+ SYR: "Syrian Republic"
+ SYR_DEF: "the Syrian Republic"
+ SYR_ADJ: "Syrian"
 
- SNS: "Сирійська національна держава"
- SNS_DEF: "Сирійська національна держава"
- SNS_ADJ: "Сирійськ"
+ SNS: "Syrian National State"
+ SNS_DEF: "the Syrian National State"
+ SNS_ADJ: "Syrian"
 
  ## Cosmetic Tags ##
- SNS_ITWD: "Сирійська Арабська Республіка"
- SNS_ITWD_DEF: "Сирійська Арабська Республіка"
- SNS_ITWD_ADJ: "Сирійськ"
+ SNS_ITWD: "Syrian Arab Republic"
+ SNS_ITWD_DEF: "the Syrian Arab Republic"
+ SNS_ITWD_ADJ: "Syrian"
 
  ### Parties ###
  SYR_communist_party: "HBAI"

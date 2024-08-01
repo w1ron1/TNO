@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- HAU: "Сокото"
- HAU_DEF: "Султанат Сокото"
- HAU_ADJ: "Сокотськ"
+ HAU: "Sokoto"
+ HAU_DEF: "the Sultanate of Sokoto"
+ HAU_ADJ: "Sokoto"
 
  ### Parties ###
  HAU_communist_party: "-"

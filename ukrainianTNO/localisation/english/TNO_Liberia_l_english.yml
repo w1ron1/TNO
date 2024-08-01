@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- LIB: "Республіка Ліберія"
- LIB_DEF: "Республіка Ліберія"
- LIB_ADJ: "Ліберійськ"
+ LIB: "Republic of Liberia"
+ LIB_DEF: "the Republic of Liberia"
+ LIB_ADJ: "Liberian"
 
  ### Parties ###
  LIB_communist_party:  "NPFL"

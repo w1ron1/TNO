@@ -1,21 +1,21 @@
 ﻿l_english:
  ### Country Names ###
- CYL: "Республіка Цейлон"
- CYL_DEF: "Республіка Цейлон"
- CYL_ADJ: "Цейлонськ"
- CYL_communist: "Соціалістична Республіка Шрі-Ланка"
- CYL_communist_DEF: "Соціалістична Республіка Шрі-Ланка"
- CYL_communist_ADJ: "Шрі-Ланськ"
- CYL_socialist: "Соціалістична Республіка Шрі-Ланка"
- CYL_socialist_DEF: "Соціалістична Республіка Шрі-Ланка"
- CYL_socialist_ADJ: "Шрі-Ланськ"
- CYL_progressivism: "Республіка Шрі-Ланка"
- CYL_progressivism_DEF: "Республіка Шрі-Ланка"
- CYL_progressivism_ADJ: "Шрі-Ланськ"
+ CYL: "Republic of Ceylon"
+ CYL_DEF: "the Republic of Ceylon"
+ CYL_ADJ: "Ceylonese"
+ CYL_communist: "Socialist Republic of Sri Lanka"
+ CYL_communist_DEF: "the Socialist Republic of Sri Lanka"
+ CYL_communist_ADJ: "Sri Lankan"
+ CYL_socialist: "Socialist Republic of Sri Lanka"
+ CYL_socialist_DEF: "the Socialist Republic of Sri Lanka"
+ CYL_socialist_ADJ: "Sri Lankan"
+ CYL_progressivism: "Republic of Sri Lanka"
+ CYL_progressivism_DEF: "the Republic of Sri Lanka"
+ CYL_progressivism_ADJ: "Sri Lankan"
 
  ## Cosmetic Tags ##
- CYL_OFN: "Адміністрація ОВН на Цейлоні"
- CYL_OFN_DEF: "Адміністрація ОВН на Цейлоні"
+ CYL_OFN: "OFN Administration of Ceylon"
+ CYL_OFN_DEF: "the OFN Administration of Ceylon"
 
  ### Parties ###
  CYL_communist_party: "LTTE"

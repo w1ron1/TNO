@@ -1,13 +1,13 @@
 ﻿l_english:
  ### Country Names ###
- NGA: "Ніжерія"
- NGA_DEF: "Республіка Ніжерія"
- NGA_ADJ: "Ніжерійськ"
+ NGA: "Nigeria"
+ NGA_DEF: "the Republic of Nigeria"
+ NGA_ADJ: "Nigerian"
 
  ## Cosmetic Tags ##
- NGA_CAOPuppet: "Ніжерія"
- NGA_CAOPuppet_DEF: "Африканська держава Ніжерія"
- NGA_CAOPuppet_ADJ: "Ніжерійськ"
+ NGA_CAOPuppet: "Nigeria"
+ NGA_CAOPuppet_DEF: "the African State of Nigeria"
+ NGA_CAOPuppet_ADJ: "Nigeria"
 
  ### Parties ###
  NGA_socialist_party: "NYM"
