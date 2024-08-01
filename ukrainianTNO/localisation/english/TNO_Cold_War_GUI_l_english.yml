@@ -293,9 +293,9 @@ Cold_War_GUI_ScoreRanking_Sufix_rd: "[?super_ranking]rd"
 Cold_War_GUI_ScoreRanking_Sufix_th: "[?super_ranking]th"
 
 ## Nukes Tab
-Cold_War_GUI_NuclearPowers_Title_tt: "ЯДЕРНА ПОТУЖНІСТЬ"
+Cold_War_GUI_NuclearPowers_Title_tt: "ЯДЕРНІ ДЕРЖАВИ"
 Cold_War_GUI_StockpileTitle_tt: "СТРАТЕГІЧНИЙ АРСЕНАЛ"
 Cold_War_GUI_DecommissionDisplay_DismantleQtd_Title_tt: "Демонтаж"
 Cold_War_GUI_DecommissionDisplay_CapQtd_Title_tt: "боєголовок на місяць, до мінімального рівня ядерних запасів у"
-Cold_War_GUI_Triad_Title_tt: "ЯДЕРНА ТРІЙЦЯ"
+Cold_War_GUI_Triad_Title_tt: "ЯДЕРНА ТРІАДА"
 Cold_War_GUI_Nuke_Confirmation_Tooltip_Title_tt: "ПІДТВЕРДИТИ ЗАПУСК ЯДЕРНОЇ ЗБРОЇ"
