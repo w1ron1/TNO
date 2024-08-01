@@ -2003,111 +2003,111 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
 
  ## 8.2.1 - BRAUTIGAM POWER STRUGGLE DECISIONS ##
 
- UKR_power_struggle_appeal_to_the_unc: "Appeal to the UNC"
- UKR_power_struggle_gather_corporate_allies: "Gather Corporate Allies"
- UKR_power_struggle_build_collaborator_connections: "Build Collaborator Connections"
- UKR_power_struggle_welcome_foreign_office_dissidents: "Welcome Foreign Office Dissidents"
- UKR_power_struggle_call_for_moderation_against_partisans: "Call for Moderation Against Partisans"
- UKR_power_struggle_call_for_moderation_against_partisans_2: "Call for Moderation Against Partisans"
- UKR_power_struggle_negotiate_lower_grain_quotas: "Negotiate Lower Grain Quotas"
- UKR_power_struggle_push_against_harsher_measures: "Push Against Harsher Measures"
+ UKR_power_struggle_appeal_to_the_unc: "Звернення до УГА"
+ UKR_power_struggle_gather_corporate_allies: "Залучати корпоративних союзників"
+ UKR_power_struggle_build_collaborator_connections: "Створити зв'язки з колегами"
+ UKR_power_struggle_welcome_foreign_office_dissidents: "Ласкаво просимо, дисиденти МЗС"
+ UKR_power_struggle_call_for_moderation_against_partisans: "Закликати до поміркованості проти партизанів"
+ UKR_power_struggle_call_for_moderation_against_partisans_2: "Закликати до поміркованості проти партизанів"
+ UKR_power_struggle_negotiate_lower_grain_quotas: "Вести переговори про зниження квот на зерно"
+ UKR_power_struggle_push_against_harsher_measures: "Виступити проти більш жорстких заходів"
 
  ## 8.2.2 - LEIBBRANDT POWER STRUGGLE DECISIONS ##
 
- UKR_power_struggle_tighten_the_unc_grip: "Tighten The UNC Grip"
- UKR_power_struggle_reassure_the_businessmen: "Reassure The Businessmen"
- UKR_power_struggle_assuage_the_orthodoxy: "Assuage The Orthodoxy"
- UKR_power_struggle_isolate_ohlendorfs_allies: "Isolate Ohlendorf's Allies"
- UKR_power_struggle_empower_loyal_collaborators: "Empower Loyal Collaborators"
+ UKR_power_struggle_tighten_the_unc_grip: "Затягніть рукоятку УГА"
+ UKR_power_struggle_reassure_the_businessmen: "Заспокоїти бізнесменів"
+ UKR_power_struggle_assuage_the_orthodoxy: "Заспокоїти православних"
+ UKR_power_struggle_isolate_ohlendorfs_allies: "Ізолювати союзників Олендорфа"
+ UKR_power_struggle_empower_loyal_collaborators: "Заохочувати лояльних колабораціоністів"
  UKR_power_struggle_empower_loyal_collaborators_decision_cost: "£GFX_weapon_icon  §Y100§!  £GFX_political_power_texticon  §Y25§!"
  UKR_power_struggle_empower_loyal_collaborators_decision_cost_blocked: "£GFX_weapon_icon  §R100§!  £GFX_political_power_texticon  §R25§!"
- UKR_power_struggle_bring_in_foreign_academics: "Bring In Foreign Academics"
- UKR_power_struggle_sacrifice_for_greater_good: "Sacrifice For Greater Good"
+ UKR_power_struggle_bring_in_foreign_academics: "Залучати іноземних науковців"
+ UKR_power_struggle_sacrifice_for_greater_good: "Жертва заради більшого блага"
 
  ## 8.2.3 - OHLENDORF POWER STRUGGLE DECISIONS ##
 
- UKR_power_struggle_increase_hours_for_selbstschutz: "Increase Hours for Selbstschutz"
- UKR_power_struggle_spend_money_on_german_businesses: "Spend VoMi Money on German Businesses"
- UKR_power_struggle_requisition_gefepo_manpower: "Requisition GeFePo Manpower"
- UKR_power_struggle_appoint_ex_shupo_officers: "Appoint Ex-Shupo Officers as Elders"
- UKR_power_struggle_blame_softness_for_partisan_activity: "Blame Softness for Partisan Activity"
- UKR_power_struggle_employ_loyal_ukrainians_in_ss_enterprises: "Employ Loyal Ukrainians in SS Enterprises"
- UKR_power_struggle_mobilize_reservist_policemen: "Mobilize Reservist Policemen"
- UKR_power_struggle_squeeze_informants: "Squeeze the Informants"
- UKR_power_struggle_call_the_cdbkv_intel: "Call the CdBKV for Intelligence"
+ UKR_power_struggle_increase_hours_for_selbstschutz: "Збільшення часу для самозахисту"
+ UKR_power_struggle_spend_money_on_german_businesses: "Витрачайте гроші VoMi на німецький бізнес"
+ UKR_power_struggle_requisition_gefepo_manpower: "Заявка на людські робочу силу GeFePo"
+ UKR_power_struggle_appoint_ex_shupo_officers: "Призначити колишніх офіцерів «Шупо» старійшинами"
+ UKR_power_struggle_blame_softness_for_partisan_activity: "М'якість покарання за партизанську діяльність"
+ UKR_power_struggle_employ_loyal_ukrainians_in_ss_enterprises: "Працевлаштовувати лояльних українців на підприємствах СС"
+ UKR_power_struggle_mobilize_reservist_policemen: "Мобілізувати поліцейських-резервістів"
+ UKR_power_struggle_squeeze_informants: "Тиснути на інформаторів"
+ UKR_power_struggle_call_the_cdbkv_intel: "Зверніться до CdBKV за розвідданими"
 
  ### 8.3 - BITTER HARVEST DECISIONS ###
- UKR_UCW_show_generic_actions: "Show §YGeneric Actions§!"
- UKR_UCW_hide_generic_actions: "Hide §YGeneric Actions§!"
- UKR_UCW_show_faction_actions: "Show §RFaction-Specific Actions§!"
- UKR_UCW_hide_faction_actions: "Hide §RFaction-Specific Actions§!"
+ UKR_UCW_show_generic_actions: "Показати §YГенеральні дії§!"
+ UKR_UCW_hide_generic_actions: "Сховати §YГенеральні дії§!"
+ UKR_UCW_show_faction_actions: "Показати §RДії спрямовані на фракцій§!"
+ UKR_UCW_hide_faction_actions: "Сховати §RДії спрямовані на фракцій§!"
  
- UKR_UCW_seize_civilian_supplies: "Seize Civilian §nSupplies§!"
+ UKR_UCW_seize_civilian_supplies: "Захоплення цивільних §nприпасів§!"
  UKR_UCW_seize_civilian_supplies_desc: ""
  
- UKR_UCW_token_ration_increases: "Token Ration Increases"
+ UKR_UCW_token_ration_increases: "Збільшення жетонних пайків"
  UKR_UCW_token_ration_increases_desc: ""
  
- UKR_UCW_direct_supplies_towards_the_military: "Redirect §nSupplies§! Towards the Military"
+ UKR_UCW_direct_supplies_towards_the_military: "Перенаправляємо §nПрипаси§! Для Військових"
  UKR_UCW_direct_supplies_towards_the_military_desc: ""
  
- UKR_UCW_food_for_enlistment: "§nFood§! for Service"
+ UKR_UCW_food_for_enlistment: "§nЇжа§! для служби"
  UKR_UCW_food_for_enlistment_desc: ""
  
- UKR_UCW_propaganda_campaign: "Propaganda Campaign"
+ UKR_UCW_propaganda_campaign: "Пропагандистська кампанія"
  UKR_UCW_propaganda_campaign_desc: ""
  
- UKR_UCW_reorganize_industry_for_miltary_purposes: "Reorganize Industry for Military Purposes"
+ UKR_UCW_reorganize_industry_for_miltary_purposes: "Реорганізація промисловості для військових цілей"
  UKR_UCW_reorganize_industry_for_miltary_purposes_desc: ""
  
- UCW_brothers_war: "§RThe Brother's War Intensifies!§!"
- UCW_brothers_war_intensify: "§RThe effects of the §YBrother's War§! national spirit will §Vintensify§!.§!"
+ UCW_brothers_war: "§RБратська війна посилюється!§!"
+ UCW_brothers_war_intensify: "§RЕфекти від §YБратської війни§! будуть §Vпосилюватися§!.§!"
  
- UKR_UCW_haggle_with_industrialists: "Haggle With §LIndustrialists§!"
- UKR_UCW_haggle_with_industrialists_desc: "Many industrialists are still unsure about their loyalties - but this can change. Leibbrandt believes that factories are crucial, more crucial than the others give them credit. If he convinces the council, he can trade off some of the current supplies to the factory guards in return for their loyalty - making certain that the war can continue as long as the government requires."
+ UKR_UCW_haggle_with_industrialists: "Торгуйтеся з §LПромисловцями§!"
+ UKR_UCW_haggle_with_industrialists_desc: "Багато промисловців досі не впевнені у своїй лояльності - але це може змінитися. Лейббрандт вважає, що фабрики мають вирішальне значення, більш важливе, ніж інші вважають. Якщо йому вдасться переконати раду, він зможе віддати частину поточних поставок фабричній охороні в обмін на їхню лояльність, що гарантуватиме, що війна може тривати стільки, скільки буде потрібно уряду."
  
- UKR_UCW_secure_farms_and_factories: "Secure the §fFarms§! and §wFactories§!"
- UKR_UCW_secure_farms_and_factories_desc: "Why bother with haggling and so forth? This is war. There will be no future for the industrialists without the Germans - they can be left to rot a little further, while more supplies go to the army that truly needs it. The fact that this will make Ohlendorf a hero to the military is irrelevant, of course."
+ UKR_UCW_secure_farms_and_factories: "Захистити §fФерми§! та §wзаводи§!"
+ UKR_UCW_secure_farms_and_factories_desc: "Навіщо торгуватися і так далі? Це ж війна. Без німців у промисловців не буде майбутнього - їх можна залишити гнити ще трохи, поки більше поставок піде до армії, яка цього справді потребує. Те, що це зробить Олендорфа героєм для військових, звісно, не має значення."
  
- UKR_UCW_rally_german_peasantry: "Rally §jGerman§! Settlers"
- UKR_UCW_rally_german_peasantry_desc: "The German population of the Reichskommissariat are often quite poor, and the level of danger in the Reichskommissariat due to the bandit threat has led many to flee, something that we cannot allow. While the Council will not allow Bräutigam to give food to the Ukrainians, they will allow him to give it to Germans, raising his popularity and morale with the settlers."
+ UKR_UCW_rally_german_peasantry: "З'їзд §jНімецьких§! поселенців"
+ UKR_UCW_rally_german_peasantry_desc: "Німецьке населення Райхскомісаріяту часто досить бідне, а рівень небезпеки в Райхскомісаріяті через бандитську загрозу змушує багатьох втікати, чого ми не можемо допустити. Хоча Рада не дозволить Браутігаму роздавати їжу українцям, вона дозволить йому роздавати її німцям, що підніме його популярність і моральний дух серед поселенців."
  
- UKR_UCW_a_collaborator_brigade: "A §QCollaborator Brigade§!"
- UKR_UCW_a_collaborator_brigade_desc: "Until now, Ohlendorf has been extremely against allowing for a native partisan brigade. It seems that may soon need to change. For the first time, he is receptive to the idea - with his own stipends, of course - but with the stamp of the council, a collaborator brigade may join the ranks!"
- UCW_a_collaborator_brigade_tt: "§YTwo elite §ncollaborator brigades§! will join us in the front lines for the §Jduration of this decision.§!§!"
- UCW_a_collaborator_brigade_2_tt: "§YThe collaborator brigades will §Rstop serving us.§!§!"
+ UKR_UCW_a_collaborator_brigade: "§QКолабораціоністська бригада§!"
+ UKR_UCW_a_collaborator_brigade_desc: "Досі Олендорф був категорично проти створення місцевої партизанської бригади. Схоже, що незабаром це може змінитися. Вперше він сприйнятливий до цієї ідеї - звісно, зі своєю власною стипендією, - але з печаткою ради бригада колабораціоністів може приєднатися до його лав!"
+ UCW_a_collaborator_brigade_tt: "§YДві елітні §nбригади колабораціоністів§! приєднаються до нас на передовій на час §Jвиконання цього рішення.§!§!"
+ UCW_a_collaborator_brigade_2_tt: "§YКолабораціоністські бригади §Rперестануть нам служити.§!§!"
 
- UKR_UCW_expand_einsatzgruppen: "Expand the Kampfgruppe"
+ UKR_UCW_expand_einsatzgruppen: "Розширити бойову групу"
  UKR_UCW_expand_einsatzgruppen_desc: ""
 
- UKR_UCW_exploit_nat_council: "Exploit the UNC"
+ UKR_UCW_exploit_nat_council: "Використовуйте УГА"
  UKR_UCW_exploit_nat_council_desc: ""
 
- UKR_UCW_favors_industrialists: "Favors From The Industrialists"
+ UKR_UCW_favors_industrialists: "Послуги від промисловців"
  UKR_UCW_favors_industrialists_desc: ""
 
  #UKR_UCW_trace_heerema: "Слідами Хіреми" #Скоріш за усе видалиться потім
  #UKR_UCW_trace_heerema_desc: ""
 
- UKR_UCW_gotenland_envoy: "Send An Envoy to Gotenland"
- UKR_UCW_gotenland_envoy_desc: "The Gotenland Government is currently assembling its own defense, but with a united campaign we could do more. First, we need to contact them. With a loyal and high-ranking envoy, we can hopefully open up diplomatic channels."
+ UKR_UCW_gotenland_envoy: "Надішліть посланця до Готенланду"
+ UKR_UCW_gotenland_envoy_desc: "Уряд Готенланду наразі збирає власний захист, але за допомогою об'єднаної кампанії ми могли б зробити більше. По-перше, нам потрібно зв'язатися з ними. Маючи лояльного і високопоставленого посланника, ми можемо сподіватися, що зможемо відкрити дипломатичні канали."
 
- UKR_UCW_gotenland_aid: "Request Gotenland Aid"
- UKR_UCW_gotenland_aid_desc: "With diplomacy open with Gotenland, we now have the ability to ask for more. While they will likely refuse sending their troops, aid would still help us survive longer - thus saving them from battle."
+ UKR_UCW_gotenland_aid: "Зверніться за допомогою до Готенланду"
+ UKR_UCW_gotenland_aid_desc: "З відкритою дипломатією з Готенландом ми можемо просити про більше. Хоча вони, скоріш за все, відмовляться надсилати свої війська, допомога все одно допоможе нам протриматися довше - і тим самим врятує їх від битви."
 
- UKR_UCW_reach_out_bulgaria: "Reach Out to Bulgaria"
- UKR_UCW_reach_out_bulgaria_desc: "We need resources to survive. Bulgaria, with its Slavic background and monarchist administration, is hardly a normal ally, but it is a dependable one, stable after decades of service. If they can provide help through Gotenland, that will let us last longer."
+ UKR_UCW_reach_out_bulgaria: "Зверніться до Болгарії"
+ UKR_UCW_reach_out_bulgaria_desc: "Нам потрібні ресурси, щоб вижити. Болгарія, з її слов'янським походженням і монархічною адміністрацією, навряд чи є нормальним союзником, але це надійний союзник, стабільний після десятиліть служби. Якщо вони зможуть надати допомогу через Готенланд, це дозволить нам протриматися довше."
 
- UKR_UCW_reach_out_turkey: "Reach Out to Turkey"
- UKR_UCW_reach_out_turkey_desc: "We need resources to survive, and given the state of production our abilities to create a food supply are woefully limited. Yet Turkey abounds with food. They are no ally to the Germans for now, but if we can get their assistance in the name of continental stability, we will be better off."
+ UKR_UCW_reach_out_turkey: "Зверніться до Туреччини"
+ UKR_UCW_reach_out_turkey_desc: "Нам потрібні ресурси, щоб вижити, а з огляду на стан виробництва, наші можливості створювати запаси продовольства вкрай обмежені. А от у Туреччині їжі вдосталь. Наразі вона не є союзником німців, але якщо ми зможемо отримати їхню допомогу в ім'я стабільності на континенті, нам буде краще."
 
- UKR_UCW_reach_out_romania: "Reach Out to Rumania"
- UKR_UCW_reach_out_romania_desc: "If we are looking to foriegn nations for resources, our best bet will likely be with Romania, who has reason to help us, food to give us, and previous ties to the Reich. It may be led by a near-democracy, but that doesn't mean they won't see reason."
+ UKR_UCW_reach_out_romania: "Зверніться до Румунії"
+ UKR_UCW_reach_out_romania_desc: "Якщо ми шукаємо ресурси в інших країнах, то найкращим варіантом для нас буде Румунія, яка має причини допомагати нам, давати нам їжу і має давні зв'язки з Райхом. Вона може очолювати майже демократичну країну, але це не означає, що вони не побачать причини."
 
- UKR_UCW_RK_reach_out_italy: "Reach Out to Italy"
- UKR_UCW_RK_reach_out_italy_desc: "War can create allies in strange places. Italy may be our enemy, but they understand our suffering - they have dealt with revolution and feel its effects even now. They certainly will have the resources to help. The largest hurdle is creating diplomatic channels - but with our envoys to Germania essentially out of work, they can assist here."
+ UKR_UCW_RK_reach_out_italy: "Зверніться до Італії"
+ UKR_UCW_RK_reach_out_italy_desc: "Війна може знайти союзників у найнесподіваніших місцях. Італія може бути нашим ворогом, але вони розуміють наші страждання - вони пережили революцію і відчувають її наслідки навіть зараз. Вони, безумовно, матимуть ресурси, щоб допомогти. Найбільшою перешкодою є створення дипломатичних каналів - але оскільки наші посланці в Німеччині практично не працюють, вони можуть допомогти і тут."
 
- UKR_PU: "We will §Ggain§! §Y1§! £tt_prod_unit Production Unit(s)"
+ UKR_PU: "Ми §Gотримаємо§! §Y1§! £tt_prod_unit Виробничу одиницю(і)"
 
  ### 8.4 - DESTINY DECISIONS ###
  UKR_destiny_category: "§CПрихильність долі§!"
@@ -2553,7 +2553,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  Supply_moderate: "§OПомірно§!"
  Supply_scarce: "§RДефіцит§!"
  Supply_depleted: "§xВиснажено§!"
- Supply_dead: "§eПусті коробки"
+ Supply_dead: "§eПусті коробки§!"
  
  #"OUR" section
  
@@ -2569,7 +2569,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UCW_North_Ukraine: "Регіон: Північ"
  UCW_East_Ukraine: "Регіон: Захід"
 
- UCW_sidebar_title_tt: "Це §Yрегіон постачання§! до якого належить держава §Y[THIS.GetName]§! Будучи частиною цього регіону постачання, this region shares the §Msame amount of§! £UKR_supply_texticon §Jsupply pieces§! with all of the states it comprises.\n\nThis means that it is possible to raid an enemy state that shares the same supply region that your country resides in, and have the entire supply region's £UKR_supply_texticon §Jsupply pieces§! deplete simultaneously."
+ UCW_sidebar_title_tt: "Це §Yрегіон постачання§! до якого належить держава §Y[THIS.GetName]§! Будучи частиною цього регіону постачання, цей регіон має §Mоднакову кількість§! £UKR_supply_texticon §Jкомпектуючих§! з усіма державами що входять до її складу.\n\nЦе означає, що можна здійснити набіг на ворожу державу, яка знаходиться в тому ж регіоні постачання, що і ваша країна, і отримати весь регіон постачання £UKR_supply_texticon §Jкомплектуючі§! виснажуються одночасно."
  UCW_sidebar_title_delayed_tt: "[getUCWStatesinRegion]"
  UCW_west_region_states: "§YСписок держав, що входять до цього регіону:§!\n[1431.GetName]\n[93.GetName]\n[201.GetName]\n[199.GetName]\n[1429.GetName]\n[1430.GetName]"
  UCW_south_region_states: "§YСписок держав, що входять до цього регіону:§!\n[773.GetName]\n[203.GetName]\n[197.GetName]\n[226.GetName]"
@@ -2591,10 +2591,10 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  
  UKR_destiny_begin_tt: "Незабаром буде вирішено §CДолю§! §MУкр§!§Yаїни§! оберіть варіант у категорії §CПрихільність долі§! у рішеннях, інакше §Rвоно буде обрано за вас§!."
  UKR_destiny_done_tt: "§CДоля§! обрала улюбленця."
- UKR_intro_a_visit_for_old_times_sake_tt: "§CDestiny§!'s work will soon come to an §Rend§!."
- UKR_remind_diplomats_of_hitlers_decree_tt: "§gBräutigam§! and his fellow £SGR_NSDAP_Dissident §gsentimentalists§! have overstepped their bounds. §RIt is time to remind §gthem§! of their duties.§!"
- UKR_but_humble_the_selfrighteous_prussian_tt: "§oOhlendorf§! has given himself too much credit for what §YI§! have achieved. §RI will put §ohim§! in his place.§!"
- UKR_thatll_keep_the_deputy_busy_tt: "If §BLeibbrandt§! cares so much for the §BSlavic degenerates§!, maybe he will actually do his §Gjob§! instead of §Rwhining§!."
+ UKR_intro_a_visit_for_old_times_sake_tt: "Праця §CДолі§! незабаром §Rзакінчиться§!."
+ UKR_remind_diplomats_of_hitlers_decree_tt: "§gБраутігам§! і його побратими з партії £SGR_NSDAP_Dissident §gсентименталісти§! перейшли усі межи. §RНастав час §gїм§! нагадати про їхні обов'язки.§!"
+ UKR_but_humble_the_selfrighteous_prussian_tt: "§oОлендорф§! занадто високо цінує те, що §Yми§! досягли have achieved. §RЯ повставлю §oйого§! його на своє місце.§!"
+ UKR_thatll_keep_the_deputy_busy_tt: "Якщо §BЛяйббрандт§! піклується про §BСлов'янських дегенератів§!, то можливо він дійсно зробить свою §Gпрацю§! а не буде §Rскиглити§!."
  UKR_skip_noc_holdings_tt: "§LHeerema§! and his little §Lcompany§! have no need for funds that must go to §Ymore important projects§!. §RI am sure he will understand.§!"
  UKR_the_committee_in_our_grasp_tt: "Our £UKR_collab_texticon §Qcollaborators§! could do with some §Gsupport§!. §RBut we will not let them entertain any independent ideas.§!"
  UKR_finish_up_the_third_phase_of_gpo_tt: "§F§OThird Phase§! of §oGeneralplan Ost§! will be updated to the §VFinalized§! §OThird Phase§! of §oGeneralplan Ost§! in our assorted laws.§!"
@@ -2645,8 +2645,8 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_FUK_collaboration_gonna_be_less_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Geasier§!, benefitting §gOhloblyn§!."
 
  ### COMMUNISTS PRE-UCW ###
- UKR_ukrainization_yes: "We have decided to §Gexpand§! Ukrainization in our eastern base territory."
- UKR_ukrainization_no: "We have decided to §Bcompromise§! with the Russian-speaking minority in our eastern base territory."
+ UKR_ukrainization_yes: "Ми вирішили §Gрозповсюдити§! Українізацію на території на якій ми базуємось."
+ UKR_ukrainization_no: "Ми вирішили піти на §Bкомпроміс§! з російськомовною меншиною на нашій території на якій ми базуємось."
 
  ### RKU UCW ###
  UKR_the_depth_of_decay_tt: "Consumed by degeneracy, the £UKR_reichskommissariat §jReichskommissariat§! has fallen into chaos. We must restore order.\n\n§RNo matter the cost.§!"
@@ -2691,7 +2691,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_RK_war_within_change_pop_U_tt: "§FMonthly Population:§! [?U|%+=]"
  UKR_RK_war_within_change_stab_U_tt: "§FWeekly Stability:§! [?U|%+=]"
  UKR_RK_war_within_change_resistance_activity_U_tt: "§FResistance Activity Chance:§! [?U|%-=]"
- UKR_RK_war_within_change_resistance_growth_U_tt: "§FResistance Growth Speed:§! [?U|%-=]"
+ UKR_RK_war_within_change_resistance_growth_U_tt: "§FШвидкість зростання опору:§! [?U|%-=]"
  UKR_RK_war_within_change_resistance_decay_U_tt: "§FResistance Decay Speed:§! [?U|%+=]"
  UKR_RK_war_within_change_garrison_factor_U_tt: "§FRequired Garrisons:§! [?U|%-=]"
  UKR_RK_war_within_enable_compliance_tt: "§FCompliance Gain:§! §GEnabled§!"
@@ -2703,14 +2703,14 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_RK_all_alone_change_natsoc_drift_P_tt: "Modify §YAll Alone§! by\nDaily National Socialism Support: [?P|+=]"
 
  UKR_RK_panacea_add_tt: "§FAdd §YPanacea§!, which grants (Monthly Population: §R-75.0%§!, Weekly Stability: §R-0.05%§!, Weekly £UKR_supply_texticon  Grain Consumption: §G-10.00)§!"
- UKR_RK_panacea_header_tt: "§FModify §YPanacea§! by§!\n"
+ UKR_RK_panacea_header_tt: "§FЗмінити §YПанацею§! за допомогою§!\n"
 
- UKR_RK_panacea_change_monthly_pop_C_tt: "§FMonthly Population:§! [?C|%+=]"
- UKR_RK_panacea_change_stability_weekly_C_tt: "§FWeekly Stability:§! [?C|%+=]"
- UKR_RK_panacea_change_supply_consumption_C_tt: "§FWeekly £UKR_supply_texticon  Grain Consumption:§! [?C|-=]"
+ UKR_RK_panacea_change_monthly_pop_C_tt: "§FЩомісячне населення:§! [?C|%+=]"
+ UKR_RK_panacea_change_stability_weekly_C_tt: "§FЩотижнева стабільність:§! [?C|%+=]"
+ UKR_RK_panacea_change_supply_consumption_C_tt: "§FЩотижневе £UKR_supply_texticon  Споживання зерна:§! [?C|-=]"
 
- UCW_supply_amount_increase_tt: "This will §Gincrease§! our £UKR_supply_texticon  §ngrain stockpile§! by §G[?UCW_supply_temp]§!."
- UCW_supply_amount_decrease_tt: "This will §Rdecrease§! our £UKR_supply_texticon  §ngrain stockpile§! by §R[?UCW_supply_temp]§!."
+ UCW_supply_amount_increase_tt: "Це призведе до §Gзбільшення§! наших £UKR_supply_texticon  §nзернових запасів§! на §G[?UCW_supply_temp]§!."
+ UCW_supply_amount_decrease_tt: "Це призведе до §Rзменшення§! наших £UKR_supply_texticon  §nзернових запасів§! на §R[?UCW_supply_temp]§!."
 
  # Decision tooltips
  10_supply_35_pp: "£UKR_supply_texticon  §Y10%§!  £political_power_texticon  §Y35§!"
@@ -2731,7 +2731,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_UCW_scouts_text_blocked: "£UKR_supply_texticon §R20§! £political_power_texticon §R25§! £weapon_icon §R100§! £manpower_icon §R250§!"
  UKR_UCW_infiltration_text: "£UKR_supply_texticon §Y10§! £political_power_texticon §Y40§! £weapon_icon §Y100§! £manpower_icon §Y50§!"
  UKR_UCW_infiltration_text_blocked: "£UKR_supply_texticon §R10§! £political_power_texticon §R40§! £weapon_icon §R100§! £manpower_icon §R50§!"
- UCW_supply_doing_decision: "Already doing a decision to manage supplies."
+ UCW_supply_doing_decision: "Вже прийняли рішення щодо управління поставками."
 
  25_pp_1500_men_150_eq: "£political_power_texticon  §Y25§! £manpower_texticon §Y1500§! £weapon_icon §Y150§!"
  25_pp_1500_men_150_eq_blocked: "£political_power_texticon  §R25§! £manpower_texticon §R1500§! £weapon_icon §R50§!"
@@ -2744,32 +2744,32 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_power_struggle_active: "The §RPower Struggle§! Has Begun"
  
  # Debug
- UCW_supply_debug: "§xDEBUG:§! Left click to add 50 | Right click to subtract 50"
+ UCW_supply_debug: "§xДЕБАГ:§! Клацніть лівою кнопкою миші, щоб додати 50 | Клацніть правою кнопкою миші, щоб відняти 50" # Їх ніхто не побачить тому мені похуй які баги я зроблю, не їбіть мене з цим
 
  # BREADBASKET DYNMOD
 
- UKR_bb_national_dynmod_change_tt: "(§YBreadbasket of the Reich§!)"
+ UKR_bb_national_dynmod_change_tt: "(§YЖитниця Райху§!)"
 
  UKR_bb_national_dynmod_stab_tt: "   §FСтабільність:§! [?U|%+=]"
  UKR_bb_national_dynmod_resources_tt: "   §FЕфективність використання ресурсів:§! [?U|%+=]"
  UKR_bb_national_dynmod_gdp_tt: "   §FЗростання ВВП:§! [?U|%+=]"
- UKR_bb_national_dynmod_trade_op_tt: "   §FТоргова думка:§! [?U|%+=]"
+ UKR_bb_national_dynmod_trade_op_tt: "   §FТоргівельна думка:§! [?U|%+=]"
  UKR_bb_national_dynmod_civ_spend_tt: "   §FЦивільні витрати:§! [?U|%+=]"
  UKR_bb_national_dynmod_pop_tt: "   §FЩомісячне населення:§! [?U|%+=]"
  UKR_bb_national_dynmod_cp_tt: "   §FЩоденний приріст командної сили:§! [?U|+=]"
 
  # don't mind me :)
- UKR_nuked_tt: "Germany has deployed the greatest tool in its arsenal against the Ukrainians. May God have mercy on their souls."
- UKR_nuke_ending_tt: "§xFascism begins with disrespect of the individual and ends with the destruction of peoples.§!\n§xUkraine was not the first victim, nor will it be the last.§!\n§YThank you for playing Ukraine - and try not to get nuked next time.§!"
+ UKR_nuked_tt: "Німеччина розгорнула проти Українців найбільший інструмент у своєму арсеналі. Нехай Господь помилує їхні душі."
+ UKR_nuke_ending_tt: "§xФашизм починається з неповаги до особистості, а закінчується знищенням народів.§!\n§xУкраїна не була першою жертвою, і не буде останньою.§!\n§YДякуємо за гру за Україну - і постарайтеся наступного разу не потрапити під ядерне бомбардування.§!" # Стоп... ЩО?!
 
  ### 10.2 - Assorted Laws
 
  UKR_get_law_tooltip: "[GetAssortedLawsDescUKR]"
 
- UKR_add_uncategorised_law_tt: "§F§W[GetAssortedLawsUKR]§! will be added to our assorted laws.§!"
- UKR_remove_uncategorised_law_tt: "§F§W[GetAssortedLawsUKR]§! will be removed from our assorted laws.§!"
+ UKR_add_uncategorised_law_tt: "§F§W[GetAssortedLawsUKR]§! буде додано до наших законів.§!"
+ UKR_remove_uncategorised_law_tt: "§F§W[GetAssortedLawsUKR]§! буде вилучено з наших законів.§!"
 
- UKR_GPO_law_0: "§OThird Phase§! of §oGeneralplan Ost§!"
+ UKR_GPO_law_0: "§OТретя фаза§! §oГенплана Ост§!"
  UKR_GPO_law_desc_0: "§oGeneralplan Ost§! exists to prepare for an eventual §rGerman domination§! of all of §BEastern§! §YEurope§! through §Vethnic cleansing§!. The §OThird Phase§!, beginning in the mid-fifties, has focused less on utilizing mass murder to create this demographic shift, instead using contraception and poor health through limited care to induce a decline in Eastern Europeans. It also has granted increased latitude to local £UKR_bureaucracy_texticon §rReichskommissars§!, who have taken the policy in varying directions - unsurprisingly, Koch has been §Vhardline on the topic.§!"
  UKR_GPO_law_1: "§VFinished§! §OThird Phase§! of §oGeneralplan Ost§!"
  UKR_GPO_law_desc_1: "Generalplan Ost§! exists to prepare for an eventual §rGerman domination§! of all of §BEastern§! §YEurope§! through §Vethnic cleansing§!. The §OThird Phase§!, which began in the mid-fifties, continued the process through settlement and limitations on Ukrainian livelihoods. With its completion, the £UKR_bureaucracy_texticon §rReichskommissariat§! has met its goals for §jGermanization§! over the last five years, capping off fifteen years of fruitful service from the §rReichskommissar§!."

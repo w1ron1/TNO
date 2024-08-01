@@ -51,13 +51,13 @@
 ############################
 # Country Names - Starting #
 ############################
-ENG:0 "United Kingdom"
-ENG_DEF:0 "the United Kingdom of Great Britain"
-ENG_ADJ:0 "British"
+ENG:0 "Сполучене Королівство"
+ENG_DEF:0 "Сполучене Королівство Великої Британії"
+ENG_ADJ:0 "Британськ"
 
-FEN:0 "Free Britain"
-FEN_DEF:0 "Her Majesty's Most Loyal Resistance"
-FEN_ADJ:0 "Free British"
+FEN:0 "Вільна Британія"
+FEN_DEF:0 "Найвідданіший Опір Її Величності"
+FEN_ADJ:0 "Вільно-Британськ"
 
 ##########################
 # Party names - Starting #
@@ -155,9 +155,9 @@ ENG_fascism_1_fountaine:0 "$ENG_fascism_1_party_fountaine$"
 ENG_fascism_2_fountaine:0 "$ENG_fascism_2_party_fountaine$"
 ENG_fascism_3_fountaine:0 "$ENG_fascism_3_party_fountaine$"
 
-#############
+###################
 # Character names #
-#############
+###################
 
 ###Collab
 
