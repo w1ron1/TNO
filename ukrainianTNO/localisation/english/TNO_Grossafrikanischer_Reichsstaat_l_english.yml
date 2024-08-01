@@ -6,19 +6,19 @@
  SOUTH_AFRICAN_DEMOCRATIC_FRONT: "South African Democratic Front"
  ZULU_XHOSA_PACT: "Bantu Pact"
 
- GRO_LEOPOLDVILLE: "Léopoldville Verwaltung"
- GRO_LEOPOLDVILLE_DEF: "the Léopoldville Verwaltung"
- GRO_LEOPOLDVILLE_ADJ: "Léopoldvillian"
+ GRO_LEOPOLDVILLE: "Адміністрація Леопольдвіля"
+ GRO_LEOPOLDVILLE_DEF: "Адміністрація Леопольдвіля"
+ GRO_LEOPOLDVILLE_ADJ: "Леопольдвільськ"
 
- GRO_REICHSSTAAT: "Großafrikanischer Reichsstaat"
- GRO_REICHSSTAAT_DEF: "the Großafrikanischer Reichsstaat"
- GRO_REICHSSTAAT_ADJ: "Großafrikan"
- GRO_REICHSSTAAT_2: "Großafrikanischer Reichsstaat"
- GRO_REICHSSTAAT_2_DEF: "the Großafrikanischer Reichsstaat"
- GRO_REICHSSTAAT_2_ADJ: "Großafrikan"
- GRO_REICHSSTAAT_3: "Großafrikanischer Reichsstaat"
- GRO_REICHSSTAAT_3_DEF: "the Großafrikanischer Reichsstaat"
- GRO_REICHSSTAAT_3_ADJ: "Großafrikan"
+ GRO_REICHSSTAAT: "Великоафриканська імперія"
+ GRO_REICHSSTAAT_DEF: "Великоафриканська імперія"
+ GRO_REICHSSTAAT_ADJ: "Великоафриканськ"
+ GRO_REICHSSTAAT_2: "Великоафриканська імперія"
+ GRO_REICHSSTAAT_2_DEF: "Великоафриканська імперія"
+ GRO_REICHSSTAAT_2_ADJ: "Великоафриканськ"
+ GRO_REICHSSTAAT_3: "Великоафриканська імперія"
+ GRO_REICHSSTAAT_3_DEF: "Великоафриканська імперія"
+ GRO_REICHSSTAAT_3_ADJ: "Великоафриканськ"
 
  ## Scripted Loc ##
 

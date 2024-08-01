@@ -1,28 +1,28 @@
 ﻿l_english:
  ### Country Names ###
- UZB: "Republic of Uzbekistan"
- UZB_DEF: "the Republic of Uzbekistan"
- UZB_ADJ: "Uzbek"
+ UZB: "Республіка Узбекистан"
+ UZB_DEF: "Республіка Узбекистан"
+ UZB_ADJ: "Узбецьк"
 
- UZB_communist: "People's Republic of Uzbekistan"
- UZB_communist_DEF: "the People's Republic of Uzbekistan"
+ UZB_communist: "Народна Республіка Узбекистан"
+ UZB_communist_DEF: "Народна Республіка Узбекистан"
 
  ## Cosmetic Tags ##
- UZB_VictoriousCommie: "Bukharan People's Soviet Republic"
- UZB_VictoriousCommie_DEF: "the Bukharan People's Soviet Republic"
- UZB_VictoriousCommie_ADJ: "Bukharan"
+ UZB_VictoriousCommie: "Бухарська Народна Совєцька Республіка"
+ UZB_VictoriousCommie_DEF: "Бухарська Народна Совєцька Республіка"
+ UZB_VictoriousCommie_ADJ: "Бухарськ"
 
- UZB_VictoriousDemocrat: "Kokand"
- UZB_VictoriousDemocrat_DEF: "the Republic of Kokand"
- UZB_VictoriousDemocrat_ADJ: "Kokand"
+ UZB_VictoriousDemocrat: "Коканд"
+ UZB_VictoriousDemocrat_DEF: "Коканд Республіка Коканд"
+ UZB_VictoriousDemocrat_ADJ: "Кокандськ"
 
- UZB_KYRGYZ_ANNEX_COM: "Bukhara-Kokand"
- UZB_KYRGYZ_ANNEX_COM_DEF: "the Bukharan-Kokand People's Soviet Republic"
- UZB_KYRGYZ_ANNEX_COM_ADJ: "Bukharan-Kokand"
+ UZB_KYRGYZ_ANNEX_COM: "Бухаро-Коканд"
+ UZB_KYRGYZ_ANNEX_COM_DEF: "Бухаро-Кокандська Народна Радянська Республіка"
+ UZB_KYRGYZ_ANNEX_COM_ADJ: "Бухарасько-Кокандськ"
 
- UZB_KYRGYZ_ANNEX_DEM: "Kokand Federation"
- UZB_KYRGYZ_ANNEX_DEM_DEF: "the Kokand Federation"
- UZB_KYRGYZ_ANNEX_DEM_ADJ: "Kokand"
+ UZB_KYRGYZ_ANNEX_DEM: "Кокандська федерація"
+ UZB_KYRGYZ_ANNEX_DEM_DEF: "Кокандська федерація"
+ UZB_KYRGYZ_ANNEX_DEM_ADJ: "Кокандськ"
 
  ### Parties ###
  UZB_communist_party: "UKP"

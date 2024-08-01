@@ -1,12 +1,12 @@
 ﻿l_english:
- ECU: "Ecuador"
- ECU_DEF: "the Republic of Ecuador"
- ECU_ADJ: "Ecuadorian"
+ ECU: "Еквадор"
+ ECU_DEF: "Республіка Еквадор"
+ ECU_ADJ: "Еквадорськ"
  
- ECU_revolution: "Ecuador"
- ECU_revolution_DEF: "the Socialist Republic of Ecuador"
- ECU_revolution_ADJ: "Ecuadorian"
- ECU_velasco_DEF: "the Federation of Ecuador"
+ ECU_revolution: "Еквадор"
+ ECU_revolution_DEF: "Соціалістична Республіка Еквадор"
+ ECU_revolution_ADJ: "Еквадорськ"
+ ECU_velasco_DEF: "Федерація Еквадор"
 
  ECU_communist_party: "PCE"
  ECU_communist_party_long: "Partido Comunista del Ecuador"
@@ -29,9 +29,9 @@
  ECU_fascism_party: "ARNE"
  ECU_fascism_party_long: "Acción Revolucionaria Nacionalista Ecuatoriana"
  
- GAX: "Galápagos"
- GAX_DEF: "the Galápagos Government-in-Exile"
- GAX_ADJ: "Galápagoan"
+ GAX: "Галапагос"
+ GAX_DEF: "Галапагоський уряд у вигнанні"
+ GAX_ADJ: "Галапагоськ"
  
 
  GAX_conservatism_party: "CD"

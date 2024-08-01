@@ -1,14 +1,14 @@
 ﻿l_english:
 ### Country Names ###
- CAU:0 "Reichskommissariat Kaukasien"
- CAU_DEF:0 "Reichskommissariat Kaukasien"
- CAU_ADJ:0 "Kaukasian"
+ CAU:0 "Райхскомісаріят Кауказуєн"
+ CAU_DEF:0 "Райхскомісаріят Кауказуєн"
+ CAU_ADJ:0 "Кауказуєнськ"
  
- CAU_despotism:0 "Kingdom of Kaukasia"
- CAU_despotism_DEF:0 "the Kingdom of Kaukasia"
+ CAU_despotism:0 "Королівство Кауказія"
+ CAU_despotism_DEF:0 "Королівство Кауказія"
 
- CAU_SGR:0 "Caucasian Federation"
- CAU_SGR_DEF:0 "the Caucasian Federation"
+ CAU_SGR:0 "Кауказька Федерація"
+ CAU_SGR_DEF:0 "Кауказька Федерація"
  
  ### Parties ###
  CAU_communist_party:0 "AKP"

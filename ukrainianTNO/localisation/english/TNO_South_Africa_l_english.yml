@@ -1,17 +1,17 @@
 ﻿l_english:
  ### Country Names ###
- SAF: "Union of South Africa"
- SAF_DEF: "the Union of South Africa"
- SAF_ADJ: "South African"
+ SAF: "Південно-Африканський Союз"
+ SAF_DEF: "Південно-Африканський Союз"
+ SAF_ADJ: "Південно-Африканськ"
 
  ## Cosmetic Tags ##
- SAF_REP: "Republic of South Africa"
- SAF_REP_DEF: "the Republic of South Africa"
- SAF_REP_ADJ: "South African"
+ SAF_REP: "Республіка Південна-Африка"
+ SAF_REP_DEF: "Республіка Південна-Африка"
+ SAF_REP_ADJ: "Південно-Африканськ"
 
- SAF_DEBEERS: "South African Republic"
- SAF_DEBEERS_DEF: "the South African Republic"
- SAF_DEBEERS_ADJ: "South African"
+ SAF_DEBEERS: "Південно-Африканська Республіка"
+ SAF_DEBEERS_DEF: "Південно-Африканська Республіка"
+ SAF_DEBEERS_ADJ: "Південно-Африканськ"
 
  ### Characters ###
  SAF_De_Viliers_Graaff: "De Villiers Graaff"

@@ -1,11 +1,11 @@
 ﻿l_english:
 
 #AST country names
-AST: "Australia"
-AST_DEF: "the Commonwealth of Australia"
-AST_republic_DEF: "the Republic of Australia"
-AST_ADJ: "Australian"
-AST_ultranationalism: "Emu Empire"
+AST: "Австралія"
+AST_DEF: "Австралійський Союз"
+AST_republic_DEF: "Республіка Австралія"
+AST_ADJ: "Австралійськ"
+AST_ultranationalism: "Імперія Ему"
 #parties
 AST_communist_party: "CPA"
 AST_socialist_party: "ALP (L)"

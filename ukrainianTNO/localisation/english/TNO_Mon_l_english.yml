@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- RAM: "Monland"
- RAM_DEF: "Monland"
- RAM_ADJ: "Mon"
+ RAM: "Монланд"
+ RAM_DEF: "Монланд"
+ RAM_ADJ: "Монськ"
 
  ## Parties ##
  RAM_progressivism_party: "KNLA"

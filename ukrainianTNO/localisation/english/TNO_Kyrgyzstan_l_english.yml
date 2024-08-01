@@ -1,29 +1,29 @@
 ﻿l_english:
  ### Country Names ###
- KYR: "Kyrgyz Soviet Socialist Republic"
- KYR_DEF: "the Kyrgyz Soviet Socialist Republic"
- KYR_ADJ: "Kyrgyz"
+ KYR: "Киргизька Совєцька Соціалістична Республіка"
+ KYR_DEF: "Киргизька Совєцька Соціалістична Республіка"
+ KYR_ADJ: "Киргизьк"
 
  ## Cosmetic Tags ##
- KYR_Talas: "Islamic State of Talas"
- KYR_Talas_DEF: "the Islamic State of Talas"
- KYR_Talas_ADJ: "Kyrgyz"
+ KYR_Talas: "Ісламська держава Талас"
+ KYR_Talas_DEF: "Ісламська держава Талас"
+ KYR_Talas_ADJ: "Киргизьк"
 
- KYR_UZBEK_ANNEX_COM: "Central Asian People's Republic"
- KYR_UZBEK_ANNEX_COM_DEF: "the Central Asian People's Republic"
- KYR_UZBEK_ANNEX_COM_ADJ: "Central Asian"
+ KYR_UZBEK_ANNEX_COM: "Центральноазіатська Народна Республіка"
+ KYR_UZBEK_ANNEX_COM_DEF: "Центральноазіатська Народна Республіка"
+ KYR_UZBEK_ANNEX_COM_ADJ: "Центральноазіатськ"
 
- KYR_UZBEK_ANNEX_DEM: "Islamic State of Kokand"
- KYR_UZBEK_ANNEX_DEM_DEF: "the Islamic State of Kokand"
- KYR_UZBEK_ANNEX_DEM_ADJ: "Kokand"
+ KYR_UZBEK_ANNEX_DEM: "Ісламська держава Коканд
+ KYR_UZBEK_ANNEX_DEM_DEF: "Ісламська держава Коканд"
+ KYR_UZBEK_ANNEX_DEM_ADJ: "Кокандськ"
 
- KYR_KARAKALPAK_ANNEX_COM: "Soviet Socialist Republic of Central Asia"
- KYR_KARAKALPAK_ANNEX_COM_DEF: "the Soviet Socialist Republic of Central Asia"
- KYR_KARAKALPAK_ANNEX_COM_ADJ: "Central Asian"
+ KYR_KARAKALPAK_ANNEX_COM: "Совєцька Соціалістична Республіка Центральна Азія"
+ KYR_KARAKALPAK_ANNEX_COM_DEF: "Совєцька Соціалістична Республіка Центральна Азія"
+ KYR_KARAKALPAK_ANNEX_COM_ADJ: "Центральноазіатськ"
 
- KYR_KARAKALPAK_ANNEX_DEM: "Federation of Central Asia"
- KYR_KARAKALPAK_ANNEX_DEM_DEF: "the Islamic State of Kyrgyzstan and Federative Republic of Uzbekistan-Karakalpakstan"
- KYR_KARAKALPAK_ANNEX_DEM_ADJ: "Central Asian"
+ KYR_KARAKALPAK_ANNEX_DEM: "Федерація Центральної Азії"
+ KYR_KARAKALPAK_ANNEX_DEM_DEF: "Ісламська держава Киргизстан та Федеративна Республіка Узбекистан-Каракалпакстан"
+ KYR_KARAKALPAK_ANNEX_DEM_ADJ: "Центральноазіатськ"
 
  ### Parties ###
  KYR_communist_party: "KKP"

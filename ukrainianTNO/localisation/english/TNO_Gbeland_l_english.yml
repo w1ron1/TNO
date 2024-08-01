@@ -1,21 +1,21 @@
 ﻿l_english:
  ### Country Names ###
- GBE: "Gbeland"
- GBE_DEF: "the Gbe Republic"
- GBE_ADJ: "Gbe"
+ GBE: "Ґбеланд"
+ GBE_DEF: "Республіка Ґбе"
+ GBE_ADJ: "Ґбеськ"
 
  ## Cosmetic Tags ##
- GBE_CAOPuppet: "Bénin"
- GBE_CAOPuppet_DEF: "the Socialist Republic of Bénin"
- GBE_CAOPuppet_ADJ: "Beninese"
+ GBE_CAOPuppet: "Бенін"
+ GBE_CAOPuppet_DEF: "Соціалістична Республіка Бенін"
+ GBE_CAOPuppet_ADJ: "Бенінськ"
 
- GBE_FFRPuppet: "Dahomey"
- GBE_FFRPuppet_DEF: "the Republic of Dahomey"
- GBE_FFRPuppet_ADJ: "Dahomean"
+ GBE_FFRPuppet: "Дагомея"
+ GBE_FFRPuppet_DEF: "Республіка Дагомея"
+ GBE_FFRPuppet_ADJ: "Дагомейськ"
 
- GBE_WOLPuppet: "Dahomey"
- GBE_WOLPuppet_DEF: "the Republic of Dahomey"
- GBE_WOLPuppet_ADJ: "Dahomean"
+ GBE_WOLPuppet: "Дагомея"
+ GBE_WOLPuppet_DEF: "Республіка Дагомея"
+ GBE_WOLPuppet_ADJ: "Дагомейськ"
 
  ### Parties ###
  GBE_communist_party: "PRPB"

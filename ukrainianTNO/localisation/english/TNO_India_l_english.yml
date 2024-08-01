@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- IND: "Republic of India"
- IND_DEF: "the Republic of India"
- IND_ADJ: "West Indian"
+ IND: "Республіка Індія"
+ IND_DEF: "Республіка Індія"
+ IND_ADJ: "Західно-Індійськ"
 
  ### Parties ###
  IND_communist_party: "CPI"

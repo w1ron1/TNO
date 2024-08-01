@@ -3,13 +3,13 @@
 MCW_Siegfried_Kasche:0 "Siegfried Kasche"
 MCW_Albert_Hoffman:0 "Albert Hoffman"
 
-MCW:0 "Reichskommissariat Moskowien"
-MCW_DEF:0 "Reichskommissariat Moskowien"
-MCW_ADJ:0 "Moskowien"
+MCW:0 "Райхскомісаріят Московієн"
+MCW_DEF:0 "Райхскомісаріят Московієн"
+MCW_ADJ:0 "Московієнськ"
 
-MCW_helldorff_takeover_national_socialism:0 "Notfallverwaltung Moskowien"
-MCW_helldorff_takeover_national_socialism_DEF:0 "Notfallverwaltung Moskowien"
-MCW_helldorff_takeover_national_socialism_ADJ:0 "Moskowien's"
+MCW_helldorff_takeover_national_socialism:0 "Управління надзвичайними ситуаціями Московієну"
+MCW_helldorff_takeover_national_socialism_DEF:0 "Управління надзвичайними ситуаціями Московієну"
+MCW_helldorff_takeover_national_socialism_ADJ:0 "Московієнськ"
 
 MCW_national_socialism_party:0 "AOdNSDAP"
 MCW_national_socialism_party_long:0 "Arbeitsbereich Osten der Nationalsozialistischen Deutschen Arbeiterpartei"

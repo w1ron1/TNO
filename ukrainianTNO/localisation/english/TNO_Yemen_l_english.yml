@@ -1,17 +1,17 @@
 ﻿l_english:
  ### Country Names ###
- YEM: "Yemen"
- YEM_DEF: "the Mutawakkilite Kingdom of Yemen"
- YEM_ADJ: "Yemeni"
+ YEM: "Ємен"
+ YEM_DEF: "Мутаваккілітське королівство Ємену"
+ YEM_ADJ: "Єменськ"
 
- NYM: "Yemen Arab Democratic Republic"
- NYM_DEF: "the Yemen Arab Democratic Republic"
- NYM_ADJ: "Yemeni"
+ NYM: "Єменська Арабська Демократична Республіка"
+ NYM_DEF: "Єменська Арабська Демократична Республіка"
+ NYM_ADJ: "Єменськ"
 
  ## Cosmetic Tags ##
- NYM_ARABIA: "Arabian Republic"
- NYM_ARABIA_DEF: "the Arabian Republic"
- NYM_ARABIA_ADJ: "Arabian"
+ NYM_ARABIA: "Арабська Республіка"
+ NYM_ARABIA_DEF: "Арабська Республіка"
+ NYM_ARABIA_ADJ: "Арабськ"
 
  ### Parties ###
  YEM_socialist_party: "Tanzim Abdulaat al-Ahrar"

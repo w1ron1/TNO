@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- BHU: "Bhutan"
- BHU_DEF: "the Autonomous Province of Bhutan"
- BHU_ADJ: "Bhutanese"
+ BHU: "Бутан"
+ BHU_DEF: "Автономна провінція Бутан"
+ BHU_ADJ: "Бутанськ"
 
  ### Parties ###
  BHU_paternalism_party: "Bhotamuzh - PSMD"

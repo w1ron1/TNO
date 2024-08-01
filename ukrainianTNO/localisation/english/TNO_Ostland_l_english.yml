@@ -1,9 +1,9 @@
 ﻿l_english:
 
  ### Country Names ###
- OST:0 "Reichskommissariat Ostland"
- OST_DEF:0 "Reichskommissariat Ostland"
- OST_ADJ:0 "Ostländisch"
+ OST:0 "Райхскомісаріят Остланд"
+ OST_DEF:0 "Райхскомісаріят Остланд"
+ OST_ADJ:0 "Остландськ"
 
 ### Party Names ### 
  OST_communist_party:0 "DKP-O"

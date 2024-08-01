@@ -1,28 +1,28 @@
 ﻿l_english:
  # Country Name
- MAD: "French Madagascar"
- MAD_ADJ: "French Malagasy"
- MAD_DEF: "the Colony of Madagascar and Dependencies"
+ MAD: "Французький Мадагаскар"
+ MAD_ADJ: "Французькомадагаскарськ"
+ MAD_DEF: "Колонія Мадагаскар і залежні території"
 
- MAD_insurgent: "Malagasy Rebellion"
- MAD_insurgent_ADJ: "Malagasy"
- MAD_insurgent_DEF: "the Malagasy Rebellion"
+ MAD_insurgent: "Мадагаскарське повстання"
+ MAD_insurgent_ADJ: "Мадагаскарськ"
+ MAD_insurgent_DEF: "Мадагаскарське повстання"
 
- MAD_tafama: "Malagasy Republic"
- MAD_tafama_ADJ: "Malagasy"
- MAD_tafama_DEF: "the Malagasy Republic"
+ MAD_tafama: "Мадагаскарська Республіка"
+ MAD_tafama_ADJ: "Мадагаскарськ"
+ MAD_tafama_DEF: "Мадагаскарська Республіка"
 
- MAD_padesm: "Republic of Madagascar"
- MAD_padesm_ADJ: "Malagasy"
- MAD_padesm_DEF: "the Republic of Madagascar"
+ MAD_padesm: "Республіка Мадагаскар"
+ MAD_padesm_ADJ: "Мадагаскарськ"
+ MAD_padesm_DEF: "Республіка Мадагаскар"
 
- MAD_akfm: "Democratic Republic of Madagascar"
- MAD_akfm_ADJ: "Malagasy"
- MAD_akfm_DEF: "the Democratic Republic of Madagascar"
+ MAD_akfm: "Демократична Республіка Мадагаскар"
+ MAD_akfm_ADJ: "Мадагаскарськ"
+ MAD_akfm_DEF: "Демократична Республіка Мадагаскар"
 
- MAD_arema: "Democratic Republic of Madagascar"
- MAD_arema_ADJ: "Malagasy"
- MAD_arema_DEF: "the Democratic Republic of Madagascar"
+ MAD_arema: "Демократична Республіка Мадагаскар"
+ MAD_arema_ADJ: "Мадагаскарськ"
+ MAD_arema_DEF: "Демократична Республіка Мадагаскар"
 
 # Parties
  MAD_fascism_party: "DROM"

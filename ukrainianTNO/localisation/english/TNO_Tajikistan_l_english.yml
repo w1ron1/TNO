@@ -1,18 +1,18 @@
 ﻿l_english:
  ### Country Names ###
- TAJ: "Tajik Soviet Socialist Republic"
- TAJ_DEF: "the Tajik Soviet Socialist Republic"
- TAJ_ADJ: "Tajik"
+ TAJ: "Таджицька Совєцька Соціалістична Республіка"
+ TAJ_DEF: "Таджицька Совєцька Соціалістична Республіка"
+ TAJ_ADJ: "Таджицьк"
 
  ## Cosmetic Tags 
- TAJ_Islam: "Islamic State of Tajikistan"
- TAJ_Islam_DEF: "the Islamic State of Tajikistan"
+ TAJ_Islam: "Ісламська держава Таджикистан"
+ TAJ_Islam_DEF: "Ісламська держава Таджикистан"
 
- TAJ_ConDem: "Republic of Tajikistan"
- TAJ_ConDem_DEF: "the Republic of Tajikistan"
+ TAJ_ConDem: "Республіка Таджикистан"
+ TAJ_ConDem_DEF: "Республіка Таджикистан"
 
- TAJ_Hardliner: "Tajik State"
- TAJ_Hardliner_DEF: "the Tajik State"
+ TAJ_Hardliner: "Таджицька держава"
+ TAJ_Hardliner_DEF: "Таджицька держава"
 
  ### Parties ###
  TAJ_communist_party: "HKT"

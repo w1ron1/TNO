@@ -1,12 +1,12 @@
 ﻿l_english:
  ### Country Names ###
- KAZ: "Kazakh Soviet Socialist Republic"
- KAZ_DEF: "the Kazakh Soviet Socialist Republic"
- KAZ_ADJ: "Kazakh"
+ KAZ: "Казахська Совєцька Соціалістична Республіка"
+ KAZ_DEF: "Казахська Совєцька Соціалістична Республіка"
+ KAZ_ADJ: "Казахськ"
 
- KAZ_Turkeli: "Federation Of Turkeli"
- KAZ_Turkeli_DEF: "the Federation Of Turkeli"
- KAZ_Turkeli_ADJ: "Turkestani"
+ KAZ_Turkeli: "Федерація Туркелі"
+ KAZ_Turkeli_DEF: "Федерація Туркелі"
+ KAZ_Turkeli_ADJ: "Туркестанськ"
 
  ### Parties ###
  KAZ_communist_party: "QKP"

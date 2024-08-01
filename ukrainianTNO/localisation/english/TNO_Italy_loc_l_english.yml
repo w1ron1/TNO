@@ -5508,12 +5508,12 @@ ITAbadboyecon:0 "We have adopted a conservative economic policy."
  
 
  #names
- ITA:0 "Regno D'Italia"
- ITA_DEF:0 "il Regno D'Italia"
- ITA_ADJ:0 "Italian"
+ ITA:0 "Королівство Італія"
+ ITA_DEF:0 "Королівство Італія"
+ ITA_ADJ:0 "Італійськ"
  
- scorza_ISR:0 "Repubblica Sociale Italiana"
- scorza_ISR_DEF:0 "la Repubblica Sociale Italiana"
+ scorza_ISR:0 "Італійська Соціалістична Республіка"
+ scorza_ISR_DEF:0 "Італійська Соціалістична Республіка"
 
  ITA_post_colonial_relation:0 "Post Colonial Relations"
  ITA_post_colonizer_relation:0 "Post Colonization Relations"

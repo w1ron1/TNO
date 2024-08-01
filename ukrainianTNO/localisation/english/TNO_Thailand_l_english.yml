@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- THA: "Republic of Thailand"
- THA_DEF: "the Republic of Thailand"
- THA_ADJ: "Thai"
+ THA: "Республіка Таїланд"
+ THA_DEF: "Республіка Таїланд"
+ THA_ADJ: "Таїландськ"
 
  ### Parties ###
  THA_communist_party: "PKHPT"

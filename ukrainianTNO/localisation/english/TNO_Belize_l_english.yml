@@ -40,10 +40,10 @@
   BLZ_A_Colonial_Vacuum:0 "The Colonial Vacuum"
   BLZ_A_Colonial_Vacuum_desc:0 "When the British Isles fell beneath the wings of the Nazi eagle, its colonial empire was thrown into disarray. Belize was one of these places and it now finds itself trapped in accommodations hastily devised almost two decades ago.\n\nWhile it swears allegiance to Her Majesty, Queen Elizabeth II and the shambling corpse that is her royal house, in all practical affairs the Government of Belize reports directly to the Government of Canada. This unfortunate arrangement leaves both parties uneasy and longing, desperately, for escape."
 
-  BLZ: "British Honduras"
-  BLZ_DEF: "the Crown Colony of British Honduras"
-  BLZ_ADJ: "Belizean"
+  BLZ: "Британський Гондурас"
+  BLZ_DEF: "Коронна колонія Британського Гондурасу"
+  BLZ_ADJ: "Белізьк"
 
-  BLZ_Belize:0 "Belize"
-  BLZ_Belize_DEF:0 "Belize"
-  BLZ_Belize_ADJ:0 "Belizean"
+  BLZ_Belize:0 "Беліз"
+  BLZ_Belize_DEF:0 "Беліз"
+  BLZ_Belize_ADJ:0 "Белізьк"

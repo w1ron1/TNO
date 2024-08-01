@@ -9,17 +9,17 @@
  KAL_socialist_party_long: "Kostintsy"
 
  #Cosmetic Tags
- KRS_REVOLT_communist: "Reformed Siberian Socialist Workers' Republic"
- KRS_REVOLT_communist_DEF: "the Reformed Siberian Socialist Workers' Republic"
- KRS_REVOLT_communist_ADJ: "Siberian"
+ KRS_REVOLT_communist: "Реформована Сибірська Соціалістична Робітнича Республіка"
+ KRS_REVOLT_communist_DEF: "Реформована Сибірська Соціалістична Робітнича Республіка"
+ KRS_REVOLT_communist_ADJ: "Сибірськ"
  
- SBA_REVOLT_communist: "Free Workers' Republic of Siberia"
- SBA_REVOLT_communist_DEF: "the Free Workers' Republic of Siberia"
- SBA_REVOLT_communist_ADJ: "Siberian"
+ SBA_REVOLT_communist: "Вільна Робітнича Республіка Сибір"
+ SBA_REVOLT_communist_DEF: "Вільна Робітнича Республіка Сибір"
+ SBA_REVOLT_communist_ADJ: "Сибірськ"
  
- ALT_REVOLT_socialist: "Siberian Workers' and Peasants' Union"
- ALT_REVOLT_socialist_DEF: "the Siberian Workers' and Peasants' Union"
- ALT_REVOLT_socialist_ADJ: "Siberian"
+ ALT_REVOLT_socialist: "Сибірський робітниче-селянський союз"
+ ALT_REVOLT_socialist_DEF: "Сибірський робітниче-селянський союз"
+ ALT_REVOLT_socialist_ADJ: "Сибірськ"
  
  ## Country Leaders ##
  KAL_Vitaly_Kostin: "Vitaly Kostin"

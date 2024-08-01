@@ -1,31 +1,31 @@
 ﻿l_english:
  ### Country Names ###
- KRK: "People's Republic of Karakalpakstan"
- KRK_DEF: "the People's Republic of Karakalpakstan"
- KRK_ADJ: "Karakalpak"
+ KRK: "Народна Республіка Каракалпакстан"
+ KRK_DEF: "Народна Республіка Каракалпакстан"
+ KRK_ADJ: "Каракалпакськ"
 
  ## Cosmetic Tags ##
- KRK_United_Socialist: "Karakalpakstan United Front"
- KRK_United_Socialist_DEF: "Karakalpak Front"
+ KRK_United_Socialist: "Об'єднаний фронт Каракалпакстану"
+ KRK_United_Socialist_DEF: "Каракалпацький фронт"
 
- KRK_United_Democratic: "Karakalpakstan"
- KRK_United_Democratic_DEF: "Democratic Republic of Karakalpakstan"
+ KRK_United_Democratic: "Каракалпакстан"
+ KRK_United_Democratic_DEF: "Демократична Республіка Каракалпакстан"
 
- KRK_VictoriousCommie: "People's Republic of Bukhara"
- KRK_VictoriousCommie_DEF: "the People's Republic of Bukhara"
- KRK_VictoriousCommie_ADJ: "Bukharan"
+ KRK_VictoriousCommie: "Народна Республіка Бухара"
+ KRK_VictoriousCommie_DEF: "Народна Республіка Бухара"
+ KRK_VictoriousCommie_ADJ: "Бухаранськ"
 
- KRK_VictoriousDemocrat: "Federation of Karakalpak-Uzbek People"
- KRK_VictoriousDemocrat_DEF: "the Federation of Karakalpak-Uzbek People"
- KRK_VictoriousDemocrat_ADJ: "Karakalpak-Uzbek"
+ KRK_VictoriousDemocrat: "Федерація Каракалпацько-Узбецького народу"
+ KRK_VictoriousDemocrat_DEF: "Федерація Каракалпацько-Узбецького народу"
+ KRK_VictoriousDemocrat_ADJ: "Каракалпацько-Узбецьк"
 
- KRK_KYRGYZ_ANNEX_COM: "People's Republic of Central Asia"
- KRK_KYRGYZ_ANNEX_COM_DEF: "the People's Republic of Central Asia"
- KRK_KYRGYZ_ANNEX_COM_ADJ: "Central Asian"
+ KRK_KYRGYZ_ANNEX_COM: "Народна Республіка Центральна Азія"
+ KRK_KYRGYZ_ANNEX_COM_DEF: "Народна Республіка Центральна Азія"
+ KRK_KYRGYZ_ANNEX_COM_ADJ: "Центральноазійськ"
 
- KRK_KYRGYZ_ANNEX_DEM: "Central Asian Federation"
- KRK_KYRGYZ_ANNEX_DEM_DEF: "the Central Asian Federation"
- KRK_KYRGYZ_ANNEX_DEM_ADJ: "Central Asian"
+ KRK_KYRGYZ_ANNEX_DEM: "Центральноазіатська федерація"
+ KRK_KYRGYZ_ANNEX_DEM_DEF: "Центральноазіатська федерація"
+ KRK_KYRGYZ_ANNEX_DEM_ADJ: "Центральноазійськ"
 
  ### Parties ###
  KRK_communist_party: "QKP"

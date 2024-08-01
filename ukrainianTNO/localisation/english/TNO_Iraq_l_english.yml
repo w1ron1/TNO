@@ -1,25 +1,25 @@
 ﻿l_english:
  ### Country Names ###
- IRQ: "Iraq"
- IRQ_DEF: "the Republic of Iraq"
- IRQ_ADJ: "Iraqi"
+ IRQ: "Ірак"
+ IRQ_DEF: "Республіка Ірак"
+ IRQ_ADJ: "Іракськ"
 
- IRP: "Iraqi Republic"
- IRP_DEF: "the Iraqi Republic"
- IRP_ADJ: "Iraqi"
+ IRP: "Іракська Республіка"
+ IRP_DEF: "Іракська Республіка"
+ IRP_ADJ: "Іракськ"
 
- SNI: "Islamic Republic of Iraq"
- SNI_DEF: "the Islamic Republic of Iraq"
- SNI_ADJ: "Iraqi"
+ SNI: "Ісламська Республіка Ірак"
+ SNI_DEF: "Ісламська Республіка Ірак"
+ SNI_ADJ: "Іракськ"
 
- BIR: "Ba'athist Iraq"
- BIR_DEF: "the Arab Republic of Iraq"
- BIR_ADJ: "Iraqi"
+ BIR: "Баасистський Ірак"
+ BIR_DEF: "Арабська Республіка Ірак"
+ BIR_ADJ: "Іракськ"
 
  ## Cosmetic Tags ##
- BIR_postwar: "Republic of Iraq"
- BIR_postwar_DEF: "the Republic of Iraq"
- BIR_postwar_ADJ: "Iraqi"
+ BIR_postwar: "Республіка Ірак"
+ BIR_postwar_DEF: "Республіка Ірак"
+ BIR_postwar_ADJ: "Іракськ"
 
  #Parties
  IRQ_communist_party: "HSI"

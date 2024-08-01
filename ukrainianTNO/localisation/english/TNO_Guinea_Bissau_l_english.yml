@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- GNB: "Guinea-Bissau"
- GNB_DEF: "Guinea-Bissau"
- GNB_ADJ: "Bissau-Guinean"
+ GNB: "Гвінея-Бісау"
+ GNB_DEF: "Гвінея-Бісау"
+ GNB_ADJ: "Бісау-Гвінейськ"
 
  ### Parties ###
  GNB_communist_party: "PAIGC"

@@ -1,16 +1,16 @@
 ﻿l_english:
  #Country Names
- HOL:0 "Netherlands"
- HOL_DEF:0 "the Netherlands"
- HOL_despotism:0 "Dutch State"
- HOL_despotism_DEF:0 "the Dutch State"
- HOL_fascism:0 "Dietsland"
- HOL_fascism_DEF:0 "Dietsland"
- HOL_national_socialism:0 "Reichskommissariat Niederlande"
- HOL_national_socialism_DEF:0 "Reichskommissariat Niederlande"
- HOL_ultranationalism:0 "SS-Staat Niederlande"
- HOL_ultranationalism_DEF:0 "SS-Staat Niederlande"
- HOL_ADJ:0 "Dutch"
+ HOL:0 "Нідерланди"
+ HOL_DEF:0 "Нідерланди"
+ HOL_despotism:0 "Голландська держава"
+ HOL_despotism_DEF:0 "Голландська держава"
+ HOL_fascism:0 "Великі Нідерланди"
+ HOL_fascism_DEF:0 "Великі Нідерланди"
+ HOL_national_socialism:0 "Райхскомісаріят Нідерланди"
+ HOL_national_socialism_DEF:0 "Райхскомісаріят Нідерланди"
+ HOL_ultranationalism:0 "СС-Держава Нідерланди"
+ HOL_ultranationalism_DEF:0 "СС-Держава Нідерланди"
+ HOL_ADJ:0 "Німецьк"
  
  #flags 
  HOL_fascist_independence:0 "The Netherlands shall be free again!"

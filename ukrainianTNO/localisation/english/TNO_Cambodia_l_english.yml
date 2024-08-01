@@ -1,18 +1,18 @@
 ﻿l_english:
  ### Country Names ###
- CAM: "Kingdom of Kampuchea"
- CAM_DEF: "the Kingdom of Kampuchea"
- CAM_ADJ: "Khmer"
+ CAM: "Королівство Кампучія"
+ CAM_DEF: "Королівство Кампучія"
+ CAM_ADJ: "Кхмерськ"
 
  ## Cosmetic Tags ##
- CAM_State: "State of Kampuchea"
- CAM_State_DEF: "the State of Kampuchea"
+ CAM_State: "Держава Кампучія"
+ CAM_State_DEF: "Держава Кампучія"
 
- CAM_Republic: "Khmer Republic"
- CAM_Republic_DEF: "the Khmer Republic"
+ CAM_Republic: "Кхмерська Республіка"
+ CAM_Republic_DEF: "Кхмерська Республіка"
 
- CAM_PRK: "People's Republic of Kampuchea"
- CAM_PRK_DEF: "the People's Republic of Kampuchea"
+ CAM_PRK: "Народна Республіка Кампучія"
+ CAM_PRK_DEF: "Народна Республіка Кампучія"
 
  ### Parties ###
  CAM_communist_party: "BKI - Rural Faction"

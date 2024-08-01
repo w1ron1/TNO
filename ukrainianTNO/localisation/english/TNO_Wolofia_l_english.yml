@@ -1,16 +1,16 @@
 ﻿l_english:
  ### Country Tags ###
- WOL: "Wolofia"
- WOL_DEF: "the Republic of Wolofia"
- WOL_ADJ: "Wolofian"
- WOL_socialist: "Senegal"
- WOL_socialist_DEF: "the Socialist Republic of Senegal"
- WOL_socialist_ADJ: "Senegalese"
+ WOL: "Волофія"
+ WOL_DEF: "Республіка Волофія"
+ WOL_ADJ: "Волофійськ"
+ WOL_socialist: "Сенегал"
+ WOL_socialist_DEF: "Соціалістична Республіка Сенегал"
+ WOL_socialist_ADJ: "Сенегальськ"
 
  ## Cosmetic Tags ##
- WOL_FFRPuppet: "Sénégal"
- WOL_FFRPuppet_DEF: "the Republic of Sénégal"
- WOL_FFRPuppet_ADJ: "Senegalese"
+ WOL_FFRPuppet: "Сенегал"
+ WOL_FFRPuppet_DEF: "Республіка Сенегал"
+ WOL_FFRPuppet_ADJ: "Сенегальськ"
 
  ### Parties ###
  WOL_communist_party: "PWUP"

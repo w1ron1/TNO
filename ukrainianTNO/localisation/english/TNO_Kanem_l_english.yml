@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- KNM: "Kanem"
- KNM_DEF: "the Republic of Kanem"
- KNM_ADJ: "Kanembu"
+ KNM: "Канем"
+ KNM_DEF: "Республіка Канем"
+ KNM_ADJ: "Канемськ"
 
  ### Parties ###
  KNM_communist_party: "-"

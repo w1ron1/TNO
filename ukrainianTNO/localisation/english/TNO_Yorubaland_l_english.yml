@@ -1,13 +1,13 @@
 ﻿l_english:
  ### Country Names ###
- YOR: "Yorubaland"
- YOR_DEF: "the Republic of Yorubaland"
- YOR_ADJ: "Yoruban"
+ YOR: "Йорубаленд"
+ YOR_DEF: "Республіка Йорубаленд"
+ YOR_ADJ: "Йорубанськ"
 
  ## Cosmetic Tags ##
- YOR_unified: "Nigeria"
- YOR_unified_DEF: "the Republic of Nigeria"
- YOR_unified_ADJ: "Nigerian"
+ YOR_unified: "Ніжерія"
+ YOR_unified_DEF: "Республіка Ніжерія"
+ YOR_unified_ADJ: "Ніжерійськ"
 
  ### Parties ###
  YOR_communist_party: "-"

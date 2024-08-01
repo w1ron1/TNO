@@ -1,12 +1,12 @@
 ﻿l_english:
  ### Country Names ###
- BKU: "Mosul and Kerkuk"
- BKU_DEF: "the Barzani Administration of Mosul and Kerkuk"
- BKU_ADJ: "Mosul and Kerkuk"
+ BKU: "Мосул та Керкук"
+ BKU_DEF: "Адміністрація Барзані в Мосулі та Керкуку"
+ BKU_ADJ: "Мосуло-Керкуськ"
 
  ### Parties ###
- BKU_despotism_party: "Barzani - Collaborationist Wing"
- BKU_despotism_party_long: "Barzani"
+ BKU_despotism_party: "Барзані - колабораціоністське крило"
+ BKU_despotism_party_long: "Барзані"
 
  ### Characters ###
- BKU_Ahmad_Barzani: "Ahmad Barzani"
+ BKU_Ahmad_Barzani: "Ахмед Барзані"

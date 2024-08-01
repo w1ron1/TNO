@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- BUR: "Union of Burma"
- BUR_DEF: "the Union of Burma"
- BUR_ADJ: "Burmese"
+ BUR: "Бірманський союз"
+ BUR_DEF: "Бірманський союз"
+ BUR_ADJ: "Бірманськ"
 
  ### Parties ###
  BUR_communist_party: "BKP - Alan Ni" # Burmese Communist Party - Red Flag

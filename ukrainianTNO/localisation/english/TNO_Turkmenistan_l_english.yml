@@ -1,32 +1,32 @@
 ﻿l_english:
  ### Country Names ###
- TRK: "Turkmenistan"
- TRK_DEF: "the Republic of Turkmenistan"
- TRK_communist: "Socialist Republic of Turkmenistan"
- TRK_communist_DEF: "the Socialist Republic of Turkmenistan"
- TRK_ADJ: "Turkmen"
+ TRK: "Туркменістан"
+ TRK_DEF: "Республіка Туркменістан"
+ TRK_communist: "Соціалістична Республіка Туркменістан"
+ TRK_communist_DEF: "Соціалістична Республіка Туркменістан"
+ TRK_ADJ: "Туркменськ"
 
  ## Cosmetic Tags ##
 
- TRK_Islamic: "Islamic Republic of Turkmenistan"
- TRK_Islamic_DEF: "Islamic Republic of Turkmenistan"
- TRK_Islamic_ADJ: "Turkmen"
+ TRK_Islamic: "Ісламська Республіка Туркменістан"
+ TRK_Islamic_DEF: "Ісламська Республіка Туркменістан"
+ TRK_Islamic_ADJ: "Туркменськ"
 
- TRK_Basmachi: "Korbashi Federation of Turkestan"
- TRK_Basmachi_DEF: "the Korbashi Federation of Turkestan"
+ TRK_Basmachi: "Федерація Корбаші Туркестану"
+ TRK_Basmachi_DEF: "Федерація Корбаші Туркестану"
  TRK_Basmachi_ADJ: "Korbashi"
 
- TRK_Coup: "Turkmen Republic"
- TRK_Coup_DEF: "the Turkmen Republic"
- TRK_Coup_ADJ: "Turkmen"
+ TRK_Coup: "Туркменська Республіка"
+ TRK_Coup_DEF: "Туркменська Республіка"
+ TRK_Coup_ADJ: "Туркменськ"
 
- TRK_anarchy: "Turkmen and Uzbek Territories"
- TRK_anarchy_DEF: "the Turkmen and Uzbek Territories"
- TRK_anarchy_ADJ: "Turkmen and Uzbek"
+ TRK_anarchy: "Туркменські та Узбецькі території"
+ TRK_anarchy_DEF: "Туркменські та Узбецькі території"
+ TRK_anarchy_ADJ: "Туркменсько-Узбецьк"
 
- TRK_united: "Turkestan Republic"
- TRK_united_DEF: "the Turkestan Republic"
- TRK_united_ADJ: "Turkestani"
+ TRK_united: "Туркестанська Республіка"
+ TRK_united_DEF: "Туркестанська Республіка"
+ TRK_united_ADJ: "Туркменськ"
 
  ### Parties ###
  TRK_communist_party: "TKP"

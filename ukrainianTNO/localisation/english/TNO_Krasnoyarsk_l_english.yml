@@ -1,8 +1,8 @@
 ﻿l_english:
  ## Country Names ##
- KRS_paternalism: "Krasnoyarsk"
- KRS_paternalism_DEF: "the Provisional Government of Krasnoyarsk"
- KRS_paternalism_ADJ: "Krasnoyarsk"
+ KRS_paternalism: "Красноярськ"
+ KRS_paternalism_DEF: "Тимчасовий уряд Красноярська"
+ KRS_paternalism_ADJ: "Красноярськ"
 
  ## Party Names ##
  KRS_paternalism_party: "PSR"

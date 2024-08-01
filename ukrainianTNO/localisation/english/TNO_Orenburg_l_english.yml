@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- ORE: "Orenburg"
- ORE_DEF: "the Orenburg Communes"
- ORE_ADJ: "Orenburg"
+ ORE: "Оренбург"
+ ORE_DEF: "Оренбурзькі комуни"
+ ORE_ADJ: "Оренбургськ"
 
  ### Parties ###
  ORE_communist_party: "Fraktsiya Malenkova"
