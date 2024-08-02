@@ -2138,27 +2138,27 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_MIS_destiny_timer_timeout_tt: "§CДоля§! не любить §Oнерішучих§!. Якщо §Oви§! дозволите §Rтаймеру§! добігти кінця - не прийнявши жодного з §YРішень§! вище - §CДоля§! вибере одну з фракцій, щоб продовжити гру§!."
 
  ### 8.5 - BREADBASKET GERMANY INTERACTIONS DECISIONS ###
- UKR_bb_germany_category: "§oGermania§!'s Demands"
- UKR_bb_germany_category_desc: "yo Germany wants grain and development\n\nWe will produce [?UKR_total_grain_output] grain output this harvest, [?UKR_grain_need] of which we would need to adaquetely feed our population.\n\n§oGermania§! demands [?UKR_BB_Germania_grain_demand] grain output this harvest.\n\n[Get_UKR_GermaniaDemand_grain_outcome_GER]\n\n[Get_UKR_GermaniaDemand_grain_outcome_UKR]\n\nWe also need to fulfill §oGermania§!'s demands for economic development. We will need the total §Ddevelopment level§! of all regions to be at least [?UKR_BB_Germania_Demand_total_development_level_demand]."
+ UKR_bb_germany_category: "Вимоги §oНімеччини§!"
+ UKR_bb_germany_category_desc: "Німеччина хоче зерна та розвитку\n\nМи виробляємо [?UKR_total_grain_output] зерна цього врожаю, [?UKR_grain_need] якого нам знадобиться, щоб адекватно прогодувати наше населення.\n\n§o Німеччина§! вимагає [? UKR_BB_Germania_grain_demand] зерна цього врожаю.\n\n[Get_UKR_GermaniaDemand_grain_outcome_GER]\n\n[Get_UKR_GermaniaDemand_grain_outcome_UKR]\n\nМи також повинні задовольнити вимоги §oНімеччини§! щодо економічного розвитку. Нам потрібно, щоб загальний рівень розвитку всіх регіонів був щонайменше [?UKR_BB_Germania_Demand_total_development_level_demand]."
 
- UKR_GermaniaDemand_grain_outcome_positive: "§GUkrainians will be properly fed this harvest.§!"
- UKR_GermaniaDemand_grain_outcome_neutral: "§YUkrainians will be barely fed this harvest.§!"
- UKR_GermaniaDemand_grain_outcome_negative: "§RUkrainians will go hungry this harvest.§!"
+ UKR_GermaniaDemand_grain_outcome_positive: "§GУкраїнці будуть належно нагодовані цим врожаєм.§!"
+ UKR_GermaniaDemand_grain_outcome_neutral: "§YУкраїнці ледве зможуть прогодувати себе цим врожаєм.§!"
+ UKR_GermaniaDemand_grain_outcome_negative: "§RУкраїнці будуть голодувати з цим врожаєм.§!"
 
- UKR_GER_GermaniaDemand_grain_outcome_positive: "§GWe have more than enough grain to satisfy §oGermania§!'s demands, pleasing the §oReich§!.§!"
- UKR_GER_GermaniaDemand_grain_outcome_neutral: "§YWe have just enough grain to satisfy §oGermania§!'s demands.§!"
- UKR_GER_GermaniaDemand_grain_outcome_negative: "§RWe do not have enough grain to satisfy §oGermania§!'s demands, angering the §oReich§!.§!"
+ UKR_GER_GermaniaDemand_grain_outcome_positive: "§GУ нас більш ніж достатньо зерна, щоб задовольнити потреби §oНімеччини§! догоджаючи §oРайху§!.§!"
+ UKR_GER_GermaniaDemand_grain_outcome_neutral: "§YУ нас достаньо зерна, щоб задовольнити потреби §oНімеччини§!.§!"
+ UKR_GER_GermaniaDemand_grain_outcome_negative: "§RУ нас не вистачає зерна, щб задовольнити вимоги §oНімеччини§! §oРайх§! у люті.§!"
 
  UKR_BB_Germania_Demand_tt: "The harvest will come to an end, and we will receive the following effects:"
 
- UKR_grain_demand_check: "Germania's Demands Will Be Fulfilled"
+ UKR_grain_demand_check: "Вимоги Німеччини будуть виконані"
 
- UKR_bb_Germania_Demands_grain_demand_lower_tt: "§oGermania§!'s grain demand will be §Glowered§! by [?U]."
- UKR_bb_Germania_Demands_grain_demand_raise_tt: "§oGermania§!'s grain demand will be §Rraised§! by [?U]."
- UKR_bb_Germania_Demands_grain_need_lower_tt: "§YOur§! grain need will be §Glowered§! by [?U]."
- UKR_bb_Germania_Demands_grain_need_raise_tt: "§YOur§! grain need will be §Rraised§! by [?U]."
- UKR_bb_Germania_Demands_dev_demand_lower_tt: "§oGermania§!'s development demand will be §Glowered§! by [?U]."
- UKR_bb_Germania_Demands_dev_demand_raise_tt: "§oGermania§!'s development demand will be §Rraised§! by [?U]."
+ UKR_bb_Germania_Demands_grain_demand_lower_tt: "§oНімецький§! попит на зерно §Gзменшиться§! на [?U]."
+ UKR_bb_Germania_Demands_grain_demand_raise_tt: "§oНімецький§! попит на зерно §Rзбільшиться§! на [?U]."
+ UKR_bb_Germania_Demands_grain_need_lower_tt: "§YНаша§! потреба в зерні §Gзменшиться§! на [?U]."
+ UKR_bb_Germania_Demands_grain_need_raise_tt: "§YНаша§! потреба в зерні §Rзбільшиться§! на [?U]."
+ UKR_bb_Germania_Demands_dev_demand_lower_tt: "§oНімецька§! потреба у розвитку буде §Gзменшена§! на [?U]."
+ UKR_bb_Germania_Demands_dev_demand_raise_tt: "§oНімецька§! потреба у розвитку буде §Rзбільшена§! на [?U]."
 
  ### 8.5 - Misc Decision ###
 
@@ -2595,83 +2595,83 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_remind_diplomats_of_hitlers_decree_tt: "§gБраутігам§! і його побратими з партії £SGR_NSDAP_Dissident §gсентименталісти§! перейшли усі межи. §RНастав час §gїм§! нагадати про їхні обов'язки.§!"
  UKR_but_humble_the_selfrighteous_prussian_tt: "§oОлендорф§! занадто високо цінує те, що §Yми§! досягли have achieved. §RЯ повставлю §oйого§! його на своє місце.§!"
  UKR_thatll_keep_the_deputy_busy_tt: "Якщо §BЛяйббрандт§! піклується про §BСлов'янських дегенератів§!, то можливо він дійсно зробить свою §Gпрацю§! а не буде §Rскиглити§!."
- UKR_skip_noc_holdings_tt: "§LHeerema§! and his little §Lcompany§! have no need for funds that must go to §Ymore important projects§!. §RI am sure he will understand.§!"
- UKR_the_committee_in_our_grasp_tt: "Our £UKR_collab_texticon §Qcollaborators§! could do with some §Gsupport§!. §RBut we will not let them entertain any independent ideas.§!"
- UKR_finish_up_the_third_phase_of_gpo_tt: "§F§OThird Phase§! of §oGeneralplan Ost§! will be updated to the §VFinalized§! §OThird Phase§! of §oGeneralplan Ost§! in our assorted laws.§!"
- UKR_the_committee_in_our_grasp_2_tt: "§F§RPowerless§! £UKR_collab_texticon §QUkrainian National Committee§! will be updated to the §YSupervised§! £UKR_collab_texticon §QUkrainian National Committee§! in our assorted laws.§!"
+ UKR_skip_noc_holdings_tt: "§LХірема§! та його маленька §Lкомпанія§! не потребують коштів які мають піти на §Yбільш важливі проекти§!. §RЯ впевнений, він зрозуміє.§!"
+ UKR_the_committee_in_our_grasp_tt: "Нашим £UKR_collab_texticon §Qколабораціоністам§! не завадило б трохи §Gпідтримки§!. §RАле ми не дозволимо їм висувати незалежні ідеї.§!"
+ UKR_finish_up_the_third_phase_of_gpo_tt: "§F§OТретя фаза§! §oГенералплану Ост§! буде §Vзавершена§! §OТретя фаза§! §oГенералплану Ост§! в наших різноманітних законах.§!"
+ UKR_the_committee_in_our_grasp_2_tt: "§F§RБезсилий§! £UKR_collab_texticon §QУкраїнський Національний Комітет§! буде змінено на §YПід наглядом§! £UKR_collab_texticon §QУкраїнській Національний Комітет§! у наших законах.§!"
 
  ### PARADISE UNDONE ###
  UKR_paradise_undone_tt: "§RНеможливо тренувати юнітів, розформовувати юнітів або редагувати шаблони юнітів.§!"
 
  ### RKU PRE-UCW ###
 
- UKR_play_ohlendorf_tt: "§OYou§! §Wshall follow the story of §oOtto Ohlendorf§!.§!\n\n"
- UKR_play_leibbrandt_tt: "§OYou§! §Wshall follow the story of §BGeorg Leibbrandt§!.§!\n\n"
- UKR_play_brautigam_tt: "§OYou§! §Wshall follow the story of §gHans-Otto Bräutigam§!.§!\n\n"
+ UKR_play_ohlendorf_tt: "§OВи§! §Wбудете стежити за історією §oОтто Олендорфа§!.§!\n\n"
+ UKR_play_leibbrandt_tt: "§OВи§! §Wбудете стежити за історією §BГеорг Ляйббрандт§!.§!\n\n"
+ UKR_play_brautigam_tt: "§OВи§! §Wбудете стежити за історією §gГанс-Отто Браутігам§!.§!\n\n"
 
- UKR_our_most_important_tool_tt: "§F§YSupervised§! £UKR_collab_texticon §QUkrainian National Committee§! will be updated to the §GEmpowered§! £UKR_collab_texticon §QUkrainian National Committee§! in our assorted laws.§!"
- UKR_spears_below_tt: "The §sSecurity Council§! is not the only force in the £UKR_reichskommissariat §jReichskommissariat§!. We cannot do everything on our own."
- UKR_spears_below_2_tt: "§F§sSecurity Council§! will be updated to the §RDivided§! §sSecurity Council§! in our assorted laws.§!"
- UKR_corpse_throne_tt: "§F§GEmpowered§! £UKR_collab_texticon §QUkrainian National Committee§! will be updated to the §RLeaderless§! £UKR_collab_texticon §QUkrainian National Committee§! in our assorted laws.§!"
+ UKR_our_most_important_tool_tt: "§F§YПід наглядом§! £UKR_collab_texticon §QУкраїнський Національний Комітет§! буде оновлено до §GУповноваженого§! £UKR_collab_texticon §QУкраїнській національний комітет§! у наших законах.§!"
+ UKR_spears_below_tt: "§sРада Безпеки§! не є єдиною силою в £UKR_reichskommissariat §jРайхскомісаріяті§!. Ми не можемо зробити все самі."
+ UKR_spears_below_2_tt: "§F§sРада Безпеки§! буде оновлена до §RРозділена§! §sРада Безпеки§! в наших законах.§!"
+ UKR_corpse_throne_tt: "§F§GУповноважений§! £UKR_collab_texticon §QУкраїнській Національний Комітет§! Буде змінено на §RБезпартійний§! £UKR_collab_texticon §QУкраїнський Національний Комітет§! в наших законах.§!"
 
  ### CIVIL WAR ###
  
- UKR_UCW_inevitable_tt: "§RCivil War is now §xinevitable§!.§!"
+ UKR_UCW_inevitable_tt: "§RГромадянська війна стала §xнеминучою§!.§!"
  
- UKR_breadbasket_disable_tt: "The §fBreadbasket mechanic§! has been disabled due to the §xGerman Civil War§!."
+ UKR_breadbasket_disable_tt: "Механіка §fХлібного кошика§! втратив працездатність через §xНімецьку Громадянську Війну§!."
  
- UKR_UCW_UKS_uprising_play_tt: "The time is now, the §Vrevolution§! has §Gbegun§!!"
- UKR_UCW_UKS_uprising_tt: "...and falling."
+ UKR_UCW_UKS_uprising_play_tt: "Час настав, §Vреволюція§! §Gрозпочалася§!!"
+ UKR_UCW_UKS_uprising_tt: "...і падає."
  
- UKR_UCW_FUK_uprising_play_tt: "At long last, §MUkraine§! will finally breathe the air of §Gfreedom§!!"
- UKR_UCW_FUK_uprising_tt: "...and falling."
+ UKR_UCW_FUK_uprising_play_tt: "Нарешті §MУкраїна§! нарешті вдихне повітря §Gсвободи§!!"
+ UKR_UCW_FUK_uprising_tt: "...і падає."
  
- UKR_UCW_BOV_uprising_play_tt: "We will exact our §evengeance§! on those who have wronged us!"
- UKR_UCW_BOV_uprising_tt: "...and falling."
+ UKR_UCW_BOV_uprising_play_tt: "Ми §eпомстимся тим§! хто нас кривдив!"
+ UKR_UCW_BOV_uprising_tt: "...і падає."
 
- UCW_tt: "The dominoes have fallen. §xCivil War§! has begun."
+ UCW_tt: "Доміно впало. §xГромадянська війна§! розпочалася."
  
  ### PRE-UCW ###
- UKR_one_division_infantry_tt: "We will secure §Yone infantry division§! to our side."
- UKR_one_division_militia_tt: "We will secure §Yone militia division§! to our side."
+ UKR_one_division_infantry_tt: "Ми залучимо §Yодну піхотну дівізію§! на свій бік."
+ UKR_one_division_militia_tt: "Ми залучимо §Yодна дивізія міліції§! на свій бік."
  
- UKR_two_division_militia_tt: "We will secure §Ytwo militia divisions§! to our side."
- UKR_two_division_infantry_tt: "We will secure §Ytwo infantry divisions§! to our side."
+ UKR_two_division_militia_tt: "Ми залучимо §Yдві дивізії міліції§! на свій бік."
+ UKR_two_division_infantry_tt: "Ми залучимо §Yдві піхотні дивізії§! на свій бік."
 
  ## POLISSIAN GUARD PRE-UCW ##
  UKR_FUK_intro_tt: ""
- UKR_galicia_roots_tt: "We will gain §Gextra support§! in §BGalicia§! upon our uprising."
- UKR_FUK_collaboration_gonna_be_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Rharder§!, benefitting §MBorovets§! and §PDziuba§!."
- UKR_FUK_collaboration_gonna_be_less_fucked_tt: "This will make any attempts at §Ynegotiation with the Reich§! in the future §Geasier§!, benefitting §gOhloblyn§!."
+ UKR_galicia_roots_tt: "Ми отримаємо §Gдодаткову підтримку§! в §BГаличині§! після нашого повстання."
+ UKR_FUK_collaboration_gonna_be_fucked_tt: "Tвін буде робити будь-які спроби §Yпереговорів з Райхом§! в майбутньому - більш §Rжорсткі§!, на користь §MБоровця§! та §PДзюби§!."
+ UKR_FUK_collaboration_gonna_be_less_fucked_tt: "Це зробить будь-які спроби §Yпереговорів з Райхом§! у майбутньому §Gлегшими§!, що піде на користь §gОглоблину.§!."
 
  ### COMMUNISTS PRE-UCW ###
  UKR_ukrainization_yes: "Ми вирішили §Gрозповсюдити§! Українізацію на території на якій ми базуємось."
  UKR_ukrainization_no: "Ми вирішили піти на §Bкомпроміс§! з російськомовною меншиною на нашій території на якій ми базуємось."
 
  ### RKU UCW ###
- UKR_the_depth_of_decay_tt: "Consumed by degeneracy, the £UKR_reichskommissariat §jReichskommissariat§! has fallen into chaos. We must restore order.\n\n§RNo matter the cost.§!"
+ UKR_the_depth_of_decay_tt: "Поглинутий виродженням, £UKR_reichskommissariat §jРайхскомісаріат§! впав у хаос. Ми повинні відновити порядок.\n\n§RНезважаючи на ціну.§!"
 
- UKR_panacea_tt: "§R§MUkr§!§Yaine§! is sick.§!\n\n£UKR_reichskommissariat §jWe§! §ehave the cure.§!"
- UKR_panacea_2_tt: "§eWe shall reintroduce §qHungerpolitik§!.§!"
+ UKR_panacea_tt: "§R§MУкр§!§Yаїна§! хвора.§!\n\n£UKR_reichskommissariat §jМи§! §eмаємо ліки.§!"
+ UKR_panacea_2_tt: "§eМи знову вводимо §qПолітику голоду§!.§!"
 
- UKR_to_the_strongest_power_struggle_tt: "§YThe strongest man will take his rightful place as acting £UKR_reichskommissariat §jReichskommissar§!.§!"
+ UKR_to_the_strongest_power_struggle_tt: "§YНайсильніший займе своє законне місце виконуючого обов'язки £UKR_reichskommissariat §jРайхскомісара§!.§!"
 
  ### RKU POWER STRUGGLE ###
 
 
  ## BITTER HARVEST GUI ##
- UKR_ucw_supply_GUI_info_tt: "§FWhen the partisans first rose up in the east and the west, their first course of action was to §xset fire to all the fields they come across§! in the hopes of disrupting the food supplies of the §oGermans§!. They succeeded, but they have inadvertently brought the same to themselves.\n\nThe Reichskommissariat and the various partisans, all factions within the conflict has found difficulty in circulating the much needed £UKR_supply_texticon  §ngrain§! to those who need it due to numerous disruptions in the supply lines. With the majority of the fields that have been feeding the ukrainian nation gone, the food stockpiles are running low on all sides. We are no longer fighting for dominance over Ukraine, but we are fighting for our survival from the looming disaster.\n\nThe amount of £UKR_supply_texticon  §ngrain§! that we have remaining are shown on the display bar inside the interface. The §Rless§! grain we have, the §Vmore§! negative bonuses our nation receives. The amount of £UKR_supply_texticon  §ngrain§! we have stored in our nation is very finite, and left unchecked, could spell §Rdisaster§!. It is thus necessary for us to §Ycarefully manage our supply spending§! using the buttons on the interface, choose wisely so as to not run our stockpiles dry.§!"
- UKR_ucw_progressbar_tt: "§FWe have £UKR_supply_texticon  §Y[?UCW_remaining_supply] §!§nBushels of Grain left.§!\n§RWeekly £UKR_supply_texticon  Consumption:§! §Y[?UCW_supply_consumption]§!\n--------------\nBase value: [?UCW_supply_consumption_base|Y0]\nFrom Modifiers: [?modifier@weekly_supply_consumption|Y0-=]§!"
+ UKR_ucw_supply_GUI_info_tt: "§FКоли партизани вперше повстали на сході та заході, їхньою першою дією було §xпідпалити всі поля, які їм траплялися§! в надії порушити постачання продовольства  §oНімцям§!. Їм це вдалося, але вони ненавмисно принесли те ж саме собі.\n\nРайхскомісаріят і різні партизани, всі фракції в конфлікті зіткнулися з труднощами в поширенні вкрай необхідного £UKR_supply_texticon §nзерна§! до тих, хто його потребує, через численні перебої в лініях постачання. Оскільки більшість полів, які годували українську націю, зникли, запаси продовольства вичерпуються з усіх боків. Ми більше не боремося за панування над Україною, ми боремося за наше виживання від катастрофи, що насувається.\n\nКількість £UKR_supply_texticon §nзерна§! що у нас залишилася, показана на панелі дисплея всередині інтерфейсу. Чим §Rменше§! зерна у нас є, тим §Vбільше§! негативних бонусів отримує наша країна. Кількість £UKR_supply_texticon §nзерна§!, яке ми зберігаємо в нашій країні, дуже обмежена, і якщо її не контролювати, це може призвести до §Rкатастрофи§! Тому нам необхідно §Yретельно керувати нашими витратами на постачання§! за допомогою кнопок на інтерфейсі, вибирати з розумом, щоб не вичерпати наші запаси.§!"
+ UKR_ucw_progressbar_tt: "§FМаємо £UKR_supply_texticon  §Y[?UCW_remaining_supply] §!§nЗалишилося бушелів зерна.§!\n§RТижневе £UKR_supply_texticon  Споживання:§! §Y[?UCW_supply_consumption]§!\n--------------\nБазове значення: [?UCW_supply_consumption_base|Y0]\nЗ Модифікаторів:: [?modifier@weekly_supply_consumption|Y0-=]§!"
  
- UCW_allocate_supply_usage: "ALLOCATE SUPPLY USAGE"
+ UCW_allocate_supply_usage: "РОЗПОДІЛИТИ ВИКОРИСТАННЯ ЗАПАСІВ"
 
  UCW_supply_conserve_button_tt: "[UCWConserveTT]"
  UCW_supply_soldiers_button_tt: "[UCWSoldiersTT]"
  UCW_supply_people_button_tt: "[UCWPeopleTT]"
  
- UCW_supply_conserve_button_loc: "§Y§MConserve§! grain stockpiles§!"
- UCW_supply_soldiers_button_loc: "§YDivert grain to §Rfeed the soldiers§!§!"
- UCW_supply_people_button_loc: "§YDivert grain for §Gcivilians§!§!" 
+ UCW_supply_conserve_button_loc: "§Y§MКонсервувати§! запаси зерна§!"
+ UCW_supply_soldiers_button_loc: "§YПеренаправити зерно на §Rгодування солдатів§!§!"
+ UCW_supply_people_button_loc: "§YПеренаправити зерно на §Gгодування цивільних§!§!" 
  
  UCW_supply_conserve_button_tt_delayed: "We will focus on conserving our grain stockpile to prolong the exhaustion period, for this is a war of attrition, not one of power.\n\n[UCWHasPPorNot]\n\n§YWhile active, this will give us the following effects:§!\n\nDivision Organization: §R-5.00%§!\nMonthly Population: §R-5.00%§!\nWeekly Stability: §R-0.10%§!\nWeekly War Support: §R-0.20%§!\nDivision Attack: §R-10.0%§!\nDivision Defense: §R-10.0%§!\nWeekly £UKR_supply_texticon §nSupply§! Consumption: §G-5.00§!"
  UCW_supply_soldiers_button_tt_delayed: "We will prioritize our soldiers fighting in the frontlines to receive their required grain. It is obvious, a strong army will lead us to victory in this war.\n\n[UCWHasPPorNot]\n\n§YWhile active, this will give us the following effects:§!\n\nDivision Organization: §G+10.0%§!\nMonthly Population: §R-10.00%§!\nWeekly Stability: §R-0.20%§!\nWeekly War Support: §G+0.20%§!\nDivision Attack: §G+5.00%§!\nDivision Defense: §G+10.00%§!"
@@ -2686,23 +2686,23 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  
  # Scripted effect tooltips
 
- UKR_RK_war_within_header_tt: "§FModify §YThe War Within§! by§!\n"
+ UKR_RK_war_within_header_tt: "§FЗмінити §YВійну всередині§! на§!\n"
 
- UKR_RK_war_within_change_pop_U_tt: "§FMonthly Population:§! [?U|%+=]"
- UKR_RK_war_within_change_stab_U_tt: "§FWeekly Stability:§! [?U|%+=]"
- UKR_RK_war_within_change_resistance_activity_U_tt: "§FResistance Activity Chance:§! [?U|%-=]"
+ UKR_RK_war_within_change_pop_U_tt: "§FЩомісячне населення:§! [?U|%+=]"
+ UKR_RK_war_within_change_stab_U_tt: "§FЩотижнева стабільність:§! [?U|%+=]"
+ UKR_RK_war_within_change_resistance_activity_U_tt: "§FШанс активності опору:§! [?U|%-=]"
  UKR_RK_war_within_change_resistance_growth_U_tt: "§FШвидкість зростання опору:§! [?U|%-=]"
- UKR_RK_war_within_change_resistance_decay_U_tt: "§FResistance Decay Speed:§! [?U|%+=]"
- UKR_RK_war_within_change_garrison_factor_U_tt: "§FRequired Garrisons:§! [?U|%-=]"
- UKR_RK_war_within_enable_compliance_tt: "§FCompliance Gain:§! §GEnabled§!"
- UCW_weekly_consumption_increase_tt: "This will §Rincrease§! weekly £UKR_supply_texticon  §Jgrain consumption§! by §R[?UCW_weekly_temp]§!."
- UCW_weekly_consumption_decrease_tt: "This will §Gdecrease§! weekly £UKR_supply_texticon  §Jgrain consumption§! by §G[?UCW_weekly_temp]§!."
+ UKR_RK_war_within_change_resistance_decay_U_tt: "§FШвидкість спаду опору:§! [?U|%+=]"
+ UKR_RK_war_within_change_garrison_factor_U_tt: "§FНеобхідні гарнізони:§! [?U|%-=]"
+ UKR_RK_war_within_enable_compliance_tt: "§FПідвищення рівня комплаєнсу:§! §GУвімкнено§!"
+ UCW_weekly_consumption_increase_tt: "Це призведе до §Rзбільшення§! щотижневого £UKR_supply_texticon §Jспоживання зерна§! на §R[?UCW_weekly_temp]§!."
+ UCW_weekly_consumption_decrease_tt: "Це призведе до §Gзменшення§! щотижневого £UKR_supply_texticon  §Jспоживання зерна§! на §G[?UCW_weekly_temp]§!."
 
- UKR_RK_all_alone_change_stab_P_tt: "Modify §YAll Alone§! by\nWeekly Stability: [?P|%+=]"
- UKR_RK_all_alone_change_recruitable_pop_P_tt: "Modify §YAll Alone§! by\nRecruitable Population Factor: [?P|%+=]"
- UKR_RK_all_alone_change_natsoc_drift_P_tt: "Modify §YAll Alone§! by\nDaily National Socialism Support: [?P|+=]"
+ UKR_RK_all_alone_change_stab_P_tt: "Змінити модифікатори у §YСамотні§!\nЩотижнева стабільність: [?P|%+=]"
+ UKR_RK_all_alone_change_recruitable_pop_P_tt: "Змінити модіфікатори у §YСамотні§!\nФактор рекрутургованого населення: [?P|%+=]"
+ UKR_RK_all_alone_change_natsoc_drift_P_tt: "Змінити модифікатори у §YСамотні§!\nЩоденна підтримка націонал-соціалізму: [?P|+=]"
 
- UKR_RK_panacea_add_tt: "§FAdd §YPanacea§!, which grants (Monthly Population: §R-75.0%§!, Weekly Stability: §R-0.05%§!, Weekly £UKR_supply_texticon  Grain Consumption: §G-10.00)§!"
+ UKR_RK_panacea_add_tt: "§FДодайте §YПанацею§!, яка надає: (Щомісячна чисельність населення: §R-75.0%§!, Щотижнева стабільність: §R-0.05%§!, Щотижнева £UKR_supply_texticon  Споживання зерна: §G-10.00)§!"
  UKR_RK_panacea_header_tt: "§FЗмінити §YПанацею§! за допомогою§!\n"
 
  UKR_RK_panacea_change_monthly_pop_C_tt: "§FЩомісячне населення:§! [?C|%+=]"
@@ -2741,7 +2741,7 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  5_ohlendorf_collab_1_million: "£UKR_collab_texticon §Y5%§! £dollar_sign §Y1M§!"
  5_ohlendorf_collab_1_million_blocked: "£UKR_collab_texticon §R5%§! £dollar_sign §R1M§!"
 
- UKR_power_struggle_active: "The §RPower Struggle§! Has Begun"
+ UKR_power_struggle_active: "§RБоротьба за владу§! розпочалася"
  
  # Debug
  UCW_supply_debug: "§xДЕБАГ:§! Клацніть лівою кнопкою миші, щоб додати 50 | Клацніть правою кнопкою миші, щоб відняти 50" # Їх ніхто не побачить тому мені похуй які баги я зроблю, не їбіть мене з цим
@@ -2770,58 +2770,58 @@ UKR_Erwin_Weinmann_sec_desc: "§YНаціонал-соціалізм§!\n-------
  UKR_remove_uncategorised_law_tt: "§F§W[GetAssortedLawsUKR]§! буде вилучено з наших законів.§!"
 
  UKR_GPO_law_0: "§OТретя фаза§! §oГенплана Ост§!"
- UKR_GPO_law_desc_0: "§oGeneralplan Ost§! exists to prepare for an eventual §rGerman domination§! of all of §BEastern§! §YEurope§! through §Vethnic cleansing§!. The §OThird Phase§!, beginning in the mid-fifties, has focused less on utilizing mass murder to create this demographic shift, instead using contraception and poor health through limited care to induce a decline in Eastern Europeans. It also has granted increased latitude to local £UKR_bureaucracy_texticon §rReichskommissars§!, who have taken the policy in varying directions - unsurprisingly, Koch has been §Vhardline on the topic.§!"
- UKR_GPO_law_1: "§VFinished§! §OThird Phase§! of §oGeneralplan Ost§!"
- UKR_GPO_law_desc_1: "Generalplan Ost§! exists to prepare for an eventual §rGerman domination§! of all of §BEastern§! §YEurope§! through §Vethnic cleansing§!. The §OThird Phase§!, which began in the mid-fifties, continued the process through settlement and limitations on Ukrainian livelihoods. With its completion, the £UKR_bureaucracy_texticon §rReichskommissariat§! has met its goals for §jGermanization§! over the last five years, capping off fifteen years of fruitful service from the §rReichskommissar§!."
+ UKR_GPO_law_desc_0: "§oГенеральний план Ост§! існує для того, щоб підготуватися до можливого §rНімецького панування§! над усією §BСхідною§! §YЄвропою§! через §Vетнічні чистки§!. §OТретя фаза§!, починаючи з середини п'ятдесятих років, менше зосереджувалася на використанні масових вбивств для створення демографічного зсуву, натомість використовуючи контрацепцію і поганий стан здоров'я через обмежену медичну допомогу, щоб викликати зменшення кількості східноєвропейців. Вона також надала більшу свободу дій місцевим £UKR_bureaucracy_texticon §rРайхскомісаріат§!, які проводили політику в різних напрямках - не дивно, що Кох був §Vжорстко налаштований на цю тему§!"
+ UKR_GPO_law_1: "§VЗавершена§! §OТретя фаза§! §oГенералплану Ост§!"
+ UKR_GPO_law_desc_1: "Генеральний план Ост§! існує для того, щоб підготуватися до можливого §rНімецького панування§! над усією §BСхідною§! §YЄвропою§! шляхом §Vетнічних чисток§!. §OТретя фаза§!, що розпочалася в середині п'ятдесятих років, продовжила цей процес через поселення та обмеження життєдіяльності українців. З її завершенням, §rРайхскомісаріат§! £UKR_bureaucracy_texticon §rРайхскомісаріат§! досягнув своїх цілей з §jГерманізації§! за останні п'ять років, завершивши п'ятнадцять років плідної служби на посаді §rРайхскомісара§!."
 
- UKR_UNC_law_0: "§RPowerless§! £UKR_collab_texticon §QUkrainian National Committee§!"
- UKR_UNC_law_desc_0: "Led by Andriy Melnyk, the §QUkrainian National Committee§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. Since that time, the UNC has fallen into §girrelevance§!, with §rReichskommissar Koch§! refusing to allow it any degree of importance. Even with his role as deputy, Leibbrandt has been unable to change the situation for §Qhis army§!."
- UKR_UNC_law_1: "§YSupervised§! £UKR_collab_texticon §QUkrainian National Committee§!"
- UKR_UNC_law_desc_1: "Led by Andriy Melnyk, the §QUkrainian National Committee§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. §rReichskommissar Koch§! has allowed the §QUNC§! a role in government, though only with the §gstrictest of supervision§!, its powers so limited as to be essentially ceremonial."
- UKR_UNC_law_2: "§GEmpowered§! £UKR_collab_texticon §QUkrainian National Committee§!"
- UKR_UNC_law_desc_2: "Led by Andriy Melnyk, the §QUkrainian National Committee§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. With an ascendant §BLeibbrandt§!, the UNC is now allowed limited advisory and even §Gdiscretionary action§!, though intense §rReichskommissariat scrutiny and pressure§! makes it continue to serve as a German mouthpiece."
- UKR_UNC_law_3: "§RLeaderless§! £UKR_collab_texticon §QUkrainian National Committee§!"
- UKR_UNC_law_desc_3: "The §QUkrainian National Committee§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. However, following the §qdeath§! of Andriy Melnyk, the organization now is §Vunable to proceed§! with even basic duties, and §sSecurity Council§! gridlock makes replacing the leader §xnear-impossible§!."
+ UKR_UNC_law_0: "§RБезсилий§! £UKR_collab_texticon §QУкраїнський Національний Комітет§!"
+ UKR_UNC_law_desc_0: "На чолі з Андрієм Мельником, §QУкраїнський Національний Комітет§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. Since that time, the UNC has fallen into §girrelevance§!, with §rReichskommissar Koch§! refusing to allow it any degree of importance. Even with his role as deputy, Leibbrandt has been unable to change the situation for §Qhis army§!."
+ UKR_UNC_law_1: "§YПід наглядний§! £UKR_collab_texticon §QУкраїнський Національний Комітет§!"
+ UKR_UNC_law_desc_1: "На чолі з Андрієм Мельником, §QУкраїнський Національний Комітет§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. §rReichskommissar Koch§! has allowed the §QUNC§! a role in government, though only with the §gstrictest of supervision§!, its powers so limited as to be essentially ceremonial."
+ UKR_UNC_law_2: "§GУповноважений§! £UKR_collab_texticon §QУкраїнський Національний Комітет§!"
+ UKR_UNC_law_desc_2: "На чолі з Андрієм Мельником, §QУкраїнський Національний Комітет§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. With an ascendant §BLeibbrandt§!, the UNC is now allowed limited advisory and even §Gdiscretionary action§!, though intense §rReichskommissariat scrutiny and pressure§! makes it continue to serve as a German mouthpiece."
+ UKR_UNC_law_3: "§RБез лідерний§! £UKR_collab_texticon §QУкраїнський Національний Комітет§!"
+ UKR_UNC_law_desc_3: "§QУкраїнський Національний Комітет§! is the sole representative body of the  £UKR_collab_texticon §QCollaborators§!, founded by §BGeorg Leibbrandt§! in order to finance and operate the anti-partisan §dUkrainian National Army§!. However, following the §qdeath§! of Andriy Melnyk, the organization now is §Vunable to proceed§! with even basic duties, and §sSecurity Council§! gridlock makes replacing the leader §xnear-impossible§!."
 
- UKR_Bandenbekampfung_law: "§xBandenbekämpfung§!"
- UKR_Bandenbekampfung_law_desc: "Under §xBandenbekämpfung§!, The £UKR_military_texticon §sGerman garrison§! is currently empowered to take extreme action against so-called "Bandits", essentially meaning any §mpartisan§! forces. This included not only free reign to kill any suspects without process but also freedom to §qpillage and destroy§! villages in §Vpartisan controlled territory§! as needed. At present, there are functionally §Vno limits§! to §sGarrison§! action in the field, so long as it is done under these pretenses."
- UKR_National_Symbols_Forbidden_law: "§MNational§! §YSymbols§! §RForbidden§!"
- UKR_National_Symbols_Forbidden_law_desc: "The §rReichskommissariat Ukraine§!, despite the name, is not a §sUkrainian institution§!. As such, statements of §BUkrainian§! §Ynationalism§! are §fforbidden§!, and this suppression extends even into the visual; symbols of Ukraine are §Vforbidden§! in public. Even £UKR_collab_texticon §Qcollaborators§! are limited to the designated symbols for the UNA and UNC. Most towns have been redecorated to be §j"German"§!, removing symbols of Ukraine and adding £UKR_bureaucracy_texticon §rNazi§! iconography."
- UKR_Land_Management_Company_Ukraine_law: "£UKR_industrial_texticon §LLand Management Company Ukraine§!"
- UKR_Land_Management_Company_Ukraine_law_desc: "Though much land has been sold off to important and connected German £UKR_industrial_texticon §Lindustrialists§!, a great wealth of Ukrainian territory is still held by the £UKR_bureaucracy_texticon §rEastern Ministry (Ostministerium)§!. With their proxy in the Land Management Company Ukraine, the Reichskommissariat holds much of the former §xSoviet§! State farms and agricultural machinery, repurposing them to aid the German economy. This gives the §rRK§! great latitude with which to shape economic policy."
+ UKR_Bandenbekampfung_law: "§xБоротьба з бандитами§!"
+ UKR_Bandenbekampfung_law_desc: "Відповідно до §xБоротьба з бандитами§!, £UKR_military_texticon §sНімецький гарнізон§! наразі уповноважений вживати крайніх заходів проти так званих "бандитів", по суті, маючи на увазі будь-які §mпартизанські§! сили. Це включає в себе не лише право вбивати будь-яких підозрюваних без суду і слідства, але й свободу §qграбувати і знищувати§! села на §Vтериторії, контрольованій партизанами§!, за необхідності. На сьогоднішній день існують §Vфункціональні обмеження§! для дій §sГарнізону§! на місцях, якщо вони здійснюються під цими приводами."
+ UKR_National_Symbols_Forbidden_law: "§MНаціональні§! §YСимволи§! §RЗаборонені§!"
+ UKR_National_Symbols_Forbidden_law_desc: "§rРайхскомісаріят Україна§!, незважаючи на назву, не є §sУкраїнською установою§!. Таким чином, заяви про §BУкраїнський§! §Yнаціоналізм§! є §fзабороненими§!, і це придушення поширюється навіть на візуальну сферу; символи України є §Vзабороненими§! у публічному просторі. Навіть £UKR_collab_texticon §Qколаборанти§! обмежується символікою УНА та УНК. Більшість міст були перероблені на §j"Німецькі"§!, видаливши символи України та додавши £UKR_bureaucracy_texticon §rНацистьку§! іконографію."
+ UKR_Land_Management_Company_Ukraine_law: "£UKR_industrial_texticon §LЗемлевпорядна компанія Україна§!"
+ UKR_Land_Management_Company_Ukraine_law_desc: "Хоча багато землі було розпродано важливим і пов'язаним німецьким £UKR_industrial_texticon §Lпромисловцям§!, величезна частина української території все ще перебуває у власності £UKR_bureaucracy_texticon §rСхідного Міністерства (Остміністерство)§!. Через свою довірену особу в землевпорядній компанії "Україна", Райхскомісаріят володіє більшою частиною колишніх §xРадянських§! радгоспів та сільськогосподарської техніки, перепрофілюючи їх на допомогу німецькій економіці. Це дає §рРК§! велику свободу дій у формуванні економічної політики."
 
- UKR_SC_law_0: "§sSecurity Council§!"
+ UKR_SC_law_0: "§sРада Безпеки§!"
  UKR_SC_law_desc_0: "Formed as a temporary measure following the §Vincapacitation§! of Erich Koch, the §sSecurity Council§! serves as a collective body which functionally operates the government. Composed of leading members of the £UKR_bureaucracy_texticon §rbureaucracy§! from all ministries and factions, the Council operates through consensus of its membership, functionally checking the power of the Deputy Reichskommissar - though §BGeorg Leibbrandt§! is himself a member."
- UKR_SC_law_1: "§RDivided§! §sSecurity Council§!"
+ UKR_SC_law_1: "§RРозділена§! §sРада Безпеки§!"
  UKR_SC_law_desc_1: "Formed as a temporary measure following the §Vincapacitation§! of Erich Koch, the §sSecurity Council§! serves as a collective body which functionally operates the government. Almost immediately and despite assurances to the opposite, the §sSecurity Council§! has fallen to §Rinfighting§!, as §rracialists§!, §Breformists§!, and §dradicals§! fight over appropriate government policy."
- UKR_SC_law_2: "§YCoordinated§! §sSecurity Council§!"
+ UKR_SC_law_2: "§YСкоординована§! §sРада Безпеки§!"
  UKR_SC_law_desc_2: "Formed as a temporary measure following the §Vincapacitation§! of Erich Koch, the §sSecurity Council§! serves as a collective body which functionally operates the government. Following negotiations, the body has begun §Ycoordinating policy§!, operating through backroom deals rather than active debates in order to appear §Wunified§!."
- UKR_SC_law_3: "§VFactionalized§! §sSecurity Council§!"
+ UKR_SC_law_3: "§VФракціоналізована§! §sРада Безпеки§!"
  UKR_SC_law_desc_3: "Formed as a temporary measure following the §Vincapacitation§! of Erich Koch, the §sSecurity Council§! serves as a collective body which functionally operates the government. As conditions grow worse, existing informal divides have turned into §xoutright factions§!, loosely organized but clearly delineated. As the security council was never designed for such a government, effective policy has been made more difficult, though political mobilization has never been easier."
 
- UKR_Dnieper_Mech_law: "Dnieper Mechanization"
- UKR_Dnieper_Mech_law_desc: "The region of Southern Ukraine near the Dnieper has seen a renewed modernization drive, bringing its agricultural machinery into the decade. This new investment, made to satisfy the rising grain demands from Germania, should allow for higher yields in the region in coming harvests."
- UKR_Decollectivization_law: "Decollectivization Completed"
- UKR_Decollectivization_law_desc: "Following an edict by Erich Koch, planned decollectivization has been completed, taking the remaining state farms and reorganizing them as locally-ran cooperatives. While this limits the government's ability to manage Ukraine's output, this change does make for a more stable and prosperous economy in the future."
+ UKR_Dnieper_Mech_law: "Механізація Наддніпрянщини"
+ UKR_Dnieper_Mech_law_desc: "Південноукраїнський регіон поблизу Дніпра став свідком нової хвилі модернізації сільськогосподарського машинобудування, завдяки якій він увійшов у десятиліття модернізації. Ці нові інвестиції, спрямовані на задоволення зростаючого попиту на зерно з боку Німеччини, мають забезпечити вищі врожаї в регіоні в наступному році."
+ UKR_Decollectivization_law: "Деколективізацію завершено"
+ UKR_Decollectivization_law_desc: "Згідно з указом Еріха Коха, запланована деколлективізація була завершена: решта радгоспів були реорганізовані в місцеві кооперативи. Хоча це і обмежує можливості уряду управляти виробництвом в Україні, але ці зміни сприятимуть більш стабільній та процвітаючій економіці в майбутньому."
 
- UKR_Hungerpolitik_law: "§qHungerpolitik§!"
- UKR_Hungerpolitik_law_desc: "§qThe Hunger Plan§!, originally used during the Second World War to strengthen the £UKR_military_texticon §sGerman army§!, weaken resistance, and allow for future §rGermanization§!, has been re-enacted for much of the same reasons. This plan sees Ukrainians given intentionally small rations - most Ukrainians will receive at most §Vhalf§! of their daily calories, with those unimportant to the continuing war being given even less, and those in prison barely §qanything at all§!."
+ UKR_Hungerpolitik_law: "§qПолітика голоду§!"
+ UKR_Hungerpolitik_law_desc: "§qПлан голоду§!, який спочатку використовувався під час Другої світової війни для зміцнення £UKR_military_texticon §sНімецької армії§!, ослаблення опору та створення умов для майбутньої §rГерманізації§!, був відтворений з тих самих причин. Цей план передбачає навмисно малі пайки для українців - більшість українців отримуватимуть щонайбільше §Vполовину§! своїх щоденних калорій, а ті, хто не є важливими для продовження війни, отримуватимуть ще менше, а ті, хто перебуває у в'язницях, §qвзагалі нічого не отримають§!."
 
- UKR_CLB_law: "§sChristened Leadership Bureau§!"
- UKR_CLB_law_desc: "Christianed Leadership Bureau"
+ UKR_CLB_law: "§sБюро християнського лідерства§!"
+ UKR_CLB_law_desc: "Бюро християнського лідерства"
 
- UKR_Zhytomyr_Justice_law: "§qZhytomyr Justice Trials§!"
- UKR_Zhytomyr_Justice_law_desc: "Zhytomyr Justice Trials"
+ UKR_Zhytomyr_Justice_law: "§qЖитомирські судові процеси§!"
+ UKR_Zhytomyr_Justice_law_desc: "Житомирські судові процеси"
 
  ### 10.3 - A little something extra ###
 
  UKR_nuke.1.t: "Святкування"
- UKR_nuke.1.desc: "Yuriy and Natasha lived together in a large apartment complex in Kiev—a complex that they jokingly called the ugliest building in the entire city. Hastily erected during the old Soviet days, with only half-hearted repairs made by the Germans to stop it from collapsing, the ramshackle building seemed like a dirty smudge against the horizon. Yuriy joked that the grime was the only thing keeping the walls glued together.\n\nBut these were minor problems. Yuriy and Natasha were living in an age of miracles. Ukraine's hardscrabble militias had pushed further than anyone thought possible. After many weeks of waiting for some great calamity and encountering none, the two had agreed to celebrate.\n\n"The stew smells wonderful, Natasha," said Yuriy, as he flattened a lace tablecloth against their pockmarked table. The cloth, along with a set of chipped glass goblets, some of the few possessions they'd succeeded in hiding from the Nazis.\n\nThere was a laugh. Natasha poked her head from their kitchen. Through the window behind her, he could see a beautiful clear sky marked with a single streak of cloud. "Oh, hush. You only say that because you've only had war rations for the past year."\n\n"I'm serious!" He insisted. "Any moment, we're going to hear banging on the door from our neighbors, demanding a bowl!"\n\nShe rolled her eyes, ready to impress him with more of her glittering wit. It was then, however, that something strange happened. The day behind her seemed to be glowing brighter. Long shadows streaked across the room. There was a terrible rumbling, as if the neighbors truly were breaking down the door, and then a shrill, high-pitched screech that drowned out his wife's last word. "Yur—."\n\nThe window exploded. The goblets shattered. The tablecloth erupted in flames. Yuriy heard screaming and then a feeling of weightlessness as the building collapsed around him."
- UKR_nuke.1.a: "They were the lucky ones."
+ UKR_nuke.1.desc: "Юрій та Наталя жили разом у великому житловому комплексі в Київі - комплексі, який вони жартома називали найпотворнішою будівлею в усьому місті. Нашвидкуруч зведена ще за часів Совєцького Союзу, і лише за німців вона була відремонтована, щоб не зруйнувалася, напівзруйнована будівля здавалася брудною плямою на тлі горизонту. Юрій жартував, що бруд - це єдине, що тримає стіни склеєними разом.\n\nАле це були дрібні проблеми. Юрій та Наталя жили у епоху чудес. Українські ополченці просунулися далі, ніж будь-хто вважав можливим. Після багатьох тижнів очікування якогось великого лиха, але так і не дочекавшись його, вони вирішили відсвяткувати.\n\n "Тушонка пахне чудово, Наташо", - сказав Юрій, розстеляючи мереживну скатертину на їхньому поцяткованому рябими плямами столі. Скатертина, разом з набором скляних келихів, були одними з небагатьох речей, які їм вдалося сховати від нацистів.\n\nПочувся сміх. Наталя висунула голову з кухні. Крізь вікно за її спиною він побачив прекрасне чисте небо, позначене єдиною смужкою хмаринки. "Ох, тихіше. Ти так кажеш тільки тому, що весь минулий рік харчувалася лише військовими пайками."\n\n"Я серйозно!" наполягав він. "У будь-яку хвилину ми почуємо стукіт у двері від наших сусідів, які вимагатимуть миску!" Вона закотила очі, готова вразити його ще однією порцією своєї блискучої дотепності. Однак саме тоді сталося щось дивне. День позаду неї, здавалося, світився яскравіше. Довгі тіні простяглися по кімнаті. Почувся жахливий гуркіт, ніби сусіди справді виламували двері, а потім пронизливий, пронизливий крик, який заглушив останнє слово його дружини. "Юр-..."\n\nВікно вибухнуло. Келихи розлетілися вщент. Скатертина спалахнула полум'ям. Юрій почув крик, а потім відчуття невагомості, коли будівля руйнувалася навколо нього." 
+ UKR_nuke.1.a: "Їм пощастило." ### Більше ніколи не буде такої проблеми нового Райховського порядку як "Україна" ###
 
- UKR_nuke.2.t: "The Survivors"
- UKR_nuke.2.desc: ""The flash was so bright. It was brighter than any flash bulb, brighter than the sun. I could feel the air around me growing hot and my body lifting into the air. And then it all went blank. When I woke up, my flesh felt like it was burning from the inside."\n\n"I saw a young boy—maybe six or seven—stumbling through the street. His skin dangled off his body in little strips. He kept repeating the phrase, 'Water. Water. Water.' I wish I'd had something to give him, but I didn't. I kept walking."\n\n"Our apartment complex had been damaged in the explosion and, every few minutes, I could feel it swaying in the wind. When I had gotten down to the ground floor, I saw an old man by the name of Mikhail digging through the rubble. I tried to get him to leave with me, but he kept saying that his wife was buried in the rubble and he wouldn't leave without her. He wouldn't go."\n\n"We ran into the Dnieper. Anything to stop the burning. Anything to get away from the carnage. It was so cold and the water moved so fast that we had to hold onto each other to make sure we wouldn't get swept away. Until I die, I'll never forget how cold the water was, the soft, sticky feeling of our flesh."\n\n"'Mama! Papa!' The little voices were everywhere. They were coming through the floor from the basement classroom, which had collapsed. Another teacher and I tried for what felt like hours to get them out, but we couldn't get through. Eventually the voices stopped."\n\n"Those of us nurses who could stand tried to help as much as we could, but it was too much... There was so much pus. Sticky yellow pus. It oozed out of them and soaked the bandages. We knew we had to conserve what supplies we had but they were in so much pain."\n\n"'Look,' I said after hours of walking. My sister and I looked back for a moment at what had once been Kiev. All the tall buildings were gone and, on the wind, you could hear the wailing.""
- UKR_nuke.2.a: "Memories." # Ядерні Евенти в Україні? Потужно
+ UKR_nuke.2.t: "Вцілілі"
+ UKR_nuke.2.desc: ""Спалах був такий яскравий. Він був яскравішим за будь-яку лампочку-спалах, яскравішим за сонце. Я відчув, як повітря навколо мене стає гарячим і моє тіло піднімається в повітря. А потім все потемніло. Коли я прокинувся, моя плоть ніби горіла зсередини."\n\n"Я побачив маленького хлопчика - можливо, шести або семи років - який спотикався на вулиці. Його шкіра звисала з тіла маленькими смужками. Він постійно повторював фразу: "Вода. Води. Води. Я хотів би щось дати йому, але не мав. Я продовжував йти."\n\n"Наш житловий комплекс був пошкоджений вибухом, і кожні кілька хвилин я відчував, як він гойдається на вітрі. Коли я спустився на перший поверх, то побачив старого чоловіка на ім'я Михайло, який копався в завалах. Я намагався переконати його піти зі мною, але він продовжував говорити, що його дружина похована під завалами і він не піде без неї. Він не пішов."\n\n"Ми побігли до Дніпра. Все, щоб зупинити горіння. Що завгодно, аби втекти від кривавої бійні. Було так холодно, а вода рухалася так швидко, що нам доводилося триматися один за одного, щоб нас не змило. До самої смерті я ніколи не забуду, якою холодною була вода, як м'яко і липко вона торкалася нашої плоті."\n\n"Мамо! Тату! Маленькі голоси були всюди. Вони долинали крізь підлогу з підвального класу, який обвалився. Ми з іншою вчителькою намагалися витягти їх звідти, здавалося, годинами, але не могли пробитися. Зрештою, голоси припинилися."\n\n"Ті з нас, медсестер, хто міг стояти, намагалися допомогти, як могли, але це було занадто багато... Було так багато гною. Липкого жовтого гною. Він сочився з них і просочував бинти. Ми знали, що повинні були зберегти те, що у нас було, але їм було так боляче."\n\n"Дивись", - сказала я після кількох годин ходьби. Ми з сестрою на мить озирнулися на те, що колись було Київом. Всі високі будівлі були зруйновані, і на вітрі можна було почути плач"."
+ UKR_nuke.2.a: "Спогади." # Однак хоч знишкоджай усю "Україну" Українці будуть жити на лють райху
 
  ### 10.5 - Visible Flags 
 
