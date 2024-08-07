@@ -28,8 +28,8 @@
 
  ### Ideas ###
  
- FUK_not_yet_perished:0 "Not Yet Perished"
- FUK_not_yet_perished_desc:0 "The history of the Ukrainian National Revolutionary Army has been one of constant conflict, well-timed cooperation, and a healthy dose of plain luck. Since its inception within the Second Polish Republic as the UNDO, the Galician organization has gone from a political party advocating for greater Ukrainian rights, to an organization feigning collaboration with the long-defunct Galician Military District following the Russo-Ukrainian invasion of Poland, to where it stands today- a besieged partisan organization well entrenched in the western fields of Ukraine.\n\nAs a result of this tumultuous history of the UNRA, few can dispute the tenacity and determination of the democratic dream within Ukraine. May this dream stand forevermore."
+ FUK_not_yet_perished:0 "Ще не вмерли"
+ FUK_not_yet_perished_desc:0 "Історія Української національної революційної армії - це історія постійних конфліктів, своєчасної співпраці та здорової дози простого везіння. З моменту свого заснування у Другій Польській Республіці як УНДО, галицька організація пройшла шлях від політичної партії, що виступала за ширші права українців, до організації, що імітувала співпрацю з давно неіснуючим Галицьким військовим округом після російсько-українського вторгнення в Польщу, до того, де вона перебуває сьогодні - обложеної партизанської організації, що міцно закріпилася на західних полях України.\n\nВ результаті цієї бурхливої історії УНРА мало хто може заперечити наполегливість і рішучість демократичної мрії в межах України. Нехай ця мрія живе завжди."
  
  FUK_foreign_supply_bases:0 "Foreign Supply Bases"
  FUK_foreign_supply_bases_desc:0 "While the Ukrainian democratic dream is fought for within the fields and streets of west Ukraine, the unique foundations of the Ukrainian National Revolutionary Army's organization can be traced back to the Generalgouvernement, where the Galician branch has had little trouble expanding and cementing its position within the populace. As a result, the UNRA has found great difficulty in operating with full clips throughout the Ukrainian Civil War, as its greater supply depots lay in traditionally unreachable land. While this unique set of circumstances does provide a more difficult setting in terms of resupplying our troops, it nonetheless allows our organization as a whole to operate with the advantages of a decentralized force."
@@ -209,9 +209,9 @@
 
  # Pre-UCW Tree
 
- FUK_the_new_hruchevsky: "The New Hruchevsky"
- FUK_the_old_guard_of_the_republic: "The Old Guard of the Republic"
- FUK_borovets_commissars: "Borovets' Commissars"
+ FUK_the_new_hruchevsky: "Новий Грушевський"
+ FUK_the_old_guard_of_the_republic: "Стара гвардія республіки"
+ FUK_borovets_commissars: "Боровецькі комісари"
  FUK_heirs_of_the_exiles: "Heirs of the Exiles"
  FUK_the_culturalists_might: "The Culturalists' Might"
  FUK_the_slave_book_clubs: "The Slave Book Clubs"

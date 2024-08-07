@@ -27,11 +27,11 @@ l_english:
 
 
  ### Country Names ###
- BOV: "Ukrainian State"
- BOV_DEF: "the Ukrainian State"
- BOV_ADJ: "Ukrainian"
+ BOV: "Українська Держава"
+ BOV_DEF: "Українська Держава"
+ BOV_ADJ: "Українськ"
  
- BOV_Dmytro_Klyachkivsky: "Dmytro Klyachkivsky"
+ BOV_Dmytro_Klyachkivsky: "Дмитро Клячківський"
 
  POLITICS_DMYTRO_KLYACHKIVSKY_DESC: "Loyalty. Valor. Sacrifice. Values Stepan Bandera deemed necessary for freedom, followed fervently by Dmytro Klyachkivsky. By Bandera's will, he cleansed Galicia and Volyn of the degenerates who tainted Ukraine's soil. When the Vozhd Konovalets succumbed to illness, they rallied the people against the arch-traitor Melnyk, who bowed to the Germans while they pillaged Ukraine.\n\nLoyalty. Valor. Sacrifice. Values that are long lost. Klyachkivsky took up Bandera's mantle to lead the Ukrainian Insurgent Army. The First Struggle was bloody, and many men fell to the wrath of German steel. While the true revolutionaries fought on, the weak-willed deserted. The Second Struggle had succeeded, until the spineless mongrels returned, serving the Reichskommissar for scraps, some even turned to republicanism. The hordes of betrayers had overwhelmed them, and Klyachkivsky would have revenge.\n\nLoyalty. Valor. Sacrifice. Values that must be restored. Ukraine's people languish in chains, shackled by betrayers and their foreign masters. Only true strength can save them, not the decadent liberals, not the socialist Jews, and not the foreign cockroaches. They are a disease that must be eradicated, a poisonous taint can that can only be purged through the flames of battle. Ukraine will not be free until Bandera's will is done."
  POLITICS_ROMAN_SHUKHEVYCH_DESC: "Roman Shukhevych, Tur, Taras Chprynka - all names for a man haunted by his past. He was the German's Ukrainian golden boy, shining in blood. He was an officer in the Nachtigall battalions, perpetrating pogroms against the Jews of Lviv. He was a Hauptmann of Schutzmannschaft Battalion 201, partaking in the butchering of tens of thousands of Poles during the Galicia Volhynia massacres. His reward for these "anti-partisan measures" was betrayal from the Germans and the solidification of their hold over Ukraine.\n\nThat is his history, he may not be proud of it, but it is part of him. For Shukhevych, reconciling his past as a collaborator and his present as a resistance fighter is simple. The motivations that connected these two lives have not changed - every act he committed was in pursuit of a brighter Ukraine.\n\nIt is for the present and future he fights for. The purging of Klyachkivsky and Stetsko's cliques was necessary, already they had alienated so many potential allies in the fight against Germany. A house divided against itself cannot stand, and Ukraine's house is inches from the abyss. Unity is all that is left that can save it if it is already not too late..."
@@ -40,25 +40,25 @@ l_english:
 
  ### Ministers ###
 
- BOV_Stepan_Lenkavskyi: "Stepan Lenkavskyi"
- BOV_Roman_Shukhevych: "Roman Shukhevych"
- BOV_Yaroslav_Stetsko: "Yaroslav Stetsko"
- BOV_Dmytro_Myron: "Dmytro Myron"
- BOV_Vasyl_Halasa: "Vasyl Halasa"
- BOV_Mykhailo_Medvid: "Mykhailo Medvid"
- BOV_Vasyl_Kuk: "Vasyl Kuk"
- BOV_Yosyp_Pozychanyuk: "Yosyp Pozychanyuk"
- BOV_Volodymyr_Horbovyi: "Volodymyr Horbovyi"
- BOV_Rostyslav_Voloshyn: "Rostyslav Voloshyn"
- BOV_Lev_Rebet: "Lev Rebet"
- BOV_Dmytro_Maivsky: "Dmytro Maivsky"
- BOV_Andriy_Piasetsky: "Andriy Piasetsky"
- BOV_Mykola_Lebed: "Mykola Lebed"
- BOV_Slava_Stetsko: "Slava Stetsko"
- BOV_Dmytro_Hrytsai: "Dmytro Hrytsai"
- BOV_Oleksa_Gasin: "Oleksa Gasin"
- BOV_Ivan_Butkovskyi: "Ivan Butkovskyi"
- BOV_Power_Vacuum: "Power Vacuum"
+ BOV_Stepan_Lenkavskyi: "Степан Ленкавський"
+ BOV_Roman_Shukhevych: "Роман Шухевич"
+ BOV_Yaroslav_Stetsko: "Ярослав Стецько"
+ BOV_Dmytro_Myron: "Дмитро Мирон"
+ BOV_Vasyl_Halasa: "Василь Галаса"
+ BOV_Mykhailo_Medvid: "Михайло Медвідь"
+ BOV_Vasyl_Kuk: "Василь Кук"
+ BOV_Yosyp_Pozychanyuk: "Йосип Позичанюк"
+ BOV_Volodymyr_Horbovyi: "Володимир Горбовий"
+ BOV_Rostyslav_Voloshyn: "Ростислав Волошин"
+ BOV_Lev_Rebet: "Лев Ребет"
+ BOV_Dmytro_Maivsky: "Дмитро Маївський"
+ BOV_Andriy_Piasetsky: "Андрій П'ясецький"
+ BOV_Mykola_Lebed: "Микола Лебедь"
+ BOV_Slava_Stetsko: "Слава Стецько"
+ BOV_Dmytro_Hrytsai: "Дмитро Грицай"
+ BOV_Oleksa_Gasin: "Олекса Гасин"
+ BOV_Ivan_Butkovskyi: "Іван Буткоський"
+ BOV_Power_Vacuum: "Силовий вакуум"
 
  BOV_Roman_Shukhevych_hog_desc: "§YDeputy Commander-in-Chief\nRevolutionary Nationalism§!\n--------------\n§LRoman Shukhevych, in his own words, is a patriot - a man who will do anything in the fight for a free and powerful Ukraine, serving as the second-in-command of the UPA and as one of their most experienced generals. To others, he is a traitor turned twice, first on his own, then on the Germans. A bloodthirsty brute who justifies slaughtering thousands of Poles as a means to an end.\n\nPrevented from assuming leadership of the OUN after Bandera's death due to ideological purity, Shukhevych compromised with his opponents to maintain unity.\n\nDespite this, he is a man who finds himself at odds with Klyachkivsky's fanaticism, Shukhevych feels he must act, but reluctance clouds his every thought. Backstabbing Klyachkivsky and abandoning the Permanent Revolution would make him no better than Melnyk.\n\nBut years of German exploitation have taken their toll on the nation, and even the UPA must compromise on their old ways. Real patriots understand that Ukraine's survival is more important than petty political squabbles, only time will tell if the rest of the UPA can.§!"
  BOV_Stepan_Lenkavskyi_hog_desc: "§YFirst Minister to the Vozhd\nUltranationalism§!\n--------------\n§LAuthor of the Commandments of the Ukrainian Nationalist, Stepan Lenkavskyi has been an ally of Bandera from the earliest beginnings of the infamous revolutionary. A skilled administrator and the de facto leader of civilian affairs, Lenkavskyi approaches his work with the fiercest of zeal, for the Permanent Revolution cannot succeed abroad if it fails at home. As Klyachkivsky's right-hand man, he'll see their bloody task completed, no matter the cost.§!"
@@ -87,20 +87,20 @@ l_english:
 
  ### Generals ###
 
- BOV_Vasyl_Skolozdra: "Vasyl Skolozdra"
- BOV_Vasyl_Gudzik: "Vasyl Gudzik"
- BOV_Viktor_Kharkiv: "Viktor Kharkiv"
- BOV_Mykola_Yakymchuk: "Mykola Yakymchuk"
- BOV_Serhiy_Kachynsky: "Serhiy Kachynsky"
+ BOV_Vasyl_Skolozdra: "Василь Сколоздра"
+ BOV_Vasyl_Gudzik: "Василь Ґудзик"
+ BOV_Viktor_Kharkiv: "Віктор Харків"
+ BOV_Mykola_Yakymchuk: "Микола Якимчук"
+ BOV_Serhiy_Kachynsky: "Сергій Качинський"
 
  ### Party Names ###
  
- BOV_ultranationalism_party: "UPA - Klyachkivtsi"
- BOV_ultranationalism_party_long: "Ukrayins'ka Povstans'ka Armiya - Klyachkivtsi"
- BOV_fascism_party: "UPA - Shukhevychi"
- BOV_fascism_party_long: "Ukrayins'ka Povstans'ka Armiya - Shukhevychi"
- BOV_national_socialism_party: "UPA - Stets'koity"
- BOV_national_socialism_party_long: "Ukrayins'ka Povstans'ka Armiya - Stets'koity"
+ BOV_ultranationalism_party: "УПА - Клячківці"
+ BOV_ultranationalism_party_long: "Українська Повстанська Армія - Клячківці"
+ BOV_fascism_party: "УПА - Шухевичі"
+ BOV_fascism_party_long: "Українська Повстанська Армія - Шухевичі"
+ BOV_national_socialism_party: "УПА - Стецьківці"
+ BOV_national_socialism_party_long: "Українська Повстанська Армія - Стецьківці"
  
  ### Ideas ###
 
@@ -196,9 +196,9 @@ l_english:
 
  #Pre-UCW Tree 
 
- BOV_vozhd_commands: "The Vozhd Commands"
- BOV_dissent_dark: "Dissent in the Dark..."
- BOV_rage_ranks: "...and Rage Amongst the Ranks"
+ BOV_vozhd_commands: "Команди Вождя"
+ BOV_dissent_dark: "Незгода в темряві..."
+ BOV_rage_ranks: "...Та лють у війську"
  BOV_bloody_fray: "Into the Bloody Fray"
  BOV_connections_faithless: "Connections of the Faithless"
  BOV_carnage_righteous: "Carnage of the Righteous"
