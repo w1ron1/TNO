@@ -2,13 +2,13 @@
 
  ## BATTLE FOR ITALY REWORK ##
  ## GUI
- TNO_BFI_GUI_Issue_tt:0 "Issue: [BFI_current_issue_text]"
- TNO_BFI_GUI_Points_tt:0 "Points: [?bfi_points_available]"
+ TNO_BFI_GUI_Issue_tt:0 "Проблеми: [BFI_current_issue_text]"
+ TNO_BFI_GUI_Points_tt:0 "Бали: [?bfi_points_available]"
 
 
- BFI_gui_italy_name:0 "Italy"
- BFI_gui_usa_name:0 "USA"
- BFI_gui_japan_name:0 "Japan"
+ BFI_gui_italy_name:0 "Італія"
+ BFI_gui_usa_name:0 "США"
+ BFI_gui_japan_name:0 "Японія"
 
  # Button 1
  BFI_gui_action_button_1_name:0 "No Investment"
