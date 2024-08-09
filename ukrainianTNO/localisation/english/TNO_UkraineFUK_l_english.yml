@@ -32,93 +32,93 @@
  FUK_not_yet_perished_desc:0 "Історія Української національної революційної армії - це історія постійних конфліктів, своєчасної співпраці та здорової дози простого везіння. З моменту свого заснування у Другій Польській Республіці як УНДО, галицька організація пройшла шлях від політичної партії, що виступала за ширші права українців, до організації, що імітувала співпрацю з давно неіснуючим Галицьким військовим округом після російсько-українського вторгнення в Польщу, до того, де вона перебуває сьогодні - обложеної партизанської організації, що міцно закріпилася на західних полях України.\n\nВ результаті цієї бурхливої історії УНРА мало хто може заперечити наполегливість і рішучість демократичної мрії в межах України. Нехай ця мрія живе завжди."
  
  FUK_foreign_supply_bases:0 "Іноземні бази постачання"
- FUK_foreign_supply_bases_desc:0 "While the Ukrainian democratic dream is fought for within the fields and streets of west Ukraine, the unique foundations of the Ukrainian National Revolutionary Army's organization can be traced back to the Generalgouvernement, where the Galician branch has had little trouble expanding and cementing its position within the populace. As a result, the UNRA has found great difficulty in operating with full clips throughout the Ukrainian Civil War, as its greater supply depots lay in traditionally unreachable land. While this unique set of circumstances does provide a more difficult setting in terms of resupplying our troops, it nonetheless allows our organization as a whole to operate with the advantages of a decentralized force."
+ FUK_foreign_supply_bases_desc:0 "У той час як українська демократична мрія виборюється на полях і вулицях Західної України, унікальні підвалини організації Української Національної Революційної Армії можна простежити ще в Ґенеральному Губернаторстві, де галицька філія не мала особливих проблем з розширенням і закріпленням своїх позицій серед населення. Як наслідок, УНРА зіткнулася з великими труднощами в роботі з повними обоймами протягом всієї Громадянської війни в Україні, оскільки її основні склади постачання знаходилися в традиційно важкодоступній місцевості. Хоча цей унікальний збіг обставин і створює складніші умови для забезпечення наших військ, він, тим не менш, дозволяє нашій організації в цілому діяти з перевагами децентралізованої сили."
 
  FUK_idea_scraps_of_the_pipeline:0 "Уламки трубопроводу"
- FUK_idea_scraps_of_the_pipeline_desc:0 "A burst of gunfire. Then silence. In a derelict train station, a soldier sorts through equipment, likely looted from the army's disrupted supply lines.\n\nHis comrades line the civilians against the wall, while the remnants of the smugglers' last stand stain the floor. Someday, after the UNRA captures more land, more resources, they won't have to do this. But for now, this was all the army could get."
+ FUK_idea_scraps_of_the_pipeline_desc:0 "Постріли. Потім тиша. На покинутій залізничній станції солдат перебирає спорядження, ймовірно, награбоване з перебитих армійських ліній постачання.\n\nЙого товариші вишиковують цивільних до стінки, в той час як залишки останнього бою контрабандистів бруднять підлогу. Колись, коли УНРА захопить більше землі, більше ресурсів, їм не доведеться цього робити. Але поки що це все, що армія змогла отримати."
 
  FUK_ukrainian_war_machine:0 "Українська бойова машина"
- FUK_ukrainian_war_machine_desc:0 "Children watch with wide-eyed wonder as dark smoke billows from the chimneys. Gray skies cover the earth but inside the factories, sparks fly like fireflies as workers smelt, hammer, and extract metal from the very chains that had bound them to their labor.\n\nSoon, trucks will arrive, carrying ore from the captured mines. But right now, the first weapons of liberation will wait for no one."
+ FUK_ukrainian_war_machine_desc:0 "Діти з широко розплющеними очима дивляться, як з димарів валить темний дим. Сіре небо вкриває землю, але всередині заводів іскри літають, як світлячки, коли робітники плавлять, молотять і витягують метал з тих самих ланцюгів, які зв'язали їх своєю працею.\n\nСкоро прибудуть вантажівки, що везтимуть руду із захоплених шахт. Але зараз перша зброя визволення нікого не чекатиме."
 
- FUK_collaborator_industrial_connections:0 "Collaborator Industrial Connections"
- FUK_collaborator_industrial_connections_desc:0 "For months, the trucks carried scarce helpings of iron and coal. Now, they come in droves, parading graphite, potash, textile machines, and centrifuges.\n\nSuspicious observers note that it's not easy to get these materials in western Ukraine, and the east's mines are still damaged or being fought over. That said, what does it matter where things come from if the factories can roar to life once more?"
+ FUK_collaborator_industrial_connections:0 "Колабораціоністькі Промислові зв'язки"
+ FUK_collaborator_industrial_connections_desc:0 "Місяцями вантажівки везли мізерні порції заліза і вугілля. Тепер вони приїжджають натовпами, демонструючи графіт, калій, текстильні машини і центрифуги.\n\nСпідозрілі спостерігачі відзначають, що ці матеріали нелегко дістати в Західній Україні, а шахти на сході все ще пошкоджені або за них ведуться бої. Проте, яка різниця, звідки вони беруться, якщо заводи можуть знову запрацювати?"
 
- FUK_everything_for_victory:0 "Усе для перемоги"
- FUK_everything_for_victory_desc:0 "Ammonia reactors supplant vodka stills in the distilleries. The metallic tang of gunpowder replaces the scent of bread and cake in the bakeries. And recycled scrap is sorted in the schools, smelted in the churches, and soldered in the libraries.\n\nEach city functions as one big arms factory. Day and night, the gears will never stop turning and the lights will never go out, not until this war is over."
+ FUK_everything_for_victory:0 "Усе задля перемоги"
+ FUK_everything_for_victory_desc:0 "Аміачні реактори витісняють горілчані перегінні апарати на лікеро-горілчаних заводах. Металевий присмак пороху замінює запах хліба та тістечок у пекарнях. А перероблений брухт сортують у школах, плавлять у церквах і паяють у бібліотеках.\n\nКожне місто функціонує як один великий збройовий завод. Вдень і вночі шестерні ніколи не перестануть крутитися, а світло ніколи не згасне, доки ця війна не закінчиться."
  
  FUK_brothers_war_idea:0 "Братська війна"
- FUK_brothers_war_idea_desc:0 "§FWar Support: [?brothers_war_war_support|=+%]\nRecruitable Population Factor: [?brothers_war_manpower|=+%]\nSurrender Limit: [?brothers_war_surrender|=+%]\nDivision Attack: [?brothers_war_attack|=+%]\nAI Focus on Offense: §Y50%§!§!\n§g--------------§!\nWithin the Ukrainian National Revolutionary Army, there is a dream of a free Ukraine, one independent of German interests, one free to choose its own path, devoid of the influence of others. Why, then, we fight as fiercely against the Ukrainian Insurgent Army as we do against the former colonial regime is a question which troubles many within our ranks. The trouble, of course, comes with the simple fact that our two resistance organizations have had more than enough disagreements to put ourselves at odds with one another, not only in terms of ethics but also in terms of policy for the Ukrainian people. While the UNRA would hope for a future without further violence, the Ukrainian Insurgent Army seems intent as ever to expand beyond the boundaries of land held by even the colonial regime, inflicting only more pain and suffering against the Ukrainian people.\n\nEven with these irreconcilable differences, the people still question our war against the UPA, unfortunately. All we can answer these concerns with for now is a quick end to this deeply unpopular war."
- FUK_brothers_war:0 "Brother's War"
+ FUK_brothers_war_idea_desc:0 "§FВійськова підтримка: [?brothers_war_war_support|=+%]\nФактор рекрутованного населення: [?brothers_war_manpower|=+%]\nЛіміт капітуляції: [?brothers_war_surrender|=+%]\nАтака дивізії: [?brothers_war_attack|=+%]\nЗусередження ШІ на атаці: §Y50%§!§!\n§g--------------§!\nВ Українській Національній Революційній Армії існує мрія про вільну Україну, незалежну від ґерманських інтересів, вільну у виборі власного шляху, позбавлену чужого впливу. Чому ж тоді ми боремося проти Української Повстанської Армії так само запекло, як і проти колишнього колоніального режиму - це питання, яке турбує багатьох у наших лавах. Проблема, звичайно, полягає в тому простому факті, що наші дві організації опору мали більш ніж достатньо розбіжностей, щоб протиставити себе одна одній, не тільки з точки зору етики, але й з точки зору політики щодо українського народу. У той час як УНРА сподівається на майбутнє без подальшого насильства, Українська повстанська армія, здається, як ніколи має намір розширюватися за межі земель, які утримувалися навіть колоніальним режимом, завдаючи українському народові лише більшого болю і страждань.\n\nНавіть попри ці непримиренні розбіжності, люди, на жаль, все ще ставлять під сумнів нашу війну проти УПА. Все, чим ми можемо наразі відповісти на ці занепокоєння, - це якнайшвидше завершення цієї глибоко непопулярної війни."
+ FUK_brothers_war:0 "Братська війна"
 
- UKR_galicia_buffs:0 "Borovets' Galician Forces"
- UKR_galicia_buffs_desc:0 "Borovets has some Galician guys so we get buffs as the Republic and UPA getting their Galician territory in TT3 was vetoed."
+ UKR_galicia_buffs:0 "Галицькі війська Боровця"
+ UKR_galicia_buffs_desc:0 "У Боровця є кілька галицьких хлопців, тож ми отримуємо бафи, оскільки на отримання Республікою та УПА своїх галицьких територій у ТТ3 було накладено вето."
  
- FUK_the_national_trenching_militias_idea: "The National Trenching Militias"
+ FUK_the_national_trenching_militias_idea: "Національні окопні загони"
 
- FUK_civilian_training_measures_idea: "Civilian Training Measures"
+ FUK_civilian_training_measures_idea: "Заходи з підготовки цивільного населення"
 
- FUK_federal_corporations_idea: "The F.O.G. Establishment"
+ FUK_federal_corporations_idea: "Установа F.O.G."
 
- FUK_legacy_of_the_one_hundred:0 "Legacy of the One Hundred"
- FUK_legacy_of_the_one_hundred_desc:0 "Within the bare embrace of the woods, huddled recruits watch as older officers fashion makeshift crossbows, regale tales from wars past, and teach tactics devised to confront the stronger enemy.\n\nUnder the glow of moonlight, the decades of war and experience on display enrapture the trainees. Many are still young, but perhaps the One Hundred can mold them into something truly formidable."
+ FUK_legacy_of_the_one_hundred:0 "Спадщина Сотні"
+ FUK_legacy_of_the_one_hundred_desc:0 "У лісових хащах, притиснувшись один до одного, новобранці спостерігають, як старші офіцери майструють саморобні арбалети, розповідають історії з минулих війн і навчають тактиці протистояння сильнішому ворогу.\n\nПід сяйвом місячного світла десятиліття війни та досвіду, що демонструються, захоплюють курсантів. Багато з них ще молоді, але, можливо, Сотня зможе виліпити з них когось по-справжньому грізного."
 
- FUK_reinvigorated_UNRA:0 "Reinvigorated UNRA"
+ FUK_reinvigorated_UNRA:0 "Оновлена УНРА"
  FUK_reinvigorated_UNRA_desc:0 "Beneath firebomb traps and hidden snipers, soldiers excavate a network of tunnels designed for pouncing on the stronger enemy from every angle. Thanks to the One Hundred, they've become the country's finest ambushers.\n\nDespite the dirt and grime, they no longer wear patched rags. Though marred by earth, the current uniforms proudly bear the embroidered emblem of the UNRA on their crisp fabric."
 
- FUK_formalized_officer_corps:0 "Formalized Officer Corps"
- FUK_formalized_officer_corps_desc:0 "Emerging from the forest into the city streets, tents sprawl across a repurposed park under a cold sky. Standing atop a makeshift stage, the One Hundred award insignia to men hand-picked from the devastation, those who shone with courage in the face of death.\n\nAround them, they see those who will soon follow them to victory roar in approval. They are no longer rebels; they are an army."
+ FUK_formalized_officer_corps:0 "Формалізований офіцерський корпус"
+ FUK_formalized_officer_corps_desc:0 "Вийшовши з лісу на вулиці міста, намети розкинулися в переобладнаному парку під холодним небом. Стоячи на імпровізованій сцені, Сотня нагороджує відзнаками людей, яких відібрали з руїн, тих, хто засяяв відвагою перед обличчям смерті.\n\nНавколо них ревуть і схвалюють ті, хто незабаром піде за ними до перемоги. Вони більше не повстанці, вони - армія."
 
- FUK_dropping_the_hammer:0 "Dropping the Hammer"
+ FUK_dropping_the_hammer:0 "Кидаючи молот"
  FUK_dropping_the_hammer_desc:0 "More troops, more guns, more artillery shells. More plans, more rifles, more training drills. More laughing, more singing, more crying. More fighting, more rejoicing, more mourning.\n\nAnother sun rises, another sun sets. For every Ukrainian life they take, a dozen rise in defiance, willing to pay the price to free Ukraine from its chains."
 
- FUK_freedom_to_ukraine_or_death_idea:0 "Freedom to Ukraine or Death"
- FUK_freedom_to_ukraine_or_death_idea_desc:0 ""Lord Jesus Christ, deliver Ukraine from evil. Bless our brave, quench our hunger, and lead us, steadfast, to freedom.\n\nAnd Father ... if it is not meant to be ... bestow upon my people Your boundless mercy, receive them into radiant eternity at Your side, and grant them glory everlasting.\n\nAmen.""
+ FUK_freedom_to_ukraine_or_death_idea:0 "Україна або смерть"
+ FUK_freedom_to_ukraine_or_death_idea_desc:0 ""Господи Ісусе Христе, визволи Україну від зла. Благослови наших хоробрих, вгамуй наш голод і веди нас, непохитних, до свободи... І Отче... якщо не судилося... обдаруй мій народ Твоєю безмежною милістю, прийми його в осяйну вічність при боці Твоїм і даруй йому вічну славу.\n\nАмінь.""
 
  ## Ministers
 
  # Starting Ministers
 
- FUK_Vasyl_Stus_for_desc: "§Y"Face of Freedom"\nHead of the Department of People's Education\nPopular Front§!\n--------------\n§LVasyl Stus cannot recall a life free from the jackboot. Born in 1938, his earliest memories were of the German invasion, and his life has been shadowed by its effects ever since. Headstrong and loathing his circumstances, his early rebellions were tempered by more careful voices, who inducted Stus into a safer form of resistance: underground literature, where his anger was honed and filed down into scathing poetry.\n\nFifteen years of pouring his anger out onto paper has prepared him for a new position in the UNRA: their chief PR man, who motivates soldiers and civilians alike to dream of and fight for a free Ukraine. He is the young face of militant anti-fascism within the UNRA, articulating a vision for victory and inspiring the will to fight for it.§!"
+ FUK_Vasyl_Stus_for_desc: "§Y"Обличчя свободи"\nГлава департаменту народної освіти\nНародний фронт§!\n--------------\n§LВасиль Стус не може пригадати життя, вільного від берців. Він народився у 1938 році, і його перші спогади були пов'язані з німецьким вторгненням, і відтоді його життя було затьмарене його наслідками. Упертий і ненависний до своїх обставин, його ранні бунти були пом'якшені більш обережними голосами, які залучили Стуса до безпечнішої форми опору: підпільної літератури, де його гнів відточувався і виливався у хльосткі вірші.\n\nП'ятнадцять років виливання свого гніву на папір підготували його до нової посади в УНРА: головного піарника, який мотивує солдатів і цивільне населення мріяти про вільну Україну і боротися за неї. Він є молодим обличчям войовничого антифашизму в УНРА, формулює бачення перемоги та надихає на боротьбу за неї.§!"
 
- FUK_Ivan_Dzubia_eco_desc: "§Y"Inexperienced Idealist"\nHead of the Department of Finance and Cooperation\nLeft-Wing Nationalism§!\n--------------\n§LIvan Dziuba is a man of letters, a dedicated nationalist who believes in the sovereignty of the Ukrainian people. He is a staunch anti-chauvinist whose concerns for ethnic minorities has brought him into conflict with more conservative elements within the UNRA. He is a committed leftist who sees a bright future for all Ukrainians if she has the will to fight for that future.\n\nWhat he is not is an economist or a manager. Nevertheless, a man of letters is needed to look after the logistics needed to support this insurrection. Though lacking in economic expertise, Dziuba is committed to the cause and has a vision for the future. Perhaps that is all Ukraine needs for now.§!"
+ FUK_Ivan_Dzubia_eco_desc: "§Y"Недосвідчений ідеаліст"\nНачальник відділу фінансів та співпраці\nЛівий націоналіст§!\n--------------\n§L" Недосвідчений ідеаліст"\nНачальник відділу фінансів та співпраці\nЛівий націоналізм!!!\n--------------\n§Іван Дзюба - людина слова, відданий націоналіст, який вірить у суверенітет українського народу. Він переконаний антишовініст, чия турбота про етнічні меншини привела його до конфлікту з більш консервативними елементами в УНРА. Він переконаний лівий, який бачить світле майбутнє для всіх українців, якщо вони матимуть волю боротися за це майбутнє.\n\nВін не є економістом чи менеджером. Тим не менш, людина з великої літери потрібна, щоб подбати про логістику, необхідну для підтримки цього повстання. Незважаючи на відсутність економічних знань, Дзюба відданий справі і має бачення майбутнього. Можливо, це все, що зараз потрібно Україні.§!"
  
- FUK_Oleksander_Ohloblyn_hog_desc: "§Y"Our 'Friendly' Collaborator"\nProvisional Governor of the Brest Oblast\nNational Conservatism§!\n--------------\n§LThe mayor of occupied Brest, upon seeing the blue and yellow proudly hoisted above him, revealed himself to be an agent for a free Ukraine. Years of covert support bought him a position of power in the insurgency, despite the misgivings of some. They danced around the subject of his tenureship as mayor of Kyiv, when he allowed the slaughter of its Jewish population. They privately wondered about his commitment to the cause.\n\nSadly for them, Oleksander Ohloblyn's presence in the UNRA is too useful to deny. He brings with him experienced collaborators familiar with the RK's existing political and economic structures. They proclaim themselves patriots eager to fix the Nazi's horrors and their mistakes. Yet it remains to be seen whether Ohloblyn is committed to a Ukraine that can stand on its own and defeat Germany, or one that can merely co-exist with them.§!"
+ FUK_Oleksander_Ohloblyn_hog_desc: "§Y"Наш 'дружній' колаборант"\nТимчасовий губернатор Брестської області\nНаціональний консерватист§!\n--------------\n§LМер окупованого Бреста, побачивши синьо-жовтий прапор, що гордо піднявся над ним, виявив себе агентом вільної України. Роки таємної підтримки принесли йому владу в повстанському русі, незважаючи на побоювання декого. Вони танцювали навколо теми його перебування на посаді мера Києва, коли він дозволив винищення єврейського населення. Вони приватно цікавилися його відданістю справі.\n\nНа жаль для них, присутність Олександра Оглоблина в УНРА є занадто корисною, щоб їй заперечувати. Він приводить з собою досвідчених колабораціоністів, знайомих з існуючими політичними та економічними структурами РК. Вони проголошують себе патріотами, які прагнуть виправити жахіття нацизму та свої помилки. Проте залишається незрозумілим, чи прихильний Оглоблин до України, яка може стати на ноги і перемогти Німеччину, чи до тієї, яка може просто співіснувати з ними.§!"
  
- FUK_Taras_Bulba_Borovets_sec_desc: "§Y"Founder of the UNRA"\nHead of the Department of Military Affairs\nMilitary Junta§!\n--------------\n§LWhen the Germans invaded, there was a young anti-Soviet militia officer that helped support their efforts against the Russians. Why, then, did he leave their service with a hundred men into the forests and re-emerge as founder of the UNRA? Perhaps it is a way he thinks he can wipe the blood from his hands, shed at Olevsk and elsewhere. Perhaps he could simply never abide any future for Ukraine in which it was subordinate.\n\nBulba Borovets leads the UNRA's military against the RK's forces, planning for and preparing his men to fight the German occupiers. In contrast with the idealists around him, he does not engage in questions of what comes after. Borovets is not particularly sold on the futures others have in store for the UNRA, but he puts his concerns aside for now. If he fails, Ukraine will not have any future.§!"
+ FUK_Taras_Bulba_Borovets_sec_desc: "§Y"Засновник УНРА"\nКерівник департаменту з військових питань\nВійськова хунта§!\n--------------\n§LКоли німці вторглися на територію України, серед них був молодий антирадянсько налаштований офіцер міліції, який допомагав підтримувати їхні зусилля проти росіян. Чому ж тоді він покинув службу з сотнею людей і пішов у ліси, а потім з'явився як засновник УНРА? Можливо, таким чином він думає, що може відмити кров зі своїх рук, пролиту під Олевськом та іншими місцями. Можливо, він просто не міг змиритися з майбутнім України, в якому вона була б підпорядкована.\n\nБульба Боровець веде військо УНРА проти військ РК, плануючи і готуючи своїх людей до боротьби з німецькими окупантами. На відміну від ідеалістів з його оточення, він не переймається питаннями про те, що буде після. Боровець не дуже вірить у майбутнє, яке інші пророкують УНРА, але поки що він відкладає свої побоювання вбік. Якщо він зазнає поразки, Україна не матиме майбутнього.§!"
 
  ### Decisions ###
  
- UKR_UCW_empower_polissian_guard: "Empower the UNRA"
- UKR_UCW_request_polish_aid: "Request Polish Aid"
- UKR_UCW_seize_upa_civ_assets: "Seize UPA Civilian Assets"
- UKR_UCW_search_collab_filing_cabinets: "Search Collaborator Files"
+ UKR_UCW_empower_polissian_guard: "Надайте повноваження УНРА"
+ UKR_UCW_request_polish_aid: "Попросити польщі про допомогу"
+ UKR_UCW_seize_upa_civ_assets: "Захопити цивільні активи УПА"
+ UKR_UCW_search_collab_filing_cabinets: "Пошук файлів колаборантів"
 
 
  ### pre-UCW and UCW gui ###
- UKR_FUK_power_struggle_gui_activate: "Load §aPillars§! §cof the§! §sRevolution§!"
- FUK_power_struggle_category: "§aPillars§! §cof the§! §sRevolution§!"
- fuk_partisan_support: "§aPartisan§!"
- fuk_populist_support: "§cPopulist§!"
- fuk_collaborator_support: "§gCollaborator§!"
- UKR_FUK_power_struggle_active_decision: "Another §aPillars§! §cof the§! §sRevolution§! decision is active"
+ UKR_FUK_power_struggle_gui_activate: "Завантажити §aСтовпи§! §sРеволюції§!"
+ FUK_power_struggle_category: "§aСтовпи§! §sРеволюції§!"
+ fuk_partisan_support: "§aПартизан§!"
+ fuk_populist_support: "§cПопуліст§!"
+ fuk_collaborator_support: "§gКолабораціоністів§!"
+ UKR_FUK_power_struggle_active_decision: "Ще одне рішення §aСтовпів§! §sРеволюції§! в дії"
 
- FUK_rally_borovets_men: "Rally Borovets' Men"
- FUK_emphasise_the_struggle: "Emphasize the Anti-§jGerman§! Struggle"
- FUK_contact_the_home_army: "Contact the §xHome§! §WArmy§!"
- FUK_promote_dedicated_partisans: "Promote Dedicated §aPartisans§!"
- FUK_combat_internal_fascism: "Combat Internal §JFascism§!"
- FUK_mobilize_the_population: "Mobilize the Population"
- FUK_defend_ukranian_culture: "Defend §mUkrai§!§Ynian§! Culture"
- FUK_offer_a_nationalist_alternative: "Offer a §RNation§!§salist§! Alternative"
- FUK_expand_literature_club: "Expand §mUkrai§!§Ynian§! Literature Club Meetings"
- FUK_meet_with_socialist_republicans: "Meet With Moderate §RSocialists§!"
- FUK_promise_business_owners_amnesty: "Promise £UKR_industrial_texticon §LBusiness Owners§! Amnesty"
- FUK_convert_police_officers: "Convert £GFX_UKR_collab_texticon §QPolice Officers§!"
- FUK_divert_collab_funds: "Divert £UKR_collab_texticon §QCollaborator§! Funds"
- FUK_acquire_collaborator_weapons: "Acquire £UKR_collab_texticon §QCollaborator§! Weapons"
- FUK_mobilize_collaborator_forces: "Mobilize £UKR_collab_texticon §QCollaborator§! Forces"
- FUK_collaborator_support_50_tt: "§gCollaborator§! support for the revolution is at least §Y50%§!."
- FUK_collaborator_support_70_tt: "§gCollaborator§! support for the revolution is at least §Y70%§!."
+ FUK_rally_borovets_men: "Мітинг людей Боровця"
+ FUK_emphasise_the_struggle: "Наголосити на анті-§jнімецькій§! боротьбі"
+ FUK_contact_the_home_army: "Звернутися до §WАрмії§! §xКрайової§!"
+ FUK_promote_dedicated_partisans: "Просувати відданих §aПартизанів§!"
+ FUK_combat_internal_fascism: "Боротися з внутрішнім §JФашизмом§!"
+ FUK_mobilize_the_population: "Мобілізувати населення"
+ FUK_defend_ukranian_culture: "Захищати §mУкраї§!§Yнську§! культуру"
+ FUK_offer_a_nationalist_alternative: "Запропунувати §RНаціон§!§sалістичну§! альтернативу"
+ FUK_expand_literature_club: "Розширювати §mУкраї§!§Yнські§! зустірі клубу літератури"
+ FUK_meet_with_socialist_republicans: "Зустрічатися з поміркованими §Rсоціалістами§!"
+ FUK_promise_business_owners_amnesty: "Обіцяти амністію £UKR_industrial_texticon §Lвласникам бізнесу§!"
+ FUK_convert_police_officers: "Конвертувати £GFX_UKR_collab_texticon §Qофіцерів поліції§!"
+ FUK_divert_collab_funds: "Спрямувати кошти £UKR_collab_texticon §QКолабораціоністів§!"
+ FUK_acquire_collaborator_weapons: "Придбати зброю £UKR_collab_texticon §QКолабораціоністів§!"
+ FUK_mobilize_collaborator_forces: "Мобілізуйте £UKR_collab_texticon §QКолабораціоністкі§! сили"
+ FUK_collaborator_support_50_tt: "Підтримка революції у §gколабораціоністів§! щонайменш §Y50%§!."
+ FUK_collaborator_support_70_tt: "Підтримка революції у §gколабораціоністів§! щонайменш §Y70%§!."
 
  FUK_partisan_support_change_tt: "(§aPartisan§!) support for the revolution: [?var_partisan_support_temp|%%2+=]"
  FUK_populist_support_change_tt: "(§cPopulist§!) support for the revolution: [?var_populist_support_temp|%%2+=]"
@@ -127,11 +127,11 @@
  FUK_pillars_decay: "Pillars §RDecay§!"
 
  FUK_pillars_decay_linebreak_tt: "\n\n"
- FUK_pillars_decay_partisan_header_tt: "The other pillars are frustrated with the favor of the §aPartisans§! and will decay further:"
- FUK_pillars_decay_populist_header_tt: "The other pillars are frustrated with the favor of the §cPopulists§! and will decay further:"
- FUK_pillars_decay_collaborator_header_tt: "The other pillars are frustrated with the favor of the §gCollaborators§! and will decay further:"
+ FUK_pillars_decay_partisan_header_tt: "Інші стовпи розчаровані прихильністю §aпартизан§! і будуть занепадати далі:"
+ FUK_pillars_decay_populist_header_tt: "Інші стовпи розчаровані прихильністю §cПопулістів§! і будуть занепадати далі:"
+ FUK_pillars_decay_collaborator_header_tt: "Інші стовпи розчаровані прихильністю §gКолабораціоністів§! і будуть занепадати далі:"
 
- FUK_pillars_gui_info_tt: "§FThe §aPillars§! §cof the§! §sRevolution§!\n----------------------------------\n§MUkra§!§Yine§! has not seen freedom for nearly half a century, but the dream of §MUkrai§!§Ynian§! freedom lives on in the broad coalition of the £UKR_pg §DUkrainian National Revolutionary Army§!. In its ranks stand a diverse set of groups: diehard §aPartisans§!, almost socialist §cPopulists§!, and even fascistic §gCollaborators§!, all united under one banner.\n\nThese pillars of our revolution have their limits of what they are willing to contribute to the cause, represented by their support. If a pillar has §Gmore than 50% support§!, then we will granted §Gbonuses§!, should it have §Rless than 50% support§!, we will suffer §Rmaluses§!. One pillar's favor comes at the cost of the others, however, and high support for one pillar will see the support of the others §Rdecrease§!.\n\nIf we are to free §MUkra§!§Yine§!, then it is pivotal to manage this §Ycareful balancing act§!.§!"
+ FUK_pillars_gui_info_tt: "§F§aСтовпи§! §sРеволюції§!\n----------------------------------\n§MУкра§!§Yїни§! майже півстоліття не бачила свободи, але мрія про свободу §MУкра§!§Yїни§! живе в широкій коаліції £UKR_pg §DУкраїнської національно-революційної армії§!. В її лавах стоять різноманітні групи: затяті §aПартізани§!, майже соціалістичні §cПопулісти§!, та навіть фашистькі §gКолабораціоністи§!, об'єднані під одним прапором.\n\nЦі стовпи нашої революції мають свої межі того, що вони готові внести в справу, представлену їхньою підтримкою. Якщо стовп має §Gпітримку понад 50%§!, то ми отримаємо §Gбонуси§!, якщо ж §Rменше за 50%§!, то ми втрачаємо §Rбонуси§!. Однак, прихильність одного стовпа досягається за рахунок інших, і висока підтримка одного стовпа призведе до §Rзменшення§! підтримки інших.\n\nЯкщо ми хочеммо звільнити §MУкра§!§Yїну§!, то вкрай важливо керувати цим §Yактом ретельного балансування§!.§!"
 
  UKR_FUK_partisan_support_bar_tt: "§FThe §aPartisans§! are the core of the £UKR_pg §DUNRA§! - the men who fight and die for Ukraine's liberty from fascism and communism. They are some of the most devoted supporters of the anti-fascist struggle for national liberation, and seek to cooperate with the Polish §xHome§! §WArmy§! against fascist threats. However, their fierce anti-communism alienates many leftist §cPopulists§! and their opposition to collaboration makes the §gCollaborators§! uneasy.\n\n§aPartisan§! support for the revolution is §Y[?var_partisan_support]%§!\nEffects:\n    Division Attack: [?FUK_partisan_attack_bonus|2+%=]\n    Division Defense: [?FUK_partisan_defense_bonus|2+%=]\n    Division Organization: [?FUK_partisan_organisation_bonus|2+%=]\n    Division Recovery Rate: [?FUK_partisan_recovery_bonus|2+%=]\n    Daily Progressivism Support: [?FUK_populist_progressivism_bonus|2+=]\n    Daily Despotism Support: [?FUK_partisan_despotism_bonus|2+=]§!"
  UKR_FUK_populist_support_bar_tt: "§FThe §cPopulists§! are the masses who stand behind the £UKR_pg §DUNRA§! - those who dream of a freer future where the Ukrainian people are no longer victims of terror and can live in peace. They appeal to the populace, especially the rural peasantry, and have formed a growing §c"Culturalist"§! movement for Ukraine's renewal following the liberation. Yet their leftist ideology and sympathy towards £UKR_communists §Scommunist§! elements leaves the §aPartisans§! and §gCollaborators§! wary.\n\n§cPopulist§! support for the revolution is §Y[?var_populist_support]%§!\nEffects:\n    Stability: [?FUK_populist_stability_bonus|2+%=]\n    War Support: [?FUK_populist_war_support_bonus|2+%=]\n    Recruitable Population: [?FUK_populist_manpower_bonus|2%Y=]\n    Daily Socialist Support: [?FUK_populist_socialist_bonus|2+=]\n    Daily Communist Support: [?FUK_populist_communist_bonus|2+=]§!"
@@ -139,13 +139,13 @@
 
  ### Tooltips ###
 
- FUK_us_election_tt: "§WYou will follow the §MUnited Struggle§! through their quest to secure §MUkr§!§Yaine§!'s freedom.§!"
+ FUK_us_election_tt: "§WВи будете слідувати за §Mоб'єжнаною боротьбою§! у їхньому прагненні здобути свободу для §MУкр§!§Yаїни§!.§!"
 
- FUK_culturalist_election_tt: "§WYou will follow the §BCulturalists§! through their quest to enshrine §MUkr§!§Yaine§!'s culture.§!"
+ FUK_culturalist_election_tt: "§Ви будете слідувати за §BКультурістами§! у їхньому прагненні закріпити §MУкраї§!§Yнську§! культуру.§!"
 
- FUK_spivavtor_election_tt: "§WYou will follow the §sSpivavtor§! through their quest to save §MUkr§!§Yaine§! from the worst of Nazi occupation.§!"
+ FUK_spivavtor_election_tt: "§WВи будете слідувати за §sСпівавторами§! у їхньому прагненні врятувати §MУкр§!§Yаїну§! від найстрашнішої нацистської окупації.§!"
 
- FUK_Another_1917_tt: "The Revolution has begun! §MUkr§!§Yaine§!'s freedom shall be secured!"
+ FUK_Another_1917_tt: "Революція почалася! Свобода §MУкр§!§Yаїни§! буде забезпечена!"
  
  FUK_spivavtor_tree_tt: "Oleksandr Ohloblyn will lead §MUkr§!§Yaine§! to a new golden age of collaboration and prosperity!"
  
@@ -172,16 +172,16 @@
  
  ### Leaders ###
 
- FUK_Yuriy_Horlis:0 "Yuriy Horlis"
+ FUK_Yuriy_Horlis:0 "Юрій Горліс"
  POLITICS_YURIY_HORLIS_DESC:0 "What is culture? What is it that mends and defines so many nations, and what is it that Germany has obsessed over since the beginning of the NSDAP's rule over Germany, then Europe?\n\nIf you were to ask Yuriy Yuryovych Horlis, the leader of the Ukrainian branch of the Ukrainian National Revolutionary Army, however, he would tell you of what makes up the culture of Ukraine; the language, the freedom, and the determination for a Ukrainian state. Horlis has fought for these values since before the days of the Galicians' first forays into western Ukraine, spreading the ideals which Yuriy had always believed in, since his days as a liaison for the first Ukrainian People's Republic. With the help of his ethnic and ideological allies within Galicia, however, it will be far from the last. So long as the Ukrainian culture survives, then Ukraine will always survive.\n\nFor now, however, Horlis will fight tooth and nail for his people and will unite Ukraine, once and for all. From Galicia to the Sea of Azov, Ukraine will be made whole, and it will finally come to know the democracy it was robbed of so long ago, by the Russians and communists of years past.\n\nNow, however, is not the time to reflect on the past. Now is the time to look towards the future. A future of an eternal Ukrainian culture, a future of a legitimate democracy for Ukraine, and a future where Ukrainians can walk tall without a German or Russian pointing a gun at their back. With Galicia and Ukraine at his back, it is not a question of when Ukraine will become free, but how Yuriy Horlis will do it.\n\nOr so he prays."
 
- FUK_Vasyl_Stus:0 "Vasyl Stus"
+ FUK_Vasyl_Stus:0 "Василь Стус"
  POLITICS_VASYL_STUS_DESC:0 "Poet, soldier, writer, and resistance member, Vasyl Stus is a great many things. More than most, however, he believes in a free Ukraine. A free Ukraine that does not come from betraying the core ideals of freedom, or the base aspects of common sense. A free Ukraine to be proud of, and that is capable of remaining free. With a broad anti-German coalition behind him, and the Reich in crisis, it seems that if Ukraine has even the slightest hope of achieving this, it is now.\n\nAs a young man, Stus caught wind of the Ukrainian National Revolutionary Army in Galicia and has since fought for their cause, though he has since picked up a civilian position. With the war of liberation won, and the election firmly in hand, many are anxious about the future. Some fear Ukraine will run itself into the ground. Others believe it is throwing away its opportunity for freedom. Many within the ranks of Stus' own political alliance believe Ukraine cannot uphold the values of liberty at home and remain free from the Germans at the same time.\n\nStus fears they might be right."
 
- FUK_Ivan_Dzubia:0 "Ivan Dziuba"
+ FUK_Ivan_Dzubia:0 "Іван Дзюба"
  POLITICS_IVAN_DZUBIA_DESC:0 "To those in the nascent Republic of Ukraine, Ivan Dziuba appears to be the ultimate countryman, a writer and thinker who has done all he can for his country. His writings have spread far and wide, following the Republican army in each town they liberate. Rather than speaking to the hardened insiders, Dziuba spoke to everyone, to all those who sought a better future for Ukraine. Rather than following the road of hatred like many nationalists, he has struck out on a socialist and anti-chauvinist nationalist program. His words have captured a nation - and seemingly, they have also created a president.\n\nThe incoming president may be inexperienced - he is young, just barely thirty years of age, and has until now been more defined by his thoughts than his administration. Yet President Dziuba knows his words, his nation, have the power to create something greater. The Ukrainian people are free - now, they must learn to be themselves.\n\nNow, they must learn to survive."
 
- FUK_Oleksander_Ohloblyn:0 "Oleksander Ohloblyn"
+ FUK_Oleksander_Ohloblyn:0 "Олександр Оглоблин"
  POLITICS_OLEKSANDER_OHLOBLYN_DESC:0 "During his time as the German-appointed mayor of Kyiv, Oleksander Ohloblyn imagined himself as inoffensive. Ohloblyn's slightest victories were proof of his even hand; his evils were forced upon him by Nazi bureaucrats. Even as his administration filled with Fascistic OUN allies, even as he sent the Jewish community to their deaths, he held to a core belief that all of this was an act of caring.\n\nSlowly isolated by the NSDAP, Ohloblyn found an opportunity to return to prominence when he began to work with a desperate UNRA. His successes exceeded his wildest dreams: the revolution he attached himself to defeated all opposition, his allies infiltrated its leadership, and assassinations, bribery, and intimidation ensured that his crypto-Bolshevik opponents would not be elected. Now, he can continue to protect his nation through the only means he has - submission. Safe in the belief that his old ways proved true, Ohloblyn is certain that through courtesy and obedience, he can protect his people from the worst of Germany's impulses.\n\nThe bodies buried beneath Babi Yar prove otherwise."
 
  FUK_Taras_Bulba_Borovets:0 "Taras Bulba-Borovets"
@@ -192,7 +192,7 @@
  POLITICS_VARIOUS_LIBERALS_DESC:0 "If you got this by just playing the game please report it, it would be very cool and you will get a cookie!!!!! (totally legit), if you used console commands, what are you doing with your life, go outside, touch grass"
  FUK_Various_Conservatives:0 "Various Conservatives"
  POLITICS_VARIOUS_CONSERVATIVS_DESC:0 "If you got this by just playing the game please report it, it would be very cool and you will get a cookie!!!!! (totally legit), if you used console commands, what are you doing with your life, go outside, touch grass"
- FUK_Power_Vacuum: "Power Vacuum"
+ FUK_Power_Vacuum: "Політичний вакуум"
 
  ### Generals ###
 
@@ -238,7 +238,7 @@
  FUK_the_anthem_of_the_liberated: "Гімн визволених"
  
  FUK_the_new_hruchevsky_desc: "Одного разу, на чисту, коротку мить, Україна зітхнула вільно. Не було тиранів з чоботом на шиї, не було більшовиків чи фашистів, які знекровлювали нас, і на дуже коротку мить настав мир. Цей мир, це вічне виправдання нашого буття, цей пам'ятник українській мрії започаткував найбільший герой, якого з того дня бачила національна революція, Михайло Грушевський, один з небагатьох істориків української історії того часу. З часу його обрання головою Центральної Ради у 1917 році ця мрія довго зазнавала невдачі за невдачею. На час 1930-х років останнє віддане джерело української автономії знаходилося в польській Галичині, в межах нішевої політичної партії УНДО.\n\nКоли більшовики вторглися в Польщу, і здавалося, що все втрачено, радянська влада почала використовувати місцеві колабораціоністські елементи, серед яких була і УНДО. Як тільки німці перетнули кордон, УНДО скористалася можливістю повстати. Відтоді ми боролися проти всіх окупантів України, і відтоді ми не здаємося. Якщо криваві німці, божевільні бандерівці чи кляті комуністи думають, що ми не зможемо продовжувати, то вони помиляються. Глибоко помиляються."
- FUK_the_old_guard_of_the_republic_desc: "While many of our men continue to fight for Ukrainian democracy, there are very few which continue to shine as brightly as the old guard of the Republic.\n\nTaras Bulba-Borovets, a partisan at heart, Oleksandr Udovychenko, a general who bore the burden of exile, and Yuriy Tyutunnyk, a man who had once supported the Soviets. Their histories are filled with hardship and struggle, yet they were all in service to the Republic and our homeland. Each of these three men may be old, though they remain eager and willing to fight for the survival and liberation of our democracy and people. They will assist us to the best of their ability, and once the time comes, they will be instrumental in the destruction of the fascist tyrants."
+ FUK_the_old_guard_of_the_republic_desc: "У той час як багато наших чоловіків продовжують боротися за українську демократію, дуже мало хто продовжує сяяти так само яскраво, як стара гвардія Республіки.\n\nТарас Бульба-Боровець, партизан у серці, Олександр Удовиченко, генерал, який ніс тягар заслання, і Юрій Тютюнник, людина, яка колись підтримувала Совєцьку владу. Їхні історії сповнені труднощів і боротьби, але всі вони служили Республіці та нашій Батьківщині. Кожен з цих трьох чоловіків може бути старим, але вони залишаються готовими боротися за виживання і звільнення нашої демократії і народу. Вони допомагатимуть нам у міру своїх можливостей, і коли прийде час, вони стануть важливим інструментом у знищенні фашистських тиранів."
  FUK_borovets_commissars_desc: "Since the UNDO effectively couped the U-SSR military government in Galicia, and even further beyond in the last days of the Bolshevik invasion, Taras Bulba-Borovets has fought for Democracy with his armies of supporters for decades on end. While constantly harassed by disorder within his ranks and arrests from German forces, Borovets has stood firmly for our cause. Currently occupied in maintaining the Ukrainian National Revolutionary Army within the Generalgouvernement's borders, the living legend has found himself wanting for manpower.\n\nWith a recent wave of volunteers now waiting in the wings, we have the option to send them towards Borovets for training under his faithful "100 Man Army" of commissars, so named after those faithful few who have stuck with Borovets for so long. Given these reinforcements, it won't be long before these skilled men and women find themselves a part of those legendary 100."
  FUK_heirs_of_the_exiles_desc: "Exile is something many Ukrainians know of intimately. When the Bolsheviks came first, those who resisted were forced to leave their homes and become emigres, exiles in a foreign land, surviving until their time to return comes. And while they settled into their new homes, and went about their new lives, none have ever forgotten about their homeland. While most remain in their homes, watching from afar as our land is butchered, some return to their ancestral home, Side-by-side, they stand in solidarity with us, marching with us, fighting with us, bleeding with us. They give the Republic the legitimacy of the true government of Ukraine that it so desperately needs, and they give us something which the people need in these trying times - hope."
  FUK_the_culturalists_might_desc: "For all their heinous crimes, the greatest tragedy of Ukraine's occupation was the suppression and persecution of Ukrainian culture. Ivan Dziuba and the Culturalists treat this as the existential threat that it is, connecting root nationalism to that very shared culture, and advocating at every turn for resources to be spent on its spread.\n\nGrowing in influence, they have a simple yet very powerful message, and work to build grassroots support among the people. Though of course operating in a decentralized manner, they have proven extremely effective in organizing the militias that will be needed in the fights to come."
@@ -266,189 +266,189 @@
  FUK_the_anthem_of_the_liberated_desc: "The clock chimes, and Ukraine will rise. Germany ailes under its own weight, the Reichskommissariat crumbles, and Koch lays on his deathbed. Never since the days of 1917 have we found ourselves with such a firm chance for National Liberation. From what we can tell, with many garrisons currently either dissolving in light of Germany's effective collapse or struggling against many of the other partisan movements taking the initiative, it is clear that the time to rise is now or never.\n\nBulba-Borovets' Ukrainian National Revolutionary Army has already begun the preliminary actions of rising up once the Generalgouvernement falls, and Ohloblyn's government in Brest is mobilizing at this very moment. Before long, Ukraine will be free, and we will play our hand in bringing down the Reichskommissariat.\n\nWhether or not we live to see it."
  
  # Collapse Tree
- FUK_another_1917: "A Republic, From the Ashes" 
+ FUK_another_1917: "Республіка з попелу" 
  FUK_another_1917_desc: "Friends and patriots, our time is now! Just as in 1917, our country is beset by German invaders, traitors, and Soviet oppressors. And once again, the time has come for a national struggle for freedom and justice! We cannot fail as we once did, for the stakes have never been higher! Because defeat here does not merely mean the yoke of foreign devils or the suppression of Ukrainian self-determination, it could spell the end of Ukraine and her people at the hands of slavers and butchers!\n\nWe will not go quietly into that good night; we will fight, persevere, and prevail! Long live Ukraine!"
 
- FUK_scramble_the_militias: "Scramble the Forces"
+ FUK_scramble_the_militias: "Розподіл сил"
  FUK_scramble_the_militias_desc: "It has begun. Everything we have been waiting, fighting, preparing for, is now happening, and Ukraine is in flames. Not a moment must be lost. Orders will be sent along generated lines, and we will march to war.\n\nIt will not be easy - or fast. All the soldiers and volunteers will take time to organize into real fighting forces, and dispositions will need to be made to cover all the new, and fluid, fronts. But these challenges will be overcome. Ukraine will be free again."
 
- FUK_borovets_100_alone_no_more: "Borovets' Hundred, Alone No More"
+ FUK_borovets_100_alone_no_more: "Сотня Боровця, більше не самотня"
  FUK_borovets_100_alone_no_more_desc: "The figure of Borovets is, undoubtedly, an inspiring one. For years he fought the occupiers, forming a large resistance group and then leaving it, with only one hundred faithful, after it fell increasingly into banditry. He never gave up - and neither will Ukraine. Neither will we.\n\nThere are countless recruits who have cited this story as reason for their joining, and their potential can be nurtured. Each of the one hundred are skilled, and can in turn train these new men. In this way the legacy of Borovets will endure, and the one hundred will grow into many more."
 
- FUK_masses_behind_us: "The Masses Behind Us"
+ FUK_masses_behind_us: "Маси за нами"
  FUK_masses_behind_us_desc: "Though the Culturalists cannot be said to have the most powerful strike arm, it similarly cannot be denied that they are masters of spreading information and propaganda. The occupiers have never been able to stop them getting the message to the masses, and this is still the case.\n\nBy providing them additional funding and support, we can ensure that they aid the uprising in the still-occupied zones, spreading the message and reminding those who may be undecided of the Republic that is to come."
 
- FUK_scraps_of_the_pipeline: "The Scraps of the Pipeline"
+ FUK_scraps_of_the_pipeline: "Обривки трубопроводу"
  FUK_scraps_of_the_pipeline_desc: "Before the war, the smuggling routes between Ukraine and Moskowien were enormous. That has changed, dramatically, since the uprising and tight lockdown on the borders. Such pressure has shattered the network's centralization, and profiteers of all stripes are selling to both sides. This cannot continue.\n\nWe will crush these bandits, seize their ill-gotten gains, and put them out of business for good. Not only will this allow us to acquire much needed supply, but it will further prove the righteousness of our cause. The operation begins now."
 
- FUK_a_new_job_for_ohloblyns_men: "A New Job for Ohloblyn's Men"
+ FUK_a_new_job_for_ohloblyns_men: "Нова робота для оглоблинців"
  FUK_a_new_job_for_ohloblyns_men_desc: "The RK had many collaborators. These men discarded their honor for many reasons - career advancement, fear for their own safety and the safety of their families - but most never thought they'd be at open war with their fellow countrymen.\n\nIt would be a shame not to use some of these reluctant collaborators to our own advantage. Oleksander Ohloblyn can bring us many collaborator RK police units, and their intel will be invaluable to our cause.\n\nOf course, many in the UNRA may not be pleased with this. But so be it..."
 
- FUK_UNRA_united_and_strong: "UNRA, United and Strong"
+ FUK_UNRA_united_and_strong: "УНРА, об'єднані та сильні"
  FUK_UNRA_united_and_strong_desc: "The Galician divisions of the UNRA have benefited immensely from the rugged land in which they operate, protected from the worst of the occupation's excesses. Borovets has, over many years, turned it into an elite force among the resistance, and its efficacy in ambush is near-legendary.\n\nNow, as we hope to liberate all of Ukraine, the time has come to fuse the UNRA together more actively, combining the our divisions in Galicia and Polissia to form a united force capable of overcoming our rivalry with the UPA and overthrowing the RK at its core. If we wish to unite Ukraine, first we must stand united."
 
- FUK_create_an_officer_corps: "Create an Officer Corps"
+ FUK_create_an_officer_corps: "Створити офіцерський корпус"
  FUK_create_an_officer_corps_desc: "A movement needs leadership. Leadership means officers, and we must ensure that we have the cadres needed. Much has been debated on whether to prioritize quality or quantity, and though this decision has not yet been made, we must nonetheless give additional focus to our officer corps.\n\nGiving them more time to train, and ensuring that such training is as proper and efficient as possible, will serve excellently in the short term. Better plans will be made, but for now effectiveness can be improved directly, and that will suffice."
 
- FUK_offer_the_alternative: "Offer the Alternative"
+ FUK_offer_the_alternative: "Запропонуйте альтернативу"
  FUK_offer_the_alternative_desc: "The communists offer the Ukrainian people a totalitarian dictatorship and the Banderites offer them cultish worship of a dead man, it should be abundantly clear that the Republic is the only real alternative to a nation under the boot of fascism. Therefore, we shall reaffirm our commitments to democracy to show those suffering that we are the only ones prepared to offer the Ukrainian people real change.\n\nFor freedom does not mean a hollow independence full of fallow fields, it means a chance for every man, woman, and child to breathe up, to live, and to grow old and die happy."
 
- FUK_drop_the_hammer_win_the_war: "Drop the Hammer, Win the War"
+ FUK_drop_the_hammer_win_the_war: "Кинь молот, виграй війну"
  FUK_drop_the_hammer_win_the_war_desc: "If we are to win this war - and quickly - we must make a more concerted effort. We must increase the pace of organization, of fitting out, and of deployment. Until now, our ability to do this has often been a question of supply. It is now a question of will.\n\nWe have the manpower. We have the weapons. We need only put the pieces together, outfit and dispatch more militia battalions, of ever increasing size. We will do this - and then we will win."
 
- FUK_make_volunteers: "Make Volunteers"
+ FUK_make_volunteers: "Зробити волонтерів"
  FUK_make_volunteers_desc: "No longer can we hope to secure victory through volunteers and decentralized recruitment. They are dedicated, loyal, and effective beyond all measure, yes - but there are simply not enough of them. We must increase our efforts to further conscription. We must institute a draft.\n\nThis will take considerable work - after all, such a formalized draft and induction machine is not created overnight - but we must endure. This war will have an insatiable hunger for manpower, and we must not be found wanting."
 
- FUK_establish_the_war_machine: "Establish the War Machine"
+ FUK_establish_the_war_machine: "Створити військову машину"
  FUK_establish_the_war_machine_desc: "As with other areas, we must formalize the apparatus of state in order to win this war. Underground workshops can outfit an insurgency, but they cannot outfit an army, and we cannot for a moment entertain the possibility of losing access to adequate quantities of weaponry.\n\nWe must prepare the war economy, organizing and retooling the factories and supply chains needed to operate them. It will no doubt be an enormous effort, but there is quite possibly none more vital."
 
- FUK_quiet_grumbling_stomachs: "Quiet the Grumbling Stomachs"
+ FUK_quiet_grumbling_stomachs: "Вгамувати бурчання шлунків"
  FUK_quiet_grumbling_stomachs_desc: "As our other preparations continue, we cannot - must not - forget the absolute primacy of ensuring adequate food supplies. A famine would be crushing not only to our military efforts, but also to our legitimacy in the eyes of the Ukrainian people. We will therefore take steps to protect and empower the farmers while expanding supply.\n\nProduction quotas will be raised, of course, but this will be accompanied by land grants in order to meet those quotas, along with other exemptions, equipment, and other support. We must have food, and they must grow it."
 
- FUK_deal_with_dissent: "Deal with Dissent"
+ FUK_deal_with_dissent: "Робота з інакодумцями"
  FUK_deal_with_dissent_desc: "Freedom is an inalienable human right.\n\nThat being said, should our enemies take advantage of our lax control to undermine the war effort, none of us will have any freedom at all. There are still many communists, Banderites, and unrepentant collaborators running around in our territory. These will need to be rounded up.\n\nFurthermore, we must restrict the activities of the press, and of private political associations. Treason-minded enemy agents can pose as 'journalists' or 'activists' to sow doubt and discontent behind the lines - we cannot allow this to happen.\n\nThese measures may not be palatable, but they are necessary if we are to be victorious."
 
- FUK_collaborator_connections: "Collaborator Connections"
+ FUK_collaborator_connections: "Зв'язки зі колабораціоністами"
  FUK_collaborator_connections_desc: "Although distasteful - to say the least - it cannot be denied that the connections to industry made by Ohloblyn through his earlier collaboration are useful to our cause. They can, will, and must be leveraged if we are to build a strong state, and so shall it be.\n\nIt will, however, be necessary to present them in a 'creative' fashion, and to minimize the involvement that Bahaziy had in this regard. A sacrifice made for the good of the country, and a figure deservedly minimized. Quite a small price to pay, indeed."
 
- FUK_restore_our_logistics: "Restore Our Logistics"
+ FUK_restore_our_logistics: "Відновити нашу логістику"
  FUK_restore_our_logistics_desc: "The trials of war have exacted an enormous toll on the railways crossing the Republic. Both our forces and those of our enemies targeted those held by the other side, and there now exist innumerable disruptions, damaged and destroyed lines, and many other inflicted problems. This must be addressed, and resources will be required to do so.\n\nIt will, however, be well worth it - assisting in troop transport, the delivery of supplies and, of course, support of the civilian sector as well. Work will begin immediately."
 
- FUK_the_cure_to_fascist_rot: "The Cure to Fascist Rot"
+ FUK_the_cure_to_fascist_rot: "Ліки від фашистської гнилі"
  FUK_the_cure_to_fascist_rot_desc: "We were fools to trust the collaborators. Any man who would throw away their country to work for the Nazis is not a man with any principles other than self-preservation. We have stocked our armies and our government with amoral shirkers, only trying to save their own skins. Former OUN members and RK sympathizers are running amok, taking advantage of our mercy to eat away at the war effort.\n\nVasyls Stus and Taras Bulba-Borovets have offered a solution. Our tolerance must end. Every man in the UNRA must be totally devoted to our struggle, and we cannot afford to let our ranks be infiltrated by fascists. A purge is in order."
 
- FUK_scrounge_together_whats_left: "Scrounge Together What's Left"
+ FUK_scrounge_together_whats_left: "Зібрати разом те, що залишилося"
  FUK_scrounge_together_whats_left_desc: "When the collaborators, aristocrats, business owners, and other German rats fled westwards in the revolution's early days, they of course took most of their valuables with them. But most is not all, and there is still plenty left behind, to say nothing of the emptied factories, shops, and other real estate that remains.\n\nWe must not overlook this opportunity. There is much that we can do with these properties, and we have many patriots who could make good use of them in support of the state and our goals. It is time to let them get to work in their newly owned establishments."
 
- FUK_faustian_bargain: "Faustian Bargain"
+ FUK_faustian_bargain: "Фаустівська угода"
  FUK_faustian_bargain_desc: "Ohloblyn and Bahaziy, the black sheep among the leadership of the UNRA have proposed a solution to our inability to win the war quickly. They have devised a plan that will allow the release of those who have been imprisoned for the crime of collaboration if they agree to serve on the frontlines for our Republic. To prevent "friendly" fire incidents, they will be integrated into the army but kept as separate units from the partisans.\n\nNevertheless, it should go without saying that this is an extremely unpopular move with every part of our leadership bar the collaborators themselves. But, we have very little left in the way of option. Let us just pray to God that we win this war sooner rather than later."
 
- FUK_this_is_war_act_like_it: "This is War, Act Like It!"
+ FUK_this_is_war_act_like_it: "Це війна, тож поводьтеся відповідно!"
  FUK_this_is_war_act_like_it_desc: "As beneficial as a proper economy tends to be for a nation, a war will not pause for sharp GDP increase, nor will it be swayed by any trend of poverty. What this war is going to be decided by is sheer production power, and if we cannot even begin to outmatch the Germans in industry, then we ought to call it quits, here and now.\n\nIncreasing quotas, further factory conversions, whatever it takes and from wherever we can take it. Increasing recycling programs for the civilian populace won't hurt, either. Doubling down on funding to our military industries won't hurt, either, and neither will increasing procurement to maintain our industries.\n\nNo matter the cost, we will need to divert resources to winning this war. Our commitment to freedom can only come with victory on the frontlines, and until that moment we will do everything necessary to accomplish this goal."
 
- FUK_freedom_to_ukraine_or_death: "Freedom to Ukraine or Death"
+ FUK_freedom_to_ukraine_or_death: "Україна або смерть"
  FUK_freedom_to_ukraine_or_death_desc: "War will rot a nation through, in every imaginable facet. We may not be losing this war, but neither are we winning. If things continue like this, our loss is inevitable, and we need to make our stand here, and now.\n\nWe will increase conscription quotas to fill our ranks, we will increase quotas, we will double down on every conceivable way to save this country. Ukraine will see salvation or it will never see the light of day again, and no matter which way it goes fate will be wrought by our hand.\n\nThe people are growing hungry, fast. Further rationing will also prove vital to maintaining our resources as it stands, and doing all that we can to maintain our resources while we expend them everywhere necessary to ensure our victory. God help Ukraine- he's one of our last allies left."
 
  #Post War Tree
- FUK_liberation_focus: "Liberation"
+ FUK_liberation_focus: "Визволення"
  FUK_liberation_focus_desc: "We have accomplished the impossible, we have achieved a free Ukraine. A land free from the unending oppression and imperialism of foreign powers. But the multitude of scars from the decades of imprisonment have not yet healed.\n\nOur people hunger for many freedoms and rights, but primarily, for the right to eat. They long for bread to be put on their table, for their children to no longer starve, to not have to continue without end on an empty stomach. We must take action against the famine that continues to haunt us.\n\nTo liberate the people from hunger, a new democratic government must be established with haste."
  
- FUK_deliberation: "Deliberation"
+ FUK_deliberation: "Обговорення"
  FUK_deliberation_desc: "The days of the Civil War have led us to make decisions almost automatically - now that we have established our Republic, we must take a step back to figure out what to do next. The immediate threat of Germany has dissipated for now, leaving the remaining internal threats of our newfound Republic to take precedence. Therefore, it is of the utmost importance to quell these dangers if any new government is to be able to stand up on its own two legs."
  
- FUK_disorganization: "Disorganization"
+ FUK_disorganization: "Дезорганізація"
  FUK_disorganization_desc: "We may not proudly admit it, but many areas within Ukraine do not lie fully within our control. Collaborator mayors of the old regime still hold sway over the cities they once lorded over. Peasants organize their own mob rule and law within isolated villages and towns. Fascist and communist insurgencies have sprung up and attempted to cripple our authority.\n\nThis can not be done. The Republic's authority must be respected if we are to become a free nation. We can only do this after establishing a democratic government, and a democratic government can not be established until elections are held. We will make this our priority."
  
- FUK_spivavtor_salvation: "Spivavtor Salvation"
+ FUK_spivavtor_salvation: "Співавторський порятунок"
  FUK_spivavtor_salvation_desc: "Supposed patriots spread bluster about how strong Ukraine is, ready to stop anything. Men like Oleksander Ohloblyn are more realistic. He served as a Mayor of Kyiv, a job that caused him to be labeled as a collaborator. He knows how Germany works, how they will not stop fighting until Ukraine is under their control. That is why he offers his solution: collaboration.\n\nMany Ukrainians turn their nose at this idea, calling it an affront to everything they have fought for. Ohloblyn can only say that he is not naive. He leads his alliance of collaborators and fascists under the banner of the Movement for Defense Against Bolshevism, prepared to do anything to allow the Ukrainian nation a chance at survival."
  
- FUK_the_glory_of_ukraine: "The Glory of Ukraine"
+ FUK_the_glory_of_ukraine: "Слава Україні"
  FUK_the_glory_of_ukraine_desc: "Ukrainians find themselves presented with a false dichotomy. Either vote for a future of craven collaboration with Ohloblyn and the Movement for Defense Against Bolshevism or one of fanatical militarism under the United Struggle with Stus and Borovets. There is a third way, a more humane option.\n\nIvan Dziuba and his Culturalist movement preach a leftist nationalism - a focus on what matters, what they fought their war for - Ukraine. Fascism must be defeated, but it can not be done in such a heavy-handed manner. It can only be done so through a humanist program, one that re-invigorates a culture and flag torn to shreds.\n\nThis is what Dziuba offers the nation, a party that puts the Ukrainian people first for once in their lives."
  
- FUK_unity_in_struggle: "Unity in Struggle"
+ FUK_unity_in_struggle: "Єдність у боротьбі"
  FUK_unity_in_struggle_desc: "In a time like this, it feels absurd to see Ukrainians squabble and fight with one another. To do such petty things is to fall into the hands of Germany. There can be no more division when it comes to the fight of a lifetime, the fight to preserve the freedom of Ukraine. This is the rallying cry of the United Struggle, the song that Vasyl Stus and Taras Bulba-Borovets sing from the rooftops.\n\nThe United Struggle campaigns for the organization of a broad anti-fascist front - just how broad this front will be has not yet been determined. However, this idea struggles to find appeal among a people who have just come out of a war, and whose only concern is how to put food on the table. But for the United Struggle's faithful, there is no question that they are the party that must lead Ukraine if it is to continue being a free nation."
  
  #Spivavtor Election Tree
- FUK_the_gift_of_foresight: "The Gift of Foresight"
+ FUK_the_gift_of_foresight: "Дар передбачення"
  FUK_the_gift_of_foresight_desc: "Dziuba, Stus, and Borovets seem to be under the delusion that Ukraine possesses the arsenal of America or Japan instead of that of a new country having come out of the ravages of civil war. Germany is undefeatable - sadly, we are the only party that has the ability of foresight, the only party brave enough to tell the Ukrainian people this fact to their face.\n\nThe best we can hope for is a fairer deal. Our leader, Oleksander Ohloblyn, is a man intimately familiar with the nature of compromise and collaboration. It may not be a popular thing to admit, but any moral leader must tell the people not what they want to hear but what they need to hear."
  
- FUK_inevitability_is_not_doom: "Inevitability is Not Doom"
+ FUK_inevitability_is_not_doom: "Неминучість - не приреченість"
  FUK_inevitability_is_not_doom_desc: "Germany is undefeatable and its return is inevitable, but this does not mean an end to the Ukrainian nation - for collaboration can and will save us all. This is the message that we will spread through the radiowaves, plaster on flyers, and preach to each Ukrainian citizen. They may react to it first with anger, then with fear and panic, but they eventually accept that it is the only feasible option left if they want their children to grow old in a land still called Ukraine."
  
- FUK_connections_of_the_collaborators: "Connections of the Collaborators"
+ FUK_connections_of_the_collaborators: "Зв'язки колабораціоністів"
  FUK_connections_of_the_collaborators_desc: "The Reichskommissariat has been consigned to history for now, and yet the men whose careers were made within it have not faded away. These people are, understandably, very eager to see our party, the only one not baying for their blood, win this election. Therefore, they have offered their services in the form of "self-defense" militias.\n\nOstensibly, these paramilitaries are formed to protect settler interests. In truth, their dealings go far beyond that. They will help "persuade" voters that we are the best party for their safety and will also help normalize our unpopular rhetoric. Some may call this unethical, but it is a necessary price to pay to save the people from their ignorance."
  
- FUK_those_who_count_the_votes: "Those Who Count the Votes"
+ FUK_those_who_count_the_votes: "Ті, хто рахує голоси"
  FUK_those_who_count_the_votes_desc: "The Republic is a burgeoning institution, it needs all the help it can get in setting up its bureaucracy and will take any volunteer it can get when it comes to the important task of making democracy work. If we were to send some volunteers of our own, perhaps we can make democracy work for us specifically.\n\nOur march through these institutions will be short and swift. A few dozen ballot boxes will find themselves stuffed with votes exclusively for the Movement for Defense Against Bolshevism candidates. Ballots not belonging to our alliance will find themselves located at the bottom of the Black Sea, and that is if those ballots are not mysteriously missing options for candidates belonging to the Culturalists or United Struggle. No method shall be spared to correct the growing pains of a young Republic."
  
- FUK_removing_obstacles: "Removing Obstacles"
+ FUK_removing_obstacles: "Усунення перешкод"
  FUK_removing_obstacles_desc: "We could always just cut out the middleman in this situation. After all, why go to such extra efforts to maintain cordiality when we are the only party that will let Ukraine have a chance at survival? And besides, our paramilitaries are always keen to flex their muscles.\n\nMovement for Defense Against Bolshevism militias guarding voting stations? Why we need to check the integrity and honesty of these supposedly impartial vote counters and make sure nothing fraudulent is happening. United Struggles activists beaten black and blue? Such is the danger of staying out too late at night, maybe they should just stay at home when it comes to election day. A Culturalist candidate is found hanging upside down off a lamppost with a chest full of stab wounds? Well, he should have known better than to campaign here."
  
- FUK_loading_the_dice: "Loading the Dice"
+ FUK_loading_the_dice: "Завантаження кісток"
  FUK_loading_the_dice_desc: "Our success is already apparent in the victory of Movement for Defense Against Bolshevism candidates in local elections across Ukraine, and it is another great opportunity to make this upcoming election a little bit fairer for ourselves. In these areas controlled by this great party, our candidates will have ease of access when it comes to registering as a candidate.\n\nFor Culturalist and United Struggle candidates, there may be a slight bit more difficulty. But after all, how could any new prospective candidate forget about the new Anti-Bolshevization Act, which prevents candidates of leftist organizations from registering? Oh, did you not know about the deposit for registering as a candidate in this area? It's not our fault if you can't afford it - we must make sure only the most respectable candidates represent us here."
  
- FUK_a_deal: "A Deal"
+ FUK_a_deal: "Угода"
  FUK_a_deal_desc: "The Ukrainian public clamors for law and order after so much chaos so we promise to deliver this to them after our election. How we deliver this is another question.\n\nWe have so many contacts that it would be a shame not to use them here. If we were to offer a deal to these Nazi insurgencies where we offer to cease our activities against them and let them unleash their dogs of war against those parties who attempt to oppose us, it would easily kill two birds with one stone.\n\nThis would make the Germans friendlier to us and the general public friendlier to collaboration - everyone wins. Well, except for the deluded who think that Ukraine can stand on its own without Germany, but they will get what they deserve."
  
- FUK_the_graves_we_dug: "The Graves We Dug"
+ FUK_the_graves_we_dug: "Могили, які ми викопали"
  FUK_the_graves_we_dug_desc: "Wildly incorrect misinformation and mudslinging sadly seems to be prevalent in what should be a free and fair election as Movement for Defense Against Bolshevism candidates seem to be suffering from an image problem - that being an alleged complicity in genocide and other crimes of the old regime. We will take great diligence in issuing flyers and radio messages that correct these lies.\n\nThe Babi Yar massacre? Oleksander Ohloblyn was certainly not involved in such a thing, in fact, he tried his hardest to stop it from taking place and personally saved Jews from being slaughtered in it. Actually, what records do you have that show this "pogrom" ever took place? We have looked through RKU archives and have found nothing that supports these claims, we would kindly advise you to not put out such deception in the future unless you wish for us to pay your surviving family a visit."
  
- FUK_faces_of_fascism: "Faces of Fascism"
+ FUK_faces_of_fascism: "Обличчя фашизму"
  FUK_faces_of_fascism_desc: "Oleksander Ohloblyn may be the face most well-known to the Ukrainian public, but he is not only representative of our faction. Volodymyr Bahaziy serves as the face of fascism, a counterbalance to the moderation and conservatism of Ohloblyn's views, and a necessary part of the machinations that allow us to mobilize such a large collaborationist base.\n\nTo further this goal and enlarge our base, Bahaziy will use his contacts to pardon useful members of the now-defunct Ukrainian National Council. If we can get men like Pavlo Shandruk, Oleg Shtul, Mykola Stsiborskyi, Oleh Olzhych, and others on our side, they will be incredibly useful in securing our partnership with Germany."
  
- FUK_levers_of_power: "Levers of Power"
+ FUK_levers_of_power: "Важелі влади"
  FUK_levers_of_power_desc: "From the ruin of Ukraine, a new order shall arise. We need to start laying down the groundwork for this if we wish to be in prime shape for Germany to accept us once they come around to us. To this end, we will devise a very German-friendly program of action, one that involves mass pardons for collaborators, the establishment of businesses and corporations friendly to our government, and the reshaping of the Republic's mission to better fit the Pakt. All this is necessary, all of it is needed to find our place in Germany's world."
  
- FUK_dawn_of_the_descent: "Dawn of the Descent"
+ FUK_dawn_of_the_descent: "Світанок узвозу"
  FUK_dawn_of_the_descent_desc: "We are on the verge of winning the election and already, we can see the power of our messaging. The values that the United Struggle and the Culturalist movement are no longer with the people, they have been replaced with what can be described as a soul-crushing apathy. Despair, fear and hate are the only feelings left that resonate with the Ukrainian people, there is no hope left within them anymore.\n\nThey will march to the voting booth and submit their vote for us, or just stay at home. It doesn't matter what the votes say anymore, truthfully. The results will be what we say they will be. Ukraine has entered into its longest night, and the Republic will be ours shortly."
  
  #Culturalist Election Tree
- FUK_prelude_to_politics: "Prelude to Politics"
+ FUK_prelude_to_politics: "Прелюдія до політики"
  FUK_prelude_to_politics_desc: "Politics is important, but how can it come before people looking for a decent meal? If our people aren't able to be fed, how can they be expected to vote? Therefore, our Culturalist movement will be taking care of these crucial needs for the Ukrainian people first. Aid drive and charity missions will be the drive of our activist core for the timebeing, with Ivan Dziuba being on the frontlines of delivering food and medicine to starving families - meeting his new voters personally."
  
- FUK_the_cure_to_imperialism: "The Cure to Imperialism"
+ FUK_the_cure_to_imperialism: "Ліки від імперіалізму"
  FUK_the_cure_to_imperialism_desc: "Our people slaughtered, our land occupied, and our freedom quashed. The Nazi occupation was just the second time this great imperialist injustice fell upon the Ukrainian people, another burdensome weight that they were forced to carry.\n\nWe promise to make this right, to attempt the impossible by trying to mend this hideous wound inflicted onto Ukraine and her people. We will start by confiscating settler land, expelling the Germans, the Dutch and other foreign influences from it. The families that owned it for generations will finally see it return to them, it is the least we can do."
  
- FUK_ukraines_scarlet_fields: "Ukraine's Scarlet Fields"
+ FUK_ukraines_scarlet_fields: "Багряні поля України"
  FUK_ukraines_scarlet_fields_desc: "Scars linger all over Ukraine's body, unimaginable pain wreaked upon it after decades of occupation. The bloodshed it has experienced would have previously been considered unfathomable, but it now seems normal, an acclimatization to the violence we have grown up with. We will attempt restitution towards fixing these ills, an attempt to compensate the people for all they have lost. But in our hearts, we will know that it will never be enough."
  
- FUK_the_harvest_we_will_reap: "The Harvest We Will Reap"
+ FUK_the_harvest_we_will_reap: "Жнива, які ми пожнемо"
  FUK_the_harvest_we_will_reap_desc: "The Ukrainian peasant has triumphed against all, they are our greatest of workers, and they deserve to be rewarded. We will do all we can to get their farms working as efficiently as possible, as soon as possible. First, by clearing our lingering communist and fascist insurgencies that leech off their hard work. Secondly, by ensuring they receive as much aid as possible, with technical and agricultural resources and training being made as accessible as possible. For every Ukrainian family deserves a meal a day, and this is the only way we can make that dream possible."
  
- FUK_the_blood_they_shed: "The Blood They Shed"
+ FUK_the_blood_they_shed: "Кров, яку вони пролили"
  FUK_the_blood_they_shed_desc: "The horrors of Nazism have no comparison, it is a murder machine that would have been considered of work of science fiction fifty year ago, but now it is our terribly reality. In this part of Europe, we were able to drive it out of our nation, but the brutalities it has inflicted upon us all lingers both physically and psychologically. We must come to terms with it.\n\nTo this end, we will expose these atrocities to the people. Its perpetrators can no longer hide, those who took part in the Holocaust that targeted and wiped away our once so proud Ukrainian Jews. Ivan Dziubia will do his part, making a speech condemning the Babi Yar massacre, his small token for its tens of thousands of screaming victims."
  
- FUK_never_ever_again: "Never, Ever Again"
+ FUK_never_ever_again: "Ніколи, нізащо більше"
  FUK_never_ever_again_desc: "The Babi Yar massacre was one of the greatest crimes of the twentieth century. Our Jewish community was sent down to the ravine to be slaughtered like swine. And then that fascist, Oleksander Ohloblyn, has the audacity to call himself a patriot when he was one of its main perpetrators, happily giving the Germans a list of names for who to kill. No more.\n\nWe will show the public what this fascist really represents, a thin covering of paint for Nazism. They will see this monster for what he truly is - a spineless worm who let his people die because of his cowardice and craven beliefs.\n\nWhen he comes at us with his paramilitaries, we will strike back twice as hard. And the public will stand with us, against the fascist beasts we should have killed during the civil war."
  
- FUK_no_one_is_sacred: "No One Is Sacred"
+ FUK_no_one_is_sacred: "Ніхто не є святим"
  FUK_no_one_is_sacred_desc: "Taras Bulba-Borovets preaches his anti-fascism from any soapbox he can, his militancy is but a smokescreen. Thanks to our diligent efforts, we have extensive evidence showcasing his collaboration with German authorities and the OUN, enough to tear off his veil and expose the ugly beast for who he truly is to the public.\n\nThey will see him for what he is: a hypocrite and a liar. The big hero who acts strong and tough, but is nothing but an opportunist who turned away from Germany and the OUN when it either no longer suited him, or they didn't need him.\n\nWe will soon see how united this struggle really is after we broadcast our evidence onto to all of Ukraine."
  
- FUK_inform_the_lost_and_confused: "Inform the Lost and Confused"
+ FUK_inform_the_lost_and_confused: "Поінформуйте загублених та розгублених"
  FUK_inform_the_lost_and_confused_desc: "The Ukrainian people at large are akin to lost little lambs, confused and in the dark after years of tyranny. After being bombarded with decades of communist, Nazi and Banderite propaganda, they are understandably mistrustful of politics and those who call themselves politicians.\n\nTo rectify this, Ivan Dziubia will take to the radio in a series of discussions and discourse aimed at educating the Ukrainian people in the Culturalist movement. Special effort will be made to tailor these messages to younger audiences, for they are the most faithful and eager of converts."
  
- FUK_our_great_history: "Our Great History"
+ FUK_our_great_history: "Наша велика історія"
  FUK_our_great_history_desc: "No matter what the imperialists who have held us captive for so long try to say, the history of Ukraine is a beautiful tapestry that can not be extinguished. From the courageous struggles of the noble Cossack people, to the heroic victories and tragic defeats of the Ukrainian People's Republic, it is a work of art. Everyone Ukrainian must be educated in its beauty.\n\nFurthermore, we must take great care to see the renaissance of our culture continue to blossom. We will do all we can to see this most treasured asset of ours bloom, whether it is through Ukrainization policies, or through are continued struggle against the forces of fascism."
  
- FUK_they_tried_to_kill_us_we_survived: "They Tried To Kill Us, We Survived"
+ FUK_they_tried_to_kill_us_we_survived: "Нас намагалися вбити, але ми вижили"
  FUK_they_tried_to_kill_us_we_survived_desc: "They may blind her, crush her, throw her ashes into the sea, but she will always live. The Ukrainian nation is eternal, and our people must take pride in that fact. We are the strongest people in the world - the Tsar tried to crush us and failed, the communists tried to crush us and failed, and the Nazis tried to crush us and failed. They will come again to try and crush us, but they will fail, for we are an unbreakable people.\n\nThese were are darkest of days, but dawn approaches, and a brighter future for all of Ukraine is within our reach."
  
- FUK_a_clear_light_not_a_twilight: "A Clear Light, Not a Twilight"
+ FUK_a_clear_light_not_a_twilight: "Ясне світло, не сутінки"
  FUK_a_clear_light_not_a_twilight_desc: "The Culturalists are unstoppable, every journalist and commentator knows that we will win this election by a country mile. Our cultural golden age approaches with a renaissance that would make the titans of Italy weep in despair once they see our mighty works. A new future for the Ukrainian people has come, and we are ready to embrace it with open arms.\n\nBut Germany still awaits. Our voices may be loud and proud, but will we be able to compete with them? We will always fight to the end, but will it be enough? A shadow of uncertainty looms over our nation as even the most optimistic of us all wonders if our cultural revival will be all over before it can truly awaken our people.\n\nAll we know is that our work will make sure that Ukraine survives, if not as a country, it will live on in our hearts."
  
  #United Struggle Election Tree
- FUK_the_only_answer: "The Only Answer"
+ FUK_the_only_answer: "Єдина відповідь"
  FUK_the_only_answer_desc: "We have surpassed what months ago seemed like unsurmountable odds, yet we could only do so joined together as one against those who wished to oppress us. Now, we face an even greater colossus, that of the German Reich, soon to wake up from its slumber and ready to crush us with all of their might.\n\nThe only solution to this dreadful problem is a united front against Nazism, our one chance of surviving against the German wave that seeks to oppress us and strangle our Republic in the crib.\n\nBut one important question remains: how do we accomplish such a feat after a bitter civil war?"
  
- FUK_bury_then_rise: "Bury, Then Rise"
+ FUK_bury_then_rise: "Поховати, а потім воскреснути"
  FUK_bury_then_rise_desc: "Mothers weep for their sons and daughters, patriots mourn the history and heritage turned to ashes, and Ukraine herself lingers in agony at the scars across its land. We can only bury these losses, but we can always rebuild. We now have a golden opportunity to take back the future that was rightfully ours. No more shall be oppressed by the forces of imperialism, forced to cow to madmen and their totalitarian ideals. Our Ukraine shall rise from the ashes, and it will be stronger than any ever before."
 
- FUK_water_with_the_tyrants_blood: "Water With the Tyrants' Blood..."
+ FUK_water_with_the_tyrants_blood: "Вода з кров'ю тиранів..."
  FUK_water_with_the_tyrants_blood_desc: "If a plant lies withered, frail, and thirsty, then the obvious course of action is to water it. Our Ukraine is a plant thirsty with vengeance. Ukrainians gaze at the captured fascists - brown bureaucrats who just months ago would have sent their families to die if it meant a slightly higher yield of crops for their masters in Germania.\n\nThere is to be no quarter given to any of them. Each one will face summary execution as the thousands that managed to escape the crushing their hulking abomination that captured our nation will soon find in a mass grave. No one will cry but the most craven bootlicker. After all, the only thing that can cure the thirst of a plant like Ukraine is the blood of its tyrants..."
 
- FUK_points_of_the_program: "Points of the Program"
+ FUK_points_of_the_program: "Основні пункти програми"
  FUK_points_of_the_program_desc: "Our party can not exclaim meaningless speeches proclaiming a united Ukraine without a program to back it up. It is why we have had our top idealogues finish a perfected plan for how we will rebuild and govern Ukraine to restore it to its former glory.\n\nThis will cover basic human rights that have been neglected for far too long, including freedoms of speech, religion, association, and so much more. It will also make sure that every Ukrainian man, woman, and child will have access to necessary services such as healthcare. To ensure we deliver on these promises, we will also enact a plan to nationalize most resources so that they are used for our country's best interests."
  
- FUK_are_you_all_insane: "Are You All Insane?!"
+ FUK_are_you_all_insane: "Ви всі збожеволіли?!"
  FUK_are_you_all_insane_desc: "Why would any sensible Ukrainian vote for a party other than United Struggle? Ohloblyn's party believes that survival can only be attained by turning our free nation into what is tantamount to the old Reichskommissariat in all but name, while the Culturalists believe our songs and poems will be what wins the fight against the sweeping waves of German oppression. In our election campaign, we will emphasize all of these points to the voter, reminding them that we are their only realistic candidate for maintaining a free Ukraine."
 
- FUK_the_freedom_we_have_gained: "...The Freedom We Have Gained"
+ FUK_the_freedom_we_have_gained: "...Свобода, яку ми здобули"
  FUK_the_freedom_we_have_gained_desc: "If one were to have a five minute conversation with the average voter, it would be fair to consider them absolutely clueless about the state of the nation. Ukrainians fail to appreciate just how much freedom they have won in these last few weeks, a crucial fact we would do well to remind them of.\n\nWe will take on this noble task ourselves, broadcasting educational messages reminding each voter of the freedom they enjoy thanks to our efforts. Furthermore, we will make sure they know what will happen to this glorious freedom should any fascist or tyrant attempt to seize control of our country..."
 
- FUK_factions_of_the_front: "Factions of the Front"
+ FUK_factions_of_the_front: "Фракції Фронту"
  FUK_factions_of_the_front_desc: "We may wish to end factionalization, but we must concede that even within a party as united as our own, dissent and debate exist. In particular, two voices argue for their competing visions of the party.\n\nVasyl Stus and his idealists argue for a broader front, able to encompass all Ukrainians willing to fight for their nation. They are primarily made up of younger voices within the party, activists, and dreamers who wish to put aside the differences of the past for a united nation above all else.\n\nThey are opposed by Taras Bulba-Borovets, alongside his choir of pragmatists assembled primarily from partisans. Borovets argues against over-expansion, believing in the need to centralize efforts towards a smaller core, allowing for more cohesive and powerful measures against our oppressors."
 
- FUK_reach_out_to_roman: "Reach Out to Roman"
+ FUK_reach_out_to_roman: "Зверніться до Романа"
  FUK_reach_out_to_roman_desc: "Dmytro Klyachkivsky was a man of hate - he was not a patriot. He led his men in a blind rage of anger against other patriots. Many of the men under his banner are misguided souls - men who can redeemed. Roman Shukhevych is a prime example of this character, a fighter who cast himself with the deranged only to find out too late.\n\nHe is a leading voice of the more moderate side of Banderite nationalism. This side eschews its ideological edge for a pragmatic and "apolitical" approach. If we were to offer him and his followers amnesty, they would be a valuable asset for our side."
 
- FUK_cooperate_with_the_communists: "Cooperate with the Communists"
+ FUK_cooperate_with_the_communists: "Співпрацювати з комуністами"
  FUK_cooperate_with_the_communists_desc: "The communists we fight are not the apparatchiks of yesterday, blindly following Moscow's orders as they stamped out everything that makes Ukraine special. No, they are also patriots like themselves, men who wished to see a Ukraine free from Nazism, even if their vision of a free Ukraine was markedly different from ours.\n\nTo live up to our ideals of a united struggle, we will offer amnesty to every communist partisan who lays down their weapons and agrees to fight for the government instead. If these communists are as dedicated to the fight against fascism as they say they are, every one of them will make an ideal soldier in the battle against Germany."
 
- FUK_fighting_fascisms_followers: "Fighting Fascism's Followers"
+ FUK_fighting_fascisms_followers: "Боротьба з послідовниками фашизму"
  FUK_fighting_fascisms_followers_desc: "It is not enough to vocally condemn the fascists in the Rada and other parlors of politics, we need to take to the streets. We will physically oppose them at each turn, even if that fascist takes on the guise of a Ukrainian. We will do our all to prevent the Movement for Defense Against Bolshevism from organizing against us, be it demonstrations and marches of anti-fascist fervor or counter-attacks towards them whenever they try to disrupt our fair and democratic processes. We have fought fascism before, and we will continue to take action against it in whatever form it may take!"
 
- FUK_for_we_bow_to_none: "For We Bow to None"
- FUK_for_we_bow_to_none_desc: "The people's voice is clear, United Struggle will win the upcoming elections by a wide margin. Our people are ready, they are prepared to defend our Republic with their lives. Ukraine's scar will heal, and her sons and daughter stand armed, ready to make sure no one dares harm their mother again.\n\nBut our united coalition is beginning to feel increasingly divided. In a battle against fascism and for the values of our Republic, some have begun to favor one part of the fight over the other. It is a matter that has become our elephant in the room - a matter that will need to be addressed after our election.\n\nFor if not, we will be nothing but carrion for Germany once they return."
+ FUK_for_we_bow_to_none: "Бо ми не вклоняємося нікому"
+ FUK_for_we_bow_to_none_desc: "Голос народу ясний, "Об'єднана боротьба" переможе на майбутніх виборах з великим відривом. Наші люди готові, вони готові захищати нашу Республіку ціною власного життя. Рана України загоїться, а її сини і дочки стоять зі зброєю в руках, готові до того, щоб ніхто більше не посмів скривдити їхню матір.\n\nАле наша об'єднана коаліція починає відчувати все більший розкол. У боротьбі проти фашизму і за цінності нашої республіки дехто почав надавати перевагу одній стороні боротьби над іншою. Це питання, яке стало нашим слоном у кімнаті - питання, яке потрібно буде вирішити після наших виборів.\n\nБо якщо цього не зробити, ми будемо нічим іншим, як м'ясом для Німеччини, коли вони повернуться."
 
  ### Events ###
  #civil war events
