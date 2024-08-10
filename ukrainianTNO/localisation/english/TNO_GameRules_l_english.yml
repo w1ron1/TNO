@@ -48,23 +48,23 @@ RULE_OPTION_No_Silence_DESC: "§WПоточну доріжку не буде п�
 ### THE WORLD - INTERNATIONAL DIPLOMACY ###
 ##########################################
 
-RULE_GROUP_TNO_RULES_DIPLOMACY: "Country Paths - The World - International Diplomacy"
+RULE_GROUP_TNO_RULES_DIPLOMACY: "Шляхи країн - Світ - Міжнародна дипломатія"
 
-COMECON_MEMBERS_OUTCOME: "£TNO_game_rule_flag_CME   COMECON - Foundation"
-RULE_OPTION_COMECON_MEMBERS_OUTCOME_RANDOM: "Default - Random AI"
+COMECON_MEMBERS_OUTCOME: "£TNO_game_rule_flag_CME   КОМЕКОН - Засновництво"
+RULE_OPTION_COMECON_MEMBERS_OUTCOME_RANDOM: "Стандартно - Рандом ШІ"
 RULE_OPTION_COMECON_MEMBERS_OUTCOME_RANDOM_DESC: ""
-RULE_OPTION_COMECON_MEMBERS_OUTCOME_EVERYONE_JOINS: "Everyone joins"
+RULE_OPTION_COMECON_MEMBERS_OUTCOME_EVERYONE_JOINS: "Усі приєднуються"
 RULE_OPTION_COMECON_MEMBERS_OUTCOME_EVERYONE_JOINS_DESC: ""
-RULE_OPTION_COMECON_MEMBERS_OUTCOME_EVERYONE_JOINS_AS_OBSERVER: "Everyone joins as observers"
+RULE_OPTION_COMECON_MEMBERS_OUTCOME_EVERYONE_JOINS_AS_OBSERVER: "Усі долучаються як спостерігачі"
 RULE_OPTION_COMECON_MEMBERS_OUTCOME_EVERYONE_JOINS_AS_OBSERVER_DESC: ""
-RULE_OPTION_COMECON_MEMBERS_OUTCOME_NOBODY_JOINS: "Nobody Joins"
+RULE_OPTION_COMECON_MEMBERS_OUTCOME_NOBODY_JOINS: "Нихто не лізе у те пекло"
 RULE_OPTION_COMECON_MEMBERS_OUTCOME_NOBODY_JOINS_DESC: ""
 
 
 # Speer - Toronto/Reykjavik Accords
 
-GER_SPEER_USA_ACCORD: "£TNO_game_rule_flag_GER  £TNO_game_rule_flag_USA   Speer's Germany and the USA - Toronto/Reykjavik Accords"
-RULE_OPTION_GER_SPEER_USA_ACCORD_RANDOM: "Default - Random AI"
+GER_SPEER_USA_ACCORD: "£TNO_game_rule_flag_GER  £TNO_game_rule_flag_USA   Німеччина Шпеєра та США - Угоди Торонто/Рейк'явік"
+RULE_OPTION_GER_SPEER_USA_ACCORD_RANDOM: "Стандартно - Випадковий ШІ"
 RULE_OPTION_GER_SPEER_USA_ACCORD_RANDOM_DESC: "§FForeign Minister §gHelmut Schmidt§! is sent by Führer §JAlbert Speer§! to negotiate with the §mAmericans§! regarding a §ltreaty§! between the two §Ggreat§! §Ysuperpowers§!, and §nhopefully§! move on from an §eera of mutual destruction§! and §xdistrust§! to a more §namicable§! one. Now, the extent of the §lAccords§! is up to §gSchmidt§!, as the §mAmericans§! demand §hthree clauses§! that §jGermany§! has to accede if they ever have §nhopes§! of §Greestablishing§! §Yrelations§! with the §MLand of the Free§!.\n\n§RRequires:§!\n£TNO_game_rule_flag_USA  §MThe Foregone Conclusion§! in £TNO_game_rule_flag_GER  £TNO_game_rule_flag_USA  £TNO_game_rule_flag_JAP   §YSpeer's Germany - Speer's Foreign Policy§!.§!"
 RULE_OPTION_GER_SPEER_USA_ACCORD_ONE: "§YOne§! Clause Agreed"
 RULE_OPTION_GER_SPEER_USA_ACCORD_ONE_DESC: "§F§gSchmidt§! has decided to accede §Yone§! §hclause§! to the §mAmericans§!, doing the §Ybare minimum§! as to not §Rupset§! the §oreactionary§! elements back §jhome§! but §Gwell enough§! to §Yappease§! the §mdemocratic§! superpower.§!"
@@ -135,16 +135,16 @@ RULE_OPTION_GER_SPEER_JAP_TECHNOLOGY_FAIL_DESC: "§FAfter continual rejections o
 ### EUROPE - EINHEITSPAKT (UNITY-PAKT) ###
 ##########################################
 
-RULE_GROUP_TNO_RULES_EUROPE_EINHEITSPAKT: "£TNO_game_rule_flag_GER   Country Paths - Germany"
+RULE_GROUP_TNO_RULES_EUROPE_EINHEITSPAKT: "£TNO_game_rule_flag_GER   Шляхи країн - Німеччина"
 
-GER_CIVIL_WAR_BUFF: "£TNO_game_rule_flag_BGR  £TNO_game_rule_flag_GGR  £TNO_game_rule_flag_GER_Speer  £TNO_game_rule_flag_HGR   German Civil War"
-RULE_OPTION_GER_CIVIL_WAR_BUFF_RANDOM: "Default - No Boost"
+GER_CIVIL_WAR_BUFF: "£TNO_game_rule_flag_BGR  £TNO_game_rule_flag_GGR  £TNO_game_rule_flag_GER_Speer  £TNO_game_rule_flag_HGR   Німецька громадянська війна"
+RULE_OPTION_GER_CIVIL_WAR_BUFF_RANDOM: "За замовчуванням - Без підсилень"
 RULE_OPTION_GER_CIVIL_WAR_BUFF_RANDOM_DESC: "§F\n\n§GThe chosen side will gain a large combat bonus for the duration of the GCW.§!\n§wWarning§!: There is no war buff for Heydrich because AI Heydrich is scripted not to win the civil war.§!"
-RULE_OPTION_GER_CIVIL_WAR_BUFF_BORMANN: "£TNO_game_rule_flag_BGR   §oBormann§! Victory"
+RULE_OPTION_GER_CIVIL_WAR_BUFF_BORMANN: "£TNO_game_rule_flag_BGR   §oБорман§! Виграє"
 RULE_OPTION_GER_CIVIL_WAR_BUFF_BORMANN_DESC: "§FBormann's Germany will receive a major boost against the other factions.§!"
 #RULE_OPTION_GER_CIVIL_WAR_BUFF_GORING: "£TNO_game_rule_flag_GGR   §oGöring§! Victory"
 #RULE_OPTION_GER_CIVIL_WAR_BUFF_GORING_DESC: "§FGöring's Germany will receive a major boost against the other factions.§!"
-RULE_OPTION_GER_CIVIL_WAR_BUFF_SPEER: "£TNO_game_rule_flag_GER_Speer   §JSpeer§! Victory"
+RULE_OPTION_GER_CIVIL_WAR_BUFF_SPEER: "£TNO_game_rule_flag_GER_Speer   §JШпеєр§! Виграє"
 RULE_OPTION_GER_CIVIL_WAR_BUFF_SPEER_DESC: "§FSpeer's Germany will receive a major boost against the other factions.§!"
 #RULE_OPTION_GER_CIVIL_WAR_BUFF_HEYDRICH: "£TNO_game_rule_flag_HGR   §oHeydrich§! Victory"
 #RULE_OPTION_GER_CIVIL_WAR_BUFF_HEYDRICH_DESC: "§FHeydrich's Germany will receive a major boost against the other factions.§!"

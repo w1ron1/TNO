@@ -106,10 +106,10 @@
  OILflavor.9.a:0 ""Of course, Mr. Tahir. Nothing you should worry about in the least.""
 
  #Tooltips
- OIL_USA_intervention:0 "The USA will get directly involved in the Oil Crisis.\n"
- OIL_USA_no_intervention:0 "The USA will indirectly support Italy in the Oil Crisis.\n"
- OIL_investment_will_grow:0 "§LOur investments in the Middle East will grow.§!"
- OIL_USA_prointerventionist:0 "The USA is Pro-interventionist."
+ OIL_USA_intervention:0 "США будуть безпосередньо залучені в нафтову кризу.\n"
+ OIL_USA_no_intervention:0 "США опосередковано підтримають Італію в нафтовій кризі.\n"
+ OIL_investment_will_grow:0 "§LНаші інвестиції на Близькому Сході зростатимуть.§!"
+ OIL_USA_prointerventionist:0 "США є проінтервенціоністськими."
  OIL_USA_antiinterventionist:0 "The USA is Anti-interventionist."
  USA_decisions_ITA_oil:0 "This will unlock decisions to be able to send support to Italy."
  USA_decisions_ITA_oil_2:0 "This will unlock decisions to be able to send further support to Italy."

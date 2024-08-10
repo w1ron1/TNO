@@ -10,46 +10,46 @@
 
  KOM_socintern_associate:0 "Партнер КомІнтерну"
 
- RUS_comecon_built_factory:0 "Розвиток КОМІКОН Партнер Індастріалз"
+ RUS_comecon_built_factory:0 "Розвиток КОМЕКОН Партнер Індастріалз"
  
  ## GUI ##
- COM_invest_in_cooperative_research:0 "Join the §SCOMECON§! §YScientific Bureau§!"
+ COM_invest_in_cooperative_research:0 "Приєднуйтесь до §YНаукового бюро§! §SКОМЕКОНА§!"
 
- COMECON_desc:0 "In the name of international cooperation between socialist states, the §SCouncil for Mutual Economic Assistance§! offers an opportunity to sponsor the development of less developed nations through §SCOMECON§! aid and emergency assistance."
+ COMECON_desc:0 "В ім'я міжнародного співробітництва між соціалістичними державами, §SСовет Економічної Взаємодопомоги§! Совет Економічної Взаємодопомоги пропонує можливість спонсорувати розвиток менш розвинених країн через допомогу §SКОМЕКОН§! та надзвичайну допомогу."
 
- COMECON_defense_transfer_amt:0 "$[?ROOT.COMECONDefTransferAmt]B"
- COMECON_dev_transfer_amt:0 "$[?ROOT.COMECONDevTransferAmt]B"
+ COMECON_defense_transfer_amt:0 "$[?ROOT.COMECONDefTransferAmt]М"
+ COMECON_dev_transfer_amt:0 "$[?ROOT.COMECONDevTransferAmt]М"
 
- COMECON_defense_transfer_amt_yearly:0 "$[?ROOT.COMECONDefTransferAmtYearly]B/yr"
- COMECON_dev_transfer_amt_yearly:0 "$[?ROOT.COMECONDevTransferAmtYearly]B/yr"
+ COMECON_defense_transfer_amt_yearly:0 "$[?ROOT.COMECONDefTransferAmtYearly]М/рк"
+ COMECON_dev_transfer_amt_yearly:0 "$[?ROOT.COMECONDevTransferAmtYearly]М/рк"
  
- COMECON_defense_title_tt:0 "COMECON Defense Fund"
- COMECON_defense_withdraw_tt:0 "Withdraw"
- COMECON_defense_deposit_tt:0 "Deposit"
- COMECON_defense_yearly_contrib_tt:0 "Yearly Contribution"
+ COMECON_defense_title_tt:0 "Фонд оборони КОМЕКОНУ"
+ COMECON_defense_withdraw_tt:0 "Зняти"
+ COMECON_defense_deposit_tt:0 "Депозит"
+ COMECON_defense_yearly_contrib_tt:0 "Щорічний внесок"
 
- COMECON_dev_title_tt:0 "COMECON Development Fund"
+ COMECON_dev_title_tt:0 "Фонд розвитку КОМЕКОНУ"
  COMECON_dev_amt:0 "$[?global.COMECON_monetary_fund_value|2]B"
  COMECON_defense_amt:0 "$[?global.COMECON_collective_defense_value|2]B"
 
- COMECON_GUI_Country_Entry_Button_1:0 "Dispatch"
- COMECON_GUI_Country_Entry_Button_2:0 "COMECON Aid"
- COMECON_GUI_Country_Entry_Button_name:0 "Dispatch COMECON Aid"
- COMECON_GUI_Country_Entry_Button_tt:0 "§Y$250 million§! shall be sent as §SCOMECON§! aid to [THIS.GetNameDef]."
+ COMECON_GUI_Country_Entry_Button_1:0 "Диспетчерська."
+ COMECON_GUI_Country_Entry_Button_2:0 "Допомога КОМЕКОНК"
+ COMECON_GUI_Country_Entry_Button_name:0 "Диспетчерська служба допомоги КОМЕКОНУ"
+ COMECON_GUI_Country_Entry_Button_tt:0 "§Y$250 мільйонів§! надсилається як допомога §SКОМЕКОНУ§! на адресу [THIS.GetNameDef]."
  Socintern_GUI_General_Assembly_Entry_Nation_tt:0 "[THIS.GetNameDefCap] - [THIS.GetSocInternVoteStatus]"
- TNO_SOCINTERN_VOTE_TEXT:0 "Voting"
- TNO_SOCINTERN_YES_VOTE:0 "voting §Gin favor§!."
- TNO_SOCINTERN_ABS_VOTE:0 "§gabstaining§!."
- TNO_SOCINTERN_NO_VOTE:0 "voting §Rin opposition§!."
- TNO_SOCINTERN_UNDECIDED_VOTE:0 "§Wundecided§!."
+ TNO_SOCINTERN_VOTE_TEXT:0 "Голосування"
+ TNO_SOCINTERN_YES_VOTE:0 "голосують §Gза§!."
+ TNO_SOCINTERN_ABS_VOTE:0 "§gутримався§!."
+ TNO_SOCINTERN_NO_VOTE:0 "голосують §Rпроти§!."
+ TNO_SOCINTERN_UNDECIDED_VOTE:0 "§Wне визначився§!."
 
- COMECON_participants_title_tt:0 "COMECON PARTICIPANTS"
- COMECON_eligible_title_tt:0 "ELIGIBLE NON-MEMBERS"
+ COMECON_participants_title_tt:0 "УЧАСНИК КОМЕКОНУ"
+ COMECON_eligible_title_tt:0 "ВІДПОВІДНІ НЕ-УЧАСНИКИ"
 
- COM_cooldown:0 "The §RGeneral Assembly§! is in recess."
+ COM_cooldown:0 "§RГенеральна Асамблея§! оголосила перерву."
 
- COMECON_GUI_Defense_Fund_Withdraw_Label_tt:0 "Withdrawals from the defense fund are unlocked when we are currently in an §Rarmed conflict§!."
- COMECON_GUI_Dev_Fund_Withdraw_Label_tt:0 "Withdrawals from the development fund are unlocked when we are §Rrunning a deficit§!, or have a §RGDP under $50 Billion§!."
+ COMECON_GUI_Defense_Fund_Withdraw_Label_tt:0 "Зняття коштів з оборонного фонду розблоковується, коли ми перебуваємо у стані §Rзбройного конфлікту§!."
+ COMECON_GUI_Dev_Fund_Withdraw_Label_tt:0 "Вилучення коштів з фонду розвитку розблоковуються, коли ми §Rмаємо дефіцит§!, або маємо §RВВП менше 50 мільярдів $§!."
 
  ### Decisions ###
 
@@ -399,8 +399,8 @@
  comecon_tech_group_desc:0 "The COMECON Scientific Bureau is the collective international scientific organization of the Communist International, and serves as the research and development wing of COMECON. Its purpose is to assist with mutual research, and allow the rapid advancement of developing countries to technological parity with the rest of the COMECON member nations."
  
  ## Opinion Modifiers ##
- TNO_socintern_member:0 "ComIntern Member"
- TNO_socintern_associate:0 "ComIntern Associate"
+ TNO_socintern_member:0 "Участник КомІнтерну"
+ TNO_socintern_associate:0 "Партнер КомІнтерну"
 
  ## Flags ##
- COMECON_FOUNDED: "§SCOMECON§! has already been founded."
+ COMECON_FOUNDED: "§SКОМЕКОН§! вже створено."
