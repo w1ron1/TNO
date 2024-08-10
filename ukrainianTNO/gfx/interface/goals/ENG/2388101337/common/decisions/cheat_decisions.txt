@@ -1,0 +1,569 @@
+
+cheats_main_menu_category = {
+		hide_popularity_decisions = {
+				available = {
+					is_ai = no
+				}
+				visible = { 
+					NOT = { has_country_flag = hide_popularity_decisions_flag }
+				}
+				complete_effect = {
+					set_country_flag = hide_popularity_decisions_flag
+				}
+		}
+		show_popularity_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = hide_popularity_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = hide_popularity_decisions_flag
+			}
+		}
+		hide_soc_dev_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				NOT = { has_country_flag = hide_soc_dev_decisions_flag }
+			}
+			complete_effect = {
+				set_country_flag = hide_soc_dev_decisions_flag
+			}
+		}
+		show_soc_dev_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = hide_soc_dev_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = hide_soc_dev_decisions_flag
+			}
+		}
+		hide_space_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = {
+				NOT = { has_country_flag = hide_space_decisions_flag }
+				USA = has_country_flag = USA_68_R_RD
+				OR = {
+					NOT = { has_country_flag = hide_foreign_flag }
+					original_tag = USA
+				}
+			}
+			complete_effect = {
+				set_country_flag = hide_space_decisions_flag
+			}
+		}
+		show_space_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = {
+				has_country_flag = hide_space_decisions_flag
+				USA = has_country_flag = USA_68_R_RD
+				OR = {
+					NOT = { has_country_flag = hide_foreign_flag }
+					original_tag = USA
+				}
+			}
+			complete_effect = {
+				clr_country_flag = hide_space_decisions_flag
+			}
+		}
+		hide_foriegn_cheat_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = {
+				NOT = { has_country_flag = hide_foreign_flag }
+			}
+			complete_effect = {
+				set_country_flag = hide_foreign_flag
+			}
+		}
+		show_foriegn_cheat_decisions = {
+			visible = { 
+				has_country_flag = hide_foreign_flag
+			}
+			complete_effect = {
+				clr_country_flag = hide_foreign_flag
+			}
+		}
+	}
+	cheats_soc_dev_category = {
+		boost_army_pro = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { army_professionalism_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_army_pro = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { army_professionalism_monthly_change = -5.000 }
+				}
+			}
+		}
+
+		boost_schools = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { academic_base_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_schools = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { academic_base_monthly_change = -5.000 }
+				}
+			}
+		}
+		
+		boost_science = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { research_facilities_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_science = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { research_facilities_monthly_change = -5.000 }
+				}
+			}
+		}
+		
+		boost_farming = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { agriculture_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_farming = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { agriculture_monthly_change = -5.000 }
+				}
+			}
+		}
+		
+		boost_equipment = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { industrial_equipment_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_equipment = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { industrial_equipment_monthly_change = -5.000 }
+				}
+			}
+		}
+		
+		boost_expertise = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { industrial_expertise_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_expertise = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { industrial_expertise_monthly_change = -5.000 }
+				}
+			}
+		}
+		
+		boost_nukes = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { nuclear_stockpile_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_nukes = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { nuclear_stockpile_monthly_change = -5.000 }
+				}
+			}
+		}
+		
+		boost_poverty = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { poverty_monthly_change = 5.000 }
+				}
+			}
+		}
+		
+		lower_poverty = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { poverty_monthly_change = -5.000 }
+				}
+			}
+		}
+		raise_reserves = {
+			complete_effect = {
+				hidden_effect = {
+					add_to_variable = { money_reserves = 5000000.000 }
+				}
+			}
+		}
+	}
+	cheats_IBR_category = {
+		increase_reformism = {
+			complete_effect = {
+				IBR = {
+					add_to_variable = { IBR_council_reformism = 5 }
+				}
+			}
+		}
+		decrease_reformism = {
+			complete_effect = {
+				IBR = {
+					subtract_from_variable_variable = { IBR_council_reformism = 5 }
+				}
+			}
+		}
+		increase_AAS_supplies = { 
+			complete_effect = {
+				IBR = {
+					add_to_variable = { IBR_AAS_Resources = 5 }
+				}
+			}	
+		}
+		boost_franco_popularity = {
+			complete_effect = {
+				IBR = {
+					add_to_variable = { IBR_military_alignment = 4 }
+					add_to_variable = { IBR_church_alignment = 4 }
+					add_to_variable = { IBR_burocrat_alignment = 4 }
+					add_to_variable = { IBR_business_alignment = 4 }
+					add_to_variable = { IBR_settlers_alignment = 4 }
+					add_to_variable = { IBR_native_alignment = 4 }
+					add_to_variable = { IBR_foreign_alignment = 4 }
+					add_to_variable = { IBR_intellectual_alignment = 4 }
+					add_to_variable = { IBR_majority_alignment = 4 }
+					add_to_variable = { IBR_regional_alignment = 4 }
+					IBR_check_caudillo_popularity = yes
+				}
+			}
+		}
+		boost_salazar_popularity = {
+			complete_effect = {
+				IBR = { 
+					subtract_from_variable = { IBR_military_alignment = 4 }
+					subtract_from_variable = { IBR_church_alignment = 4 }
+					subtract_from_variable = { IBR_burocrat_alignment = 4 }
+					subtract_from_variable = { IBR_business_alignment = 4 }
+					subtract_from_variable = { IBR_settlers_alignment = 4 }
+					subtract_from_variable = { IBR_native_alignment = 4 }
+					subtract_from_variable = { IBR_foreign_alignment = 4 }
+					subtract_from_variable = { IBR_intellectual_alignment = 4 }
+					subtract_from_variable = { IBR_majority_alignment = 4 }
+					subtract_from_variable = { IBR_regional_alignment = 4 }
+					IBR_check_caudillo_popularity = yes
+				}
+			}
+		}
+	}
+	cheats_USA_election_category = {
+		raise_republican_support = {
+			complete_effect = {
+				USA = {
+					any_owned_state = { 
+						limit = { can_have_elections_in_state = yes }
+						add_to_variable = { RD_popularity = 0.25 }
+						add_to_variable = { RD_R_bonus_popularity = 0.25 }
+					}
+				}
+			}
+		}
+		raise_democrat_support = {
+			complete_effect = {
+				USA = {
+					any_owned_state = { 
+						limit = { can_have_elections_in_state = yes }
+						add_to_variable = { RD_popularity = 0.25 }
+						add_to_variable = { RD_D_bonus_popularity = 0.25 }
+					}
+				}
+			}
+		}
+		raise_NPP_L_support = {
+			complete_effect = {
+				USA = {
+					any_owned_state = { 
+						limit = { can_have_elections_in_state = yes }
+						add_to_variable = { NPP_popularity = 0.25 }
+						add_to_variable = { NPP_L_bonus_popularity = 0.25 }
+					}
+				}
+			}
+		}
+		raise_NPP_C_support = {
+			complete_effect = {
+				USA = {
+					any_owned_state = { 
+						limit = { can_have_elections_in_state = yes }
+						add_to_variable = { NPP_popularity = 0.25 }
+						add_to_variable = { NPP_C_bonus_popularity = 0.25 }
+					}
+				}
+			}
+		}
+		raise_NPP_FR_support = {
+			complete_effect = {
+				USA = {
+					any_owned_state = { 
+						limit = { can_have_elections_in_state = yes }
+						add_to_variable = { NPP_popularity = 0.25 }
+						add_to_variable = { NPP_FR_bonus_popularity = 0.25 }
+					}
+				}
+			}
+		}
+		raise_NPP_Y_support = {
+			complete_effect = {
+				USA = {
+					any_owned_state = { 
+						limit = { can_have_elections_in_state = yes }
+						add_to_variable = { NPP_popularity = 0.25 }
+						add_to_variable = { NPP_Y_bonus_popularity = 0.25 }
+					}
+				}
+			}
+		}
+		raise_RD_unity = {
+			complete_effect = {
+				USA = {
+					add_to_variable = { USA_RD_Unity = 5 }
+				}
+			}
+		}
+		raise_NPP_unity = { 
+			complete_effect = {
+				USA = {
+					add_to_variable = { USA_NPP_Unity = 5 }
+				}
+			}
+		}
+	}
+	cheats_Glenn_category = {
+		increase_science_points = {
+			complete_effect = {
+				USA = {
+					add_to_variable = { USA_GLN_NASA_Science_Points = 25 }
+				}
+			}
+		}
+		increase_public_support = {
+			complete_effect = {
+				USA = {
+					add_to_variable = { USA_GLN_Public_Support = 10 }
+				}
+			}
+		}
+		increase_funding = {
+			complete_effect = {
+				USA = {
+					add_to_variable = { USA_GLN_NASA_Funding = 100 }
+				}
+			}
+		}
+	}
+	cheats_GER_category = {
+		increase_regime_stability = {
+			complete_effect = {
+				GER = {
+					add_regime_stab_med = yes
+				}
+			}
+		}
+		increase_reformism_speer = {
+			complete_effect = {
+				GER = {
+					increase_reformist_leaning_medium = yes
+				}
+			}
+		}
+		increase_conservative_speer = {
+			complete_effect = {
+				GER = {
+					increase_conservative_leaning_medium = yes
+				}
+			}
+		}
+	}
+	cheats_ENG_category = {
+		increase_thatcher_party_support = { 
+			complete_effect = {
+				ENG = {
+					ENG_Thatcher_Add_Maggie_Party_Support_10 = yes
+				}
+			}
+		}
+		increase_og_party_support = { 
+			complete_effect = {
+				ENG = {
+					ENG_Thatcher_Add_OG_Party_Support_10 = yes
+				}
+			}
+		}
+		increase_macmillan_liberal_love = { 
+			complete_effect = {
+				ENG = {
+					ENG_MacMillan_Add_Liberal_Love_10 = yes
+				}
+			}
+		}
+		increase_macmillan_support = { 
+			complete_effect = {
+				ENG = {
+					ENG_MacMillan_Add_Mac_Love_10 = yes
+				}
+			}
+		}
+		increase_democracy = { 
+			complete_effect = {
+				ENG = {
+					ENG_MacMillan_Add_Democratization_10 = yes
+				}
+			}
+		}
+		decrease_democracy = { 
+			complete_effect = {
+				ENG = {
+					ENG_MacMillan_Remove_Democratization_10 = yes
+				}
+			}
+		}
+		increase_value_domestic_jobs = { 
+			complete_effect = {
+				ENG = {
+					ENG_SE_IncreaseDomesticJobsValue_Large = yes
+				}
+			}
+		}
+		increase_value_foreign_jobs = {
+			complete_effect = {
+				ENG = {
+					ENG_SE_IncreaseForeignJobsValue_Large = yes
+				}
+			}
+		}
+		increase_number_foreign_jobs = { 
+			complete_effect = {
+				ENG = {
+					ENG_SE_IncreaseForeignJobsAmount_1000 = yes
+				}
+			}
+		}
+		increase_number_domestic_jobs = { 
+			complete_effect = {
+				ENG = {
+					ENG_SE_IncreaseDomesticJobsAmount_1000 = yes
+				}
+			}
+		}
+		increase_OFN_influence = {
+			complete_effect = {
+				ENG = {
+					ENG_Increase_OFN_Influence_2 = yes
+				}
+			}
+		}
+		increase_pakt_influence = { 
+			complete_effect = {
+				ENG = {
+					ENG_Increase_PAKT_Influence_2 = yes
+				}
+			}
+		}
+	}
+	cheats_ERS_category = {
+		decrease_unrest = {
+			complete_effect = {
+				subtract_from_variable = { SIB_worker_tension = 5 }
+			}
+		}
+		increase_dec_pop = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Dec_Pop_high = yes
+				}
+			}
+		}
+		increase_dec_auth = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Dec_Auth_high = yes
+				}
+			}
+		}
+		increase_hum_pop = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Hum_Pop_high = yes
+				}
+			}
+		}
+		increase_hum_auth = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Hum_Auth_high = yes
+				}
+			}
+		}
+		increase_mod_pop = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Mod_Pop_high = yes
+				}
+			}
+		}
+		increase_mod_auth = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Mod_Auth_high = yes
+				}
+			}
+		}
+		increase_bas_pop = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Bas_Pop_high = yes
+				}
+			}
+		}
+		increase_bas_auth = {
+			complete_effect = {
+				ERS = {
+					ERS_Increase_Bas_Auth_high = yes
+				}
+			}
+		}
+	}
+}

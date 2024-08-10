@@ -1,0 +1,19 @@
+cheats_GER_power_struggle_category = {
+
+	icon = decision_category_military_operation
+
+	picture = GFX_decision_GER_decision_political_situation
+
+	priority = 350
+
+	allowed = {
+		is_ai = no
+		tag = GER
+	}
+	
+	visible = {
+		has_country_flag = GER_power_struggle
+	}
+
+	visible_when_empty = yes
+}

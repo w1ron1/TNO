@@ -1,0 +1,2539 @@
+cheats_main_menu_category = {
+		hide_popularity_decisions = {
+				available = {
+					is_ai = no
+				}
+				visible = { 
+					NOT = { has_country_flag = hide_popularity_decisions_flag }
+				}
+				complete_effect = {
+					set_country_flag = hide_popularity_decisions_flag
+				}
+		}
+		show_popularity_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = hide_popularity_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = hide_popularity_decisions_flag
+			}
+		}
+		hide_soc_dev_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				NOT = { has_country_flag = hide_soc_dev_decisions_flag }
+			}
+			complete_effect = {
+				set_country_flag = hide_soc_dev_decisions_flag
+			}
+		}
+		show_soc_dev_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = hide_soc_dev_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = hide_soc_dev_decisions_flag
+			}
+		}
+		
+		hide_political_laws_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				NOT = { has_country_flag = cheats_political_laws_decisions_flag }
+			}
+			complete_effect = {
+				set_country_flag = cheats_political_laws_decisions_flag
+			}
+		}
+		show_political_laws_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = cheats_political_laws_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = cheats_political_laws_decisions_flag
+			}
+		}
+		
+		hide_economic_laws_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				NOT = { has_country_flag = cheats_economic_laws_decisions_flag }
+			}
+			complete_effect = {
+				set_country_flag = cheats_economic_laws_decisions_flag
+			}
+		}
+		show_economic_laws_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = cheats_economic_laws_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = cheats_economic_laws_decisions_flag
+			}
+		}
+		
+		hide_social_laws_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				NOT = { has_country_flag = cheats_social_laws_decisions_flag }
+			}
+			complete_effect = {
+				set_country_flag = cheats_social_laws_decisions_flag
+			}
+		}
+		show_social_laws_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = { 
+				has_country_flag = cheats_social_laws_decisions_flag
+			}
+			complete_effect = {
+				clr_country_flag = cheats_social_laws_decisions_flag
+			}
+		}
+		
+		show_space_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = {
+				has_country_flag = hide_space_decisions_flag
+				USA = has_country_flag = USA_68_R_RD
+				OR = {
+					NOT = { has_country_flag = hide_foreign_flag }
+					original_tag = USA
+				}
+			}
+			complete_effect = {
+				clr_country_flag = hide_space_decisions_flag
+			}
+		}
+		hide_space_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = {
+				NOT = { has_country_flag = hide_space_decisions_flag }
+				USA = has_country_flag = USA_68_R_RD
+				OR = {
+					NOT = { has_country_flag = hide_foreign_flag }
+					original_tag = USA
+				}
+			}
+			complete_effect = {
+				set_country_flag = hide_space_decisions_flag
+			}
+		}
+		hide_foriegn_cheat_decisions = {
+			available = {
+				is_ai = no
+			}
+			visible = {
+				NOT = { has_country_flag = hide_foreign_flag }
+			}
+			set_country_flag = hide_foriegn_flag
+		}
+		show_foriegn_cheat_decisions = {
+			visible = { 
+				has_country_flag = hide_foreign_flag
+			}
+			complete_effect = {
+				clr_country_flag = hide_foreign_flag
+			}
+		}
+	}
+	cheats_soc_dev_category = {
+		boost_army_pro = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_improve_army_professionalism = yes
+			}
+		}
+		
+		lower_army_pro = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_worsen_army_professionalism = yes
+			}
+		}
+	
+		boost_schools = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_improve_academic_base = yes
+			}
+		}
+		
+		lower_schools = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_worsen_academic_base = yes
+			}
+		}
+		
+		boost_science = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				  tno_improve_research_facilities = yes
+			}
+		}
+		
+		lower_science = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_worsen_research_facilities = yes 
+			}
+		}
+		
+		boost_farming = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					tno_improve_agriculture = yes
+			}
+		}
+		
+		lower_farming = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					tno_worsen_agriculture = yes
+			}
+		}
+		
+		boost_equipment = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					tno_improve_industrial_equipment = yes 
+			}
+		}
+		
+		lower_equipment = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					tno_worsen_industrial_equipment = yes
+			}
+		}
+		
+		boost_expertise = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					tno_improve_industrial_expertise = yes
+			}
+		}
+		
+		lower_expertise = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					tno_worsen_industrial_expertise = yes
+			}
+		}
+		
+		boost_nukes = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_improve_nuclear_stockpile = yes
+			}
+		}
+		
+		lower_nukes = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_worsen_nuclear_stockpile = yes
+			}
+		}
+		
+		boost_poverty = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_improve_poverty = yes 
+			}
+		}
+		
+		lower_poverty = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_worsen_poverty = yes 
+			}
+		}
+	}
+	cheats_soc_dev_gdp_category = {
+		increase_GDP = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { GDP = 500 }
+			}
+		}
+
+		decrease_GDP = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { GDP = -500 }
+			}
+		}
+
+		increase_GDP_growth = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { GDP_growth = 0.01 }
+			}
+		}
+
+		decrease_GDP_growth = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				subtract_from_variable = { GDP_growth = 0.01 }
+			}
+		}
+
+		increase_debt_interests = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { interest_rates = 0.01 }
+			}
+		}
+
+		decrease_debt_interests = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				subtract_from_variable = { interest_rates = 0.01 }
+			}
+		}
+		
+		increase_misc_income = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = {
+					var = misc_income
+					value = 1000
+				}
+			}
+		}
+
+		decrease_misc_income = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = {
+					var = misc_income
+					value = -1000
+				}
+			}
+		}
+
+		increase_misc_costs = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = {
+					misc_costs = 100
+				}
+			}
+		}
+
+		decrease_misc_costs = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = {
+					misc_costs = -100
+				}
+			}
+		}
+
+		increase_liquid_reserves = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = {
+					money_reserves = 10000
+				}
+			}
+		}
+	}
+	cheats_military_laws_category = {
+		increase_consription = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_conscription_improve = yes
+			}
+		}
+		decrease_conscription = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_conscription_worsen = yes
+			}
+		}
+		increase_women_in_services = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_women_improve = yes
+			}
+		}
+		decrease_women_in_services = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_women_worsen = yes
+			}
+		}
+		increase_military_supervision = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_military_supervision_improve = yes
+			}
+		}
+		decrease_military_supervision = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_military_supervision_worsen = yes
+			}
+		}
+		increase_military_spending = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_military_spending_improve = yes
+			}
+		}
+		decrease_military_spending = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_military_spending_worsen = yes
+			}
+		}
+		increase_tno_training = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_training_improve = yes
+			}
+		}
+		decrease_tno_training = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_training_worsen = yes
+			}
+		}
+		increase_tno_racial_integration = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_racial_integration_improve = yes
+			}
+		}
+		decrease_tno_racial_integration= {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_racial_integration_worsen = yes
+			}
+		}
+		increase_tno_draft_exemptions = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_draft_exemptions_improve = yes
+			}
+		}
+		decrease_tno_draft_exemptions = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_draft_exemptions_worsen = yes
+			}
+		}
+	}
+	cheats_social_laws_category = {
+		increase_tno_safety = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_safety_improve = yes
+			}
+		}
+		decrease_tno_safety = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_safety_worsen = yes
+			}
+		}
+		increase_tno_health_care = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_health_care_improve = yes
+			}
+		}
+		decrease_tno_health_care= {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_health_care_worsen = yes
+			}
+		}
+		increase_tno_pollution = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_pollution_improve = yes
+			}
+		}
+		decrease_tno_pollution = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_pollution_worsen = yes
+			}
+		}
+		increase_tno_education = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_education_improve = yes
+			}
+		}
+		decrease_tno_education = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_education_worsen = yes
+			}
+		}
+		increase_tno_penal_system = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_penal_system_improve = yes
+			}
+		}
+		decrease_tno_penal_system = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_penal_system_worsen = yes
+			}
+		}
+		increase_tno_lgbt_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_lgbt_rights_improve = yes
+			}
+		}
+		decrease_tno_lgbt_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_lgbt_rights_worsen = yes
+			}
+		}
+		increase_tno_gender_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_gender_rights_improve = yes
+			}
+		}
+		decrease_tno_gender_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_gender_rights_worsen = yes
+			}
+		}
+		increase_tno_minorities = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_minorities_improve = yes
+			}
+		}
+		decrease_tno_minorities = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_minorities_worsen = yes
+			}
+		}
+		increase_tno_security = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_security_improve = yes
+			}
+		}
+		decrease_tno_security = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_security_worsen = yes
+			}
+		}
+	}
+	cheats_political_laws_category = {
+		increase_tno_political_parties = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_political_parties_improve = yes
+			}
+		}
+		decrease_tno_political_parties = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_political_parties_worsen = yes
+			}
+		}
+		increase_tno_religious_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_religious_rights_improve = yes
+			}
+		}
+		decrease_tno_religious_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_religious_rights_worsen = yes
+			}
+		}
+		increase_tno_trade_unions = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_trade_unions_improve = yes
+			}
+		}
+		decrease_tno_trade_unions = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_trade_unions_worsen = yes
+			}
+		}
+		increase_tno_immigration = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_immigration_improve = yes
+			}
+		}
+		decrease_tno_immigration = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_immigration_worsen = yes
+			}
+		}
+		increase_tno_slavery = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_slavery_improve = yes
+			}
+		}
+		decrease_tno_slavery = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_slavery_worsen = yes
+			}
+		}
+		increase_tno_public_meetings = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_public_meetings_improve = yes
+			}
+		}
+		decrease_tno_public_meetings = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_public_meetings_worsen = yes
+			}
+		}
+		increase_tno_press_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_press_rights_improve = yes
+			}
+		}
+		decrease_tno_press_rights = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_press_rights_worsen = yes
+			}
+		}
+		increase_tno_vote_franchise = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_vote_franchise_improve = yes
+			}
+		}
+		decrease_tno_vote_franchise = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_vote_franchise_worsen = yes
+			}
+		}
+		increase_tno_refugees = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_refugees_improve = yes
+			}
+		}
+		decrease_tno_refugees = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_refugees_worsen = yes
+			}
+		}
+	}
+	cheats_economic_laws_category = {
+		increase_tno_trade_laws = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_trade_laws_improve = yes
+			}
+		}
+		decrease_tno_trade_laws = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_trade_laws_worsen = yes
+			}
+		}
+		increase_tno_economic_focus = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_economic_focus_improve = yes
+			}
+		}
+		decrease_tno_economic_focus = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_economic_focus_worsen = yes
+			}
+		}
+		increase_tno_tax_rate = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_tax_rate_improve = yes
+			}
+		}
+		decrease_tno_tax_rate = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_tax_rate_worsen = yes
+			}
+		}
+		increase_tno_income_taxation = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_income_taxation_improve = yes
+			}
+		}
+		decrease_tno_income_taxation = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_income_taxation_worsen = yes
+			}
+		}
+		increase_tno_minimum_wage = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_minimum_wage_improve = yes
+			}
+		}
+		decrease_tno_minimum_wage = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_minimum_wage_worsen = yes
+			}
+		}
+		increase_tno_max_workhours = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_max_workhours_improve = yes
+			}
+		}
+		decrease_tno_max_workhours = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_max_workhours_worsen = yes
+			}
+		}
+		increase_tno_child_labor = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_child_labor_improve = yes
+			}
+		}
+		decrease_tno_child_labor = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_child_labor_worsen = yes
+			}
+		}
+		increase_tno_pensions = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_pensions_improve = yes
+			}
+		}
+		decrease_tno_pensions = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_pensions_worsen = yes
+			}
+		}
+		increase_tno_unemployment = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_unemployment_improve = yes
+			}
+		}
+		decrease_tno_unemployment = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				tno_unemployment_worsen = yes
+			}
+		}
+	}
+	cheats_IBR_category = {
+		increase_reformism = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { 
+					var = IBR_council_reformism
+					value = 15 }
+			}
+		}
+		decrease_reformism = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				subtract_from_variable = { 
+					var = IBR_council_reformism
+					value = 15 }
+			}
+		}
+		increase_AAS_supplies = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { 
+				var = IBR_AAS_Resources
+				value = 50 }
+			}
+		}
+		increase_dam_budget = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { var = IBR_dam_budget value = 300 }
+			}
+		}
+		boost_franco_popularity = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+					add_to_variable = { var = IBR_military_alignment 
+										value = 4 }
+					add_to_variable = { var = IBR_church_alignment 
+										value = 4 }
+					add_to_variable = { var = IBR_burocrat_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_business_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_settlers_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_native_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_foreign_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_intellectual_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_majority_alignment
+										value = 4 }
+					add_to_variable = { var = IBR_regional_alignment
+										value = 4 }
+					IBR_check_caudillo_popularity = yes
+			}
+		}
+		boost_salazar_popularity = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = { 
+				subtract_from_variable = { var = IBR_military_alignment 
+									value = 4 }
+				subtract_from_variable = { var = IBR_church_alignment 
+									value = 4 }
+				subtract_from_variable = { var = IBR_burocrat_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_business_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_settlers_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_native_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_foreign_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_intellectual_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_majority_alignment
+									value = 4 }
+				subtract_from_variable = { var = IBR_regional_alignment
+									value = 4 }
+				IBR_check_caudillo_popularity = yes
+			}
+		}
+	}
+	cheats_USA_election_category = {
+		raise_republican_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				every_owned_state = { 
+					limit = { can_have_elections_in_state = yes }
+					add_to_variable = { var = RD_popularity value = 0.25 }
+					add_to_variable = { var = RD_R_bonus_popularity value = 0.25 }
+				}
+			}
+		}
+		raise_democrat_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				every_owned_state = { 
+					limit = { can_have_elections_in_state = yes }
+					add_to_variable = { var = RD_popularity value = 0.25 }
+					add_to_variable = { var = RD_D_bonus_popularity value = 0.25 }
+				}
+			}
+		}
+		raise_NPP_L_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				every_owned_state = { 
+					limit = { can_have_elections_in_state = yes }
+					add_to_variable = { var = NPP_popularity value = 0.25 }
+					add_to_variable = { var = NPP_L_bonus_popularity value = 0.25 }
+				}
+			}
+		}
+		raise_NPP_C_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				every_owned_state = { 
+					limit = { can_have_elections_in_state = yes }
+					add_to_variable = { var = NPP_popularity value = 0.25 }
+					add_to_variable = { var = NPP_C_bonus_popularity value = 0.25 }
+				}
+			}
+		}
+		raise_NPP_FR_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				every_owned_state = { 
+					limit = { can_have_elections_in_state = yes }
+					add_to_variable = { var = NPP_popularity value = 0.25 }
+					add_to_variable = { var = NPP_FR_bonus_popularity value = 0.25 }
+				}
+			}
+		}
+		raise_NPP_Y_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				every_owned_state = { 
+					limit = { can_have_elections_in_state = yes }
+					add_to_variable = { var = NPP_popularity value = 0.25 }
+					add_to_variable = { var = NPP_Y_bonus_popularity value = 0.25 }
+				}
+			}
+		}
+		raise_RD_unity = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { var = USA_RD_Unity value = 5 }
+			}
+		}
+		raise_NPP_unity = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { var = USA_NPP_Unity value = 5 }
+			}
+		}
+	}
+	cheats_Glenn_category = {
+		increase_science_points = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { var = USA_GLN_NASA_Science_Points value = 25 }
+			}
+		}
+		increase_public_support = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { var = USA_GLN_Public_Support value = 10 }
+			}
+		}
+		increase_funding = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				add_to_variable = { var = USA_GLN_NASA_Funding value = 100 }
+			}
+		}
+	}
+
+	cheats_ENG_category = {
+		increase_thatcher_party_support = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_Thatcher_Add_Maggie_Party_Support_10 = yes
+			}
+		}
+		increase_og_party_support = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_Thatcher_Add_OG_Party_Support_10 = yes
+			}
+		}
+		increase_macmillan_liberal_love = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_MacMillan_Add_Liberal_Love_10 = yes
+			}
+		}
+		increase_macmillan_support = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_MacMillan_Add_Mac_Love_10 = yes
+			}
+		}
+		increase_democracy = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_MacMillan_Add_Democratization_10 = yes
+			}
+		}
+		decrease_democracy = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_MacMillan_Remove_Democratization_10 = yes
+			}
+		}
+		increase_value_domestic_jobs = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_SE_IncreaseDomesticJobsValue_Large = yes
+			}
+		}
+		increase_value_foreign_jobs = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_SE_IncreaseForeignJobsValue_Large = yes
+			}
+		}
+		increase_number_foreign_jobs = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_SE_IncreaseForeignJobsAmount_1000 = yes
+			}
+		}
+		increase_number_domestic_jobs = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_SE_IncreaseDomesticJobsAmount_1000 = yes
+			}
+		}
+		increase_OFN_influence = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_Increase_OFN_Influence_2 = yes
+			}
+		}
+		increase_pakt_influence = { 
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			complete_effect = {
+				ENG_Increase_PAKT_Influence_2 = yes
+			}
+		}
+	}
+	cheats_ERS_category = {
+		decrease_unrest = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			subtract_from_variable = { var = SIB_worker_tension value = 5 }
+		}
+		increase_dec_pop = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Dec_Pop_high = yes
+		}
+		increase_dec_auth = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Dec_Auth_high = yes
+		}
+		increase_hum_pop = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Hum_Pop_high = yes
+		}
+		increase_hum_auth = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Hum_Auth_high = yes
+		}
+		increase_mod_pop = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Mod_Pop_high = yes
+		}
+		increase_mod_auth = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Mod_Auth_high = yes
+		}
+		increase_bas_pop = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Bas_Pop_high = yes
+		}
+		increase_bas_auth = {
+			ai_will_do = {
+				factor = 0
+			}
+			allowed = {
+				
+			}
+			available = {
+				
+			}
+			visible = {
+				
+			}
+			ERS_Increase_Bas_Auth_high = yes
+		}
+	}
+}

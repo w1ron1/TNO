@@ -1,0 +1,146 @@
+cheats_GER_power_struggle_category = {
+	cheat_GCW_increase_legitamised_legitimacy = {
+		visible = {
+			hidden_trigger = {
+				tag = GER
+			}
+		}
+
+		available = {
+			custom_trigger_tooltip = {
+				tooltip = cheat_legitamised_increase_legit_tt
+				hidden_effect = {
+					is_ai = no
+				}
+			}
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					has_country_flag = bormann_for_germany
+				}
+				add_to_variable = { GER_Bormann_Influence = 15 }
+			}
+			else_if = {
+				limit = {
+					has_country_flag = goring_for_germany
+				}
+				add_to_variable = { GER_Goring_Influence = 15 }
+			}
+			else_if = {
+				limit = {
+					has_country_flag = speer_for_germany
+				}
+				add_to_variable = { GER_Speer_Influence = 15 }
+			}
+			else_if = {
+				limit = {
+					has_country_flag = heydrich_for_germany
+				}
+				add_to_variable = { GER_Heydrich_Influence = 15 }
+			}
+		}
+
+	}
+	
+	cheat_GCW_legitamised_increase_infantry_weapons = {
+		visible = {
+			hidden_trigger = {
+				tag = GER
+			}
+		}
+
+		available = {
+			custom_trigger_tooltip = {
+				tooltip = GCW_legitimacy_more_than_or_equals_5_tt
+				GCW_legitimacy_more_than_or_equals_5 = yes
+				hidden_effect = {
+					is_ai = no
+				}
+			}
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision GER_GCW_build_up_infantry_weapons"
+			GCW_build_up_infantry_weapons = yes
+		}
+	}
+
+	cheat_GCW_increase_army_units = {
+		visible = {
+			hidden_trigger = {
+				tag = GER
+			}
+		}
+
+		available = {
+			custom_trigger_tooltip = {
+				tooltip = GCW_legitimacy_more_than_or_equals_5_tt
+				GCW_legitimacy_more_than_or_equals_5 = yes	
+				hidden_effect = {
+					is_ai = no
+				}
+			}
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision GER_GCW_build_up_heer_units"
+			GCW_build_up_heer_units = yes
+	    }
+	}
+
+	cheat_GCW_legitamised_mil_factories = {
+		visible = {
+			hidden_trigger = {
+				tag = GER
+			}
+		}
+
+		available = {
+			custom_trigger_tooltip = {
+				tooltip = GCW_legitimacy_more_than_or_equals_5_tt
+				GCW_legitimacy_more_than_or_equals_5 = yes
+				hidden_effect = {
+					is_ai = no
+				}
+			}
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision GER_GCW_build_up_mil_factories"
+			GCW_build_up_mil_factories = yes
+		}
+	}
+
+	cheat_GCW_legitamised_civ_factories = {
+		visible = {
+			hidden_trigger = {
+				tag = GER
+			}
+		}
+
+		available = {
+			custom_trigger_tooltip = {
+				tooltip = GCW_legitimacy_more_than_or_equals_5_tt
+				GCW_legitimacy_more_than_or_equals_5 = yes	
+				hidden_effect = {
+					is_ai = no
+				}
+			}
+		}
+
+		cancel_if_not_visible = yes
+
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision GER_GCW_build_up_civ_factories"
+			GCW_build_up_civ_factories = yes
+		}
+	}
+}
