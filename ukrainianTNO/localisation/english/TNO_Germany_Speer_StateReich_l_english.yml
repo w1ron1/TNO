@@ -35,13 +35,13 @@
 
  SGR_state_of_the_reich_category:0 "§WThe State of the Reich§!"
  TNO_SGR_Decisions_GUI_regime_lean_text:0 "The §YRegime§! currently leans..."
- TNO_SGR_Decisions_GUI_desc_text:0 "§YREGIME STABILITY§!: £GFX_regime_stability_texticon [?SGRRegimeStability|W%]\n\n£GFX_regime_stability_texticon §YRegime Stability§! is paramount for the longevity of the §OFührer's§! government. It is affected by §gcontroversial decisions§!, including §Rconservative§! or §Greformist§! actions when the §TSocial Outlook§! is at their respective opposite, as well as £GFX_stability_texticon §WNation Stability§!, which it ticks towards. Should £GFX_regime_stability_texticon §YRegime Stability§! fall below §Y30%§!, the §Ogovernment§! may collapse!\n\n§TSOCIAL OUTLOOK§!: £social_outlook_texticon [getLeaningPivot] ([?SGRSocietyLevel|+2]/[getSGRLimits])\n\n  The §TOutlook§! is [getSGROutlook] at [?SGRSocietyTick|+]/§Y14 days§!.\n\n£social_outlook_texticon §TSocial Outlook§! is a measure of the §gGerman people's§! views on the world. Depending on factors including §Qeconomic reform§!, §Oregime leaning§! and more, it will change over time. Should the §Ogovernment's§! leaning be opposite to it, £GFX_regime_stability_texticon §YRegime Stability§! will begin to drop!\n\n£SGR_econ_policy §gECONOMIC POLICY§!: [getSGREconomyLean] ([?SGR_econ_lib|M0] - [?SGR_econ_con|s0])\n\n£SGR_econ_policy §gEconomic policy§! is a measurement of our current economic policy based on our §Bactions§! during our economic §Greforms§!. Keeping our §geconomic policy§! balanced or [getSGROpposingEconomy2] will ensure continued economic §Ggrowth§!, while having an §Rerratic§! §geconomic policy§! will affect our §RNational Debt§!, §VInflation§! and §KGDP growth§! negatively."
+ TNO_SGR_Decisions_GUI_desc_text:0 "§YREGIME STABILITY§!: £GFX_regime_stability_texticon [?SGRRegimeStability|W%]\n\n£GFX_regime_stability_texticon §YRegime Stability§! is paramount for the longevity of the §OFührer's§! government. It is affected by §gcontroversial decisions§!, including §Rconservative§! or §Greformist§! actions when the §BSocial Outlook§! is at their respective opposite, as well as £GFX_stability_texticon §WNation Stability§!, which it ticks towards. Should £GFX_regime_stability_texticon §YRegime Stability§! fall below §Y30%§!, the §Ogovernment§! may collapse!\n\n§BSOCIAL OUTLOOK§!: £social_outlook_texticon [getLeaningPivot] ([?SGRSocietyLevel|+2]/[getSGRLimits])\n\n  The §BOutlook§! is [getSGROutlook] at [?SGRSocietyTick|+]/§Y14 days§!.\n\n£social_outlook_texticon §BSocial Outlook§! is a measure of the §gGerman people's§! views on the world. Depending on factors including §Qeconomic reform§!, §Oregime leaning§! and more, it will change over time. Should the §Ogovernment's§! leaning be opposite to it, £GFX_regime_stability_texticon §YRegime Stability§! will begin to drop!\n\n£SGR_econ_policy §gECONOMIC POLICY§!: [getSGREconomyLean] ([?SGR_econ_lib|M0] - [?SGR_econ_con|s0])\n\n£SGR_econ_policy §gEconomic policy§! is a measurement of our current economic policy based on our §Bactions§! during our economic §Greforms§!. Keeping our §geconomic policy§! balanced or [getSGROpposingEconomy2] will ensure continued economic §Ggrowth§!, while having an §Rerratic§! §geconomic policy§! will affect our §RNational Debt§!, §VInflation§! and §KGDP growth§! negatively."
 
- SGR_authdemvsfash_ticker_desc:0 "§YRegime alignment§! currently has a [getSGRAlignmentTrend] ([?alignmentTicker|+]/§Ymonth§!) tick and a [getLeaningPivot] pivot.\n\nThe £social_outlook_texticon §TSocial Outlook§! pivot determines where §YRegime Leaning§! ticks towards, and is marked on the speedometer."
+ SGR_authdemvsfash_ticker_desc:0 "§YRegime alignment§! currently has a [getSGRAlignmentTrend] ([?alignmentTicker|+]/§Ymonth§!) tick and a [getLeaningPivot] pivot.\n\nThe £social_outlook_texticon §BSocial Outlook§! pivot determines where §YRegime Leaning§! ticks towards, and is marked on the speedometer."
 
  SGR_reformist_influence_tt:0 "§WThe §GReformist§! cause in the §gReich§! benefits from this[getRefMalus1].§!\n"
  SGR_reformist_influence_mid_tt:0 "§WThe §GReformist§! cause in the §gReich§! §Msignificantly§! benefits from this[getRefMalus2].§!\n"
- SGR_reformist_influence_big_tt:0 "§WThe §GReformist§! cause in the §gReich§! §Tstrongly§! benefits from this[getRefMalus3].§!\n"
+ SGR_reformist_influence_big_tt:0 "§WThe §GReformist§! cause in the §gReich§! §Bstrongly§! benefits from this[getRefMalus3].§!\n"
 
  SGR_malus_1_small:0 ", costing us §R2.5%§! £GFX_regime_stability_texticon §YRegime Stability§!"
  SGR_malus_1_med:0 ", costing us §R5%§! £GFX_regime_stability_texticon §YRegime Stability§!"
@@ -91,6 +91,7 @@
 
  SGR_Netherlands_Question:0 "The Dutch Problem"
  SGR_Netherlands_Question_desc:0 "Our Germanic brethren in the Netherlands have torn themselves away from the security of the Reich, shockingly claiming their total independence despite Europe's cries of protestation. We will attempt to reintegrate the Dutch back into the Einheitspakt."
+ SGR_Netherlands_Question_bypass_tt:0 "§YWith de Rochemont in power, negotiations are all but a formality for the re-entry of Reichskommissariat Niederlande to the Pakt.§!"
 
  SGR_Denmark_Question:0 "The Status of Denmark"
  SGR_Denmark_Question_desc:0 "The Germanization of our northern Protektorat has been under way for the last two decades. As well as the future of this nation in relation to the Reich, we must also address its changing political situation, and work towards integrating it back into the Einheitspakt."
@@ -177,15 +178,15 @@
  SGR_launch_button_tt:0 "Current §WPropaganda Campaign§! effects:\n\n-Political Power gain modifier: [?SGRPropagandaPPDisplay|+%]\n-Weekly Stability gain: [?SGRPropagandaStabDisplay|+%]\n-[getSGRPropagandaOutlook]\n-[getSGRPropagandaRegime]"
  SGR_reformist_regime_prop_display:0 "§GReformist§! Regime Tick: [?SGRPropagandaReformistTickDisplay|+0]"
  SGR_conservative_regime_prop_display:0 "§RConservative§! Regime Tick: [?SGRPropagandaConservativeTickDisplay|-0]"
- SGR_reformist_outlook_prop_display:0 "£social_outlook_texticon §TSocial Outlook§! §Gprogression§!: [?SGRReformistVarDisplay|+0]"
- SGR_conservative_outlook_prop_display:0 "£social_outlook_texticon §TSocial Outlook§! §Rregression§!: [?SGRConservativeVarDisplay|-0]"
+ SGR_reformist_outlook_prop_display:0 "£social_outlook_texticon §BSocial Outlook§! §Gprogression§!: [?SGRReformistVarDisplay|+0]"
+ SGR_conservative_outlook_prop_display:0 "£social_outlook_texticon §BSocial Outlook§! §Rregression§!: [?SGRConservativeVarDisplay|-0]"
 
 
  SGR_launch_underbutton_tt:0 "Launching a §WPropaganda Campaign§! requires:\n\n-Either a §RConservative§! or §GReformist§! Focus set\n-£GFX_political_power_texticon §MPolitical Power§! Investment\n-£GFX_dollar_sign §GBudget§! Investment\n\nA Propaganda Campaign takes §Y4 months§!."
- SGR_reformist_button_tt:0 "The Campaign will be set to focus on §GReformist§! propaganda.\n\nFocusing on §Greformist§! propaganda will increase the §YRegime's§! tick into reformism, §Gprogress§! §TSocial Outlook§! and increase §YRegime stability§!."
- SGR_conservative_button_tt:0 "The Campaign will be set to focus on §RConservative§! propaganda.\n\nFocusing on §Rconservative§! propaganda will increase the §YRegime's§! tick into conservatism, §Rregress§! §TSocial Outlook§! and increase §YRegime stability§!."
- SGR_increase_pp_button_tt:0 "Increase £GFX_political_power_texticon §MPolitical Power§! by §Y20§!, granting the following prospective bonuses:\n\n-§G+0.5%§! Political Power Growth\n-§G+1§! §TSocial Outlook§! Tick"
- SGR_decrease_pp_button_tt:0 "Decrease £GFX_political_power_texticon §MPolitical Power§! by §Y20§!, granting the following prospective bonuses:\n\n-§R-0.5%§! Political Power Growth\n-§R-1§! §TSocial Outlook§! Tick"
+ SGR_reformist_button_tt:0 "The Campaign will be set to focus on §GReformist§! propaganda.\n\nFocusing on §Greformist§! propaganda will increase the §YRegime's§! tick into reformism, §Gprogress§! §BSocial Outlook§! and increase §YRegime stability§!."
+ SGR_conservative_button_tt:0 "The Campaign will be set to focus on §RConservative§! propaganda.\n\nFocusing on §Rconservative§! propaganda will increase the §YRegime's§! tick into conservatism, §Rregress§! §BSocial Outlook§! and increase §YRegime stability§!."
+ SGR_increase_pp_button_tt:0 "Increase £GFX_political_power_texticon §MPolitical Power§! by §Y20§!, granting the following prospective bonuses:\n\n-§G+0.5%§! Political Power Growth\n-§G+1§! §BSocial Outlook§! Tick"
+ SGR_decrease_pp_button_tt:0 "Decrease £GFX_political_power_texticon §MPolitical Power§! by §Y20§!, granting the following prospective bonuses:\n\n-§R-0.5%§! Political Power Growth\n-§R-1§! §BSocial Outlook§! Tick"
  SGR_increase_budget_button_tt:0 "Increase £GFX_dollar_sign §GBudget§! by §Y2M$§!, granting the following prospective bonuses:\n\n-§G+0.05§! Weekly Stability Growth\n-§G+1§! §YRegime Leaning§! Tick"
  SGR_decrease_budget_button_tt:0 "Decrease £GFX_dollar_sign §GBudget§! by §Y2M$§!, granting the following prospective bonuses:\n\n-§R-0.05§! Weekly Stability Growth\n-§R-1§! §YRegime Leaning§! Tick"
 
@@ -237,7 +238,7 @@ SGR_outlook_lowerlimit:0 "§Y-500§!"
 SGR_party_support_none:0 "§xhostile§!"
 SGR_party_support_weak:0 "§Runcooperative§!"
 SGR_party_support_mid:0 "§Yundecided§!"
-SGR_party_support_strong:0 "§Tcooperative§!"
+SGR_party_support_strong:0 "§Bcooperative§!"
 SGR_party_support_complete:0 "§yfriendly§!"
 
 

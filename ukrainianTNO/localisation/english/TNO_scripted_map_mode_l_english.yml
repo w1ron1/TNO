@@ -21,7 +21,7 @@
  tno_culture_map_mode_tooltip: "§Y[FROM.GetNationality]§!"
  tno_culture_map_mode_tooltip_delayed: "§F(§Y[FROM.Controller.GetNameWithFlag]§!): [FROM.GetName] has a majority culture of §Y[FROM.GetNationality]§!.§!"
  
- tno_culture_map_mode_debug: "§TDEBUG: Go to a state without a culture§!"
+ tno_culture_map_mode_debug: "§BDEBUG: Go to a state without a culture§!"
  
  # GDP Map mode
  MAPMODE_GDP_MAP_MODE: "§YGDP per Capita§!"

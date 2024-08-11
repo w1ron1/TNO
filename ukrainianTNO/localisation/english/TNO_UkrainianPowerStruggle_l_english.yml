@@ -184,17 +184,17 @@
  Leib_military_win_tt:0 "§YThe £UKR_military_texticon §sPolice§! §YHave Fallen Into The Hands of §BLeibbrandt§!.§!\n"
  Leib_collab_win_tt:0 "§YThe £UKR_collab_texticon §QCollaborators§! §YHave Fallen Into The Hands of §BLeibbrandt§!.§!\n"
  Leib_bureacrat_win_tt:0 "§YThe £UKR_bureaucracy_texticon §rBureaucracy§! Have Fallen Into The Hands of §BLeibbrandt§!.§!\n"
- Leib_industry_win_tt:0 "§YThe £UKR_industrial_texticon §kIndustrialists§! Have Fallen Into The Hands of §BLeibbrandt§!.§!\n"
+ Leib_industry_win_tt:0 "§YThe £UKR_industrial_texticon §LIndustrialists§! Have Fallen Into The Hands of §BLeibbrandt§!.§!\n"
  ## Braut
  Braut_military_win_tt:0 "§YThe £UKR_military_texticon §sPolice§! Have Fallen Into The Hands of §sBrautigäm§!.§!\n"
  Braut_collab_win_tt:0 "§YThe £UKR_collab_texticon §QCollaborators§! Have Fallen Into The Hands of §sBrautigäm§!.§!\n"
  Braut_bureacrat_win_tt:0 "§YThe £UKR_bureaucracy_texticon §rBureaucracy§! Have Fallen Into The Hands of §sBrautigäm§!.§!\n"
- Braut_industry_win_tt:0 "§YThe £UKR_industrial_texticon §kIndustrialists§! Have Fallen Into The Hands of §sBrautigäm§!.§!\n" 
+ Braut_industry_win_tt:0 "§YThe £UKR_industrial_texticon §LIndustrialists§! Have Fallen Into The Hands of §sBrautigäm§!.§!\n" 
  ## Ohlen
  Ohlen_military_win_tt:0 "§YThe £UKR_military_texticon §sPolice§! Have Fallen Into The Hands of §oOhlendorf§!.§!\n"
  Ohlen_collab_win_tt:0 "§YThe £UKR_collab_texticon §QCollaborators§! Have Fallen Into The Hands of §oOhlendorf§!.§!\n"
  Ohlen_bureacrat_win_tt:0 "§YThe £UKR_bureaucracy_texticon §rBureaucracy§! Have Fallen Into The Hands of §oOhlendorf§!.§!\n"
- Ohlen_industry_win_tt:0 "§YThe £UKR_industrial_texticon §kIndustrialists§! Have Fallen Into The Hands of §oOhlendorf§!.§!\n"
+ Ohlen_industry_win_tt:0 "§YThe £UKR_industrial_texticon §LIndustrialists§! Have Fallen Into The Hands of §oOhlendorf§!.§!\n"
  ##### Scripted loc
  
  ## Leib

@@ -23,32 +23,6 @@
 
  # Göring
  GER_goering_debug_setup:0 "§gGöring§! - Debug Setup"
- GER_goering_debug_WPA_world:0 "§gGöring§! - WPA World State"
- GER_goering_debug_WPB_world:0 "§gGöring§! - WPB World State"
- reich.998.t:0 "WPB WS Debug"
- GER_goering_debug_WPC_world:0 "§gGöring§! - WPC World State"
- reich.999.t:0 "WPC WS Debug"
- GER_goering_debug_load_WPB_tree:0 "§gGöring§! - WPB Trees"
- GER_goering_debug_load_WPC_tree:0 "§gGöring§! - WPC Trees"
- goering.1400.t:0 "Load WPC Trees Debug"
- GER_goering_load_WPB_tree:0 "§gGöring§! - WPB Trees"
- GER_goering_debug_load_WPA_tree:0 "§gGöring§! - WPA Trees"
- GER_goering_debug_free_ENG:0 "§gGöring§! - Free ENG"
- GER_goering_debug_collab_ENG:0 "§gGöring§! - Collab ENG W/ CRN"
- GER_goering_debug_collab_ENG_no_CRN:0 "§gGöring§! - Collab ENG W/o CRN"
- GER_goering_debug_WP0_world:0 "§gGöring§! - WP0 World State"
- GER_goering_debug_norway_mainstream:0 "§gGöring§! - Norway Mainstream"
- GER_goering_debug_norway_moderates:0 "§gGöring§! - Norway Moderates"
- GER_goering_debug_norway_freedom:0 "§gGöring§! - Norway Freedom"
- GER_goering_debug_norway_radicals:0 "§gGöring§! - Norway Radicals"
- GER_goering_debug_science_tree:0 "§gGöring§! - Science Tree"
- GER_goering_debug_econ_tree:0 "§gGöring§! - Econ Tree"
- GER_goering_debug_military_tree:0 "§gGöring§! - Military Tree"
- GER_goering_debug_SAW:0 "§gGöring§! - SAW Tree"
- GER_goering_debug_post_SAW_stalemate:0 "§gGöring§! - SAW Stalemate Tree"
- GER_goering_debug_post_SAW_total_victory:0 "§gGöring§! - SAW Total Victory Tree"
- GER_goering_debug_post_SAW_total_loss:0 "§gGöring§! - SAW Total Loss Tree"
- GER_goering_debug_post_SAW_huttig_betrayal:0 "§gGöring§! - Hüttig's Betrayal Tree"
 
  # Bormann
  GER_bormann_debug_setup:0 "§LBormann§! - Debug Setup"
@@ -69,20 +43,20 @@
  GER_bormann_debug_cancermann:0 "§LBormann§! - Heil Cancermann!"
 
  # Heydrich
- GER_heydrich_debug_setup:0 "§cHeydrich§! - Debug Setup"
- GER_heydrich_debug_setup_pre_struggle_pre_warlords:0 "§cHeydrich§! - Pre Struggle, Pre Warlords"
- GER_heydrich_debug_setup_pre_struggle_warlords_stage_1:0 "§cHeydrich§! - Pre Struggle, Stage 1 Warlords"
- GER_heydrich_debug_setup_pre_struggle_warlords_stage_2:0 "§cHeydrich§! - Pre Struggle, Stage 2 Warlords"
- GER_heydrich_debug_setup_struggle:0 "§cHeydrich§! - Nuclear Struggle, Full Warlords"
- GER_heydrich_debug_setup_all_influence_decisions:0 "§cHeydrich§! - All Warlord Influence Decisions"
+ GER_heydrich_debug_setup:0 "§PHeydrich§! - Debug Setup"
+ GER_heydrich_debug_setup_pre_struggle_pre_warlords:0 "§PHeydrich§! - Pre Struggle, Pre Warlords"
+ GER_heydrich_debug_setup_pre_struggle_warlords_stage_1:0 "§PHeydrich§! - Pre Struggle, Stage 1 Warlords"
+ GER_heydrich_debug_setup_pre_struggle_warlords_stage_2:0 "§PHeydrich§! - Pre Struggle, Stage 2 Warlords"
+ GER_heydrich_debug_setup_struggle:0 "§PHeydrich§! - Nuclear Struggle, Full Warlords"
+ GER_heydrich_debug_setup_all_influence_decisions:0 "§PHeydrich§! - All Warlord Influence Decisions"
 
  # Generic
  GER_debug_break_pakt:0 "§qGermany§! - Dismantle the Pakt"
 
  ### COUNTRY NAMES ###
- GER:0 "Великоґерманський райх"
- GER_DEF:0 "ВеликоҐерманський Райх Німецької нації"
- GER_ADJ:0 "Німецьк"
+ GER:0 "Großgermanisches Reich"
+ GER_DEF:0 "das Großgermanische Reich der Deutschen Nation"
+ GER_ADJ:0 "German"
  
  ### PARTIES ###
  GER_communist_party: "RZ"
@@ -310,7 +284,7 @@
  GER_HGR_civil_war_offense:0 "The German Civil War"
 
  GER_hitlers_chosen_successor:0 "Hitler's Chosen Successor"
- GER_hitlers_chosen_successor_desc:0 "Ours is the legitimate government of Germany! Our beloved leader Adolf Hitler stood before the Reichstag and named our regime as his rightfull successors for all the world to see. All others are traitors, and the German people flock to fight for Hitler's rightful heir."
+ GER_hitlers_chosen_successor_desc:0 "Ours is the legitimate government of Germany! Our beloved leader Adolf Hitler stood before the Reichstag and named our regime as his rightful successors for all the world to see. All others are traitors, and the German people flock to fight for Hitler's rightful heir."
 
 
  #Speer#
@@ -373,7 +347,7 @@
  GER_the_two_principles_tt:0 "§RThe Reich's survival hinges on the Führer's.§!"
  GER_gone_over_tt:0 "§RCannot train units, disband units, or edit unit templates.§!"
 
- GER_fix_your_shit_pdx:0 "§YDEVELOPERS NOTE:§! §TIf after this event you are unable to select or assign any units, simply save and reload your game and the issue will be resolved.\n\nThis is a basegame bug sometimes caused by tag switching, and we can't really do anything about it until Paradox fixes the issue in a future patch.§!"
+ GER_fix_your_shit_pdx:0 "§YDEVELOPERS NOTE:§! §BIf after this event you are unable to select or assign any units, simply save and reload your game and the issue will be resolved.\n\nThis is a basegame bug sometimes caused by tag switching, and we can't really do anything about it until Paradox fixes the issue in a future patch.§!"
 
  GER_tooltip_1:0 "Speer has been made Führer"
  GER_tooltip_2:0 "Bormann has been made Führer"
@@ -945,9 +919,6 @@
  #Heydrich
  reich.30.t_heydrich:0 ""
  reich.30.desc_heydrich:0 ""
- #RNW
- reich.30.t_rnw:0 ""
- reich.30.desc_rnw:0 ""
  #Option Text
  reich.30.a:0 ""
  reich.30.b:0 ""

@@ -16,7 +16,7 @@ JAP_D_govt_stab_var:0 "§Y[?JAP_government_stability]%§!"
 JAP_D_Approval_Main_Title:0 "§WAPPROVAL OF THE:§!"
 JAP_D_support_peers:0 "§MHouse of Peers§!"
 JAP_D_support_peers_var:0 "£GFX_podium_texticon [?JAP_Peers_support|Y%1]"
-JAP_D_public_approval:0 "§TPublic§!"
+JAP_D_public_approval:0 "§BPublic§!"
 JAP_D_public_approval_var:0 "£GFX_approval_texticon [?JAP_Public_support|Y%1]"
 JAP_D_Interactions:0 "§WINTERACT§!"
 
@@ -108,7 +108,7 @@ JAP_diet_action_less_effective_tt:0 "§RBecause this faction has over 50% power 
 JAP_diet_decrease_action_less_effective_tt:0 "§RBecause this faction has less power than the ruling faction, this action is less effective.§!"
 JAP_GUI_actions_button_1_tt:0 "[GetJapAction1Cooldown]\n\n[!Japan_faction_info_window_button_1_click]"
 JAP_GUI_actions_button_2_tt:0 "[GetJapAction2Cooldown]\n\n[!Japan_faction_info_window_button_2_click]"
-JAP_GUI_actions_timing_30:0 "[GetJapAction3Cooldown]\n\nThe £GFX_podium_texticon §MSupport of the House of Peers§! §Gincreases§! somewhat.\n£GFX_approval_texticon §TPublic Approval§! §Gincreases§! somewhat."
+JAP_GUI_actions_timing_30:0 "[GetJapAction3Cooldown]\n\nThe £GFX_podium_texticon §MSupport of the House of Peers§! §Gincreases§! somewhat.\n£GFX_approval_texticon §BPublic Approval§! §Gincreases§! somewhat."
 
 JAP_action_1_cooldown_tt:0 "Next available in [?JAP_action_1_days_left|0Y] days."
 JAP_action_2_cooldown_tt:0 "Next available in [?JAP_action_2_days_left|0Y] days."
@@ -233,7 +233,7 @@ JAP_Peers_support_veryhigh:0 "§GVery High§!"
 
 JAP_Peers_support_tt:0 "The £GFX_podium_texticon §MSupport of the House of Peers§! is viable to have for any Prime Minister of Japan, as it is the £GFX_podium_texticon §MHouse of Peers§! and Privy Council that ultimately nominate the Prime Minister to begin with. As such, keeping them content is of paramount importance. Should their §MSupport§! fall below §Y50%§!, the Prime Minister's reign falls in §Rcritical danger and may collapse§!!"
 
-Japan_Internal_GUI_Info_Tab_tt:0 "§WTo maintain the stability of our government we must manage various factions and interest groups. We must make sure that our faction retains at least a plurality of seats in the House of Representatives to receive the continued support of the £GFX_podium_texticon §MHouse of Peers§!. Should we lose this plurality they may begin to lose faith in our ability to govern and start withdrawing their §MSupport§!.\n\nIn order to keep our faction strong in the Lower House, care should be taken to keep £GFX_approval_texticon §TPublic Approval§! above §Y30%§! and ensure the loyalty of the Military by making sure the §OArmy§! and §BNavy§! have at least §Y20%§! support for our government. Should the support of any one of these groups fall too low sympathetic MPs may decide to leave our faction for another, reducing the number of seats we control.\n\nShould we lose our majority, and subsequently the support of the £GFX_podium_texticon §MHouse of Peers§! §Rour government will be in danger of collapse.§!§!"
+Japan_Internal_GUI_Info_Tab_tt:0 "§WTo maintain the stability of our government we must manage various factions and interest groups. We must make sure that our faction retains at least a plurality of seats in the House of Representatives to receive the continued support of the £GFX_podium_texticon §MHouse of Peers§!. Should we lose this plurality they may begin to lose faith in our ability to govern and start withdrawing their §MSupport§!.\n\nIn order to keep our faction strong in the Lower House, care should be taken to keep £GFX_approval_texticon §BPublic Approval§! above §Y30%§! and ensure the loyalty of the Military by making sure the §OArmy§! and §BNavy§! have at least §Y20%§! support for our government. Should the support of any one of these groups fall too low sympathetic MPs may decide to leave our faction for another, reducing the number of seats we control.\n\nShould we lose our majority, and subsequently the support of the £GFX_podium_texticon §MHouse of Peers§! §Rour government will be in danger of collapse.§!§!"
 
 JAP_Peers_support_increase_small:0 "§WThe £GFX_podium_texticon §MSupport of the House of Peers§! §Gincreases§! by §Y2.5%§!.§!"
 JAP_Peers_support_increase_med:0 "§WThe £GFX_podium_texticon §MSupport of the House of Peers§! §Gincreases§! by §Y5%§!.§!"
@@ -260,17 +260,17 @@ JAP_Public_support_average:0 "§YWary§!"
 JAP_Public_support_high:0 "§OHigh§!"
 JAP_Public_support_veryhigh:0 "§GVery High§!"
 
-JAP_Public_support_tt:0 "£GFX_approval_texticon §TPublic Approval§! is crucial to any government wishing to safely rule over its state, and the Empire of Japan is not an exception to this. The Prime Minister's government thrives and shrivels under the §TPublic's§! watchful eye, and their demeanor is crucial to how much support the ruling faction has in the §WHouse of Representatives§!. Falling below §Y30%§! will §Rrapidly diminish the ruling faction's power§!."
+JAP_Public_support_tt:0 "£GFX_approval_texticon §BPublic Approval§! is crucial to any government wishing to safely rule over its state, and the Empire of Japan is not an exception to this. The Prime Minister's government thrives and shrivels under the §BPublic's§! watchful eye, and their demeanor is crucial to how much support the ruling faction has in the §WHouse of Representatives§!. Falling below §Y30%§! will §Rrapidly diminish the ruling faction's power§!."
 
-JAP_Public_support_increase_small:0 "§W£GFX_approval_texticon §TPublic Approval§! §Gincreases§! by §Y2.5%§!.§!"
-JAP_Public_support_increase_med:0 "§W£GFX_approval_texticon §TPublic Approval§! §Gincreases§! by §Y5%§!.§!"
-JAP_Public_support_increase_big:0 "§W£GFX_approval_texticon §TPublic Approval§! §Gincreases§! by §Y10%§!.§!"
-JAP_Public_support_increase_huge:0 "§W£GFX_approval_texticon §TPublic Approval§! §Gincreases§! by §Y20%§!!§!"
+JAP_Public_support_increase_small:0 "§W£GFX_approval_texticon §BPublic Approval§! §Gincreases§! by §Y2.5%§!.§!"
+JAP_Public_support_increase_med:0 "§W£GFX_approval_texticon §BPublic Approval§! §Gincreases§! by §Y5%§!.§!"
+JAP_Public_support_increase_big:0 "§W£GFX_approval_texticon §BPublic Approval§! §Gincreases§! by §Y10%§!.§!"
+JAP_Public_support_increase_huge:0 "§W£GFX_approval_texticon §BPublic Approval§! §Gincreases§! by §Y20%§!!§!"
 
-JAP_Public_support_decrease_small:0 "§W£GFX_approval_texticon §TPublic Approval§! §Rdecreases§! by §Y2.5%§!.§!"
-JAP_Public_support_decrease_med:0 "§W£GFX_approval_texticon §TPublic Approval§! §Rdecreases§! by §Y5%§!.§!"
-JAP_Public_support_decrease_big:0 "§W£GFX_approval_texticon §TPublic Approval§! §Rdecreases§! by §Y10%§!.§!"
-JAP_Public_support_decrease_huge:0 "§W£GFX_approval_texticon §TPublic Approval§! §Rdecreases§! by §Y20%§!!§!"
+JAP_Public_support_decrease_small:0 "§W£GFX_approval_texticon §BPublic Approval§! §Rdecreases§! by §Y2.5%§!.§!"
+JAP_Public_support_decrease_med:0 "§W£GFX_approval_texticon §BPublic Approval§! §Rdecreases§! by §Y5%§!.§!"
+JAP_Public_support_decrease_big:0 "§W£GFX_approval_texticon §BPublic Approval§! §Rdecreases§! by §Y10%§!.§!"
+JAP_Public_support_decrease_huge:0 "§W£GFX_approval_texticon §BPublic Approval§! §Rdecreases§! by §Y20%§!!§!"
 
 # Diet Power
 Kido_too_powerful:0 "§WAs £jap_kidoites_texticon [GetJapAuthDemFactionName] power ([?JAP_Diet_Faction_Power^1|%Y]) lies at or over §Y75%§!, it can no longer increase.§!"

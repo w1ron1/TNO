@@ -81,7 +81,7 @@
  
  RUS_democracy_polling_party_overpowering: "§Moverpowering§!" #>85
  RUS_democracy_polling_party_exceptionall: "§Bexceptional§!" #75-85
- RUS_democracy_polling_party_very_strong: "§Tvery strong§!" #65-75
+ RUS_democracy_polling_party_very_strong: "§Bvery strong§!" #65-75
  RUS_democracy_polling_party_strong: "§Gstrong" #55-65
  RUS_democracy_polling_party_moderate: "§Ysignificant" #45-55 
  RUS_democracy_polling_party_middling: "§wmoderate" #35-45

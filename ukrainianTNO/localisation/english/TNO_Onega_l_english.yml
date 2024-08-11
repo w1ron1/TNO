@@ -201,9 +201,9 @@
  ONG_faction_tt: "§lUnlocks decisions to invite West Russian statelets into a defense pact.§!"
  ONG_modernizing: "We are already modernizing a region"
  ONG_diplomats_sent: "We have already sent diplomats to a statelet"
- ONG_dependence_low_stimulus_tt: "Finland will provide §Y$25M§! monthly as economic aid"
- ONG_dependence_med_stimulus_tt: "Finland will provide §Y$50M§! monthly as economic aid"
- ONG_dependence_high_stimulus_tt: "Finland will provide §Y$75M§! monthly as economic aid"
+ ONG_dependence_low_stimulus_tt: "Finland will provide §Y$5M§! monthly as economic aid"
+ ONG_dependence_med_stimulus_tt: "Finland will provide §Y$10M§! monthly as economic aid"
+ ONG_dependence_high_stimulus_tt: "Finland will provide §Y$15M§! monthly as economic aid"
 
  ### Decisions ###
  ONG_guard_VOL: "Send the Guard to Vologda"

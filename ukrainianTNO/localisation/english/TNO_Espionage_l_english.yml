@@ -25,30 +25,35 @@
  Espionage_RND: "Reichsnachrichtendienst"
  Espionage_HVA: "Hauptverwaltung Aufklärung"
  Espionage_CIA: "Central Intelligence Agency"
+ Espionage_FBI: "Federal Bureau of Investigation"
  
  # Full names, in caps
  Espionage_RSHA_Caps: "REICHSSICHERHEITSHAUPTAMT"
  Espionage_RND_Caps: "REICHSNACHRICHTENDIENST"
  Espionage_HVA_Caps: "HAUPTVERWALTUNG AUFKLÄRUNG"
  Espionage_CIA_Caps: "CENTRAL INTELLIGENCE AGENCY"
+ Espionage_FBI_Caps: "FEDERAL BUREAU OF INVESTIGATION"
 
  # Acronyms
  Espionage_RSHA_Short: "RSHA"
  Espionage_RND_Short: "RND"
  Espionage_HVA_Short: "HVA"
  Espionage_CIA_Short: "CIA"
+ Espionage_FBI_Short: "FBI"
 
  # Fancy Acronyms
  Espionage_RSHA_Fancy: "£GFX_counter_intelligence_GER §QRSHA§!"
  Espionage_RND_Fancy: "£GFX_counter_intelligence_GER §QRND§!"
  Espionage_HVA_Fancy: "£GFX_counter_intelligence_GER §QHVA§!"
  Espionage_CIA_Fancy: "£GFX_counter_intelligence_USA §MCIA§!"
+ Espionage_FBI_Fancy: "£GFX_counter_intelligence_USA §MFBI§!"
 
  # Descriptions
  Espionage_RSHA_Desc: "The §WReichssicherheitshauptamt§! is §gGermany's§! prime security agency, responsible for policing and intelligence operations against all enemies of the Reich, wherever they may be."
  Espionage_RND_Desc: "The §WReichsnachrichtendienst§! is §gGermany's§! response to the CIA and Tokumusoukan - a properly unified intelligence service replacing the former quagmire of disparate agencies."
  Espionage_HVA_Desc: "The §WHauptverwaltung Aufklärung§! is §gGermany's§! response to the CIA and Tokumusoukan - a newly-formed branch of the §LOrpo§!, unifying the Reich's foreign intelligence agencies."
  Espionage_CIA_Desc: "The §WCentral Intelligence Agency§! is the §MUnited States of America§!'s foremost intelligence service, with the sole purpose of ensuring that §Mher§! international (and occasionally domestic) interests are met."
+ Espionage_FBI_Desc: "write me"
 
 #|=====[ LEADERS & TITLES ]=====|#
  TNO_Espionage_GUI_Leader_tt: "§Y[TNO_Espionage_GetLeader]§!"
@@ -76,6 +81,10 @@
  Espionage_Muller_Desc: "The Chief of the Ordnungspolizei, Heinrich Müller, has always surrounded himself in a mysterious air of apoliticism. Within seven years of the Third Reich's birth, this cold and calculating officer had evolved from Head of the Munich Political Police Department to Chief of the Gestapo, controlling the secret police of the Reich with ruthless efficiency.\n\nDespite being a longtime member of the SS, Müller was quick to side with Bormann and the Conservative wing of the NSDAP. Whether he quietly aligns with the tenets of orthodox National Socialism, or simply considered Bormann to provide the most stability, is a matter of contention. For Bormann, it matters not. As long as the Orpo Chief remains a tenacious functionary and continues to serve the German state, the Führer will trust him to fulfil his duty."
 
  ### USA ###
+ Espionage_Hoover: "J. Edgar Hoover"
+ Espionage_Hoover_Desc: "Presidents come and go, but J. Edgar Hoover remains. An institution in his own right, the inaugural Director of the Federal Bureau of Investigation has continuously served as head of America's highest investigatory agency since the 1920s. Hoover has cultivated a reputation as America's sheriff, a national policeman with neatly dressed government men deputized to identify, investigate, and apprehend criminals across North and South America. Be they gangsters in Chicago, klansmen in Georgia, terrorists in Boston, or spies in Port-au-Prince, Director Hoover and his Bureau ensure no threat remains outside the law for long.\n\nAmong the many responsibilities consolidated around the Director are intelligence and counter-espionage within the United States and other American nations. What started as a domestic fact-finding section has become a branch of the FBI, the Special Intelligence Service, for gathering intelligence and arresting spies within the United States and its neighboring nations. Every US embassy in North and South America has an SIS detachment, with or without the host nation's knowledge, working to keep Hoover informed with the best intelligence information. While not projecting the infamous boldness of CIA operations, competition between the FBI and the CIA has led to the SIS opening a section for special operations and planning.\n\nWith a tendency towards partisanship and a domineering personality betraying his manicured national image, Hoover is a hypocrite. His contempt for nonwhites, his vanity, his obfuscation, and his media connections always boost his popularity when needed. With a vast network of political ties and international media connections, Hoover is secure in remaining Director for the rest of his life."
+ Espionage_FBI_Vacant: "Vacant"
+ Espionage_FBI_Vacant_Desc: "For the first time in the Federal Bureau of Investigation's 40-year history, the Directorship is vacant. Bureau leadership thought little about what would happen "after Hoover" because he had intended to work himself into the grave. Hoover's leadership was a ubiquitous institution of the FBI, and his death left an aimless administration and instilled a great deal of uncertainty about the Bureau's future. Long-time Deputy Director Clyde Tolson is the nominal leader of the Bureau, but just who the President will appoint to fill the void of J. Edgar Hoover remains to be seen.\n\nWhile Hoover's death has paralyzed some Bureau sections, others, including the Special Intelligence Service, continue to operate their primary function: gathering intelligence and arresting spies within the United States and its neighboring nations. Every US embassy in North and South America has an SIS detachment, with or without the host nation's knowledge, working to gather and share intelligence with FBI leadership. The SIS also works with military intelligence to support covert actions against American countries, from influencing politics with arrests and extraditions to supporting regime change. \n\nThough he may have been its inaugural Director, J. Edgar Hoover's death will not kill the FBI, which, as it awaits its next Director, remains a functioning machine of federal investigation and intelligence. The personalism of the FBI under Hoover was real, but that obedience died with Hoover and left a Bureau eager for a new Director with fresh ideas to re-mold it. "
  Espionage_Dulles: "Allen Dulles"
  Espionage_Dulles_Desc: "Long before becoming synonymous with American espionage, Allen Welsh Dulles was a lawyer who served the State Department in many European postings. Seeing firsthand the creation of the Nazi Empire in Europe convinced him American isolationism - in any sense of the word - was impossible in the face of world desiring tyrants. Serving as the link between the OSS and the anti-Hitler resistance in Germany during the war, he was not dissuaded from this view as he learned more and more of the nightmare of Europe.\n\nReturning to the States, he criticized the intelligence agencies of the United States as being unable to collect intelligence from enemy nations and proposed to centralize the agencies around the CIA. The Dulles Report sent shockwaves around Washington, as he put the blame for these issues at the feet of the management of the agencies. The CIA then brought him onboard as the director of covert operations, before he became the director of the CIA itself."
  Espionage_Helms: "Richard Helms"
@@ -110,10 +119,10 @@
 #|=====[ GUI TOOLTIPS ]=====|#
  # Budget section
  TNO_Espionage_GUI_Budget_text: "§gBUDGET§!"
- TNO_Espionage_GUI_Budget_tt: "§FThe [getIntelAgencyShort]'s §gBudget§! is used directly to finance §PSpecial Missions§!, §TResearch and Development§! and ordinary missions. The higher it is the stronger the passive effect on §TResearch speed§! and §RTraining speed§! becomes.§!"
+ TNO_Espionage_GUI_Budget_tt: "§FThe [getIntelAgencyShort]'s §gBudget§! is used directly to finance §PSpecial Missions§!, §BResearch and Development§! and ordinary missions. The higher it is the stronger the passive effect on §BResearch speed§! and §RTraining speed§! becomes.§!"
  TNO_Espionage_GUI_Budget: "§G$$[TNO_Espionage_GetBudget]M§!"
  TNO_Espionage_GUI_Budget_Investment: "§Y$$[TNO_Espionage_GetInvestment]M§!"
- TNO_Espionage_GUI_Investment_tt: "§F§YInvesting§! into the §gBudget§! will enhance both §RTraining§! and §TR&D§! growth speeds.\n\n§WThis value will be added to the budget once every month§!.§!"
+ TNO_Espionage_GUI_Investment_tt: "§F§YInvesting§! into the §gBudget§! will enhance both §RTraining§! and §BR&D§! growth speeds.\n\n§WThis value will be added to the budget once every month§!.§!"
  TNO_Espionage_GUI_Budget_DecreaseBtn_tt: "§F§YDecrease Investment§!\n\nDecrease monthly budget allocation into the [getIntelAgencyShort] by §Y5M§! USD. This will also decrease §YCommand Power§! cost by §G+5§! (currently [?TNO_Espionage_max_command_power|R0]).§!"
  TNO_Espionage_GUI_Budget_IncreaseBtn_tt: "§F§YIncrease Investment§!\n\nIncrease monthly budget allocation into the [getIntelAgencyShort] by §Y5M§! USD. This will also increase §YCommand Power§! cost by §R-5§! (currently [?TNO_Espionage_max_command_power|R0]).§!"
 
@@ -128,7 +137,7 @@
 
  # Capability section
  TNO_Espionage_GUI_Capability_text: "§RCAPABILITY§!"
- TNO_Espionage_GUI_Capability_tt: "§F£GFX_expertise §RExpertise§! is the aggregate preparedness and training §W[getIntelAgencyShort]§! agents currently have, growing every two weeks. Its growth is affected by the size of the §GBudget§! and §Tresearch§!.\n\nTo embark on any missions for the §W[getIntelAgencyShort]§!, £GFX_expertise §RExpertise§! is spent as a currency.\n\n§YTraining§! costs §Y10§! £command_power §RCommand Power§! and increases £GFX_expertise §RExpertise§!.§!"
+ TNO_Espionage_GUI_Capability_tt: "§F£GFX_expertise §RExpertise§! is the aggregate preparedness and training §W[getIntelAgencyShort]§! agents currently have, growing every two weeks. Its growth is affected by the size of the §GBudget§! and §Bresearch§!.\n\nTo embark on any missions for the §W[getIntelAgencyShort]§!, £GFX_expertise §RExpertise§! is spent as a currency.\n\n§YTraining§! costs §Y10§! £command_power §RCommand Power§! and increases £GFX_expertise §RExpertise§!.§!"
  TNO_Espionage_GUI_Capability_InvestBtn_tt: "§F§YTraining§!\n\n§YPrerequisites:§!\n[!Espionage_GUI_Capability_InvestBtn_click_enabled]\n§YEffects:§!\n§![!Espionage_GUI_Capability_InvestBtn_click]"
  TNO_Espionage_GUI_ExpertiseStatus: "§REXPERTISE§!: [?TNO_Espionage_Expertise|W0]§W%§!£GFX_expertise_big"
  TNO_Espionage_GUI_ExpertiseStatus_tt: "§F£GFX_expertise §RExpertise§! is used to train agents and research advanced technologies. It also provides bonuses to missions. £GFX_expertise §RExpertise§! is gained by successfully completing missions and lost after failures.§!"
@@ -136,9 +145,9 @@
  TNO_Espionage_GUI_CapabilityStatus_tt: "§F§VAnalysis Capability§! represents the [getIntelAgencyShort]'s aggregate competence and capacity for conducting operations. The higher it is the higher our §WMission Base Success Chance§! will be.§!"
 
  # Research section
- TNO_Espionage_GUI_Research_text: "§TRESEARCH AND DEVELOPMENT§!"
+ TNO_Espionage_GUI_Research_text: "§BRESEARCH AND DEVELOPMENT§!"
  TNO_Espionage_GUI_Btn_tt: "Open [getIntelAgencyShort] Research Menu"
- TNO_Espionage_GUI_Research_tt: "§F£GFX_science_icon §TResearch and Development§! is necessary to keep the §W[getIntelAgencyShort]§! in a competitive state, growing every week once research has been picked. Its growth is affected by the size of the §GBudget§! as well as previous §Tresearch§! already done.\n\nCurrent £GFX_science_icon §TResearch Speed§! is [?TNO_Espionage_ResearchSpeed|Y]§Y%§!/week.§!"
+ TNO_Espionage_GUI_Research_tt: "§F£GFX_science_icon §BResearch and Development§! is necessary to keep the §W[getIntelAgencyShort]§! in a competitive state, growing every week once research has been picked. Its growth is affected by the size of the §GBudget§! as well as previous §Bresearch§! already done.\n\nCurrent £GFX_science_icon §BResearch Speed§! is [?TNO_Espionage_ResearchSpeed|Y]§Y%§!/week.§!"
  TNO_Espionage_GUI_Research: "[TNO_Espionage_GetResearchState]"
  TNO_Espionage_GUI_Research_Inactive: "§RNo research selected.§!"
  TNO_Espionage_GUI_Research_Active: "Researching §Y[TNO_Espionage_GetResearchCurrent]§! §W[?TNO_Espionage_ResearchProgress|1]%§!£GFX_science_icon"
@@ -162,6 +171,7 @@
 
  ## Agency Region Encryption
  TNO_Espionage_GUI_RegionalNetwork_USA: "\n£GFX_counter_intelligence_USA §MCIA Network Strength§!: [?USA.Regional_Network^Region_i][TNO_Espionage_GetRegionalValuesEntry]"
+ TNO_Espionage_GUI_RegionalNetwork_USA_FBI: "\n£GFX_counter_intelligence_USA §MFBI Network Strength§!: [?USA.Regional_Network^Region_i][TNO_Espionage_GetRegionalValuesEntry]"
  TNO_Espionage_GUI_RegionalNetwork_GER: "\n£GFX_counter_intelligence_GER §Q[GER.getIntelAgencyShort] Network Strength§!: [?GER.Regional_Network^Region_i][TNO_Espionage_GetRegionalValuesEntry]"
  TNO_Espionage_GUI_RegionalNetwork_JAP: "\n£GFX_counter_intelligence_JAP §RGaiji-ka Network Strength§!: [?JAP.Regional_Network^Region_i][TNO_Espionage_GetRegionalValuesEntry]"
 
@@ -246,7 +256,7 @@
  Espionage_GER_Tech_1_Desc: "The Sonderblindfunkdienst, or §WSpecial Binary Telegraph System Service§!, is a part of the proposed Schnellbahn system initiative in the agency. Transmitting information world wide to agents in form of Morse code is only one part of the systems proposed - repeated, encoded messages on all frequencies under the Schnellinformationsdienst and Harpune radio receivers for our agents across the globe is the full span of it. An ambitious project, but one that is desperately needed in the face of the state of the world."
  Espionage_GER_Tech_2_Desc: "Germany won the space race in 1962, yet she still has to make use of the full breadth of opportunities the 'Final Frontier' offers. It does not take a genius to realize the potential in space-based surveillance of the Reich's enemies - far out of range of their ability to intervene, and as such able to observe them in peace. Equipped with 24-inch focal length cameras and several thousand feet of film, these probes will be launched into space and take photographs of our enemies' lands, to be recovered following mission end by plane."
  Espionage_GER_Tech_3_Desc: "Second generation transmitters working on Band IV UHF frequencies, the §W31211-5 Covert RF Listening Devices§!, or bugs, are the latest in design. Intended for overhearing conversations in ordinary rooms, these devices can be hidden in most pieces of furniture with relative ease. Despite that and its simple make-up, the 31211-5 bugs carry a powerful and sensitive audio-amplifier and dynamic microphone able to record conversations easily and clearly. No secrets will remain hidden from the Reich anymore."
- Espionage_GER_Tech_4_Desc: "A one-time tape-based cipher machine developed by §TSiemens§!, the M-190 is a mixer-class device. It is not classified - that is because the device itself is not enough to crack the cipher. What is needed to solve any cipher with the machine is an appropriate §WOne-Time-Tape§!, which is always destroyed right at the end of the information exchange. Intended for usage with a teleprinter device, the M-190 can operate both offline and online. A significant advancement on all accounts from the Second World War's T-43."
+ Espionage_GER_Tech_4_Desc: "A one-time tape-based cipher machine developed by §BSiemens§!, the M-190 is a mixer-class device. It is not classified - that is because the device itself is not enough to crack the cipher. What is needed to solve any cipher with the machine is an appropriate §WOne-Time-Tape§!, which is always destroyed right at the end of the information exchange. Intended for usage with a teleprinter device, the M-190 can operate both offline and online. A significant advancement on all accounts from the Second World War's T-43."
  Espionage_GER_Tech_5_Desc: "In a world of infiltration and espionage, a fist to the face is sometimes still the best solution when it comes to a life or death situation. Military, espionage, even police forces across the world have adopted martial arts or even developed their own in response. The art of deftly taking control over an enemy in close quarters combat can prove useful in many situations, ones our agents are likely to experience at one point or another as well. If so, all they must do is try to remember some of the basics of Nahkampf..."
  Espionage_GER_Tech_6_Desc: "The UFT-421 is a body-wearable covert transceiver for concealed use. Hidden under the agent's cloths, the device can be operated with a remote control unit; a simplex radio with four channels, it is poised to be an indispensible tool for undercover agents both in and outside Germany."
  Espionage_GER_Tech_7_Desc: "The Robot Star 50 is an almost ordinary clockwork camera, distinguished particularly by its compactness and being able to take fifty exposures. However, when modified appropriately, the camera displays another key feature - it is exceptionally silent. Being so small, so silent and able to take so many pictures makes the modified design of the RS 50 a very promising tool for covert agents."
@@ -297,7 +307,7 @@
  TNO_Espionage_ExpertiseNotAtMax_tt: "£GFX_expertise §RExpertise§! is not at its maximum value\n\n§YCosts:§!\n"
  TNO_Espionage_ResearchNotActive_tt: "We are not currently conducting research\n"
  TNO_Espionage_ResearchNotComplete_tt: "§Y[TNO_Espionage_GetResearch]§! has not already been researched\n\n§YCosts:§!\n"
- TNO_Espionage_Tech_Researched_tt: "Has £GFX_science_icon §TTechnology§! "§Y[TNO_Espionage_GetResearch]§!"\n"
+ TNO_Espionage_Tech_Researched_tt: "Has £GFX_science_icon §BTechnology§! "§Y[TNO_Espionage_GetResearch]§!"\n"
 
  TNO_Espionage_RecruitmentInactive_tt: "We are not currently training a new operative\n"
  TNO_Espionage_NotAtAgentCap_tt: "We currently have less than §Y10§! total operatives\n\n§YCosts:§!\n"
@@ -315,15 +325,15 @@
  SGR_RND_10_expertise_tt: "£GFX_expertise §RExpertise§! must be at least §Y10%§! or higher\n"
  SGR_RND_20_expertise_tt: "£GFX_expertise §RExpertise§! must be at least §Y20%§! or higher\n"
  SGR_RND_25_expertise_tt: "£GFX_expertise §RExpertise§! must be at least §Y25%§! or higher\n"
- SGR_RND_mission_success_70_tt: "§TMission Success Chance§! must be at least §Y70%§!\n"
- SGR_RND_mission_success_75_tt: "§TMission Success Chance§! must be at least §Y75%§!\n"
+ SGR_RND_mission_success_70_tt: "§BMission Success Chance§! must be at least §Y70%§!\n"
+ SGR_RND_mission_success_75_tt: "§BMission Success Chance§! must be at least §Y75%§!\n"
  GER_Espionage_funding_increase_tt: "The §W[getIntelAgencyShort]§! will receive §Gextra§! §Yfunding§!.\n"
  GER_Espionage_training_increase_tt: "The §W[getIntelAgencyShort]§! will receive §Gextra§! §Rtraining§!.\n"
 
  GER_Espionage_sabotage_mission_success_tt: "§Gthe mission succeeding, sabotaging the target's infrastructure.§!"
  GER_Espionage_coup_mission_success_tt: "§Gthe mission succeeding, overthrowing the target's government.§!"
 
- SGR_RND_entdecker_bonus_tt: "§TMission Success Chance§! will temporarily increase by §Y5%§!."
+ SGR_RND_entdecker_bonus_tt: "§BMission Success Chance§! will temporarily increase by §Y5%§!."
 
 #|=====[ GENERAL EVENTS ]=====|#
  TNO_Espionage.2.t:0 "[getIntelAgencyShort] Begins Training New Operative"

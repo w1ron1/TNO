@@ -121,7 +121,7 @@ econ_science_fa_spending_txt_number: "§W$$[?research_facilities_costs|2]B§!"
 
 econ_inflation_title: "§RINFLATION:§! §W[?clamped_inflation_rate|3]%§!"
 
-central_bank_rate_txt: "§kCent. Bank Rate:§!"
+central_bank_rate_txt: "§LCent. Bank Rate:§!"
 central_bank_rate_txt_number: "§W[?central_bank_rates_display|2]%§!"
 central_bank_policy_title_txt: "Central Bank Policy"
 
@@ -213,22 +213,22 @@ econ_deficit_GDP_growth_neutral: "§Y[?deficit_GDP_growth_effect]%§!"
 
 econ_income_revenue_txt: "§BIncome Tax:§!"
 econ_income_revenue_txt_number: "§W$$[?income_tax_revenue|2]B§!"
-econ_income_revenue_txt_number_tt: "§F§W[GetCurrency][?non_poor_income_tax_revenue|2]B§! dollars comes from our workers above the poverty line, taxed at [?income_tax_factor|2Y%]\n§W[GetCurrency][?poor_income_tax_revenue|2]B§! dollars comes from our workers below the poverty line, taxed at an effective rate of [?poverty_income_tax_factor|2Y%]§!"
+econ_income_revenue_txt_number_tt: "§F§W$$[?non_poor_income_tax_revenue|2]B§! dollars comes from our workers above the poverty line, taxed at [?income_tax_factor|2Y%]\n§W$$[?poor_income_tax_revenue|2]B§! dollars comes from our workers below the poverty line, taxed at an effective rate of [?poverty_income_tax_factor|2Y%]§!"
 
 econ_business_revenue_txt: "§nBusiness Tax:§!"
 econ_business_revenue_txt_number: "§W$$[?industrial_contribution|2]B§!"
-econ_business_revenue_txt_number_tt: "§F§W[GetCurrency][?industrial_contribution|2]B§! dollars comes from our consumer goods production, taxed at [?business_tax_rate_total|0Y%]§!"
+econ_business_revenue_txt_number_tt: "§F§W$$[?industrial_contribution|2]B§! dollars comes from our consumer goods production, taxed at [?business_tax_rate_total|0Y%]§!"
 
 econ_excise_revenue_txt: "§QExcise Revenue:§!"
 econ_excise_revenue_txt_number: "§W$$[?excise_income_true|2]B§!"
-econ_excise_revenue_txt_number_tt: "§F§W[GetCurrency][?sales_tax_total_income|2]B§! dollars comes from our sales tax, taxed at [?sales_tax_display|0Y%]\n§W[GetCurrency][?tariff_tax_total_income|2]B§! dollars comes from our tariff tax, taxed at [?tariff_tax_display|0Y%]§![GetWarTaxes]"
-econ_excise_revenue_txt_number_tt_war_taxes: "\n§F§W[GetCurrency][?war_tax_total_income|2]B§! dollars comes from our war taxes§!"
+econ_excise_revenue_txt_number_tt: "§F§W$$[?sales_tax_total_income|2]B§! dollars comes from our sales tax, taxed at [?sales_tax_display|0Y%]\n§W$$[?tariff_tax_total_income|2]B§! dollars comes from our tariff tax, taxed at [?tariff_tax_display|0Y%]§![GetWarTaxes]"
+econ_excise_revenue_txt_number_tt_war_taxes: "\n§F§W$$[?war_tax_total_income|2]B§! dollars comes from our war taxes§!"
 
 econ_other_revenue_txt: "§IOther Revenue:§!"
 econ_other_revenue_txt_number: "§W$$[?misc_income_true|2]B§!"
 
 
-econ_gdp_title: "§GGDP:§! §W[GetCurrency][?GDP|2]B§!"
+econ_gdp_title: "§GGDP:§! §W$$[?GDP|2]B§!"
 econ_debt_to_gdp_title: "§RDEBT-TO-GDP:§! §W[?debt_to_GDP_ratio|1%]§!"
 
 
@@ -383,8 +383,8 @@ econ_research_facilities_slider_tt: "Next month's §OFacilities Funding§!§F ef
 econ_pay_off_national_debt: "§RPAY OFF\nNATIONAL DEBT§!"
 econ_invest_into_gdp: "§GINVEST INTO GDP§!"
 
-econ_reserves_management: "§W[GetCurrency][?money_reserves|3]B§!" 
-reserves_management_amount_text: "§W[GetCurrency][?reserves_management_amount|3]B§!"
+econ_reserves_management: "§W$$[?money_reserves|3]B§!" 
+reserves_management_amount_text: "§W$$[?reserves_management_amount|3]B§!"
 
 invest_into_GDP_button_tt: "[!reserves_actions_buttonInvest_click_enabled][!reserves_actions_buttonInvest_click]"
 econ_stimulus_dynamic_modifier: "Economic Stimulus"
@@ -634,7 +634,7 @@ DeficitColorRatioOrange: "§O"
 DeficitColorRatioRed: "§R"
 
 total_expenditures_value: "Total Expenditures:"
-total_expenditures_value_number: "§W[GetCurrency][?total_expenditures] B§!"
+total_expenditures_value_number: "§W$$[?total_expenditures] B§!"
 
 economy_line_break: "-------------------------------------------"
 
@@ -661,29 +661,29 @@ econ_month_10: "Nov"
 econ_month_11: "Dec"
 econ_year: "'[?year]"
 
-pay_off_debt_amount_txt: "§W[GetCurrency][?national_debt_payoff_liquid] B§!"
-invest_into_gdp_amount_txt: "§W[GetCurrency][?gdp_increase_liquid] B§!"
+pay_off_debt_amount_txt: "§W$$[?national_debt_payoff_liquid] B§!"
+invest_into_gdp_amount_txt: "§W$$[?gdp_increase_liquid] B§!"
 
 sp_health_care_cost: "Health Care:"
-sp_health_care_cost_number: "§W[GetCurrency][?health_care_cost_modified|2] B§!"
+sp_health_care_cost_number: "§W$$[?health_care_cost_modified|2] B§!"
 
 sp_education_cost: "Education:"
-sp_education_cost_number: "§W[GetCurrency][?education_cost_modified|2] B§!"
+sp_education_cost_number: "§W$$[?education_cost_modified|2] B§!"
 
 sp_security_cost: "Policing:"
-sp_security_cost_number: "§W[GetCurrency][?security_cost_modified|2] B§!"
+sp_security_cost_number: "§W$$[?security_cost_modified|2] B§!"
 
 sp_pensions_cost: "Pensions:"
-sp_pensions_cost_number: "§W[GetCurrency][?pensions_cost_modified|2] B§!"
+sp_pensions_cost_number: "§W$$[?pensions_cost_modified|2] B§!"
 
 sp_unemployment_cost: "Unemployment:"
-sp_unemployment_cost_number: "§W[GetCurrency][?unemployment_cost_modified|2] B§!"
+sp_unemployment_cost_number: "§W$$[?unemployment_cost_modified|2] B§!"
 
 sp_other_program_cost: "Other Programs:"
-sp_other_program_cost_number: "§W[GetCurrency][?other_program_cost_modified|2] B§!"
+sp_other_program_cost_number: "§W$$[?other_program_cost_modified|2] B§!"
 
 sp_total_cost: "Total Programs:"
-sp_total_cost_number: "§W[GetCurrency][?total_sp_costs|2] B§!"
+sp_total_cost_number: "§W$$[?total_sp_costs|2] B§!"
 
 econ_revenue_header: "§MREVENUE§!"
 econ_expenditures_header: "§YEXPENDITURES§!"
@@ -812,7 +812,7 @@ econ_cosnumer_factories_production_tt: ""
 econ_military_factories_production_tt: ""
 econ_cosnumer_goods_production_tt: "§dBase production: §Y[?PU_base_consumer_goods_produced]§!\nOur Consumer Goods Production Modifier: [?modifier@consumer_goods_production_factor|%+]\nReal Produced Consumer Goods: §Y[?consumer_goods_monthly_use]§!"
 
-production_units_allocation_tt: "Based on the §YGDP§! of our states and our §Ytrade balance§!, our nation has [?production_units] £tt_prod_unit §GProduction Units§! available\n\nWe need §W[GetCurrency][Get_missing_gdp_for_pu]B§! §YGDP§! to gain 1 more £tt_prod_unit §GProduction Units§!.\n\nWe are limited to using [?resource@power] of these units due to our £tt_power §YGrid Power§!"
+production_units_allocation_tt: "Based on the §YGDP§! of our states and our §Ytrade balance§!, our nation has [?production_units] £tt_prod_unit §GProduction Units§! available\n\nWe need §W$$[Get_missing_gdp_for_pu]B§! §YGDP§! to gain 1 more £tt_prod_unit §GProduction Units§!.\n\nWe are limited to using [?resource@power] of these units due to our £tt_power §YGrid Power§!"
 production_units_allocation_power_tt: "Our nation is currently producing [?resource@power] £tt_power §YGrid Power§!"
 
 production_unit_assignment_numbers: "[ProdUnitsPowerLimitStatus][?production_units_used]§!§G/[?production_units]§!"
@@ -1306,12 +1306,12 @@ navy_size_dynmod: "Navy Size to Total Sphere Trade Value Effects"
 
 # State stuff
 gdp_number_display_loc: "[GetStateGDPDisplay]"
-gdp_number_display_normal: "§Y[GetCurrency][?state_value_B|2]B§!"
-gdp_number_display_modified: "§R[GetCurrency][?state_GDP_contribution_B|2]B§!"
-gdp_number_display_tt: "Available State GDP: §Y[GetCurrency][GetStateContributionMorB]/[GetCurrency][GetStateValueMorB]§!\nGDP per Capita: §Y[GetCurrency][?state_GDPPC]§!"
+gdp_number_display_normal: "§Y$$[?state_value_B|2]B§!"
+gdp_number_display_modified: "§R$$[?state_GDP_contribution_B|2]B§!"
+gdp_number_display_tt: "Available State GDP: §Y$[GetStateContributionMorB]/$[GetStateValueMorB]§!\nGDP per Capita: §Y$[?state_GDPPC]§!"
 gdp_growth_number_display_loc: "§Y[GetStateGDPGrowth]§!"
 gdp_growth_number_display_tt: "[GetStateGDPGrowthBreakdown]"
-stateGDPGrowthBreakdownTemp: "Growth of §Y[?temp_real_GDP_growth]%§! is expected this year, which means that next month this state will grow by §Y[?temp_next_month_real_GDP_growth]%§! (§Y[GetCurrency][?temp_next_month_GDP_growth_value|1]M§!) in this state.\n\nNational rate is §Y[?temp_real_GDP_growth_display]%§![GetStateGDPModifierExists] modified in this state by §Yx[?temp_state_GDP_growth_factor|3]§!:\n  Base rate: §Y[?1]§!\n  From state modifiers: [?modifier@state_GDP_growth_factor_modifier|+=][GetInfraDamagedStateEffect]"
+stateGDPGrowthBreakdownTemp: "Growth of §Y[?temp_real_GDP_growth]%§! is expected this year, which means that next month this state will grow by §Y[?temp_next_month_real_GDP_growth]%§! (§Y$$[?temp_next_month_GDP_growth_value|1]M§!) in this state.\n\nNational rate is §Y[?temp_real_GDP_growth_display]%§![GetStateGDPModifierExists] modified in this state by §Yx[?temp_state_GDP_growth_factor|3]§!:\n  Base rate: §Y[?1]§!\n  From state modifiers: [?modifier@state_GDP_growth_factor_modifier|+=][GetInfraDamagedStateEffect]"
 stateGDPGrowthBreakdownInfraDamaged: "\n  From damaged infrastructure: [?temp_infra_damaged_factor_effect|+3]\n\nInfrastructure in this state has been damaged, reducing the growth rate by [?temp_infra_damaged_effect|+]§R%§! and weakening any other growth by §Rx§![?temp_infra_damaged_factor_effect|3+]."
 gdp_growth_number_display_tt_long: "A state's economic growth is how fast its GDP is growing."
 stateGDPGrowthHasAdditiveModifier: ". Added to this is §Y[?modifier@state_GDP_growth_modifier|=]%§! from state modifiers, overall"
@@ -1368,7 +1368,7 @@ econ_sphere_name_long_TUR: "Turkish Sphere"
 econ_sphere_name_long_USA: "American Sphere"
 econ_sphere_name_long_ARG: "Argentinian Sphere"
 econ_sphere_name_long_BRA: "Brazilian Sphere"
-econ_sphere_name_long_MEX: "Caribbean Pact for Mutual Prosperity"
+econ_sphere_name_long_MEX: "Pacto de Veracruz"
 econ_sphere_name_long_WOL: "West African Zone"
 econ_sphere_name_long_FFR: "French Community"
 econ_sphere_name_long_CAO: "Pan-African Community for Mutual Economic Assistance"
@@ -1385,7 +1385,7 @@ econ_sphere_name_tab_TUR: "Turkish Sphere"
 econ_sphere_name_tab_USA: "American Sphere"
 econ_sphere_name_tab_ARG: "Argentinian Sphere"
 econ_sphere_name_tab_BRA: "Brazilian Sphere"
-econ_sphere_name_tab_MEX: "Mexican Sphere"
+econ_sphere_name_tab_MEX: "Pacto de Veracruz"
 econ_sphere_name_tab_WOL: "West African Zone"
 econ_sphere_name_tab_FFR: "French Community"
 econ_sphere_name_tab_CAO: "PACMEA"
@@ -1456,15 +1456,11 @@ building_satisfaction_offices_prog_tt: "\n\n§YOffice Coverage§! acts as an add
 econ_offices_coverage_yes: "\n\nOur network of §YAdministrative Offices§! across §Y[?TNO_office_coverage|%]§! of our country grants us a §Ypolitical power gain factor§! of [?offices_PP_modifier|%+=2], a §Ysupply consumption factor§! of [?offices_supply_usage_modifier|%-=2] and a §Yattrition factor§! of [?offices_attrition_modifier|%-=2].[econ_empty_offices_coverage]"
 econ_empty_offices_coverage_yes: "\n\nBuilding §YAdministrative Offices§! will improve our §YPolitical Power§!, reduce §YDivision Supply Consumption§! and decrease §YDivision Attrition§!, especially in richer states; in particular, in §Y[?best_state_for_office.GetName]§! where it would grant us §G[?office_in_best_state_bonus_pp|%]§! §Ypolitical power§!, §G[?office_in_best_state_bonus_supply_usage|%-=]§! §Ysupply consumption factor§! and §G[?office_in_best_state_bonus_attrition|%-=]§! §Yattrition factor§!. This will be less and less effective the more §YOffices§! in a state there are."
 
-
-CURRENCY_REICHSMARK: "ℛℳ" 
-CURRENCY_YEN: "¥"
 CURRENCY_USD: "$$"
-CURRENCY_RUBLE: "₽"
 
 ## Tooltips used Specifically for the Spend Money Function. Hop on Among Us. ##
-TNO_spend_money_tt: "We will spend §Y[GetCurrency][?temp_econ_spending_amount_unmodified|3] B§!. [GetSpendingSource]\n"
-TNO_add_to_debt_including_money_reserves: "§Y[GetCurrency][?money_reserves|3] B§! of this value will come from our §mLiquid Reserves§!, and §Y[GetCurrency][?temp_econ_spending_amount|3] B§! will be added to our §RNational Debt§!."
+TNO_spend_money_tt: "We will spend §Y$$[?temp_econ_spending_amount_unmodified|3] B§!. [GetSpendingSource]\n"
+TNO_add_to_debt_including_money_reserves: "§Y$$[?money_reserves|3] B§! of this value will come from our §mLiquid Reserves§!, and §Y$$[?temp_econ_spending_amount|3] B§! will be added to our §RNational Debt§!."
 TNO_use_money_reserves_spending: "This value will come from our §mLiquid Reserves§!."
 TNO_add_to_debt_only: "This value will be added to our §RNational Debt§!."
 
@@ -1484,19 +1480,19 @@ TNO_econ_state_value_increase_percent_tt: "§GIncreases§! §fstate GDP§! by §
 TNO_econ_state_value_decrease_percent_specified_state_tt: "§RDecreases§! §Y[THIS.GetName]§! §fGDP§! by §Y[?state_value_multiplier_temp|2%]§!.\n"
 TNO_econ_state_value_increase_percent_specified_state_tt: "§GIncreases§! §Y[THIS.GetName]§! §fGDP§! by §Y[?state_value_multiplier_temp|2%]§!.\n"
 
-TNO_national_debt_decrease_tt: "Our §RNational Debt§! will §Gdecrease§! by §Y[GetCurrency][?debt_temp|3] B§!.\n"
-TNO_national_debt_increase_tt: "Our §RNational Debt§! will §Rincrease§! by §Y[GetCurrency][?debt_temp|3] B§!.\n"
+TNO_national_debt_decrease_tt: "Our §RNational Debt§! will §Gdecrease§! by §Y$$[?debt_temp|3] B§!.\n"
+TNO_national_debt_increase_tt: "Our §RNational Debt§! will §Rincrease§! by §Y$$[?debt_temp|3] B§!.\n"
 
-TNO_econ_money_reserves_change_tt: "This will [GetMoneyReservesIncreaseDecrease] our §mLiquid Reserves§! by §Y[GetCurrency][?money_reserves_temp|3] B.§!\n"
+TNO_econ_money_reserves_change_tt: "This will [GetMoneyReservesIncreaseDecrease] our §mLiquid Reserves§! by §Y$$[?money_reserves_temp|3] B.§!\n"
 
-TNO_civilian_costs_increase_B_tt: "This will §Rincrease§! our civilian costs by §Y[GetCurrency][?civilian_costs_temp] B§!.\n"
-TNO_civilian_costs_increase_M_tt: "This will §Rincrease§! our civilian costs by §Y[GetCurrency][?civilian_costs_temp] M§!.\n"
-TNO_civilian_costs_decrease_B_tt: "This will §Gdecrease§! our civilian costs by §Y[GetCurrency][?civilian_costs_temp] B§!.\n"
-TNO_civilian_costs_decrease_M_tt: "This will §Gdecrease§! our civilian costs by §Y[GetCurrency][?civilian_costs_temp] M§!.\n"
-TNO_military_costs_increase_B_tt: "This will §Rincrease§! our military costs by §Y[GetCurrency][?military_costs_temp] B§!.\n"
-TNO_military_costs_increase_M_tt: "This will §Rincrease§! our military costs by §Y[GetCurrency][?military_costs_temp] M§!.\n"
-TNO_military_costs_decrease_B_tt: "This will §Gdecrease§! our military costs by §Y[GetCurrency][?military_costs_temp] B§!.\n"
-TNO_military_costs_decrease_M_tt: "This will §Gdecrease§! our military costs by §Y[GetCurrency][?military_costs_temp] M§!.\n"
+TNO_civilian_costs_increase_B_tt: "This will §Rincrease§! our civilian costs by §Y$$[?civilian_costs_temp] B§!.\n"
+TNO_civilian_costs_increase_M_tt: "This will §Rincrease§! our civilian costs by §Y$$[?civilian_costs_temp] M§!.\n"
+TNO_civilian_costs_decrease_B_tt: "This will §Gdecrease§! our civilian costs by §Y$$[?civilian_costs_temp] B§!.\n"
+TNO_civilian_costs_decrease_M_tt: "This will §Gdecrease§! our civilian costs by §Y$$[?civilian_costs_temp] M§!.\n"
+TNO_military_costs_increase_B_tt: "This will §Rincrease§! our military costs by §Y$$[?military_costs_temp] B§!.\n"
+TNO_military_costs_increase_M_tt: "This will §Rincrease§! our military costs by §Y$$[?military_costs_temp] M§!.\n"
+TNO_military_costs_decrease_B_tt: "This will §Gdecrease§! our military costs by §Y$$[?military_costs_temp] B§!.\n"
+TNO_military_costs_decrease_M_tt: "This will §Gdecrease§! our military costs by §Y$$[?military_costs_temp] M§!.\n"
 
 TNO_econ_sales_tax_decrease_tt: "Our §pSales Taxes§! will §Rdecrease§! by §Y[?sales_tax_temp|2%]§!.\n"
 TNO_econ_sales_tax_increase_tt: "Our §pSales Taxes§! will §Gincrease§! by §Y[?sales_tax_temp|2%]§!.\n"
@@ -1507,34 +1503,34 @@ TNO_econ_business_tax_increase_tt: "Our §nBusiness Taxes§! will §Gincrease§!
 TNO_econ_income_tax_decrease_tt: "Our §BIncome Taxes§! will §Rdecrease§! by §Y[?income_tax_temp|2%]§!.\n"
 TNO_econ_income_tax_increase_tt: "Our §BIncome Taxes§! will §Gincrease§! by §Y[?income_tax_temp|2%]§!.\n"
 
-TNO_econ_state_value_decrease_addition_tt: "This will §Rdecrease§! §fstate GDP§! by §Y[GetCurrency][?temp_state_value_addition|3] B§!.\n"
-TNO_econ_state_value_increase_addition_tt: "This will §Gincrease§! §fstate GDP§! by §Y[GetCurrency][?temp_state_value_addition|3] B§!.\n"
-TNO_econ_state_value_decrease_addition_specified_state_tt: "This will §Rdecrease§! §Y[THIS.GetName]§! §fGDP§! by §Y[GetCurrency][?temp_state_value_addition|3] B§!.\n"
-TNO_econ_state_value_increase_addition_specified_state_tt: "This will §Gincrease§! §Y[THIS.GetName]§! §fGDP§! by §Y[GetCurrency][?temp_state_value_addition|3] B§!.\n"
+TNO_econ_state_value_decrease_addition_tt: "This will §Rdecrease§! §fstate GDP§! by §Y$$[?temp_state_value_addition|3] B§!.\n"
+TNO_econ_state_value_increase_addition_tt: "This will §Gincrease§! §fstate GDP§! by §Y$$[?temp_state_value_addition|3] B§!.\n"
+TNO_econ_state_value_decrease_addition_specified_state_tt: "This will §Rdecrease§! §Y[THIS.GetName]§! §fGDP§! by §Y$$[?temp_state_value_addition|3] B§!.\n"
+TNO_econ_state_value_increase_addition_specified_state_tt: "This will §Gincrease§! §Y[THIS.GetName]§! §fGDP§! by §Y$$[?temp_state_value_addition|3] B§!.\n"
 
-TNO_econ_misc_income_decrease_tt: "This will §Rdecrease§! our §IMiscellaneous Income§! by §Y[GetCurrency][?misc_income_temp] B§!.\n"
-TNO_econ_misc_income_increase_tt: "This will §Gincrease§! our §IMiscellaneous Income§! by §Y[GetCurrency][?misc_income_temp] B§!.\n"
-TNO_econ_misc_costs_decrease_tt: "This will §Rdecrease§! our §lMiscellaneous Costs§! by §Y[GetCurrency][?misc_costs_temp] B§!.\n"
-TNO_econ_misc_costs_increase_tt: "This will §Gincrease§! our §lMiscellaneous Costs§! by §Y[GetCurrency][?misc_costs_temp] B§!.\n"
-TNO_econ_money_reserves_decrease_tt: "This will §Rdecrease§! our §mLiquid Reserves§! by §Y[GetCurrency][?money_reserves_temp] B§!.\n"
-TNO_econ_money_reserves_increase_tt: "This will §Gincrease§! our §mLiquid Reserves§! by §Y[GetCurrency][?money_reserves_temp] B§!.\n"
-TNO_econ_money_percent_income_reserves_decrease_tt: "This will §Rdecrease§! our §mLiquid Reserves§! by [?temp_month_income_gained|%R] of our monthly income, totalling §Y[GetCurrency][?money_reserves_temp] B§!.\n"
-TNO_econ_money_percent_income_reserves_increase_tt: "This will §Gincrease§! our §mLiquid Reserves§! by [?temp_month_income_gained|%G] of our monthly income, totalling §Y[GetCurrency][?money_reserves_temp] B§!.\n"
-TNO_econ_money_percent_gdp_reserves_decrease_tt: "This will §Rdecrease§! our §mLiquid Reserves§! by [?temp_gdp_gained|%R] of our GDP, totalling §Y[GetCurrency][?money_reserves_temp] B§!.\n"
-TNO_econ_money_percent_gdp_reserves_increase_tt: "This will §Gincrease§! our §mLiquid Reserves§! by [?temp_gdp_gained|%G] of our GDP, totalling §Y[GetCurrency][?money_reserves_temp] B§!.\n"
+TNO_econ_misc_income_decrease_tt: "This will §Rdecrease§! our §IMiscellaneous Income§! by §Y$$[?misc_income_temp] B§!.\n"
+TNO_econ_misc_income_increase_tt: "This will §Gincrease§! our §IMiscellaneous Income§! by §Y$$[?misc_income_temp] B§!.\n"
+TNO_econ_misc_costs_decrease_tt: "This will §Rdecrease§! our §lMiscellaneous Costs§! by §Y$$[?misc_costs_temp] B§!.\n"
+TNO_econ_misc_costs_increase_tt: "This will §Gincrease§! our §lMiscellaneous Costs§! by §Y$$[?misc_costs_temp] B§!.\n"
+TNO_econ_money_reserves_decrease_tt: "This will §Rdecrease§! our §mLiquid Reserves§! by §Y$$[?money_reserves_temp] B§!.\n"
+TNO_econ_money_reserves_increase_tt: "This will §Gincrease§! our §mLiquid Reserves§! by §Y$$[?money_reserves_temp] B§!.\n"
+TNO_econ_money_percent_income_reserves_decrease_tt: "This will §Rdecrease§! our §mLiquid Reserves§! by [?temp_month_income_gained|%R] of our monthly income, totalling §Y$$[?money_reserves_temp] B§!.\n"
+TNO_econ_money_percent_income_reserves_increase_tt: "This will §Gincrease§! our §mLiquid Reserves§! by [?temp_month_income_gained|%G] of our monthly income, totalling §Y$$[?money_reserves_temp] B§!.\n"
+TNO_econ_money_percent_gdp_reserves_decrease_tt: "This will §Rdecrease§! our §mLiquid Reserves§! by [?temp_gdp_gained|%R] of our GDP, totalling §Y$$[?money_reserves_temp] B§!.\n"
+TNO_econ_money_percent_gdp_reserves_increase_tt: "This will §Gincrease§! our §mLiquid Reserves§! by [?temp_gdp_gained|%G] of our GDP, totalling §Y$$[?money_reserves_temp] B§!.\n"
 
 TNO_econ_gdp_growth_decrease_tt: "Our §KGDP growth§! will §Rdecrease§! by §Y[?gdp_growth_temp|2]%§!.\n"
 TNO_econ_gdp_growth_increase_tt: "Our §KGDP growth§! will §Gincrease§! by §Y[?gdp_growth_temp|2]%§!.\n"
 
-TNO_econ_GDP_decrease_flat_tt: "§RDecreases§! our §fGDP§! by §Y[GetCurrency][?temp_econ_GDP_boost_flat|3] B§!.\n"
-TNO_econ_GDP_increase_flat_tt: "§GIncreases§! our §fGDP§! by §Y[GetCurrency][?temp_econ_GDP_boost_flat|3] B§!.\n"
+TNO_econ_GDP_decrease_flat_tt: "§RDecreases§! our §fGDP§! by §Y$$[?temp_econ_GDP_boost_flat|3] B§!.\n"
+TNO_econ_GDP_increase_flat_tt: "§GIncreases§! our §fGDP§! by §Y$$[?temp_econ_GDP_boost_flat|3] B§!.\n"
 
-TNO_econ_GDP_decrease_percent_tt: "§RDecreases§! our §fGDP§! by [?temp_econ_GDP_boost_percentage|1%Y], for a total of §Y[GetCurrency][?temp_econ_GDP_boost_percentage_money|3] B§!.\n"
-TNO_econ_GDP_increase_percent_tt: "§GIncreases§! our §fGDP§! by [?temp_econ_GDP_boost_percentage|1%Y], for a total of §Y[GetCurrency][?temp_econ_GDP_boost_percentage_money|3] B§!.\n"
+TNO_econ_GDP_decrease_percent_tt: "§RDecreases§! our §fGDP§! by [?temp_econ_GDP_boost_percentage|1%Y], for a total of §Y$$[?temp_econ_GDP_boost_percentage_money|3] B§!.\n"
+TNO_econ_GDP_increase_percent_tt: "§GIncreases§! our §fGDP§! by [?temp_econ_GDP_boost_percentage|1%Y], for a total of §Y$$[?temp_econ_GDP_boost_percentage_money|3] B§!.\n"
 
-TNO_econ_GDP_change_flat_tt: "\n[GetGDPFlatChangeIncreaseDecrease] [THIS.GetAdjective] §fGDP§! by §Y[GetCurrency][?temp_econ_GDP_boost_flat|3] B§!.\n"
+TNO_econ_GDP_change_flat_tt: "\n[GetGDPFlatChangeIncreaseDecrease] [THIS.GetAdjective] §fGDP§! by §Y$$[?temp_econ_GDP_boost_flat|3] B§!.\n"
 
-TNO_econ_GDP_change_percent_tt: "\n[GetGDPPercentChangeIncreaseDecrease] [THIS.GetAdjective] §fGDP§! by [?temp_econ_GDP_boost_percentage|1%], for a total of §Y[GetCurrency][?temp_econ_GDP_boost_percentage_money|3] B§!.\n"
+TNO_econ_GDP_change_percent_tt: "\n[GetGDPPercentChangeIncreaseDecrease] [THIS.GetAdjective] §fGDP§! by [?temp_econ_GDP_boost_percentage|1%], for a total of §Y$$[?temp_econ_GDP_boost_percentage_money|3] B§!.\n"
 
 TNO_Econ_Increase_lowercase: "increase"
 TNO_Econ_Increase_uppercase: "Increases"
@@ -1911,6 +1907,9 @@ Econ_Subtype_Colonial_Economy_Planned_desc: "A colonial economy is a system prop
 
 Econ_Subtype_Crown_Credit_Corporatism: "Crown Credit"
 Econ_Subtype_Crown_Credit_Corporatism_desc: "Crown Credit, on its surface, is little different from Social Credit as proposed by CH Douglas. However, under close examination, Crown Credit is a far more uniquely English institution than Social Credit. It shares Douglas' analysis regarding banking being the source of all social ills, but takes it a step further than that - explicitly blaming Jewish people for what they see as a decline in the English stock and the decline in the English countryside, urbanisation to them being driven by Jewish banking interests.\n\nIt seeks to build a thriving rural market economy made up of small businesses that do not have the size or ability to cause much damage to the land. This unfortunately puts it into direct conflict with the German conglomerates, who are not eager to leave the countryside at the government's say so. Therefore the new economic model seeks to dislodge them by force, and reverse the trend of rural migration to urban areas by giving preferential treatment to English business in the countryside. Leading to these businesses being able to compete with the conglomerates, greater economic growth in the countryside - and hopefully a widespread move back to the green fields of England by the people."
+
+Econ_Subtype_Stabilizing_Development: "Stabilizing Development"
+Econ_Subtype_Stabilizing_Development_desc: "The Mexican Miracle pushes inexorably onward in the unwavering hands of the PRI and its guiding philosophy of Stabilizing Development, a unique blend of state capitalism, free markets, and corporatism. Following the principles of Import Substitution Industrialization, the party seeks to build the nation's manufacturing sector to ensure prosperity and economic independence.  Through a regime of rigorous planning, protective tariffs, and ample funding for infrastructure development as well as state and private industry, Mexico will flourish.\n\nMoreover, this can be achieved without sparking runway inflation or currency devaluation. The Secretariat of Hacienda and Public Credit maintains the confidence of foreign investors through strict fiscal discipline, limiting welfare spending to a minimum.\n\nCalled to sacrifice now for a bountiful future, the Mexican public, guided by the party's corporatist arms, has responded with quiescence. The Confederation of Mexican Workers, or CTM, maintains labor peace even as real wages are kept under control. The National Peasant Confederation, or CNC, promotes order in the countryside, enabling growing agribusinesses to bring in needed capital through exports. While some question the resulting inequality, this steadily rising tide will soon lift all boats."
 
 econ_help_x_t: "[GetEconHelpTitle]"
 econ_help_0_t: "£tt_prod_unit Production Units"

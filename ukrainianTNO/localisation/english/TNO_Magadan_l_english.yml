@@ -427,11 +427,11 @@
  MAG_WA_support_azania: "Offer Contract to the §rAzania Liberation Front§!"
  MAG_WA_support_anyanya: "Offer Contract to §PAnyanya§!"
 
- MAG_iraqi_civil_war_effigy: "§kTHE IRAQI CIVIL WAR§!"
+ MAG_iraqi_civil_war_effigy: "§LTHE IRAQI CIVIL WAR§!"
  MAG_WA_support_iraqi_baathists: "Offer Contract to §GBa'athist Iraq§!"
  MAG_WA_support_iraqi_italians: "Offer Contract to §LMiceli's Iraqi Republic§!"
  MAG_WA_support_iraqi_democrats: "Offer Contract to §gConstitutionalist Iraq§!"
- MAG_WA_support_iraqi_islamists: "Offer Contract to the §TIslamic Republic of Iraq§!"
+ MAG_WA_support_iraqi_islamists: "Offer Contract to the §BIslamic Republic of Iraq§!"
  MAG_WA_support_kurdistan: "Offer Contract to §h[KUR.GetName]§!"
 
  MAG_omani_civil_war_effigy: "§JTHE OMANI CIVIL WAR§!"
@@ -461,7 +461,7 @@
  MAG_WA_support_andalusia: "Offer Contract to the §G[ADL.GetName]§!"
  MAG_WA_support_morocco: "Offer Contract to the §o[MOR.GetName]§!"
  MAG_WA_support_the_rif_republic: "Offer Contract to the §j[RIF.GetName]§!"
- MAG_WA_support_trarza: "Offer Contract to the §k[TRZ.GetName]§!"
+ MAG_WA_support_trarza: "Offer Contract to the §L[TRZ.GetName]§!"
 
  MAG_congolese_civil_war_effigy: "§sTHE CONGOLESE CIVIL WAR§!"
  MAG_WA_support_congo_azandeland: "Offer Contract to §n[AZD.GetName]§!"
@@ -490,7 +490,7 @@
  MAG_WA_support_beafrika: "Offer Contract to §lBêafrîka§!"
  MAG_WA_support_beafrika_pan_africans: "Offer Contract to the §RPopular Republic§!"
 
- MAG_mano_campaign_effigy: "§aTHE MANO CAMPAIGN§!"
+ MAG_mano_campaign_effigy: "§MTHE MANO CAMPAIGN§!"
  MAG_WA_support_mano_liberia: "Offer Contract to the §DMano River Pact§!"
  MAG_WA_support_mano_cameroon: "Offer Contract to the §KPALF§!"
 
@@ -530,7 +530,7 @@
  MAG_WA_Egypt_war: "\n\n§VEgyptian Civil War§!:\n - We [GetMAG_WA_Egypt_Contract]."
  MAG_WA_Sudan_war: "\n\n§fSudanese Civil War§!:\n - We [GetMAG_WA_Sudan_Contract]."
  MAG_WA_South_Sudan_war: "\n\n§jSouth Sudanese Civil War§!:\n - We [GetMAG_WA_South_Sudan_Contract]."
- MAG_WA_Iraq_war: "\n\n§kIraqi Civil War§!:\n - We [GetMAG_WA_Iraq_Contract]."
+ MAG_WA_Iraq_war: "\n\n§LIraqi Civil War§!:\n - We [GetMAG_WA_Iraq_Contract]."
  MAG_WA_Oman_war: "\n\n§JOmani Civil War§!:\n - We [GetMAG_WA_Oman_Contract]."
  MAG_WA_Iran_war: "\n\n§KIranian Civil War§!:\n - We [GetMAG_WA_Iran_Contract]."
  MAG_WA_Iberian_Wars: "\n\n§OIberian Wars§!:\n - We [GetMAG_WA_Iberia_Contract]."
@@ -539,7 +539,7 @@
  MAG_WA_Mozambique_Civil_War: "\n\n§RMozambican Civil War§!:\n - We [GetMAG_WA_Mozambique_Contract]."
  MAG_WA_West_African_War: "\n\n§GWest African War§!:\n - We [GetMAG_WA_West_African_War_Contract]."
  MAG_WA_Beafrikan_War: "\n\n§lInvasion of Beafrika§!:\n - We [GetMAG_WA_Beafrica_Contract]."
- MAG_WA_Mano_Campaign: "\n\n§aThe Mano Campaign§!:\n - We [GetMAG_WA_Mano_Contract]."
+ MAG_WA_Mano_Campaign: "\n\n§MThe Mano Campaign§!:\n - We [GetMAG_WA_Mano_Contract]."
  MAG_WA_Indonesian_War: "\n\n§SThe Indonesian War§!:\n - We [GetMAG_WA_Indonesia_Contract]."
  MAG_WA_Cameroon_Collapse: "\n\n§nThe Cameroon Collapse§!:\n - We [GetMAG_WA_Cameroon_Contract]."
  MAG_WA_Chad_Civil_War: "\n\n§wSaraland Civil War§!:\n - We [GetMAG_WA_Chad_Contract]."
@@ -562,7 +562,7 @@
  MAG_WA_Iraq_Italians: "are supporting the §LRepublic of Iraq§!"
  MAG_WA_Iraq_Democrats: "are supporting the §gIraqi Republic§!"
  MAG_WA_Iraq_Baathists: "are supporting the §GArab Republic of Iraq§!"
- MAG_WA_Iraq_Islamists: "are supporting the §TIslamic Republic of Iraq§!"
+ MAG_WA_Iraq_Islamists: "are supporting the §BIslamic Republic of Iraq§!"
  MAG_WA_Kurdistan: "are supporting §h[KUR.GetName]§!"
  MAG_WA_Oman_Baathists: "are supporting the §eDhofar Rebellion§!"
  MAG_WA_Oman_Islamists: "are supporting the §LImamate of Oman§!"
@@ -586,7 +586,7 @@
  MAG_WA_Andalusia: "are supporting the §G[ADL.GetName]§!"
  MAG_WA_Morroco: "are supporting the §o[MOR.GetName]§!"
  MAG_WA_Rif_Republic: "are supporting the §j[RIF.GetName]§!"
- MAG_WA_Trarza: "are supporting the §k[TRZ.GetName]§!"
+ MAG_WA_Trarza: "are supporting the §L[TRZ.GetName]§!"
  MAG_WA_Congo_Azandeland: "are supporting §n[AZD.GetName]§!"
  MAG_WA_Congo_Republic: "are supporting the §M[CFS.GetName]§!"
  MAG_WA_Congo_Pan_Africans: "are supporting the §R[CPR.GetName]§!"
@@ -2354,7 +2354,7 @@
  westalaska.13.a: "This is going to be difficult."
 
  westalaska.14.t: "Radio Free Magadan - Broadcast 78"
- westalaska.14.desc: "Radios across the Far East crackled to life when today's Radio Free Magadan broadcast began. Those listening in were greeted by the now familiar voice of the host, Stephen, or Strelok, or as he is affectionately called by many mercenaries and citizens alike, "Roast Beef".\n\n"Good Evening, people of Siberia!" He began ecstatically, "You're listening to Radio Free Magadan, your best source for entertainment in these changing times. Speaking of which,"\n\nWhispering could be heard just out of earshot of the microphone, along with the telltale patter of footsteps as someone was ushered into the studio, "As you know, things in Africa are changing aswell; as the situation becomes more unstable, we're welcoming new and exotic mercenaries and friends from the far away lands of the Congo! I have one such man here in the studio with me now. Say hello to our listeners, Mr. Calistrat."\n\nBroken Russian with a strong Rumanian accent could be heard over the static of the radio as the guest began to speak, "Hello, I am called Fernando Calistrat; Very thankful to be welcomed to your country and look forward to serving with you armies. Thank you."\n\n"Wonderfully done, Fernando. Him, among other celebrity soldiers of fortune such as the Swede Roy Larsen, have come with exciting stories and muscle to put behind our heroic efforts here in Russia. Now, here are some hits from that far away land...""
+ westalaska.14.desc: "Radios across the Far East crackled to life when today's Radio Free Magadan broadcast began. Those listening in were greeted by the now familiar voice of the host, Stephen, or Strelok, or as he is affectionately called by many mercenaries and citizens alike, "Roast Beef".\n\n"Good Evening, people of Siberia!" He began ecstatically, "You're listening to Radio Free Magadan, your best source for entertainment in these changing times. Speaking of which,"\n\nWhispering could be heard just out of earshot of the microphone, along with the telltale patter of footsteps as someone was ushered into the studio, "As you know, things in Africa are changing aswell; as the situation becomes more unstable, we're welcoming new and exotic mercenaries and friends from the far away lands of the Congo! I have one such man here in the studio with me now. Say hello to our listeners, Mr. Calistrat."\n\nBroken Russian with a strong Romanian accent could be heard over the static of the radio as the guest began to speak, "Hello, I am called Fernando Calistrat; Very thankful to be welcomed to your country and look forward to serving with you armies. Thank you."\n\n"Wonderfully done, Fernando. Him, among other celebrity soldiers of fortune such as the Swede Roy Larsen, have come with exciting stories and muscle to put behind our heroic efforts here in Russia. Now, here are some hits from that far away land...""
  westalaska.14.a: "News and guns from a distant land."
 
  westalaska.15.t: "The Man of a Thousand Lives"

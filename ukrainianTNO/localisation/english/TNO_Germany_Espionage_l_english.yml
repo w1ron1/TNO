@@ -56,13 +56,13 @@ GER_Espionage_aid_oktan_cost_blocked:0 "§R5%§!£GFX_expertise, §R50M§!£GFX_
 GER_Espionage_aid_onega:0 "§GUnternehmen Schild§!"
 GER_Espionage_aid_onega_desc:0 "The Anti-Communist Volunteer Guard of Onega has stood as a bulwark against Bolshevism since the end of the West Russian War. The Guard was born as Finland sought to protect its borders against communists and bandits among the warlords in West Russia, and many see Onega as a Finnish puppet. Now, the Guard is under attack by a warlord seeking to unite the West Russian region. While Onega's cause is almost certainly a lost one, sending them aid would delay the regional unification and weaken whichever Russian state emerges victorious from this war."
 
-GER_Espionage_sabotage_RWS_unification_talks:0 "§TUnternehmen Vertrauen§! - §YRussia§!"
+GER_Espionage_sabotage_RWS_unification_talks:0 "§BUnternehmen Vertrauen§! - §YRussia§!"
 GER_Espionage_sabotage_RWS_unification_talks_desc:0 "Unfortunately, the Bürgerkrieg drove our necessary attention from the affairs of warlord Russia, where Ivans used their time to eliminate their warlord competitors and organize themselves into several powerful states, threatening to unite and unleash their hordes against the Vaterland once again.\n\nAs long as we still entertain our influence in Siberia, we must prevent the Russian states from peaceful unification. Through sabotaging their negotiations, sowing distrust between them and turning warlords against each other, we can ensure that even if Russia reunites again, it will be torn apart by its internal struggles."
 
-GER_Espionage_sabotage_SIB_unification_talks:0 "§TUnternehmen Vertrauen§! - §YSiberia§!"
+GER_Espionage_sabotage_SIB_unification_talks:0 "§BUnternehmen Vertrauen§! - §YSiberia§!"
 GER_Espionage_sabotage_SIB_unification_talks_desc:0 "Unfortunately, the Bürgerkrieg drove our necessary attention from the affairs of warlord Russia, where Ivans used their time to eliminate their warlord competitors and organize themselves into several powerful states, threatening to unite and unleash their hordes against the Vaterland once again.\n\nAs long as we still entertain our influence in Siberia, we must prevent the Russian states from peaceful unification. Through sabotaging their negotiations, sowing distrust between them and turning warlords against each other, we can ensure that even if Russia reunites again, it will be torn apart by its internal struggles."
 
-GER_Espionage_sabotage_RUS_unification_talks:0 "§TUnternehmen Vertrauen§!"
+GER_Espionage_sabotage_RUS_unification_talks:0 "§BUnternehmen Vertrauen§!"
 GER_Espionage_sabotage_RUS_unification_talks_desc:0 "Unfortunately, the Bürgerkrieg drove our necessary attention from the affairs of warlord Russia, where Ivans used their time to eliminate their warlord competitors and organize themselves into several powerful states, threatening to unite and unleash their hordes against the Vaterland once again.\n\nAs long as we still entertain our influence in Siberia, we must prevent the Russian states from peaceful unification. Through sabotaging their negotiations, sowing distrust between them and turning warlords against each other, we can ensure that even if Russia reunites again, it will be torn apart by its internal struggles."
 
 GER_Espionage_aid_batovs_insurgency:0 "§QUnternehmen Kreuzritter§!"
@@ -89,13 +89,13 @@ GER_Espionage_disrupt_ofn_unity_canada_desc:0 "The Organization of Free Nations,
 GER_Espionage_disrupt_ofn_unity_australia:0 "§GUnternehmen Nervenkitzel§!"
 GER_Espionage_disrupt_ofn_unity_australia_desc:0 "Australia and America are allies of convenience, and nothing more. If Australia had not been connected to Britain, it is unlikely America would have given them a second thought. To further the divide between the member states of the OFN, we need only remind Australia of this. To further add insult to injury, we could forge documents showing that America views Australia as a viable concession to the Japanese, were it to come to that. The truth of this is, of course, debatable, but we would certainly not put it past them."
 
-GER_Espionage_sabotage_mandate_congo:0 "§TUnternehmen Schlange§! - §YCongo§!"
+GER_Espionage_sabotage_mandate_congo:0 "§BUnternehmen Schlange§! - §YCongo§!"
 GER_Espionage_sabotage_mandate_congo_desc:0 "Send agents into the Congo to supply German forces still left behind. These veterans will then cause further chaos in the mandate by fighting American troops and killing natives, causing yet more problems for the Americans to deal with."
 
-GER_Espionage_sabotage_mandate_angola:0 "§TUnternehmen Schlange§! - §YAngola§!"
+GER_Espionage_sabotage_mandate_angola:0 "§BUnternehmen Schlange§! - §YAngola§!"
 GER_Espionage_sabotage_mandate_angola_desc:0 "Send agents into Angola to supply German forces still left behind. These veterans will then cause further chaos in the mandate by fighting American troops and killing natives, causing yet more problems for the Americans to deal with."
 
-GER_Espionage_sabotage_mandate_east:0 "§TUnternehmen Schlange§! - §YEast Africa§!"
+GER_Espionage_sabotage_mandate_east:0 "§BUnternehmen Schlange§! - §YEast Africa§!"
 GER_Espionage_sabotage_mandate_east_desc:0 "The inefficient Hüttig administration left a great mess in Ostafrika, but thankfully, we are not the ones dealing with this mess. Driving the forces of the late Reichskommissar out of our former domain, the Americans inherited the administrative failures of Hüttig and got themselves involved in an endless war against the savage hordes of the dark continent.\n\nAs the OFN generals have little means to enforce their rule over the African mongrels, it won't be difficult to destabilize the region further and make them regret bringing their youth to those hopeless lands."
 
 GER_Espionage_aid_the_aas:0 "§OUnternehmen Kondor§!"
@@ -161,12 +161,12 @@ SGR_RND_survey_us_propaganda_desc:0 "Keen eyes from the RND have spotted somethi
 SGR_RND_infiltrate_us_banking:0 "§MUnternehmen Nadelöhr§!"
 SGR_RND_infiltrate_us_banking_desc:0 "It's been confirmed. The Black State of Europe has spread its nasty tendrils to the U.S.A. That advertisement agency in Madison Square Park was merely the beginning. Those Burgundian agents seemed to have gotten their funding somewhere from within the U.S. financial sector. To prevent them from doing anything further, the RND will immediately begin a deeper and more thorough investigation."
 SGR_RND_usa_foothold_tt:0 "§WWe have §Gestablished§! a foothold in §MAmerica§!.§!"
-SGR_RND_aiding_vyatka:0 "§TUnternehmen Königsmacher§!"
+SGR_RND_aiding_vyatka:0 "§BUnternehmen Königsmacher§!"
 SGR_RND_aiding_vyatka_desc:0 "Reinhard Gehlen pulls strings in many places, but there is one place that has been left untouched, collecting dust - Russia - and there, he knows a certain man. Within the warlord states lives someone named Boris Smyslovsky; an old friend of Gehlen's, and an Untermensch to the Reich. It doesn't matter to him, however. He serves Vyatka, which is a regime that could be potentially friendly to us, so we will covertly send him aid in order to strengthen their chances of victory. As well as to help a time-tested ally of his."
 
-SGR_RND_unternehmen_rotbart_russia:0 "§TUnternehmen Rotbart§! - §YRussia§!"
+SGR_RND_unternehmen_rotbart_russia:0 "§BUnternehmen Rotbart§! - §YRussia§!"
 SGR_RND_unternehmen_rotbart_russia_desc:0 "The worst is beginning to come in Russia. Intelligence reports speak of growing warlord forces that would likely be deeply uncooperative with us or burning with a desire to tear the Reich into pieces. This is not good. The RND will muster up its more elite agents and send them into the wild east that is the Russian territories to uncover what is going on."
-SGR_RND_unternehmen_rotbart_siberia:0 "§TUnternehmen Rotbart§! - §YSiberia§!"
+SGR_RND_unternehmen_rotbart_siberia:0 "§BUnternehmen Rotbart§! - §YSiberia§!"
 SGR_RND_unternehmen_rotbart_siberia_desc:0 "The worst is beginning to come in Siberia. Intelligence reports speak of growing warlord forces that would likely be deeply uncooperative with us or burning with a desire to tear the Reich into pieces. This is not good. The RND will muster up its more elite agents and send them into the wild east that is the Russian territories to uncover what is going on."
 SGR_RND_dangerous_russia_tt:0 "§xA dangerous Russian state has emerged.§!"
 
@@ -176,7 +176,7 @@ SGR_RND_infiltrating_burgundy_cost:0 "§Y30%§!£GFX_expertise, §Y75M§!£GFX_d
 SGR_RND_infiltrating_burgundy_cost_blocked:0 "§R30%§!£GFX_expertise, §R75M§!£GFX_dollar_sign"
 
 ## Paraguay ##
-SGR_RND_assist_paraguay_bush_war_gov:0 "§TUnternehmen Würgegriff§!"
+SGR_RND_assist_paraguay_bush_war_gov:0 "§BUnternehmen Würgegriff§!"
 SGR_RND_assist_paraguay_bush_war_gov_desc:0 "The Paraguayan government is under attack by an armed movement called FULNA. While the movement itself is under equipped and weaker compared to the Paraguayan army, the Villasboa government is surrounded by American friendly nations, and we have reasons to believe that FULNA itself is a front for American interests. We will send equipment and agents to help Paraguay counter the insurgency and repel liberal propaganda."
 
 SGR_RND_assist_paraguay_bush_war_fdg:0 "§sUnternehmen Kanonier§!"
@@ -269,7 +269,7 @@ GER_Espionage_IBR_franco_influence:0 "\n§YFranco's§! influence will increase."
 GER_Espionage_IBR_war_exhaustion:0 "§wWar Exhaustion§! will §Rincrease by 5%§!."
 GER_Espionage_BFI_increase_ital_independence:0 "§RItaly will drift towards independence.§!"
 
-SGR_RND_mission_success_increase_tt:0 "This will increase our §TMission Success Chance§!."
+SGR_RND_mission_success_increase_tt:0 "This will increase our §BMission Success Chance§!."
 
 GER_Espionage_omsk_insurgency_increase:0 "§eBatov§! gains §R1§! base to construct."
 
@@ -312,7 +312,7 @@ GER_Espionage.4.desc:0 "The Germans have sabotaged our infrastructure. Late last
 GER_Espionage.4.a:0 "We'll be more careful next time."
 
 GER_Espionage.5.t:0 "Report from Samara"
-GER_Espionage.5.desc:0 "TOP SECRET\nEYES ONLY\nTO ALL MEMBERS OF THE [getIntelAgencyCaps]\nUNTERNEHMEN GELD\n\nWEST RUSIA - SAMARA\n\n[getIntelAgencyShort] agents have made contact with Mikhail Oktan, leader of the Russian Liberation Army and ruler of West Russia. The warlord has agreed to our aid, citing common cause in the fight against international Bolshevism. Oktan has declared himself as a long-standing friend and admirer of the Reich, which we can confirm due to his work as a bureaucrat in Oryol, under Moskowien.\n\nOur agents have noted that Oktan's administration is highly corrupt, and their troops are mostly unprofessional and poorly trained. Of course, this is to our advantage, as we desire a weaker neighbor in Russia. Shipments of arms, munitions, and money will soon commence, though we expect some will not find their destination. Nevertheless, the ROA will be better equipped in its struggle against bandits and communists, and the Reich's borders will remain secure.\n\nMAY GERMANY BE IN SAFE HANDS."
+GER_Espionage.5.desc:0 "TOP SECRET\nEYES ONLY\nTO ALL MEMBERS OF THE [getIntelAgencyCaps]\nUNTERNEHMEN GELD\n\nWEST RUSSIA - SAMARA\n\n[getIntelAgencyShort] agents have made contact with Mikhail Oktan, leader of the Russian Liberation Army and ruler of West Russia. The warlord has agreed to our aid, citing common cause in the fight against international Bolshevism. Oktan has declared himself as a long-standing friend and admirer of the Reich, which we can confirm due to his work as a bureaucrat in Oryol, under Moskowien.\n\nOur agents have noted that Oktan's administration is highly corrupt, and their troops are mostly unprofessional and poorly trained. Of course, this is to our advantage, as we desire a weaker neighbor in Russia. Shipments of arms, munitions, and money will soon commence, though we expect some will not find their destination. Nevertheless, the ROA will be better equipped in its struggle against bandits and communists, and the Reich's borders will remain secure.\n\nMAY GERMANY BE IN SAFE HANDS."
 GER_Espionage.5.a:0 "Oktan will receive his money..."
 
 GER_Espionage.6.t:0 "Our Friends to the West"
@@ -356,7 +356,7 @@ GER_Espionage.15.desc:0 "An older white man stands alone in a field, beside a bl
 GER_Espionage.15.a:0 "Who paid for such a horrible advertisement?"
 
 GER_Espionage.16.t:0 "Discrediting the Bolsheviks"
-GER_Espionage.16.desc:0 "TOP SECRET\nEYES ONLY\nTO ALL MEMBERS OF THE [getIntelAgencyCaps]\nUNTERNEHMEN ZIMMER\n\nTHE UNITED STATES OF AMERICA - NEW YORK CITY, NEW YORK\n\nDespite the detestable liberalism of the United States, they have but one factor in their favor: They have not fallen to the forces of Bolshevism. The Far Left faction of the National Progressive Pact, led by Gus Hall, desires to change that. This is something that naturally we cannot allow to occur. No matter how much we detest the Jewish puppets of America, Bolshevism would shed the last veneer of non-Jewry the country has.\n\nAs a result, our operatives have taken it upon themselves to show the hypocrisy of the American Left. We have thus released records "proving" that several L-NPP officials have been using their campaign funds for personal use, and are in fact quite wealthy themselves. Accusations of tax evasion and hoarding of wealth will surely turn their supporters off.\n\nWe expect most of the former L-NPP voters will change to the center. Social Democracy is nonetheless a disgusting ideology, but one with a slightly more palatable taste to the people of the Reich. After all, is it not worth promoting a pension or two to keep class struggle from embroiling America?\n\nMAY GERMANY BE IN SAFE HANDS."
+GER_Espionage.16.desc:0 "TOP SECRET\nEYES ONLY\nTO ALL MEMBERS OF THE [getIntelAgencyCaps]\nUNTERNEHMEN ZIMMER\n\nTHE UNITED STATES OF AMERICA - NEW YORK CITY, NEW YORK\n\nDespite the detestable liberalism of the United States, they have but one factor in their favor: They have not fallen to the forces of Bolshevism. The Far Left faction of the National Progressive Pact, led by Gus Hall, desires to change that. This is something that naturally we cannot allow to occur. No matter how much we detest the Jewish puppets of America, Bolshevism would shed the last veneer of non-Jewry the country has.\n\nAs a result, our operatives have taken it upon themselves to show the hypocrisy of the American Left. We have thus released records "proving" that several NPP-M officials have been using their campaign funds for personal use, and are in fact quite wealthy themselves. Accusations of tax evasion and hoarding of wealth will surely turn their supporters off.\n\nWe expect most of the former NPP-M voters will change to the center. Social Democracy is nonetheless a disgusting ideology, but one with a slightly more palatable taste to the people of the Reich. After all, is it not worth promoting a pension or two to keep class struggle from embroiling America?\n\nMAY GERMANY BE IN SAFE HANDS."
 GER_Espionage.16.a:0 "I hope Yockey wins."
 
 GER_Espionage.17.t:0 "The Moderation of the Left"

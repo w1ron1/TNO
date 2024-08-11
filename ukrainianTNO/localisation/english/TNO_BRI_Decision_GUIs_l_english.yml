@@ -12,40 +12,41 @@
 #              Party of Contrasts               #
 #################################################
  BRI_Party_of_Contrasts_category:0 "§FA Party of Contrasts§!"
- TNO_BRI_Party_Activate_tt:0 "\n§F£GFX_BRI_pragmatists §tPragmatists§! and £GFX_BRI_ideologues §UIdeologues§! now fight openly for Britain's future.\n\nThe §UParty§! §Wof§! §tContrasts§! decision category is now enabled in the £decision_icon_small §Ydecision tab.§!§!\n"
- TNO_BRI_Party_GUI_Active:0 "The §UParty§! §Wof§! §tContrasts§! decision category is active"
+ BRI_Party_MainImage_tt:0 "The British People's Party's existence as the sole legal political party has forced it into becoming a crowded house of different voices, each desperately trying to push the party to its ideals. These voices come in two sounds usually. One belongs to the Pragmatists, a mixture of genuine democrats, technocrats, and those of a vaguely reformist tendency. The other belongs to the Ideologues, diehard fascists who wish to undo the half-measures and turn Britain into a beacon of the New Order like Germany or Italy. Grouped among the second bunch include the Old Guard, the new establishment politicians primarily loyal to the beliefs of Domville and Chesterton, alongside those of a more abstruse variety.\n\nThese groups fight for influence over four separate sections of power: the Peers, the German Corporations, the German Garrison, and the Party as a whole. Using the methods privy to them, they attempt to influence each of these sections to their side, hopeful for their support in securing control over the BPP. Of course, support is never to be taken for granted, as influence slips from week to week. And if influence is divided between these two factions, the only victor is chaos, whose progress can only be undone to certain degrees. Chaos is in the interest of no one, bar one. If it wins, everyone else loses."
+ TNO_BRI_Party_Activate_tt:0 "\n§F£GFX_BRI_pragmatists §sPragmatists§! and £GFX_BRI_ideologues §UIdeologues§! now fight openly for Britain's future.\n\nThe §UParty§! §Wof§! §sContrasts§! decision category is now enabled in the £decision_icon_small §Ydecision tab.§!§!\n"
+ TNO_BRI_Party_GUI_Active:0 "The §UParty§! §Wof§! §sContrasts§! decision category is active"
 
  BRI_Chaos_dynamic_modifier:0 "§RChaos £GFX_discontent_texticon §! effects"
 
  #|=====[ GUI Tooltips ]=====|#
  ### Leader Descs ###
- TNO_BRI_Party_Butler_tt:0 "§F£GFX_BRI_pragmatists §tThe Pragmatists§! - Rab Butler§!"
- TNO_BRI_Party_Butler_tt_delayed:0 "Throughout the History of Britannia, the United Kingdom has seen many traitors, from Anthony Babington to Guy Fawkes to Carl Hans Lody and, the newest and perhaps foulest of them all, his Majesty's loyal Chancellor of the Exchequer, Rab Butler. Born in Colonial India to an Imperial administrator, Richard Austen 'Rab' Butler attended Marlborough college, eventually dropping out to tutor kids in Britain and France. Following this, he went back to Cambridge, studying there for four years, taking a fellowship before resigning to run for parliament.\n\nElected to Parliament in 1929, Butler would be a key supporter of appeasement, going further than most in even arguing for an alliance with Germany in 39, going as far as advocating Britain back off its alliance with Poland; despite this, he would remain a key part of the wartime government. Yet, with Germany's conquest of the Isles in WW2, unlike many of his fellows, he chose to do the unthinkable, collaborate with the Teutons. As Chancellor, Butler has charted a §tpragmatic§! course of economic recovery, helping Britain to recover from the devastation of the blitz and Sealion.\n\nNow, he is the head of the §tpragmatists§! of the BPP, the greatest opponent to BUF's successor, the §Uideologues§! of the BPP. Many in the BPP are mistrustful of Butler, seeing his involvement in the wartime government as a showcase of his lack of loyalty to the new Britain, with the §UIdeologues§! in particular seeing him as nothing more than a political snake. Yet Butler remains, his support critical for any prime minister, his support from moderate collaborators unwavering and perhaps the last remnant of the old, free Britain.\n\nThe £GFX_BRI_pragmatists §tPragmatists§! currently hold [BRI_Party_GetPragmatistInfluence] influence."
+ TNO_BRI_Party_Butler_tt:0 "§F£GFX_BRI_pragmatists §sThe Pragmatists§! - Rab Butler§!"
+ TNO_BRI_Party_Butler_tt_delayed:0 "Throughout the History of Britannia, the United Kingdom has seen many traitors, from Anthony Babington to Guy Fawkes to Carl Hans Lody and, the newest and perhaps foulest of them all, his Majesty's loyal Chancellor of the Exchequer, Rab Butler. Born in Colonial India to an Imperial administrator, Richard Austen 'Rab' Butler attended Marlborough college, eventually dropping out to tutor kids in Britain and France. Following this, he went back to Cambridge, studying there for four years, taking a fellowship before resigning to run for parliament.\n\nElected to Parliament in 1929, Butler would be a key supporter of appeasement, going further than most in even arguing for an alliance with Germany in 39, going as far as advocating Britain back off its alliance with Poland; despite this, he would remain a key part of the wartime government. Yet, with Germany's conquest of the Isles in WW2, unlike many of his fellows, he chose to do the unthinkable, collaborate with the Teutons. As Chancellor, Butler has charted a §spragmatic§! course of economic recovery, helping Britain to recover from the devastation of the blitz and Sealion.\n\nNow, he is the head of the §spragmatists§! of the BPP, the greatest opponent to BUF's successor, the §Uideologues§! of the BPP. Many in the BPP are mistrustful of Butler, seeing his involvement in the wartime government as a showcase of his lack of loyalty to the new Britain, with the §UIdeologues§! in particular seeing him as nothing more than a political snake. Yet Butler remains, his support critical for any prime minister, his support from moderate collaborators unwavering and perhaps the last remnant of the old, free Britain.\n\nThe £GFX_BRI_pragmatists §sPragmatists§! currently hold [BRI_Party_GetPragmatistInfluence] influence."
 
  TNO_BRI_Party_Fountaine_tt:0 "§F£GFX_BRI_ideologues §UThe Ideologues§! - Andrew Fountaine§!"
- TNO_BRI_Party_Fountaine_tt_delayed:0 "Upon the ashes of a shattered, broken Britain, the British fascist movement has reawakened, given new life from the death of the old order and with the rise of Andrew Fountaine, it has found a leader to guide them. Born at the close of the great war in Norfolk, he grew up in his Family's ancestral home, Narfold Hall, his Father was Vice Admiral Charles Fountaine, who had been Naval ADC to George V. He was educated at the Army College in Aldershot, going to Cambridge University studying natural sciences.\n\nFighting first for Franco's Nationalists, he would go onto enlist in the Navy in WW2, fighting admirably in the Pacific, returning home to a New Britain. From there, he rapidly rose through the ranks in the BPP with his unrepentant support for Fascism. He would eventually act as the face of the Fascist §UIdeologues§!, becoming the biggest opponent of Butler and the §tPragmatists§!, while earning, unlike so many of his fascist contemporaries, the distinct trust of the House of Lords, leading him to the role of Home Secretary. Now as one of the most powerful men in Britain and the right hand man of Domvile, Fountaine finally has the opportunity to implement the fascist social and cultural policies he saw in action 30 years ago, and to make Britain strong again.\n\nThe £GFX_BRI_ideologues §UIdeologues§! currently hold [?BRI_Party_InfluenceTotal|W1%%] influence."
+ TNO_BRI_Party_Fountaine_tt_delayed:0 "Upon the ashes of a shattered, broken Britain, the British fascist movement has reawakened, given new life from the death of the old order and with the rise of Andrew Fountaine, it has found a leader to guide them. Born at the close of the great war in Norfolk, he grew up in his Family's ancestral home, Narfold Hall, his Father was Vice Admiral Charles Fountaine, who had been Naval ADC to George V. He was educated at the Army College in Aldershot, going to Cambridge University studying natural sciences.\n\nFighting first for Franco's Nationalists, he would go onto enlist in the Navy in WW2, fighting admirably in the Pacific, returning home to a New Britain. From there, he rapidly rose through the ranks in the BPP with his unrepentant support for Fascism. He would eventually act as the face of the Fascist §UIdeologues§!, becoming the biggest opponent of Butler and the §sPragmatists§!, while earning, unlike so many of his fascist contemporaries, the distinct trust of the House of Lords, leading him to the role of Home Secretary. Now as one of the most powerful men in Britain and the right hand man of Domvile, Fountaine finally has the opportunity to implement the fascist social and cultural policies he saw in action 30 years ago, and to make Britain strong again.\n\nThe £GFX_BRI_ideologues §UIdeologues§! currently hold [?BRI_Party_InfluenceTotal|W1%%] influence."
 
  ### Group Descs ###
  ENG_POC_CurrentSelection:0 "§WCurrently Selected:§! [BRI_Party_GetCurrentSelection]"
 
  # Peers
  TNO_BRI_Party_Peers_name_tt:0 "£GFX_TFL_ENG_Peers §sPeers§!"
- TNO_BRI_Party_Peers_tt:0 "§F£GFX_TFL_ENG_Peers §sPeers§!\n--------------\n£GFX_BRI_pragmatists §tPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^0|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^0|W1%%]\n--------------\nAt the £GFX_TFL_ENG_Peers §sPeers§! and the German's request, the government reversed reforms made to the House of Lords that curbed their powers. Once again both Houses of Westminister are equal and the £GFX_TFL_ENG_Peers §sPeers§! once again stand as an important pillar for British governance - it is wise for any ambitious leader to carry their support by any means necessary.§!"
+ TNO_BRI_Party_Peers_tt:0 "§F£GFX_TFL_ENG_Peers §sPeers§!\n--------------\n£GFX_BRI_pragmatists §sPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^0|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^0|W1%%]\n--------------\nAt the £GFX_TFL_ENG_Peers §sPeers§! and the German's request, the government reversed reforms made to the House of Lords that curbed their powers. Once again both Houses of Westminister are equal and the £GFX_TFL_ENG_Peers §sPeers§! once again stand as an important pillar for British governance - it is wise for any ambitious leader to carry their support by any means necessary.§!"
  TNO_BRI_Party_Peers_tt_delayed:0 "§WClick§! to select the £GFX_TFL_ENG_Peers §sPeers§! for interaction."
 
  # German Garrison
  TNO_BRI_Party_Garrison_name_tt:0 "£GFX_TFL_ENG_German_Garrison §rGerman Garrison§!"
- TNO_BRI_Party_Garrison_tt:0 "§F£GFX_TFL_ENG_German_Garrison §rGerman Garrison§!\n--------------\n£GFX_BRI_pragmatists §tPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^1|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^1|W1%%]\n--------------\nUnder the command of Rudolf Wulf, the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§! guards Britain against those who'd dare challenge the new order - it would do any Prime Minister well to maintain a positive relationship with the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§! lest there be consequences...§!"
+ TNO_BRI_Party_Garrison_tt:0 "§F£GFX_TFL_ENG_German_Garrison §rGerman Garrison§!\n--------------\n£GFX_BRI_pragmatists §sPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^1|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^1|W1%%]\n--------------\nUnder the command of Rudolf Wulf, the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§! guards Britain against those who'd dare challenge the new order - it would do any Prime Minister well to maintain a positive relationship with the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§! lest there be consequences...§!"
  TNO_BRI_Party_Garrison_tt_delayed:0 "§WClick§! to select the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§! for interaction."
 
  # German Corporations
  TNO_BRI_Party_Corporations_name_tt:0 "£GFX_TFL_ENG_German_Corporations §IGerman Corporations§!"
- TNO_BRI_Party_Corporations_tt:0 "§F£GFX_TFL_ENG_German_Corporations §IGerman Corporations§!\n--------------\n£GFX_BRI_pragmatists §tPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^2|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^2|W1%%]\n--------------\nThe end of war saw Britain graciously assisted by the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!, who now dominate our economy - while they cannot be challenged at the moment, it would do one well if they kept at the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§! good side.§!"
+ TNO_BRI_Party_Corporations_tt:0 "§F£GFX_TFL_ENG_German_Corporations §IGerman Corporations§!\n--------------\n£GFX_BRI_pragmatists §sPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^2|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^2|W1%%]\n--------------\nThe end of war saw Britain graciously assisted by the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!, who now dominate our economy - while they cannot be challenged at the moment, it would do one well if they kept at the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§! good side.§!"
  TNO_BRI_Party_Corporations_tt_delayed:0 "§WClick§! to select the §F£GFX_TFL_ENG_German_Corporations §IGerman Corporations§! for interaction."
 
  # Party
  TNO_BRI_Party_Party_name_tt:0 "£GFX_TFL_ENG_BPP_Party §gParty§!"
- TNO_BRI_Party_Party_tt:0 "§F£GFX_TFL_ENG_BPP_Party §gParty§!\n--------------\n£GFX_BRI_pragmatists §tPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^3|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^3|W1%%]\n--------------\nSince its formation, the £GFX_TFL_ENG_BPP_Party §gParty§! has always had a brewing battle between the ideological elements and the pragmatists. Some have already chosen their side, but the £GFX_TFL_ENG_BPP_Party §gParty's§! rank and file will simply follow the better man to lead them, whomever proves themselves as that.§!"
+ TNO_BRI_Party_Party_tt:0 "§F£GFX_TFL_ENG_BPP_Party §gParty§!\n--------------\n£GFX_BRI_pragmatists §sPragmatists§!: [?BRI_Party_CategoryInfluenceAlt^3|W1%%]\n[BRI_Party_GetFascistName]: [?BRI_Party_CategoryInfluence^3|W1%%]\n--------------\nSince its formation, the £GFX_TFL_ENG_BPP_Party §gParty§! has always had a brewing battle between the ideological elements and the pragmatists. Some have already chosen their side, but the £GFX_TFL_ENG_BPP_Party §gParty's§! rank and file will simply follow the better man to lead them, whomever proves themselves as that.§!"
  TNO_BRI_Party_Party_tt_delayed:0 "§WClick§! to select the £GFX_TFL_ENG_BPP_Party §gParty§! for interaction."
 
  ### Status ###
@@ -53,8 +54,8 @@
  BRI_Party_Status_None_tt:0 "Currently, §Vno faction§! is set to control the party."
  BRI_Party_Status_Ideologues_tt:0 "Currently, £GFX_BRI_ideologues §UThe Ideologues§! are set to control the party."
  BRI_Party_Status_Old_Guard_tt: "Currently, £GFX_BRI_ideologues §UThe Old Guard§! is set to control the party."
- BRI_Party_Status_Pragmatists_tt:0 "Currently, £GFX_BRI_pragmatists §tThe Pragmatists§! are set to control the party."
- BRI_Party_Status_tt:0 "§FThe overall split in the party is:\n--------------\n£GFX_BRI_pragmatists §tPragmatists§! Influence: [BRI_Party_GetPragmatistInfluence]\n[BRI_Party_GetFascistName] Influence: [?BRI_Party_InfluenceTotal|W1%%]§!"
+ BRI_Party_Status_Pragmatists_tt:0 "Currently, £GFX_BRI_pragmatists §sThe Pragmatists§! are set to control the party."
+ BRI_Party_Status_tt:0 "§FThe overall split in the party is:\n--------------\n£GFX_BRI_pragmatists §sPragmatists§! Influence: [BRI_Party_GetPragmatistInfluence]\n[BRI_Party_GetFascistName] Influence: [?BRI_Party_InfluenceTotal|W1%%]§!"
 
  #|=====[ Chaos Bar ]=====|#
  BRI_Party_ChaosBar_Title_tt:0 "§RChaos £GFX_discontent_texticon §! - §W[?BRI_Chaos|3]%§!"
@@ -69,7 +70,7 @@
  BRI_ChaosThreshold_1:0 "§FAtop §nAvalon§!, A Lone Man Regards This House With Envious Eyes§!"
  BRI_ChaosThreshold_2:0 "§F§RFear§! and §RLoathing§! Clouds Our Every Move§!"
  BRI_ChaosThreshold_3:0 "§FAnd So Falls the §OGolden Child§!, His Ashes Thrown into the Fires of a §RNew Tomorrow§!§!"
- BRI_ChaosThreshold_4:0 "§FThe Machine §RFalters§!, its Visage §kWaxen§! and §nDecaying§!§!"
+ BRI_ChaosThreshold_4:0 "§FThe Machine §RFalters§!, its Visage §LWaxen§! and §nDecaying§!§!"
  BRI_ChaosThreshold_5:0 "§FThere will be §INo Going Back§!§!"
 
  BRI_ChaosCap_60_tt:0 "§WWhatever's above will not let £GFX_discontent_texticon §RChaos§! go further than this. For now, at least.§!"
@@ -78,47 +79,47 @@
  #|=====[ Effect Tooltips ]=====|#
  # Peers
  #regular
- BRI_Party_PeersEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
+ BRI_Party_PeersEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
  BRI_Party_PeersEffect_Ideologues_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
  #med
- BRI_Party_PeersEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
+ BRI_Party_PeersEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
  BRI_Party_PeersEffect_Ideologues_Med_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
  #large
- BRI_Party_PeersEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
+ BRI_Party_PeersEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
  BRI_Party_PeersEffect_Ideologues_Large_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_Peers §sPeers§!.\n"
 
  # German Garrison
  #regular
- BRI_Party_GarrisonEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
+ BRI_Party_GarrisonEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
  BRI_Party_GarrisonEffect_Ideologues_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
  #med
- BRI_Party_GarrisonEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
+ BRI_Party_GarrisonEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
  BRI_Party_GarrisonEffect_Ideologues_Med_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
  #large
- BRI_Party_GarrisonEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
+ BRI_Party_GarrisonEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
  BRI_Party_GarrisonEffect_Ideologues_Large_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_German_Garrison §rGerman Garrison§!.\n"
 
  # German Corporations
  #regular
- BRI_Party_CorporationsEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
+ BRI_Party_CorporationsEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
  BRI_Party_CorporationsEffect_Ideologues_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
  #med
- BRI_Party_CorporationsEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
+ BRI_Party_CorporationsEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
  BRI_Party_CorporationsEffect_Ideologues_Med_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
  #large
- BRI_Party_CorporationsEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
+ BRI_Party_CorporationsEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
  BRI_Party_CorporationsEffect_Ideologues_Large_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_German_Corporations §IGerman Corporations§!.\n"
 
 
  # Party
  #regular
- BRI_Party_PartyEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
+ BRI_Party_PartyEffect_Pragmatists_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
  BRI_Party_PartyEffect_Ideologues_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?2.5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
  #med
- BRI_Party_PartyEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
+ BRI_Party_PartyEffect_Pragmatists_Med_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
  BRI_Party_PartyEffect_Ideologues_Med_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
  #large
- BRI_Party_PartyEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §tPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
+ BRI_Party_PartyEffect_Pragmatists_Large_tt:0 "The £GFX_BRI_pragmatists §sPragmatists§! will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
  BRI_Party_PartyEffect_Ideologues_Large_tt:0 "The [BRI_Party_GetFascistName] will gain [?Influence?7.5|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§!.\n"
  
  #|=====[ Decision Loc ]=====|#
@@ -152,47 +153,48 @@
  # German Garrison
  ENG_Meet_With_The_BFC:0 "§UMeet With the §rBritish Free Corps§!§!"
  ENG_Meet_With_The_Garrison_Command:0 "§UMeet with the §oGarrison Command§!§!"
- ENG_Dine_With_The_Plenipotentiary:0 "§tDine With the Plenipotentiary§!"
+ ENG_Dine_With_The_Plenipotentiary:0 "§sDine With the Plenipotentiary§!"
  ENG_Ideo_Garrison_Large_Boost:0 "§UWeed Out The §RIrresolute§!§!"
- ENG_Prag_Garrison_Large_Boost:0 "§tOpen Leisure Centers for §rGerman§! Troops§!"
+ ENG_Prag_Garrison_Large_Boost:0 "§sOpen Leisure Centers for §rGerman§! Troops§!"
  ENG_Support_The_BFC:0 "§USupport the §rBFC§!§!"
  ENG_Support_The_British_Army:0 "§USupport the British Army§!"
- ENG_Prag_Garrison_Med_Boost:0 "§tReopen Training Grounds§!"
+ ENG_Prag_Garrison_Med_Boost:0 "§sReopen Training Grounds§!"
  
  # German Corpos
  ENG_cut_back_contracts:0 "§UCut Back Contracts§!"
- ENG_open_pipeline:0 "§tOpen a Pipeline§!"
+ ENG_open_pipeline:0 "§sOpen a Pipeline§!"
  ENG_Push_back:0 "§UPush Back Against the £GFX_BRI_corpo_texticon §qCorporations§!§!"
- ENG_Meet_With_the_Megacorps:0 "§tMeet with the £GFX_BRI_corpo_texticon §qCorporations§!§!"
+ ENG_Meet_With_the_Megacorps:0 "§sMeet with the £GFX_BRI_corpo_texticon §qCorporations§!§!"
  ENG_Ideo_Corporations_Large_Boost: "§UNullify Investments§!"
- ENG_Prag_Corporations_Large_Boost: "§tConcessions in Urban Areas§!"
+ ENG_Prag_Corporations_Large_Boost: "§sConcessions in Urban Areas§!"
 
  # Party
- ENG_Meet_With_Research_Department:0 "§tMeet with the £GFX_science_icon Research Department§!"
+ ENG_Meet_With_Research_Department:0 "§sMeet with the £GFX_science_icon Research Department§!"
  ENG_Hold_A_Speech:0 "§UHold a Speech§!"
- ENG_educate:0 "§tEducate the £GFX_BRI_pragmatists Party§!"
+ ENG_educate:0 "§sEducate the £GFX_BRI_pragmatists Party§!"
  ENG_indoctrinate:0 "§UIndoctrinate the £GFX_BRI_ideologues Party§!"
  ENG_Ideo_Party_Large_Boost:0 "§UEncourage Blackshirt MPs§!"
  ENG_Ideo_Party_Large_Boost_OldGuard:0 "§UEncourage Wavering Ideologues§!"
- ENG_Prag_Party_Large_Boost:0 "§tEase the Whips§!"
+ ENG_Prag_Party_Large_Boost:0 "§sEase the Whips§!"
  
  # Peers
  ENG_Ideo_Peers_Large_Boost:0 "§USideline Independent Lords§!"
- ENG_Prag_Peers_Large_Boost:0 "§tFunding Home "Improvements"§!"
+ ENG_Prag_Peers_Large_Boost:0 "§sFunding Home "Improvements"§!"
  ENG_Ideo_Peers_Med_Boost:0 "§UMeet with §rSpearhead§! Peers§!"
  ENG_Ideo_Peers_Med_Boost_OldGuard:0 "§UMeet with §jRevivalist§! Peers§!"
- ENG_Prag_Peers_Med_Boost:0 "§tCorrall the §RCrossbench§!§!"
+ ENG_Prag_Peers_Med_Boost:0 "§sCorrall the §RCrossbench§!§!"
  ENG_Ideo_Peers_Small_Boost:0 "§UProvide Estate Security Patrols§!"
- ENG_Prag_Peers_Small_Boost:0 "§tTax Breaks on Stamp Duties§!"
+ ENG_Prag_Peers_Small_Boost:0 "§sTax Breaks on Stamp Duties§!"
 
  # weekly ticks
- ENG_weekly_influence_tick:0 "   Weekly Influence Change"
+ ENG_weekly_influence_tick:0 "  The Contrasts Sharpen..."
  BRI_Party_Party_tick_tt: "The [getdominantbripartyparty] will gain [?Influence?0.1|+=1%%] influence over the £GFX_TFL_ENG_BPP_Party §gParty§! this week.\n"
 
  BRI_Party_Influence_tick_tt: "[BRI_Party_Get_Tick_Party]"
+ BRI_Party_Chaos_tick_tt: "\n§RChaos§! £GFX_discontent_texticon will increase by §R[?BRI_ChaosWeekly|3]§!."
  
- BRI_Ideo_Tick: "The £GFX_BRI_pragmatists §tPragmatists§! will gain §H[?Influence?BRI_Party_Tick_Var|2%%]§! influence over §Rall groups.§!" #These reference an opposite group because this gives 0.1 influence to the NONDOMINANT group 
- BRI_Party_Influence_remove_tt: "The £GFX_BRI_pragmatists §tPragmatists§! will gain §H[?Influence?BRI_Party_Tick_Var|1%%]§! influence over §Rall groups.§!"
+ BRI_Ideo_Tick: "The £GFX_BRI_pragmatists §sPragmatists§! will gain §H[?Influence?BRI_Party_Tick_Var|2%%]§! influence over §Rall groups.§!" #These reference an opposite group because this gives 0.1 influence to the NONDOMINANT group 
+ BRI_Party_Influence_remove_tt: "The £GFX_BRI_pragmatists §sPragmatists§! will gain §H[?Influence?BRI_Party_Tick_Var|1%%]§! influence over §Rall groups.§!"
  
  BRI_Prag_Tick: "The [BRI_Party_GetFascistName] will gain §H[?Influence?BRI_Party_Tick_Var|2%%]§! influence over §Rall groups.§!"
  BRI_Party_Influence_add_tt: "The [BRI_Party_GetFascistName] will gain §H[?Influence?BRI_Party_Tick_Var|1%%]§! influence over §Rall groups.§!"
@@ -205,13 +207,13 @@
  BRI_Old_Guard: "£GFX_BRI_ideologues §UOld Guard§!"
  BRI_Ideologues:0 "£GFX_BRI_ideologues §UIdeologues§!"
  BRI_Ideologue:0 "£GFX_BRI_ideologues §UIdeologue§!"
- BRI_Pragmatists:0 "£GFX_BRI_pragmatists §tPragmatists§!"
+ BRI_Pragmatists:0 "£GFX_BRI_pragmatists §sPragmatists§!"
  
  # scripted name loc without icons
  BRI_Old_Guard_Iconless: "§UOld Guard§!"
  BRI_Ideologues_Iconless:0 "§UIdeologues§!"
  BRI_Ideologue_Iconless:0 "§UIdeologue§!"
- BRI_Pragmatists_Iconless:0 "§tPragmatists§!"
+ BRI_Pragmatists_Iconless:0 "§sPragmatists§!"
  
 
  # Chaos

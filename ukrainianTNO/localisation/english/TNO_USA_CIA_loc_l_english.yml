@@ -149,7 +149,7 @@
  USA_CIA_Dummy_Decision_1:0 "§YOperation§! §PMIDNIGHT CLIMAX§!"
  
  USA_CIA_fuckery_republicans:0 "We will launch an operation to diminish the image of the £GFX_rd_r_texticon §RRepublicans.§!\n"
- USA_CIA_fuckery_democrats:0 "We will launch an operation to diminish the image of the £GFX_rd_d_texticon §TDemocrats.§!\n"
+ USA_CIA_fuckery_democrats:0 "We will launch an operation to diminish the image of the £GFX_rd_d_texticon §BDemocrats.§!\n"
  USA_CIA_fuckery_right:0 "We will launch an operation to diminish the image of the £GFX_npp_fr_texticon §gNationalists.§!\n"
  USA_CIA_fuckery_center:0 "We will launch an operation to diminish the image of the £GFX_npp_c_texticon §KProgressives.§!\n"
  USA_CIA_fuckery_yockey:0 "We will launch an operation to diminish the image of the £GFX_npp_y_texticon §jSovereigntists.§!\n"
@@ -158,7 +158,7 @@
  USA_CIA_analyze_intelligence:0 "Intelligence Analysis"
  USA_CIA_analyze_intelligence_desc:0 "Even if riddled with past failures, there's much to learn when properly analyzing our collection of intelligence reports."
  USA_CIA_slander_republicans:0 "§YOperation§! §RLNMERCY§!"
- USA_CIA_slander_democrats:0 "§YOperation§! §TLNCEILING§!"
+ USA_CIA_slander_democrats:0 "§YOperation§! §BLNCEILING§!"
  USA_CIA_slander_right:0 "§YOperation§! §gLNPOSTURE§!"
  USA_CIA_slander_center:0 "§YOperation§! §KLNMOTIF§!"
  USA_CIA_slander_yockey:0 "§YOperation§! §jLNJUNGLE§!"
@@ -304,7 +304,7 @@
 ###################
 
  USA_CIA_Support_Monarchists_SAF:0 "§YOperation§! §GJEWEL§!"
- USA_CIA_Sell_Guns_to_SAF:0 "§YOperation§! §TCONCORD§!"
+ USA_CIA_Sell_Guns_to_SAF:0 "§YOperation§! §BCONCORD§!"
  USA_CIA_support_the_monarchists_in_saf:0 "Campaign for the Monarchist Cause in South Africa"
  USA_CIA_SAF_1_tt:0 "Shoring up support for the institution in crucial states would mean keeping our Anglo friends in power.\n"
  USA_CIA_SAF_2_tt:0 "To ensure that the last light of Liberty in the Dark Continent stays alive in the face of the Nazi menace, we should equip the defense forces of the country.\n"
@@ -433,7 +433,7 @@
  USA_CIA_fuck_with_encryption_ger_af:0 "§YOperation§! §nSRFEAST§!"
  USA_CIA_fuck_with_encryption_ger_eu:0 "§YOperation§! §VRYIMPOUND§!"
  USA_CIA_fuck_with_encryption_ger_me:0 "§YOperation§! §fWSUMBRELLA§!"
- USA_CIA_fuck_with_encryption_ger_ea:0 "§YOperation§! §kSTFLING§!"
+ USA_CIA_fuck_with_encryption_ger_ea:0 "§YOperation§! §LSTFLING§!"
  USA_CIA_fuck_with_encryption_ger_sea:0 "§YOperation§! §mSGCOUNT§!"
  USA_CIA_fuck_with_encryption_ger_au:0 "§YOperation§! §JFICROWN§!"
  USA_CIA_fuck_with_encryption_ger_ru:0 "§YOperation§! §SPDCERTAIN§!"

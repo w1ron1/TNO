@@ -130,8 +130,6 @@ POLITICS_HINRICH_LOHSE_DESC:0 "If one was to take a look at all the Reichskommis
  UPO_army2:0 "Sabotaged Army"
  UPO_army3:0 "Sabotaged Army"
  OST_No_head:0 "Undetermined Army Command"
- OST_harsh_economic_integration:0 "Harsh Economic Integration"
- OST_harsh_economic_integration_desc:0 "While integrating back into the Reich was the wish of many of our politicians, it has had disastrous effects on our economy. While we knew it would not be easy considering the monthly payments would return, no one expected that the new German economy would be so enigmatic. Red tape is everywhere and promises are all temporary, it will take a while before we can recover from this mess."
  OST_increased_arms_prodution:0 "Increased Arms Production"
  OST_increased_arms_production_desc: "Under Otto-Heinrich Drechsler's request, we have temporarily switched our industrial efforts from civilian projects to arms production to satisfy the internal demand for military equipment."
  
@@ -778,135 +776,6 @@ OST.58.a:0 "Drechsler will serve us well."
 OST.58.b:0 "Jeckeln will make us strong."
 OST.58.c:0 "Neither one deserves the position!"
 
-###Göring-Stahlecker Interactions
-#Göring invites us to talk
-OST.59.t:0 "Göring Invites Us to Talk"
-OST.59.desc:0 "TO PROVISIONAL REICHSKOMMISSAR FRANZ WALTER STAHLECKER:\n\nIn the spirit of Germanic amity, the Führer wishes to extend his congratulations to you and your men for successfully subduing the recent civil unrest within Reichskommissariat Ostland. Your swift defeat of treasonous and secessionist elements who sought to destroy our most beloved colony is worthy of the highest praise.\n\nThe Führer now invites you, in that same spirit, to return our colony to its rightful place in the Greater German Reich. Ostland is an integral part of its territory, and proof of the value of Aryan brotherhood and solidarity in the face of a hostile world. Our colonial brothers yearn to be reunited with their family and we urge you to make haste, that this dream of peace might be realised.\n\nAs for yourself, the Führer recognises your excellent past conduct, your undying loyalty to National Socialism and your heroic resolve in securing Ostland for the Reich. You stayed strong and loyal, even when forced into conflict with your misguided fellow Aryans. More than anything, your worthiness to govern Reichskommissariat Ostland is unquestionable. To this end, the Führer formally offers you the post of Reichskommissar of Ostland, for life or until retirement. This is a great responsibility, but he has faith in your leadership capabilities and would sooner have you by his side than behind enemy lines.\n\nHeil Göring!"
-OST.59.a:0 "His words seem sincere. We should work with the new Führer."
-OST.59.b:0 "Göring is a tool of the militarists! He will lead us to ruin!"
-
-#The conference begins
-OST.60.t:0 "An End to Diplomacy"
-OST.60.desc:0 "TO THE OFFICE OF FRANZ WALTER STAHLECKER:\n\nYou occupy a position to which you have not been lawfully appointed. You may claim the title of Reichskommissar of Ostland, but that title is nothing without the authority granted to it by the Führer. Your garrison is a feeble shadow of the Wehrmacht and 'your people' are disunited, still riven by the scars of civil war. On the Führer's command, the entirety of Ostland could be bathed in fire, torn to pieces by ceaseless shelling or reduced to a radioactive ruin. You know this; we know this.\n\nHowever, the Führer recognises that you are not an unreasonable man, driven by some obsessive loyalty to conservatism. You are competent, loyal and widely-respected. Strictly speaking, the Führer has legal grounds to have you tried and executed for treason, but he understands the reality of the situation you found yourself in during the recent strife. Loyalties are often tested in the most unexpected of times and in the most unpleasant ways. Thus, he offers you the following terms, to be accepted unconditionally in exchange for the remission of any crimes committed and your formal appointment as Reichskommissar:\n\n1.Total economic control of Ostland is to be placed in the hands of the Reich government.\n2.The Ostland garrison is to return to barracks and await further orders, without question.\n3.Any and all orders issued by the Führer are to be followed to the letter from this point forth.\n\nHeil Göring!"
-OST.60.a:0 "This will end poorly for Ostland, but I accept."
-OST.60.b:0 "This recklessness will doom the colony! I refuse!"
-
-#Wehrmacht raid
-OST.61.t:0 "Native village torched to the ground."
-OST.61.desc:0 "Our surveillance teams at the border have worrying and bloody news. This morning, without any forewarning and totally unprovoked, elements of the Heer crossed the border and attacked a native village. Dozens of tanks were seen pouring over the border, going off-road to make a beeline for the village and avoid our checkpoints. Minutes later, they opened fire from long range with cannon and machine guns, quickly reducing most of the larger buildings to rubble. Many of the villagers were able to escape into the woods, but nearly a quarter of the populace was killed in the barrage. The remainder of the village was put to the torch by flammpanzers - now nothing remains save an assortment of blackened stone foundations where a prospering village once stood.\n\nThe attack was not followed up by further hostile actions, nor has a declaration of hostilities been issued by Göring. Stahlecker thus believes that this was a deliberate act of provocation designed to rile up aggression on their own side, possibly aimed at Göring himself. Our man in Germania has explained in detail that Göring is uneasy about attacking fellow Germans again, and that the militarist clique is willing to go to any lengths to change his mind. The truth is right there, however - laid bare in the photographs taken by our surveillance team, and in the recorded testimony of trustworthy, racially acceptable survivors. Göring might be a profligate, but he is no fool; if only we could tell him!"
-OST.61.a:0 "Perhaps an opportunity will present itself."
-
-# A second raid
-OST.62.t:0 "A Second Raid?!"
-OST.62.desc:0 "Once wasn't enough for the bastards - the Heer has raided us again, razing another border village. This time, they were going for a high kill count, as the panzers were accompanied by mechanized infantry. As the panzers tore down buildings and mowed down those in the streets, the infantry dispersed into the woods to ambush and pick off those who fled. The death toll of this attack is in the hundreds and other nearby villages have begun to empty as natives and Germans alike flee for the safety of the inner regions. With the relatively small size of Ostland's economy, this could quite easily cause a serious domino effect for rural productivity should the attacks continue. What can we do, though? Declaring war on the Reich to legitimise self-defense would be sheer suicide, but Ostlanders - some of them Aryan, even - are dying!"
-OST.62.a:0 "Damn the Wehrmacht!"
-
-#German planes dissapear
-OST.63.t:0 "We have them now!"
-OST.63.desc:0 "Following the Heer's recent attacks, our surveillance teams were ordered to redouble their efforts to monitor any incursions. For this purpose, our security minister had the novel idea of issuing them with film cameras in order to obtain irrefutable material evidence of attacks, that we might find some way to present our case in secret to the new Führer. Today, this decision paid off.\n\nA pair of ME-262 jets were seen over our air space shortly before noon. A squadron of our own aircraft was quickly scrambled and buzzed the Luftwaffe jets with repeated verbal warnings, which was enough to force them away (with no shortage of vulgar replies on their part). Our own squadron had only just turned around to return to base when one of the Luftwaffe jets suddenly detonated in a fireball that obliterated the craft, seemingly for no reason at all! The unlucky pilot's wingman quickly sped away, but without taking any evasive maneuvers - almost as though the accident were anticipated. The entire affair was caught on camera; there is absolutely irrefutable proof that the downed jet was never fired on by our forces, and was destroyed in a manner totally incongruent with the notion that it was destroyed in combat. Our own aircraft technicians are adamant that the jet was destroyed from within, perhaps by some kind of bomb placed near the fuel tanks for maximum certainty of total destruction. If correct, their assertion means that we have filmed evidence of the Luftwaffe - or the Heer - sabotaging one of their own aircraft to frame us!"
-OST.63.a:0 "Göring must see this immediately!"
-OST.63.b:0 "Fuck it. He'll never listen to us now."
-
-#The Militarists defeated, for now.
-OST.64.t:0 "The Militarists Defeated, For Now."
-OST.64.desc:0 "It brought new confidence to Stahlecker when he heard that Göring had taken action against the plotters who murdered their own brother in the pursuit of war. The cessation of border raids that followed was confirmation that his message had gotten through, and that the Führer had finally shown himself to be an eminently reasonable and intelligent leader, even if it had taken quite some time.\n\nWhat was altogether more welcome, however, was the new ultimatum delivered the day after the plotters' arrest. Normally, an ultimatum is a rather unpleasant thing to receive, especially with the threat of military action present. This time, though, it was truly an ultimatum in name only. Göring's sole demand was that Reichskommissariat Ostland recognize his authority as rightful Führer of the Greater German Reich and re-integrate itself into the Reich's administrative structure accordingly.\n\nHis office retained, war averted, obsessive ideological purity put aside in the name of brotherhood - Stahlecker could not have asked for a more favourable deal with anyone save Bormann. There would be no sanctions, no reprisals and no charges of treason for doing his lawful duty under the principles of National Socialism. All he needed to do was countersign the ultimatum, and things would go back to normal in Ostland."
-OST.64.a:0 "Signed, sealed, delivered!"
-
-#Göring declines
-OST.65.t:0 "Another damn ultimatum"
-OST.65.desc:0 "TO THE SELF-PROCLAIMED AUTHORITY OF REICHSKOMMISSARIAT OSTLAND:\n\nForthwith, the administrative bodies of Reichskommissariat Ostland and any armed forces under your command are to immediately consider themselves subject in full to the laws and directives of the Führer, Hermann Göring, and all those who act with his authority. All units of the Ostland garrison are to immediately stand down and permit the entry of the Reich's armed forces to Ostland, its waters and its airspace. The entire garrison will withdraw from their positions on the border and return to barracks. Further to this, you are to surrender your independent authority as Reichskommissar. All civilian and military administration is to be placed under the direct control of approved representatives of the Reich. All bullion, currency in circulation and unsold trade goods are to be considered property of the Reich government. These measures are to be implemented immediately upon reception of this communique. These terms are not negotiable. Ostland is the rightful territory of the Greater Germanic Reich, and any resistance to the Reich government will be taken as an act of rebellion and dealt with appropriately.\n\nHeil Göring!"
-OST.65.a:0 "Damn him. We have no choice."
-OST.65.b:0 "We must stand strong against the militarists!"
-
-#A desperate ploy
-OST.67.t:0 "A desperate ploy"
-OST.67.desc:0 "One of our senior bureaucrats, a trusted (if disliked) member of Stahlecker's cabinet, has vanished. Though an abrasive and coarse man, he was exceptionally competent in his chosen field and we find ourselves down one valuable administrator. Conveniently, several of the missing man's colleagues wasted no time elevating a mid-level bureaucrat in Riga who apparently has extensive experience managing both information and economic affairs. The cabinet is quite pleased with their surprise offered to Stahlecker in the wake of such a devastating blow to his administration.\n\nOf course, it wasn't a surprise at all, as the new cabinet member is well-known to Stahlecker's Orpo as one of Drechsler's cronies in the old administration, who until this point had gone unnoticed due to the prioritization of more significant matters in Ostland. Now that he's here, though, he can be dealt with. Knowing Schörner's grasp on matters of intrigue, this was just stupid enough to be one of his ploys, likely using the Abwehr to accomplish it. It would be insulting if it weren't so half-assed. Naturally, there's only one solution to this - and it's kept in Stahlecker's holster."
-OST.67.a:0 "How stupid do they think we are?"
-
-#Göring demands most of our military
-OST.68.t:0 "Misplaced comments"
-OST.68.desc:0 ""And you know what else? It probably goes back decades! You ask me, Göring's always looked too soft, you know? In my experience, flyboys aren't so different from sailors when it comes to their 'preferences', know what I mean? Wouldn't surprise me if the fat old fuck's been taking the Field Marshal's baton up his rear since the 30s! Eh? Eh? You hear me, Herr Journalist? You got all that, right? Well, tell it to your boss, your editor, whoever the fuck else you care to! That's what I think of the fucking Führer and his 'esteemed generals'!"\n\nSuch were the cabinet member's words, translated verbatim into Swedish by the journalist for the Stockholm evening paper and then back into German for the Reich's state media. Stahlecker has no idea what the Reich's leaders think of it yet, but he can take an educated guess. If anything unites the militarist clique beyond their absurd ideas of world conquest, it's their volcanic tempers. If a man like Schörner regularly had his own men hanged for violations of discipline, it wouldn't be much of a stretch to assume that he'd be willing to go to war over such a lurid and oft-repeated insult. And that's to say nothing of what the Führer might think! Perhaps, for the sake of peace, our shit-spewing master of vulgarity should be given the boot.\n\n"
-OST.68.a:0 "Throw that pig onto the streets!"
-OST.68.b:0 "Words will never hurt you."
-
-##Göring does not grant us autonomy
-#OST.69.t:0 "TODO"
-#OST.69.desc:0 "TODO"
-#OST.69.a:0 "TODO"
-#OST.69.b:0 "TODO"
-##Deal breaks
-#OST.70.t:0 "TODO"
-#OST.70.desc:0 "TODO"
-#OST.70.a:0 "TODO"
-##A deal is reached
-#OST.71.t:0 "TODO"
-#OST.71.desc:0 "TODO"
-#OST.71.a:0 "TODO"
-##Göring sends a final ultimatum
-#OST.72.t:0 "TODO"
-#OST.72.desc:0 "TODO"
-#OST.72.a:0 "TODO"
-#OST.72.b:0 "TODO"
-##Göring sends guns to aid us
-#OST.73.t:0 "TODO"
-#OST.73.desc:0 "TODO"
-#OST.73.a:0 "TODO"
-##Göring declares war
-#OST.74.t:0 "TODO"
-#OST.74.desc:0 "TODO"
-#OST.74.a:0 "TODO"
-
-OST.75.t:0 "TODO"
-OST.75.desc:0 "A recent terrorist attack in Riga has certainly rattled our administration, but our men are on the case and chasing up whatever leads they can find. Stahlecker is not confident that they will enjoy any success, but the ugly alternative has just reared its head again: Göring wants to deploy the Abwehr. Having been rejected once already, the Führer might take further refusals to permit investigation as a direct challenge to his authority. That might undermine the Ostdeal more than any terrorist would. On the other hand, who knows what else they might get up to in Riga, even if they capture the culprit? Can we trust the Führer's intentions?"
-OST.75.a:0 "Surely Göring wouldn't pick a fight over this."
-OST.75.b:0 "Let the Abwehr in, but keep an eye on them..."
-
-###Bormann-Stahlecker Interactions
-##Stahlecker not dead route
-#Bormann "Our Stahlecker"
-OST.80:0 "TODO"
-OST.80.t:0 "TODO"
-OST.80.desc:0 "TODO"
-OST.80.a:0 "TODO"
-#Bormann "Relief Forces"
-OST.81:0 "TODO"
-OST.81.t:0 "TODO"
-OST.81.desc:0 "TODO"
-OST.81.a:0 "TODO"
-#Bormann "The Helping Hand"
-OST.82:0 "TODO"
-OST.82.t:0 "TODO"
-OST.82.desc:0 "TODO"
-OST.82.a:0 "TODO"
-#Bormann "Send in the Boys"
-OST.83:0 "TODO"
-OST.83.t:0 "TODO"
-OST.83.desc:0 "TODO"
-OST.83.a:0 "TODO"
-#Bormann "Recovering the Ostfront"
-OST.84:0 "TODO"
-OST.84.t:0 "TODO"
-OST.84.desc:0 "TODO"
-OST.84.a:0 "TODO"
-#For not Stahlecker
-OST.85:0 "TODO"
-OST.85.t:0 "TODO"
-OST.85.desc:0 "TODO"
-OST.85.a:0 "TODO"
-##xX_stall_hacker_Xx very dead route
-#Bormann "Changes in Management"
-OST.86:0 "TODO"
-OST.86.t:0 "TODO"
-OST.86.desc:0 "TODO"
-OST.86.a:0 "TODO"
-#Bormann "Disrupt the Enemy"
-OST.87:0 "TODO"
-OST.87.t:0 "TODO"
-OST.87.desc:0 "TODO"
-OST.87.a:0 "TODO"
-#Bormann "Recovering the Ostfront"
-OST.88:0 "TODO"
-
 ##################################################
 ### Contender Death/Escape Events Scripted Loc ###
 ##################################################
@@ -1038,7 +907,7 @@ KOV.18.t:0 "Wasted Effort"
 KOV.18.d:0 "The negotiators have just returned from their final meeting with the partisans, and... it has not gone well. While our men approached the partisans unarmed in preparation for the handover, the SS security detail had different ideas. Upon sighting the partisans, they opened fire, killing several, and wounding quite a few of our own men. They underestimated the preparation of the partisans, however, as guerrillas hidden in the surrounding thickets revealed themselves. The ensuing firefight and artillery barrage ensured that nothing of what either party wanted to hand over remained. We¦ve reprimanded the security detail, but, as always, they simply brushed us off. Not much we can do to those who don¦t answer to our government."
 KOV.18.a:0 "Unfortunate."
 KOV.19.t:0 "A Bomber's Workshop"
-KOV.19.d:0 "We have decided to refuse the suspicious offer and refocus our attention on a comprehensive search of the countryside. Our own forces went house to house, village to village, but turned up nothing of note. A few illegal gun caches here and there, yes, but nothing heavier than some aging bolt-action rifles. Just as we were on the cusp of giving up, the SS detail assigned to the team returned from their away leave. They returned 58 hours late, yes, but with items of interest: photographs of a (fairly extensive) explosives workshop, boxes of notebooks, and a single word. Nakam. This, of course, can only mean one thing...\n\nWhen asked to see the workshop in question, the detail responded with a single negative, claiming that §collateral damage¨ made the area too dangerous to search again."
+KOV.19.d:0 "We have decided to refuse the suspicious offer and refocus our attention on a comprehensive search of the countryside. Our own forces went house to house, village to village, but turned up nothing of note. A few illegal gun caches here and there, yes, but nothing heavier than some aging bolt-action rifles. Just as we were on the cusp of giving up, the SS detail assigned to the team returned from their away leave. They returned 58 hours late, yes, but with items of interest: photographs of a (fairly extensive) explosives workshop, boxes of notebooks, and a single word. Nakam. This, of course, can only mean one thing...\n\nWhen asked to see the workshop in question, the detail responded with a single negative, claiming that "collateral damage" made the area too dangerous to search again."
 KOV.19.a:0 "Interesting."
 KOV.20.t:0 "Nothing But Dust"
 KOV.20.d:0 "We have decided to refuse the suspicious offer and refocus our attention on a comprehensive search of the countryside. Our own forces went house to house, village to village, but turned up nothing of note. A few illegal gun caches here and there, yes, but nothing heavier than some aging bolt-action rifles. The Home Guard's assistance was welcome, but ultimately useless in collecting anything substantial. With the trail growing colder, we have little choice but to refocus our attention to more promising leads, and more pressing matters."

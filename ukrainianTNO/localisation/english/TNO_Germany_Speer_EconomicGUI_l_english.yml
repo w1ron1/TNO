@@ -13,8 +13,8 @@ SGR_reichswerke_expository_text:0 "§WEdmund Geilenberg§! presides over the Fra
 SGR_daimler_leader:0 "Friedrich Flick\n§gDAIMLER-BENZ§!"
 SGR_daimler_expository_text:0 "§gVereinigte Stahlwerke§! was only the first milestone in a lifelong career in ruthless industry and lobbyism for §WFriedrich Flick§!. Politically active since the days of Weimar, he became a generous sponsor of the NSDAP, going as far as joining the §PCircle of Friends of Heinrich Himmler§! and providing hundreds of thousands in funds to the SS.\n\n§gDaimler-Benz§!, his domain, may be less expansive than those of his fellow Wehrwirtschaftsführer, but Flick's knack in stock affairs and all kinds of economics keep him a strong competitor regardless. A notorious user and abuser of the slavery system, Flick has burned through countless slaves already in his pursuit of maximizing profits, showing not even a sliver of repentance for his actions.\n\nFlick is the best example of a ruthless industrialist who capitalized on the NSDAP's rise to power and all the atrocities it brought. He must be removed."
 
-SGR_siemens_leader:0 "Ernst von Siemens\n§TSIEMENS§!"
-SGR_siemens_expository_text:0 "§WErnst von Siemens§! stands out as somewhat of an anomaly compared to his peers. Under him, §TSiemens§! has increased its profits ten-fold, while avoiding reaching the levels of slavery other companies display. His company stands out as one of the few in Germany still carrying a respectable international reputation.\n\nMost importantly, von Siemen's fledgling empire of electronics and machines has shown sympathy towards the reformist cause; at least when it comes to programs from which §TSiemens§! would profit. No matter if this is out of genuine conviction or mere pragmatism at the inevitable demise of slavery in the new Germany, von Siemens and his family enterprise carry a significant amount of potential both economically and in the struggle against slavery.\n\nUnlikely ally or not, §TSiemens§!' nature as a cartel interferes with Germany's economic potential. Whilst the company and its proprietor may be kept, its power must diminish."
+SGR_siemens_leader:0 "Ernst von Siemens\n§BSIEMENS§!"
+SGR_siemens_expository_text:0 "§WErnst von Siemens§! stands out as somewhat of an anomaly compared to his peers. Under him, §BSiemens§! has increased its profits ten-fold, while avoiding reaching the levels of slavery other companies display. His company stands out as one of the few in Germany still carrying a respectable international reputation.\n\nMost importantly, von Siemen's fledgling empire of electronics and machines has shown sympathy towards the reformist cause; at least when it comes to programs from which §BSiemens§! would profit. No matter if this is out of genuine conviction or mere pragmatism at the inevitable demise of slavery in the new Germany, von Siemens and his family enterprise carry a significant amount of potential both economically and in the struggle against slavery.\n\nUnlikely ally or not, §BSiemens§!' nature as a cartel interferes with Germany's economic potential. Whilst the company and its proprietor may be kept, its power must diminish."
 
 
 #Frontscreen Metrics
@@ -75,10 +75,10 @@ SGR_ZV_open_investments_desc:0 "Click to show the generic investment decisions a
 SGR_ZV_close_investments:0 "§YHide Generic Investment Decisions§!"
 SGR_ZV_close_investments_desc:0 "Click to hide the generic investment decisions available."
 
-SGR_ZV_open_special_investments:0 "§TShow Special Projects Decisions§!"
+SGR_ZV_open_special_investments:0 "§BShow Special Projects Decisions§!"
 SGR_ZV_open_special_investments_desc:0 "Click to show the special project decisions available."
 
-SGR_ZV_close_special_investments:0 "§THide Special Projects Decisions§!"
+SGR_ZV_close_special_investments:0 "§BHide Special Projects Decisions§!"
 SGR_ZV_close_special_investments_desc:0 "Click to hide the special project decisions available."
 
 SGR_ZV_civilian_investment:0 "Civilian Investment"
@@ -130,7 +130,7 @@ SGR_task_weaken_tt:0 "§RSeizing corporate assets§! from the §YWehrwirtschafts
 SGR_task_antitrust:0 "§YAnti-Trust Directive§!"
 SGR_task_antitrust_tt:0 "Once the §YWehrwirtschaftsführer power§!£GFX_megacorp! over the region reaches §Y0%§!, the §Ggovernment§! can pass a directive to oust them from economic control over the region.\nOusting the §YWehrwirtschaftsführer§! from control over this region grants the following bonus:\n\n[getSGRStatesBonusTooltip]"
 SGR_task_antitrust_ger_tt:0 "§YLeader of the Zollverein Commission§!:\nConsumer Goods Use Modifier: §G-2.00%§!"
-SGR_task_antitrust_notger_tt:0 "§Y66%§! §TChance of§!:\n    §Y2§! §GNational £tt_prod_unit Production Units§!\n    §Y+5%§! §GAdditional GDP Growth in a Random State§!\n\n§Y34%§! §TChance of§!:\n    §Y4§! §GAdditional Building Slots in a Random State§!\n    §Y+5%§! §GAdditional GDP Growth in a Random State§!" 
+SGR_task_antitrust_notger_tt:0 "§Y66%§! §BChance of§!:\n    §Y2§! §GNational £tt_prod_unit Production Units§!\n    §Y+5%§! §GAdditional GDP Growth in a Random State§!\n\n§Y34%§! §BChance of§!:\n    §Y4§! §GAdditional Building Slots in a Random State§!\n    §Y+5%§! §GAdditional GDP Growth in a Random State§!" 
 
 SGR_task_cost1:0 "§Y5§!£political_power_texticon  | §Y10M§!£GFX_dollar_sign"
 SGR_task_cost2:0 "§Y10§!£political_power_texticon  | §Y30§!£command_power"
@@ -180,10 +180,10 @@ SGR_decisions_available:0 "§WNew decisions will be available.§!"
 SGR_trigger_allinvestments:0 "§WWe need to have invested into §Gall§! the eastern regimes before we can make this decision.§!"
 SGR_trigger_konjunkturpaket:0 "§WThe Konjunkturpaket needs to be §Gfinished§! before we can make this decision.§!"
 
-SGR_trigger_igfarben:0 "§W§LIG FARBEN§! must be §TWANING§! for us to take action.§!"
-SGR_trigger_reichswerke:0 "§W§jREICHSWERKE§! must be §TWANING§! for us to take action.§!"
-SGR_trigger_daimler:0 "§W§gDAIMLER-BENZ§! must be §TWANING§! for us to take action.§!"
-SGR_trigger_siemens:0 "§W§TSIEMENS§! must be §TWANING§! for us to take action.§!"
+SGR_trigger_igfarben:0 "§W§LIG FARBEN§! must be §BWANING§! for us to take action.§!"
+SGR_trigger_reichswerke:0 "§W§jREICHSWERKE§! must be §BWANING§! for us to take action.§!"
+SGR_trigger_daimler:0 "§W§gDAIMLER-BENZ§! must be §BWANING§! for us to take action.§!"
+SGR_trigger_siemens:0 "§W§BSIEMENS§! must be §BWANING§! for us to take action.§!"
 
 SGR_all_resources:0 "§WWe will be granted access to §Gall resources§! uncovered in the eastern regimes, at the cost of §RGDP growth§!.§!"
 SGR_some_resources:0 "§WWe will be granted access to only §Rsome§! resources uncovered in the eastern regimes, at the benefit of §GGDP growth§!.§!"
@@ -263,14 +263,14 @@ SGR_igfarben_attack_tt:0 "§WEfforts against §LIG FARBEN§! will §Gincrease in
 SGR_igfarben_defend_tt:0 "§WEfforts against §LIG FARBEN§! will §Rdecrease in strength§!.§!"
 SGR_reichswerke_attack_tt:0 "§WEfforts against §jREICHSWERKE§! will §Gincrease in strength§!.§!"
 SGR_daimler_attack_tt:0 "§WEfforts against §gDAIMLER-BENZ§! will §Gincrease in strength§!.§!"
-SGR_siemens_attack_tt:0 "§WEfforts against §TSIEMENS§! will §Gincrease in strength§!.§!"
+SGR_siemens_attack_tt:0 "§WEfforts against §BSIEMENS§! will §Gincrease in strength§!.§!"
 
 #Scripted Loc Stuff
 
 SGR_IGFarben_bar_tt:0 "§LIG FARBEN§!'s power is at [?IGFarbenPower|%W]."
 SGR_Reichswerke_bar_tt:0 "§jREICHSWERKE§!'s power is at [?ReichswerkePower|%W]."
 SGR_Daimler_bar_tt:0 "§gDAIMLER-BENZ§!'s power is at [?DaimlerPower|%W]."
-SGR_Siemens_bar_tt:0 "§TSIEMENS§!'s power is at [?SiemensPower|%W]."
+SGR_Siemens_bar_tt:0 "§BSIEMENS§!'s power is at [?SiemensPower|%W]."
 
 SGR_IGFarben_power:0 "[GetIGFarbenPower]\n"
 SGR_Reichswerke_power:0 "[GetReichswerkePower]\n"
@@ -281,7 +281,7 @@ SGR_untouched:0 "§RUNTOUCHED§!"
 SGR_powerful:0 "§OPOWERFUL§!"
 SGR_influential:0 "§YINFLUENTIAL§!"
 SGR_middling:0 "§gMIDDLING§!"
-SGR_waning:0 "§TWANING§!"
+SGR_waning:0 "§BWANING§!"
 SGR_vulnerable:0 "§GVULNERABLE§!"
 SGR_dismantled:0 "§WDISMANTLED§!"
 
@@ -289,7 +289,7 @@ SGR_balanced:0 "§QNO CARTEL§!"
 SGR_ig_farben:0 "§LIG FARBEN§!"
 SGR_reichswerke:0 "§jREICHSWERKE§!"
 SGR_daimler_benz:0 "§gDAIMLER-BENZ§!"
-SGR_siemens:0 "§TSIEMENS§!"
+SGR_siemens:0 "§BSIEMENS§!"
 
 SGR_controlled_by:0 "[getSGRControllingCompany]"
 SGR_powerlevel:0 "£GFX_megacorp [getSGRCompanyPower]"
@@ -465,8 +465,8 @@ SGR_RSFSTP_title_tt:0 "Following the infrastructural §Rcollapse§! of §gGerman
 SGR_RSFSTP_bottom_text:0 "The §WReichsschnellfahrstreckenprogramm§! is [?SGR_Project_Progress^RSFSTP|G1]% complete."
 SGR_RSFSTP_notification_text_tt:0 "Click on the states for further interactions"
 SGR_RSFSTP_PU:0 "[?SGR_Project_PU_Investment^RSFSTP|G0] £GFX_tt_prod_unit_big"
-SGR_RSFSTP_add_tt:0 "Allocate §G+2§!£tt_prod_unit to the §gReichsschnellfahrstreckenprogramm§!, increasing monthly construction speed by §G0.2%§!, cost by §R+125M USD§!, and §R-0.05§! daily political power.\n--------------\n§TIt costs§! £political_power_texticon §Y20§! §Tto make this change.§!"
-SGR_RSFSTP_sub_tt:0 "Allocate §R-2§!£tt_prod_unit to the §gReichsschnellfahrstreckenprogramm§!, decreasing monthly construction speed by §R-0.2%§!, cost by §G-125M USD§!, and §G0.05§! daily political power.\n--------------\n§TIt costs§! £political_power_texticon §Y20§! §Tto make this change.§!"
+SGR_RSFSTP_add_tt:0 "Allocate §G+2§!£tt_prod_unit to the §gReichsschnellfahrstreckenprogramm§!, increasing monthly construction speed by §G0.2%§!, cost by §R+125M USD§!, and §R-0.05§! daily political power.\n--------------\n§BIt costs§! £political_power_texticon §Y20§! §Bto make this change.§!"
+SGR_RSFSTP_sub_tt:0 "Allocate §R-2§!£tt_prod_unit to the §gReichsschnellfahrstreckenprogramm§!, decreasing monthly construction speed by §R-0.2%§!, cost by §G-125M USD§!, and §G0.05§! daily political power.\n--------------\n§BIt costs§! £political_power_texticon §Y20§! §Bto make this change.§!"
 SGR_RSFSTP_add_locked:0 "We have allocted the maximum possible resources to this project."
 SGR_RSFSTP_sub_locked:0 "We have allocted the fewest possible resources to this project."
 SGR_RSFSTP_OC_tt:0 "The ability to modify our investment is §Rlocked§! due to the current §Rglobal economic meltdown§!."

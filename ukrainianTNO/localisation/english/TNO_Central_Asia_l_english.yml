@@ -5,7 +5,7 @@
  TNO_CA_Conference_category_desc_JAP: "Our hold in the Sphere is not as magnanimous as we believed; foes and traitors can come from anywhere, and if we do not keep a watchful eye, all we built and toiled can crumble and slip between our fingers like sand.\n\nCentral Asia has always been troublesome for us, and with the other Great powers involving themselves in the region further, gaining another enemy is something we cannot afford.\n\nWe must stop the conference by all means necessary, delaying until we have a proper solution."
  
  TNO_CA_Conference_tension: "§RTension§!"
- TNO_CA_Conference_suspicion: "§cSuspicion§!"
+ TNO_CA_Conference_suspicion: "§PSuspicion§!"
 
  TNO_CA_Conference_ofn: "§VTUR§!"
  TNO_CA_Conference_pakt: "§qPakt§!"
@@ -16,7 +16,7 @@
  TNO_CA_Conference_delegate_overview_tt: "§VTurkey§! has [?TRK.TK_delegates^1] sympathetic delegates.\n\n§qEinheitspakt§! has [?TRK.TK_delegates^2] sympathetic delegates.\n\n[?TRK.TK_delegates^0] are still §Cunsure or uncertain.§!"
  TNO_CA_Conference_delegate_overview_tt_delayed: "A thousand delegates, handpicked by the countries that compose the fragmented states of Central Asia, were sent to Turkmenistan to discuss the future and possibility of a greater Turkestan, a verifitable battlegrounds of meetings and discussions, and the grandest trial of our diplomats to make sure the pieces of the future state align with our intentions."
 
- TNO_CA_Conference_suspicion_overview_tt: "§cSuspicion§! of the Co-Prosperity Sphere"
+ TNO_CA_Conference_suspicion_overview_tt: "§PSuspicion§! of the Co-Prosperity Sphere"
  TNO_CA_Conference_suspicion_overview_tt_delayed: "With the Turkish and Einheitspakt delegates hard at work in convincing the Thousand to their interests, envoys of the Co-Prosperity Sphere are surprisingly absent in the negotiations and courting.\nIf there's too many coincidences, and things don't quite add up, Japanese interests will be expelled from the Conference."
 
  TNO_CA_Conference_tension_overview_tt: "The §RTension§! between the states"
@@ -33,11 +33,11 @@
  TNO_CA_Conference_medium_tension_tt: "Unification dialogues are being hampered by the distrust amongst the nations."
  TNO_CA_Conference_highmedium_tension_tt: "Relationships have become tense, and goodwill is draining, as the nations continue to bear ill will towards each other."
  TNO_CA_Conference_violent_tension_tt: "Conversation led to shouting, and negotiations lead to threats. If it's not intervene, the dream of Turkestan will die."
- TNO_CA_suspicion_not_max: "§cSuspicion§! of Japan is not currently maxxed out"
+ TNO_CA_suspicion_not_max: "§PSuspicion§! of Japan is not currently maxxed out"
  
  USA_delegates_lobbying_tt: "We will begin §Blobbying support from various factions within Central Asia§!."
  USA_lower_tensions_tt: "We will §Ylower tensions§!, and keep things stable"
- USA_increase_suspicion_tt: "We will increase §csuspicion§! of Japan, and work to prevent them from meddling in the Conference."
+ USA_increase_suspicion_tt: "We will increase §Psuspicion§! of Japan, and work to prevent them from meddling in the Conference."
  
  GER_agent_operations_tt: "We will continue to §Rsupport German agents within Central Asia that when, their operations complete, will increase §Ytensions§! within the conference.§!"
  GER_delegates_lobbying_tt: "We will begin §Blobbying support from various factions within Central Asia§!."
@@ -45,13 +45,13 @@
  TK_change_tension_tt: "§RThe Overall Tension in the conference will change by §Y[?CA_Conference_tension_temp]§!.§!"
  TK_increase_delegates_tt: "§BThe delegates supporting us will change by §Y[?aligned_delegates_temp]§!.§!"
  TK_increase_nonaligned_delegates_tt: "§BThe non-aligned delegates will change by §Y[?aligned_delegates_temp]§!.§!"
- TK_change_suspicion_tt: "§cSuspicion of Japan will change by §Y[?CA_Conference_suspicion_temp]§!.§!"
+ TK_change_suspicion_tt: "§PSuspicion of Japan will change by §Y[?CA_Conference_suspicion_temp]§!.§!"
  TK_dummy_tick_tt: "The Conference will conclude and the results will be announced."
  TK_Germany_tick: "Reunification of Turkestan"
  TK_Japan_tick: "Reunification of Turkestan"
  TK_USA_tick: "Reunification of Turkestan"
  
- TNO_CA_change_TK_days_tt: "The Conference's conclusion will be §cdelayed§! by §Y[?CA_Conference_days_change_temp]§! days."
+ TNO_CA_change_TK_days_tt: "The Conference's conclusion will be §Pdelayed§! by §Y[?CA_Conference_days_change_temp]§! days."
  USA_propose_an_alliance_of_central_asian_solidarity_trigger: "We must have §Y600§! §Bdelegates§! aligned to us"
  
  ###Conference Actions###
@@ -111,8 +111,8 @@
  CA_trigger_turkmenistan_regime_change_a4: "§mTurkmenistan:§! Not-OFN Coup"
  CA_trigger_kyrgyz_regime_change_a1: "§SKyrgyzstan:§! Islamic State"
  CA_trigger_kyrgyz_regime_change_a2: "§SKyrgyzstan:§! Bolshevism"
- CA_trigger_karakalpak_regime_change_a1: "§kKarakalpakstan:§! Democracy"
- CA_trigger_karakalpak_regime_change_a2: "§kKarakalpakstan:§! United Front"
+ CA_trigger_karakalpak_regime_change_a1: "§LKarakalpakstan:§! Democracy"
+ CA_trigger_karakalpak_regime_change_a2: "§LKarakalpakstan:§! United Front"
  CA_trigger_uzbek_regime_change_a1: "§YUzbekistan:§! Jadidism"
  CA_trigger_tajik_regime_change_a1: "§nTajikistan:§! Islamic State"
  CA_trigger_tajik_regime_change_a2: "§nTajikistan:§! Nationalism"
@@ -121,7 +121,7 @@
  CA_trigger_legionary_regime_change_a2: "§jTurkestan Legion:§! Şer Mohammad Korşirmat"
  CA_trigger_misc: "§G===MISC===§!"
  CA_trigger_turkmenistan_usa_council: "§mTurkmenistan§!§x-§!§DUS Council§!"
- CA_trigger_karakalpak_uzbek_unification: "§kKarakalpak§!§x-§!§YUzbekistan§! §dUnification§!"
+ CA_trigger_karakalpak_uzbek_unification: "§LKarakalpak§!§x-§!§YUzbekistan§! §dUnification§!"
  
  ########
  #EVENTS#
@@ -522,7 +522,7 @@ CA_JAP.11.a: "cope"
 
 CA_JAP.12.t: "you win"
 CA_JAP.12.desc: "winner"
-CA_JAP.12.a: "Frigg was here"
+CA_JAP.12.a: "yippee"
 
 CA_JAP.13.t: "investigate xinjiang"
 CA_JAP.13.desc: "xinjiang is sussy :SUSlov:"
@@ -591,7 +591,7 @@ CA_TK_skeleton.17.t: "An Alliance of Central Asian Solidarity?"
 CA_TK_skeleton.28.t: "A Dream so far..."
 
 CA_TK_Events.1.t: "Turkes Kenes - Rising Suspicions"
-CA_TK_Events.1.desc: "FROM: AGENT HARADA ICHIRO\nINFORMAL FIELD REPORT - TURKES KENES\n\nNew information from local informants has revealed a troubling discovery. It appears that the German and Turkish governments are beginning to recognize the extent of Tokumusōkan involvement in Central Asia.\n\nA new report, issued from a subordinate from the Kingdom of Afghanistan, has claimed that local representatives at the Kenes are concerned about recent developments, and cite Japan as a possible cause. This report was further substantiated by an informant within the Kenes, who has stated he was contacted by a [getIntelAgencyCaps] agent, asking about possible Japanese ties.\n\nThis news represents a major complication for our current plans. Should the Turkish intelligence or [getIntelAgencyCaps] gain a more detailed understanding of our current plan, it may allow them to upend it through preparation, or worse, by revealing it to local authorities. We must act carefully and stealthily, or else we may find our plans come to naught."
+CA_TK_Events.1.desc: "FROM: AGENT HARADA ICHIRO\nINFORMAL FIELD REPORT - TURKES KENES\n\nNew information from local informants has revealed a troubling discovery. It appears that the German and Turkish governments are beginning to recognize the extent of Tokumusōkan involvement in Central Asia.\n\nA new report, issued from a subordinate from the Kingdom of Afghanistan, has claimed that local representatives at the Kenes are concerned about recent developments, and cite Japan as a possible cause. This report was further substantiated by an informant within the Kenes, who has stated he was contacted by a [GER.getIntelAgency] agent, asking about possible Japanese ties.\n\nThis news represents a major complication for our current plans. Should the Turkish intelligence or [GER.getIntelAgency] gain a more detailed understanding of our current plan, it may allow them to upend it through preparation, or worse, by revealing it to local authorities. We must act carefully and stealthily, or else we may find our plans come to naught."
 CA_TK_Events.1.a: "It is time for caution."
 
 CA_TK_Events.2.t: "Langley's Best"

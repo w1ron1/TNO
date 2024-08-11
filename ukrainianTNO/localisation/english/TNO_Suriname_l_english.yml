@@ -16,8 +16,12 @@
   # Parties
   SUR_progressivism_party:0 "PvdA"
   SUR_progressivism_party_long:0 "Partij van de Arbeid"
+  SUR_liberalism_party: "VHP"
+  SUR_liberalism_party_long: "Verenigde Hindoestaanse Partij"
   SUR_liberal_conservatism_party:0 "Kabinet-van Rhijn"
   SUR_liberal_conservatism_party_long:0 "Kabinet-van Rhijn"
+  SUR_conservatism_party: "Kabinet-van Rhijn"
+  SUR_conservatism_party_long: "Kabinet-van Rhijn"
   SUR_paternalism_party:0 "Kabinet-van Rhijn"
   SUR_paternalism_party_long:0 "Kabinet-van Rhijn"
   SUR_despotism_party:0 "Unorganized Dutch Nationalist Movements"

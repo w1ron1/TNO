@@ -112,9 +112,9 @@
  SAM_kombinats_idea: "The Kombinats"
  SAM_kombinats_idea_desc: "§gResource Extraction Efficiency: [?SAM_kombinats_resources|=%G1]\nDaily Political Power Gain: [?SAM_kombinats_political_power|=%R1]\nConstruction Speed: [?SAM_kombinats_construction|=%G1]\nMaximum Production Efficiency: [?SAM_kombinats_max_efficiency|=%G1]\nResearch Speed: [?SAM_kombinats_research_speed|=%G1]§!\n§g--------------§!\nRussia has always struggled to industrialize. The Tsars' attempts failed, leading to their defeat to the Germans and the rise of the accursed Bolsheviks. They were little better, with little growth in heavy industries needed to resist the Nazi anslaught. We will learn from their failures, and properly industrialize with the help of large corporate entities - the §YKombinats§! - and limited state intervention. With private and public interests working together to develop Russia, a bright and prosperous future for the Russian people is within our grasp."
 
- SAM_inner_circle_very_low_high: "§wInner Circle Tension:§! §LNegligent§!"
- SAM_inner_circle_very_low_med: "§wInner Circle Tension:§! §LNegligent§!"
- SAM_inner_circle_very_low_low: "§wInner Circle Tension:§! §LNegligent§!"
+ SAM_inner_circle_very_low_high: "§wInner Circle Tension:§! §LNegligible§!"
+ SAM_inner_circle_very_low_med: "§wInner Circle Tension:§! §LNegligible§!"
+ SAM_inner_circle_very_low_low: "§wInner Circle Tension:§! §LNegligible§!"
  SAM_inner_circle_low_high: "§wInner Circle Tension:§! §GLow§!"
  SAM_inner_circle_low_med: "§wInner Circle Tension:§! §GLow§!"
  SAM_inner_circle_low_low: "§wInner Circle Tension:§! §GLow§!"
@@ -127,9 +127,9 @@
  SAM_inner_circle_very_high_med: "§wInner Circle Tension:§! §RVery High§!"
  SAM_inner_circle_very_high_high: "§wInner Circle Tension:§! §RVery High§!"
 
- SAM_military_very_low_high: "§jMilitary Tension:§! §LNegligent§!"
- SAM_military_very_low_med: "§jMilitary Tension:§! §LNegligent§!"
- SAM_military_very_low_low: "§jMilitary Tension:§! §LNegligent§!"
+ SAM_military_very_low_high: "§jMilitary Tension:§! §LNegligible§!"
+ SAM_military_very_low_med: "§jMilitary Tension:§! §LNegligible§!"
+ SAM_military_very_low_low: "§jMilitary Tension:§! §LNegligible§!"
  SAM_military_low_high: "§jMilitary Tension:§! §GLow§!"
  SAM_military_low_med: "§jMilitary Tension:§! §GLow§!"
  SAM_military_low_low: "§jMilitary Tension:§! §GLow§!"
@@ -142,9 +142,9 @@
  SAM_military_very_high_med: "§jMilitary Tension:§! §RVery High§!"
  SAM_military_very_high_high: "§jMilitary Tension:§! §RVery High§!"
 
- SAM_civilian_very_low_high: "§MCivilian Tension:§! §LNegligent§!"
- SAM_civilian_very_low_med: "§MCivilian Tension:§! §LNegligent§!"
- SAM_civilian_very_low_low: "§MCivilian Tension:§! §LNegligent§!"
+ SAM_civilian_very_low_high: "§MCivilian Tension:§! §LNegligible§!"
+ SAM_civilian_very_low_med: "§MCivilian Tension:§! §LNegligible§!"
+ SAM_civilian_very_low_low: "§MCivilian Tension:§! §LNegligible§!"
  SAM_civilian_low_high: "§MCivilian Tension:§! §GLow§!"
  SAM_civilian_low_med: "§MCivilian Tension:§! §GLow§!"
  SAM_civilian_low_low: "§MCivilian Tension:§! §GLow§!"
@@ -159,7 +159,7 @@
 
  SAM_zykov_ROA_dominant: "§jROA Dominant§!"
  SAM_zykov_ROA_dominant_desc: "The Officer Committee and their representative Bunyachenko have become the dominant faction in Samara. Always the strongest grouping within the ROA, it seems that the committee pushes to continue the junta indefinitely. That said, many within Samara's power circles have noticed some new life within General Bunyachenko. Perhaps the Ukrainian born general has some designs of his own?"
- SAM_zykov_business_dominant: "§TBusiness Dominant§!"
+ SAM_zykov_business_dominant: "§BBusiness Dominant§!"
  SAM_zykov_business_dominant_desc: "More and more power within Samara is centered on commander Oktan's faction. Having amassed vast amount of influence through his control of smuggling networks, the affable smuggler officer has amassed a kernel of corrupt officials, ultranationalist demagogues and pragmatic men around him to secure a growing hold on the capital."
  SAM_zykov_democrats_dominant: "§MDemocrats Dominant§!"
  SAM_zykov_democrats_dominant_desc: "Against all odds, Zykov's faction of democrats has become dominant within the ROA. Backed by young officers as well as civilian leaders, Miletiy Zykov now maintains a strong influence within the various groups. All speculate on the enigmatic propagandist's true intentions, but his actions have so far been coherent with his claimed hopes of liberalization and democratization."
@@ -231,7 +231,7 @@
 
  ### Flags ###
  SAM_Zykov: "§gZykov§! has won the power struggle."
- SAM_Bunyachenko: "§TBunyachenko§! has won the power struggle."
+ SAM_Bunyachenko: "§BBunyachenko§! has won the power struggle."
  SAM_Oktan: "§jOktan§! has won the power struggle."
  SAM_Peaceful_Integration_flag: "§YVologda§! has §Gagreed§! to peacefully unite with us."
  SAM_No_Peaceful_Integration: "§YVologda§! has §Rrefused§! to peacefully unite with us."
@@ -252,20 +252,20 @@
  SAM_ROA_Ready: "§YThe situation has been stabilized§!."
  SAM_no_smuggling: "Has ended smuggling operations."
  SAM_no_smuggling_tt: "We will §Yend§! our §Rsmuggling operations§!.\n"
- SAM_chosen_leader_tt: "The new focus tree will depend on whether §gZykov's§!, §TBunyachenko's§!, or §jOktan's§! plan was taken."
+ SAM_chosen_leader_tt: "The new focus tree will depend on whether §gZykov's§!, §BBunyachenko's§!, or §jOktan's§! plan was taken."
  SAM_Oktan_web_tt: "§jOktan§! must ensure that the §Yweb of tensions§! of our regime do not §Rensnare him§!.\n"
- SAM_Oktan_tt: "§jOktan§! shall be proclaimed §WVlasov's§! heir.\n\nTo ensure a §Gpeaceful transition of power§!, §acivilian§! and §Omilitary§! morale must be above §Rlow§! and the ROA must be §Gloyal§! when we unite §QWest Russia§!.\n"
- SAM_Bunya_tt: "§TBunyachenko§! shall be proclaimed §WVlasov's§! heir.\n\nTo ensure a §Gpeaceful transition of power§!, §acivilian§! morale must be above §Rlow§!, §Vcorruption§! must be lower than §Ymedium§!, and the ROA must be §Gloyal§! when we unite §QWest Russia§!.\n"
+ SAM_Oktan_tt: "§jOktan§! shall be proclaimed §WVlasov's§! heir.\n\nTo ensure a §Gpeaceful transition of power§!, §Mcivilian§! and §Omilitary§! morale must be above §Rlow§! and the ROA must be §Gloyal§! when we unite §QWest Russia§!.\n"
+ SAM_Bunya_tt: "§BBunyachenko§! shall be proclaimed §WVlasov's§! heir.\n\nTo ensure a §Gpeaceful transition of power§!, §Mcivilian§! morale must be above §Rlow§!, §Vcorruption§! must be lower than §Ymedium§!, and the ROA must be §Gloyal§! when we unite §QWest Russia§!.\n"
  SAM_Zykov_tt: "§gZykov§! shall be proclaimed §WVlasov's§! heir.\n\nTo ensure a §Gpeaceful transition of power§!, §Omilitary§! morale must be above §Rlow§!, §Vcorruption§! must be lower than §Ymedium§!, and the ROA must be §Gloyal§! when we unite §QWest Russia§!.\n"
  SAM_mechanics_cleanup_tt: "§YWith the political situation stabilizing, the §WROA§!'s loyalty is secure and our officers are numerous, thus disabling the §WROA Officer Shortage Mechanic§!.§!\n"
 
  SAM_roa_influence_tt: "The §jROA§! has §Y35§! or more §Ginfluence§!.\n"
  SAM_civ_influence_tt: "The §MDemocrats§! has §Y35§! or more §Ginfluence§!.\n"
- SAM_bus_influence_tt: "The §TBusinesses§! has §Y35§! or more §Ginfluence§!.\n"
+ SAM_bus_influence_tt: "The §BBusinesses§! has §Y35§! or more §Ginfluence§!.\n"
 
  SAM_roa_influence_high_tt: "The §jROA§! has §Y40§! or more §Ginfluence§!.\n"
  SAM_civ_influence_high_tt: "The §MDemocrats§! has §Y40§! or more §Ginfluence§!.\n"
- SAM_bus_influence_high_tt: "The §TBusinesses§! has §Y40§! or more §Ginfluence§!.\n"
+ SAM_bus_influence_high_tt: "The §BBusinesses§! has §Y40§! or more §Ginfluence§!.\n"
 
  ### Decisions ###
  SAM_debug_category: "Samara Debug Category"
@@ -407,9 +407,9 @@
  SAM_ROA_category: "The ROA Officer Shortage"
  SAM_ROA_category_desc: "The §WROA§! is lacking in officers, we must ensure that adequate leadership is available. This might be a good opportunity to ensure that the chosen heir has the support and loyalty of the officer corps.\n\nThe §WROA§! currently has [ROOT.GetSAM_ROA_officers] of officers.\n\nThe §WROA§! is currently [ROOt.GetSAM_ROA_support] to [ROOt.GetSAM_heir].\n\nTo ensure [ROOt.GetSAM_heir] takes control should anything happen to §WChairman Vlasov§!, [GetSAMHeirRequirements]."
 
- GetSAMHeirRequirementOktan: "§acivilian§! and §Omilitary§! morale must be above §Rlow§! and the ROA must be §Gloyal§! when we unite §QWest Russia§!"
+ GetSAMHeirRequirementOktan: "§Mcivilian§! and §Omilitary§! morale must be above §Rlow§! and the ROA must be §Gloyal§! when we unite §QWest Russia§!"
  GetSAMHeirRequirementZykov: "§Omilitary§! morale must be above §Rlow§!, §Vcorruption§! must be lower than §Ymedium§!, and the ROA must be §Gloyal§! when we unite §QWest Russia§!"
- GetSAMHeirRequirementBunya: "§acivilian§! morale must be above §Rlow§!, §Vcorruption§! must be lower than §Ymedium§!, and the ROA must be §Gloyal§! when we unite §QWest Russia§!"
+ GetSAMHeirRequirementBunya: "§Mcivilian§! morale must be above §Rlow§!, §Vcorruption§! must be lower than §Ymedium§!, and the ROA must be §Gloyal§! when we unite §QWest Russia§!"
 
  SAM_higher_pay_officers: "Higher Pay for Officers"
  SAM_demote_disloyal_officers: "Demote Disloyal Officers"
@@ -430,7 +430,7 @@
 
  SAM_heir_Oktan: "§jMikhail Oktan§!"
  SAM_heir_Zykov: "§gMiletiy Zykov§!"
- SAM_heir_Bunyachenko: "§TSergey Bunyachenko§!"
+ SAM_heir_Bunyachenko: "§BSergey Bunyachenko§!"
 
  SAM_increase_ROA_officers_large_tt: "This will lead to a §Glarge increase§! in §Mofficers§!.\n"
  SAM_increase_ROA_officers_medium_tt: "This will lead to an §Gincrease§! in §Mofficers§!.\n"
@@ -472,7 +472,7 @@
 
 
  SAM_web_of_tensions_category: "§WWeb of Tensions§!"
- SAM_web_of_tensions_category_desc: "As the state expands, §jGeneral Oktan§! and his supporters must constitute individual regional authorities, through appointing §Ygovernors§! from his own §winner circle§!, §jother military cliques§!, or §Mgeneral civilian functionaries§!.\n\nAll three factions exist in an uneasy equilibrium, and balance must be maintained between their appointments if order is to be maintained and state unrest prevented.\n\n§jMilitary Tension§! is [root.GetSAM_military_tension] ([?SAM_military_tension])\n§rMilitary Influence§! is [root.GetSAM_military_influence] ([?SAM_military_influence])\n[root.GetSAM_military_effect]\n\n§MCivilian Tension§! is [root.GetSAM_civilian_tension] ([?SAM_civilian_tension])\n§TCivilian Influence§! is [root.GetSAM_civilian_influence] ([?SAM_civilian_influence])\n[root.GetSAM_civilian_effect]\n\n§wInner Circle Tension§! is [root.GetSAM_inner_circle_tension] ([?SAM_inner_circle_tension])\n§YInner Circle Influence§! is [root.GetSAM_inner_circle_influence] ([?SAM_inner_circle_influence])\n[root.GetSAM_inner_circle_effect]\n\nOur Fiefs:[root.GetSAM_fiefs_stage]"
+ SAM_web_of_tensions_category_desc: "As the state expands, §jGeneral Oktan§! and his supporters must constitute individual regional authorities, through appointing §Ygovernors§! from his own §winner circle§!, §jother military cliques§!, or §Mgeneral civilian functionaries§!.\n\nAll three factions exist in an uneasy equilibrium, and balance must be maintained between their appointments if order is to be maintained and state unrest prevented.\n\n§jMilitary Tension§! is [root.GetSAM_military_tension] ([?SAM_military_tension])\n§rMilitary Influence§! is [root.GetSAM_military_influence] ([?SAM_military_influence])\n[root.GetSAM_military_effect]\n\n§MCivilian Tension§! is [root.GetSAM_civilian_tension] ([?SAM_civilian_tension])\n§BCivilian Influence§! is [root.GetSAM_civilian_influence] ([?SAM_civilian_influence])\n[root.GetSAM_civilian_effect]\n\n§wInner Circle Tension§! is [root.GetSAM_inner_circle_tension] ([?SAM_inner_circle_tension])\n§YInner Circle Influence§! is [root.GetSAM_inner_circle_influence] ([?SAM_inner_circle_influence])\n[root.GetSAM_inner_circle_effect]\n\nOur Fiefs:[root.GetSAM_fiefs_stage]"
  SAM_not_superregional_owned: "[root.GetSAM_arkhangelsk_owned][root.GetSAM_berezniki_owned][root.GetSAM_gayny_owned][root.GetSAM_gorky_owned][root.GetSAM_kazan_owned][root.GetSAM_komi_owned][root.GetSAM_kostroma_owned][root.GetSAM_magnitogorsk_owned][root.GetSAM_onega_owned][root.GetSAM_orenburg_owned][root.GetSAM_perm_owned][root.GetSAM_plesetsk_owned]\nDistrict of Samara: [850.GetSAM_fief_ruler][root.GetSAM_ufa_owned][root.GetSAM_ukhta_owned][root.GetSAM_vologda_owned][root.GetSAM_vyatka_owned]"
  SAM_not_owned: ""
  SAM_arkhangelsk_owned: "\nDistrict of Arkhangelsk: [214.GetSAM_fief_ruler]"
@@ -678,14 +678,14 @@
 
  SAM_oktan_increase_military_influence_low_tt: "This will §Rincrease§! §rMilitary Influence§!.\n"
  SAM_oktan_increase_military_influence_high_tt: "This will §Rgreatly increase§! §rMilitary Influence§!.\n"
- SAM_oktan_increase_civilian_influence_low_tt: "This will §Rincrease§! §TCivilian Influence§!.\n"
- SAM_oktan_increase_civilian_influence_high_tt: "This will §Rgreatly increase§! §TCivilian Influence§!.\n"
+ SAM_oktan_increase_civilian_influence_low_tt: "This will §Rincrease§! §BCivilian Influence§!.\n"
+ SAM_oktan_increase_civilian_influence_high_tt: "This will §Rgreatly increase§! §BCivilian Influence§!.\n"
  SAM_oktan_increase_inner_circle_influence_low_tt: "This will §Rincrease§! §YInner Circle Influence§!.\n"
  SAM_oktan_increase_inner_circle_influence_high_tt: "This will §Rgreatly increase§! §YInner Circle Influence§!.\n"
  SAM_oktan_decrease_military_influence_low_tt: "This will §Gdecrease§! §rMilitary Influence§!.\n"
  SAM_oktan_decrease_military_influence_high_tt: "This will §Ggreatly decrease§! §rMilitary Influence§!.\n"
- SAM_oktan_decrease_civilian_influence_low_tt: "This will §Gdecrease§! §TCivilian Influence§!.\n"
- SAM_oktan_decrease_civilian_influence_high_tt: "This will §Ggreatly decrease§! §TCivilian Influence§!.\n"
+ SAM_oktan_decrease_civilian_influence_low_tt: "This will §Gdecrease§! §BCivilian Influence§!.\n"
+ SAM_oktan_decrease_civilian_influence_high_tt: "This will §Ggreatly decrease§! §BCivilian Influence§!.\n"
  SAM_oktan_decrease_inner_circle_influence_low_tt: "This will §Gdecrease§! §YInner Circle Influence§!.\n"
  SAM_oktan_decrease_inner_circle_influence_high_tt: "This will §Ggreatly decrease§! §YInner Circle Influence§!.\n"
 
@@ -697,19 +697,19 @@
  SAM_high_military_tension: "§OHigh§!"
  SAM_medium_military_tension: "§YMedium§!"
  SAM_low_military_tension: "§GLow§!"
- SAM_negligent_military_tension: "§LNegligent§!"
+ SAM_negligent_military_tension: "§LNegligible§!"
 
  SAM_very_high_civilian_tension: "§RVery High§!"
  SAM_high_civilian_tension: "§OHigh§!"
  SAM_medium_civilian_tension: "§YMedium§!"
  SAM_low_civilian_tension: "§GLow§!"
- SAM_negligent_civilian_tension: "§LNegligent§!"
+ SAM_negligent_civilian_tension: "§LNegligible§!"
 
  SAM_very_high_inner_circle_tension: "§RVery High§!"
  SAM_high_inner_circle_tension: "§OHigh§!"
  SAM_medium_inner_circle_tension: "§YMedium§!"
  SAM_low_inner_circle_tension: "§GLow§!"
- SAM_negligent_inner_circle_tension: "§LNegligent§!"
+ SAM_negligent_inner_circle_tension: "§LNegligible§!"
 
  SAM_high_military_influence: "§OHigh§!"
  SAM_medium_military_influence: "§YMedium§!"
@@ -724,15 +724,15 @@
  SAM_low_inner_circle_influence: "§GLow§!"
 
  SAM_unity_party_category: "State of the §WUnity Party§!"
- SAM_unity_party_category_desc: "§WYedinstvo§!, the §WUnity Party§!, is a §RFrankenstein§! creation of §gMiletiy Zykov§! meant to represent a combination of §Mpro-democrat§!, §Tbusiness§!, and §jmilitary§! interests that have kept him afloat so far. Thus, the party's split is not based on ideology, but instead on personal interests. The §jmilitary§! wants to merge the new army with §WYedinstvo§! and to turn away from §Mdemocracy§!. The §Tbusinesses§! want a §Ystrong, centralized government§! that protects §Tprivate business§! and keeps the §Gpeace§!, while the §MDemocrats§! want a transition towards a §Gfull democracy§!. Juggling all of these factions will be a challenge.\n\nThe current §Ybalance of power§! within the [SAM.GetName], between the factions of:\n- §jThe ROA§!\n- §TBusinesses§!\n- §MDemocrats§!\n\nIs in favor of [GetSAM_zykov_contender_influence]\n"
+ SAM_unity_party_category_desc: "§WYedinstvo§!, the §WUnity Party§!, is a §RFrankenstein§! creation of §gMiletiy Zykov§! meant to represent a combination of §Mpro-democrat§!, §Bbusiness§!, and §jmilitary§! interests that have kept him afloat so far. Thus, the party's split is not based on ideology, but instead on personal interests. The §jmilitary§! wants to merge the new army with §WYedinstvo§! and to turn away from §Mdemocracy§!. The §Bbusinesses§! want a §Ystrong, centralized government§! that protects §Bprivate business§! and keeps the §Gpeace§!, while the §MDemocrats§! want a transition towards a §Gfull democracy§!. Juggling all of these factions will be a challenge.\n\nThe current §Ybalance of power§! within the [SAM.GetName], between the factions of:\n- §jThe ROA§!\n- §BBusinesses§!\n- §MDemocrats§!\n\nIs in favor of [GetSAM_zykov_contender_influence]\n"
 
- SAM_ROA_dominant: "§jThe ROA§! - (§j[?SAM_ROA_faction_strength]§!-§T[?SAM_business_faction_strength]§!-§M[?SAM_democrat_faction_strength]§!).\nDivision Organisation: §G+10%§! War Support: §G+5%§!"
- SAM_business_dominant: "§TBusiness§! - (§T[?SAM_business_faction_strength]§!-§j[?SAM_ROA_faction_strength]§!-§M[?SAM_democrat_faction_strength]§!).\nConsumer Goods: §G-5%§! Construction Speed: §G+10%§!"
- SAM_democrats_dominant: "§MDemocrats§! - (§M[?SAM_democrat_faction_strength]§!-§T[?SAM_business_faction_strength]§!-§j[?SAM_ROA_faction_strength]§!).\nPolitical Power Gain: §G+10%§! Stability: §G+5%§!"
- SAM_noone_dominant: "§ONo Faction§! - (§j[?SAM_ROA_faction_strength]§!-§T[?SAM_business_faction_strength]§!-§M[?SAM_democrat_faction_strength]§!)."
+ SAM_ROA_dominant: "§jThe ROA§! - (§j[?SAM_ROA_faction_strength]§!-§B[?SAM_business_faction_strength]§!-§M[?SAM_democrat_faction_strength]§!).\nDivision Organisation: §G+10%§! War Support: §G+5%§!"
+ SAM_business_dominant: "§BBusiness§! - (§B[?SAM_business_faction_strength]§!-§j[?SAM_ROA_faction_strength]§!-§M[?SAM_democrat_faction_strength]§!).\nConsumer Goods: §G-5%§! Construction Speed: §G+10%§!"
+ SAM_democrats_dominant: "§MDemocrats§! - (§M[?SAM_democrat_faction_strength]§!-§B[?SAM_business_faction_strength]§!-§j[?SAM_ROA_faction_strength]§!).\nPolitical Power Gain: §G+10%§! Stability: §G+5%§!"
+ SAM_noone_dominant: "§ONo Faction§! - (§j[?SAM_ROA_faction_strength]§!-§B[?SAM_business_faction_strength]§!-§M[?SAM_democrat_faction_strength]§!)."
 
  SAM_appease_the_ROA: "Appease §jThe ROA§!"
- SAM_appease_businesses: "Appease the §TBusinesses§!"
+ SAM_appease_businesses: "Appease the §BBusinesses§!"
  SAM_appease_democrats: "Appease the §MDemocrats§!"
 
  SAM_persuade_others_ROA: "Persuade the §OOther Factions§!"
@@ -755,14 +755,14 @@
  SAM_democrat_lower_draft_law_tt: "The §Ydraft§! will be lowered by two years."
 
  SAM_ROA_TANGLE: "§jTHE ROA§!"
- SAM_BUSINESS_TANGLE: "§TBUSINESS§!"
+ SAM_BUSINESS_TANGLE: "§BBUSINESS§!"
  SAM_DEMOCRATS_TANGLE: "§MDEMOCRATS§!"
 
  SAM_zykov_increase_democrat_low_tt: "This will §Gincrease§! §MDemocrat Influence§!."
  SAM_zykov_increase_democrat_high_tt: "This will §Gincrease§! §MDemocrat Influence§! greatly."
 
- SAM_zykov_increase_business_low_tt: "This will §Gincrease§! §TBusiness Influence§!."
- SAM_zykov_increase_business_high_tt: "This will §Gincrease§! §TBusiness Influence§! greatly."
+ SAM_zykov_increase_business_low_tt: "This will §Gincrease§! §BBusiness Influence§!."
+ SAM_zykov_increase_business_high_tt: "This will §Gincrease§! §BBusiness Influence§! greatly."
 
  SAM_zykov_increase_ROA_low_tt: "This will §Gincrease§! §jROA Influence§!."
  SAM_zykov_increase_ROA_high_tt: "This will §Gincrease§! §jROA Influence§! greatly."
@@ -770,8 +770,8 @@
  SAM_zykov_decrease_democrat_low_tt: "This will §Gdecrease§! §MDemocrat Influence§!."
  SAM_zykov_decrease_democrat_high_tt: "This will §Gdecrease§! §MDemocrat Influence§! greatly."
 
- SAM_zykov_decrease_business_low_tt: "This will §Gdecrease§! §TBusiness Influence§!."
- SAM_zykov_decrease_business_high_tt: "This will §Gdecrease§! §TBusiness Influence§! greatly."
+ SAM_zykov_decrease_business_low_tt: "This will §Gdecrease§! §BBusiness Influence§!."
+ SAM_zykov_decrease_business_high_tt: "This will §Gdecrease§! §BBusiness Influence§! greatly."
 
  SAM_zykov_decrease_ROA_low_tt: "This will §Gdecrease§! §jROA Influence§!."
  SAM_zykov_decrease_ROA_high_tt: "This will §Gdecrease§! §jROA Influence§! greatly."

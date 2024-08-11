@@ -44,7 +44,7 @@
  MCW_SGR_tree:0 "The time has come to deal with §YMoskowien§!."
  SGR_poverty_skyrocket_tt:0 "Our §Ypoverty rate§! improvement will §Gskyrocket§!!"
 
- SGR_confrence_starting:0 "The accords must be set to begin."
+ SGR_conference_starting:0 "The accords must be set to begin."
  SGR_resetting_the_doomsday_clock:0 "We must agree to a Nuclear Reduction Treaty."
  SGR_helping_the_untermensch:0 "We must agree to a Slave Rights Treaty."
  SGR_america_first:0 "We must agree to a America First trade policy."
@@ -210,8 +210,8 @@ GER_SGR_WWS_Dummy_desc:0 "§FConstruction Speed: [?SGR_youth_productivity|+=%]\n
  GER_SGR_heer_reform_neutral_desc:0 "At the moment, it seems our efforts to §Yreform the Wehrmacht§! will have §Lmixed§! results."
  GER_SGR_heer_reform_tresckow_one:0 "Wehrmacht Reform Outlook: §MLight§!"
  GER_SGR_heer_reform_tresckow_one_desc:0 "At the moment, it seems our efforts to §Yreform the Wehrmacht§! will result in §Mlight§! changes."
- GER_SGR_heer_reform_tresckow_two:0 "Wehrmacht Reform Outlook: §TSweeping§!"
- GER_SGR_heer_reform_tresckow_two_desc:0 "At the moment, it seems our efforts to §Yreform the Wehrmacht§! will result in §Tsweeping§! changes."
+ GER_SGR_heer_reform_tresckow_two:0 "Wehrmacht Reform Outlook: §BSweeping§!"
+ GER_SGR_heer_reform_tresckow_two_desc:0 "At the moment, it seems our efforts to §Yreform the Wehrmacht§! will result in §Bsweeping§! changes."
  GER_SGR_heer_reform_tresckow_three:0 "Wehrmacht Reform Outlook: §QTotal§!"
  GER_SGR_heer_reform_tresckow_three_desc:0 "At the moment, it seems our efforts to §Yreform the Wehrmacht§! will result in a §Qtotal§! overhaul."
 
@@ -282,7 +282,7 @@ GER_SGR_WWS_Dummy_desc:0 "§FConstruction Speed: [?SGR_youth_productivity|+=%]\n
  GER_Speer_OC_bomb_egypt:0 "Authorize Luftwaffe Operations in §wEgypt§!"
  GER_Speer_OC_bomb_yemen:0 "Authorize Luftwaffe Operations in §SYemen§!"
  GER_Speer_OC_bomb_saudi_arabia:0 "Authorize Luftwaffe Operations in §nSaudi Arabia§!"
- GER_Speer_OC_bomb_oman:0 "Authorize Luftwaffe Operations in §TOman§!"
+ GER_Speer_OC_bomb_oman:0 "Authorize Luftwaffe Operations in §BOman§!"
  GER_Speer_OC_bomb_sudan:0 "Authorize Luftwaffe Operations in §rSudan§!" #color from werbell deccat
  GER_SGR_OC_can_only_do_two_bombings_at_a_time:0 "Due to the situation at home, we cannot spare too many Lufwaffe airwings for the Middle Eastern operations. We can only conduct operations in §Ytwo§! areas at a time."
  GER_Speer_OC_send_industrial_support:0 "Technical Support for the Ba'aths"
@@ -1210,7 +1210,7 @@ GER_ready_for_modern_warfare_tt:0 "§YGermany shall once again prove itself as a
 GER_an_end_to_autarky:0 "An End to Autarky"
 GER_a_meeting_in_the_dark:0 "A Meeting in the Dark"
 GER_the_truth_will_set_us_free:0 "The Truth Will Set Us Free"
-GER_confrence_of_global_security_and_cocoperation:0 "The Conference"
+GER_conference_of_global_security_and_cooperation:0 "The Conference"
 GER_the_reykjavik_accords:0 "The Reykjavik Accords"
 GER_resetting_the_dooomsday_clock:0 "Resetting the Dooomsday Clock"
 GER_helping_the_untermensch:0 "Helping the Untermensch"
@@ -1299,7 +1299,7 @@ GER_norfolk_accords:0 "Norfolk Accords"
 GER_an_end_to_autarky_desc:0 "Our great Führer, Adolf Hitler, once set our Fatherland on a course to pursue the fulfillment of self-sufficiency. And now that this course has led us nowhere, it is time for us to change it.\n\nOur new Führer, Speer, has decided that it is time to try opening trade with the rest of world, especially the Americans. If there is one way out of the never-ending race to achieve wealth for our people, this is it. And we must try our best to keep on it."
 GER_a_meeting_in_the_dark_desc:0 "The Führer is interested in setting a meeting, with the proper discretion, of course, with the American ambassador. Why he seeks this is not entirely known to us, but if we believe in him, it is surely to find a way to lift the embargo their country established against the Fatherland.\n\nLet's make sure it goes well. And carefully."
 GER_the_truth_will_set_us_free_desc:0 "Two choices confront us now. The first choice is to be honest about our Fatherland. Our Führer may want to not hold back on how we really are faring, and so, he may tell the Americans that he would come to the table with no secrets, seeking the best out of the terms they may offer.\n\nThe other one is to keep our secrets close to us. We lie to the Americans and hope that they will believe it. We only have to take one choice, and honesty might be the best policy."
-GER_confrence_of_global_security_and_cocoperation_desc:0 "Our great German Fatherland is seeking to bring a beautiful proposal to the table with the Americans.\n\nThat proposal is the opportunity to have a conference with them, to invite them and talk to them about issues between us. But this conference too should serve us a purpose.\n\nThe end of the embargo is what we seek. Let us hope we receive what we seek indeed."
+GER_conference_of_global_security_and_cooperation_desc:0 "Our great German Fatherland is seeking to bring a beautiful proposal to the table with the Americans.\n\nThat proposal is the opportunity to have a conference with them, to invite them and talk to them about issues between us. But this conference too should serve us a purpose.\n\nThe end of the embargo is what we seek. Let us hope we receive what we seek indeed."
 GER_the_reykjavik_accords_desc:0 "Our Reich shall come to Reykjavik to meet with the Americans. And there, we shall do our best to solve our issues with them together. And hopefully, once and for all.\n\nDuring that meeting, we are going to have to make compromises. There is a chance the Americans will ask a great deal out of us. Let us hope doing so will get them on our side. And nothing too drastic."
 GER_resetting_the_dooomsday_clock_desc:0 "We have made a very important decision. And this should not cost us more.\n\nWe shall see to it that our nuclear arsenal is reduced, and that our capabilities shall be regulated. It is a serious compromise, indeed, but it would be one great step towards getting the Americans to become more friendly with us."
 GER_helping_the_untermensch_desc:0 "Another agreement has been made. And that concerns our former property.\n\nWhat the Americans called slaves we shall treat more kindly. And hopefully that should show to them that we are more than willing to do what is right.\n\nAfter all, that is something we wished to do too. Let's just hope they don't rub that in our faces too much."
@@ -2117,7 +2117,7 @@ SGR_Hamburg_delgation: "We are ready to receive the American delegation in Hambu
  SGR_collect_the_proposals:0 "Collect the Proposals"
  SGR_koalition_der_nationen:0 "Koalition der Nationen"
 
- SGR_KN_focus_tt:0 "§WWe will §Tsend out word of our idea§! to the other §Rsuperpowers of the world§!.§!"
+ SGR_KN_focus_tt:0 "§WWe will §Bsend out word of our idea§! to the other §Rsuperpowers of the world§!.§!"
  SGR_the_sword_has_fallen_tt:0 "The Sword of Damocles has fallen on our shoulders!"
 
  SGR_the_sword_has_fallen_desc:0 "Out of nowhere, our administration has been completely blindsided by a slave uprising not seen in our Reich's history. Led by left wing students and revolutionaries, the Reichsbanner has torn a bloody gash down Eastern Europe, splitting the Reich in two.\n\nOn our side, the Gang and Speer enter into their final split on policy, the Gang pulling one way while the Führer pulls the other. Helmut Schmidt, leading the charge to agree to the slave demands, clashes directly with Albert Speer's own call to accept only the bare minimum, nothing more, and force them back into the fold. The Reichstag cracks in confusion and chaos, and the Reich lies helpless to respond.\n\nIn the East, Ferdinand Schörner has committed his final betrayal, splitting from the Reich with the promise to march west, crush the slaves, and complete his return as a hero to Germany. If the revolt is not dealt with before his invasion begins, our plans are surely doomed.\n\nThis very well could be the moment that decides Speer's Reich. Whether he maintains control or not, this is an event that will ring through all of European history forevermore. It is crucial that we do not fail."
@@ -4112,7 +4112,7 @@ SPEERUSA.8.t:0 "Let's Do This"
 SPEERUSA.8.desc:0 "A grand hall had been chosen for a grand event. The convoy housing the American delegation navigates up a winding road to the ornate front gates of the venue. Inside the armoured vehicles, OFN ambassadors stare in impression at the carefully placed iconography; on one side, consecutive German and American flags, on the other, the same pattern of Einheitspakt and OFN flags. The press is already there, God bless them, with the whole scene being filmed and broadcasted across the English and German speaking worlds. Out of the convoy, men in fine suits and ties smile for the cameras and enter into the hall.\n\nNervous energy buzzes around the room as the greatest diplomatic minds of the OFN and the Pakt sit opposite each other in the centre of the hall. Navigating the outskirts of the room, journalists take notes and official photographers snap the occasional picture. In the centre of the Pakt's delegation, a man puts out his cigarette and adjusts his tie, neatening his clothing to match his perfectly combed, greying-brown hair. "So, gentlemen," Helmut Schmidt began, "shall we begin?""
 SPEERUSA.8.a:0 "Politics is the art of the possible."
 
-SPEERUSA.9.t:0 "Conference of Global Security and Co-Cooperation"
+SPEERUSA.9.t:0 "Conference of Global Security and Cooperation"
 SPEERUSA.9.desc:0 "The negotiations had continued off and on for several days - the Americans had played remarkably coy with their demands so far, but only a fool would have let the proceedings begin without an idea of what the Americans would demand at the end. In fact it was predictable how unpredictable they were being. Everyone here had clearly learned from the same playbook, which made it all the easier to dance between them with unspoken promises and tie them in knots with double meanings.\n\nReichsminister Schmidt lit his third cigarette of the meeting. The brief head rush it provided gave him as much clarity as it seemed to sap from everyone else in the room - the Amerikaners gave one another an unspoken message that was more of a scream. He had known what they would ask for days ago - those since had just been to decide what he was willing to give. It was a difficult game, one where neither his own government nor the oppositions could know his goals. Thus far however, all was going to plan.\n\n"In order to resume official diplomatic relations between our nations," Dowling coughed, "there must be some concessions." Schmidt took another drag, and gestured for him to continue.\n\n"Number one. Nuclear parity must be maintained but overall stockpiles must be reduced. An overall reduction in worldwide nuclear stockpiles is essential to maintain peace. Number two. The institution of forced foreign labour in Germany is unacceptable, and while current efforts to end it are recognised the rights of the workers must be improved until workers can be repatriated. Number three. World trade must be renormalised, and trade between our nations would go a long way towards that."\n\nAnother drag - so predictable. Schmidt had considered this days ago. He ground his cigarette into the ashtray to the obvious relief of his counterpart, and said -"
 SPEERUSA.9.a:0 ""We could consider a mutual nuclear reduction.""
 SPEERUSA.9.b:0 ""We will of course guarantee the rights of our involuntary workers.""
@@ -4120,7 +4120,7 @@ SPEERUSA.9.c:0 ""America will always be the first choice for our markets.""
 SPEERUSA.9.d:0 ""Americans and slaves go together like biscuits and gravy.""
 SPEERUSA.9.e:0 "More Options"
 
-SPEERUSA.102.t:0 "Conference of Global Security and Co-Cooperation"
+SPEERUSA.102.t:0 "Conference of Global Security and Cooperation"
 SPEERUSA.102.desc:0 "The negotiations had continued off and on for several days - the Americans had played remarkably coy with their demands so far, but only a fool would have let the proceedings begin without an idea of what the Americans would demand at the end. In fact it was predictable how unpredictable they were being. Everyone here had clearly learned from the same playbook, which made it all the easier to dance between them with unspoken promises and tie them in knots with double meanings.\n\nReichsminister Schmidt lit his third cigarette of the meeting. The brief head rush it provided gave him as much clarity as it seemed to sap from everyone else in the room - the Amerikaners gave one another an unspoken message that was more of a scream. He had known what they would ask for days ago - those since had just been to decide what he was willing to give. It was a difficult game, one where neither his own government nor the oppositions could know his goals. Thus far however, all was going to plan.\n\n"In order to resume official diplomatic relations between our nations," Dowling coughed, "there must be some concessions." Schmidt took another drag, and gestured for him to continue.\n\n"Number one. Nuclear parity must be maintained but overall stockpiles must be reduced. An overall reduction in worldwide nuclear stockpiles is essential to maintain peace. Number two. The institution of forced foreign labour in Germany is unacceptable, and while current efforts to end it are recognised the rights of the workers must be improved until workers can be repatriated. Number three. World trade must be renormalised, and trade between our nations would go a long way towards that."\n\nAnother drag - so predictable. Schmidt had considered this days ago. He ground his cigarette into the ashtray to the obvious relief of his counterpart, and said -"
 SPEERUSA.102.a:0 ""Less nukes and open markets makes two happier countries.""
 SPEERUSA.102.b:0 ""Slave rights will be assured, along with the safety of the world.""
@@ -4153,7 +4153,7 @@ SPEERUSA.15.t:0 "Nuclear Disarmament and Slave Rights"
 SPEERUSA.15.desc:0 "The Germans have agreed to reducing their nuclear stockpile as well as ensuring more rights for their "Indentured Workers". For the first time in thirty years, it seems the Reich is truely trying to change, while it's not full emancipation, it's a step into the right direction. With their nuclear arsenal set to begin reduction, the world can breathe a little easier."
 SPEERUSA.15.a:0 "A happier, safer world, is truly possible."
 
-SPEERUSA.16.t:0 "Germany Agrees to All Three Demands."
+SPEERUSA.16.t:0 "Germany Agrees to All Three Demands"
 SPEERUSA.16.desc:0 "The Germans, in a very surprising turn of events indeed, have accepted all demands on the table. They will begin not only reducing their nuclear stockpile, but begin an American first trade policy, as well as improving their slaves rights. While the German delegation seemed quite eager to agree, no small amount of praise should be kept from our diplomats who were able to hammer out this treaty with grace."
 SPEERUSA.16.a:0 "This could lead to something bright indeed."
 
@@ -5516,7 +5516,7 @@ SGR_field_3_armies:0 "§YWe will be able to field §M72§! divisions!§!"
 #Reichsbanner Negotiation
  
  SGR_RSRG_waiting_tt:0 "§WAll we can do now is §Mwait§!.§!"
- SGR_RSRG_no_oversight_tt:0 "§WThis will allow us to §Ynegotiate §Rwithout§! Speer's oversight§!. Available due to an at least §GREFORMIST§! £social_outlook_texticon §TSocial Outlook§!.§!"
+ SGR_RSRG_no_oversight_tt:0 "§WThis will allow us to §Ynegotiate §Rwithout§! Speer's oversight§!. Available due to an at least §GREFORMIST§! £social_outlook_texticon §BSocial Outlook§!.§!"
  SGR_RSRG_oversight_tt:0 "§WThis will limit us to §Yagreements §Rwithin Speer's vision§!§!.§!"
  SGR_RSRG_terrible_idea_tt:0 "§RSpeer's overseeing protection force has something different in mind.§! §xThis will lead to catastrophe!§!"
  SGR_RSRG_no_oversight_result_tt:0 "§WThis option is available §Ydue to the lack of §RSpeer's§! oversight on the negotiations§!.§!"
@@ -5704,15 +5704,15 @@ SGR_field_3_armies:0 "§YWe will be able to field §M72§! divisions!§!"
  speerphase3.15.desc:0 "The Führer did not bend. Or did he?\n\nWhen word came - the Americans and the Japanese have shown interest, more specifically, it was as if a dim light sparked with life once more in his mind. He never truly was a fan of war. It was a costly affair. A glorious one, you could say, but look where it led the Reich to. Men like Bormann, men like Göring...\n\nMen like Heydrich.\n\nSpeer shuddered. What visceral carnage they would have wrought upon the Reich. They were long gone now, however. Only phantoms. And with the Gang of Four out of his way, and the NSDAP following his will and his voice, he would make the finishing touches to his precious Reich - his final test, that came not in the form of a revolt, or dealing with dissent. It came as a goal to secure the future of the Thousand Year Reich.\n\nThe Koalition der Nationen transcended all of his previous architectural goals. Germania would be merely a backdrop in comparison as to what will come. Albert Speer's will was powerful, and after having dealt with the brunt of the Reich's issues all at once, he pulled out victorious. This time, however, he would have to cement his legacy forever. The KdN in Speer's mind would not only certify Germany's dominion over Europe.\n\nIt would seat them as the leader of the world. The greatest house that Albert Speer would begin crafting started now."
  speerphase3.15.a:0 "Deutschland über alles."
 
- speer_ending_fash_tt:0 "§TIt seems that some things never die, as the §jNSDAP§! under §jSpeer§! was shaken but appears to be on the path to recovery. The §GGang of Four§!, however, is being put under the heel by the Führer. Whatever the future may grant, it will be a struggle - but §jshould the right people prevail§!, it will be one §Rof National Socialism.§!§!\n\n§WFrom the entire Speer team, thank you for playing! We hope you've enjoyed it!§!"
+ speer_ending_fash_tt:0 "§BIt seems that some things never die, as the §jNSDAP§! under §jSpeer§! was shaken but appears to be on the path to recovery. The §GGang of Four§!, however, is being put under the heel by the Führer. Whatever the future may grant, it will be a struggle - but §jshould the right people prevail§!, it will be one §Rof National Socialism.§!§!\n\n§WFrom the entire Speer team, thank you for playing! We hope you've enjoyed it!§!"
 
  speerphase3.16.t:0 "Birds of a Feather Flock Together"
  speerphase3.16.desc:0 "Kiesinger bit his thumb lightly. "They've received the letter well, you say?" He asked Schmidt, and the man nodded. "That's very good." Kiesinger withdrew his thumb and put his hands together. "I'll be looking forward to help develop this idea. We should be working as close as possible to get a theoretical framework of what a Koalition would look like, make certain to the other two superpowers that it would be worth their time joining. However..." Kiesinger let a second or two of silence pass before he continued. "Herr Speer, Helmut. He's a volatile element."\n\nAs Schmidt took in his words, he momentarily closed his eyes and thought. Then, he shook his head. "No," he began with a sigh. "Speer is quite the stable substance, I would say." Kiesinger looked at him with suspicion, but Schmidt's in return glowed with confidence. "I have seen him at his very worst, Kurt. He is nothing but a hollow shell of a man. He is a liar, a coward, a thief, and an architect of nothing but murder. To name any positive traits about him would be deluding myself. To your eyes, that would make him unstable. But to me..." Schmidt turned around in his chair and looked to the window outside. "He is the perfect puppet."\n\nKiesinger froze up for a moment. He hadn't expected the man who grazed death under the presence of the Führer to so openly denigrate him. "So you have no worries, then. I see. A question, however." Schmidt made no motion to decline answering. "Would you dare say this all to his face? If he is such a weak puppet, then would you get away with doing so?"\n\nSchmidt's stoic frown cracked, and he gave a small smile. Then a chuckle followed as he turned around and gave Kiesinger a look of renewed vigor."
  speerphase3.16.a:0 ""What makes you think I haven't done so already?""
 
- speer_ending_auth_tt:0 "§TThe §jNSDAP§! has been given a mortal blow and §jSpeer§! himself, bitter and increasingly more withdrawn at his loss of influence, is not long for the world. The §GGang of Four§! emerged victorious from the battle with their Führer. Whatever the future may grant, it will be a struggle - but §Gshould the right people prevail§!, it will be §gone§! §Rof§! §Yhope§!.§!\n\n§WFrom the entire Speer team, thank you for playing! We hope you've enjoyed it!§!"
+ speer_ending_auth_tt:0 "§BThe §jNSDAP§! has been given a mortal blow and §jSpeer§! himself, bitter and increasingly more withdrawn at his loss of influence, is not long for the world. The §GGang of Four§! emerged victorious from the battle with their Führer. Whatever the future may grant, it will be a struggle - but §Gshould the right people prevail§!, it will be §gone§! §Rof§! §Yhope§!.§!\n\n§WFrom the entire Speer team, thank you for playing! We hope you've enjoyed it!§!"
 
- speer_reload_game_tt:0 "\n§YDEVELOPERS NOTE:§! §TIf after this event the new focuses don't show up in the tree, simply save and reload your game and they will appear."
+ speer_reload_game_tt:0 "\n§YDEVELOPERS NOTE:§! §BIf after this event the new focuses don't show up in the tree, simply save and reload your game and they will appear."
  
  #Phase 3 Tooltips
 
@@ -5758,7 +5758,7 @@ SGR_field_3_armies:0 "§YWe will be able to field §M72§! divisions!§!"
  SGR_pet_industrial_capacity_tt:0 "§YGerman-American Commerce§! will change:\nFactory Output: §G+1%§!.\n"
  SGR_pet_consumer_goods_negative_tt:0 "§YGerman-American Commerce§! will change:\nNeeded Consumer Goods: §R+1%§!.\n"
  SGR_pet_industrial_capacity_negative_tt:0 "§YGerman-American Commerce§! will change:\nFactory Output: §R-1%§!.\n"
- SGR_megacorp_attack_tt:0 "§WForeign competition for §LIG FARBEN§!, §jREICHSWERKE§!, §ODAIMLER-BENZ§! and §TSIEMENS§! will §Gslightly weaken them§!.§!"
+ SGR_megacorp_attack_tt:0 "§WForeign competition for §LIG FARBEN§!, §jREICHSWERKE§!, §ODAIMLER-BENZ§! and §BSIEMENS§! will §Gslightly weaken them§!.§!"
  
  GER_SGR_german_american_commerce_dynamic_modifier:0 "German-American Commerce"
  GER_SGR_encouraging_civilian_trading:0 "Encouraging Civilian Trading"
@@ -5831,11 +5831,11 @@ SGR_Outlook_Desc:0 "The Reich's §Ysocial outlook§! represents the general feel
 SGR_slave_revolt_tt:0 "§xThe Slave Revolt begins.§! NEW DECISIONS AND FOCUSES AVAILABLE!"
 
 SGR_escalation_decision_category:0 "§RThe Slave Revolt§!"
-SGR_escalation_decision_category_desc:0 "\n\n\n\n\n\nControl over Eastern Europe has §Rslipped§! from Germania, with both the slaves led by §RWilly Brandt's Reichsbanner§! and rebellious §jWehrmacht units under Feldmarschall Schörner§! threatening to destroy everything §YSpeer§! and the §GGang§! have built over the years.\n\nStill, it is clear we §Ycannot simply storm over both§!. §RReichsbanner§! and its supporters hold key industrial regions of the §QZollverein§! and murdering thousands of slaves would §Rutterly destroy any international goodwill§!. §jSchörner§! threatens to go against the slaves no matter Germania's will - and while Russia has worth in itself, §Yit is a smaller price to pay than the alternative§!.\n\n£GFX_mbt_texticon §TPREPAREDNESS§!: §Y[?SGR_intervention_preparedness]/100§!\n\n£GFX_approval_texticon  §RSOCIAL AGITATION§!: §Y[?SGR_escalation_social_agitation]/100§!.\n\nTo launch an invasion, the Wehrmacht must be §Tsufficiently prepared§! and §Rcivilian agitation§! sufficiently reduced."
+SGR_escalation_decision_category_desc:0 "\n\n\n\n\n\nControl over Eastern Europe has §Rslipped§! from Germania, with both the slaves led by §RWilly Brandt's Reichsbanner§! and rebellious §jWehrmacht units under Feldmarschall Schörner§! threatening to destroy everything §YSpeer§! and the §GGang§! have built over the years.\n\nStill, it is clear we §Ycannot simply storm over both§!. §RReichsbanner§! and its supporters hold key industrial regions of the §QZollverein§! and murdering thousands of slaves would §Rutterly destroy any international goodwill§!. §jSchörner§! threatens to go against the slaves no matter Germania's will - and while Russia has worth in itself, §Yit is a smaller price to pay than the alternative§!.\n\n£GFX_mbt_texticon §BPREPAREDNESS§!: §Y[?SGR_intervention_preparedness]/100§!\n\n£GFX_approval_texticon  §RSOCIAL AGITATION§!: §Y[?SGR_escalation_social_agitation]/100§!.\n\nTo launch an invasion, the Wehrmacht must be §Bsufficiently prepared§! and §Rcivilian agitation§! sufficiently reduced."
 
 SGR_escalation_military_open:0 "[getSGRSRMilitaryHeader]"
-SGR_escalation_military_open_open:0 "§YShow§! §TMilitary Decisions§!"
-SGR_escalation_military_open_hide:0 "§YHide§! §TMilitary Decisions§!"
+SGR_escalation_military_open_open:0 "§YShow§! §BMilitary Decisions§!"
+SGR_escalation_military_open_hide:0 "§YHide§! §BMilitary Decisions§!"
 SGR_escalation_military_open_desc:0 ""
 
 SGR_escalation_society_open:0 "[getSGRSRSocietyHeader]"
@@ -5901,9 +5901,9 @@ SGR_SR_oil_crisis_tt:0 "§WThe Global Economy is §Rmelting down§!!§!"
 SGR_SR_salvage_economy_tt:0 "§WWe will attempt to fight the §Rcrippling debt and ailing economy§!.§!"
 
 
-SGR_SR_intervention_increase_small_tt:0 "§TPreparedness§! will §gsomewhat§! §Gincrease§!."
-SGR_SR_intervention_increase_med_tt:0 "§TPreparedness§! will §Gincrease§!."
-SGR_SR_intervention_increase_big_tt:0 "§TPreparedness§! will §Ysignificantly§! §Gincrease§!."
+SGR_SR_intervention_increase_small_tt:0 "§BPreparedness§! will §gsomewhat§! §Gincrease§!."
+SGR_SR_intervention_increase_med_tt:0 "§BPreparedness§! will §Gincrease§!."
+SGR_SR_intervention_increase_big_tt:0 "§BPreparedness§! will §Ysignificantly§! §Gincrease§!."
 
 SGR_SR_agitation_decrease_small_tt:0 "§RSocial Agitation§!£GFX_approval_texticon will §gsomewhat§! §Gdecrease§!."
 SGR_SR_agitation_decrease_med_tt:0 "§RSocial Agitation§!£GFX_approval_texticon will §Gdecrease§!."
@@ -5919,8 +5919,8 @@ SGR_revolt_cp_30_cost_blocked:0 "£GFX_command_power §R30§!"
 
 SGR_revolt_cp_10_cost:0 "£GFX_command_power §Y10§!"
 SGR_revolt_cp_10_cost_blocked:0 "£GFX_command_power §R10§!"
-SGR_preparedness_tooltip_80:0 "Our §TPreparedness§! is at §G80§! or above."
-SGR_lose_20_preparedness:0 "We will lose §R20§! §TPreparedness§!!"
+SGR_preparedness_tooltip_80:0 "Our §BPreparedness§! is at §G80§! or above."
+SGR_lose_20_preparedness:0 "We will lose §R20§! §BPreparedness§!!"
 
 SGR_escalation_luft_ref_check:0 "The Luftwaffe has been reformed."
 SGR_escalation_kriegsmarine_ref_check:0 "The Kriegsmarine has been reformed."
@@ -5943,8 +5943,8 @@ SGR_escalation_money_cost_blocked:0 "£political_power_texticon §R30§! £dolla
 SGR_escalation_money_cost_tooltip:0 "This decision will cost £political_power_texticon §Y30§! and £dollar_sign §Y25M§!"
 
 sgr_military_reform_success:0 "The reformation of the Wehrmacht has been a success."
-SGR_escalation_thing_complete:0 "§TWe are fully prepared to stop Schörner!§!"
-SGR_preparedness_tooltip:0 "Our §TPreparedness§! is at §G100§!"
+SGR_escalation_thing_complete:0 "§BWe are fully prepared to stop Schörner!§!"
+SGR_preparedness_tooltip:0 "Our §BPreparedness§! is at §G100§!"
 SGR_working_with_remer_tooltip:0 "We are not currently working with §jRemer§! to seize territory"
 SGR_socstab_tooltip:0 "Our §SSocial Stability§! is at §G100§!"
 SGR_escalation_thing_speer_focus_schorner:0 "§YSpeer§! is currently focusing on Schörner!"

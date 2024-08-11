@@ -43,8 +43,12 @@
  EWE_paternalism_party_grunitzky: "PP"
  EWE_paternalism_party_grunitzky_long: "Parti du Progrès"
 
+ CPP_communist_party: "CPP"
+ CPP_communist_party_long: "Convention People's Party"
  CPP_socialist_party: "CPP"
  CPP_socialist_party_long: "Convention People's Party"
+ CPP_progressivism_party: "CGU"
+ CPP_progressivism_party_long: "Committee for Ghana's Unity"
 
  ### Character ###
  EWE_Komla_Agbeli_Gbedemah: "Komla Agbeli Gbedemah"

@@ -11,6 +11,7 @@
  # OFN and LATAM
  TNO_newspaper_header_USA: "\n£custom_header_USA\n\n\n\n"
  TNO_newspaper_header_CAN: "\n£custom_header_CAN\n\n\n\n"
+ TNO_newspaper_header_MEX: "\n£custom_header_MEX\n\n\n\n"
  TNO_newspaper_header_BRA: "\n£custom_header_BRA\n\n\n\n"
  TNO_newspaper_header_CHL_mercurio: "\n£custom_header_CHL_mercurio\n\n\n\n"
  TNO_newspaper_header_URG: "\n£custom_header_URG\n\n\n\n"

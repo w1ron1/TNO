@@ -469,7 +469,7 @@
  chi.63.a:0 "Industrialization with Chinese characteristics"
 
  chi.64.t:0 "The Grid"
- chi.64.d:0 "The noble Chinese peasant still lives a primeval life that wouldn't be out of place in the old days of the Warlord Era or even the Qing Dynasty. If he does have any limited power or running water, it is entirely locally sourced, often leading to inconvienent arrangements or a lack of arrangements. And so, the Chinese peasant lives without a light to read or water to bathe. Ironically, this regionalist energy infrastructure means we power our oil wells and refineries with kerosene.\n\nAcross the Yellow Sea, each Japanese citizen lives with power coursing through his home. Their energy grid, a nationally standardized system, produces energy that may be used on the other side of the Empire. Great power lines fly along the shoulders of country roads. This lofty goal, once unthinkable, may now be attainable. By connecting regionalized energy infrastructure, we can replicate Japan's achievements and give every man in China light."
+ chi.64.d:0 "The noble Chinese peasant still lives a primeval life that wouldn't be out of place in the old days of the Warlord Era or even the Qing Dynasty. If he does have any limited power or running water, it is entirely locally sourced, often leading to inconvenient arrangements or a lack of arrangements. And so, the Chinese peasant lives without a light to read or water to bathe. Ironically, this regionalist energy infrastructure means we power our oil wells and refineries with kerosene.\n\nAcross the Yellow Sea, each Japanese citizen lives with power coursing through his home. Their energy grid, a nationally standardized system, produces energy that may be used on the other side of the Empire. Great power lines fly along the shoulders of country roads. This lofty goal, once unthinkable, may now be attainable. By connecting regionalized energy infrastructure, we can replicate Japan's achievements and give every man in China light."
  chi.64.a:0 "Set the lamps alight!"
 
  chi.65.t:0 "Manning the Factories"
@@ -1442,7 +1442,7 @@
  chi_wi.5.a.tt:0 "With the victory over the Mad Dog of the Southwest, §YOrder in East Asia§! will be restored.\n\n§MOur expanded military freedoms will be§! §Rrestricted§! §Magain, while we will regain§! §Ycontrol§! §Mover§! §Your§! §Mprovincial governors§!§Y.§!\n\n"
 
  chi_wi.6.t:0 "Hollow Victory" 
- chi_wi.6.desc:0 ""The war is over!" The rally rings from every radio. Officials parrot it incessantly in speeches. The odd naive youth, sheltered by ignorance, excitedly declares it. The war is over; That much is true. But China did not win.\n\nThe victors of the war are the soldiers who, with superior equipment and training, defeated Long Yun. The victors are the Zaibatsu that discovered the secret of transmuting arms to yen: Chinese blood. The victors are the politicians that fold their hands, look brave, and order young men to their deaths. The victors are the Japanese.\n\nEveryone knows it. The people know it. The army knows it. The Yuan knows it. Most of all, Presiden Gao Zongwu knows it. He knows that China is not ready for the future. If they cannot defeat their fellow Chinese, what hope do they have of defeating the Japanese?\n\nStone-faced, he begins drafting a letter of gratitude. "To our asian brothers," it begins, as too many others did. He then extolls the bravery of Japanese soldiers and the generosity of the emperor. He thanks the Japanese for their commitment towards the protection of China. Finally, he humbly requests that the Republic of China be given joint oversight of the Xinan territory in the spirit of Pan-Asiansim, ending the letter. Every word feels as though it is written in his own blood. He drops the pen. Piles of papers flood his desk, but no more work will be done today. Today, all of China is immobilized by shame."
+ chi_wi.6.desc:0 ""The war is over!" The rally rings from every radio. Officials parrot it incessantly in speeches. The odd naive youth, sheltered by ignorance, excitedly declares it. The war is over; That much is true. But China did not win.\n\nThe victors of the war are the soldiers who, with superior equipment and training, defeated Long Yun. The victors are the Zaibatsu that discovered the secret of transmuting arms to yen: Chinese blood. The victors are the politicians that fold their hands, look brave, and order young men to their deaths. The victors are the Japanese.\n\nEveryone knows it. The people know it. The army knows it. The Yuan knows it. Most of all, Presiden Gao Zongwu knows it. He knows that China is not ready for the future. If they cannot defeat their fellow Chinese, what hope do they have of defeating the Japanese?\n\nStone-faced, he begins drafting a letter of gratitude. "To our Asian brothers," it begins, as too many others did. He then extolls the bravery of Japanese soldiers and the generosity of the emperor. He thanks the Japanese for their commitment towards the protection of China. Finally, he humbly requests that the Republic of China be given joint oversight of the Xinan territory in the spirit of Pan-Asiansim, ending the letter. Every word feels as though it is written in his own blood. He drops the pen. Piles of papers flood his desk, but no more work will be done today. Today, all of China is immobilized by shame."
  chi_wi.6.a:0 "Tomorrow, the real work begins."
 
  chi_wi.7.t:0 "The NPA, Defeated"
@@ -1795,7 +1795,7 @@ CHI_Polio_desc:0 "Samples of water, food, human tissue and more have been sent t
 CHI_Cure:0 "A Cure!"
 CHI_Cure_desc:0 "We have our killer: polio has begun to infest our western provinces in epidemic proportions. Not much is known of the disease within our own fledgling medical community, but all are united in the desire to find a cure and defeat this menace. The only question is how."
 CHI_Alternate_Approach:0 "An Alternate Approach"
-CHI_Alternate_Approach_desc:0 "Three proposals for finding a cure have come forward. Among the pan asianists there is a strong desire to seek help from Japan, indeed several Japanese experts have already volunteered to aid the people of west China. Others wish to build up our own capacity, and to deal with this problem on our own ability through expanding our research. Then the third: a Peking research group claims that by bringing together the best and brightest of China we can find a cure in no time!"
+CHI_Alternate_Approach_desc:0 "Three proposals for finding a cure have come forward. Among the Pan-Asianists there is a strong desire to seek help from Japan, indeed several Japanese experts have already volunteered to aid the people of west China. Others wish to build up our own capacity, and to deal with this problem on our own ability through expanding our research. Then the third: a Peking research group claims that by bringing together the best and brightest of China we can find a cure in no time!"
 CHI_Virology:0 "Research Virology"
 CHI_Virology_desc:0 "While we may not yet know how to stop polio, our medical professionals do know that the poliovirus is the agent of our misery. The logical first step then to aiding our people is researching the nature and spread of the disease. Breaking out textbooks, consulting experts: the long road to a cure is starting."
 CHI_Understand_Spread:0 "Understand the Spread"
@@ -2395,7 +2395,7 @@ CHI_Marching_On_desc_tt:0 "§YIt will take years to fully recover from the crash
  CHI_fac_japanophile_opn_yellow:0 "[?CHI.faction_pro_japan_opinion|Y2]"
  CHI_fac_japanophile_opn_lime:0 "[?CHI.faction_pro_japan_opinion|w2]"
  CHI_fac_japanophile_opn_green:0 "[?CHI.faction_pro_japan_opinion|G2]"
- CHI_fac_japanophile_opn_bluegreen:0 "[?CHI.faction_pro_japan_opinion|T2]"
+ CHI_fac_japanophile_opn_bluegreen:0 "[?CHI.faction_pro_japan_opinion|B2]"
  CHI_fac_japanophile_opn_lightbluegreen:0 "[?CHI.faction_pro_japan_opinion|M2]"
  CHI_fac_japanophile_opn_lightblue:0 "[?CHI.faction_pro_japan_opinion|J2]"
  CHI_fac_japanophile_opn_lavender:0 "[?CHI.faction_pro_japan_opinion|l2]"
@@ -2405,7 +2405,7 @@ CHI_Marching_On_desc_tt:0 "§YIt will take years to fully recover from the crash
  CHI_fac_old_guard_opn_yellow:0 "[?CHI.faction_old_guard_opinion|Y2]"
  CHI_fac_old_guard_opn_lime:0 "[?CHI.faction_old_guard_opinion|w2]"
  CHI_fac_old_guard_opn_green:0 "[?CHI.faction_old_guard_opinion|G2]"
- CHI_fac_old_guard_opn_bluegreen:0 "[?CHI.faction_old_guard_opinion|T2]"
+ CHI_fac_old_guard_opn_bluegreen:0 "[?CHI.faction_old_guard_opinion|B2]"
  CHI_fac_old_guard_opn_lightbluegreen:0 "[?CHI.faction_old_guard_opinion|M2]"
  CHI_fac_old_guard_opn_lightblue:0 "[?CHI.faction_old_guard_opinion|J2]"
  CHI_fac_old_guard_opn_lavender:0 "[?CHI.faction_old_guard_opinion|l2]"
@@ -2415,7 +2415,7 @@ CHI_Marching_On_desc_tt:0 "§YIt will take years to fully recover from the crash
  CHI_fac_reformist_opn_yellow:0 "[?CHI.faction_reformist_opinion|Y2]"
  CHI_fac_reformist_opn_lime:0 "[?CHI.faction_reformist_opinion|w2]"
  CHI_fac_reformist_opn_green:0 "[?CHI.faction_reformist_opinion|G2]"
- CHI_fac_reformist_opn_bluegreen:0 "[?CHI.faction_reformist_opinion|T2]"
+ CHI_fac_reformist_opn_bluegreen:0 "[?CHI.faction_reformist_opinion|B2]"
  CHI_fac_reformist_opn_lightbluegreen:0 "[?CHI.faction_reformist_opinion|M2]"
  CHI_fac_reformist_opn_lightblue:0 "[?CHI.faction_reformist_opinion|J2]"
  CHI_fac_reformist_opn_lavender:0 "[?CHI.faction_reformist_opinion|l2]"
@@ -2938,7 +2938,7 @@ CHI_Marching_On_desc_tt:0 "§YIt will take years to fully recover from the crash
  CHI_Secret_Army_GUI_recruitment_bar_tt:0 "Recruitment: [?CHI_sa_recruitment|Y0]\n\nTraining Time: [?CHI_sa_training_time|G%=]\nMilitary Professionalism Monthly Change: [?CHI_sa_army_prof_gain|G+]"
  CHI_Secret_Army_GUI_training_bar_tt:0 "Training: [?CHI_sa_training|Y0]\n\nDivision Organization: [?CHI_sa_org|G%=]\nDivision Speed: [?CHI_sa_speed|G%=]" 
  CHI_Secret_Army_GUI_weapon_bar_tt:0 "Weaponry: [?CHI_sa_weaponry|Y0]\n\nResearch Speed: [?CHI_sa_research_speed|G%=]\nFactory Output: [?CHI_sa_factory_output|G%=]"
- CHI_Secret_Army_GUI_decision_time_info_tt:0 "The time required to complete a Secret Army task is dependent on §cNSB effectiveness§!, which will speed up the task by [?CHI_GUI_NSB_decision_time_calc|Y] days currently."
+ CHI_Secret_Army_GUI_decision_time_info_tt:0 "The time required to complete a Secret Army task is dependent on §PNSB effectiveness§!, which will speed up the task by [?CHI_GUI_NSB_decision_time_calc|Y] days currently."
  CHI_sa_decision_active:0 "Another §CSecret Army§! is currently active"
  
  CHI_sa_increase_recruitment_tt:0 "The §YRecruitment Level§! of the §CSecret Army§! will §Gincrease§! by [?tempSARecruitment_tt|Y0]."

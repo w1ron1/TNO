@@ -405,7 +405,7 @@ tno_assorted_laws: "Різноманітні закони"
 
 economic_ideas: "Економічні ідеї"
 #Tooltips
-tno_regulations_utterly_unregulated_tt: "Змінити потужність §Yтеплоелектростанцій§!: §G+2§! £power_texticon."
-tno_regulations_token_regulations_tt: "Змінити потужність §YYтеплоелектростанцій§!: §G+1§! £power_texticon."
-tno_regulations_strict_regulations_tt: "Змінити потужність §YYтеплоелектростанцій§!: §R-1§! £power_texticon."
-tno_regulations_harsh_regulations_tt: "Змінити потужність §YYтеплоелектростанцій§!: §R-2§! £power_texticon."
+tno_regulations_utterly_unregulated_tt: "Змінити потужність §YТеплоелектростанцій§!: §G+2§! £power_texticon."
+tno_regulations_token_regulations_tt: "Змінити потужність §YТеплоелектростанцій§!: §G+1§! £power_texticon."
+tno_regulations_strict_regulations_tt: "Змінити потужність §YТеплоелектростанцій§!: §R-1§! £power_texticon."
+tno_regulations_harsh_regulations_tt: "Змінити потужність §YТеплоелектростанцій§!: §R-2§! £power_texticon."

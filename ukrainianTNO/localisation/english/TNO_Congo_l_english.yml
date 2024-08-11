@@ -80,11 +80,11 @@
  COG_Cameroon_Defense_Plan:0 "Cameroon Defense Plan"
  COG_Cameroon_Defense_Plan_desc:0 "The South African War has taken most of the attention and military resources which Zentralafrika has been able to muster in its colonial domain. Yet certain elements around Müller have warned of the danger posed by exposing the Reichskommissariat to the menace posed by the neighbour in the north-west. They have argued that it was likely that Cameroon could use the apparent weakness of the heartlands to seize the resource rich region. Hence, high command has devised a contingency plan to avoid this "knife in the back," hiding the secret capabilities from the northern neighbour."
  COG_the_strive_for_panzers:0 "The Strive for Panzers"
- COG_the_strive_for_panzers_desc:0 "The jungly conditions of Zentralafrika did not neccessitate the need for the Reich to devote any heavy mechanized armor to the region. As a result, Zentralafrika's armory consists of old panzers dating from the West Rusian War and older. Despite this, Müller, under recommendation from Von Thoma, has devised plans to modernize and expand the current tank arsenal."
+ COG_the_strive_for_panzers_desc:0 "The jungly conditions of Zentralafrika did not neccessitate the need for the Reich to devote any heavy mechanized armor to the region. As a result, Zentralafrika's armory consists of old panzers dating from the West Russian War and older. Despite this, Müller, under recommendation from Von Thoma, has devised plans to modernize and expand the current tank arsenal."
  COG_the_strive_for_panzers_2:0 "The Strive for Panzers"
- COG_the_strive_for_panzers_2_desc:0 "The jungly conditions of Zentralafrika did not neccessitate the need for the Reich to devote any heavy mechanized armor to the region. As a result, Zentralafrika's armory consists of old panzers dating from the West Rusian War and older. Despite this, Müller, under recommendation from Von Thoma, has devised plans to modernize and expand the current tank arsenal."
+ COG_the_strive_for_panzers_2_desc:0 "The jungly conditions of Zentralafrika did not neccessitate the need for the Reich to devote any heavy mechanized armor to the region. As a result, Zentralafrika's armory consists of old panzers dating from the West Russian War and older. Despite this, Müller, under recommendation from Von Thoma, has devised plans to modernize and expand the current tank arsenal."
  COG_the_strive_for_panzers_3:0 "The Strive for Panzers"
- COG_the_strive_for_panzers_3_desc:0 "The jungly conditions of Zentralafrika did not neccessitate the need for the Reich to devote any heavy mechanized armor to the region. As a result, Zentralafrika's armory consists of old panzers dating from the West Rusian War and older. Despite this, Müller, under recommendation from Von Thoma, has devised plans to modernize and expand the current tank arsenal."
+ COG_the_strive_for_panzers_3_desc:0 "The jungly conditions of Zentralafrika did not neccessitate the need for the Reich to devote any heavy mechanized armor to the region. As a result, Zentralafrika's armory consists of old panzers dating from the West Russian War and older. Despite this, Müller, under recommendation from Von Thoma, has devised plans to modernize and expand the current tank arsenal."
  COG_an_adapted_force:0 "An Adapted Force"
  COG_an_adapted_force_desc:0 "Thanks to Müller's efforts, Zentralafrikan's motorized and mechanized forces are perfectly acclimated to the tough conditions. With the aid of various groups, trucks and APCs last twice as long reliably and have an easier time traversing the rough terrain."
  COG_Mullers_Army_0:0 "Müller's Army"
@@ -219,15 +219,15 @@ Ask_Investors_to_Finance_Our_Developments:0 "With new lands cleared come new opp
  COG_intro_event:0 "The State of Zentralafrika"
 
  COG_internal_relations:0 "Our Internal Situation"
- COG_internal_relations_desc:0 "\n\n\n\n\n\nZentralafrika has grown to rely on soldiers for hire to bolster their forces and do regular security work around the colony. §RThe English§! under §R"Mad Mike" Hoare§!, the §YBelgians§! under §YJean "Black Jack" Schramme§!, the §TFrench§! under §TBob Denard§!, and the §Lvarious native groups§! each have their own benefits, and their own issues with Müller's government, some of which make them untrustworthy. Müller's main goal is to keep these groups happy, and to keep them working for him, so that he may reap the benefits of their presence.\n\n§YThe Belgian Mercenaries§!, who provide us with extra §GManpower and Defense§!, are currently [COG.COGGetBelgianLoyalty].\n\n§TThe French Mercenaries§!, who provide us with additonal §GRecon and Attack§!, are [COG.COGGetFrenchLoyalty].\n\n§RThe Anglo Mercenaries§!, who provide us with added §GSpeed and Supply§!, are [COG.COGGetAngloLoyalty].\n\n§LThe Native Tension§! in the country is currently: [COG.COGGetNativeTensions]"
+ COG_internal_relations_desc:0 "\n\n\n\n\n\nZentralafrika has grown to rely on soldiers for hire to bolster their forces and do regular security work around the colony. §RThe English§! under §R"Mad Mike" Hoare§!, the §YBelgians§! under §YJean "Black Jack" Schramme§!, the §BFrench§! under §BBob Denard§!, and the §Lvarious native groups§! each have their own benefits, and their own issues with Müller's government, some of which make them untrustworthy. Müller's main goal is to keep these groups happy, and to keep them working for him, so that he may reap the benefits of their presence.\n\n§YThe Belgian Mercenaries§!, who provide us with extra §GManpower and Defense§!, are currently [COG.COGGetBelgianLoyalty].\n\n§BThe French Mercenaries§!, who provide us with additonal §GRecon and Attack§!, are [COG.COGGetFrenchLoyalty].\n\n§RThe Anglo Mercenaries§!, who provide us with added §GSpeed and Supply§!, are [COG.COGGetAngloLoyalty].\n\n§LThe Native Tension§! in the country is currently: [COG.COGGetNativeTensions]"
 
  COG_hire_belgians:0 "Hire §YBelgian Mercenaries§!"
  COG_hire_english:0 "Hire §RAnglo Mercenaries§!"
- COG_hire_french:0 "Hire §TFrench Mercenaries§!"
+ COG_hire_french:0 "Hire §BFrench Mercenaries§!"
  COG_hire_natives:0 "Hire §LNative Mercenaries§!"
  COG_hire_pilots:0 ""Encourage" Oil Well Production"
  COG_give_equipment_to_the_belgians:0 "Sell Equipment to the §YBelgians§!"
- COG_give_equipment_to_the_french:0 "Sell Equipment to the §TFrench§!"
+ COG_give_equipment_to_the_french:0 "Sell Equipment to the §BFrench§!"
  COG_give_equipment_to_the_anglo:0 "Sell Equipment to the §RAnglos§!"
  COG_give_equipment_to_the_natives:0 "Sell Equipment to the §GNatives§!"
  COG_bolster_garrisons:0 "Suppress Internal Dissent"
@@ -248,14 +248,14 @@ Ask_Investors_to_Finance_Our_Developments:0 "With new lands cleared come new opp
  COG_buy_guns_from_germany:0 "Buy Guns from Germany"
 
  COG_focus.999.t:0 "Time to Collect Your Paychecks"
- COG_focus.999.desc:0 "We have been assigned a sensitive operation from our corporate sponsors, a job that requires a swift armed intervention. While our investors did not spare much detail, we do know what needs to be done- and that it would only be suitable for our hired mercenaries to accomplish the tasks at hand. Thankfully, we have multiple options at hand, all of which can satisfy what has been requested with a more than satisfactory performance. The question in the air is who are we going to deploy and who stays behind.\n\nWe have mercenary corps from the Kingdom of England, the French State, and what used to be Belgium available for the situation. All of them are more than willing to be called for duty, a perfect time to fight and inebriate themselves and get paid to do so. In fact, it seems as if the other two we don't choose will be disappointed at the lost opportunity- though we only need one. It's certainly a more enjoyable and better-paying activity than what else we normally have to offer to them, so whoever we hire is a choice we shouldn't make foolishly."
+ COG_focus.999.desc:0 "We have been assigned a sensitive operation from our corporate sponsors, a job that requires a swift armed intervention. While our investors did not spare much detail, we do know what needs to be done- and that it would only be suitable for our hired mercenaries to accomplish the tasks at hand. Thankfully, we have multiple options at hand, all of which can satisfy what has been requested with a more than satisfactory performance. The question in the air is who are we going to deploy and who stays behind.\n\nWe have mercenary corps from the United Kingdom, the French State, and what used to be Belgium available for the situation. All of them are more than willing to be called for duty, a perfect time to fight and inebriate themselves and get paid to do so. In fact, it seems as if the other two we don't choose will be disappointed at the lost opportunity- though we only need one. It's certainly a more enjoyable and better-paying activity than what else we normally have to offer to them, so whoever we hire is a choice we shouldn't make foolishly."
  COG_focus.999.a:0 "Hire the English. They've got the speed."
  COG_focus.999.b:0 "Hire the French. They wouldn't dare surrender."
  COG_focus.999.c:0 "Hire the Belgians. The exploiters of the Congo must know something."
 
 
  COG_welcome_in_the_heart_of_afrika:0 "Willkommen in Afrika!"
- COG_welcome_in_the_heart_of_afrika_desc:0 "Not only is §nReichskommissariat Zentralafrika§! the §Ywealthiest§! colony on the continent, it is also a place where all §rGermans§! can vacation in. From large §yjungles§! to §nwildlife filled plains§!, from §kmountains§! to the §Mgreat Congo Lake§!, there is everything a German can dream of in these lands. Of course, all people are welcomed here, but in the new shimmering colonial settlement on the coast of the Lake, §YHitlerstadt§!, we built a special resort for the finest people.\n\nOf course, the waiting list is rather long, so we have the honor to choose our guests. After all, choosing wisely might give us some favors from the §rReich§!.\n\nCurrently, our guest in the Hitlerstadt suite is: [COG.COGGetVIP]"
+ COG_welcome_in_the_heart_of_afrika_desc:0 "Not only is §nReichskommissariat Zentralafrika§! the §Ywealthiest§! colony on the continent, it is also a place where all §rGermans§! can vacation in. From large §yjungles§! to §nwildlife filled plains§!, from §Lmountains§! to the §Mgreat Congo Lake§!, there is everything a German can dream of in these lands. Of course, all people are welcomed here, but in the new shimmering colonial settlement on the coast of the Lake, §YHitlerstadt§!, we built a special resort for the finest people.\n\nOf course, the waiting list is rather long, so we have the honor to choose our guests. After all, choosing wisely might give us some favors from the §rReich§!.\n\nCurrently, our guest in the Hitlerstadt suite is: [COG.COGGetVIP]"
 
  COG_vacation_kollner:0 "Invite §YEberhard Köllner§!"
  COG_vacation_kollner_desc:0 "The first man on the moon, Captain Eberhard Köllner would be a premium guest. His exploits will resonate across the years, and having him praise our resort will give us the best of publicity."
@@ -305,11 +305,11 @@ Ask_Investors_to_Finance_Our_Developments:0 "With new lands cleared come new opp
  COG_mercs_more_natives_tt:0 "\n§GThis will increase the number of native mercenaries§!\n"
 
  COG_mercs_bel_likes_tt:0 "\nThis will §Graise the loyalty§! of the §YBelgians§!\n"
- COG_mercs_fra_likes_tt:0 "\nThis will §Graise the loyalty§! of the §TFrench§!\n"
+ COG_mercs_fra_likes_tt:0 "\nThis will §Graise the loyalty§! of the §BFrench§!\n"
  COG_mercs_eng_likes_tt:0 "\nThis will §Graise the loyalty§! of the §REnglish§!\n"
 
  COG_mercs_bel_likes_lot_tt:0 "\nThis will §ygreatly raise the loyalty§! of the §YBelgians§!\n"
- COG_mercs_fra_likes_lot_tt:0 "\nThis will §ygreatly raise the loyalty§! of the §TFrench§!\n"
+ COG_mercs_fra_likes_lot_tt:0 "\nThis will §ygreatly raise the loyalty§! of the §BFrench§!\n"
  COG_mercs_eng_likes_lot_tt:0 "\nThis will §ygreatly raise the loyalty§! of the §REnglish§!\n"
 
  COG_raise_native_tension_tt:0 "\nThis will §Rraise§! the §Lnative tension§!\n"
@@ -318,12 +318,12 @@ Ask_Investors_to_Finance_Our_Developments:0 "With new lands cleared come new opp
  COG_lower_native_tension_lot_tt:0 "\nThis will §Ggreatly lower§! the §Lnative tension§!\n"
 
  COG_mercs_bel_dislikes_tt:0 "\n§YThe Belgians§! §Rwill be unhappy§! with this decision.\n"
- COG_mercs_fra_dislikes_tt:0 "\n§TThe French§! §Rwill be unhappy§! with this decision.\n"
+ COG_mercs_fra_dislikes_tt:0 "\n§BThe French§! §Rwill be unhappy§! with this decision.\n"
  COG_mercs_eng_dislikes_tt:0 "\n§RThe Anglos§! §Rwill be unhappy§! with this decision.\n"
 
  COG_lower_civ_count:0 "Ask Investors to Finance Our Developments"
  COG_mercs_bel_dislikes_lot_tt:0 "\n§YThe Belgians§! §xwill be very unhappy§! with this decision.\n"
- COG_mercs_fra_dislikes_lot_tt:0 "\n§TThe French§! §xwill be very unhappy§! with this decision.\n"
+ COG_mercs_fra_dislikes_lot_tt:0 "\n§BThe French§! §xwill be very unhappy§! with this decision.\n"
  COG_mercs_eng_dislikes_lot_tt:0 "\n§RThe Anglos§! §xwill be very unhappy§! with this decision.\n"
 
  COG_investors_likes_tt:0 "\n§GThe §YInvestors§! §Gwill like§! this decision§!\n"

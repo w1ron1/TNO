@@ -12,8 +12,8 @@
  USA_Presidential_Elections_Conclusion:0 "\n\nElections for the Presidency have concluded!\n\nPopular Vote:\n£GFX_rd_texticon §MRD§!: [?RD_actual_votes|§*+3]§G.§![?RD_random_votes|§+0] votes\n£GFX_npp_texticon §ONPP§!: [?NPP_actual_votes|§+3]§G.§![?NPP_random_votes|§+0] votes\n\nElectoral College:\n£GFX_rd_texticon §MRD§!: [?RD_electoral_votes|§+0] votes\n£GFX_npp_texticon §ONPP§!: [?NPP_electoral_vostes|§+0] votes\n\n§YNew England§!:[PRESIDENT_CONNECTICUT_CONCLUSION][PRESIDENT_MAINE_CONCLUSION][PRESIDENT_MASSACHUSETTS_CONCLUSION][PRESIDENT_NEW_HAMPSHIRE_CONCLUSION][PRESIDENT_RHODE_ISLAND_CONCLUSION][PRESIDENT_VERMONT_CONCLUSION]\n\n§YThe East Coast§!:[PRESIDENT_DELAWARE_CONCLUSION][PRESIDENT_MARYLAND_CONCLUSION][PRESIDENT_NEW_YORK_CONCLUSION][PRESIDENT_NEW_JERSEY_CONCLUSION][PRESIDENT_PENNSYLVANIA_CONCLUSION][PRESIDENT_WEST_VIRGINIA_CONCLUSION]\n\n§YThe Deep South§!:[PRESIDENT_ALABAMA_CONCLUSION][PRESIDENT_ARKANSAS_CONCLUSION][PRESIDENT_FLORIDA_CONCLUSION][PRESIDENT_GEORGIA_CONCLUSION][PRESIDENT_LOUISIANA_CONCLUSION][PRESIDENT_MISSISSIPPI_CONCLUSION][PRESIDENT_SOUTH_CAROLINA_CONCLUSION]\n\n§YThe Upper South§!:[PRESIDENT_KENTUCKY_CONCLUSION][PRESIDENT_NORTH_CAROLINA_CONCLUSION][PRESIDENT_VIRGINIA_CONCLUSION][PRESIDENT_TENNESSEE_CONCLUSION]\n\n§YThe Southwest§!:[PRESIDENT_TEXAS_CONCLUSION][PRESIDENT_OKLAHOMA_CONCLUSION][PRESIDENT_NEW_MEXICO_CONCLUSION][PRESIDENT_ARIZONA_CONCLUSION]\n\n§YThe Great Lakes§!:[PRESIDENT_ILLINOIS_CONCLUSION][PRESIDENT_INDIANA_CONCLUSION][PRESIDENT_MICHIGAN_CONCLUSION][PRESIDENT_OHIO_CONCLUSION][PRESIDENT_WISCONSIN_CONCLUSION]\n\n§YThe Great Plains§!:[PRESIDENT_MINNESOTA_CONCLUSION][PRESIDENT_IOWA_CONCLUSION][PRESIDENT_KANSAS_CONCLUSION][PRESIDENT_MISSOURI_CONCLUSION][PRESIDENT_NEBRASKA_CONCLUSION][PRESIDENT_NORTH_DAKOTA_CONCLUSION][PRESIDENT_SOUTH_DAKOTA_CONCLUSION]\n\n§YThe Rockies§!:[PRESIDENT_COLORADO_CONCLUSION][PRESIDENT_IDAHO_CONCLUSION][PRESIDENT_MONTANA_CONCLUSION][PRESIDENT_NEVADA_CONCLUSION][PRESIDENT_UTAH_CONCLUSION][PRESIDENT_WYOMING_CONCLUSION]\n\n§YThe West Coast§!:[PRESIDENT_ALASKA_CONCLUSION][PRESIDENT_CALIFORNIA_CONCLUSION][PRESIDENT_HAWAII_CONCLUSION][PRESIDENT_OREGON_CONCLUSION][PRESIDENT_WASHINGTON_CONCLUSION]"
 
  EMPTY_SENATOR:0 "Empty/Unavailable"
- RD_R_SENATOR:0 "(£GFX_rd_r_texticon §RR§!-§TD§! - §RRepublican§!)"
- RD_D_SENATOR:0 "(£GFX_rd_d_texticon §RR§!-§TD§! - §TDemocrat§!)"
+ RD_R_SENATOR:0 "(£GFX_rd_r_texticon §RR§!-§BD§! - §RRepublican§!)"
+ RD_D_SENATOR:0 "(£GFX_rd_d_texticon §RR§!-§BD§! - §BDemocrat§!)"
  NPP_L_SENATOR:0 "(£GFX_npp_l_texticon §ONPP§! - §eMarxist§!)"
  NPP_C_SENATOR:0 "(£GFX_npp_c_texticon §ONPP§! - §KProgressive§!)"
  NPP_R_SENATOR:0 "(£GFX_npp_y_texticon §ONPP§! - §jSovereign§!)"
@@ -26,8 +26,8 @@
  NPP_R_SENATOR_ELECTION:0 "£GFX_npp_y_texticon §jSovereign Caucus§!"
  NPP_FR_SENATOR_ELECTION:0 "£GFX_npp_fr_texticon §gNationalist Caucus§!"
  
- RD_R_SENATOR_ELECTION2:0 "£GFX_rd_texticon §MRDC§! nominee (£GFX_rd_r_texticon §RR§!-§TD§! - §RRepublican§!)"
- RD_D_SENATOR_ELECTION2:0 "£GFX_rd_texticon §MRDC§! nominee (£GFX_rd_d_texticon §RR§!-§TD§! - §TDemocrat§!)"
+ RD_R_SENATOR_ELECTION2:0 "£GFX_rd_texticon §MRDC§! nominee (£GFX_rd_r_texticon §RR§!-§BD§! - §RRepublican§!)"
+ RD_D_SENATOR_ELECTION2:0 "£GFX_rd_texticon §MRDC§! nominee (£GFX_rd_d_texticon §RR§!-§BD§! - §BDemocrat§!)"
  NPP_L_SENATOR_ELECTION2:0 "£GFX_npp_texticon §ONPP§! nominee (£GFX_npp_l_texticon §ONPP§! - §eMarxist§!"
  NPP_C_SENATOR_ELECTION2:0 "£GFX_npp_texticon §ONPP§! nominee (£GFX_npp_c_texticon §ONPP§! - §KProgressive§!)"
  NPP_R_SENATOR_ELECTION2:0 "£GFX_npp_texticon §ONPP§! nominee (£GFX_npp_y_texticon §ONPP§! - §jSovereign§!)"
@@ -86,7 +86,7 @@
  US_VOTE_NPP_PRED_TEXT:0 "[GetWhichDifferenceToDisplayNPP]"
 
  #USA_Election_RD_R_strong_turnout:0 ", along with unusually high §RRepublican§! turnout"
- #USA_Election_RD_D_strong_turnout:0 ", along with unusually high §TDemocratic§! turnout"
+ #USA_Election_RD_D_strong_turnout:0 ", along with unusually high §BDemocratic§! turnout"
  #USA_Election_NPP_L_strong_turnout:0 ", along with unusually high §ONPP Left§! turnout"
  #USA_Election_NPP_C_strong_turnout:0 ", along with unusually high §ONPP Center§! turnout"
  #USA_Election_NPP_R_strong_turnout:0 ", along with unusually high §OYockey§! turnout"

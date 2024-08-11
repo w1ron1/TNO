@@ -2,13 +2,13 @@
 
  ## BATTLE FOR ITALY REWORK ##
  ## GUI
- TNO_BFI_GUI_Issue_tt:0 "Проблеми: [BFI_current_issue_text]"
- TNO_BFI_GUI_Points_tt:0 "Бали: [?bfi_points_available]"
+ TNO_BFI_GUI_Issue_tt:0 "Issue: [BFI_current_issue_text]"
+ TNO_BFI_GUI_Points_tt:0 "Points: [?bfi_points_available]"
 
 
- BFI_gui_italy_name:0 "Італія"
- BFI_gui_usa_name:0 "США"
- BFI_gui_japan_name:0 "Японія"
+ BFI_gui_italy_name:0 "Italy"
+ BFI_gui_usa_name:0 "USA"
+ BFI_gui_japan_name:0 "Japan"
 
  # Button 1
  BFI_gui_action_button_1_name:0 "No Investment"
@@ -972,7 +972,7 @@
  BFI_interact_with_italy_timer_tt:0 "§GItaly§! will decide who gave the best offer in the Issue, and will choose a new issue."
  
  BFI_USA_NPP_popularity_italians_increase_tt:0 "The £GFX_npp_texticon §ONPP§!'s popularity increases a bit, especially with Italian Americans.\n"
- BFI_USA_RD_popularity_italians_increase_tt:0 "The £GFX_rd_texticon §RRepublican§!-§TDemocrats'§! popularity increases a bit, especially with Italian Americans.\n"
+ BFI_USA_RD_popularity_italians_increase_tt:0 "The £GFX_rd_texticon §RRepublican§!-§BDemocrats'§! popularity increases a bit, especially with Italian Americans.\n"
  
  BFI_USA_increase_influence_dec_tt:0 "Increases §Mour§! influence."
  BFI_USA_anti_JAP_influence_issue_dec_tt:0 "Significantly decrease §YJapanese§! influence."

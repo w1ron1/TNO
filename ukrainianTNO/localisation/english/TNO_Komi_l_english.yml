@@ -1122,7 +1122,7 @@
  KOM_democratic_onto_the_world_stage_desc: "Now that we have become a regional power, it is time that we start reaching out to nations beyond Russia. To achieve this, we need to establish a proper foreign ministry and hire diplomats that can fully express our intentions to the world. Since we have become a contender for unifying Russia, the world has taken notice of our Republic, and we need to make our first appearance on the world stage."
  KOM_democratic_open_the_gates_desc: "Back when we were a smaller power, much of our trade was confined to Russia only. As a current regional power, we need to start branching out to other nations beyond the Motherland, especially the democratic countries around the world. Now that we have some coastal territory in northern Russia, it would be beneficial for us to establish a merchant marine operating around the White Sea, protected by a few of our ships."
  KOM_democratic_the_last_democracies_of_europe_desc: "With the rapid expansion of ideologies like fascism and National Socialism, it has become increasingly important for democratic nations to band together during this time of crisis. Essentially, we need to reach out for any European democratic hand we can hold onto, and we must appeal for diplomatic relations with these rare countries. Together, we will form a continental bulwark against the evil threat of authoritarian regimes."
- KOM_democratic_appeal_for_recognition_desc: "Even though we are a regional power in Russia, some countries still see us as "just another warlord state". Diplomatic recognition is the first big step in becoming a relevant world power, the defender of democracy we aspire to be. We must call upon nations like the USA, Iberia, England, and Italy, and convince them that we are a legitimate state and deserve diplomatic recognition."
+ KOM_democratic_appeal_for_recognition_desc: "Even though we are a regional power in Russia, some countries still see us as "just another warlord state". Diplomatic recognition is the first big step in becoming a relevant world power, the defender of democracy we aspire to be. We must call upon nations like the USA, Iberia, Britain, and Italy, and convince them that we are a legitimate state and deserve diplomatic recognition."
  KOM_democratic_embassy_funding_desc: "Now that we have received diplomatic recognition from some major world powers, we need to establish official embassies in each country that recognizes us as a legitimate state. We will have to set aside part of our budget to maintain these embassies, but we will also enjoy full diplomatic relations with several leading nations. It is a small price to pay for a spot on the world stage."
  KOM_democratic_call_for_investment_desc: "Our treasury can only pay for so many of the projects we started to transform this country, and now is the time we look to foreign investment. Thankfully, we can negotiate a deal with the new countries that have recognized us. We can assure these countries that if they decide to invest in our Republic, our debts will be paid back tenfold, and every country involved will benefit."
  KOM_democratic_across_the_ocean_desc: "We already enjoy diplomacy with several European nations, but we must also look beyond our home continent for potential allies. Though North America is a distant continent, it serves as a pedestal for the last shining beacon of democracy left on Earth. We should seek to establish connections with Mexico, Canada, and the United States in order to gain more international recognition and more embassies on the western side of the Atlantic."
@@ -1829,7 +1829,7 @@
 
  KOM_Politician_Overpowering: ": §Moverpowering§! influence"
  KOM_Politician_Very_High: ": §Bvery strong§! influence"
- KOM_Politician_High: ": §Tstrong§! influence"
+ KOM_Politician_High: ": §Bstrong§! influence"
  KOM_Politician_Moderately_High: ": §Gsignificant§! influence"
  KOM_Politician_Medium: ": §Ymoderate§! influence"
  KOM_Politician_Moderately_Low: ": §wmarginal§! influence"
@@ -1840,7 +1840,7 @@
  
  KOM_Movement_Overpowering: "Factional power: §Moverpowering§!"
  KOM_Movement_Very_High: "Factional power: §Bvery strong§!"
- KOM_Movement_High: "Factional power: §Tstrong§!"
+ KOM_Movement_High: "Factional power: §Bstrong§!"
  KOM_Movement_Moderately_High: "Factional power: §Gsignificant§!"
  KOM_Movement_Medium: "Factional power: §Ymoderate§!"
  KOM_Movement_Moderately_Low: "Factional power: §wmarginal§!"
@@ -1855,7 +1855,7 @@
  
  KOM_Faction_Overpowering: "§Moverpowering.§!"
  KOM_Faction_Very_High: "§Jvery strong.§!"
- KOM_Faction_High: "§Tstrong.§!"
+ KOM_Faction_High: "§Bstrong.§!"
  KOM_Faction_Moderately_High: "§Gmoderately strong.§!"
  KOM_Faction_Medium: "§Ysignificant.§!"
  KOM_Faction_Moderately_Low: "§wmoderately low.§!"
@@ -3878,7 +3878,7 @@
  komi.9.a: "A moment to reflect."
 
  komi.10.t: "Memories of Home" #Hooked up
- komi.10.d: "The old man looked into nothing as he sat on the porch of his home, staring meaninglessly into space as he thought. It was a single thought, but it was a thought that constantly plagued him as he grew older, and the anger within him burned ever dimmer.\n\nOnce, a long time ago, he was Fritz Schmenkel, a young German boy. He was born in Stettin. His father, a communist, and murdered by Stormtroopers in '32. That, the old man thought, was when the hatred began. The hatred only got brighter when he was conscripted in '38, and forced to work for the very men who murdered his father. A humiliation if there ever was one. They took him from his wife and children.\n\nThen the way with the Soviets began, and he saw an opportunity to help defeat the fascists who took so much from him and his home. He volunteered, and quickly deserted, joining a communist partisan group. To avoid being known, he was rechristened that day as Ivan Ivanovich.\n\nIvan Ivanovich was angry. Deeply angry. He was one of the best partisans out there. He must have helped destroy at least a full division's worth of men. That made the old man smile. But no matter how much he helped, no matter how much he killed, the fascists just kept pressing further and further and further until Moscow itself was in their hands. And the passion for destroying fascism decayed within the partisans.\n\nBut not to Ivan. He spent at least a decade, making the fascist pigs pay for destroying his home and raping his adoptive one. Blowing up trains. Assassinating important generals and leaders. But no matter what he did, they just kept coming. Now, the hatred was missed by something deeper: loneliness.\n\nHe wondered what happened to his family. Was his wife killed? His children? Or were they brainwashed, just like the rest on his block? And the wondering wandered until fantasies played in his mind.\n\nAnd he continued to think his thought, the thought that plagued him day in and day out.\n\nAnd that thought was: 'I want to go home.'"
+ komi.10.d: "The old man looked into nothing as he sat on the porch of his home, staring meaninglessly into space as he thought. It was a single thought, but it was a thought that constantly plagued him as he grew older, and the anger within him burned ever dimmer.\n\nOnce, a long time ago, he was Fritz Schmenkel, a young German boy. He was born in Stettin. His father, a communist, and murdered by Stormtroopers in '32. That, the old man thought, was when the hatred began. The hatred only got brighter when he was conscripted in '38, and forced to work for the very men who murdered his father. A humiliation if there ever was one. They took him from his wife and children.\n\nThen the war with the Soviets began, and he saw an opportunity to help defeat the fascists who took so much from him and his home. He volunteered, and quickly deserted, joining a communist partisan group. To avoid being known, he was rechristened that day as Ivan Ivanovich.\n\nIvan Ivanovich was angry. Deeply angry. He was one of the best partisans out there. He must have helped destroy at least a full division's worth of men. That made the old man smile. But no matter how much he helped, no matter how much he killed, the fascists just kept pressing further and further and further until Moscow itself was in their hands. And the passion for destroying fascism decayed within the partisans.\n\nBut not to Ivan. He spent at least a decade, making the fascist pigs pay for destroying his home and raping his adoptive one. Blowing up trains. Assassinating important generals and leaders. But no matter what he did, they just kept coming. Now, the hatred was missed by something deeper: loneliness.\n\nHe wondered what happened to his family. Was his wife killed? His children? Or were they brainwashed, just like the rest on his block? And the wondering wandered until fantasies played in his mind.\n\nAnd he continued to think his thought, the thought that plagued him day in and day out.\n\nAnd that thought was: 'I want to go home.'"
  komi.10.a: "'I miss you.'"
 
  komi.11.t: "A Midnight Stroll" #Hooked up
@@ -4872,9 +4872,9 @@
  komi_dem_generic.14.a: "Iberia will recognize the [KOM.GetName]!"
  komi_dem_generic.14.b: "Who do these jumped-up warlords think they are?"
 
- komi_dem_generic.15.t: "West Russia Asks England for Recognition"
+ komi_dem_generic.15.t: "West Russia Asks the United Kingdom for Recognition"
  komi_dem_generic.15.d: "A diplomatic message has arrived at Whitehall, from an entity calling itself the [KOM.GetName]. It claims legitimacy over the entirety of what was once Soviet Russia, only under a new, democratic, non-socialist government. Moreover, the Republic is asking for us to formally recognize it as a sovereign state, so that it can claim legitimacy in the eyes of the world. What should we do?"
- komi_dem_generic.15.a: "England will recognize this new Russia!"
+ komi_dem_generic.15.a: "The United Kingdom will recognize this new Russia!"
  komi_dem_generic.15.b: "Who do these jumped-up warlords think they are?"
 
  komi_dem_generic.16.t: "America Recognizes Us!"
@@ -4901,12 +4901,12 @@
  komi_dem_generic.21.d: "A diplomatic message has arrived from Madrid. Citing the continued instability in Russia, the difficult logistics of establishing diplomatic relations, and ongoing tensions with Germany, they have declined to recognize us as a sovereign state or as the legitimate representative of Russia. This is certainly a disappointing blow to our ambitions on the world stage, but we must press onwards regardless."
  komi_dem_generic.21.a: "We didn't need the caudillos, anyway."
  
- komi_dem_generic.22.t: "England Recognizes Us!"
- komi_dem_generic.22.d: "A diplomatic message has arrived from London. The government of England intends to officially recognize our [KOM.GetName] as a sovereign state, and to treat us as such in all diplomatic conduct. The support of England, a notable economic, diplomatic and industrial power, is a major diplomatic victory for us, and will undoubtedly help us secure a place on the world stage."
+ komi_dem_generic.22.t: "The United Kingdom Recognizes Us!"
+ komi_dem_generic.22.d: "A diplomatic message has arrived from London. The British government intends to officially recognize our [KOM.GetName] as a sovereign state, and to treat us as such in all diplomatic conduct. The support of the United Kingdom, a notable economic, diplomatic and industrial power, is a major diplomatic victory for us, and will undoubtedly help us secure a place on the world stage."
  komi_dem_generic.22.a: "Across the waste of waters, she calls and calls to me..."
 
- komi_dem_generic.23.t: "England Declines to Recognize Us!"
- komi_dem_generic.23.d: "A diplomatic message has arrived from London. Citing the continued instability in Russia, the difficult logistics of establishing diplomatic relations, and ongoing tensions with Germany, they have declined to recognize us as a sovereign state or as the legitimate representative of Russia. This is certainly a disappointing blow to our ambitions on the world stage, but we must press onwards regardless"
+ komi_dem_generic.23.t: "The United Kingdom Declines to Recognize Us!"
+ komi_dem_generic.23.d: "A diplomatic message has arrived from London. Citing the continued instability in Russia, the difficult logistics of establishing diplomatic relations, and ongoing tensions with Germany, they have declined to recognize us as a sovereign state or as the legitimate representative of Russia. This is certainly a disappointing blow to our ambitions on the world stage, but we must press onwards regardless."
  komi_dem_generic.23.a: "La perfide Albion..."
 
  komi_dem_generic.24.t: "West Russia Sends a Delegation!"

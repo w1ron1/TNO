@@ -10,8 +10,8 @@
  SLF_FEDERATION_ADJ: "South African"
  
  ### Parties ###
- SLF_paternalism_party: "South African Liberation Front"
- SLF_paternalism_party_long: "South African Liberation Front"
+ SLF_despotism_party: "South African Liberation Front"
+ SLF_despotism_party_long: "South African Liberation Front"
 
  ### Characters ###
  SLF_Constand_Viljoen: "Constand Viljoen"

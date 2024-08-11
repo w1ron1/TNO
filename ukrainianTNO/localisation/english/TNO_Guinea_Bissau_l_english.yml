@@ -1,7 +1,7 @@
 ﻿l_english:
  ### Country Names ###
  GNB: "Guinea-Bissau"
- GNB_DEF: "Guinea-Bissau"
+ GNB_DEF: "the Republic of Guinea-Bissau"
  GNB_ADJ: "Bissau-Guinean"
 
  ### Parties ###
@@ -9,6 +9,10 @@
  GNB_communist_party_long: "African Party for the Independence of Guinea and Cape Verde"
  GNB_socialist_party: "PAIGC"
  GNB_socialist_party_long: "African Party for the Independence of Guinea and Cape Verde"
+ GNB_progressivism_party: "PAIGC"
+ GNB_progressivism_party_long: "African Party for the Independence of Guinea and Cape Verde"
+ GNB_liberalism_party: "Disorganized Liberal Opposition"
+ GNB_liberalism_party_long: "Disorganized Liberal Opposition"
 
  ### Characters ###
  GNB_Amilcar_Cabral: "Amílcar Cabral"

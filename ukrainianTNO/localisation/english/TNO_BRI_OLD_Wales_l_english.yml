@@ -163,7 +163,7 @@
  WAL_Josephson_Proposal_2: "Josephson Proposal"
  WAL_Welsh_coal_income: "Welsh Coal Income"
  WAL_welsh_coal_income_idea: "The Bountiful Earth"
- WAL_welsh_coal_income_idea_desc: "Wales is a blessed land, from sheep to grain to, most importantly, the great coal down below, mined for generations. These natural resources form the backbone of our economy, establishing us as a resource-based export economy. This §ICoal Income§! brings important value to the Welsh economy, currently to the tune of §Y[GetCurrency][?wal_coal_income] B§!."
+ WAL_welsh_coal_income_idea_desc: "Wales is a blessed land, from sheep to grain to, most importantly, the great coal down below, mined for generations. These natural resources form the backbone of our economy, establishing us as a resource-based export economy. This §ICoal Income§! brings important value to the Welsh economy, currently to the tune of §Y$$[?wal_coal_income] B§!."
  WAL_welsh_army_bribes: "Increased Military Pay"
  WAL_welsh_coal_income_idea_dummy: "The Bountiful Earth"
  WAL_welsh_coal_income_idea_dummy_desc: "Wales is a blessed land, from sheep to grain to, most importantly, the great coal down below, mined for generations. These natural resources form the backbone of our economy, establishing us as a resource-based export economy. This §ICoal Income§! brings important value to the Welsh economy, currently to the tune of §Y$0.25 B§!."
@@ -324,8 +324,8 @@ WAL_democracy_is_dead: "Voting will be abolished and all opposition will be bann
 WAL_marshall_law: "Public meetings and press rights will be suspended and martial law declared."
 wal_disband_division: "The §YAbertawe Gard Cartref Division§! will be §Rdemobilised§! for the forseeable future."
 Wal_cooperation_tt: "The Welsh nation shall reap the fruits of our combined labour."
-TNO_wales_coal_income_decrease_tt: "This will §Rdecrease§! our §ICoal Income§! by §Y[GetCurrency][?welsh_coal_income_temp] B§!.\n"
-TNO_wales_coal_income_increase_tt: "This will §Gincrease§! our §ICoal Income§! by §Y[GetCurrency][?welsh_coal_income_temp] B§!.\n"
+TNO_wales_coal_income_decrease_tt: "This will §Rdecrease§! our §ICoal Income§! by §Y$$[?welsh_coal_income_temp] B§!.\n"
+TNO_wales_coal_income_increase_tt: "This will §Gincrease§! our §ICoal Income§! by §Y$$[?welsh_coal_income_temp] B§!.\n"
 WAL_papers_leaked: "The papers have been leaked."
 
 #Decisions

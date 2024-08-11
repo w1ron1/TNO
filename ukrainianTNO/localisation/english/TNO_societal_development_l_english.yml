@@ -134,6 +134,7 @@ worsen_army_professionalism_big:0 "Our §YMilitary Professionalism§! Societal D
 improve_poverty_small:0 "Our §spoverty rate§! will begin to slowly §Gimprove§!.\n"
 improve_poverty_medium:0 "Our §spoverty rate§! will begin to §Gimprove§!.\n"
 improve_poverty_big:0 "Our §spoverty rate§! will begin to §Grapidly improve§!.\n"
+improve_poverty_rate_direct_tt:0 "Our §spoverty rate§! will §Gdecrease§! by §Y[?temp_poverty_change]%§!.\n"
 
 worsen_poverty_small:0 "Our §spoverty rate§! will begin to slowly §Rworsen§!.\n"
 worsen_poverty_medium:0 "Our §spoverty rate§! will begin to §Rworsen§!.\n"

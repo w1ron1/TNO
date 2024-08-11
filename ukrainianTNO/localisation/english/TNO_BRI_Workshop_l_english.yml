@@ -29,7 +29,7 @@
 
 #|========[ OVERVIEW ]=======|#
  BRI_Workshop_Title_text: "[BRI_Workshop_GetTitleCaps]"
- BRI_Workshop_InfoButton_tt:0 "§F§YINFORMATION§!\n--------------\n§RStrange isn't it? How the tables have turned§!. The §qIndustrial Revolution§! began in §JBritain§!, nurtured by the finest §Lcraftsmen§!, §ospinsters§! and §aengineers§!, forging the vision of a §Gnew tomorrow§!. Now with §oGermany§! standing hand in hand with us in our §oNew Order§!, we must admit such a §Bpartnership§! is not truly equal, and §Lmake do from there.§!\n\nTo embark upon §aindustrial projects§!, you must best utilise these §qswarthy conglomerates§! you see before you. Each state carries §Ginfluence§! from each five main §qconglomerates§!, and a listing of the rough levels of §RState§!/§qCorporate§!/§JPrivate§! ownership, each carrying their own unique §Gbenefits§! and §Rdrawbacks§!.\n\n§fEach Year§!, the §RChancellor§! will announce to the commons the goals for the fiscal year, and it is paramount you meet these promises - lest the economy §Rcrumble§! under the crushing weight of its §qspeculative beneficiaries§!. To achieve each goal, the §qCoporations§! will be your §agreatest asset§! and your §jgreatest foe§! depending on how you view it.\n\nAdditionally, as much as the §Jgovernment§! might resent it, this country is vulnerable to numerous §Rcrises§!. by means of §npublic§! and §Jprivate§! it is paramount you resolve each §Rcrisis§! using the tools at hand, lest the weight of all of your §Rfailures§! lead to the most §Idire§! of consequences.§!" #FIXME
+ BRI_Workshop_InfoButton_tt:0 "§F§YINFORMATION§!\n--------------\n§RStrange isn't it? How the tables have turned§!. The §qIndustrial Revolution§! began in §JBritain§!, nurtured by the finest §Lcraftsmen§!, §ospinsters§! and §Mengineers§!, forging the vision of a §Gnew tomorrow§!. Now with §oGermany§! standing hand in hand with us in our §oNew Order§!, we must admit such a §Bpartnership§! is not truly equal, and §Lmake do from there.§!\n\nTo embark upon §Mindustrial projects§!, you must best utilise these §qswarthy conglomerates§! you see before you. Each state carries §Ginfluence§! from each five main §qconglomerates§!, and a listing of the rough levels of §RState§!/§qCorporate§!/§JPrivate§! ownership, each carrying their own unique §Gbenefits§! and §Rdrawbacks§!.\n\n§fEach Year§!, the §RChancellor§! will announce to the commons the goals for the fiscal year, and it is paramount you meet these promises - lest the economy §Rcrumble§! under the crushing weight of its §qspeculative beneficiaries§!. To achieve each goal, the §qCoporations§! will be your §Mgreatest asset§! and your §jgreatest foe§! depending on how you view it.\n\nAdditionally, as much as the §Jgovernment§! might resent it, this country is vulnerable to numerous §Rcrises§!. by means of §npublic§! and §Jprivate§! it is paramount you resolve each §Rcrisis§! using the tools at hand, lest the weight of all of your §Rfailures§! lead to the most §Idire§! of consequences.§!" #FIXME
 
  BRI_Workshop_CategoryRegional_tt:0 "[BRI_Workshop_GetRegionNameCapsHeader]"
  BRI_Workshop_CategoryRegional_tt_old:0 "REGIONAL"
@@ -93,8 +93,9 @@ BRI_Workshop_GraphButton_Unemployment_tt_delayed:0 "§RUnemployment§! can be lo
  BRI_Workshop_LineGraph_X_Label_tt:0 "[BRA.BRA_develop_graph_month] [BRA.BRA_develop_graph_year]"
 
  ## Regions
- BRI_Workshop_Region_tt:0 "§F§s[BRI_Workshop_GetRegionNameCaps]§!\n- Leading: [BRI_Workshop_GetLeading]\n--------------\n£GFX_BRI_state_texticon §RState§!: [?BRI_Workshop_OwnershipState@var:Region_v|W1%%]\n£GFX_BRI_corpo_texticon §qCorporate§!: [?BRI_Workshop_OwnershipCorporate@var:Region_v|W1%%]\n£GFX_BRI_private_texticon §JPrivate§!: [?BRI_Workshop_OwnershipPrivate@var:Region_v|W1%%]\n--------------\n£GFX_BRI_deutsche_bank_texticon §kDeutsche Bank§!: [?BRI_Workshop_DeutscheBankInfl@var:Region_v|W1%%]\n£GFX_BRI_reichswerke_texticon §gReichswerke§!: [?BRI_Workshop_ReichswerkeInfl@var:Region_v|W1%%]\n£GFX_BRI_blohm_voss_texticon §NBlohm & Voss§!: [?BRI_Workshop_BlohmVossInfl@var:Region_v|W1%%]\n£GFX_BRI_aeg_texticon §TAEG§!: [?BRI_Workshop_AEGInfl@var:Region_v|W1%%]\n£GFX_BRI_vw_texticon §oVolkswagen§!: [?BRI_Workshop_VolkswagenInfl@var:Region_v|W1%%]§!"
+ BRI_Workshop_Region_tt:0 "§F§s[BRI_Workshop_GetRegionNameCaps]§!\n- Leading: [BRI_Workshop_GetLeading]\n--------------\n£GFX_BRI_state_texticon §RState§!: [?BRI_Workshop_OwnershipState@var:Region_v|W1%%]\n£GFX_BRI_corpo_texticon §qCorporate§!: [?BRI_Workshop_OwnershipCorporate@var:Region_v|W1%%]\n£GFX_BRI_private_texticon §JPrivate§!: [?BRI_Workshop_OwnershipPrivate@var:Region_v|W1%%]\n--------------\n£GFX_BRI_deutsche_bank_texticon §LDeutsche Bank§!: [?BRI_Workshop_DeutscheBankInfl@var:Region_v|W1%%]\n£GFX_BRI_reichswerke_texticon §gReichswerke§!: [?BRI_Workshop_ReichswerkeInfl@var:Region_v|W1%%]\n£GFX_BRI_blohm_voss_texticon §EBlohm & Voss§!: [?BRI_Workshop_BlohmVossInfl@var:Region_v|W1%%]\n£GFX_BRI_aeg_texticon §BAEG§!: [?BRI_Workshop_AEGInfl@var:Region_v|W1%%]\n£GFX_BRI_vw_texticon §oVolkswagen§!: [?BRI_Workshop_VolkswagenInfl@var:Region_v|W1%%]§!"
  BRI_Workshop_Region_tt_delayed:0 "§YClick§! to select this region."
+ BRI_Workshop_Northern_Ireland_tt:0 "Northern Ireland is the phantom limb of the United Kingdom; its presence is still felt despite it being ripped apart from us since the end of World War Two by cowards — aided by traitors — signed off on by our overlords. A point of pride for those of us who still wistfully fantasize about about a country whole again. But apart from the conditions of the post-war treaty set upon us, other factors make reclaiming the territory a distant dream.\n\nFor one, the current Irish government is already experiencing turmoil trying to stabilize the fractious area as it seems almost infested with paramilitaries and terrorists when our own government is already at its wit's end with HMMLR. The Republicans continue to fight for their mad delusions in a case of no true Irishman. Meanwhile, the Unionists swear their allegiance to Queen Elizabeth, displaying barely restrained contempt for our rightful government.\n\nSo, for now, the less said about this bandit country, the better."
 
  # Normal
  ENG_Workshop_GUI_Map_Scotland:0 "Scotland"
@@ -124,17 +125,17 @@ BRI_Workshop_GraphButton_Unemployment_tt_delayed:0 "§RUnemployment§! can be lo
 
  ## Corpo Names
  # Normal
- BRI_Workshop_DeutscheBank_name:0 "£GFX_BRI_deutsche_bank_texticon §kDeutsche Bank§!"
+ BRI_Workshop_DeutscheBank_name:0 "£GFX_BRI_deutsche_bank_texticon §LDeutsche Bank§!"
  BRI_Workshop_Reichswerke_name:0 "£GFX_BRI_reichswerke_texticon §gReichswerke§!"
- BRI_Workshop_BlohmVoss_name:0 "£GFX_BRI_blohm_voss_texticon §NBlohm & Voss§!"
- BRI_Workshop_AEG_name:0 "£GFX_BRI_aeg_texticon §TAEG§!"
+ BRI_Workshop_BlohmVoss_name:0 "£GFX_BRI_blohm_voss_texticon §EBlohm & Voss§!"
+ BRI_Workshop_AEG_name:0 "£GFX_BRI_aeg_texticon §BAEG§!"
  BRI_Workshop_Volkswagen_name:0 "£GFX_BRI_vw_texticon §oVolkswagen§!"
 
  # Caps
- BRI_Workshop_DeutscheBank_caps:0 "£GFX_BRI_deutsche_bank_texticon §kDEUTSCHE BANK§!"
+ BRI_Workshop_DeutscheBank_caps:0 "£GFX_BRI_deutsche_bank_texticon §LDEUTSCHE BANK§!"
  BRI_Workshop_Reichswerke_caps:0 "£GFX_BRI_reichswerke_texticon §gREICHSWERKE§!"
- BRI_Workshop_BlohmVoss_caps:0 "£GFX_BRI_blohm_voss_texticon §NBLOHM & VOSS§!"
- BRI_Workshop_AEG_caps:0 "£GFX_BRI_aeg_texticon §TAEG§!"
+ BRI_Workshop_BlohmVoss_caps:0 "£GFX_BRI_blohm_voss_texticon §EBLOHM & VOSS§!"
+ BRI_Workshop_AEG_caps:0 "£GFX_BRI_aeg_texticon §BAEG§!"
  BRI_Workshop_Volkswagen_caps:0 "£GFX_BRI_vw_texticon §oVOLKSWAGEN§!"
 
  ## Corpo Descriptions
@@ -154,7 +155,7 @@ BRI_Workshop_GraphButton_Unemployment_tt_delayed:0 "§RUnemployment§! can be lo
  BRI_Workshop_OwnershipBar_tt:0 "§F§WOwnership§! of industry in §Y[?BRI_Workshop_SelectedRegion.GetTokenLocalizedKey]§!:\n--------------\n£GFX_BRI_state_texticon §RState§!: [?BRI_Workshop_OwnershipState@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_corpo_texticon §qCorporate§!: [?BRI_Workshop_OwnershipCorporate@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_private_texticon §JPrivate§!: [?BRI_Workshop_OwnershipPrivate@var:BRI_Workshop_SelectedRegion|W1%%]§!"
  
  BRI_Workshop_CorpoBar_text:0 "§WCORPORATIONS§!"
- BRI_Workshop_CorporateBar_tt:0 "§F§WCorporate§! influence in §Y[?BRI_Workshop_SelectedRegion.GetTokenLocalizedKey]§!:\n--------------\n£GFX_BRI_deutsche_bank_texticon §kDeutsche Bank§!: [?BRI_Workshop_DeutscheBankInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_reichswerke_texticon §gReichswerke§!: [?BRI_Workshop_ReichswerkeInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_blohm_voss_texticon §NBlohm & Voss§!: [?BRI_Workshop_BlohmVossInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_aeg_texticon §TAEG§!: [?BRI_Workshop_AEGInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_vw_texticon §oVolkswagen§!: [?BRI_Workshop_VolkswagenInfl@var:BRI_Workshop_SelectedRegion|W1%%]§!"
+ BRI_Workshop_CorporateBar_tt:0 "§F§WCorporate§! influence in §Y[?BRI_Workshop_SelectedRegion.GetTokenLocalizedKey]§!:\n--------------\n£GFX_BRI_deutsche_bank_texticon §LDeutsche Bank§!: [?BRI_Workshop_DeutscheBankInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_reichswerke_texticon §gReichswerke§!: [?BRI_Workshop_ReichswerkeInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_blohm_voss_texticon §EBlohm & Voss§!: [?BRI_Workshop_BlohmVossInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_aeg_texticon §BAEG§!: [?BRI_Workshop_AEGInfl@var:BRI_Workshop_SelectedRegion|W1%%]\n£GFX_BRI_vw_texticon §oVolkswagen§!: [?BRI_Workshop_VolkswagenInfl@var:BRI_Workshop_SelectedRegion|W1%%]§!"
  
  BRI_Workshop_CorpoSelection_text:0 "SELECTED: [BRI_Workshop_GetCorpoSelection]"
  BRI_Workshop_CorpoSelection_Button_tt:0 "§F[BRI_Workshop_GetCorpoNameCaps]\n--------------\nInfluence in §Y[?BRI_Workshop_SelectedRegion.GetTokenLocalizedKey]§!: [BRI_Workshop_GetCorpoInfluence]§!"
@@ -215,8 +216,8 @@ BRI_Workshop_GraphButton_Unemployment_tt_delayed:0 "§RUnemployment§! can be lo
  # Winter of 1962
  ENG_Workshop_GUI_Goals_Winter62:0 "Winter of 1962"
  ENG_Workshop_GUI_Goals_Winter62_caps:0 "WINTER OF 1962"
- ENG_Workshop_GUI_Goals_Winter62_Obj1:0 "£GFX_BRI_aeg_texticon §TAEG§! Influence in Scotland is above §Y17%§!"
- ENG_Workshop_GUI_Goals_Winter62_Obj2:0 "£GFX_BRI_aeg_texticon §TAEG§! Influence in the Northwest is above §Y25%§!"
+ ENG_Workshop_GUI_Goals_Winter62_Obj1:0 "£GFX_BRI_aeg_texticon §BAEG§! Influence in Scotland is above §Y17%§!"
+ ENG_Workshop_GUI_Goals_Winter62_Obj2:0 "£GFX_BRI_aeg_texticon §BAEG§! Influence in the Northwest is above §Y25%§!"
  ENG_Workshop_GUI_Goals_Winter62_Obj3:0 "£GFX_BRI_state_texticon §RState Ownership§! in Scotland is above §Y30%§!"
  ENG_Workshop_GUI_Goals_Winter62_Obj4:0 "£GFX_BRI_state_texticon §RState Ownership§! in the Northwest is above §Y30%§!"
  # Thames Estuary Airport
@@ -224,13 +225,19 @@ BRI_Workshop_GraphButton_Unemployment_tt_delayed:0 "§RUnemployment§! can be lo
  ENG_Workshop_GUI_Goals_ThamesAirport_caps:0 "THAMES ESTUARY AIRPORT"
  ENG_Workshop_GUI_Goals_ThamesAirport_Obj1:0 "£GFX_BRI_state_texticon §RState Ownership§! in the Southeast is above §Y50%§!"
  ENG_Workshop_GUI_Goals_ThamesAirport_Obj2:0 "£GFX_BRI_corpo_texticon §qCorporate Ownership§! in London is above §Y33%§!"
- ENG_Workshop_GUI_Goals_ThamesAirport_Obj3:0 "£GFX_BRI_deutsche_bank_texticon §kDeutsche Bank§! Influence in London is above §Y33%§!"
+ ENG_Workshop_GUI_Goals_ThamesAirport_Obj3:0 "£GFX_BRI_deutsche_bank_texticon §LDeutsche Bank§! Influence in London is above §Y33%§!"
  # Severn Barrage
  ENG_Workshop_GUI_Goals_SevernBarrage:0 "Severn Barrage"
  ENG_Workshop_GUI_Goals_SevernBarrage_caps:0 "SEVERN BARRAGE"
  ENG_Workshop_GUI_Goals_SevernBarrage_Obj1:0 "£GFX_BRI_state_texticon §RState Ownership§! in the Southwest is above §Y25%§!"
- ENG_Workshop_GUI_Goals_SevernBarrage_Obj2:0 "£GFX_BRI_aeg_texticon §TAEG§! Influence in the Southwest is above §Y25%§!"
- ENG_Workshop_GUI_Goals_SevernBarrage_Obj3:0 "£GFX_BRI_deutsche_bank_texticon §kDeutsche Bank§! Influence in London is above §Y33%§!"
+ ENG_Workshop_GUI_Goals_SevernBarrage_Obj2:0 "£GFX_BRI_aeg_texticon §BAEG§! Influence in the Southwest is above §Y25%§!"
+ ENG_Workshop_GUI_Goals_SevernBarrage_Obj3:0 "£GFX_BRI_deutsche_bank_texticon §LDeutsche Bank§! Influence in London is above §Y33%§!"
+ # Blyth Power Station B
+ ENG_Workshop_GUI_Goals_Blyth:0 "Blyth Power Station B"
+ ENG_Workshop_GUI_Goals_Blyth_caps:0 "BLYTH POWER STATION B"
+ ENG_Workshop_GUI_Goals_Blyth_Obj1:0 "£GFX_BRI_state_texticon §RState Ownership§! in the Northeast is above §Y33%§!"
+ ENG_Workshop_GUI_Goals_Blyth_Obj2:0 "£GFX_BRI_reichswerke_texticon §gReichswerke§! Influence in the Northeast is above §Y25%§!"
+ ENG_Workshop_GUI_Goals_Blyth_Obj3:0 "£GFX_BRI_aeg_texticon §BAEG§! Influence in the Northeast is above §Y25%§!"
 
  BRI_Workshop_GUI_Goals_InvestmentTitle_text: "COMPLETION"
 

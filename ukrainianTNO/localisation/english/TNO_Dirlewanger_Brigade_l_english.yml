@@ -128,7 +128,7 @@
  decision_cost_manpower_5000_tooltip: "It costs [This.GetDecisionCostManpower5000] to take the decision"
  decision_cost_manpower_7500_tooltip: "It costs [This.GetDecisionCostManpower7500] to take the decision"
  DRL_The_Black_Bandits: "The Black Bandits"
- DRL_The_Black_Bandits_desc: "We exist for plunder. We exist for strength. And, as always, weaker men try to challenge us. If we are to emerge victorious, we must ensure that we are properly supplied, possess full complements, and are percieved to be as strong as we really are."
+ DRL_The_Black_Bandits_desc: "We exist for plunder. We exist for strength. And, as always, weaker men try to challenge us. If we are to emerge victorious, we must ensure that we are properly supplied, possess full complements, and are perceived to be as strong as we really are."
  DRL_A_Show_Of_Strength: "A Show Of Strength"
  DRL_A_Show_Of_Strength_desc: "Those who live in our lands must know to who they owe their lives. To who holds absolute power over them. We will remind them of this, through showing them the strength of the larger Brigade. So cowed, we will be able to direct increased focus towards our specific further goals."
  DRL_Pillage_The_Land: "Pillage The Land"

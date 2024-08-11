@@ -510,19 +510,17 @@
  SAM_RUS_national_socialism_ADJ: "Russian"
  
  #Perm
- PRM_RUS_national_socialism: "Russkiy Reykh"
- PRM_RUS_national_socialism_DEF: "Russkiy Reykh"
- PRM_RUS_national_socialism_ADJ: "Russkiy" 
+ PRM_RUS: "Russkiy Reykh"
+ PRM_RUS_DEF: "Russkiy Reykh"
+ PRM_RUS_ADJ: "Russkiy" 
  
- PRM_hyperborea_RUS_ultranationalism: "Hyperborea"
- PRM_hyperborea_RUS_ultranationalism_DEF: "Hyperborea"
- PRM_hyperborea_RUS_ultranationalism_ADJ: "Hyperborean" 
+ PRM_hyperborea_RUS: "Hyperborea"
+ PRM_hyperborea_RUS_DEF: "Hyperborea"
+ PRM_hyperborea_RUS_ADJ: "Hyperborean" 
 
  PRM_hyperborea_regional: "Hyperborea"
  PRM_hyperborea_regional_DEF: "Hyperborea"
- PRM_hyperborea_regional_ultranationalism: "Hyperborea"
- PRM_hyperborea_regional_ultranationalism_DEF: "Hyperborea"
- PRM_hyperborea_regional_ultranationalism_ADJ: "Hyperborean"
+ PRM_hyperborea_regional_ADJ: "Hyperborean"
 
  #Gayny
  GAY_RUS_despotism: "Holy State of Russia"

@@ -1826,10 +1826,10 @@
   OMS_unresponsive_tt: "If [OMS.GetFlag] §Y[OMS.GetNameDef]§! does not launch a response to our actions:"
   OMS_responded_tt: "[OMS.GetFlag] §Y[OMS.GetNameDef]§! has countered our action, this decision will have no effect."
 
-  OMS_purge_chelyabinsk: "Initiate §TOperation: SMOKE PIT§!"
+  OMS_purge_chelyabinsk: "Initiate §BOperation: SMOKE PIT§!"
   OMS_purge_zlatoust: "Initiate §OOperation: DRAGON'S LAIR§!"
   OMS_purge_tyumen: "Initiate §MOperation: BROKEN STEEL§!"
-  OMS_purge_sverdlovsk: "Initiate §kOperation: HOMECOMING§!"
+  OMS_purge_sverdlovsk: "Initiate §LOperation: HOMECOMING§!"
   OMS_purge_vorkuta: "Initiate §iOperation: CROOKED FANG§!"
   OMS_assassinate_batov: "Initiate §nOperation: KNIGHTFALL§!"
   OMS_assassinate_batov_desc: "In recent weeks and months many of the insurgent bases have been dismantled, and a lot of their operatives have been done away with, to a point where we feel confident enough to proceed to the final stage of our counterinsurgency program.\n\nNow, with all his fellow bleeding hearts neutralized without exception, it is time to show our arch-insurgent his fitting end. We shall cordon around him, close in, until there is no inch of earth on the Siberian wasteland left where Pavel Ivanovich Batov can find his walking corpse escaping to.\n\nThen, we plunge the dagger into his heart."

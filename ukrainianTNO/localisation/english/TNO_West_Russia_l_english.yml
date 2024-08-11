@@ -230,7 +230,7 @@
  WRS_reopen_the_mines: "Re-Open the Mines"
  WRS_archangelsk_calling: "Arkhangelsk Calling..."
  WRS_archangelsk_calling_tt: "Marshals Zhukov and Tukhachevsky shall be called to Arkhangelsk for a §Yspecial meeting§!.\n"
- WRS_ofn_aid_add_tt: "Our §IMiscellaneous Income§! will §GIncrease§! by §Y[GetCurrency]0.4B§!.\n"
+ WRS_ofn_aid_add_tt: "Our §IMiscellaneous Income§! will §GIncrease§! by §Y$$0.4B§!.\n"
 
 
  WRS_the_end_of_the_bombings_desc: "At first, the high command thought that it was a fluke. Then the weeks pass, and the silent skies did not budge. The bombing that has destroyed and devastated Russia has come to an end. Everywhere throughout the Front's territory and Russia itself, the giant laid to rest so long ago is awakening. However, there can be no delay; the illegitimate warlords to the south of us will make their move. The Front, for the lone sake of its survival, must act in tandem, for socialism can no longer suffer defeat.\n\nThe Front will continue the re-consolidation and establishment of its authority over northern Russia. Workers and soldiers both will repair the roads and patch up the communication hubs. Without fear or coercion, we will rise again, and the Union of old shall stand once more, its memories untarnished by neither defeat nor failure. The march to communism will continue."
@@ -561,7 +561,7 @@
  WRS_zhukov_regional_western_investments: "Western Investments"
  WRS_zhukov_regional_tapping_the_market: "Tapping the Market"
  WRS_zhukov_regional_apply_for_ofn_aid: "Apply for OFN Aid"
- WRS_zhukov_regional_apply_for_ofn_aid_tt: "We will apply for §MOFN Aid§!, receiving a new source of §IMiscellaneous Income§! worth §Y[GetCurrency]0.4B§! should they accept.\n"
+ WRS_zhukov_regional_apply_for_ofn_aid_tt: "We will apply for §MOFN Aid§!, receiving a new source of §IMiscellaneous Income§! worth §Y$$0.4B§! should they accept.\n"
  WRS_zhukov_regional_eyes_straight_ahead: "Eyes Straight Ahead"
  WRS_zhukov_regional_eyes_straight_ahead_tt: "We focus our diplomatic efforts on our fellow §RSocialist nations§!."
  WRS_zhukov_regional_send_ryzkhov: "Send Ryzhkov"
@@ -599,7 +599,7 @@
  WRS_zhukov_regional_pluralize_the_system_desc: "The Front is, to put it bluntly, terribly inefficient. The ideals of socialism are of course worth upholding, but pursuing them dogmatically while the Union crumbles around us would be a foolish endeavor. A new constitution, to be implemented upon the Front's dissolution, shall be drafted. This constitution shall guarantee democracy, a more stable and gradual path towards communism and, although opposed by some of the older bureaucrats, a limited amount of privatisation."
  WRS_zhukov_regional_cement_the_transition_desc: "While the chaotic era following the collapse of the Union necessitates a degree of authoritarianism, continuing such governance once immediate threats to the people have subsided would be both foolish and pointless. When the provisionary governance of the Front is dissolved and the new Union established, it shall be governed by a constitution, to be drafted immediately, upholding both liberty and socialism. After all, did Lenin not say that democracy is indispensable to socialism?"
  WRS_zhukov_regional_maintain_the_regime_desc: "The Front is a provisional government, this we all know, but the ideals it upholds need no alterations lest revisionary forces subvert what we have fought so hard to achieve. It is clear that once the front is dissolved, the Union must be governed by a new constitution, to be drafted immediately. As such, the new Soviet Constitution shall in essence continue the governance of the Front long after its dissolution. There is no need to change a system that has been proven to work."
- WRS_zhukov_regional_the_new_economic_policy_desc: "The failures of war communism are manifest: while the army is enriched, our people starve in the streets. While the State is bloated with economic planners trying to put the fires out, the sheer attrition of the system starts new infernos all the time. While the country burns, in other words, only a few benefit - and it is power, not prosperity, that this system creates.\n\nWe will be hypocrites no longer. With a limited expansion to free-market operation in our domains, our markets will not suffer from chronic shortages, and our people will be freed from chronic want. It is the way forward for Russia, and so too will it be our policy too."
+ WRS_zhukov_regional_the_new_economic_policy_desc: "The failures of war communism are manifest: while the army is enriched, our people starve in the streets. While the State is bloated with economic planners trying to put the fires out, the sheer attrition of the system starts new infernos all the time. While the country burns, in other words, only a few benefit - and it is power, not prosperity, that this system creates.\n\nWe will be hypocrites no longer. With a limited expansion to free-market operation in our domains, our markets will not suffer from chronic shortages, and our people will be freed from chronic want. It is the way forward for Russia, and so too will it be our policy."
  WRS_zhukov_regional_educating_the_people_desc: "Public education drives everything - it hones the youth and prepares them for entry into the Proletarian workforce of tomorrow. It pushes men and women, the brightest of their generations, into education where they can impart their learning to those who can carry the torch. And in doing so, it improves the quality of our industry, research and all-round public life.\n\nWe must pivot to secondary and primary education, give our people knowledge of more than the rifle and the farming tool, and give our country a future worth fighting for."
  WRS_zhukov_regional_fund_the_sciences_desc: "The Sciences are the key not just to innovation in all fields of research - it is science that dictates how efficiently the tank or soldier moves and how much work can be done by a workers' brigade without stopping. It drives the tactics of our frontline troops, and it ignites our ties with the outside world as our research community links with the cream of the global intellectual crop.\n\nIf socialism is not driven by people of science, why bother calling it the Immortal Science at all? For this reason, and all the others listed above, we will invest heavily into research and development, and build a nation that looks ever into the future."
  WRS_zhukov_regional_a_generation_of_visionaries_desc: "We believe in the power of the masses, not the will of single men and women, to drive history onwards. Nevertheless, we would be foolish to deny that certain intelligent men and women are more capable of advancing the Revolution than others - and these people, these visionaries, deserve to be recognized, honed and pointed straight at the Front's enemies as our biggest intangible weapon.\n\nOf course, finding these talents will never be easy. We will have to overhaul our research talent recruitment system and our standardized testing entirely, and the ideological aspect gives our Recruitment Department headaches, but for the rebuilding of the Socialist Motherland? All sacrifices are worth our while."
@@ -913,13 +913,13 @@
  WRS_OBT_program: "§GOBT Program§!"
  WRS_izhevsk_experimental_constructor_works: "§OIzhevsk Experimental-Constructor Works§!"
  WRS_project_uragan: "Project §MURAGAN§!"
- WRS_project_tsysklon: "Project §TTSYSKLON§!"
+ WRS_project_tsysklon: "Project §BTSYSKLON§!"
  WRS_project_shchuka: "Project §LSHCHUKA§!"
  WRS_project_leshiy: "Project §sLESHIY§!"
  WRS_project_ferment: "Project §eFERMENT§!"
 
  ### Indrik Scripted Loc ###
- WRS_indrik_status: "§GOBT Program§! - [WRSGetIndrik1Status]\n§OIzhevsk Experimental-Constructor Works§! - [WRSGetIndrik2Status]\nProject §MURAGAN§! - [WRSGetIndrik3Status]\nProject §TTSYSKLON§! - [WRSGetIndrik4Status]\nProject §LSHCHUKA§! - [WRSGetIndrik5Status]\nProject §sLESHIY§!- [WRSGetIndrik6Status]\nProject §eFERMENT§! - [WRSGetIndrik7Status]"
+ WRS_indrik_status: "§GOBT Program§! - [WRSGetIndrik1Status]\n§OIzhevsk Experimental-Constructor Works§! - [WRSGetIndrik2Status]\nProject §MURAGAN§! - [WRSGetIndrik3Status]\nProject §BTSYSKLON§! - [WRSGetIndrik4Status]\nProject §LSHCHUKA§! - [WRSGetIndrik5Status]\nProject §sLESHIY§!- [WRSGetIndrik6Status]\nProject §eFERMENT§! - [WRSGetIndrik7Status]"
  WRS_pending_results: "§gPENDING RESULTS§!"
  ### Indrik tooltips ###
  WRS_doing_indrik_project_tt: "A §Yproject§! in this category is not currently ongoing."

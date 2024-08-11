@@ -227,7 +227,7 @@
  HGR_allies_abroad_tt:0 "§YOptions§! will become available to look for §Gallies§! outide of the §gReich§!."
 
  HGR_england_returned_pows:0 "§REngland§! has agreed to return the POWs from the §gCornwall Garrison§!."
- HGR_kriegsmarine_secured:0 "We have secured control over the §TKriegsmarine§!."
+ HGR_kriegsmarine_secured:0 "We have secured control over the §BKriegsmarine§!."
  HGR_luftwaffe_secured:0 "We have secured control over the §gLuftwaffe§!."
  HGR_cornwall_units_tt:0 "§YThree§! elite §gCornwall Garrison§! units will appear on §YGermania§!."
 
@@ -238,12 +238,6 @@
 
  HGR_snake_in_the_east_tt:0 "We shall begin §Gexerting our influence§! in §Y[BLR.GetNameDef]§!.\n\n"
 
- HGR_money_talks_tt:0 "We shall begin §Gexerting our influence§! in §Y[BRT.GetNameDef]§!.\n\nNew §Ydecisions§! shall be made available."
- HGR_black_market_order:0 "We have an existing order for equipment."
- HGR_true_sons_of_brittany_tt:0 "New §Ydecisions§! shall be made available."
- brt_burg_versus_trad: "Himmler's influence over the Bretons is greater than ours."
- brt_trad_versus_burg: "Our influence over the Bretons is greater than Himmler's."
- HGR_the_market_is_open_tt:0 "New §Ydecisions§! shall be made available."
  HGR_heydrich_influence_over_60_tt:0 "is sufficiently §Gloyal to Heydrich§!. (§Y[?HGR_Influence_Balance]/60§!)"
  
  HGR_der_untermensch_tt:0 "We shall begin §Gexerting our influence§! in §Y[POL.GetNameDef]§!.\n\n"
@@ -411,7 +405,7 @@
  HGR_took_moderate_action:0 "We are currently influencing a §gModerate§! warlord."
  HGR_took_native_action:0 "We are currently influencing a §eNative§! warlord."
  HGR_took_incorporate_action:0 "We are currently §Wre-integrating§! a warlord."
- HGR_took_foreign_action:0 "We are currently influencing a §TForeign§! nation."
+ HGR_took_foreign_action:0 "We are currently influencing a §BForeign§! nation."
 
  HGR_ss_hardliner_appeal_1:0 "Meet with §ESS-Idealist§! Leaders"
  HGR_ss_hardliner_appeal_2:0 "Profess Loyalty to §ESS ideals§!"
@@ -681,23 +675,12 @@
 
  HGR_picking_up_the_remnants_tt:0 "§WWe will ask England for the return of our POWs in Cornwall.§!"
 
- HGR_incorporate_HOL:0 "§WRe-integrate§! §T[HOL.GetNameDef]§!"
+ HGR_incorporate_HOL:0 "§WRe-integrate§! §B[HOL.GetNameDef]§!"
  HGR_incorporate_HOL_req_tt:0 "[HOL.GetNameDef] is sufficiently §Gloyal to Heydrich§!. (§Y[?HOL.HGR_Influence_Balance]/95§!)"
  HGR_aligned_HOL_req_tt:0 "[HOL.GetNameDef] is sufficiently §Gloyal to Heydrich§!. (§Y[?HOL.HGR_Influence_Balance]/60§!)"
 
  HGR_HOL_decision_a_1:0 "[HOL.GetFlag]Decouple Himmler's Influence"
  HGR_HOL_decision_a_2:0 "[HOL.GetFlag]Assist in Counterinsurgency Efforts"
-
- HGR_BRT_black_market_infantry_equipment:0 "Purchase §YInfantry Equipment§!"
- HGR_BRT_black_market_support_equipment:0 "Purchase §YSupport Equipment§!"
- HGR_BRT_black_market_motorized_equipment:0 "Purchase §YMotorized Equipment§!"
- HGR_incorporate_BRT:0 "§WRe-integrate§! §T[BRT.GetNameDef]§!"
- HGR_incorporate_BRT_req_tt:0 "[BRT.GetNameDef] is sufficiently §Gloyal to Heydrich§!. (§Y[?BRT.HGR_Influence_Balance]/95§!)"
- HGR_BRT_decision_a_1:0 "[BRT.GetFlag]Discredit the Burgundian Position"
- HGR_BRT_decision_a_2:0 "[BRT.GetFlag]Praise Lainé's Service"
- HGR_BRT_decision_b_1:0 "[BRT.GetFlag]Send Financial Investments"
- HGR_BRT_decision_b_2:0 "[BRT.GetFlag]Promote Anti-Burgundy Propaganda"
- HGR_BRT_increase_gdp:0 "Our §YGDP§! will receive a small boost."
 
  ### Modifiers ###
  

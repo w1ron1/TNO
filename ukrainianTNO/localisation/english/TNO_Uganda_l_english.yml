@@ -41,6 +41,7 @@
  UGD_Mutesa_II: "Mutesa II"
  UGD_Isaac_Maliyamungu: "Isaac Maliyamungu"
  UGD_Idi_Amin_Dada: "Idi Amin Dada"
+ UGD_Juma_Oris: "Juma Oris"
  UGD_Juma_Butabika: "Juma Butabika"
  UGD_Mustafa_Adrisi: "Mustafa Adrisi"
  UGD_Tito_Okello: "Tito Okello"
@@ -52,6 +53,7 @@
  ## Minister Descs ##
  UGD_Isaac_Maliyamungu_hog_desc: "§YHead of Government\nUltramilitarism§!"
  UGD_Idi_Amin_Dada_for_desc: "§YForeign Minister\nUltramilitarism§!"
+ UGD_Juma_Oris_for_desc: "§YForeign Minister\nUltramilitarism§!"
  UGD_Juma_Butabika_eco_desc: "§YEconomy Minister\nUltramilitarism§!"
  UGD_Mustafa_Adrisi_sec_desc: "§YSecurity Minister\nUltramilitarism§!"
  

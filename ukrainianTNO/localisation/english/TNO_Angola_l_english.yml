@@ -274,7 +274,7 @@
  ANG_Native_Unrest_Up_Medium:0 "This will §Rincrease§! the §wnatives' unrest.\n§!"
  ANG_Native_Unrest_Up_High:0 "This will §xhighly increase§! the §wnatives' unrest.\n§!"
 
- ANG_Native_Unrest_Down_Low:0 "This will §Tslightly decrease§! the §wnatives' unrest.\n§!"
+ ANG_Native_Unrest_Down_Low:0 "This will §Bslightly decrease§! the §wnatives' unrest.\n§!"
  ANG_Native_Unrest_Down_Medium:0 "This will §Gdecrease§! the §wnatives' unrest.\n§!"
  ANG_Native_Unrest_Down_High:0 "This will §yhighly decrease§! the §wnatives' unrest.\n§!"
 
@@ -282,7 +282,7 @@
  ANG_Native_Militancy_Up_Medium:0 "This will §Rincrease§! the §Onatives' militancy.\n§!"
  ANG_Native_Militancy_Up_High:0 "This will §xhighly increase§! the §Onatives' militancy.\n§!"
 
- ANG_Native_Militancy_Down_Low:0 "This will §Tslightly decrease§! the §Onatives' militancy.\n§!"
+ ANG_Native_Militancy_Down_Low:0 "This will §Bslightly decrease§! the §Onatives' militancy.\n§!"
  ANG_Native_Militancy_Down_Medium:0 "This will §Gdecrease§! the §Onatives' militancy.\n§!"
  ANG_Native_Militancy_Down_High:0 "This will §Ghighly decrease§! the §Onatives' militancy.\n§!"
  ANG_Native_Militancy_Down_Very_high:0 "This will §yincredibly decrease§! the §Onatives' militancy.\n§!"

@@ -18,8 +18,13 @@
  PRM_fascism_party_long: "Tsarskiy Soyuz Mladorossov"
  PRM_national_socialism_party: "Arishe Brudershaft"
  PRM_national_socialism_party_long: "Arishe Brudershaft"
+ PRM_national_socialism_2_party: "Slavyanskyy Sobor"
+ PRM_national_socialism_2_party_long: "Slavyanskyy Sobor"
  PRM_ultranationalism_party: "Slavyanskyy Sobor"
  PRM_ultranationalism_party_long: "Slavyanskyy Sobor"
+ 
+ PRM_vagner_national_socialism:0 "§jArishe Brudershaft§!"
+ PRM_velimir_national_socialism_2:0 "§ISlavyanskyy Sobor§!"
  
  ### Leader Descriptions ###
  POLITICS_GUTRUM_VAGNER_DESC: "The enfant terrible of Western Russia, Alexey Alexandrovich Dobrovolsky had an unremarkable background. The hardships suffered by his family in a collapsing Soviet Union left him with little opportunities, but like his peers, he was taught the superiority of socialist doctrine.\n\nYet as a conscript in the West Russian Revolutionary War, he saw the Red Army being slaughtered by a far stronger foe, and could not help but to be dazzled by the might of the Aryan sword. Deserting with a few others to the woods of Perm, he devoted himself to the search for truth, for the reason why the German legions had destroyed the Soviet state, and subjugated the Slavic tribe.\n\nHe found his answer in Russian history, when Peter the Great had traveled Europe, and then forced the people to embrace a more civilized culture upon his return. It was clear that the true meaning of the Aryan spirit was not in race - but in mind. With this revelation, he adopted the Aryan name Gutrum Vagner, proclaimed himself Fyurer of the Aryan Brotherhood and declared Perm a site of Aryan revival. Now leading one of the most fearsome forces in Russia, Vagner seeks to return Russia to the cradle of the Aryan civilization."
@@ -37,7 +42,7 @@
  PRM_Gutrum_Vagner: "Gutrum Vagner"
  PRM_Velimir: "Velimir" # For simplicity's sake, Velimir and his german larp alias are two different characters
  PRM_Zigfrid_Shultz: "Zigfrid Shultz"
- PRM_Power_Vaccuum: "Power Vacuum"
+ PRM_Power_Vaccuum: "Power Vaccuum"
  PRM_Alexander_Medvedev: "Alexander Medvedev"
  
  ### Generals ###
@@ -114,8 +119,8 @@
  PRM_none: "The §jBrotherhood§! stands §Rcompletely against§! the §jFyurer§!."
  PRM_dead_lmao: "The §IBrotherhood§! has found its §Itrue calling§!."
  
- vagnar_in_power: "§jVagner§!§Y is in power.§!"
- yemelyanov_in_power: "§iYemelyanov§!§Y is in power.§!"
+ yemelyanov_in_power: "§IYemelyanov§!§Y is in power.§!"
+ vagner_in_power: "§jVagner§!§Y is in power.§!"
 
  ### Ideas ###
  PRM_aryan_cult: "Aryan Cult"
@@ -190,7 +195,7 @@
  PRM_pure_aryanism_idea_desc: "§FStability: [?PRM_stability_factor|=%Y2]\nArmy Morale Factor: [?PRM_army_morale_factor|=%Y0]\nArmy Organization Factor: [?PRM_army_org_factor|=%Y0]\nPolitical Power Gain: [?PRM_political_power_gain|=+2]\nWar Support: [?PRM_war_support_factor|=%Y2]§!\n§g--------------§!\nWe've tolerated the charade for long enough. Shultz's betrayal finally revealed to us how insiduous and deep the machinations of the Jew spreads, to reach for the desperate, traitorous kin within our land. We will crush, and trample the very concept and idea of these races to dust, until there is only one distinction in Russia:\n\n§VThe Aryan and the slave.§!"
  
  PRM_the_aryan_slav_idea: "The Aryan Slav"
- PRM_the_aryan_slav_idea_desc: "§FConsumer Goods Use Modifier: [?PRM_consumer_goods|=%Y0]\nRecruitable Population: [?PRM_conscription|=%Y1]\nRecruitable Population Factor: [?PRM_conscription_factor|=%+1]\nFactory Output: [?PRM_factory_output|=%Y0]\nPopulation Growth: [?PRM_population_growth|=%Y0]\nWar Support: [?PRM_war_support|=%Y0]\nAnnual GDP Growth Factor: [?PRM_gdp_growth_slav|=%+2]\nMisc Costs: [?PRM_misc_cost|=+]§!\n§g--------------§!\nVagner, the bloated carcass he is now, fooled the Slav of its place in the world. We are not to toil in work of the meagre vermins, who plot our extermination. The Mason, the Jew, and the German will quake in fear, as their worst fears will materialize, in our grandiose awakening.\n\n§iOur drums, long since abandoned, are beating once again.§!"
+ PRM_the_aryan_slav_idea_desc: "§FConsumer Goods Use Modifier: [?PRM_consumer_goods|=%Y0]\nRecruitable Population: [?PRM_conscription|=%Y1]\nRecruitable Population Factor: [?PRM_conscription_factor|=%+1]\nFactory Output: [?PRM_factory_output|=%Y0]\nPopulation Growth: [?PRM_population_growth|=%Y0]\nWar Support: [?PRM_war_support|=%Y0]\nAnnual GDP Growth Factor: [?PRM_gdp_growth_slav|=%+2]\nMisc Costs: [?PRM_misc_cost|=+]§!\n§g--------------§!\nVagner, the bloated carcass he is now, fooled the Slav of its place in the world. We are not to toil in work of the meagre vermins, who plot our extermination. The Mason, the Jew, and the German will quake in fear, as their worst fears will materialize, in our grandiose awakening.\n\n§IOur drums, long since abandoned, are beating once again.§!"
  
  PRM_labor_for_freedom_idea: "Labor for Freedom"
  PRM_labor_for_freedom_idea_desc: "§FMaximum Production Efficiency: [?PRM_slavery_max_efficiency|=+]\nProduction Efficiency Retention: [?PRM_slavery_line_change_efficiency|=%Y0]\nProduction Efficiency Gain: [?PRM_slavery_efficiency_gain|=%+2]\nProduction Efficiency Base: [?PRM_slavery_start_efficiency|=%+2]\nEquipment Conversion Speed: [?PRM_slavery_equipment_conversion|=%+2]§!\n§g--------------§!\nUnfortunately, enslaving all of the Untermensh is completely unsustainable. However, Zigfrid Shultz has devised a genius solution that would allow us to end the practice while not surrenduring to the subhumans - give the Untermensh a chance to earn their freedom through hard labor! While the slaves toil in backbreaking circumstances to regain their freedom, we will find many Aryans within their ranks that can ascend, and ensure any subhumans unworthy of life can be put at least some use before they are disposed of. When they finally emerge from slavery, they will see the awful truth:\n\n§VThat the freedom we granted them was a lie.§!"
@@ -242,6 +247,19 @@
  PRM_Yemmy_power: "This will §Yincrease§! the influence of §IZigfrid Shultz§!."
  PRM_vagner_power: "This will §Yincrease§! the influence of §jGutrum Vagner§!."
  PRM_call_to_the_world_tt: "§IThe world shall hear about our great reawakening.§!"
+
+ PRM_natsoc_pop_1: "Change §jArishe Brudershaft§! popularity: §G+1.00%§!"
+ PRM_natsoc_pop_2: "Change §jArishe Brudershaft§! popularity: §G+2.00%§!"
+ PRM_natsoc_pop_3: "Change §jArishe Brudershaft§! popularity: §G+3.00%§!"
+ PRM_natsoc_pop_5: "Change §jArishe Brudershaft§! popularity: §G+5.00%§!"
+ PRM_natsoc_pop_10: "Change §jArishe Brudershaft§! popularity: §G+10.00%§!"
+ PRM_natsoc_pop_minus_10: "Change §jArishe Brudershaft§! popularity: §G-10.00%§!"
+ 
+ PRM_natsoc2_pop_1: "Change §ISlavyanskyy Sobor§! popularity: §G+1.00%§!"
+ PRM_natsoc2_pop_2: "Change §ISlavyanskyy Sobor§! popularity: §G+2.00%§!"
+ PRM_natsoc2_pop_3: "Change §ISlavyanskyy Sobor§! popularity: §G+3.00%§!"
+ PRM_natsoc2_pop_5: "Change §ISlavyanskyy Sobor§! popularity: §G+5.00%§!"
+ PRM_natsoc2_pop_10: "Change §ISlavyanskyy Sobor§! popularity: §G+10.00%§!"
 
  ### National Focus Tree ###
  ##Initial Tree##
@@ -593,7 +611,7 @@
  PRM_AB_a_clash_of_gods: "A Clash of Gods"
  PRM_AB_a_clash_of_gods_desc: "The time has come. With the Brotherhood's grip on Russia becoming firmer every day, an issue that many hoped would remain hidden has finally risen to the surface. For years, two men have dominated the Aryan Brotherhood, and their hatred for each other has only grown in that time.\n\nGutrum Vagner, the father of the Brotherhood has seen his dream of an Aryan Russia realized, and has fought to maintain the principles of Aryanism as he originally envisioned them. Everyone in the Brotherhood admires the Fyurer's genius, but some have become worried about his refusal to even consider compromise in the face of existential threats to the race. These members have rallied around Zigfrid Shultz, the dark horse of the Brotherhood command and the self proclaimed "Savior of the Race". Shultz and his disciples advocate a radical theory that the Slavs are the true Aryan race and the Germans that the Fyurer admires so much are Zionist puppets.\n\nBoth men refuse to back down from their views and the ideological war between them has reached a fever pitch. A victor will soon be determined, and the future of the Aryan race hangs in the balance. Russia is only big enough for one Fyurer."
  
- ### Vagnar Regional Economics ###
+ ### Vagner Regional Economics ###
  PRM_AB_new_economics_for_a_new_reykh: "New Economics for a New Reykh"
  PRM_AB_new_economics_for_a_new_reykh_desc: "The triumph of our arms in recent months has elevated our Brotherhood from a patch of land, surrounding a ruined city, led by the few brilliant minds of this desolate land to a new great Aryan empire in the East, overcoming anything built on Russian soil before our time. And while this victory of the Reykh is its greatest achievement yet, we must now turn to the challenges lying ahead and prepare our economy with new methods of expertise for the coming conquest of new living space and providing prosperity for the Aryan race in times of peace."
  
@@ -1013,7 +1031,7 @@
  PRM_expansion.4.a: "Only the Aryans could bring peace to the steppe."
 
  PRM_expansion.5.t: "Got Mit Uns"
- PRM_expansion.5.desc: "Standing in the bombed-out shell of a church, Hans found himself in an unusually philosophical mood. In his hands he held an old Bible he had been flipping through while Gunter and Yohan searched the ruin for any valuables. He had opened it to a random page and found a passage that stood out to him.\n\n"For you are a people holy to the Lord your God. The Lord your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth."\n- Deuteronomy 7:6\n\nThe passage left him conflicted. His parents raised him as a Christian. Of course, they also raised him as a degenerate Slav, so that wasn't saying much. The Brotherhood was not explicitly anti-Christian so much as against non-Aryan beliefs. The recent war to crush the Order had certainly exemplified the way that policy could lead to highly anti-Christain behavior. Hell, Hans had participated in his fair share of sacrilege both during and after the fighting. But this passage had him questioning that. Maybe Christianity and the Brotherhood's beliefs were not so different? Maybe the Aryans were God's favored people, a noble race of holy warriors He had sent to reclaim the world and destroy the false prophets who claimed to represent Him? Maybe-\n\n"Hey bookworm! Quit reading and give us a fucking hand for once!"\n\nHans looked up and saw Gunter and Yohan trying to pull a large chest from where it was wedged under the rubble. He dropped the Bible into the dirt and went to help his brothers loot the church."
+ PRM_expansion.5.desc: "Standing in the bombed-out shell of a church, Hans found himself in an unusually philosophical mood. In his hands he held an old Bible he had been flipping through while Gunter and Yohan searched the ruin for any valuables. He had opened it to a random page and found a passage that stood out to him.\n\n"For you are a people holy to the Lord your God. The Lord your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth."\n- Deuteronomy 7:6\n\nThe passage left him conflicted. His parents raised him as a Christian. Of course, they also raised him as a degenerate Slav, so that wasn't saying much. The Brotherhood was not explicitly anti-Christian so much as against non-Aryan beliefs. The recent war to crush the Order had certainly exemplified the way that policy could lead to highly anti-Christian behavior. Hell, Hans had participated in his fair share of sacrilege both during and after the fighting. But this passage had him questioning that. Maybe Christianity and the Brotherhood's beliefs were not so different? Maybe the Aryans were God's favored people, a noble race of holy warriors He had sent to reclaim the world and destroy the false prophets who claimed to represent Him? Maybe-\n\n"Hey bookworm! Quit reading and give us a fucking hand for once!"\n\nHans looked up and saw Gunter and Yohan trying to pull a large chest from where it was wedged under the rubble. He dropped the Bible into the dirt and went to help his brothers loot the church."
  PRM_expansion.5.a: "A fine specimen of God's chosen people."
 
  PRM_expansion.6.t: "The Results of Neutrality"

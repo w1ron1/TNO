@@ -106,7 +106,7 @@
  COG_USA_central_african_republic_developments:0 "Central African Development"
  COG_USA_central_african_republic_developments_desc:0 "If we manage to peacefully carry out our decolonization plans, we will be able to bring back §O80%§! of the resources we have generated here.\n\nIf we choose to prematurely decolonize, we will only be able to bring back §O40%§! of the resources we have generated here.\n\nIn the case of a complete collapse of the mandate, we will we will have to §Rabandon§! the resources we have generated here."
  OFN_CAR_memento_mori_cat:0 "The Great African Disaster"
- OFN_CAR_memento_mori_cat_desc:0 "The great African experiment was doomed from the very moment it was conceived in the heads of the §TOFN High Command§!. §TGeneral Westmoreland§! thought that it could be salvaged, and that by putting together the §TAll-African Summit§! he could handle the African beast.\n\nReality had other plans however, and as local rebels and warlords prepares themselves for the tumultuous decades to come, the §TOFN Mandate§! is at a crossroads. What little land the OFN really control is centered around our administrative capital, §TQuelimane§! and our major port of entry, §TDar es Salaam§!, the only two cities they really ever managed to completely control. The §TEastern Coast§! will be our last resort if Africa breaks loose.\n\nWhether dealt with §Odiplomacy§!, or §ewar§!, the C.A.R. will cease to exist by the end of the decade, if not earlier.[USC.GetCARCurrentMission]\n\nMemento Mori."
+ OFN_CAR_memento_mori_cat_desc:0 "The great African experiment was doomed from the very moment it was conceived in the heads of the §BOFN High Command§!. §BGeneral Westmoreland§! thought that it could be salvaged, and that by putting together the §BAll-African Summit§! he could handle the African beast.\n\nReality had other plans however, and as local rebels and warlords prepares themselves for the tumultuous decades to come, the §BOFN Mandate§! is at a crossroads. What little land the OFN really control is centered around our administrative capital, §BQuelimane§! and our major port of entry, §BDar es Salaam§!, the only two cities they really ever managed to completely control. The §BEastern Coast§! will be our last resort if Africa breaks loose.\n\nWhether dealt with §Odiplomacy§!, or §ewar§!, the C.A.R. will cease to exist by the end of the decade, if not earlier.[USC.GetCARCurrentMission]\n\nMemento Mori."
  OFN_CAR_memento_mori:0 "§RMemento Mori§!"
  OFN_CAR_memento_mori_desc:0 "§YThe clock is ticking, but it is still possible to postpone the death of the §QC.A.R.§! Certain political decisions, and certain policy choices will push the deadline further, buying the §MOFN§! just a little bit more time to enact their plan...§!"
  OFN_End_of_CAR:0 "§xThe Central African Republic will violently collapse.§!"
@@ -115,7 +115,7 @@
  OFN_CAR_memento_mori_war:0 "\n\n- The current §Plogistical preparation§! for the future African war is [USC.GetCARLogistics] ([?USC.OFN_CAR_WAR_logistics|%1]).\n- The situation of our §Lstock of weapons and various equipment§! is [USC.GetCARMaterial] ([?USC.OFN_CAR_WAR_material|%1]).\n- The §jtraining and quality§! of our troops is [USC.GetCARTraining] ([?USC.OFN_CAR_WAR_training|%1])"
 
  OFN_CAR_operation_african_freedom:0 "Operation: AFRICAN FREEDOM"
- OFN_CAR_operation_african_freedom_desc:0 "It was the duty of the §TAmerican soldiers§! in Africa to safeguard §Mfreedom and democracy§!, and that hasn't changed. The §rC.A.R.§! might have been a total disaster, but our troops can salvage the situation. By §Ysecuring territories§!, we will be able to form and strengthen §Gallied regimes§! along the way. This operation might not be a complete success, §Mbut we will continue to fight for the liberation of Africa§!.\n\nSituation in §YCameroon§!: [USC.GetCARTerritoryCameroon]\nSituation in §YBeafrika§!: [USC.GetCARTerritoryBeafrika]\nSituation in §YCongo§!: [USC.GetCARTerritoryCongo]\nSituation in §YAngola§!: [USC.GetCARTerritoryAngola]\nSituation in §YZambia§!: [USC.GetCARTerritoryZambia]\nSituation in §YMozambique§!: [USC.GetCARTerritoryMozambique]\nSituation in §YRwanda and Burundi§!: [USC.GetCARTerritoryRwandaBurundi]\nSituation in §YUganda§!: [USC.GetCARTerritoryUganda]\nSituation in §YTanganyika§!: [USC.GetCARTerritoryTanganyika]\nSituation in §YKenya§!: [USC.GetCARTerritoryKenya]"
+ OFN_CAR_operation_african_freedom_desc:0 "It was the duty of the §BAmerican soldiers§! in Africa to safeguard §Mfreedom and democracy§!, and that hasn't changed. The §rC.A.R.§! might have been a total disaster, but our troops can salvage the situation. By §Ysecuring territories§!, we will be able to form and strengthen §Gallied regimes§! along the way. This operation might not be a complete success, §Mbut we will continue to fight for the liberation of Africa§!.\n\nSituation in §YCameroon§!: [USC.GetCARTerritoryCameroon]\nSituation in §YBeafrika§!: [USC.GetCARTerritoryBeafrika]\nSituation in §YCongo§!: [USC.GetCARTerritoryCongo]\nSituation in §YAngola§!: [USC.GetCARTerritoryAngola]\nSituation in §YZambia§!: [USC.GetCARTerritoryZambia]\nSituation in §YMozambique§!: [USC.GetCARTerritoryMozambique]\nSituation in §YRwanda and Burundi§!: [USC.GetCARTerritoryRwandaBurundi]\nSituation in §YUganda§!: [USC.GetCARTerritoryUganda]\nSituation in §YTanganyika§!: [USC.GetCARTerritoryTanganyika]\nSituation in §YKenya§!: [USC.GetCARTerritoryKenya]"
 
  OFN_CAR_logistics_bonus:0 "Benefits from Logistical Preparations"
  OFN_CAR_material_bonus:0 "Benefits from our Equipment Stock"
@@ -196,15 +196,15 @@
  OFN_CAR_situation_negotiation_1:0 "§Yunwilling§!"
  OFN_CAR_situation_negotiation_2:0 "§Gwilling§!"
  OFN_CAR_situation_negotiation_3:0 "§yenthusiastically willing§!"
- OFN_CAR_all_africa_ready_for_negotiations_tt:0 "§SAll three§! of the §YAfrican regions§! needs to be enthusiastically willing to negotiate with the §TOFN§! (above §G70%§!)\n§YOur political stability is above §G50%§!.§!"
+ OFN_CAR_all_africa_ready_for_negotiations_tt:0 "§SAll three§! of the §YAfrican regions§! needs to be enthusiastically willing to negotiate with the §BOFN§! (above §G70%§!)\n§YOur political stability is above §G50%§!.§!"
 
  OFN_CAR_situation_territory_0:0 "§RIn Enemy Hands§!"
- OFN_CAR_situation_territory_1:0 "§TUnder OFN Occupation§!"
+ OFN_CAR_situation_territory_1:0 "§BUnder OFN Occupation§!"
  OFN_CAR_situation_territory_2:0 "§MEstablished§!"
  OFN_CAR_situation_territory_3:0 "§eLost§!"
 
- OFN_CAR_DIP_path_tt:0 "This will bring the §rC.A.R.§! and §TGeneral Westmoreland§! down the path of §Odiplomacy§!, however difficult it may be."
- OFN_CAR_WAR_path_tt:0 "This will bring the §rC.A.R.§! and §TGeneral Westmoreland§! down the path of §ewar§!, however bloody it may be."
+ OFN_CAR_DIP_path_tt:0 "This will bring the §rC.A.R.§! and §BGeneral Westmoreland§! down the path of §Odiplomacy§!, however difficult it may be."
+ OFN_CAR_WAR_path_tt:0 "This will bring the §rC.A.R.§! and §BGeneral Westmoreland§! down the path of §ewar§!, however bloody it may be."
 
  OFN_CAR_focus_needs_for_good_decol_tt:0 "§WIf we wish for §Gthe negotiations to go soundly,§! we must have at least §G50%§! §PAdministrative Hold§! or §LMilitary Hold§! over our lands. Any less than that could have §Rterrible consequences§!.§!"
 

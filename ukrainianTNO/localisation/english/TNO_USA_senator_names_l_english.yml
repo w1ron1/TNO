@@ -3,8 +3,8 @@
 
   ############# PARTIES
 
- RD_R_SENATOR_PARTY:0 "(£GFX_rd_r_texticon §RR§!-§TD§! - §RRepublican§!) "
- RD_D_SENATOR_PARTY:0 "(£GFX_rd_d_texticon §RR§!-§TD§! - §TDemocrat§!) "
+ RD_R_SENATOR_PARTY:0 "(£GFX_rd_r_texticon §RR§!-§BD§! - §RRepublican§!) "
+ RD_D_SENATOR_PARTY:0 "(£GFX_rd_d_texticon §RR§!-§BD§! - §BDemocrat§!) "
  NPP_C_SENATOR_PARTY:0 "(£GFX_npp_c_texticon §ONPP§! - §KProgressive§!) "
  NPP_C_SENATOR_PARTY_L:0 "(£GFX_npp_c_texticon §ONPP§! - §KLiberal§!) "
  NPP_C_SENATOR_PARTY_FL:0 "(£GFX_npp_c_texticon §ONPP§! - §KFarmer Labor§!) "

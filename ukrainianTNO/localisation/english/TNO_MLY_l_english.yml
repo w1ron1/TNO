@@ -11,23 +11,18 @@
 
  MLY_TempGov: "Provisional Government of Malaya"
  MLY_TempGov_DEF: "the Provisional Government of Malaya"
- MLY_TempGov_ADJ: "Provisional Government of Malaya"
 
  MLY_PKM: "Malayan National Liberation Army"
  MLY_PKM_DEF: "the Malayan National Liberation Army"
- MLY_PKM_ADJ: "Malayan"
 
  MLY_BRM: "All-Malayan Revolutionary Front"
  MLY_BRM_DEF: "the All-Malayan Revolutionary Front"
- MLY_BRM_ADJ: "Malayan"
 
  MLY_AW: "Provisional Government of Malaya"
  MLY_AW_DEF: "the Provisional Government of Malaya"
- MLY_AW_ADJ: "Malayan"
 
  MLY_republic: "Republic of Malaya"
  MLY_republic_DEF: "the Republic of Malaya"
- MLY_republic_ADJ: "Malayan"
 
  ### Parties ##
  MLY_communist_party: "UMAJF - PKM"

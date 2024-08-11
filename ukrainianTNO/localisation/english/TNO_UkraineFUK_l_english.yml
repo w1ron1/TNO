@@ -74,6 +74,8 @@
  FUK_freedom_to_ukraine_or_death_idea:0 "Україна або смерть"
  FUK_freedom_to_ukraine_or_death_idea_desc:0 ""Господи Ісусе Христе, визволи Україну від зла. Благослови наших хоробрих, вгамуй наш голод і веди нас, непохитних, до свободи... І Отче... якщо не судилося... обдаруй мій народ Твоєю безмежною милістю, прийми його в осяйну вічність при боці Твоїм і даруй йому вічну славу.\n\nАмінь.""
 
+ FUK_Ohloblyn_military_nerfs: "Military Dismantlement"
+
  ## Ministers
 
  # Starting Ministers
@@ -95,33 +97,33 @@
 
 
  ### pre-UCW and UCW gui ###
- UKR_FUK_power_struggle_gui_activate: "Завантажити §aСтовпи§! §sРеволюції§!"
- FUK_power_struggle_category: "§aСтовпи§! §sРеволюції§!"
- fuk_partisan_support: "§aПартизан§!"
- fuk_populist_support: "§cПопуліст§!"
- fuk_collaborator_support: "§gКолабораціоністів§!"
- UKR_FUK_power_struggle_active_decision: "Ще одне рішення §aСтовпів§! §sРеволюції§! в дії"
+ UKR_FUK_power_struggle_gui_activate: "Завантажити §MСтовпи§! §sРеволюції§!"
+ FUK_power_struggle_category: "§MСтовпи§! §sРеволюції§!"
+ fuk_partisan_support: "§MПартизан§!"
+ fuk_populist_support: "§PПопуліст§!"
+ fuk_collaborator_support: "§gКолабораціоніст§!"
+ UKR_FUK_power_struggle_active_decision: "Ще одне §Mрішення§! §PСтовпів§! §sРеволюції§! в дії"
 
  FUK_rally_borovets_men: "Мітинг людей Боровця"
- FUK_emphasise_the_struggle: "Наголосити на анті-§jнімецькій§! боротьбі"
- FUK_contact_the_home_army: "Звернутися до §WАрмії§! §xКрайової§!"
- FUK_promote_dedicated_partisans: "Просувати відданих §aПартизанів§!"
+ FUK_emphasise_the_struggle: "Наголосити на Анті-§jНімецькій§! боротьбі"
+ FUK_contact_the_home_army: "Звернутися до §xКрайовської§! §WАрмії§!"
+ FUK_promote_dedicated_partisans: "Просувати відданих §MПартизан§!"
  FUK_combat_internal_fascism: "Боротися з внутрішнім §JФашизмом§!"
  FUK_mobilize_the_population: "Мобілізувати населення"
  FUK_defend_ukranian_culture: "Захищати §mУкраї§!§Yнську§! культуру"
  FUK_offer_a_nationalist_alternative: "Запропунувати §RНаціон§!§sалістичну§! альтернативу"
  FUK_expand_literature_club: "Розширювати §mУкраї§!§Yнські§! зустірі клубу літератури"
- FUK_meet_with_socialist_republicans: "Зустрічатися з поміркованими §Rсоціалістами§!"
+ FUK_meet_with_socialist_republicans: "Зустрічатися з поміркованими §RСоціалістами§!"
  FUK_promise_business_owners_amnesty: "Обіцяти амністію £UKR_industrial_texticon §Lвласникам бізнесу§!"
- FUK_convert_police_officers: "Конвертувати £GFX_UKR_collab_texticon §Qофіцерів поліції§!"
+ FUK_convert_police_officers: "Конвертувати £GFX_UKR_collab_texticon §QОфіцерів Поліції§!"
  FUK_divert_collab_funds: "Спрямувати кошти £UKR_collab_texticon §QКолабораціоністів§!"
  FUK_acquire_collaborator_weapons: "Придбати зброю £UKR_collab_texticon §QКолабораціоністів§!"
- FUK_mobilize_collaborator_forces: "Мобілізуйте £UKR_collab_texticon §QКолабораціоністкі§! сили"
- FUK_collaborator_support_50_tt: "Підтримка революції у §gколабораціоністів§! щонайменш §Y50%§!."
- FUK_collaborator_support_70_tt: "Підтримка революції у §gколабораціоністів§! щонайменш §Y70%§!."
+ FUK_mobilize_collaborator_forces: "Мобілізувати £UKR_collab_texticon §QКолабораціоністкі§! сили"
+ FUK_collaborator_support_50_tt: "Підтримка революції у §gКолабораціоністів§! щонайменш §Y50%§!."
+ FUK_collaborator_support_70_tt: "Підтримка революції у §gКолабораціоністів§! щонайменш §Y70%§!."
 
- FUK_partisan_support_change_tt: "(§aPartisan§!) support for the revolution: [?var_partisan_support_temp|%%2+=]"
- FUK_populist_support_change_tt: "(§cPopulist§!) support for the revolution: [?var_populist_support_temp|%%2+=]"
+ FUK_partisan_support_change_tt: "(§MPartisan§!) support for the revolution: [?var_partisan_support_temp|%%2+=]"
+ FUK_populist_support_change_tt: "(§PPopulist§!) support for the revolution: [?var_populist_support_temp|%%2+=]"
  FUK_collaborator_support_change_tt: "(§gCollaborator§!) support for the revolution: [?var_collaborator_support_temp|%%2+=]"
 
  FUK_pillars_decay: "Pillars §RDecay§!"
@@ -134,8 +136,8 @@
  FUK_pillars_gui_info_tt: "§F§aСтовпи§! §sРеволюції§!\n----------------------------------\n§MУкра§!§Yїни§! майже півстоліття не бачила свободи, але мрія про свободу §MУкра§!§Yїни§! живе в широкій коаліції £UKR_pg §DУкраїнської національно-революційної армії§!. В її лавах стоять різноманітні групи: затяті §aПартізани§!, майже соціалістичні §cПопулісти§!, та навіть фашистькі §gКолабораціоністи§!, об'єднані під одним прапором.\n\nЦі стовпи нашої революції мають свої межі того, що вони готові внести в справу, представлену їхньою підтримкою. Якщо стовп має §Gпітримку понад 50%§!, то ми отримаємо §Gбонуси§!, якщо ж §Rменше за 50%§!, то ми втрачаємо §Rбонуси§!. Однак, прихильність одного стовпа досягається за рахунок інших, і висока підтримка одного стовпа призведе до §Rзменшення§! підтримки інших.\n\nЯкщо ми хочеммо звільнити §MУкра§!§Yїну§!, то вкрай важливо керувати цим §Yактом ретельного балансування§!.§!"
 
  UKR_FUK_partisan_support_bar_tt: "§F§aПартизани§! це ядро партії £UKR_pg §DУНРА§! - люди, які борються і вмирають за свободу України від фашизму та комунізму.Вони є одними з найвідданіших прихильників антифашистської боротьби за національне визволення і прагнуть співпрацювати з Польською §WАрмією§! §xКрайова§! знову проти фашистських загроз. Однак їхній запеклий антикомунізм відштовхує багатьох лівих §cПопулістів§! а їхня опозиція до §gКолабораціонізму§! викликає занепокоєня.\n\n§aПартизани§! Партійна підтримка революції §Y[?var_partisan_support]%§!\nEffects:\n    Атака дивізії: [?FUK_partisan_attack_bonus|2+%=]\n    Оборона дивізії: [?FUK_partisan_defense_bonus|2+%=]\n    Організація дивізі: [?FUK_partisan_organisation_bonus|2+%=]\n    Швидкість відновлення дивізії: [?FUK_partisan_recovery_bonus|2+%=]\n    Щоденна підтримка прогресизму: [?FUK_populist_progressivism_bonus|2+=]\n    Щоденна підтримка деспотизму: [?FUK_partisan_despotism_bonus|2+=]§!"
- UKR_FUK_populist_support_bar_tt: "§FThe §cPopulists§! are the masses who stand behind the £UKR_pg §DUNRA§! - those who dream of a freer future where the Ukrainian people are no longer victims of terror and can live in peace. They appeal to the populace, especially the rural peasantry, and have formed a growing §c"Culturalist"§! movement for Ukraine's renewal following the liberation. Yet their leftist ideology and sympathy towards £UKR_communists §Scommunist§! elements leaves the §aPartisans§! and §gCollaborators§! wary.\n\n§cPopulist§! support for the revolution is §Y[?var_populist_support]%§!\nEffects:\n    Stability: [?FUK_populist_stability_bonus|2+%=]\n    War Support: [?FUK_populist_war_support_bonus|2+%=]\n    Recruitable Population: [?FUK_populist_manpower_bonus|2%Y=]\n    Daily Socialist Support: [?FUK_populist_socialist_bonus|2+=]\n    Daily Communist Support: [?FUK_populist_communist_bonus|2+=]§!"
- UKR_FUK_collaborator_support_bar_tt: "§FThe §gCollaborators§! are the current and former collaborators who assist the £UKR_pg §DUNRA§! - the policemen, mayors, and small-time officials within the £UKR_collab_texticon §QUNC§! who see the current status of the £UKR_reichskommissariat §jReichskommissariat§! as unacceptable. They are a diverse group: fascists, nationalists, and opportunists all find a home within the §gCollaborators§!. But their collaboration and fascistic elements make the §aPartisans§! and §cPopulists§! deeply concerned - for what worse fate could befall a free Ukraine than fascist restoration?\n\n§gCollaborator§! support for the revolution is §Y[?var_collaborator_support]%§!\nEffects:\n    Daily Political Power Gain: [?FUK_collaborator_pp_bonus|2+=]\n    Weekly Manpower: [?FUK_collaborator_manpower_bonus|0+=]\n    Daily Paternalism Support: [?FUK_collaborator_paternalism_bonus|2+=]\n    Daily Fascism Support: [?FUK_collaborator_fascism_bonus|2+=]§!"
+ UKR_FUK_populist_support_bar_tt: "§FThe §PPopulists§! are the masses who stand behind the £UKR_pg §DUNRA§! - those who dream of a freer future where the Ukrainian people are no longer victims of terror and can live in peace. They appeal to the populace, especially the rural peasantry, and have formed a growing §P"Culturalist"§! movement for Ukraine's renewal following the liberation. Yet their leftist ideology and sympathy towards £UKR_communists §Scommunist§! elements leaves the §MPartisans§! and §gCollaborators§! wary.\n\n§PPopulist§! support for the revolution is §Y[?var_populist_support]%§!\nEffects:\n    Stability: [?FUK_populist_stability_bonus|2+%=]\n    War Support: [?FUK_populist_war_support_bonus|2+%=]\n    Recruitable Population: [?FUK_populist_manpower_bonus|2%Y=]\n    Daily Socialist Support: [?FUK_populist_socialist_bonus|2+=]\n    Daily Communist Support: [?FUK_populist_communist_bonus|2+=]§!"
+ UKR_FUK_collaborator_support_bar_tt: "§FThe §gCollaborators§! are the current and former collaborators who assist the £UKR_pg §DUNRA§! - the policemen, mayors, and small-time officials within the £UKR_collab_texticon §QUNC§! who see the current status of the £UKR_reichskommissariat §jReichskommissariat§! as unacceptable. They are a diverse group: fascists, nationalists, and opportunists all find a home within the §gCollaborators§!. But their collaboration and fascistic elements make the §MPartisans§! and §PPopulists§! deeply concerned - for what worse fate could befall a free Ukraine than fascist restoration?\n\n§gCollaborator§! support for the revolution is §Y[?var_collaborator_support]%§!\nEffects:\n    Daily Political Power Gain: [?FUK_collaborator_pp_bonus|2+=]\n    Weekly Manpower: [?FUK_collaborator_manpower_bonus|0+=]\n    Daily Paternalism Support: [?FUK_collaborator_paternalism_bonus|2+=]\n    Daily Fascism Support: [?FUK_collaborator_fascism_bonus|2+=]§!"
 
  ### Tooltips ###
 
@@ -157,7 +159,7 @@
  
  FUK_fascist_friends_tt: "Настав час для наших менш вибагливих союзників зробити свій внесок."
  
- FUK_reorganization_of_ukraine_tt: "Ми закладемо фундамент для нашої реорганізації уряду §MУкп§!§Yаїни§!"
+ FUK_reorganization_of_ukraine_tt: "Ми закладемо фундамент для нашої реорганізації уряду §MУкр§!§Yаїни§!"
  
  FUK_culturalist_poem_tt: "\n§gПоглянь на рідну країну,\n\n На цей мирний едем;\n\n Любіть переповненим серцем,\n\n Цей простір руїн.§!"
  
@@ -293,7 +295,7 @@
  FUK_offer_the_alternative: "Запропонуйте альтернативу"
  FUK_offer_the_alternative_desc: "The communists offer the Ukrainian people a totalitarian dictatorship and the Banderites offer them cultish worship of a dead man, it should be abundantly clear that the Republic is the only real alternative to a nation under the boot of fascism. Therefore, we shall reaffirm our commitments to democracy to show those suffering that we are the only ones prepared to offer the Ukrainian people real change.\n\nFor freedom does not mean a hollow independence full of fallow fields, it means a chance for every man, woman, and child to breathe up, to live, and to grow old and die happy."
 
- FUK_drop_the_hammer_win_the_war: "Кинь молот, виграй війну"
+ FUK_drop_the_hammer_win_the_war: "Кинь молот, та виграй війну"
  FUK_drop_the_hammer_win_the_war_desc: "If we are to win this war - and quickly - we must make a more concerted effort. We must increase the pace of organization, of fitting out, and of deployment. Until now, our ability to do this has often been a question of supply. It is now a question of will.\n\nWe have the manpower. We have the weapons. We need only put the pieces together, outfit and dispatch more militia battalions, of ever increasing size. We will do this - and then we will win."
 
  FUK_make_volunteers: "Зробити волонтерів"
@@ -420,7 +422,7 @@
  FUK_the_only_answer: "Єдина відповідь"
  FUK_the_only_answer_desc: "We have surpassed what months ago seemed like unsurmountable odds, yet we could only do so joined together as one against those who wished to oppress us. Now, we face an even greater colossus, that of the German Reich, soon to wake up from its slumber and ready to crush us with all of their might.\n\nThe only solution to this dreadful problem is a united front against Nazism, our one chance of surviving against the German wave that seeks to oppress us and strangle our Republic in the crib.\n\nBut one important question remains: how do we accomplish such a feat after a bitter civil war?"
  
- FUK_bury_then_rise: "Поховати, а потім воскреснути"
+ FUK_bury_then_rise: "Поховати, перед тим як воскреснути"
  FUK_bury_then_rise_desc: "Mothers weep for their sons and daughters, patriots mourn the history and heritage turned to ashes, and Ukraine herself lingers in agony at the scars across its land. We can only bury these losses, but we can always rebuild. We now have a golden opportunity to take back the future that was rightfully ours. No more shall be oppressed by the forces of imperialism, forced to cow to madmen and their totalitarian ideals. Our Ukraine shall rise from the ashes, and it will be stronger than any ever before."
 
  FUK_water_with_the_tyrants_blood: "Вода з кров'ю тиранів..."
@@ -441,10 +443,10 @@
  FUK_reach_out_to_roman: "Зверніться до Романа"
  FUK_reach_out_to_roman_desc: "Dmytro Klyachkivsky was a man of hate - he was not a patriot. He led his men in a blind rage of anger against other patriots. Many of the men under his banner are misguided souls - men who can redeemed. Roman Shukhevych is a prime example of this character, a fighter who cast himself with the deranged only to find out too late.\n\nHe is a leading voice of the more moderate side of Banderite nationalism. This side eschews its ideological edge for a pragmatic and "apolitical" approach. If we were to offer him and his followers amnesty, they would be a valuable asset for our side."
 
- FUK_cooperate_with_the_communists: "Співпрацювати з комуністами"
+ FUK_cooperate_with_the_communists: "Співпрацювати з Комуністами"
  FUK_cooperate_with_the_communists_desc: "The communists we fight are not the apparatchiks of yesterday, blindly following Moscow's orders as they stamped out everything that makes Ukraine special. No, they are also patriots like themselves, men who wished to see a Ukraine free from Nazism, even if their vision of a free Ukraine was markedly different from ours.\n\nTo live up to our ideals of a united struggle, we will offer amnesty to every communist partisan who lays down their weapons and agrees to fight for the government instead. If these communists are as dedicated to the fight against fascism as they say they are, every one of them will make an ideal soldier in the battle against Germany."
 
- FUK_fighting_fascisms_followers: "Боротьба з послідовниками фашизму"
+ FUK_fighting_fascisms_followers: "Боротьба з послідовниками Фашизму"
  FUK_fighting_fascisms_followers_desc: "It is not enough to vocally condemn the fascists in the Rada and other parlors of politics, we need to take to the streets. We will physically oppose them at each turn, even if that fascist takes on the guise of a Ukrainian. We will do our all to prevent the Movement for Defense Against Bolshevism from organizing against us, be it demonstrations and marches of anti-fascist fervor or counter-attacks towards them whenever they try to disrupt our fair and democratic processes. We have fought fascism before, and we will continue to take action against it in whatever form it may take!"
 
  FUK_for_we_bow_to_none: "Бо ми не вклоняємося нікому"
@@ -794,4 +796,4 @@ FUK_parade_party_militia_desc: ""
 
 FUK_ohloblyn_elected_tt: "§Y§sOleksander Ohloblyn§! and the §QSpivavtor§! coalition have been elected!§!"
 FUK_dziuba_elected_tt: "§Y§PIvan Dziuba§! and the §PCulturalist§! coalition have been elected!§!"
-FUK_stus_elected_tt: "§Y§aVasyl Stus§! and §wTaras Bulba-Borovets§! and the §aUnited§! §wStruggle§! coalition have been elected!§!"
+FUK_stus_elected_tt: "§Y§MVasyl Stus§! and §wTaras Bulba-Borovets§! and the §MUnited§! §wStruggle§! coalition have been elected!§!"

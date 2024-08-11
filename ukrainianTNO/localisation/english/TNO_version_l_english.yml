@@ -1,8 +1,8 @@
 ﻿l_english:
  # Format - TNO vMajorVersion.ContentUpdate.PatchNumber(Hotfix Letter) - Content Update Name
- tno_current_version:0 "TNO v1.5.0d - §R"Руїна"§!"
+ tno_current_version:0 "TNO v1.6.0 - §KSo§! §WFar From§! §xGod§!"
  # Format - Date of most recent update - Hotfix Or Patch Contents
- tno_current_version_date:0 "§Y15 Червня, 2024 - §R"Руїна"§!§!"
+ tno_current_version_date:0 "§YAugust 9th, 2024 - So Far From God§!"
 
  # Patch History logged below
  # TNO v1.0.0 - Released on July 21st, 2020 - Initial Release

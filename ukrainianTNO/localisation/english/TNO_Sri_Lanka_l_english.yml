@@ -13,10 +13,6 @@
  CYL_progressivism_DEF: "the Republic of Sri Lanka"
  CYL_progressivism_ADJ: "Sri Lankan"
 
- ## Cosmetic Tags ##
- CYL_OFN: "OFN Administration of Ceylon"
- CYL_OFN_DEF: "the OFN Administration of Ceylon"
-
  ### Parties ###
  CYL_communist_party: "LTTE"
  CYL_communist_party_long: "Liberation Tigers of Tamil Eelam"
@@ -32,9 +28,6 @@
  CYL_conservatism_party_long: "United National Party"
  CYL_paternalism_party: "ITAK"
  CYL_paternalism_party_long: "Illankai Tamil Arasu Kachchi"
-
- CYL_OFN_paternalism_party: "OFN Administration"
- CYL_OFN_paternalism_party_long: "Organization of Free Nations Administration"
  
  ### Characters ###
  CYL_Dudley_Senanayake: "Dudley Senanayake"

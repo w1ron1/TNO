@@ -1,4 +1,44 @@
 ﻿l_english:
+ ### Country Names ###
+ SER: "Republic of Serbia"
+ SER_DEF: "the Republic of Serbia"
+ SER_ADJ: "Serbian"
+
+ GMS: "Serbian State"
+ GMS_DEF: "the Serbian State"
+ GMS_ADJ: "Serbian"
+
+ ## Cosmetic Tags ##
+ SER_POST_WAR: "People's Republic of Serbia"
+ SER_POST_WAR_DEF: "the People's Republic of Serbia"
+
+ SER_NLM: "National Liberation Movement of Serbia"
+ SER_NLM_DEF: "the National Liberation Movement of Serbia"
+ 
+ SER_ASNOS_POST_WAR_YOUNG_SOCIALISTS: "Republic of Serbia"
+ SER_ASNOS_POST_WAR_YOUNG_SOCIALISTS_DEF: "the Republic of Serbia"
+
+ SER_ASNOS_POST_WAR_YUGOSLAV: "People's Republic of Serbia"
+ SER_ASNOS_POST_WAR_YUGOSLAV_DEF: "the People's Republic of Serbia"
+
+ SER_BALKAN: "Federal People's Republic of the Balkans"
+ SER_BALKAN_DEF: "the Federal People's Republic of the Balkans"
+ SER_BALKAN_ADJ: "Balkan"
+
+ SER_KINGDOM: "Kingdom of Serbia"
+ SER_KINGDOM_DEF: "the Kingdom of Serbia"
+ 
+ SER_JAKOV: "Serbian Class-Cooperative State"
+ SER_JAKOV_DEF: "the Serbian Class-Cooperative State"
+ 
+ SER_JOVANOVIC:  "Independent State of Serbia"
+ SER_JOVANOVIC_DEF: "the Independent State of Serbia"
+ 
+ SER_GER: "Independent State of Serbia"
+ SER_GER_DEF: "the Independent State of Serbia"
+
+ GMS_COLLAB: "Government of National Salvation"
+ GMS_COLLAB_DEF: "the Government of National Salvation"
 
  ### Party Names ###
  SER_communist_party: "NOVS - K"
@@ -24,10 +64,6 @@
  SER_esoteric_nazism_party: "BSBO"
  SER_esoteric_nazism_party_long: "Beogradski Specialni Borbeni Odred"
 
- SER_PEL_national_socialism: "Reichsprotektorat Prinz-Eugen Land"
- SER_PEL_national_socialism_DEF: "the Reichsprotektorat Prinz-Eugen Land"
- SER_PEL_national_socialism_ADJ: "Serbian"
-
  GMS_fascism_party: "SDS"
  GMS_fascism_party_long: "Srpska Državna Straža"
  GMS_NSDAP_national_socialism_party: "NSDAP-DL"
@@ -36,32 +72,6 @@
  GMS_national_socialism_party_long: "Militärverwaltung in Serbien"
  GMS_ultranationalism_party: "VNS"
  GMS_ultranationalism_party_long: "Vlada Narodnog Spasa"
-
- GMS_fascism: "Serbian State"
- GMS_fascism_DEF: "the Serbian State"
- GMS_fascism_ADJ: "Serbian"
- GMS_national_socialism: "Gebiet des Militärbefehlshabers in Serbien"
- GMS_national_socialism_DEF: "das Gebiet des Militärbefehlshabers in Serbien"
- GMS_national_socialism_ADJ: "Serbian"
- GMS_bormann_national_socialism: "Serbian National State"
- GMS_bormann_national_socialism_DEF: "the Serbian National State"
- GMS_bormann_national_socialism_ADJ: "Serbian"
- GMS_SER_despotism: "Kingdom of Serbia"
- GMS_SER_despotism_DEF: "the Kingdom of Serbia"
- GMS_SER_despotism_ADJ: "Serbian"
- GMS_SER_communist: "Serbian Workers' Union"
- GMS_SER_communist_DEF: "the Serbian Workers' Union"
- GMS_SER_communist_ADJ: "Serbian"
- GMS_SER_paternalism: "Serbian National Front"
- GMS_SER_paternalism_DEF: "the Serbian National Front"
- GMS_SER_paternalism_ADJ: "Serbian"
-
- SRN_paternalism_party: "CNK"
- SRN_paternalism_party_long: "Centralni Narodni Komitet"
- SRN_despotism_party: "CNK"
- SRN_despotism_party_long: "Centralni Narodni Komitet"
- SRN_ultranationalism_party: "CNK-T"
- SRN_ultranationalism_party_long: "Centralni Narodni Komitet - Tvrdolinijaši"
 
  SER_collab_despotism_party: "SNS"
  SER_collab_despotism_party_long: "Srpska Narodna Vojska"
@@ -283,43 +293,6 @@
  
  SER_Zealots_Conservatives_and_Conformists: "Zealots, Conservatives, and Conformists"
  SER_Zealots_Conservatives_and_Conformists_desc: "With a return to stability comes a return to old problems. Different factions once more vie for power, and although now Jovanović's rule is solidified, jealousy and petty bickering still threaten the regime even as it faces outwards."
-
- #Cosmetics
- SER_NLM: "National Liberation Movement of Serbia"
- SER_NLM_DEF: "the National Liberation Movement of Serbia"
- SER_NLM_ADJ: "Serbian"
-
- GMS_COLLAB: "Government of National Salvation"
- GMS_COLLAB_DEF: "the Government of National Salvation"
- GMS_COLLAB_ADJ: "Serbian"
- 
- SER_JAKOV: "Serbian Class-Cooperative State"
- SER_JAKOV_DEF: "the Serbian Class-Cooperative State"
- SER_JAKOV_ADJ: "Serbian"
- 
- SER_JOVANOVIC:  "Independent State of Serbia"
- SER_JOVANOVIC_DEF: "the Independent State of Serbia"
- SER_JOVANOVIC_ADJ: "Serbian"
- 
- SER_ASNOS_POST_WAR_YOUNG_SOCIALISTS: "Republic of Serbia"
- SER_ASNOS_POST_WAR_YOUNG_SOCIALISTS_DEF: "the Republic of Serbia"
- SER_ASNOS_POST_WAR_YOUNG_SOCIALISTS_ADJ: "Serbian"
-
- SER_ASNOS_POST_WAR_YUGOSLAV: "People's Republic of Serbia"
- SER_ASNOS_POST_WAR_YUGOSLAV_DEF: "the People's Republic of Serbia"
- SER_ASNOS_POST_WAR_YUGOSLAV_ADJ: "Serbian"
-
- SER_GNS_COLLAB_POST_WAR: "National State of Serbia"
- SER_GNS_COLLAB_POST_WAR_DEF: "the National State of Serbia"
- SER_GNS_COLLAB_POST_WAR_ADJ: "Serbian"
- 
- SER_GNS_GERMANS_POST_WAR: "Reichsprotektorat Serbien"
- SER_GNS_GERMANS_POST_WAR_DEF: "das Reichsprotektorat Serbien"
- SER_GNS_GERMANS_POST_WAR_ADJ: "Serbisch"
- 
- SER_GER: "Independent State of Serbia"
- SER_GER_DEF: "the Independent State of Serbia"
- SER_GER_ADJ: "Serbian"
  
  #Debug decisions
  SER_debug_category: "Serbia Debug"

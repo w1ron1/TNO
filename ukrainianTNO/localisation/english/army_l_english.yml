@@ -62,7 +62,7 @@
  RAILWAY_GUN_ASSIGNED_MANUAL_ORDER_DESC:0 "You are about to unassign this Railway Gun from the Army. This will remove its current orders. Are you sure?"
  ARMY_SORT_GROUP:0 "Army"
  ARMY_SORT_REGION:0 "Area"
- ARMY_SORT_BASE:0 "Air base"
+ ARMY_SORT_BASE:0 "Air Base"
  AIR_OVERVIEW_CATEGORY_0:1 "We have $COUNT|H$ §HCAS§! planes in our airforces:"
  AIR_OVERVIEW_CATEGORY_1:1 "We have $COUNT|H$ §HFighter§! planes in our airforces:"
  AIR_OVERVIEW_CATEGORY_2:1 "We have $COUNT|H$ §HNaval bomber§! planes in our airforces:"
