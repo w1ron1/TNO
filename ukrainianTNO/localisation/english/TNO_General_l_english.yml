@@ -3,7 +3,7 @@
 ###Loading Messages###
 # Roughly organized in order
 
-LOADING_GUI:0 "§BВбивство Домвіля...§!"
+LOADING_GUI:0 "§BВбиваємо Домвіля...§!"
 #"Loading GUI"
 
 LOADING_MAP_SPRITES:0 "§BСтавимо черевики на землю...§!"

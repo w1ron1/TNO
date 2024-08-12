@@ -1,14 +1,14 @@
 ﻿l_english:
- APF_CZECH: "Befehlshaber der Waffen-SS Böhmen-Mähren"
- APF_CZECH_DEF: "Befehlshaber der Waffen-SS Böhmen-Mähren"
+ APF_CZECH: "Командувач ваффен-СС Богемен-моравен"
+ APF_CZECH_DEF: "Командувач ваффен-СС Богемен-моравен"
  APF_CZECH_ADJ: "Schutzstaffel"
 
- GER_COG_int: "Paktkommission Kongo"
- GER_COG_int_DEF: "die Hohe Paktkommission für Kongo"
- GER_COG_int_ADJ: "Congolese"
+ GER_COG_int: "Пакткомісія у Конго"
+ GER_COG_int_DEF: "Пакткомісія у Конго"
+ GER_COG_int_ADJ: "Конгольськ"
  
- COG_USA_paternalism: "OFN Provisional Government of the Congo"
- COG_USA_paternalism_DEF: "the OFN Provisional Government of the Congo"
+ COG_USA_paternalism: "Тимчасовий уряд ОВН у Конго"
+ COG_USA_paternalism_DEF: "Тимчасовий уряд ОВН у Конго"
  
  USA_CAR_paternalism: "Central African Republic"
  USA_CAR_paternalism_DEF: "the Central African Republic"

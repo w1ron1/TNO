@@ -1,5 +1,5 @@
 ﻿l_english:
- brazil.1000.desc: "PTB SEATS: [?BRA_PTB_seats]\n\nPSD SEATS: [?BRA_PSD_seats]\n\nPSP SEATS: [?BRA_PSP_seats]\n\nUDN SEATS: [?BRA_UDN_seats]\n\nPRP SEATS: [?BRA_PRP_seats]" # use this event to check senate seats
+ brazil.1000.desc: "PTB SEATS: [?BRA_PTB_seats]\n\nPSD SEATS: [?BRA_PSD_seats]\n\nPSP SEATS: [?BRA_PSP_seats]\n\nUDN SEATS: [?BRA_UDN_seats]\n\nПНП SEATS: [?BRA_PRP_seats]" # use this event to check senate seats
 
  BRA_development_modifier: "Development Modifiers"
  BRA_inflation_modifier: "Inflation Modifiers"
@@ -2559,16 +2559,16 @@
  brazil.10.desc: ""AND SO, LADIES AND GENTLEMEN, I AM PROUD TO ANNOUNCE THAT BRAZIL HAS WON THE WORLD CUP!" The small crowd surrounding the radio burst into cheers, a scene mirrored millions of times over as near every Brazilian tuned into the end of the world's biggest tournament. Men and women embraced the nation over, celebrating a hard fought victory and the defense of Brazil's football supremacy. Bars were crowded with revelers, fireworks went off and hundreds of thousands of corks were popped. Nine months after the fact, hospitals and midwives would mark a minor baby boom.\n\nRumours had abounded before the event that the Brazilian team was off their game, untrained and overconfident from their victory in 1958. This myth was disproved the moment Brazil took to the field, sweeping the Chileans with an indisputable 3-1 victory. Brazilians had once again secured their position as the best athletes in the world. In the moment of victory, all of the nation's strife seemed to disappear.\n\nHighway workers, every crew packed around their own singular radio, rejoiced. Navy ships echoed with cheers, businessmen threw extravagant parties, even the men in Brazil's highest offices allowed themselves a day to celebrate. More than a few gunshots went off, and barely any of the fireworks were legally owned. In those hours of victory, Brazil was united, if only for a while."
  brazil.10.a: "In that moment, Brazil celebrated as one."
  ## Cosmetic Tags
- BRA_fash_fascism: "Brazil"
- BRA_fash_fascism_DEF: "Federative Republic of Brazil"
- BRA_fash_fascism_ADJ: "Brazilian"
+ BRA_fash_fascism: "Бразилія"
+ BRA_fash_fascism_DEF: "Федеративна Республіка Бразилія"
+ BRA_fash_fascism_ADJ: "Бразильськ"
 
  ## Leader Traits
- man_of_the_broom_latin: "Man of the Broom"
+ man_of_the_broom_latin: "Людина-мітла"
  cattle_king_latin: "Cattle King"
  playful_populist_latin: "Playful Populist"
  heir_of_vargas_latin: "Heir of Vargas"
- the_crow_latin: "The Crow"
+ the_crow_latin: "Ворон"
  retired: "Retired"
  retired_desc: "This leader is officially in retirement, although for various reasons they still have a significant degree of participation in the Armed Forces."
  the_lead_duke_latin: "The Lead Duke"

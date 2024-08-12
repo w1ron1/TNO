@@ -79,6 +79,10 @@ Alert_BRA_PLVoting_Desc: "[BRA_pl_current_bill] знаходиться на го
 Alert_BRA_Development: "Указ про розвиток доступний"
 Alert_BRA_Development_Desc: "Тепер ми можемо прийняти ще один указ про розвиток."
 
+Alert_MEX_Project: "Проєкт доступний"
+Alert_MEX_Project_Desc: "§gМи можемо розпочати роботу над новими проєктами у наступних напрямках§! §Y[?MEX_region_project_alert_array^num]§! §g[GetMEXEconProjectAlertRegions]: §!"
+Alert_MEX_Project_entry: "- §g[GetMEXEconRegionName]§!"
+
 ## MEDITERRANEAN ##
 # Italy alerts
 Alert_GreatGame: "Новий великий ігровий поворот"
@@ -86,11 +90,14 @@ Alert_GreatGame_Desc: "Розпочався новий Великий ігров
 
 # Iberia alerts
 Alert_AAS_Resources: "AAS Resources Available"
+
 Alert_AAS_Resources_Desc: "The AAS has new resources to crush the separatist menace, use the AAS screen to manage them."
 
 ## MIDDLE EAST ##
 
 ## AFRICA ##
+
+Alert_AAS_Resources_Desc: "The AAS has new resources to crush the separatist men
 
 ## RUSSIA ##
 # Smuta alerts
