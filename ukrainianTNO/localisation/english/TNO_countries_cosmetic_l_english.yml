@@ -354,14 +354,14 @@
  CNT_POSTWAR: "Вільна територія Каталонії"
  CNT_AUTHSOC: "Вільно-Каталонськ"
  
- SPS_unified: "Іспанська Держава"
- SPS_unified_DEF: "Іспанська Держава"
+ SPS_unified: "Еспанська Держава"
+ SPS_unified_DEF: "Еспанська Держава"
  
  POR_puppet: "Португалія"
  POR_puppet_DEF: "Португалія"
  
- SPR_puppet: "Іспанська Республіка"
- SPR_puppet_DEF: "Іспанська Республіка"
+ SPR_puppet: "Еспанська Республіка"
+ SPR_puppet_DEF: "Еспанська Республіка"
  
  PPR_unified: "Португальська Народна Республіка"
  PPR_unified_DEF: "Португальська Народна Республіка"
@@ -507,9 +507,9 @@
  IBR_greater_spain_ADJ: "Еспаньськ"
  
  #SSRs
- PAU_ssr: "Ґерманська ССР"
- PAU_ssr_DEF: "the German Soviet Socialist Republic"
- PAU_ssr_ADJ: "German"
+ PAU_ssr: "Німецька ССР"
+ PAU_ssr_DEF: "Німецька Совєцька Соціалістична Республіка"
+ PAU_ssr_ADJ: "Німецьк"
  
  ONG_ssr: "Karelo-Finnish SSR"
  ONG_ssr_DEF: "the Karelo-Finnish Soviet Socialist Republic"
