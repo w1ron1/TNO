@@ -22,9 +22,9 @@
  AFR_DEF: "Афар"
  AFR_ADJ: "Афарськ"
 
- AGS: "Angriffsgruppe Steiner"
- AGS_DEF: "Angriffsgruppe Steiner"
- AGS_ADJ: "Angriffsgruppe Steiner"
+ AGS: "Штурмова група Штайнер"
+ AGS_DEF: "Штурмова група Штайнер"
+ AGS_ADJ: "Штурмова група Штайнер"
 
  ALB: "Албанія"
  ALB_DEF: "Албанія"
@@ -32,10 +32,10 @@
 
  ALG: "Алжир"
  ALG_DEF: "Алжир"
- ALG_communist: "Соціалістична Алжирська республіка"
- ALG_communist_DEF: "Соціалістична Алжирська республіка"
- ALG_socialist: "Соціалістична Алжирська республіка"
- ALG_socialist_DEF: "Соціалістична Алжирська республіка"
+ ALG_communist: "Соціалістична Алжирська Республіка"
+ ALG_communist_DEF: "Соціалістична Алжирська Республіка"
+ ALG_socialist: "Соціалістична Алжирська Республіка"
+ ALG_socialist_DEF: "Соціалістична Алжирська Республіка"
  ALG_ADJ: "Алжирськ"
 
  ALT: "Ойротія"
@@ -58,9 +58,9 @@
  ANT_DEF: "Антіґуа і Барбуда"
  ANT_ADJ: "Антіґуськ"
 
- APF: "Arische Volksfront"
- APF_DEF: "Arische Volksfront"
- APF_ADJ: "Volksfront"
+ APF: "Арійський Народний фронт"
+ APF_DEF: "Арійський Народний фронт"
+ APF_ADJ: "Арійськ"
 
  ARP: "Argentine Occupation Zone"
  ARP_DEF: "the Argentine Occupation Zone in Paraguay"
@@ -87,13 +87,13 @@
  BAH_DEF: "the Bahamas"
  BAH_ADJ: "Bahamian"
 
- BGR: "Bormann's Germany"
- BGR_DEF: "Bormann's Germany"
- BGR_ADJ: "German"
+ BGR: "Борманська Німеччина"
+ BGR_DEF: "Борманська Німеччина"
+ BGR_ADJ: "Німецьк"
 
- BKR: "Bashkortostan"
- BKR_DEF: "the Bashkortostan Republic"
- BKR_ADJ: "Bashkir"
+ BKR: "Башкортостан"
+ BKR_DEF: "Башкірська Республіка"
+ BKR_ADJ: "Башкірськ"
 
  BLR: "Республіка Білорусь"
  BLR_DEF: "Республіка Білорусь"
@@ -108,7 +108,7 @@
  BOS_ADJ: "Боснійськ"
 
  BRA: "Бразилія"
- BRA_DEF: "Республіка сполученних штатів Бразилії"
+ BRA_DEF: "Республіка сполученних Штатів Бразилії"
  BRA_ADJ: "Бразилійськ"
 
  BRB: "Барбадос"
@@ -127,9 +127,9 @@
  BSO_DEF: "Керівники спеціальних операцій"
  BSO_ADJ: "Британськ"
 
- BSQ: "Basque Republic"
- BSQ_DEF: "the Basque Republic"
- BSQ_ADJ: "Basque"
+ BSQ: "Баскська Республіка"
+ BSQ_DEF: "Баскська Республіка"
+ BSQ_ADJ: "Баскськ"
 
  BTO: "British Workers' Front"
  BTO_DEF: "the British Workers' Front"
@@ -140,21 +140,21 @@
  BUL_ADJ: "Bulgarian"
 
  # C
- CAN: "Canada"
- CAN_DEF: "Canada"
- CAN_ADJ: "Canadian"
+ CAN: "Канада"
+ CAN_DEF: "Канада"
+ CAN_ADJ: "Канадськ"
 
- CHL: "Chile"
- CHL_DEF: "the Republic of Chile"
- CHL_ADJ: "Chilean"
+ CHL: "Чилі"
+ CHL_DEF: "Республіка Чилі"
+ CHL_ADJ: "Чилійськ"
 
- CHT: "Chita"
- CHT_DEF: "Chita"
- CHT_paternalism: "Transbaikal Principality"
- CHT_despotism: "Transbaikal Principality"
- CHT_paternalism_DEF: "the Transbaikal Principality"
- CHT_despotism_DEF: "the Transbaikal Principality"
- CHT_ADJ: "Chitan"
+ CHT: "Чита"
+ CHT_DEF: "Чита"
+ CHT_paternalism: "Забайкальське князівство"
+ CHT_despotism: "Забайкальське князівство"
+ CHT_paternalism_DEF: "Забайкальське князівство"
+ CHT_despotism_DEF: "Забайкальське князівство"
+ CHT_ADJ: "Читськ"
  
  CME: "COMECON"
  CME_DEF: "the Council for Mutual Economic Assistance"
@@ -196,17 +196,17 @@
  CUB_DEF: "the Republic of Cuba"
  CUB_ADJ: "Cuban"
 
- CUR: "Curaçao"
- CUR_DEF: "Curaçao"
- CUR_ADJ: "Curaçaoan"
+ CUR: "Кюрасао"
+ CUR_DEF: "Кюрасао"
+ CUR_ADJ: "Кюрасаоськ"
  
  CZE: "Wehrkreis XIX"
  CZE_DEF: "Wehrkreis XIX"
  CZE_ADJ: "Bohemian"
 
- DEN: "Denmark"
- DEN_DEF: "the Kingdom of Denmark"
- DEN_ADJ: "Danish"
+ DEN: "Данія"
+ DEN_DEF: "Королівство Данія"
+ DEN_ADJ: "Данськ"
 
  DFK: "Deutsches Freikorps"
  DFK_DEF: "the Deutsches Freikorps"
@@ -254,13 +254,13 @@
  FAR_DEF: "the Republic of the Faroe Islands"
  FAR_ADJ: "Faroes" 
   
- FAV: "Free Aviators"
- FAV_DEF: "the Free Aviators"
- FAV_liberalism: "Premium Aviators"
- FAV_liberalism_DEF: "the Premium Aviators"
- FAV_ADJ: "Free Aviator"
+ FAV: "Вільні авіатори"
+ FAV_DEF: "Вольні авіатори"
+ FAV_liberalism: "Преміумні авіатори"
+ FAV_liberalism_DEF: "Преміумні авіатори"
+ FAV_ADJ: "Вольно-авиаторськ"
 
- FFR: "Free France"
+ FFR: "Вільна Франція"
  FFR_DEF: "the Free French Liberation Forces"
  FFR_ADJ: "Free French"
  
@@ -320,12 +320,12 @@
  GND_DEF: "Grenada"
  GND_ADJ: "Grenadan"
 
- GOR: "Gorky"
- GOR_DEF: "Gorky"
+ GOR: "Ґорький"
+ GOR_DEF: "Ґорький"
  GOR_communist_DEF: "the Military Control Commission in Gorky"
  GOR_socialist_DEF: "the Military Control Commission in Gorky"
  GOR_despotism_DEF: "the Military Control Commission in Gorky"
- GOR_ADJ: "Gorky"
+ GOR_ADJ: "Ґорькийськ"
 
  GRN: "Greenland"
  GRN_DEF: "Greenland"
@@ -354,9 +354,9 @@
  JAM_DEF: "Jamaica"
  JAM_ADJ: "Jamaican"
 
- JER: "Jerusalem"
- JER_DEF: "the Mandate of Jerusalem"
- JER_ADJ: "Jerusalem"
+ JER: "Єрусалим"
+ JER_DEF: "Мандат Єрусалим"
+ JER_ADJ: "Єрусалим"
 
  JOR: "Jordan"
  JOR_DEF: "Jordan"
@@ -371,9 +371,9 @@
  KAL_DEF: "the Siberian Workers' Federation"
  KAL_ADJ: "Siberian"
 
- KEN: "Kenia"
- KEN_DEF: "Kenia"
- KEN_ADJ: "Kenian"
+ KEN: "Кенія"
+ KEN_DEF: "Кенія"
+ KEN_ADJ: "Кенійськ"
 
  KHP: "Kampfgruppe Heilige Pflicht"
  KHP_DEF: "Kampfgruppe Heilige Pflicht"
@@ -383,9 +383,9 @@
  KLB_DEF: "der Sicherheitsdienst des Reichsführer-SS"
  KLB_ADJ: "German"
 
- KOR: "Korea"
- KOR_DEF: "Korea"
- KOR_ADJ: "Korean"
+ KOR: "Корея"
+ KOR_DEF: "Корея"
+ KOR_ADJ: "Корейськ"
 
  KRL: "Karelian Autonomy"
  KRL_DEF: "the Karelian Autonomy"
@@ -458,7 +458,7 @@
 
  OMO: ""
  OMO_DEF: ""
- OMO_ADJ: "Siberian"
+ OMO_ADJ: "Сибірськ"
  
  OMS: "Black League"
  OMS_DEF: "the Siberian Black League"
@@ -516,11 +516,11 @@
  PRK_DEF: "Children of Spartakus"
  PRK_ADJ: "Slave"
 
- PRM: "Perm"
- PRM_DEF: "Perm"
- PRM_national_socialism: "Aryan Brotherhood"
- PRM_national_socialism_DEF: "the Aryan Brotherhood"
- PRM_ADJ: "Perm"
+ PRM: "Перм"
+ PRM_DEF: "Перм"
+ PRM_national_socialism: "Арійське братство"
+ PRM_national_socialism_DEF: "Арійське братство"
+ PRM_ADJ: "Перм"
 
  PRU: "Peru"
  PRU_DEF: "the Republic of Peru"
@@ -594,9 +594,9 @@
  SDS_national_socialism_DEF: "the Ba'athist State of Sudan"
  SDS_ADJ: "Sudanese"
 
- SGR: "Speer's Germany"
- SGR_DEF: "Speer's Germany"
- SGR_ADJ: "German"
+ SGR: "Шпеєровська Німеччина"
+ SGR_DEF: "Шпеєровська Німеччина"
+ SGR_ADJ: "Німецьк"
 
  SGV: "Spetsgruppa V"
  SGV_DEF: "the Spetsgruppa V"
@@ -688,27 +688,27 @@
  SWE_DEF: "the Kingdom of Sweden"
  SWE_ADJ: "Swedish"
 
- SWI: "Switzerland"
- SWI_DEF: "the Swiss Confederation"
- SWI_ADJ: "Swiss"
+ SWI: "Швейцарія"
+ SWI_DEF: "Швейцарська конфедерація"
+ SWI_ADJ: "Швейцарськ"
 
  # T
- TAN: "Tuva"
- TAN_DEF: "Tuva"
- TAN_ADJ: "Tuvan"
- TAN_socialist: "Altai-Tuva"
- TAN_socialist_DEF: "the Altai-Tuvan People's Republic"
- TAN_socialist_ADJ: "Altai-Tuvan"
+ TAN: "Тива"
+ TAN_DEF: "Тива"
+ TAN_ADJ: "Тивуйськ"
+ TAN_socialist: "Алтай-Тува"
+ TAN_socialist_DEF: "Алтайсько-Тувинська Народна Республіка"
+ TAN_socialist_ADJ: "Алтай-Тувийськ"
 
- TAR: "Tatarstan"
- TAR_DEF: "the Tatarstan Republic"
- TAR_ADJ: "Tatar"
- TAR_socialist_DEF: "the Tatar ASSR"
- TAR_communist_DEF: "the Tatar ASSR"
+ TAR: "Татарстан"
+ TAR_DEF: "Татарська Республіка"
+ TAR_ADJ: "Татарськ"
+ TAR_socialist_DEF: "Татарська АССР"
+ TAR_communist_DEF: "Татарська АССР"
 
- TMA: "North Russian Liberation Front"
- TMA_DEF: "the North Russian Liberation Front"
- TMA_ADJ: "North Russian"
+ TMA: "Північно-російський визвольний фронт"
+ TMA_DEF: "Північно-російський визвольний фронт"
+ TMA_ADJ: "Північно-російськ"
 
  TMB: "Brotherhood of Cain"
  TMB_DEF: "the Brotherhood of Cain"
@@ -754,17 +754,17 @@
  TML_DEF: "the Autonomous Soviet Liberation Army"
  TML_ADJ: "Soviet"
 
- TMM: "Free Port of Magadan"
- TMM_DEF: "the Free Port of Magadan"
- TMM_ADJ: "Magadan"
+ TMM: "Вільний порт Магадан"
+ TMM_DEF: "Вільний порт Магадан"
+ TMM_ADJ: "Магаданськ"
 
- TMN: "Revolutionary Communes of Orenburg"
- TMN_DEF: "the Revolutionary Communes of Orenburg"
- TMN_ADJ: "Orenburg"
+ TMN: "Революційні комуни Орєнбурґу"
+ TMN_DEF: "Революційні комуни Орєнбурґу"
+ TMN_ADJ: "Оренбурзьк"
 
- TMO: "Redeemed Black League"
- TMO_DEF: "the Redeemed Black League"
- TMO_ADJ: "Black League"
+ TMO: "Іскуплена чорна ліга"
+ TMO_DEF: "Іскуплена чорна ліга"
+ TMO_ADJ: "Чорно-лігськ"
 
  TMP: "Kazakh Purification Army"
  TMP_DEF: "the Kazakh Purification Army"
@@ -774,55 +774,55 @@
  TMQ_DEF: "the Idel-Ural Free State"
  TMQ_ADJ: "Idel-Ural"
 
- TMR: "Amur Refugee Zone"
- TMR_DEF: "the Amur Refugee Zone"
- TMR_ADJ: "Amur"
+ TMR: "Амурська зона біженців"
+ TMR_DEF: "Амурська зона біженців"
+ TMR_ADJ: "Амурськ"
 
- TMS: "Christian Republic of Samara"
- TMS_DEF: "the Christian Republic of Samara"
- TMS_ADJ: "Samaran"
+ TMS: "Христіанська Республіка Самара"
+ TMS_DEF: "Христіанська Республіка Самара"
+ TMS_ADJ: "Самарськ"
 
- TMT: "Trans-Ural Confederation"
- TMT_DEF: "the Trans-Ural Confederation"
- TMT_ADJ: "Ural"
+ TMT: "Трансуральська конфедерація"
+ TMT_DEF: "Трансуральська конфедерація"
+ TMT_ADJ: "Уральськ"
 
- TMU: "Ural Purification Zone"
- TMU_DEF: "the Ural Purification Zone"
- TMU_ADJ: "Imperial"
+ TMU: "Уральська очисна зона"
+ TMU_DEF: "Уральская очисна зона"
+ TMU_ADJ: "Імперськ"
 
- TMV: "Imperial Mercantile Consortium"
- TMV_DEF: "the Imperial Mercantile Consortium"
- TMV_ADJ: "Consortium"
+ TMV: "Імперський торговий консорціум"
+ TMV_DEF: "Імперський торговий консорціум"
+ TMV_ADJ: "Консорціумськ"
 
- TMW: "Siberian Free Territory"
- TMW_DEF: "the Siberian Free Territory"
- TMW_ADJ: "Free Siberian"
+ TMW: "Сибірська вільна територія"
+ TMW_DEF: "Сибірська вільна територія"
+ TMW_ADJ: "Вільно-Сибірськ"
 
- TMX: "Bratsk Communal Vanguard"
- TMX_DEF: "the Bratsk Communal Vanguard"
- TMX_ADJ: "Vanguardist"
+ TMX: "Братський комунальний авангард"
+ TMX_DEF: "Братський комунальний авангард"
+ TMX_ADJ: "Авангардськ"
 
- TMY: "Regency of Holy Russia"
- TMY_DEF: "the Regency of Holy Russia"
- TMY_ADJ: "Imperial"
+ TMY: "Регентство святої Росії"
+ TMY_DEF: "Регентство святої Росії"
+ TMY_ADJ: "Імперськ"
 
- TOM: "Tomsk"
- TOM_DEF: "Tomsk"
- TOM_ADJ: "Tomsk"
- TOM_communist_DEF: "the Central Siberian Republic"
- TOM_socialist_DEF: "the Central Siberian Republic"
- TOM_progressivism_DEF: "the Central Siberian Republic"
- TOM_liberalism_DEF: "the Central Siberian Republic"
- TOM_conservatism_DEF: "the Central Siberian Republic"
- TOM_paternalism_DEF: "the Central Siberian Republic"
+ TOM: "Томськ"
+ TOM_DEF: "Томськ"
+ TOM_ADJ: "Томськ"
+ TOM_communist_DEF: "Центрально-Сибірськая Республіка"
+ TOM_socialist_DEF: "Центрально-Сибірськая Республіка"
+ TOM_progressivism_DEF: "Центрально-Сибірськая Республіка"
+ TOM_liberalism_DEF: "Центрально-Сибірськая Республіка"
+ TOM_conservatism_DEF: "Центрально-Сибірськая Республіка"
+ TOM_paternalism_DEF: "Центрально-Сибірськая Республіка"
 
  TRI: "Trinidad and Tobago"
  TRI_DEF: "Trinidad and Tobago"
  TRI_ADJ: "Trinidadian and Tobagan"
 
- TUR: "Republic of Turkey"
- TUR_DEF: "the Republic of Turkey"
- TUR_ADJ: "Turkish"
+ TUR: "Республіка Туреччина"
+ TUR_DEF: "Республіка Туреччина"
+ TUR_ADJ: "Туреччинськ"
 
  # U
  UPH: "Free Philippine Republic"
@@ -847,8 +847,8 @@
  URP_DEF: "the Uruguayan Occupation Zone in Paraguay"
  URP_ADJ: "Uruguayan"
 
- USA: "Сполученні Штати Америки"
- USA_DEF: "Сполученні Штати Америки"
+ USA: "Сполученні штати Америки"
+ USA_DEF: "Сполученні штати Америки"
  USA_ADJ: "Американськ"
 
  USC: "Central African Republic"
@@ -885,14 +885,14 @@
  WIN_DEF: "the West Indies Federation"
  WIN_ADJ: "West Indies"
 
- WRS: "West Russian Revolutionary Front"
- WRS_DEF: "the West Russian Revolutionary Front"
- WRS_ADJ: "West Russian"
+ WRS: "Західно-російський революційний фронт"
+ WRS_DEF: "Західно-російський революційний фронт"
+ WRS_ADJ: "Західно-російськ"
 
  # X
- XIN: "Xinjiang Border Defense Administration"
- XIN_DEF: "the Xinjiang Border Defense Administration"
- XIN_ADJ: "Xinjiang"
+ XIN: "Сіньцзянська прикордонна адміністрація"
+ XIN_DEF: "Сіньцзянська прикордонна адміністрація"
+ XIN_ADJ: "Сіньцзянськ"
 
  XSM: "Кліка Ма"
  XSM_DEF: "Кліка Ма"
@@ -900,11 +900,11 @@
 
  # Y
  YAK: "Саха"
- YAK_communist: "Yakut ASSR"
- YAK_socialist: "Yakut ASSR"
+ YAK_communist: "Якутська АССР"
+ YAK_socialist: "Якутська АССР"
  YAK_DEF: "Республіка Саха"
- YAK_communist_DEF: "Якутська автономна совєцька соціалістична республіка"
- YAK_socialist_DEF: "Якутська автономна совєцька соціалістична республіка"
+ YAK_communist_DEF: "Якутська автономна совєцька соціалістична Республіка"
+ YAK_socialist_DEF: "Якутська автономна совєцька соціалістична Республіка"
  YAK_ADJ: "Сахськ"
 
  # Z
