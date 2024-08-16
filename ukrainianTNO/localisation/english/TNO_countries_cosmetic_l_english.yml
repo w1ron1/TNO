@@ -173,7 +173,7 @@
  ITA_middle_east_government_DEF: "Губернаторство Близького Сходу"
  ITA_middle_east_government_ADJ: "Близькосхідськ"
  ITA_middle_east_government_saudis: "Губернаторство Аравійського півострова"
- ITA_middle_east_government_saudis_DEF: Губернаторство Аравійського півострова"
+ ITA_middle_east_government_saudis_DEF: "Губернаторство Аравійського півострова"
  ITA_middle_east_government_saudis_ADJ: "Саудівськ"
 
 
@@ -744,9 +744,9 @@
  ANG_GER_ADJ: "Сюдвестафріканськ"
  ANG_GER_DEF: "Райхскомісаріят Зюдвестафріка"
 
- COG_GER: "Райхскомісаріят Центалафріка"
- COG_GER_DEF: "Райхскомісаріят Центалафріка"
- COG_GER_ADJ: "Центалафріканськ"
+ COG_GER: "Райхскомісаріят Централафріка"
+ COG_GER_DEF: "Райхскомісаріят Централафріка"
+ COG_GER_ADJ: "Централафріканськ"
 
  CRI_SGR: "Адміністративний округ Ґотенлянд"
  CRI_SGR_DEF: "Адміністративний округ Ґотенлянд"
