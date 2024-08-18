@@ -458,7 +458,7 @@
  STATE_273: "Murzuch-El Giof"
  STATE_273_LBA: "Мюрзюк-Ал Джавф"
  STATE_274: "Ashanti"
- STATE_275: "Orange Free State"
+ STATE_275: "Ораньє-Фриштаат"
  STATE_275_bor: "Оранже-Вруштадт"
  STATE_275_ger: "Оранже-Фреісштадт"
  STATE_276: "Southern Ontario"
@@ -963,7 +963,7 @@
  STATE_679: "Al Madinah"
  STATE_680: "Deir ez-Zor"
  STATE_680_tur: "Деурізор"
- STATE_681: "Western Cape"
+ STATE_681: "Західно-Капська провінція"
  STATE_681_bor: "Вес-Каап"
  STATE_681_ger: "Весткап"
  STATE_682: "Northern Ontario"
@@ -1312,7 +1312,7 @@
  STATE_937_ger: "Нордвест"
  STATE_938: "Northern Transvaal" #Limpopo
  STATE_939: "Eastern Transvaal" #Mpumalanga
- STATE_940: "Pretoria-Witwatersrand-Vaal"
+ STATE_940: "Преторія-Вітватерсранд-Ваал"
  STATE_940_anc: "Гаутенг"
  STATE_941: "Borgou"
  STATE_942: "Gordonia"
