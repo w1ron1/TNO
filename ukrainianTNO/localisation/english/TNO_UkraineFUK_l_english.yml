@@ -63,18 +63,18 @@
  FUK_legacy_of_the_one_hundred_desc:0 "У лісових хащах, притиснувшись один до одного, новобранці спостерігають, як старші офіцери майструють саморобні арбалети, розповідають історії з минулих війн і навчають тактиці протистояння сильнішому ворогу.\n\nПід сяйвом місячного світла десятиліття війни та досвіду, що демонструються, захоплюють курсантів. Багато з них ще молоді, але, можливо, Сотня зможе виліпити з них когось по-справжньому грізного."
 
  FUK_reinvigorated_UNRA:0 "Оновлена УНРА"
- FUK_reinvigorated_UNRA_desc:0 "Beneath firebomb traps and hidden snipers, soldiers excavate a network of tunnels designed for pouncing on the stronger enemy from every angle. Thanks to the One Hundred, they've become the country's finest ambushers.\n\nDespite the dirt and grime, they no longer wear patched rags. Though marred by earth, the current uniforms proudly bear the embroidered emblem of the UNRA on their crisp fabric."
+ FUK_reinvigorated_UNRA_desc:0 "Під мінами-пастками та схованими снайперами солдати копають мережу тунелів, призначених для нападу на сильнішого ворога з усіх боків. Завдяки «Сотні» вони стали найкращими засідочниками країни.\n\nНе дивлячись на бруд і бруд, вони більше не носять латане лахміття. Хоч і забруднена землею, нинішня форма гордо несе вишиту емблему УНРА на чистій тканині."
 
  FUK_formalized_officer_corps:0 "Формалізований офіцерський корпус"
  FUK_formalized_officer_corps_desc:0 "Вийшовши з лісу на вулиці міста, намети розкинулися в переобладнаному парку під холодним небом. Стоячи на імпровізованій сцені, Сотня нагороджує відзнаками людей, яких відібрали з руїн, тих, хто засяяв відвагою перед обличчям смерті.\n\nНавколо них ревуть і схвалюють ті, хто незабаром піде за ними до перемоги. Вони більше не повстанці, вони - армія."
 
  FUK_dropping_the_hammer:0 "Кидаючи молот"
- FUK_dropping_the_hammer_desc:0 "More troops, more guns, more artillery shells. More plans, more rifles, more training drills. More laughing, more singing, more crying. More fighting, more rejoicing, more mourning.\n\nAnother sun rises, another sun sets. For every Ukrainian life they take, a dozen rise in defiance, willing to pay the price to free Ukraine from its chains."
+ FUK_dropping_the_hammer_desc:0 "Більше військ, більше гармат, більше артилерійських снарядів. Більше планів, більше гвинтівок, більше тренувань. Більше сміху, більше співу, більше плачу. Більше боїв, більше радості, більше жалоби.\n\nЩе одне сонце сходить, ще одне заходить. На кожне українське життя, яке вони забирають, десяток піднімається на боротьбу, готові заплатити ціну, щоб звільнити Україну від її кайданів."
 
  FUK_freedom_to_ukraine_or_death_idea:0 "Україна або смерть"
  FUK_freedom_to_ukraine_or_death_idea_desc:0 ""Господи Ісусе Христе, визволи Україну від зла. Благослови наших хоробрих, вгамуй наш голод і веди нас, непохитних, до свободи... І Отче... якщо не судилося... обдаруй мій народ Твоєю безмежною милістю, прийми його в осяйну вічність при боці Твоїм і даруй йому вічну славу.\n\nАмінь.""
 
- FUK_Ohloblyn_military_nerfs: "Military Dismantlement"
+ FUK_Ohloblyn_military_nerfs: "Військовий демонтаж"
 
  ## Ministers
 
@@ -122,11 +122,11 @@
  FUK_collaborator_support_50_tt: "Підтримка революції у §gКолабораціоністів§! щонайменш §Y50%§!."
  FUK_collaborator_support_70_tt: "Підтримка революції у §gКолабораціоністів§! щонайменш §Y70%§!."
 
- FUK_partisan_support_change_tt: "(§MPartisan§!) support for the revolution: [?var_partisan_support_temp|%%2+=]"
- FUK_populist_support_change_tt: "(§PPopulist§!) support for the revolution: [?var_populist_support_temp|%%2+=]"
- FUK_collaborator_support_change_tt: "(§gCollaborator§!) support for the revolution: [?var_collaborator_support_temp|%%2+=]"
+ FUK_partisan_support_change_tt: "підтримка революції (§MПартізан§!): [?var_partisan_support_temp|%%2+=]"
+ FUK_populist_support_change_tt: "підтримка революції (§PПопулістів§!): [?var_populist_support_temp|%%2+=]"
+ FUK_collaborator_support_change_tt: "підтримка революції (§gКолабораціоністів§!): [?var_collaborator_support_temp|%%2+=]"
 
- FUK_pillars_decay: "Pillars §RDecay§!"
+ FUK_pillars_decay: "§RРішення§! Стовпів"
 
  FUK_pillars_decay_linebreak_tt: "\n\n"
  FUK_pillars_decay_partisan_header_tt: "Інші стовпи розчаровані прихильністю §aпартизан§! і будуть занепадати далі:"
@@ -186,13 +186,13 @@
  FUK_Oleksander_Ohloblyn:0 "Олександр Оглоблин"
  POLITICS_OLEKSANDER_OHLOBLYN_DESC:0 "During his time as the German-appointed mayor of Kyiv, Oleksander Ohloblyn imagined himself as inoffensive. Ohloblyn's slightest victories were proof of his even hand; his evils were forced upon him by Nazi bureaucrats. Even as his administration filled with Fascistic OUN allies, even as he sent the Jewish community to their deaths, he held to a core belief that all of this was an act of caring.\n\nSlowly isolated by the NSDAP, Ohloblyn found an opportunity to return to prominence when he began to work with a desperate UNRA. His successes exceeded his wildest dreams: the revolution he attached himself to defeated all opposition, his allies infiltrated its leadership, and assassinations, bribery, and intimidation ensured that his crypto-Bolshevik opponents would not be elected. Now, he can continue to protect his nation through the only means he has - submission. Safe in the belief that his old ways proved true, Ohloblyn is certain that through courtesy and obedience, he can protect his people from the worst of Germany's impulses.\n\nThe bodies buried beneath Babi Yar prove otherwise."
 
- FUK_Taras_Bulba_Borovets:0 "Taras Bulba-Borovets"
+ FUK_Taras_Bulba_Borovets:0 "Тарас Бульба-Боровец"
  POLITICS_BULBA_BOROVETS_DESC:0 "If you got this by just playing the game please report it, it would be very cool and you will get a cookie!!!!! (totally legit), if you used console commands, what are you doing with your life, go outside, touch grass"
- FUK_Volodymyr_Bahaziy:0 "Volodymyr Bahaziy"
+ FUK_Volodymyr_Bahaziy:0 "Володимир Багазій"
  POLITICS_VOLODYMYR_BAHAZIY_DESC:0 "If you got this by just playing the game please report it, it would be very cool and you will get a cookie!!!!! (totally legit), if you used console commands, what are you doing with your life, go outside, touch grass"
- FUK_Various_Liberals:0 "Various Liberals"
+ FUK_Various_Liberals:0 "Різні ліберали"
  POLITICS_VARIOUS_LIBERALS_DESC:0 "If you got this by just playing the game please report it, it would be very cool and you will get a cookie!!!!! (totally legit), if you used console commands, what are you doing with your life, go outside, touch grass"
- FUK_Various_Conservatives:0 "Various Conservatives"
+ FUK_Various_Conservatives:0 "Різні консерватори"
  POLITICS_VARIOUS_CONSERVATIVS_DESC:0 "If you got this by just playing the game please report it, it would be very cool and you will get a cookie!!!!! (totally legit), if you used console commands, what are you doing with your life, go outside, touch grass"
  FUK_Power_Vacuum: "Політичний вакуум"
 
@@ -680,9 +680,9 @@
 
 ###### Power Struggle GUI #######
 
- FUK_power_struggle_unified_dynmod: "Pillars of the Revolution"
- FUK_power_struggle_RK_manpower_dynmod: "Pillars of the Revolution"
- FUK_power_struggle_unified_dynmod_mod: "£GFX_pol_idea §FPillars of the Revolution§!"
+ FUK_power_struggle_unified_dynmod: "Стовпи революції"
+ FUK_power_struggle_RK_manpower_dynmod: "Стовпи революції"
+ FUK_power_struggle_unified_dynmod_mod: "£GFX_pol_idea §FСтовпи революції§!"
 
 # dP     dP 888888ba   888888ba   .d888888      88888888b dP                     dP   oo                   
 # 88     88 88    `8b  88    `8b d8'    88      88        88                     88                        
@@ -694,12 +694,12 @@
 # UNRA Election
 
 # Decision Category
-FUK_election_category: "Barrel of the Gun"
+FUK_election_category: "Ствол пістолета"
 FUK_election_category_desc: "\n\n\n\n\n\n\n\n\n\n\n\n"
 
-FUK_election_spivavtor: "£UKR_collab_texticon §QSpivavtor Aligned§!"
-FUK_election_culturalist: "£UKR_culturalist_texticon §PCulturalist Aligned§!"
-FUK_election_populist: "£UKR_populist_texticon §wUnited Struggle Aligned§!"
+FUK_election_spivavtor: "£UKR_collab_texticon §QСпівавтори вирівняні§!"
+FUK_election_culturalist: "£UKR_culturalist_texticon §PКультурницька орієнтація§!"
+FUK_election_populist: "£UKR_populist_texticon §wОб'єднана боротьба узгоджена§!"
 
 FUK_election_spivavtor_campaign_icon: "£UKR_campaign_spivavtor_texticon"
 FUK_election_culturalist_campaign_icon: "£UKR_campaign_culturalist_texticon"
@@ -714,7 +714,7 @@ FUK_election_Political_Capital_text: "£FUK_election_PoliticalCapital_large [?FU
 FUK_election_Political_Capital_tt: ""
 
 FUK_election_progbar_tt: "Predicted £UKR_collab_texticon §QSpivavtor§! Seats: [?spivavtor_expected_seats|Q0]\nPredicted £UKR_culturalist_texticon §PCulturalist§! Seats: [?culturalists_expected_seats|P0]\nPredicted £UKR_populist_texticon §wUnited Struggle§! Seats: [?populists_expected_seats|w0]"
-FUK_election_progbar_delayed_tt: "We need to control at least 50% of seats to win the election!"
+FUK_election_progbar_delayed_tt: "Нам потрібно контролювати щонайменше 50% місць, щоб перемогти на виборах!"
 
 FUK_election_map_west: "Western Region"
 FUK_election_map_west_tt: "Western Region - [?93.seats|Y0] seats\n--------------\n\t£UKR_collab_texticon §QSpivavtor§! Popularity: [?93.coalition_pop^0|Q%]\n\t£UKR_culturalist_texticon §PCulturalist§! Popularity: [?93.coalition_pop^1|P%]\n\t£UKR_populist_texticon §wUnited Struggle§! Popularity: [?93.coalition_pop^2|w%]"
@@ -752,10 +752,10 @@ FUK_election_populist_campaign: "£UKR_populist_texticon §wUnited Struggle§! C
 
 FUK_election_actions_shuffle_tt: "Available actions will change..."
 
-FUK_election_timer: "The Election Concludes"
+FUK_election_timer: "Вибори завершені"
 
 # Campaign Decisions
-FUK_whistle_stop_tour: "[FUK_election_GetCampaignIcon]  Whistle Stop Tour"
+FUK_whistle_stop_tour: "[FUK_election_GetCampaignIcon]  Екскурсія «Свист-стоп»"
 FUK_whistle_stop_tour_desc: ""
 
 FUK_countryside_campaign: "[FUK_election_GetCampaignIcon]  Кампанія у сільській місцевості"
@@ -764,14 +764,14 @@ FUK_countryside_campaign_desc: ""
 FUK_meet_with_veterans: "[FUK_election_GetCampaignIcon]  Зустрітися з ветеранами"
 FUK_meet_with_veterans_desc: ""
 
-FUK_meet_with_mayor: "[FUK_election_GetCampaignIcon]  Meet with Mayors"
+FUK_meet_with_mayor: "[FUK_election_GetCampaignIcon]  Зустрічі з мерами міст"
 FUK_meet_with_mayor_desc: ""
 
 # Evil Decisions
-FUK_harass_rival_organizers: "[FUK_election_GetActionIcon]  Harass Rival Organizers"
+FUK_harass_rival_organizers: "[FUK_election_GetActionIcon]  Переслідування організаторів-конкурентів"
 FUK_harass_rival_organizers_desc: ""
 
-FUK_clip_voter_rolls: "[FUK_election_GetActionIcon]  Alter Voting Rolls"
+FUK_clip_voter_rolls: "[FUK_election_GetActionIcon]  Змінити списки для голосування"
 FUK_clip_voter_rolls_desc: ""
 
 FUK_attack_opposition_delegate: "[FUK_election_GetActionIcon]  Attack Opposition Delegate"
