@@ -1,13 +1,13 @@
 ﻿l_english:
 
-# GUI functionality
+# ГІК функціональний
 
  CountryInfo_pls_click_on_entry: "==Клацніть на записи ліворуч=="
 
  CountryInfo_Folder_button_tt: "§F§GКлацніть§! щоб переключити відображення записів '§Y[CountryInfo_GET_Folder_Country]§!'§!"
  CountryInfo_Content_button_tt: "§F§GКлацність§! щоб відобразити запис під назвою '§Y[CountryInfo_GET_Content_Country]§!'§!"
 
-# Close button text
+# Текст нажаття на кнопку
 TNO_COUNTRY_INFO_BUTTON_TT: "§YДоля чекає нас попереду.§!"
 
  TNO_COUNTRY_INFO_BUTTON_TEXT_VYT: "З нами Бог!"
@@ -48,10 +48,10 @@ TNO_COUNTRY_INFO_BUTTON_TT: "§YДоля чекає нас попереду.§!"
  TNO_COUNTRY_INFO_BUTTON_TEXT_GGN: "До броні!"
  TNO_COUNTRY_INFO_BUTTON_TEXT_MEX: "Віва ла Революціон!"
  
-### COUNTRY OPENING ###
+### ВІДКРИТТЯ КРАЇНИ ###
 CountryInfo_tab_name_country: "Огляд країни"
  
- ### Germany
+ ### Німеччина
   GER_CountryInfo_Folder.101: "Ендзіг?"
   GER_CountryInfo_Folder.102: "Ті, що ведуть"
  
@@ -84,7 +84,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   GER_CountryInfo_Content.9: "Those Who Command"
   GER_CountryInfo_Content_desc.9: "In the chaotic self-devouring nature of the §WReich's§! politics, little stands above the melee. The §jHeer§!, those proud defenders of the §WFatherland§!, are no exception. While they portray themselves as supreme Aryan leaders and warriors, the truth of the matter is that the armed forces are as involved in the power plays and the scheming as any.\n\nThe modern Heer is primarily split between §Qmoderates§! and §Lmilitarists§!, respectively led by §QHans Speidel§! and §LFerdinand Schörner§!. On §QSpeidel's§! side lie men like §QHenning von Tresckow and Dietrich von Saucken§!, united in their opposition to the blatant tinkering of the §Lmilitarists§!. For their part, the §LMilitarists§! lay claim to men like §LOtto Remer and Hermann Göring§! - driven, ambitious bloodhounds who wish to reach glory through conquest.\n\nBoth sides are inexorably opposed to one another, more focused on defeating their internal rivals than protecting the §WReich§! itself. Will they truly be ready?"
 
- ### БУРҐУНДІЯ
+ ### Бурґундія
   BRG_CountryInfo_Folder.101: "Темна пляма"
   BRG_CountryInfo_Folder.102: "Механіки"
 
@@ -111,7 +111,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   BRG_CountryInfo_Content.7: "Економіка"
   BRG_CountryInfo_Content_desc.7: "§RТільки дурень повірить у єврейсько-більшовицьку дегенерацію, якою є організована економіка.§!"
   
- # ITALY
+ # ІТАЛІЯ
   ITA_CountryInfo_Folder.101: "Події до Другої світової війни"
   ITA_CountryInfo_Folder.102: "Друга світова війна"
   ITA_CountryInfo_Folder.103: "Післявоєнна Італія"
@@ -140,7 +140,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   ITA_CountryInfo_Content.9: "Politics"
   ITA_CountryInfo_Content_desc.9: "The rule of §BGaleazzo Ciano§! is not even safe from the inside. The Duce's ineffectual rule has turned against him large sectors of the §jPNF§!, with some saying that §BCiano's§! tenure is soon to end: should this happen, a radical change in course for the §Wvery essence of fascism§! may be in the making.\n\nMeanwhile, the Emperor weaves his web of influence. Adored by the people and the Army, §mUmberto II§! is slowly setting the stage to challenge the Duce - or is he? The Emperor is as mute on matters of politics as his Corazzieri bodyguards, but as they say, still waters run deep...\n\nDespite this all, the §nItalian Empire§! is still a power in its own right. Boasting a §Wlarge economy§!, a §Wpowerful army§! and an §Wextensive sphere of influence§!, Italy has not yet entered irreversible decline, and can yet come back as a world-influencing actor: all it needs, is for someone to §Wtake the reins§!, end the stagnation, and bring much-needed change to the Country of Crossed Destinies."
 
- # NOVOSIBIRSK
+ # НОВОСИБІРСЬК
 
   #101
   NOV_CountryInfo_Folder.101: "The Falcon's Nest"
@@ -156,7 +156,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   NOV_CountryInfo_Content.4: "Not Just a Province"
   NOV_CountryInfo_Content_desc.4: "And besides such internal challenges, many §Rexternal ones§! exist as well.\n\n§WNovosibirsk§! is a prize that all within Siberia would, and will, kill to acquire. If the §WFederation§! is to survive the coming storm, its leadership must leverage the advantages of location, industry, and population with which it has been blessed - or §Rrisk becoming little more than a province within another nation.§!"
 
- # KEMEROVO
+ # КЕМЕРОВО
 
   #101
   KEM_CountryInfo_Folder.101: "Our Slice of Siberia"
@@ -172,7 +172,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   KEM_CountryInfo_Content.4: "Madness or a Plan?"
   KEM_CountryInfo_Content_desc.4: "If the §WPrincipality of Kemerovo§! is to survive this age of darkness, it must carefully navigate the Siberian landscape. The §Rmutineers of Krasnoyarsk§! increase their raids every day, the §Rfalcon of Novosibirsk§! thirsts for new prey, and beyond lies the §RSiberian Black Army§! that had once defeated the King. Even at home, dissatisfied workers toil away at the remnants of the §GCentral Siberian Plan§!, but there are rumours of agitation and calls for §Rrevolution§!.\n\n§WTsar Rurik II§! must either be truly mad, or have a plan for survival."
 
- # SIBERIAN BLACK ARMY
+ # СИБІРСЬКА ЧОРНА АРМІЯ
 
   #101
   SBA_CountryInfo_Folder.101: "Sons of Anarchy"
@@ -190,7 +190,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   SBA_CountryInfo_Content.5: "Ivan Stepanov"
   SBA_CountryInfo_Content_desc.5: "§qGeneral Ivan Stepanov§! is, above all else, an opportunist. It was opportunism that got him transferred out of the western front. It was opportunism that got him within the highest echelons of the §gCentral Siberian Republic§!. When Stepanov looked out to his weary troops on the day of the final assault towards §rIrkutsk§!, he saw a decade of war and people yearning for peace, but more so, he saw an opportunity. Allying with §eSiuda's rebellion§!, Stepanov was able to escape the dying §gRepublic§! and establish himself among the de-facto leadership of the Free Territory, his §qBlack Army§! standing alongside the §efree communes§!.\n\nYet dual power never lasts long in Russia, and Stepanov has §qgrander ambitions§! than merely being a piece of a whole. While the Free Territory may be equipped to deal with external threats, §eSiuda and his fellow ideologues§! will soon find that §qthe greatest threats are the ones that come from within...§!"
 
- # TOMSK
+ # ТОМСЬК
 
   #101
   TOM_CountryInfo_Folder.101: "A Republic, Refuted"
@@ -210,7 +210,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   TOM_CountryInfo_Content.6: "The Siberian Athens"
   TOM_CountryInfo_Content_desc.6: "The Siberian Athens, blessed with schools, universities, and salons, shall rely upon its four greatest political associations in order to achieve its revival: the conservative §WDecembrists§!, led by Russian medievalist §GDmitry Likhachyov§!; the centralizing industrialists of the §WBastillard§! Salon and their leader, avant-garde poet §GDaniil Kharms§!; composer §GDmitry Shostakovich's§! utopian socialists of the §WHumanist Society§!; and the liberal technocrats of §GAndrey Sakharov's§! §WModernist§! Salon.\n\nOne can only hope it ends well."
 
- # IRKUTSK
+ # ІРКУТСЬК
 
   #101
   IRK_CountryInfo_Folder.101: "Provisional Leader"
@@ -226,7 +226,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   IRK_CountryInfo_Content.4: "The Mutiny"
   IRK_CountryInfo_Content_desc.4: "The §WIrkutsk government§! is the legitimate government of the §GUnion of Soviet Socialist Republics§!, even if no one else seems to care.\n\nIf §WYagoda§! and the §WPresidium§! can overcome the §RSablinite mutiny§! and restore order across the Far-East and beyond, then perhaps Soviet Russia will one day return to §Gthe way it was§!."
 
- # BURYATIA
+ # БУРЯТІЯ
 
   #101
   BRY_CountryInfo_Folder.101: "Dead Country Walking..."
@@ -242,7 +242,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   BRY_CountryInfo_Content.4: "The Liberation"
   BRY_CountryInfo_Content_desc.4: "Yet, after the §GRevolution§!, what next? §WSablin§! is completely committed to liberating the Union and bringing freedom and equality to all Russians. §WSablin§! has also never governed a polity. The §RBukharinite§! wing of his movement will still be strong after §RIrkutsk§! is reclaimed. §WSablin§! will have to make difficult choices between §GLeninist§! idealism and §RBukharinite§! pragmatism. But for now, all he has to do is end §RYagoda's§! tyranny. After that, the restoration of the §GUnion of Soviet Socialist Republics§! will commence."
 
- # CHITA
+ # ЧИТА
 
   #101
   CHT_CountryInfo_Folder.101: "The Ataman"
@@ -260,7 +260,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   CHT_CountryInfo_Content.5: "Crown's Old Warriors"
   CHT_CountryInfo_Content_desc.5: "The task that lies before the §GWhite Army§! is great indeed. From this frozen stronghold, they seek to continue the §Rconflict§! that began so long ago and restore the long lost §Gmonarchy§!.\n\nThe §GAtaman§! grows old, and it is unclear what kind of direction his §Gmovement§! would take in his absence..."
 
- # AMUR
+ # АМУР
 
   #101
   AMR_CountryInfo_Folder.101: "The Heir of Harbin"
@@ -276,7 +276,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   AMR_CountryInfo_Content.4: "None Shall Stand"
   AMR_CountryInfo_Content_desc.4: "The Vozhd plans on creating a strong Russia based in national socialism, where the Vozhd is paramount and his system, derived from the Germans, is law. However, to do this, he will need to cleanse the party of the people responsible for its failures.\n\nThe Vozhd's immediate internal and external threats need to be dealt with before he can focus on ending the Bolshevik remnants to the West. None shall stand in §GKonstantin Rodzaevsky's§! path.\n\n§RFor God, Nation, and Labor!§!"
 
- # MAGADAN
+ # МАГАДАН
 
   #101
   MAG_CountryInfo_Folder.101: "A Troubled Past..."
@@ -320,7 +320,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   GNG_CountryInfo_Content.9: "Scoundrels and Statesmen"
   GNG_CountryInfo_Content_desc.9: "Even as the tycoons tussle over political influence, the power of the underworld is such that their 'respectable' interlocutors - §nStanley Ho§! for the Triads, and §EYokoi Hideki§! for the Yakuza - are as influential as the beleaguered §QCommissioner of Police§!, who relies on the §eKenpeitai's Colonel Miyazaki Kiyotaka§!, to assist in police and intelligence duties.\n\nFrom beyond Guangdong's borders, the §eEmpire of Japan's§! tends to its interests in Guangdong via §qGeneral Nagano Shigeto§! and §jConsul-General Takashima Masuo§! - representing the §qmilitary§! and §jcivilian§! branches of §JJapan's government§!.\n\nFor the §MRepublic of China§!, the §Mloss of Guangdong in 1950 still smarts§!. Consul-General §MSong Zhiguang§! - a §Snative of Guangdong§! - offers his begrudging assistance to the corporate state, assisted by senior political attaché §MWang Jingxu§! - a representative of the Chinese military with §Rfar less patience§! than Song."
 
- # Brazil
+ # Бразилія
 
   #101
   BRA_CountryInfo_Folder.101: "The End of the Third Republic"
@@ -347,7 +347,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   BRA_CountryInfo_Content.8: "The International Situation"
   BRA_CountryInfo_Content_desc.8: "As has been the case for several decades, §nBrazil§! is broadly aligned with the §iOFN§! and §iAmerica§!, primarily due to common military training (the military is more pro-American than politicians) and deep socio-economic links. However, §nBrazil§! is not cowed by their American allies and has the latitude to oppose §iAmerica§! when there are differences.\n\nSignificant §SJapanese§! investment is welcomed by even pro-§iOFN§! politicians such as §MLott§! and §MKubitschek§! and there is therefore strong pro-§SJapan§! sentiment. No such sympathy is spared for §qGermany§!, who frequently denounces §nBrazil§! for its 'mongrelization'. §nBrazilian§! efforts in the Lobster War have total support.\n\n§nBrazil§! aspires towards Latin American economic integration; its aim in this is to strengthen economies and increase Latin countries' global influence. However, this does not extend to §MArgentina§!; there, foreign-policy conflicts are hardening into what is being known as the §ISouth American Cold War§!."
 
- # Japan
+ # Японія
   JAP_CountryInfo_Folder.101: "Rising Sun Triumphant"
   JAP_CountryInfo_Content.1: "Conquest's Bitter Resentment"
   JAP_CountryInfo_Content_desc.1: "Jealous of the Colonial Empires possessed by the Europeans and snubbed by the failure of the Racial Equality Clause in Versailles, the §PEmpire of Japan§! sought to carve its own Imperium within the resource-bountiful but troubled region of East Asia. With the fall of the hated §RWashington§! §MNaval§! §WTreaty§!, it was only a matter of time. Occupying Manchuria - sealing the dead Tsar's bitter rout in 1905 once and for all - in 1931, it reorganised the region into the §wEmpire of Manchuria§! or simply, §wManchukuo§!. The Kwantung Army - had seized Manchuria from the warlords and fiefdoms that had been vying for even scraps of power within its wind-swept hills, when an explosion rocked the Japanese-controlled Mantetsu.\n\nWithin the backdrop of the §nGreat Depression§! an ultimate clash for the fate of the entirety of Asia lay over the horizon. When the dark sky broke, a war like no other would erupt."
@@ -375,7 +375,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   JAP_CountryInfo_Content.12: "The Kidoites"
   JAP_CountryInfo_Content_desc.12: "Centred on its eponymous leader, §gKido Kōichi§!, the Kidoites aren't so much a faction as they are §fkingmakers§!. Kido, being the Lord Keeper of the Privy Seal, acts as §fHis Majesty's§! eyes and ears inside the government - as well as his supposed mouth. If Kido says something must be or must not be done, it is only because the Emperor said it must be or must not be done. At least, allegedly. His support will be instrumental, in getting any potential government's legislation through the House of Representatives as well as the small gathering of allies he has accrued inside the YSK that equally enjoy being the tiebreaker inside politics as he does."
 
- # China
+ # Китай
 
   #101
   CHI_CountryInfo_Folder.101: "The Caprice of Fate"
@@ -392,7 +392,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   CHI_CountryInfo_Content_desc.4: "- Sway the §WYuan§! in your favor and §Gexploit the support§! of your most trusted faction!\n\n- Follow the journey of an ancient nation in a modern world!\n\n- Guide a moderate modernization or charge full speed ahead towards the future!"
 
 
- # Yunnan
+ # Юньнань
 
   #101
   YUN_CountryInfo_Folder.101: "Survivor of the Old Times..."
@@ -416,7 +416,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   YUN_CountryInfo_Content.7: "§G==FEATURES==§!"
   YUN_CountryInfo_Content_desc.7: "- Continue with Lu Han's contribution to the Modernizations.\n\n- Read the life story of important dissenters against Lu Han's rule.\n\n- Await the coming of a movement that might fizzle out, leave the §xwhole nation in misery§!, or §Mfree China§!."
 
- # TYUMEN
+ # ТЮМЕНЬ
 
   #101
   TYM_CountryInfo_Folder.101: "The Adherents"
@@ -432,7 +432,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   TYM_CountryInfo_Content.4: "The Battle"
   TYM_CountryInfo_Content_desc.4: "It is only a matter of time until the mortal battle for Russia begins - and while the petty warlords hide from terror bombings, Tyumen gears for war. Its people have an iron will - they are well aware of their predicament: they will either §Greanimate the Soviet Union§!, crush the rebels that infest the Motherland, undo Bukharin's fatal mistakes - §Ror die trying§!."
 
- # OMSK
+ # ОМСЬК
 
   #101
   OMS_CountryInfo_Folder.101: "Corpse"
@@ -448,7 +448,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   OMS_CountryInfo_Content.4: "Enemies"
   OMS_CountryInfo_Content_desc.4: "Omsk is a city surrounded by enemies: communists in §RTyumen, the renegade Red Army in Sverdlovsk, not to mention the various warlords around old Russia§!. Will the §WBlack League§! crash and burn like its predecessor? Or will the night grow darker?"
 
- # ZLATOUST
+ # ЗЛАТОУСТ
 
   #101
   ZLT_CountryInfo_Folder.101: "Good Businessmen"
@@ -464,7 +464,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   ZLT_CountryInfo_Content.4: "Rivals"
   ZLT_CountryInfo_Content_desc.4: "§GDragunov's§! rivals - dogmatic §RTyumen§!, pragmatic §RSverdlovsk§!, and fanatic §ROmsk§! - battle among themselves in an §Gouroboros of death§! that he is all too eager to feed further. But this may not last forever, and if one party gains the upper hand, it will look upon its §Ghated enemies'§! benefactor and §Gseek revenge§!. For that possibility, §GZlatoust§! must always be prepared, and §GDragunov§! will sit on a §Gdragon's treasure trove§! if he succeeds."
 
- # URAL LEAGUE
+ # УРАЛЬСЬКА ЛІГА
 
   #101
   URL_CountryInfo_Folder.101: "The Guard"
@@ -475,7 +475,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   URL_CountryInfo_Content.3: "Southern Urals"
   URL_CountryInfo_Content_desc.3: "The §WUral Guard§! has only hardened since that time, as the situation in the §WSouthern Urals§! has deteriorated greatly since their arrival. To the south, §RDirlewanger's Brigade§! wreaks havoc through the undefended souls of the area, raping, looting, and killing as they please. To the east, the §RBlack Mountain§! churns smoke as thousands flee from the experiments of §RTrofim Lysenko§! and the §RNKVD§!. To the west, the §GOrenburg Communes§! stand immobile, paralyzed by the constant bickering of their bloated system and unable to defend themselves. The goals of the §WUral Guard§! are still the same as they were when they arrived, and it's certain that they'll give their all in attempting to fulfill it. Whether they'll succeed, however, is a question that is yet unresolved."
  
- # ORENBURG
+ # ОРЄНБУРҐ
 
   #101
   ORE_CountryInfo_Folder.101: "The Communes"
@@ -486,7 +486,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   ORE_CountryInfo_Content.3: "Reforms"
   ORE_CountryInfo_Content_desc.3: "Even if the skies weren't filled with bombers, the §WOrenburg Workers' State§! lacks the organization and will to industrialize the region. Despite the legends, §WOrenburg§! is disorganized and fragile. The §WWorkers' Council§! is consumed by indecision, infighting, and bureaucracy. The village communes it represents are fiercely independent and oppose any efforts to centralize the region into something resembling a functioning government. If §WOrenburg§! is to survive, it must adapt.\n\nNot all agree with the §WWorkers' Council§!, however. §WAleksander Burba§! imagines a technocratic republic that can carry §WOrenburg§! into the modern world, while his opponent §WGeorgy Malenkov§! rallies around an older, more Soviet style of governance. A bright future lies before §WOrenburg§!, and the Urals as a whole, but only if she is strong enough to seize it..."
  
- # MAGNITOGORSK
+ # МАҐНІТОГОРСЬК
 
   #101
   MGN_CountryInfo_Folder.101: "The Mountain"
@@ -497,7 +497,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   MGN_CountryInfo_Content.3: "Not Alone"
   MGN_CountryInfo_Content_desc.3: "Despite its relative isolation, §WMagnitogorsk§! is not alone. The surrounding warlord states of §RTyumen§!, §RZlatoust§!, and §RKostanay§! pay no attention to them, something they intend to reciprocate. The great foe to the west is the §RUral League§!, a band of Gulag prisoners turned altruistic militias who view §WLysenko§! and all his valuable aides as little more than bandits in need of driving out. A most unexpected ally, however, lies to the south: the §GDirlewanger Brigade§!, a handy supply of muscle whose loyalty can be bought with loot and liquor. With any luck, they can serve as a source of not only test subjects, but also manpower in the event of a war with the §RUral League§!. Of course, any alliance with them is not likely to last much longer after their victory."
 
- # DIRLEWANGER BRIGADE
+ # БРІГАДА ДІРЛЕВАНГЕРА
 
   #101
   DRL_CountryInfo_Folder.101: "The Brigade"
@@ -508,7 +508,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   DRL_CountryInfo_Content.3: "Simple Goal"
   DRL_CountryInfo_Content_desc.3: "The goal of §Wthe Brigade§! is simple: ride anywhere they have not been before, shoot anyone who shoots back, grab as much wealth as they can carry, use the women for their satisfaction, slaughter anyone they can see, burn down what's left, and ride off in search of their next victims.\n\nA day may soon come where they are stopped and the last bandit lies dead on the steppe, and the people of the Urals may live without fear. But until that day comes, §Wthe Dirlewanger Brigade§! shall ride, and the world shall tremble before them!"
 
- # KOMI REPUBLIC
+ # РЕСПУБЛІКА КОМІ
 
   #101
   KOM_CountryInfo_Folder.101: "A New Republic?"
@@ -528,7 +528,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   KOM_CountryInfo_Content.6: "The Right"
   KOM_CountryInfo_Content_desc.6: "The §OPassionariyy Organization§! is a singularly bizarre organization in Komi, a combination of a social club, a secret society, and an apparatus for political coalition-building. Under the wide-spanning umbrella of the §OPassionariyy§! are Eurasianists, "compassionate conservatives", monarchists, and other, smaller movements, all united solely by the desire for a new, right-wing path for the §GRepublic§!. The §OPassionariyy§! are easily the most wide-ranging coalition in Komi, stretching to every possible corner of right-wing thought, and, as of such, paradoxically both prone to infighting, and extremely effective at operating within the §GRepublic§!. Within the §OPassionariyy§!, there is someone for everyone, or so it is said - the media outlets controlled by the organization appeal to the people, rallies are held, and the §Gcenter coalition§! is forced to look closer and closer towards §OPassionariyy§!-affiliated politicians each day."
  
- # VYATKA
+ # В'ЯТКА
 
   #101
   VYT_CountryInfo_Folder.101: "Yet Again"
@@ -544,7 +544,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   VYT_CountryInfo_Content.4: "...and Externally"
   VYT_CountryInfo_Content_desc.4: "Externally, §WVyatka§! is surrounded by potential threats. To the southeast, the madmen of the §RAryan Brotherhood§! serve as the most pressing threat. In the north, the unstable §RRepublic of Komi§! is unpredictable and should be carefully monitored, while the §RWest Russian Revolutionary Front§! stirs. If §WVyatka§! is to unite Russia, conflict with them is inevitable. Meanwhile, raids from the §RTatar§! and §RBashkir§! warlords to the west and south are common but are unlikely to escalate into a full-blown conflict for now. Further to the southwest, however, is §RAndrey Vlasov§! and the so-called §RRussian Liberation Army§! based in §RSamara§!. Unlike the §RTatars§!, they harbor ambitions of expansion and may cause problems in the future if left unchecked. To the east lies the warlord of §GGayny§!. Relations with §GGayny§! have mostly been cordial, and it may be possible to sway them to the cause.\n\nThe §WPrincipality of Vyatka§! now stands poised to undertake the arduous task of uniting Russia once and for all. Will Russia find itself ruled by a Tsar once more?"
 
- # SAMARA
+ # САМАРА
 
   #101
   SAM_CountryInfo_Folder.101: "Liberation Army"
@@ -562,7 +562,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   SAM_CountryInfo_Content.5: "Crossroad"
   SAM_CountryInfo_Content_desc.5: "The §WROA§! is at a crossroad. Loathed by all their neighbors as German collaborators, yet feared for their veteran army and iron discipline, the men of the §WROA§! await the end of the terror bombing. Some seek to redeem their honor by rebuilding Russia. Others seek vengeance on the communists and on the Germans who have ruined their life. Finally, a growing minority simply want to lash out at the uncaring world that has forced them to lose a decade holed in Samara."
 
- # ONEGA
+ # ОНЕГА
 
   #101
   ONG_CountryInfo_Folder.101: "The Guard"
@@ -573,7 +573,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   ONG_CountryInfo_Content.3: "Freedom"
   ONG_CountryInfo_Content_desc.3: "Nearly a decade on, the men of the Guard cling onto this promise of seeing their family once more. Their task is a gruelling, thankless one. As they patrol the Arctic land around §WLake Onega§!, fighting bandits and communist infiltrators, the Guardsmen look east with uncertainty. The winds are changing in Western Russia, and it is likely that soon their fellow countrymen will come knocking to recapture the land stolen by §GFinland§!. Ill-equipped, the Guard continues its watch. Their service will guarantee their freedom, one way or the other."
  
- # WEST RUSSIAN REVOLUTIONARY FRONT
+ # ЗАХІДНО-РОСІЙСЬКИЙ РЕВОЛЮЦІЙНИЙ ФРОНТ
 
   #101
   WRS_CountryInfo_Folder.101: "Tale of War"
@@ -593,7 +593,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   WRS_CountryInfo_Content.6: "And Now..."
   WRS_CountryInfo_Content_desc.6: "Now, in 1962, the §WFront§!'s situation is a precarious one. Beyond the territories controlled by §GArkhangelsk§! lie §Rstatelets§! run by §Rillegitimate secessionists, collaborators, Tsarists, and other contenders§!. Only time will tell if the §WFront§! will regain its position as the defender of Western Russia, and, potentially, §Greunite the Motherland§!, to §Gavenge those who fell§! and deliver §Gjustice§! upon §RGermany§!."
 
-  # ARYAN BROTHERHOOD
+ # АРІЙСЬКЕ БРАТСТВО
 
   #101
   PRM_CountryInfo_Folder.101: "Three Times"
@@ -609,7 +609,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   PRM_CountryInfo_Content.4: "Permhaym"
   PRM_CountryInfo_Content_desc.4: "Since capturing §GPermhaym§! the §WBrotherhood§! has continued to pillage western §RRussia§!, scouring the east for loot, slaves, and the rare §GAryans§! hidden among the §RSlavic§! masses, waiting to be uplifted by their more enlightened brothers. To the §Rsubhuman§! warlords of the region the §WBrotherhood§! is a band of savages led by a madman. The §WFyurer§! knows better. He shall lead the §GÜbermensch§! in the last conquest of the east, finally purging the §RSlavic§! corruption from §RRussia's§! soil and securing the destiny of the §GAryan§! race once and for all."
  
-  # IRELAND
+ # ІРЛАНДІЯ
 
   #101
   IRE_CountryInfo_Folder.101: "From One Empire to Another"
@@ -631,7 +631,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   IRE_CountryInfo_Content.7: "Northern Ireland"
   IRE_CountryInfo_Content_desc.7: "Formally known as the §VNorthern Counties Special Zone§!, the occupation should have been abolished, alongside the temporary administration that currently resides over Ulster. In reality, the NCSZ is dominated by §Vparamilitaries and self-defence forces§! that are vaguely aligned with either the cause of §eCatholicism§! or §OProtestantism§!. Ruled by the Minister for the Northern Counties, Neil Blaney, the fact that nobody is quite sure how he has contained the Unionists is a question that is steadily creeping in concern. Meanwhile, the §eIrish Republican Army§!, a coalition of guerrillas, agitated inside the occupation for a neutral Republic. The §yIrish Citizen's Guard§!, on the other hand, broke away from the IRA due to their affinity for Germany. Even for NCSZ Paramilitaries, not much is known about them. Lastly, is the §OUlster Volunteer Force§!. Commanded by Ian Paisley, the UVF are descended from Protestant Self-Defence groups that attempt to protect the Protestant population of Ulster."
  
-  # USA
+ # США
   USA_CountryInfo_Folder.101: "A Nation Unmoored"
   USA_CountryInfo_Folder.102: "Sixth Party System"
 
@@ -656,7 +656,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   USA_CountryInfo_Content.9: "The Extremists"
   USA_CountryInfo_Content_desc.9: "While "more respectable" NPP leaders try to ignore them, the Pact also includes many smaller groups whose hostility to the §LEstablishment§! includes not just the two main parties but the American system itself. These parties view the Republic as a failed state, with radical action needed to save its people.\n\nThe §VMarxist Caucus§!, led by Communist Party USA's §VGus Hall§!, is one such group. Composed of avowed communists and socialists, the Marxist Caucus sees the average American as exploited by the capitalist class and the current fight over civil rights to be a symptom of a larger class struggle.\n\nEven smaller and more fringe than the §VMarxists§! are the §jSovereigntists§!, a vile group of fascists and white nationalists. Few but the most radicalized Americans would dare associate themselves with them. Their leader, §jFrancis Parker Yockey§!, has made a reputation giving voice to the dark fantasies of aggrieved whites who see Germany as an ally, not an enemy in a coming war."
 
- #IBERIA 
+ #ІБЕРІЯ 
  IBR_CountryInfo_Folder.101: "Brothers in Arms?"
  IBR_CountryInfo_Folder.102: "Sunset Over Iberia"
 
@@ -683,7 +683,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  SAF_CountryInfo_Content.3: "Майбутня різноманітність рішень"
  SAF_CountryInfo_Content_desc.3: "У містах пригноблені марширують на знак солідарності, вимагаючи континенту, вільного від розколу, а з далеких застав, що охороняють §RРайхскомісаріят§!, просочуються повідомлення про спалені села та вбиті сім'ї в конфлікті між партизанськими силами та §RНімецькою африканською армією§!. §WДомініон§! справді ходить по канату, обережно задобрюючі усі фронти.\n\nПеред нацією стоїть багато виборів; вона може використати на свою користь подарунки, які викрала компанія «Де Бірс» з видобутком §Wалмазів!. Вона повинна збалансувати іноземний §Wвплив§! і прибуток, намагаючись підтримувати торгівлю з §RПактом§!; і вона повинна переконатися, що майбутні §Wвибори§! відбудуться на її користь, бо який би вибір не був зроблений, він так чи інакше потрясе Південну Африку. Конфлікт у Капській провінції швидко стає неминучим; §Wпрем'єр-міністр Вільєрс Граф§! повинен утримувати країну на прямому і вузькому шляху, бо якщо §WПівденна Африка§! зісковзне з високого тросу, то тільки Бог знає, де вона приземлиться."
 
- # Britain RULES THE WAVES
+ # Британія ПРАВЬ МОРЯМИ
 
  ENG_CountryInfo_Folder.101: "The Lightless Isle"
  ENG_CountryInfo_Folder.102: "The Veneer of Civilisation"
@@ -718,7 +718,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  ENG_CountryInfo_Content.10: "The Exiles"
  ENG_CountryInfo_Content_desc.10: "The retreat from Britain was an affair characterised by abject chaos. Those in Britain today speak of a "§VList§!" which divided those who would be able to leave and those who would stay. Amongst that "§VList§!" was most of the §sWartime Cabinet§! of §iWinston Churchill§!, including future Prime Ministers §RHerbert Morrison§! and §BHarold Macmillan§!.\n\nAlso on the list were many who had had the fortune of being covered by the umbrella of §VLord Beaverbrook§!, such as the now §RLeader of the Opposition§! §VMichael Foot§!. In §LOttawa§! the exiles have sat adrift for the past §M17 Years§!, and the malaise of perhaps never being able to once again set foot on their beloved homeland has permeated much of the government.\n\nWhether it be for §BQueen and Country§! or the §VVoice of the People§!, the current party leaders, §BMacmillan§! and §VFoot§!, have risen to near-mythological status within their respective ranks. The leadership of the §GExiles§! could not be under more safe hands, provided that there still lies hope..."
 
-  # ENGLAND RULES THE WAVES
+  # АНГЛІЯ РУЛІ ТА УЕЛЬС
 
  OLD_ENG_CountryInfo_Folder.101: "Ruled Britannia"
  OLD_ENG_CountryInfo_Folder.102: "The Oncoming Storm"
@@ -754,7 +754,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  OLD_ENG_CountryInfo_Content_desc.10: "Germany is not blind to the instability of their puppet regime. They realise all too well that neither §lCollaborator§! or §BHMMLR§! member is a fan of the Nazi Regime. The few, such as §oChesterton and his merry band of lunatics inside the National Front§!, that do appreciate their rule are too incompetent to even be considered as possible replacements. Which is why the town of Plymouth was transformed into a vast military holding led by the Wehrmacht garrison inside the British Isles. Commanded by §EFranz Six§!, the former leisure town has fulfilled its purpose once more and become the hottest destination for Wehrmacht officers to send their children, to keep them out of harm's way. If England was ever to truly break free from German rule, the garrison is to march on England proper and exterminate any signs of resistance. Armed with only the most high-tech of weaponry, if this was ever to occur, it would spell §xdisaster§! for any budding Resistance movement."
 
 
-# SVERDLOVSK
+# СВЕРДЛОВСЬК
 
  SVR_CountryInfo_Folder.101: "A State with an Army, or...?"
  SVR_CountryInfo_Folder.102: "The Wind Blows West in Siberia"
@@ -774,7 +774,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  SVR_CountryInfo_Content.5: "The Deepest Black"
  SVR_CountryInfo_Content_desc.5: "To our southwest, there is a plague ravaging our people. It spreads silently and it kills without signal or sign. It is the §sBlack League of Omsk§!. Hatred and revenge has seeped into their existence to the point that their entire state has become a near-fascistic abomination dedicated to delivering their calculated revenge against every German man, woman and child. While the annihilation of the Nazi is our goal, our quarrel is §wnot with the women and children§! of Germany but the §oideology§! they spout.\n\nMoreover, we have caught the plague. Omsk infiltrators continue to act unabated inside our Army, and report directly to Karbyshev and Yazov on every movement. Unless we curtail their influence, we too will become just another footnote in Russia's §Rmournful history.§!"
 
-# WALES
+# УЕЛЬС
 
  WAL_CountryInfo_Folder.101: "Cymru Today"
  WAL_CountryInfo_Folder.102: "Cymru Tomorrow"
@@ -791,7 +791,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  WAL_CountryInfo_Content.4: "The Welsh Future"
  WAL_CountryInfo_Content_desc.4: "Over the coming years, all these factions will have to seek out ways to tame the erratic political situation. Some may find this task harder than others, as the governing party slowly chips away at a crisis that is sure to bring them tumbling down. No one in §GWales§! will be left unaffected and life in our nation will be forever changed, though whether it is for better or for worse is yet to be determined."
 
-# SCOTLAND
+# ШОТЛАНДІЯ
 
  SCO_CountryInfo_Folder.101: "I Backwards Cast My E'e"
  SCO_CountryInfo_Folder.102: "Tho I Canna' See"
@@ -812,7 +812,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  SCO_CountryInfo_Content.5: "On Constant Alert"
  SCO_CountryInfo_Content_desc.5: "One of the largest figureheads in §BScotland§! is the de facto leader of the §QScottish Armed Forces§!, Marshal §QDouglas Wimberley§!. Beloved by his soldiers and the students of the many colleges and universities of §BScotland§!, he has been known for reviving dedication and pride in academia and the military. Being one of the other founders of the current republic, he has quite a positive public image. His closest friends and advisors, however, know that Wimberley can be a paranoid man.\n\nWhile all may seem well to the citizens of §BScotland§!, the Armed Forces are in a constant state of alert. With the §RCollaborators§! on the border, the threat of attack is constant. This idea has been drilled into the §QArmed Forces§! and is something that the generals and admirals live by. §QWimberley§! is a smart man and will put everything on the line to protect Scottish independence and freedom as he sees it. He is willing to do §xanything at all,§! and may act very drastically if provoked."
 
-# RK. NORWEGEN
+# РК. НОРВЕГЕН
 
  NOR_CountryInfo_Folder.101: "From a Fraught Past"
  NOR_CountryInfo_Folder.102: "To a Fraught Future"
@@ -832,7 +832,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  NOR_CountryInfo_Content.5: "And If They Leave"
  NOR_CountryInfo_Content_desc.5: "Should the §qGerman§! garrison be forced to withdraw, it is doubtful that Lie could maintain the status quo even with brute force. It is yet more doubtful that Lunde would even be bothered to try to maintain his servile facade without the threat of the garrison. The Germans have made multiple attempts to assassinate him over the years as an intervention against him harkening back to the nationalist days of the party. But they always failed and the status quo was inevitably restored, giving Lunde a firm grip on what power remains to him.\n\nShould a crisis emerge between Lie's national socialist true believers and the opposition, there is no telling if anti-Lie forces might make a move to throw Lie down as Riksfører. Worse yet (or better yet, depending on who you ask), the partisans of the §dMilorg§! (Military Organization) could make a play of their own to kick the legs out from under the collaboration government."
 
-# RK. OSTLAND
+# РК. ОСТЛАНД
  
  OST_CountryInfo_Folder.101: "The Model Colony"
 
@@ -845,7 +845,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  OST_CountryInfo_Content.3: "The Man with a Plan"
  OST_CountryInfo_Content_desc.3: "Luckily for the §WReichskommissariat§!, it seems that the man to fill §WLohse's§! boots- §GKarl Siegmund Litzmann§!- has already been chosen by the §GReich§!, no matter how much internal squabbling there may be. With the succession issue solved, all that remains is to clean out the last vestiges of resistance and disorder, and §WOstland§! will continue on its track as the §GModel Colony§!- a peaceful, stable, Germanized paradise.\n\nHere's to hoping the §GReich's§! issues are smoothed out in a similar manner, or our issues may get very, very §Rout of hand...§!"
 
-# RK. OSTAFRIKA
+# РК. ОСТАФРІКА
  
  GRO_CountryInfo_Folder.101: "A New Master"
 
@@ -866,7 +866,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  GRO_CountryInfo_Content.5: "The Second Seal"
  GRO_CountryInfo_Content_desc.5: "South Africa is a powderkeg. Worse, it is a powderkeg that has had decades to boil. Resentment from both §OBoer§! and §nAfrican§! alike has led to Cape Town making rasher and hastier decisions, than it did previously. Without the leash of its §VBritish§! master on its collar, South Africa has become rudderless. They can grovel at the feet of the Boer or the Black Man. Not both.\n\nThe Boer cannot fight South Africa by itself. Fortunately, they will not have to. When South Africa does eventually collapse - §xand it will§! - we will be there. To keep in mind however, we must deliver a crushing blow to both Cape Town and the inevitable §iAmerican§! presence inside their neo-colonial holding. Our numbers of pure Aryan stock and selected native units cannot sustain a war of attrition. If we linger, partisan activity will dismember us and leave us for the vultures. Consider our task a §P"Barbarossa-on-the-Kalahari"§!."
 
-# RK. SÜDWESTAFRIKA
+# РК. СЮДВЕСТАФРІКА
  
  ANG_CountryInfo_Folder.101: "A New Master"
 
@@ -887,7 +887,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  ANG_CountryInfo_Content.5: "Freedom takes Flight"
  ANG_CountryInfo_Content_desc.5: "§VSchenck has betrayed the Reich§!. Not physically, and nothing that would get him in front of the long end of a firing squad - but he has betrayed the Reich. Once upon a time, every month he would get a sudden thought flashing across his mind. Then it was every week. Now, at the edge of annihilation with America, it is every day. That sedition has a name, §nAngola§!.\n\nAll three Reichskommissariats are castles built on quicksand. They §xwill§! sink, sooner or later. Müller's decadence has made him soft, while Hüttig's harshness has made the forces against him strong. Stronger than he would like to imagine. Schenck's dominion will fall too. But there are §Kcontacts§! inside Angola. People that he is sympathetic to. People that deserve a fighting chance, when the jungle catches fire. If his loyalties are too compromised to serve the Reich, then maybe they can be put in the service of §Ksomeone else?§!"
 
-# RK. ZENTRALAFRIKA
+# РК. ЦЕНТРАЛАФРІКА
 
  COG_CountryInfo_Folder.101: "A New Master"
 
@@ -916,7 +916,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  COG_CountryInfo_Content.7: "Beyond the Reichsmark"
  COG_CountryInfo_Content_desc.7: "South Africa is a powderkeg. Worse, it is a powderkeg that has had decades to boil. Resentment from both §OBoer§! and §nAfrican§! alike has led to Cape Town making rasher and hastier decisions, than it did previously. Without the leash of its §VBritish§! master on its collar, South Africa has become rudderless. They can grovel at the feet of the Boer or the Black Man. Not both.\n\nTo Müller however, this is nothing more than an §Eobligation§!. He will send his mercenaries over to South Africa where their §Rbattle-hardened experience§! will more than easily wipe away whatever §JCape Town conscripts§! sent to stop them. Once the war is over, the hunting will resume, as it always has. The only thing that worries Müller is §iAmerica§!. Sure, their military can go toe to toe with the best of his army, but imagine what it would do to his §Kbusiness§!? A sobering thought, indeed."
 
-# Ukraine
+# Україна
 
  UKR_CountryInfo_Folder.101: "To Feed Europe"
 
@@ -944,7 +944,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  UKR_CountryInfo_Content.7: "In Bandera's Footsteps"
  UKR_CountryInfo_Content_desc.7: "Once, the §sUPA§! would have been defined by §sStepan Bandera's§! words. Like most in the §MUkrai§!§Ynian§! nationalist movement, he began resisting the §CPoles§! before collaborating with the §oNazis§!. Yet only Bandera, with his uniquely radical position and surprising popularity, managed to break from §oGermany§! and rise against their former masters.\n\nNow, the §sUPA§! is defined by Bandera's death. Killed in a concentration camp, his movement outlived him, finding new leadership under Dmytro Klyachkivsky. His movement lurks in the west, engaged in an endless war with the §DUNRA§! and the German occupiers.\n\nNow, the §sUPA§! survives strong, but leadership is §Ysplit§! over the future of Bandera's vision. Some seek the nostalgia of past orthodoxy, whilst others audaciously seek to reforge the §sUPA§! for their own ends. The Banderites walk a dangerous and uncertain path just as likely to be their §xdoom§! as their §ysalvation§!."
 
-  #Mexico
+ #Мексика
   #101
   MEX_CountryInfo_Folder.101: "The Eternal Revolution"
   MEX_CountryInfo_Content.1: "Epoch of Change"
@@ -969,7 +969,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   MEX_CountryInfo_Content.9: "Outside the Clutch"
   MEX_CountryInfo_Content_desc.9: "Officially, the §nP§!§WR§!§xI§! rules as a coalition - of groups that are little more than appendages of the state. The only §Olegitimate§! alternative party to the §nP§!§WR§!§xI§! is the "§QPartido Acción Nacional§!". A party for those excluded by the §nP§!§WR§!§xI§!'s §Vcorporatist model§!, its belief in a §Mdemocratic Mexico§! is unquestionable. But its meagre existence is only allowed to give the §fMexican government§! some level of §Olegitimacy§!.\n\nMore §Wradical groups§! exist outside the bounds of legal recognition. The banned §eCommunist Party§! and §Rassorted leftist movements§! exist, and those of a rightist disposition look to the §oUnión Nacional Sinarquista§!. However, with them §qsuppressed and the doors to power locked§!, they face a long and hard road to achieving their goals."
    
- ### ECONOMIC DATA
+ ### ЕКОНОМІЧНА ІНФОРМАЦІЯ
   CountryInfo_tab_name_economic: "Economic Data"
   CountryInfo_Economic.1: "Economic Data"
   CountryInfo_Economic.2: "Overview"
@@ -986,7 +986,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   CountryInfo_Economic_Overview_SVR: "Sverdlovsk operates under the §gMilitary-Directed Economic§! model. This is a model where the military, due to its §gunchecked grip§! on the state, has the ability to completely command and direct the economy. It is not a command economy similar to that in the former §VSoviet Union§!, because private enterprise is allowed to exist in the state, but the military regime has the §Rfinal say§! over all directives inside the nation.\n\nIn Sverdlovsk's case, the military regime commands what is left of the industry that was moved west by §CBukharin§! and §eStalin§! into the Siberian plains, and was not damaged during the §LLuftwaffe Terror Bombings§! in the 50's and 60's. Compared to other states, it still has a fairly hefty industry and is able to project economic power further than the other warlord states."
   #- Place Economic Overviews here -#
     
-  ##Guangdong
+ ##Ґуандун
   CountryInfo_Economic_Overview_GNG: "§SGuangdong's economy§! operates as a §SCorporate Oligarchy§! - a polity where both the economic and political spheres have been subsumed under the direction of large corporations, in this case the §YFour Companies§! of §YYasuda§!, §VSony§!, §WMatsushita§!, and §mFujitsu§!.\n\nSocial and labor protections are intentionally kept weak - weaker than on the §jHome Islands§! themselves - to enable the maximization of profit, with the Four Companies given essentially free reign to do as they please. While Guangdong maintains the minimum necessary to maintain the pretense of a functional government, the withering away of the state has afforded even more opportunities for §Rcorruption§! or §Ycorporate interests§! to insert themselves into public life.\n\nGuangdong's economic performance is also intimately tied to the §melectronics product cycle§! - a competition to win the hearts and wallets of consumers with the §Kbest product§! at the §Kcheapest price§!."
 
   CountryInfo_Economic_Overview_GRO: "Reichskommissariat Ostafrika's Economy is that of the §oGelenkte Wirtschaft§! model. This model tries to balance between the command economy of the former §RSoviet Union§! and the free market capitalism of the §iUnited States of America§! by combining a use of state-directed initiatives and cooperation with private enterprise and selecting a few trusted and proven corporations to serve the state in a fashion that suits both parties.\n\nIn §jOstafrika§!'s case, the state runs on African branches and subsidiaries of German corporations within Europe. However, it is most similar to §EBurgundy§! in the fact that it heavily relies on slave labour and an incredibly repressed underclass to serve the §rselect few§! chosen inside the colony, that can barely eek out a living themselves in the harsh conditions of Eastern Africa."
