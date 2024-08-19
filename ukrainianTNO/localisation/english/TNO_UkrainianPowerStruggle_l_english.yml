@@ -1,13 +1,13 @@
 ﻿l_english:
- UKR_pwr_struggle.1.t:0 "Death of a Chairman"
+ UKR_pwr_struggle.1.t:0 "Смерть голови"
  UKR_pwr_struggle.1.desc:0 ""Chairman Melnyk? Chairman Melnyk? I have your morning tea. Melnyk?"\n\nWith his left foot, Melnyk's secretary pushed open his superior's office door, expecting to hear a weak greeting from the Chairman. Instead, Melnyk was silent, his torso slumped onto his desk, his skin made pale and sallow by rigor mortis or by office lights. The secretary put down the teaset and checked his pulse. Nothing.\n\nThe secretary bowed his head for a moment. Perhaps in better days, his first thought would have been on memorials and decorum, Melnyk would have liked. But there was no time for such niceties. Quietly, as if not to disturb him, the secretary pushed Melnyk's heavy frame aside and reached for his telephone. A few people would need to be called - Melnyk's wife, his few lasting friends, Leibbrandt. First, however, came succession.\n\n~~~\n\n"...yes? Yes? I understand. My condolences to Pan Melnyk. He was a great leader for the Ukrainian people, despite our differences."\n\nPavlo Shandruk expected he would have a great reaction to the news. Melnyk was a fellow veteran of the Sich, a freedom fighter for Ukrainian, a long-time acquaintance. But all Shandruk could think of was their meetings together - Melnyk pointing at a map, relaying German instructions, telling the old general which villages needed to burn.\n\nInstead, Shandruk chose to focus on politics. "Before you consult anyone else about this matter, I am going to give you a list of names. Inform them of the news, discreetly, and tell them to message me at their earliest convenience. We are going to have a meeting of the Ukrainian National Council in the following week, and we must stand as a united front to choose a successor. As for the Reichskommissar...""
- UKR_pwr_struggle.1.a:0 ""I recommend you use tact.""
+ UKR_pwr_struggle.1.a:0 "«Я рекомендую вам проявити такт.»"
  
- UKR_pwr_struggle.2.t:0 "The Order"
+ UKR_pwr_struggle.2.t:0 "Порядок"
  UKR_pwr_struggle.2.desc:0 "Kozhevnikov's voice was crackled and warped, but his words were clear. The UNC had discovered that Andriy Melnyk had died in the night. Georg Leibbrandt, from his manor in the south, was already arranging papers and giving notes. Kozhevnikov was Leibbrandt's most loyal protege, one of the few Ukrainians who he knew he could trust implicitly. He clearly needed to be the successor.\n\nYet doing so meant propelling a fairly controversial man into the top slot. Yes, the Ukrainians were intelligent in their own way, but they also had consistently proven in need of guidance during times of crisis. After all, it was their own radical and warped kind who attempted revolution. Their psychology was one of loyalty, of leadership, and it only took a small number of disgruntled and motivated leaders to pull them in every direction. The moment divisions appeared, the Security Council would have an excuse to step in and create a crisis.\n\nA party line was needed. If Kozhevnikov was to be the next Chairman, he could have no opposition.\n\nLeibbrandt put down the phone and called for his secretary. Still buried in his notes, he barked out an order to the man. "Call Sushko, Shandruk, Shtul, even Stsiborskyi. Any UNC member who might try to take the role. Tell them all that, for reasons of national unity in this time of mourning, they are to stand down and support the candidacy of Herr Kozhevnikov. Don't let them argue, give the order and move on.""
- UKR_pwr_struggle.2.a:0 ""If I know the Ukrainian people, they'll listen.""
- UKR_pwr_struggle.2.b:0 ""If I know the Ukrainian people, they'll listen.""
- UKR_pwr_struggle.2.c:0 ""If I know the Ukrainian people, they'll listen.""
+ UKR_pwr_struggle.2.a:0 "«Якщо я знаю Український народ, він буде слухати.»"
+ UKR_pwr_struggle.2.b:0 "«Якщо я знаю Український народ, він буде слухати.»"
+ UKR_pwr_struggle.2.c:0 "«Якщо я знаю Український народ, він буде слухати.»"
  
  UKR_pwr_struggle.3.t:0 "Business as Usual"
  UKR_pwr_struggle.3.desc:0 "The air brought tidings of change, yet Artem felt nothing really different. Of course, his work in the grand scheme of things was minimal at best; on his dutiful page, he wrote the letters and missives to be sent, from the higher-ups, towards the officers and bureaucrats through Ukraine. It was a dull job to be sure, but it afforded him a thoroughly peculiar point of view of the minds that ruled over the Reichskommissariat. His fingers dutifully clack at the letters, checking the missives he read to make sure the message is sent along properly.\n\nYet, something in him feels the ever-present sense of...boredom? Disappointment? Even with the turmoil of changes, with the growing tensions, a climate he could feel every day he walked back to his office, he still turned to this table, to write the same messages in an almost robotic motion; as if nothing was wrong.\n\nIt's in this growing haze of monotony, that perhaps a simple spark lit in his head. And he only really needs to look upward, to the picture hanging in his dull, beige office to remember why the UNC is acting through the motions. It used to show the portrait of Melnyk, but from one day to another, perhaps in the cleaning of the offices, it was swiftly replaced before anyone could even grieve.\n\nFor it's not the temperate expression of the deceased Andriy Melnyk that gazes at the offices, but of Leibbrandt, berating him for wasting time looking at the portrait.\n\nWithout lifting a single word, without even a public appearance, just with a casual swap of a portrait, it was like the whole party had their leash pulled...and they could do nothing for the moment, lest the turmoil that rages outside consumes them whole."
@@ -198,11 +198,11 @@
  ##### Scripted loc
  
  ## Leib
- UKR_Leib_Bureaucracy_Title:0 "From Plans to Fruition"
+ UKR_Leib_Bureaucracy_Title:0 "Від планів до реалізації"
  
- UKR_Leib_Collabs_Title:0 "The Scales Fall"
+ UKR_Leib_Collabs_Title:0 "Терези падають"
  
- UKR_Leib_Neither_Title:0 "Best of the Worst"
+ UKR_Leib_Neither_Title:0 "Кращі з гірших"
  
  UKR_Leib_Bureaucracy_Descs:0 "As Ohlendorf stood to make what everyone knew would be his last argument, there was a collectively held breath as he began. If there was a time for Ohlendorf to make his case, his last chance for power and to deny Leibbrandt his rightful place, it would be now. Leibbrandt himself waited patiently, wondering what card Ohlendorf would play.\n\nHis hand was revealed, and it was weak.\n\nOhlendorf attempted to make the argument to the Council for Leibbrandt's removal, arguing that he had betrayed and weakened the nation - but Leibbrandt saw his words rang hollow before the Council, and Ohlendorf seemed to know it. His words held a tinge of exhaustion; one from a tired man who had nothing left. He knew the connections Leibbrandt had made, and that his appeal was the last act of a desperate man.\n\nWhen he returned to his place, the Council broke for a few minutes, before reconvening to hold the vote. One by one, the votes were counted, and a small smile grew on Leibbrandt's face. When the vote finished, the speaker rose to read the verdict. "This Council finds the charges of Georg Leibbrandt groundless. Conversely, we consider the charges against Erwin Weinmann sufficient, and he shall be immediately removed from his position."\n\nWell, that was it.\n\nLeibbrandt allowed a small exhale of relief to escape, pleased and proud of what had been achieved. The Rosenberg supporters had come through for him, all as he had planned. Every single connection forged, and deal struck, had allowed this moment to come to fruition. Once more, he had demonstrated his ability to lead the nation was unchallenged.\n\nOne more obstacle removed before Ukraine was fully his, and all who stood in his way were cowed - or removed."
  
@@ -210,19 +210,19 @@
  
  UKR_Leib_Neither_Descs:0 "Leibbrandt shuffled in his seat nervously, his foot tapping against the cold, hard floor. The council chambers seemed much larger today, the ceiling stretching further out of reach. The importance of today was unquestionable - the vote would be held on Weinmann's dismissal on grounds of treason, deciding whether all his work up till now had been for naught. Statements had been made, discussion had been held, and now came the dreadful waiting.\n\nAs the council deliberated more and more, one thing became clear - no one was happy with Leibbrandt. And yet, what better choice did they have? Convicting him would only lead to more chaos, more divisiveness, more suffering. What Ukraine needed now was a strong leader, but Leibbrandt was not that. However, he had already entrenched himself much too far into the state to be removed, forcing the council's hand. Removing him at this late stage was no longer an option.\n\nAfter an eternity, the vote finally came. Reluctantly, the men one by one threw their support behind Leibbrandt, convicting Weinmann in the process. Barely maintaining his composure, Leibbrandt shot up out of his chair in celebration - and a tinge of . Despite it all, he was still hanging on to power by a thread, leaving Ohlendorf pouting in the corner at his defeat."
  
- UKR_Leib_Bureaucracy_Options:0 "His final ascendance was at hand."
+ UKR_Leib_Bureaucracy_Options:0 "Його остаточне вознесіння було вже близько."
  
- UKR_Leib_Collabs_Options:0 "The vote was unanimous."
+ UKR_Leib_Collabs_Options:0 "Голосування було одностайним."
  
- UKR_Leib_Neither_Options:0 "The ceiling seemed a lot closer now."
+ UKR_Leib_Neither_Options:0 "Стеля здавалася набагато ближчою."
  
  ## Braut
  
- UKR_Braut_Bureaucracy_Title:0 "Preeminence"
+ UKR_Braut_Bureaucracy_Title:0 "Перевага"
  
- UKR_Braut_Industry_Title:0 "Subornation"
+ UKR_Braut_Industry_Title:0 "Суборнація"
  
- UKR_Braut_Neither_Title:0 "Inch by Bloody Inch"
+ UKR_Braut_Neither_Title:0 "Дюйм за кривавим дюймом"
  
  UKR_Braut_Bureaucracy_Descs:0 "Bräutigam took to the podium with a lively stride. He had watched the council deliberate for hours, immune to exhaustion as he smirked in satisfaction at the heaps of evidence that were revealed to the public eye. Leibbrandt and Weinmann would not escape justice, and he would happily relish in their inevitable demise. They were relics of a barbaric, unenlightened legacy, one that Bräutigam would unravel at the earliest opportunity. He scanned the room of weary bureaucrats and councilmen before making his final strike.\n\n"Gentlemen, it has become painstakingly clear that the status quo has failed us. Our leaders have squandered our great nation's glory in favor of their own petty pursuits, regardless of how it spits on our legacy," Bräutigam opened carefully. Alienating his allies would be a surefire way to clutch defeat from the jaws of victory. "The squabbles of old will not end unless decisive action is taken to remedy ourselves of slovenly rot and decay. It is not the German way to hang onto the past, but to seize the future and mold it to our liking!" Bräutigam hung onto every word, and the tired crowd became reinvigorated by his fiery words. Those enraged by his conduct were drowned out by cheers of support.\n\n"I promise to chart a new course for the Reichskommisariat, one that will establish stability, one that will cleanse the administration of corruption, one that will guarantee prosperity for a hundred years!" Sweat dripped from his face, but he was too euphoric to notice. Ukraine would be under his stewardship, and only a simple vote stood between him and greatness."
  
@@ -230,19 +230,19 @@
  
  UKR_Braut_Neither_Descs:0 "Rarely ever did Bräutigam's ambitions go according to plan, but even he could not foresee the train wreck that lay before him. Hours of debate did not dislodge the council from its state of cutthroat gridlock, with factionalism triumphing decisively over rationality, leaving Bräutigam with a throbbing migraine that worsened with every passing minute. Victory was a fleeting possibility, one he would have to fight tooth and nail to achieve. The young lawyer shambled to the podium, preparing one last defiant speech for the rowdy crowd that lay before him.\n\n"Gentlemen, I urge you to listen to reason before this council degenerates into a den of mongrels reduced to their baser instincts," Bräutigam said with a strained tone. "While not all of our disagreements can be addressed today, there is one that must be resolved before we are all consigned to oblivion." Bräutigam's irritated tone echoed across the hall, where it was met with grumbles and jeers, but he continued unabated. "The mismanagement of our military has left it suspicious and disloyal of the administration. Should nothing change, then civil war is inevitable, and everything we've done here is for naught." The opposition to Bräutigam's speech coalesced into a discordant string of insults, and he rushed to finish his speech.\n\n"It is the rational, and correct, choice to maintain unity. To do otherwise is to allow all of our efforts to be erased because of pure spite," Bräutigam swiftly left the podium and returned to his seat. He could only hope that the verdict would be in his favor. After a long, suspenseful voting period, Bräutigam got what he wanted. Leibbrandt and Weinmann were removed only by the slimmest of margins."
  
- UKR_Braut_Bureaucracy_Options:0 "Democracy shines a path forward."
+ UKR_Braut_Bureaucracy_Options:0 "Демократія прокладає шлях уперед."
  
- UKR_Braut_Industry_Options:0 "A greasy win is still a win."
+ UKR_Braut_Industry_Options:0 "Жирна перемога - це все одно перемога."
  
- UKR_Braut_Neither_Options:0 "The battle is only uphill from here."
+ UKR_Braut_Neither_Options:0 "Звідси битва лише в гору."
  
  ## Ohlen
  
-UKR_Ohlen_Bureaucracy_Title:0 "Reminiscence"
+UKR_Ohlen_Bureaucracy_Title:0 "Спогад"
 
-UKR_Ohlen_Military_Title:0 "The Hammer Falls"
+UKR_Ohlen_Military_Title:0 "Водоспад Молот"
 
-UKR_Ohlen_Neither_Title:0 "A Mad, Mad World"
+UKR_Ohlen_Neither_Title:0 "Шалений, шалений світ"
 
 UKR_Ohlen_Bureaucracy_Descs:0 "To watch over these crowds of people, all clamoring and hollering over one another, Ohlendorf felt a pang of a reminder of exactly where he was- he was a politician, nothing more, nothing less. Looking to the mass of bureaucrats and representatives, as he spoke on and on, Ohlendorf found solace in a growing crowd within the crowd, silently looking to him, quietly listening to what he had to say. Those staying silent with vitriol pouring from their mouths as soon as given the chance made themselves clear, sharing the rat-faces of those partisans Ohlendorf had the misfortune of meeting. Those that quietly observed Ohlendorf, however, brought him back to his days of teaching economics with his old friend, Jens Jessen. Better times, perhaps.\n\n"...Even now, the übermensch has hardly held onto power as it stands. Leibbrandt's administrative capabilities have proven themselves again-" Ohlendorf slammed his fist into the practical altar to prove his point "-and again. We have seen this so-called 'Reichskommissar' turn this colony from a proud achievement of the Reich- my achievement, into a blustering, rotting, corpse that only the true Aryan could save!"\n\nThe crowds erupted into chaos, some jeering at him, others cheering. Stepping down from the podium, watching Bräutigam step up, Ohlendorf noticed the buzzing emotions around him- and not a moment too soon, either. "All those in favor of convicting Liebbrandt of the aforementioned crimes, raise your hand."\n\nLooking around himself, Ohlendorf felt as though he was at Nuremberg once more. It seemed as though the entire hall had its hand raised, save for some collections of pencil-necked Jews-in-sheep's-clothing. Ohlendorf smiled. He knew he'd had the rats beaten."
 
@@ -250,11 +250,11 @@ UKR_Ohlen_Military_Descs:0 "It was time to bring this charade to an end. This wa
 
 UKR_Ohlen_Neither_Descs:0 "Otto Ohlendorf usually prided himself on his acuity, his ability to keenly understand and express the realities of the situation where lesser men might turn a blind eye. Yet the events of the day truly and utterly were beyond him. As he watched the Security Council vote, that thought endlessly ringed in his head - this all made no sense at all.\n\nIn his mind, getting the Security Council to take his side was a matter of convincing the bureaucracy, or getting the security forces to put together enough of a united front in their testimony that contradicting them would seem improper. Yet he had failed at both. Ohlendorf had both failed to find allies within the police, the agency which he quite literally operated, and within the bureaucracy in which he was the only moderate figure.\n\nThere was no other possibility - the Security Council appeared to simply be taking the collaborators at their word. That very thought was sickening. That this entire group could have gone along with the words of a race which had betrayed their nation just a year before... it truly seemed to betray their every principle.\n\nTo Ohlendorf, it all lined up with concerns he had been having for years. How had Leibbrandt even managed to get this far? How had Bräutigam, a liberal who barely hid his allegiances, manage to con his way into relevance? How had the partisans managed to last until the sixties, why had Herr Koch been denied the promotion he so clearly deserved? The truth, the ugly, corny truth, was that sinister operatives must have been twisting history itself, developing it to their liking to suit their own twisted ends.\n\nA force known as Judeo-Bolsheviks, of course."
 
-UKR_Ohlen_Bureaucracy_Options:0 "As expected."
+UKR_Ohlen_Bureaucracy_Options:0 "Як і очікувалося."
 
-UKR_Ohlen_Military_Options:0 "Leibbrandt made no effort to resist, as Ohlendorf looked on in triumph."
+UKR_Ohlen_Military_Options:0 "Ляйббрандт не намагався чинити опір, а Олендорф тріумфально дивився на це."
 
-UKR_Ohlen_Neither_Options:0 "What else could it be?"
+UKR_Ohlen_Neither_Options:0 "Що ще це може бути?"
 
 # Leibs
 
