@@ -15,10 +15,10 @@ LOADING_DATABASES:0 "§BОблогаємо остров Мен...§!"
 INIT_MAP_LOGIC:0 "§BПеретинаємо Атлантику...§!"
 #"Initialising map logic"
 
-LOADING_HISTORY:0 "§BКонтрабандні поставки...§!"
+LOADING_HISTORY:0 "§BКонтрабандуємо поставки...§!"
 #"Loading History"
 
-LOAD_EVENTS:0 "§BВикоріненнюємо опору...§!"
+LOAD_EVENTS:0 "§BВикоріннюємо опору...§!"
 #"Loading Events"
 
 INIT_GAMESTATE:0 "§BЗміцнюємо Единбург...§!" 
@@ -48,7 +48,7 @@ LOAD_GFX_PDXMAP_TERRAIN:0 "§BПрактикуємо ентерізм...§!"
 LOAD_GFX_PDXMAP_RIVERS:0 "§BЗапроваджуємо ембарго...§!"
 #"Loading Map(Creating Rivers)..."
 
-LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "§BВідстежуємо рейсу 302 авіакомпанії Люфтганза...§!"
+LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "§BВідстежуємо 302 рейс авіакомпанії Люфтганза...§!"
 #"Loading Map(Creating objects)..."
 
 LOAD_GFX_PDXMAP_TEXTURES:0 "§BВходимо у DEFCON 1...§!"
@@ -69,19 +69,19 @@ LOADING_MAIN_MENU:0 "§BЗахищаємо протестантів...§!"
 EXITING_TO_FRONTEND:0 "§BПридушуємо корнуельський націоналізм...§!"
 #"Returning to main menu"
 
-LOAD_INIT:0 "§BНавігуємо по Мегакорпусу...§!"
+LOAD_INIT:0 "§BНавігуємо по мегакорпусу...§!"
 #"Initialising Game..."
 
-PROC_FLAGS:0 "§BШпигуюємо за нашими державними службовцями...§!"
+PROC_FLAGS:0 "§BШпигуємо за нашими державними службовцями...§!"
 #"Processing Flags"
 
 EXECUTE_HISTORY:0 "§BРятуємо Британію...§!"
 #"Executing history"
 
-LOADING_SAVEGAME:0 "§BЗмінюємо історію: $NAME$...§!"
+LOADING_SAVEGAME:0 "§BЗмінюємо історію $NAME$...§!"
 #"Loading savegame: $NAME$"
 
-LOADING_SAVEGAME_NO_NAME:0 "§BКонтрабандуємо зброю...§!"
+LOADING_SAVEGAME_NO_NAME:0 "§BЗаймаємося контрабандою зброї...§!"
 #"Loading savegame"
 
 
