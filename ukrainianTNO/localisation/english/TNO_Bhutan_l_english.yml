@@ -1,31 +1,31 @@
 ﻿l_english:
  ### Country Names ###
- BHU: "Bhutan"
- BHU_DEF: "the Autonomous Province of Bhutan"
- BHU_ADJ: "Bhutanese"
+ BHU: "Бутан"
+ BHU_DEF: "Автономна провінція Бутан"
+ BHU_ADJ: "Бутанськ"
 
  ### Parties ###
- BHU_paternalism_party: "Bhotamuzh - PSMD"
- BHU_paternalism_party_long: "Bhotani Muzhamat - Patan-Srung Mak-De"
- BHU_despotism_party: "AHF - MAB"
- BHU_despotism_party_long: "Azad Hind Fauj - Fauj Intizamia Bhotan"
+ BHU_paternalism_party: "Бхотамуж - КБА"
+ BHU_paternalism_party_long: "Бхотані Мужамат - Королівська бутанська армія"
+ BHU_despotism_party: "АХФ - ВАБ"
+ BHU_despotism_party_long: "Азад Хінд Фаудж - Військова адміністрація Бхотан"
 
  ### Characters ###
- BHU_Kanwal_Singh: "Kanwal Singh"
- BHU_Ian_Cardozo: "Ian Cardozo"
- BHU_Piru_Singh: "Piru Singh"
- BHU_Hussain_Muhammad_Ershad: "Hussain Muhammad Ershad"
- BHU_Dasho_Kesang: "Dasho Kesang"
- BHU_Lhendup_Dorji: "Lhendup Dorji"
- BHU_Jigme_Dorji_Wangchuck: "Jigme Dorji Wangchuck"
- BHU_Khaled_Mosharraf: "Khaled Mosharraf"
+ BHU_Kanwal_Singh: "Канвал Сінгх"
+ BHU_Ian_Cardozo: "Ієн Кардосо"
+ BHU_Piru_Singh: "Піру Сінгх"
+ BHU_Hussain_Muhammad_Ershad: "Хуссейн Мухаммад Ершад"
+ BHU_Dasho_Kesang: "Дашо Кесанґ"
+ BHU_Lhendup_Dorji: "Льєндуп Дорджі"
+ BHU_Jigme_Dorji_Wangchuck: "Джігме Дорджі Вангчук"
+ BHU_Khaled_Mosharraf: "Халед Мошарраф"
 
  ## Leader Descs ##
- POLITICS_KANWAL_SINGH_DESC: "General Kanwal Singh was a hero when it all started. Throwing himself into the line of fire, he was glad to be among the first recipients of the Sher-e-Hind, the most honourable military declaration. However, when the War of Independence against Britain ended, and it became a war against the INA's milquetoast brothers, Kanwal Singh found new opportunity. Seizing the small mountain nation of Bhutan, a British protectorate which had been split from India in 1910, he was given a promotion to General of the Indian National Army in Bhutan. However, when the war ended, Singh was assigned a new job in the army: to keep Bhutan under India's thumb. As time has gone on, General Singh has grown more and more reclusive, as threats by Bhutanese partisans increase.\n\nAlongside this, he has grown more paranoid of his cabinet and military over time, not helped by the ethnically-Bengali generals in exile in the contingent. They could be trying to wrestle control from him and take power to merely benefit themselves, or worse, be spies that support the exiled Druk Gyalpo's resistance! In Singh's eyes, everyone is out to get him, and he is the only one who can bring Bhutan to accept India's motherly love. However, only time can tell if it will be he who brings Bhutan to the fold, or if the Dragon of the Himalayas shall roar again."
+ POLITICS_KANWAL_SINGH_DESC: "Генерал Канвал Сінгх був героєм, коли все почалося. Кинувшись на амбразуру, він був радий бути одним з перших, хто отримав «Шер-і-Хінд», найпочеснішу військову нагороду. Однак, коли війна за незалежність проти Великої Британії закінчилася і перетворилася на війну проти більш нерішучих братів ІНА, Канвал Сінгх знайшов нову можливість. Захопивши невелику гірську країну Бутан, британський протекторат, що відділився від Індії в 1910 році, він отримав звання генерала Індійської національної армії в Бутані. Однак, коли війна закінчилася, Сінгх отримав нову роботу в армії: тримати Бутан під контролем Індії. З плином часу генерал Сінгх ставав все більш і більш відлюдькуватим, оскільки зростала загроза з боку бутанських партизанів.\n\nДо того ж, він ставав усе більш параноїдальним щодо свого ж кабінету і війська, чому не сприяли генерали, які були етнічними бенгальцями у вигнанні, в складі контингенту. Вони можуть спробувати вирвати у нього контроль і захопити владу для власної вигоди, або, що ще гірше, бути шпигунами, які підтримують опір Друк Ґ'ялпо, що перебуває у вигнанні! В очах Сінгха всі хочуть його знищити, і він єдиний, хто може привести Бутан до прийняття материнської любові Індії. Втім, лише час покаже, чи буде він тим, хто приведе Бутан до лона Індії, чи Дракон Гімалаїв знову заричить."
 
  ### Ideas ###
- BHU_Transitional_Military_Occupation: "Transitional Military Occupation"
- BHU_Transitional_Military_Occupation_desc: "While Bhutan is de jure a state of the Free India Government, the truth of the matter is far more complex; as a transitional government until peace in the region can be achieved, we enjoy far more luxuries than even the average autonomous region. However, this autonomy comes at the cost of the responsibility of maintaining stability until accession to statehood."
- BHU_Transitional_Military_Occupation_tt: "§YThe tentative date for accession to statehood is §RJanuary 1st, 1974§!!§!"
- BHU_Bhotamuzh_Resistance: "Bhotamuzh Resistance"
- BHU_Bhotamuzh_Resistance_desc: "The Bhotamuzh, short for Bhotani Muzhamat, are the largest resistance organisation in Bhutan. Led by Jigme Dorji Wangchuk, it seeks a restoration of the Bhutanese throne and a constitutional monarchy. To make matters worse, they're funded by the Delhi regime, and likely America as well! Each week, reports pour in of the Bhotamuzh raiding armouries and attacking INA regiments. We must do something about this, or we will be at risk of a coup."
+ BHU_Transitional_Military_Occupation: "Перехідна військова окупація"
+ BHU_Transitional_Military_Occupation_desc: "Хоча де-юре Бутан є регіоном у складі Уряду Вільної Індії, насправді ситуація набагато складніша: як перехідний уряд, доки не буде досягнуто миру в регіоні, ми маємо набагато більше повноважень, ніж навіть середньостатистичний автономний регіон. Однак ця автономія дається ціною відповідальності за збереження стабільності до набуття статусу регіону."
+ BHU_Transitional_Military_Occupation_tt: "§YОрієнтовна дата набуття статусу регіону: §R1-ше січня 1974 року.§!!§!"
+ BHU_Bhotamuzh_Resistance: "Опір Бхотамуж"
+ BHU_Bhotamuzh_Resistance_desc: "Бхотамуж, скорочено від Бхотані Мужамат, є найбільшою організацією опору в Бутані. Очолювана Джігме Дорджі Вангчуком, вона прагне відновлення бутанського трону і конституційної монархії. Що ще гірше, їх фінансує делійський режим, а також, ймовірно, Америка! Щотижня надходять повідомлення про те, що Бхотамуж грабують арсенали і нападають на полки ІНА. Ми повинні щось із цим робити, інакше ми опинимося перед ризиком перевороту."
