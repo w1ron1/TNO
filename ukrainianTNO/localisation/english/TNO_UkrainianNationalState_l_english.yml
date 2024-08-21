@@ -78,12 +78,12 @@ l_english:
  BOV_Slava_Stetsko_for_desc: "§YHead of the Foreign Office\nNaturalized National Socialism§!\n--------------\n§LThey say behind every great man is a great woman, and Slava Stetsko certainly sees herself as such. Having married Yaroslav during the long resistance against the Reichskommisariat, Slava has dedicated her life to supporting her husband and the nationalist cause from behind the scenes.\n\nNow, however, she has a chance to take the spotlight, to become the mother of the revived nation. Whilst Yaroslav's infertility has rendered her childless, she will be the model Ukrainian woman, and every girl will aspire to follow her example.§!"
  BOV_Ivan_Butkovskyi_hog_desc: "§YEmergency Advisor\nUltramilitarism§!\n--------------\n§L§!"
 
- hog_banderas_standard_bearer: "Bandera's Standard Bearer" # Stepan Lenkavskyi
- hog_old_guard_of_the_new_order: "Old Guard of the New Order" # Vasyl Kuk
- eco_puppet_woodsman: "Puppet Woodsman" # Andriy Piasetsky
- eco_bureaucratic_organizer: "Bureaucratic Organizer" # Volodymyr Horbovyi
- for_femenist_fascist: "Femenist Fascist" # Slava Stetsko
- sec_sb_shadowmaster: "S.B. Shadowmaster" # Mykola Lebed
+ hog_banderas_standard_bearer: "Прапороносець Бандери" # Stepan Lenkavskyi
+ hog_old_guard_of_the_new_order: "Стара гвардія нового порядку" # Vasyl Kuk
+ eco_puppet_woodsman: "Маріонетковий лісник" # Andriy Piasetsky
+ eco_bureaucratic_organizer: "Організатор-бюрократ" # Volodymyr Horbovyi
+ for_femenist_fascist: "Феміністка Фашистка" # Slava Stetsko
+ sec_sb_shadowmaster: "С.Б. Майстер тіней " # Mykola Lebed
 
  ### Generals ###
 
@@ -104,66 +104,66 @@ l_english:
  
  ### Ideas ###
 
- BOV_dispirited_domevoy_0: "The Dispirited, Deranged Domevoy"
+ BOV_dispirited_domevoy_0: "Зневірений, божевільний Домевой"
  BOV_dispirited_domevoy_0_desc: "The murder of Stepan Bandera in the Sachsenhausen concentration camp was the greatest crime of the 20th century. We began our Permanent Revolution by his command, but without his enlightened wisdom, our soldiers have lost faith in our guiding principles. They are no longer guardians of their homes, but aimless, feral animals. Their hunger for vengeance is laudable, but their spirits remain husks of their former selves."
  
- BOV_dispirited_domevoy_1: "The Dispirited, Deranged Domevoy"
+ BOV_dispirited_domevoy_1: "Зневірений, божевільний Домевой"
  BOV_dispirited_domevoy_1_desc: "War Support: [?BOV_domevoy_war_support|=+%]\nSurrender Limit: [?BOV_domevoy_surrender_limit|=+%]\nRecruitable Population Factor: [?BOV_domevoy_manpower_modifier|=+%]\nWeekly Supply Consumption: [?BOV_domevoy_supply_consumption|=+]\n§g--------------§!\nThe murder of Stepan Bandera in the Sachsenhausen concentration camp was the greatest crime of the 20th century. We began our Permanent Revolution by his command, but without his enlightened wisdom, our soldiers have lost faith in our guiding principles. They are no longer guardians of their homes, but aimless, feral animals. Their hunger for vengeance is laudable, but their spirits remain husks of their former selves."
  
- BOV_atrophied_azhdaya: "The Atrophied Azhdaya"
+ BOV_atrophied_azhdaya: "Атрофована Аждайя"
  BOV_atrophied_azhdaya_desc: "Our great war against the occupiers of Ukraine required a brokerage of power between Bandera's most loyal disciples. The compromises needed to maintain unity in our titanic struggle initially caused friction, and the bitter defeats and betrayals have bred even greater resentment. Our men look at each other with suspicion, and we no longer fight as one triumphant tide, but as three squabbling cliques. If we can't rally behind one Vozhd, then our failure is inevitable."
  
- BOV_scars_second_struggle: "Scars of the Second Struggle"
+ BOV_scars_second_struggle: "Шрами другої світової війни"
  BOV_scars_second_struggle_desc: "The Muscovite's attempt to reclaim their precious homeland offered us the perfect opportunity to liberate Ukraine. Our plans were foiled not by the occupiers, but by accursed traitors who rallied our own people against us! The casualties were crippling, and even after purging the vipers within our ranks, some of our men fear the possibility of a final crushing defeat."
 
- UKR_BOV_three_heads_of_the_dragon_idea: "Three Heads of the Dragon"
+ UKR_BOV_three_heads_of_the_dragon_idea: "Три голови дракона"
  UKR_BOV_three_heads_of_the_dragon_idea_desc: "Division Attack: [?BOV_klyachkivsky_dynmod|=+%]\nWeekly Supply Consumption: [?BOV_shukhevych_dynmod|=+]\nMisc. Income (Percent of GDP): [?BOV_stetsko_dynmod|=+%]\n§g--------------§!\nthere's three guys three heads get it yeah this is the power struggle dynmod please loc me!!"
- UKR_BOV_concord_dynmod: "Three Heads of the Dragon"
+ UKR_BOV_concord_dynmod: "Три голови дракона"
 
- BOV_undercover_supply_lines: "Undercover Supply Lines"
+ BOV_undercover_supply_lines: "Таємні лінії постачання"
  BOV_undercover_supply_lines_desc: "While the scars on the land inflicted by the German dot the lands of Galicia, it would be suicidal to neglect such an asset to our righteous cause. To strengthen the supply lines we have established in our Galician bases, we will repurpose the workshops and the homes to our advantage - granting us the silence and invisibility our supply lines so desperately require. The decentralised structure of the industrial landscape, while unfit for any constructive basis in our Ukraine of the future, it will be an indispensably convenient tool in our efforts to triumph against the darkness and rot around us."
 
- BOV_rivne_industry: "Rivne's Industry"
+ BOV_rivne_industry: "Промисловість Рівного"
  BOV_rivne_industry_desc: "Long surrounded but until now outside the grasp of the UPA presence, with the recent seizure of Rivne from the withering German presence in Ukraine, the city has seen a massive expansion of industrial capacity as the UPA seeks to consolidate its capability to wage war to liberate all of Ukraine from foreign yoke. From standardised assault weaponry to hastily assembled Zhdanov cocktails, if Lutsk is the heart of the UPA's great journey, then Rivne is the arsenal in which the hands of Bandera's dream shall build - even if the sons and daughters of Ukraine have to toil day and night for it."
 
- BOV_souls_slag_idea: "Souls for the Slag"
+ BOV_souls_slag_idea: "Душі за шлак"
  BOV_souls_slag_idea_desc: "Some men, due to ancestral deficiency or mere human realities, are not strong enough to be fielded. The weak still have a purpose for the UPA - if they cannot die in the fields, then they can live in the factories. Under the watchful eye of loyal Banderites, these weakened souls, ranging from the elderly to the quite young, are given new martialled jobs which they cannot refuse. It is no replacement for true combat, but the role of the deficient is still ever-relevant on the front line."
 
- BOV_every_man_a_soldier: "Every Man a Soldier"
+ BOV_every_man_a_soldier: "Кожен чоловік - солдат"
  BOV_every_man_a_soldier_desc: "What is a Ukrainian man, if he does not fight for his nation? What is a nation, if it cannot use its every element for the cause of victory? The UPA has decided that no man, no matter his station or virtue, is above dying for his nation. Their army will now have everyone in its ranks - weak and strong, from teenagers to the elderly. They may not be as able, but they certainly can serve."
 
- BOV_retributive_cleansing: "Retributive Cleansing"
+ BOV_retributive_cleansing: "Відплатне очищення"
  BOV_retributive_cleansing_desc: "As difficult as it is to admit, our country and her sons have no shortage of shameful, disgusting traitors and cowards. After all, the injustices inflicted upon our nation while we were at our weakest cannot ever be considered for reconciliation - we cannot forgive, nor will we ever forget. For this reason, until the last traitor to Ukraine has been put down and the last force of opposition to the UPA's programme is extinguished, we shall carry out a reign of terror against these subversive, backstabbing scum, until they have been exterminated from our lands and can never pose a threat to us again."
  
- BOV_brothers_war_idea: "Brother's War"
+ BOV_brothers_war_idea: "Братська війна"
  BOV_brothers_war_idea_desc: "§FWar Support: [?brothers_war_war_support|=+%]\nRecruitable Population Factor: [?brothers_war_manpower|=+%]\nSurrender Limit: [?brothers_war_surrender|=+%]\nDivision Attack: [?brothers_war_attack|=+%]\nAI Focus on Offense: §Y50%§!§!\n§g--------------§!\nWithin the UPA, there is a hope for a future beyond oppression from the German parasite, a future where all Ukrainians can cooperate with one another, and can be united at last, between the Muscovite oppression of ages past or German colonialism of more recent memory. Through Ukrainian tenacity and the unique strength of the UPA's method of governing, we shall rebuild upon the Ukrainianization policies of the Soviet government, the sole redeeming factor of the dysfunctional, degenerative puppet of Bukharin. Once Ukraine is reunited, all these sins of the past will be resolved, and the Ukrainian state will stand forevermore. The first step to this grand achievement will come once the UPA liberates Ukraine, and with that comes a unique challenge; the UNRA.\n\nWhile so clearly a puppet of Polish interests, the UNRA still garners some sympathy from many within our borders. This misjudgment of the degenerate Democratic partisans cannot be understated, though for the time being our only solution against this foe is a swift strike, and to silence those voices of sympathy."
- BOV_brothers_war: "Brother's War"
+ BOV_brothers_war: "Братська війна"
  
- UKR_galicia_buffs_racist: "Galician Remnants" #Not In Game At Present 
- UKR_galicia_buffs_racist_desc: "The UPA has some Galician guys so we get buffs."
+ UKR_galicia_buffs_racist: "Галицькі залишки" #Not In Game At Present 
+ UKR_galicia_buffs_racist_desc: "В УПА є кілька галицьких хлопців, тож ми отримуємо бафи."
 
- UKR_BOV_instill_the_commandments: "Instill The Commandments" #Not In Game At Present 
+ UKR_BOV_instill_the_commandments: "Прищеплювати заповіді" #Not In Game At Present 
  
- UKR_BOV_shukhevych_dominant: "Shukhevych Dominant"
+ UKR_BOV_shukhevych_dominant: "Шухевич домінант"
  UKR_BOV_shukhevych_dominant_desc: "Roman Shukhevych, long-time commander and critic within the OUN-B, has used his allies to have a near-total influence on UPA field policy. Shukhevych's mass influence means the UPA will be disciplined and yet muted, pragmatically weighing its next moves."
 
- UKR_BOV_stetsko_dominant: "Stetsko Dominant"
+ UKR_BOV_stetsko_dominant: "Стецько Домінант"
  UKR_BOV_stetsko_dominant_desc: "Yaroslav Stetsko, the unusual Germanophile activist with the UPA, has managed to worm his way into power. With Stetsko at the lead, the OUN-B will likely be more disciplined than ever, but Stetsko's lack of natural charisma or message will limit the effectiveness of his army."
 
- UKR_BOV_klyachkivsky_dominant: "Kylachkivsky Dominant"
+ UKR_BOV_klyachkivsky_dominant: "Килачківський домінант"
  UKR_BOV_klyachkivsky_dominant_desc: "Dmytro Klyachkivsky, the most radical of the OUN-B's leading members, is unquestioned in his role as the Vozhd. As such, he will push the UPA even further than ever, but this will come at a cost."
 
- UKR_BOV_unified_OUN: "Unified OUN"
+ UKR_BOV_unified_OUN: "Єдина ОУН"
  UKR_BOV_unified_OUN_desc: "The OUN is supposed to be an outlet for Ukraine's very spirit, just as Bandera imagined it - it is supposed to speak in one voice, an outlet for a nation screaming out while so many wield all they can to suppress it. Yet even in victory, too many felt able to debase their nation through disloyalty. Under Shukhevych, these people will stay by our side, but they will be reminded that their duty is not to their vanity, but to a higher power.\n\nThey will not speak, not because they are broken, but because they see the light."
  
- UKR_BOV_Purged_OUN: "Purged OUN"
+ UKR_BOV_Purged_OUN: "Очищена ОУН"
  UKR_BOV_Purged_OUN_desc: "In the past, the OUN was filled with rot. Those who did not listen, those who did not follow, those who did not trust. A great mass of men and women who refused the call of the Vozhd.\n\n§RTheir end has come.§!"
  
  ## Ministers
 
  ### Decisions ###
 
- BOV_expand_political_commissariat: "Expand the Political Commissariat"
+ BOV_expand_political_commissariat: "Розширити політичний комісаріат"
  BOV_centralize_vozhds_authority: "Centralize the Vozhd's Authority"
  BOV_promote_dontsovite_ideology: "Promote Dontsovite Ideology"
  BOV_empower_sb_agents: "Empower SB Agents"
@@ -184,11 +184,11 @@ l_english:
  
  ### Tooltips ###
  
- BOV_reclaim_crimea_tt: "§RWe will march on §YCrimea§! and bring it back into the fold.§!"
+ BOV_reclaim_crimea_tt: "§RМи підемо на §YКрим§! і повернемо його до складу України.§!"
  BOV_bandera_triumphant_tt: "After §Rtwenty years of failure and humiliation§!, the §sOrganization of Ukrainian Nationalists§! has §Gtriumphed§!!"
  BOV_deluge_of_deceit_tt: "To Save §YUkraine§!, We Must §RPurge the§! §jRot§!"
- BOV_UKR_Morale_Collapsing_Soon_tt: "§RIf the war is not finished within 3 weeks, Ukranian morale will collapse and the war will be lost.§!"
- BOV_sway_officers_tt: "§RSwaying officers will become more costly as time goes on§!"
+ BOV_UKR_Morale_Collapsing_Soon_tt: "§RЯкщо війна не буде закінчена протягом 3 тижнів, моральний дух Українців впаде і війна буде програна.§!"
+ BOV_sway_officers_tt: "§RЗ часом вплив на офіцерів буде коштувати все дорожче і дорожче§!"
  
  ### Leader Bios ###
  
@@ -199,28 +199,28 @@ l_english:
  BOV_vozhd_commands: "Команди Вождя"
  BOV_dissent_dark: "Незгода в темряві..."
  BOV_rage_ranks: "...Та лють у війську"
- BOV_bloody_fray: "Into the Bloody Fray"
- BOV_connections_faithless: "Connections of the Faithless"
- BOV_carnage_righteous: "Carnage of the Righteous"
- BOV_charisma_treacherous: "Charisma of the Treacherous"
- BOV_patriots_poland: "Patriots in Poland"
- BOV_unleash_sluzhba_bezpeky: "Unleash the Sluzhba Bezpeky"
- BOV_galicia_forays: "Forays into Galicia"
- BOV_instill_commandments: "Instill the Commandments"
- BOV_insurgency_years: "17 Years of Insurgency"
- BOV_marshal_craftsmen: "Marshal the Craftsmen"
- BOV_carpathian_connection: "The Carpathian Connection"
- BOV_steadfast_watchers: "The Steadfast Watchers"
- BOV_blood_soil: "Blood and Soil"
- BOV_wraiths_night: "Wraiths in the Night"
- BOV_farmer_chemist: "Every Farmer a Chemist"
- BOV_odessa_operatives: "Operatives in Odesa"
- BOV_gun_down_guard: "Gun Down the Guard"
- BOV_traitors_due: "All Traitors Receive Their Due"
- BOV_nationalist_commissariat: "A Nationalistic Commissariat"
- BOV_return_roots: "Returning to our Roots"
- BOV_thunder_mountains: "Thunder from the Mountains"
- BOV_born_great_hour: "We Were Born in a Great Hour"
+ BOV_bloody_fray: "У кривавий бій"
+ BOV_connections_faithless: "Зв'язки невірних"
+ BOV_carnage_righteous: "Різанина "праведників""
+ BOV_charisma_treacherous: "Харизма зрадників"
+ BOV_patriots_poland: "Патріоти у Польщі"
+ BOV_unleash_sluzhba_bezpeky: "Випустити слугу безпеки"
+ BOV_galicia_forays: "Набіги на Галичину"
+ BOV_instill_commandments: "Прищеплювати заповіді"
+ BOV_insurgency_years: "17 років повстанського руху"
+ BOV_marshal_craftsmen: "Марш майстрів"
+ BOV_carpathian_connection: "Карпатський зв'язок"
+ BOV_steadfast_watchers: "Неухильні спостерігачі"
+ BOV_blood_soil: "Кров і ґрунт"
+ BOV_wraiths_night: "Привиди ночі"
+ BOV_farmer_chemist: "Кожен фермер є хімік"
+ BOV_odessa_operatives: "Оперативники у Одесі"
+ BOV_gun_down_guard: "Змінити охорону"
+ BOV_traitors_due: "Усі зрадники отримують по заслугах"
+ BOV_nationalist_commissariat: "Націоналістичний комісаріат"
+ BOV_return_roots: "Повернення до нашого коріння"
+ BOV_thunder_mountains: "Грім з гір"
+ BOV_born_great_hour: "Ми народилися у великий час"
 
  BOV_vozhd_commands_desc: "The story of Ukraine is one of pain, humiliation, betrayal, and destruction. Far too many have claimed the mantle to reverse this, and all have been found wanting. But this has changed, and a path to victory has revealed itself. As long as the people do not waver. As long as the people trust.\n\nThe Vozhd has made his vision of freedom clear, and his orders will return fire to the nation and strength to the populace. That freedom will be delivered, if the people will only join him in fraternity and focus. Ukraine will be whole again.\n\nTrust in the Vozhd!"
  BOV_dissent_dark_desc: "The Ukrainian is inherently intolerant of oppression, and yearns for freedom from foreign control of any sort. The Ukrainian is strong and stubborn, and the Vozhd, glorious as he is, understands and shares this valorous trait. He also understands how to emphasize it.\n\nMany prospective heroes of Ukraine have already broken their imposed chains, and fight in their own ways for emancipation. The Vozhd must, can, will rally them, show them the most worthy cause they can dedicate themselves to and, in turn, sow the seeds of general insurrection."
@@ -250,29 +250,29 @@ l_english:
  
  #Collapse Tree
  
- BOV_third_final_struggle: "The Third and Final Struggle"
- BOV_empower_peasantry: "Empower the Peasantry"
- BOV_demons_thicket: "Demons in the Thicket"
- BOV_rivne_heart: "Rivne's Metallic Heart"
- BOV_galicia_veins: "Galicia's Industrial Veins"
- BOV_oaken_ramparts: "The Oaken Ramparts"
- BOV_define_innocence: "Define Innocence"
- BOV_cauldrons_steel: "Cauldrons of Blood and Steel"
- BOV_perdition_guilty: "Perdition for the Guilty"
- BOV_second_struggle_avenged: "The Second Struggle Avenged"
- BOV_nourishing_bodies: "Nourishing Their Bodies..."
- BOV_enriching_minds: "...And Enriching Their Minds"
- BOV_swell_ironworks: "Swell of the Ironworks"
- BOV_industrial_battalions: "Form Industrial Battalions"
- BOV_rebuild_plast: "Rebuild the Plast"
- BOV_banderite_virtue: "Foster Banderite Virtue"
- BOV_souls_slag: "More Souls For The Slag"
- BOV_every_soldier: "Every Man A Soldier"
- BOV_ukrainian_purity: "Guardians of Ukrainian Purity"
- BOV_reverse_shackles: "Reverse the Shackles"
- BOV_reclaim_crimea: "Reclaim Crimea"
- BOV_bandera_triumphant: "Bandera Triumphant"
- BOV_decapitated_azhdaya: "The Decapitated Azhdaya"
+ BOV_third_final_struggle: "Третій і останній бій"
+ BOV_empower_peasantry: "Розширення прав і можливостей селян"
+ BOV_demons_thicket: "Демони у заростях"
+ BOV_rivne_heart: "Металеве серце Рівного"
+ BOV_galicia_veins: "Промислові вени Галичини"
+ BOV_oaken_ramparts: "Дубові вали"
+ BOV_define_innocence: "Визначте невинність"
+ BOV_cauldrons_steel: "Казани з крові та сталі"
+ BOV_perdition_guilty: "Загибель для винуватих"
+ BOV_second_struggle_avenged: "Друга боротьба помстилася"
+ BOV_nourishing_bodies: "Живлячи своє тіло..."
+ BOV_enriching_minds: "...і збагачуючи свій розум"
+ BOV_swell_ironworks: "Набряк металургійного заводу"
+ BOV_industrial_battalions: "Сформувати промислові батальйони"
+ BOV_rebuild_plast: "Відновити Пласт"
+ BOV_banderite_virtue: "Виховати бандерівську чесноту"
+ BOV_souls_slag: "Більше душ для шлаку"
+ BOV_every_soldier: "Кожен чоловік - солдат"
+ BOV_ukrainian_purity: "Охоронці української чистоти"
+ BOV_reverse_shackles: "Зняти кайдани"
+ BOV_reclaim_crimea: "Повернути Крим"
+ BOV_bandera_triumphant: "Тріумф Бандери"
+ BOV_decapitated_azhdaya: "Обезголовлений Змій"
 
  BOV_third_final_struggle_desc: "The end has begun. All that is left to be decided is whether we win, or we die. Blood shall be spilt in honor of Bandera's legacy, either as victors, or martyrs. No matter the cost, no matter the opponent, we have the will to fight for Ukraine. For Bandera. For all Ukrainians persecuted, killed, raped, mutilated, treated as dirt. Our struggle for freedom is coming to an end, one drenched in blood.\n\nSlava Ukraini!"
  BOV_empower_peasantry_desc: "Many years spent in the shadows, pursued by the most efficient and ruthless of killers, has made us well understand the danger of arming those who you do not trust. So it is with the national peasantry. Far too many are, or were, collaborators. Or worse.\n\nYet, we have no choice. We must have men to fill out the ranks, to fill out the line, or we shall be overrun. They will be recruited and given nominal training. Perhaps some will discover their heroism. For those who prove themselves unreliable, well, there are far more direct solutions."
@@ -300,17 +300,17 @@ l_english:
 
  ### KLYACHKIVSKY TREE ###
 
- BOV_deluge_deceit: "The Deluge of Deceit"
- BOV_gut_sb: "Gut the SB"
- BOV_emergency_restructuring: "Emergency Restructuring"
- BOV_autumn_anarchy: "The Autumn of Anarchy"
- BOV_peasant_pawns: "Our Peasant Pawns"
- BOV_polish_scourge: "The Polish Scourge"
- BOV_roaches_rats: "Roaches Among The Rats"
- BOV_shumskyi_white: "Bleed Shumskyi White"
- BOV_galvanize_galicians: "Galvanize the Galicians"
- BOV_melnyk_vermin: "Exterminate Melnyk's Vermin"
- BOV_op_golov: "Operation Golovinsky"
+ BOV_deluge_deceit: "Потоп брехні"
+ BOV_gut_sb: "Випотрошити СБ" #СБ перевірь
+ BOV_emergency_restructuring: "Аварійна реструктуризація"
+ BOV_autumn_anarchy: "Осінь анархії"
+ BOV_peasant_pawns: "Наші селяни-пішаки"
+ BOV_polish_scourge: "Польське лихо"
+ BOV_roaches_rats: "Таракани серед пацюків"
+ BOV_shumskyi_white: "Кровотеча Шумського"
+ BOV_galvanize_galicians: "Надихнути галичан"
+ BOV_melnyk_vermin: "Винищити шкідників Мельника"
+ BOV_op_golov: "Операція «Головінський»"
 
  BOV_deluge_deceit_desc: "We have been betrayed. Roman Shukhevcyh and Yaroslav Stetsko, both former Banderites, have defected to the Melnykites, exposing systemic disloyalty to the UPA, and the legacy of Stepan Bandera, who shaped this nation. Where else could there be disloyalty? The Sluzha Bezpeky? The very administration? Now, we can't trust anyone.\n\nMoving forward, we must be vigilant; it is crucial that no more defectors arise. To do this, we must thoroughly and diligently purge all disloyalty from the country. We will be vulnerable to the opposition, who will almost definitely attempt to overthrow us in our moment of weakness. This is the greatest challenge the UPA will ever face. If we prevail, our revolution will live on. Should we not, the dream of a Greater Ukraine will be extinguished."
  BOV_gut_sb_desc: "The Sluzhba Bezpeky, our secret police force, has done its part in securing the destiny of our revolution. However, in light of recent events that occurred in the UPA, we have to make some intensive changes to how it is run, and who runs it.\n\nThe SB was run by Mykola Lebed, a lapdog of Stetsko. The SB, having been run by Lebed with no oversight, has left it compromised. These two facts create an extremely concerning issue, something that can be consequential if it isn't fixed immediately."
@@ -326,18 +326,18 @@ l_english:
 
  ### SHUKHEVYCH PEACE TREE ###
 
- BOV_last_roman: "The Last Roman"
- BOV_shattered_front: "A Shattered Front"
- BOV_insuring_insurgencies: "Insuring the Insurgencies"
- BOV_line_in_sand: "A Line in the Sand"
- BOV_uneasy_truce: "An Uneasy Truce"
- BOV_ukrainian_triumvirate: "A Ukrainian Triumvirate"
- BOV_excise_excess: "Excise Extremist Excess"
- BOV_fractured_organization: "A Fractured Organization"
- BOV_humiliate_honorless: "Humiliate the Honorless"
- BOV_subdue_surpents: "Subdue the Supreme Serpents"
- BOV_emboldening_embers: "Emboldening the Embers"
- BOV_score_unsettled: "A Score Unsettled"
+ BOV_last_roman: "Останній роман"
+ BOV_shattered_front: "Зруйнований фронт"
+ BOV_insuring_insurgencies: "Страхування повстанців"
+ BOV_line_in_sand: "Лінія в піску"
+ BOV_uneasy_truce: "Складне перемир'я"
+ BOV_ukrainian_triumvirate: "Український тріумвірат"
+ BOV_excise_excess: "Екстремальний податок"
+ BOV_fractured_organization: "Розколота організація"
+ BOV_humiliate_honorless: "Принизити безчесних"
+ BOV_subdue_surpents: "Підкорити верховних змій"
+ BOV_emboldening_embers: "Розпалюючи вугілля"
+ BOV_score_unsettled: "Невирішені питання"
 
  BOV_last_roman_desc: "On many occasions the Romans of old were rent asunder by civil war, and only by the victory of one claimant was some form of order recovered. So it is today, with Shukhevych standing atop the remains of a once-unified front, and the pillars of Klyachkivsky and Stetsko torn down.\n\nThe reins of Ukraine, of the future of the state and its people, are in his hands - and he will have to act quickly to solidify his hold. For Ukraine - and for the promises of prosperity that seem so far away."
  BOV_shattered_front_desc: "It was taken for granted that the unity once achieved by Bandera would endure among all Ukrainians. That fantasy has been shattered - at staggering cost to the people as a whole. Different militias, movements, and individuals fought each other as much as they did the invaders, and so consigned all to decline.\n\nThis must be corrected. The effort required will be truly enormous, but the rifts between these groupings must be mended and a common front established. We are all, first and foremost, whatever our differences, Ukrainian."
@@ -354,13 +354,13 @@ l_english:
 
  ### STETSKO PEACE TREE ###
 
- BOV_fortune_infamous: "Fortune Favors the Infamous"
- BOV_yaroslav_wisdom: "Yaroslav's Wisdom"
- BOV_twist_dagger: "Twist the Dagger"
- BOV_streets_rage: "Streets of Rage"
- BOV_reassure_settlers: "Reassure the Settlers"
- BOV_media_blackout: "Blackout the Media"
- BOV_our_bloodlands_await: "Our Bloodlands Await"
+ BOV_fortune_infamous: "Фортуна прихильна до сумнозвісних"
+ BOV_yaroslav_wisdom: "Ярославова мудрість"
+ BOV_twist_dagger: "Повернути кинджал"
+ BOV_streets_rage: "Вулиці люті"
+ BOV_reassure_settlers: "Заспокоїти поселенців"
+ BOV_media_blackout: "Заблокувати ЗМІ"
+ BOV_our_bloodlands_await: "Наші криваві землі очікують"
 
  BOV_fortune_infamous_desc: "At every level, and at every obstacle that the Vozhd faced, people said that he could not overcome them. 'Stetsko will fail this time' was a thought widely shared. But he never did - and never will. The actions taken to secure ultimate power have inspired rage, hatred, and plotting against him, but he will solve all of these, in time.\n\nThe odds have always been against him, both internally and externally, and yet fortune's favor cannot be denied. The Vozhd will endure this trial as well. As he always has."
  BOV_yaroslav_wisdom_desc: "Whereas others in Ukraine focus on the immediate, Stetsko looks beyond. Towards history, both past and future. Emulating Yaroslav the Wise, he sees the larger picture and how, regardless of recent events, the real enemy of millenia past are the Russo-Mongolian hordes.\n\nGermany, for all its many failings, won a great victory against them for the Aryan race and for the European peoples, and this cannot be understated. Taking this wisdom, Stetsko will carefully guide the ship of state, and bring Ukraine to stand as an equal with its contemporaries."
@@ -801,17 +801,17 @@ BOV_stetsko_peace.15.d: "Lebed's face was grim, and that was never something tha
 BOV_stetsko_peace.15.a: "It will be done."
 
 ### Three Heads of the Dragon GUI ###
-UKR_BOV_three_heads_of_the_dragon_activate: "Load Three Heads of the Dragon"
-UKR_BOV_three_heads_of_the_dragon_category: "§xThree Heads§! §sof the Dragon§!"
+UKR_BOV_three_heads_of_the_dragon_activate: "Завантажити Три голови дракона"
+UKR_BOV_three_heads_of_the_dragon_category: "§xТри голови§! §sдракона§!"
 UKR_BOV_three_heads_of_the_dragon_tt: "The §jHeads of the Dragon§! will begin to fight amongst themselves."
-UKR_BOV_three_heads_of_the_dragon_dynmod: "The Three Heads of the Dragon"
+UKR_BOV_three_heads_of_the_dragon_dynmod: "Три голови дракона"
 UKR_BOV_three_heads_of_the_dragon: "The struggle between the §xThree Heads§! §sof the Dragon§! is ongoing"
 
 UKR_BOV_three_heads_of_the_dragon_gui_klyachkivsky_desc_tt: "§YDmytro Klyachkivsky§!\n------------------\n§LDmytro Klyachkivsky has been the leader of the £UKR_UPA §sUPA§! since its establishment, yet his leadership has finally come into question. Following the tenets of Dontsov, he commands his insurgents with an iron fist.\n\nPurging Ukraine of its weakness is the only way for it to become free and Klyachkivsky has no qualms with doing what must be done, consequences be damned. The Teuton menace can only be repelled by an indomitable spirit with an indomitable will, and he's the man for the task.\n\nUkraine indivisible is the only Ukraine that will withstand the storm.§!"
 UKR_BOV_three_heads_of_the_dragon_gui_stetsko_desc_tt: "§YYaroslav Stetsko§!\n------------------\n§LYaroslav Stetsko is a civilian among the £UKR_UPA §sUPA§!, a rarity, yet he's a man with potent influence and immense sway. He has built a clique around him of close allies within the £UKR_UPA §sUPA§!'s civilian arm and now he seeks to wrestle control away from the military leadership.\n\nStetsko's promises of peace and prosperity pull prospective followers towards his grasp, but one can easily wonder if he's offering far more than he can actually deliver. Regardless, he has intellect, charisma, and the ambition to see his will done.\n\nPerhaps in this era of great despair, a bold man with a vision is the beacon of light Ukraine needs?§!"
 UKR_BOV_three_heads_of_the_dragon_gui_shukhevych_desc_tt: "§YRoman Shukhevych§!\n------------------\n§LRoman Shukhevych is the £UKR_UPA §sUPA§!'s second highest ranking officer. Having taken the malcontents of the £UKR_UPA §sUPA§! under his wing, Shukhevych has established a power base in opposition to Klyachkivsky's derangement.\n\nShukhevych is a unity figure before anything else and his own political leanings make him a questionable man to rally behind, yet his disinterest in political affairs has allowed for some dissent to flow freely as a newer generation of ideologists seek to seize the reins.\n\nYet one can only wonder if a man unashamed of his bloodstained past is truly capable of rebuilding the bridges he's burnt.§!"
 
-BOV_Officer_Corps_txt: "§YThe Officer Corps§!"
+BOV_Officer_Corps_txt: "§YОфіцерський корпус§!"
 BOV_three_heads_victor_txt: "[GetBOVVictor]"
 
 BOV_Klyachkivsky_victor: "§sKlyachkivsky§! is set to maintain power."
