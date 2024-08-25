@@ -82,7 +82,7 @@ l_english:
  hog_old_guard_of_the_new_order: "Стара гвардія нового порядку" # Vasyl Kuk
  eco_puppet_woodsman: "Маріонетковий лісник" # Andriy Piasetsky
  eco_bureaucratic_organizer: "Організатор-бюрократ" # Volodymyr Horbovyi
- for_femenist_fascist: "Феміністка Фашистка" # Slava Stetsko
+ for_femenist_fascist: "Феміністка-Фашистка" # Slava Stetsko
  sec_sb_shadowmaster: "С.Б. Майстер тіней " # Mykola Lebed
 
  ### Generals ###
@@ -104,13 +104,13 @@ l_english:
  
  ### Ideas ###
 
- BOV_dispirited_domevoy_0: "Зневірений, божевільний Домевой"
- BOV_dispirited_domevoy_0_desc: "The murder of Stepan Bandera in the Sachsenhausen concentration camp was the greatest crime of the 20th century. We began our Permanent Revolution by his command, but without his enlightened wisdom, our soldiers have lost faith in our guiding principles. They are no longer guardians of their homes, but aimless, feral animals. Their hunger for vengeance is laudable, but their spirits remain husks of their former selves."
+ BOV_dispirited_domevoy_0: "Зневірений, божевільний домовик"
+ BOV_dispirited_domevoy_0_desc: "Вбивство Степана Бандери в концтаборі Заксенгаузен було найбільшим злочином 20-го століття. За його наказом ми розпочали нашу Перманентну Революцію, але без його просвітленої мудрості наші солдати втратили віру в наші керівні принципи. Вони більше не є охоронцями своїх домівок, а безцільними, здичавілими тваринами. Їх жага помсти гідна похвали, але їх дух залишається лушпинням колишніх людей."
  
- BOV_dispirited_domevoy_1: "Зневірений, божевільний Домевой"
+ BOV_dispirited_domevoy_1: "Зневірений, божевільний домовик"
  BOV_dispirited_domevoy_1_desc: "War Support: [?BOV_domevoy_war_support|=+%]\nSurrender Limit: [?BOV_domevoy_surrender_limit|=+%]\nRecruitable Population Factor: [?BOV_domevoy_manpower_modifier|=+%]\nWeekly Supply Consumption: [?BOV_domevoy_supply_consumption|=+]\n§g--------------§!\nThe murder of Stepan Bandera in the Sachsenhausen concentration camp was the greatest crime of the 20th century. We began our Permanent Revolution by his command, but without his enlightened wisdom, our soldiers have lost faith in our guiding principles. They are no longer guardians of their homes, but aimless, feral animals. Their hunger for vengeance is laudable, but their spirits remain husks of their former selves."
  
- BOV_atrophied_azhdaya: "Атрофована Аждайя"
+ BOV_atrophied_azhdaya: "Атрофована змія"
  BOV_atrophied_azhdaya_desc: "Our great war against the occupiers of Ukraine required a brokerage of power between Bandera's most loyal disciples. The compromises needed to maintain unity in our titanic struggle initially caused friction, and the bitter defeats and betrayals have bred even greater resentment. Our men look at each other with suspicion, and we no longer fight as one triumphant tide, but as three squabbling cliques. If we can't rally behind one Vozhd, then our failure is inevitable."
  
  BOV_scars_second_struggle: "Шрами другої світової війни"
