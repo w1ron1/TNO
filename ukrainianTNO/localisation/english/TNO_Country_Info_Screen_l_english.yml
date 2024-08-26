@@ -451,18 +451,18 @@ CountryInfo_tab_name_country: "Огляд країни"
  # ЗЛАТОУСТ
 
   #101
-  ZLT_CountryInfo_Folder.101: "Good Businessmen"
-  ZLT_CountryInfo_Content.1: "The Greatest Calamity"
-  ZLT_CountryInfo_Content_desc.1: "The old Soviet Union never liked good businessmen. Too much guile, too much ingenuity, too many resources, too little of the §Rslavish obedience§! craved by the government. Consequently, the opportunities for truly capable men to excel and reach beyond were nonexistent, at least, not until §Reverything fell apart§!. For millions of people, the §RGerman invasion§! was the greatest calamity possible. For §GYevgeny Dragunov§!, Russia's most gifted gunsmith, the collapse of the Soviet Union was the §Ggreatest of business opportunities§!."
-  ZLT_CountryInfo_Content.2: "Genius"
-  ZLT_CountryInfo_Content_desc.2: "Stationed in the Siberian city of §GZlatoust§!, the master armorer was sheltered comfortably from the disasters unfolding in the rest of the country. Seizing power, he turned the city into a §Gparadise§! of §Rwar profiteering§!. Legions of petty warlords desired the modern weapons produced by his genius, and §GDragunov§! was all too eager to satisfy their wishes. §GZlatoust§! stood as an §Goasis of peace and prosperity§! in §WWest Siberia§!, that wealth built off of §Rthe spoils of others' wars§!. Only the §RWest Siberian People's Republic§!, led by the same §RBolshevik§! goons who denied him his fortune, stood in his way."
+  ZLT_CountryInfo_Folder.101: "Хороший бізнесмен"
+  ZLT_CountryInfo_Content.1: "Найбільше лихо"
+  ZLT_CountryInfo_Content_desc.1: "Старий Совєтський Союз ніколи не любив хороших бізнесменів. Занадто багато хитрощів, занадто багато винахідливості, занадто багато ресурсів, занадто мало §Rрабської покори§!, якої жадала влада. Як наслідок, можливості для справді здібних людей досягти успіху і вийти за рамки не існувало, принаймні, до того часу, поки §Rвсе не розвалилося§! Для мільйонів людей §RНімецьке вторгнення§! стало найбільшим лихом з усіх можливих. Для Євґєнія Драґунова, найталановитішого російського зброяра, розпад Совєтського Союзу став §Gнайбільшою можливістю для бізнесу§!."
+  ZLT_CountryInfo_Content.2: "Геній"
+  ZLT_CountryInfo_Content_desc.2: "Перебуваючи в сибірському місті §GЗлатоусті§!, майстер-зброяр був надійно схований від катастроф, що розгорталися в решті країни. Захопивши владу, він перетворив місто на §Gрай§! §Rвоєнної наживи§!. Легіони дрібних воєначальників прагнули сучасної зброї, створеної його геніальністю, і §GДраґунов§! був надто охочий задовольнити їхні бажання. §GЗлатоуст§! стояв як §Gоазис миру і процвітання§! §WЗахідного Сибіру§!, цього багатства, побудованого на §Rздобичі чужих воєн§!. Лише Західно-Сибірська Народна Республіка на чолі з тими самими більшовицькими бандитами, які позбавили його статків, стояла на його шляху."
 
   #102
-  ZLT_CountryInfo_Folder.102: "Business"
-  ZLT_CountryInfo_Content.3: "Turmoil"
-  ZLT_CountryInfo_Content_desc.3: "Now that the §RWest Siberian People's Republic§! has collapsed into its own turmoil, the business outlook is §Gbetter than ever§!. His former rivals stand humbled, and there is even more demand for his weapons in order to fight an increasing number of §Rpetty territorial conflicts§!. With his partner-in-crime §GMikhail Kalashnikov§!, he continues to innovate new and superior designs, ensuring that Russia stays §Gfighting itself§! for as long as it takes for them to make the §Gprofit of a lifetime§!. While §GDragunov§! certainly wouldn't mind unification, any §Rchallenge§! to his enterprise must be §Rput down§! - even if it leaves Russia divided in the process."
-  ZLT_CountryInfo_Content.4: "Rivals"
-  ZLT_CountryInfo_Content_desc.4: "§GDragunov's§! rivals - dogmatic §RTyumen§!, pragmatic §RSverdlovsk§!, and fanatic §ROmsk§! - battle among themselves in an §Gouroboros of death§! that he is all too eager to feed further. But this may not last forever, and if one party gains the upper hand, it will look upon its §Ghated enemies'§! benefactor and §Gseek revenge§!. For that possibility, §GZlatoust§! must always be prepared, and §GDragunov§! will sit on a §Gdragon's treasure trove§! if he succeeds."
+  ZLT_CountryInfo_Folder.102: "Бізнес"
+  ZLT_CountryInfo_Content.3: "Безлад"
+  ZLT_CountryInfo_Content_desc.3: "Тепер, коли §RЗахідно-Сибірська Народна Республіка§! розвалилася у власному безладі, перспективи для бізнесу §Gкращі, ніж будь-коли§!. Його колишні суперники принишкли, а попит на його зброю ще більше зростає, щоб боротися зі зростаючою кількістю §Rтериторіальних конфліктів§!. Разом зі своїм співучасником §GМіхаїлом Калашніковим§! він продовжує впроваджувати нові і досконаліші розробки, гарантуючи, що Росія буде §Gборотися сама з собою§! стільки часу, скільки буде потрібно для отримання §Gприбутку на все життя§!. Хоча §GДраґунов§!, безумовно, не проти об'єднання, будь-який §Rвиклик§! його підприємству має бути §Rвідкинутий§! - навіть якщо це призведе до розколу Росії."
+  ZLT_CountryInfo_Content.4: "Конкуренти"
+  ZLT_CountryInfo_Content_desc.4: "Суперники §GДраґунова§! - догматичний §RТюмень§!, прагматичний §RСвердловськ§! і фанатичний §RОмськ§! - б'ються між собою в §Gкривавій бійні смерті§!, яку він дуже хоче підживлювати і надалі. Але це не може тривати вічно, і якщо одна зі сторін візьме гору, вона подивиться на свого §Gненависного ворожого§! благодійника і §Gпочне мститися§!. До такої можливості §GЗлатоуст§! завжди повинен бути готовим, а §GДраґунов§! у разі успіху сяде на §Gдраконову скарбницю§!"
 
  # УРАЛЬСЬКА ЛІГА
 
