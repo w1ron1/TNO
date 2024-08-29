@@ -27,7 +27,7 @@ INIT_GAMESTATE:0 "§BЗміцнюємо Единбург...§!"
 LOAD_FLAGS:0 "§BПовертаємося у село...§!"
 #"Creating Flags"
 
-CREATING_CHKSUM:0 "§BУмиротворяємо Півноч...§!"
+CREATING_CHKSUM:0 "§BУмиротворяємо Північ...§!"
 #"Creating checksum"
 
 GENERATING_GRADIENT_BORDERS:0 "§BБудуємо нове майбутнє...§!"
