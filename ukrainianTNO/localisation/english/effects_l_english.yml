@@ -109,7 +109,7 @@
  EFFECT_ADD_IDEA_NATIONAL_SPIRIT_TOOLTIP_DETAILED:0 "Отримає національний дух $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
  EFFECT_REMOVE_IDEA_NATIONAL_SPIRIT:0 "Видалить національний дух $NAME|Y$."
  EFFECT_REMOVE_IDEA:1 "Видалить ідею $NAME$."
- EFFECT_SWAP_IDEAS_REPLACE:0 Ідею $REMOVE|Y$ буде замінено на: $ADD|Y$\nЕфект від зміни:"
+ EFFECT_SWAP_IDEAS_REPLACE:0 "Ідею $REMOVE|Y$ буде замінено на: $ADD|Y$\nЕфект від зміни:"
  EFFECT_SWAP_IDEAS_REPLACE_AND_SET_DURATION:0 "Ідею $REMOVE|Y$ буде замінено на: $ADD|Y$ (тривалість нової ідеї: $DAYS|H$ дн.).\nЕфект від зміни:"
  EFFECT_SWAP_IDEAS_REPLACE_AND_CLEAR_DURATION:0 "Ідею $REMOVE|Y$ буде замінено на: $ADD|Y$, а її тривалість буде видалено.\nЕфект від зміни:"
  EFFECT_SWAP_IDEAS_REPLACE_AND_ADD_DURATION:0 "Ідею $REMOVE|Y$ буде замінено на: $ADD|Y$, а її тривалість буде змінено на $DAYS_MODIFIED|H$ дн. (до $DAYS|H$ дн.).\nЕфект від зміни:"
