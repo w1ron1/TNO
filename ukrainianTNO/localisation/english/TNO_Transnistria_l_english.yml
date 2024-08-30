@@ -4,21 +4,21 @@
 
  TNS: "Ґубернаторство Придністров'я"
  TNS_DEF: "Ґубернаторство Придністров'я"
- TNS_ADJ: "придністровськ"
+ TNS_ADJ: "Придністровськ"
 
  ## Cosmetic Tags ##
 
  TNS_German: "Територія військового командування в Придністров'ї"
  TNS_German_DEF: "Територія військового командування в Придністров'ї"
- TNS_German_ADJ: "придністровськ"
+ TNS_German_ADJ: "Придністровськ"
 
  TNS_Republic: "Придністровська Республіка"
  TNS_Republic_DEF: "Придністровська Республіка"
- TNS_Republic_ADJ: "придністровськ"
+ TNS_Republic_ADJ: "Придністровськ"
 
  TNS_Administration: "Дністровсько-Бузька адміністрація"
  TNS_Administration_DEF: "Адміністрація між Дністром і Бугом"
- TNS_Administration_ADJ: "придністровськ"
+ TNS_Administration_ADJ: "Придністровськ"
 
  ### Parties ###
 
