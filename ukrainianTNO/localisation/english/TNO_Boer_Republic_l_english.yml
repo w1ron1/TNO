@@ -1,28 +1,28 @@
 ﻿l_english:
- ### Country Names ###
- BOR: "Afrikaner Volkstaat"
- BOR_DEF: "the Afrikaner Volkstaat"
- BOR_ADJ: "Boer"
+ ### Назви держави ###
+ BOR: "Африканська національна держава"
+ BOR_DEF: "Африканська національна держава"
+ BOR_ADJ: "Бурськ"
 
- ## Cosmetic Tags ##
- BOR_Pakt: "Afrikaner Volkstaat"
- BOR_Pakt_DEF: "the Afrikaner Volkstaat"
+ ## Косметичний тег ##
+ BOR_Pakt: "Африканська національна держава"
+ BOR_Pakt_DEF: "Африканська національна держава"
 
- ### Parties ###
- BOR_conservatism_party: "KP"
- BOR_conservatism_party_long: "Konserwatiewe Party"
- BOR_paternalism_party: "NP"
- BOR_paternalism_party_long: "Nasionale Party"
- BOR_despotism_party: "NP"
- BOR_despotism_party_long: "Nasionale Party"
- BOR_fascism_party: "HNP"
- BOR_fascism_party_long: "Herstigte Nasionale Party"
- BOR_national_socialism_party: "HNP"
- BOR_national_socialism_party_long: "Herstigte Nasionale Party"
+ ### Партії ###
+ BOR_conservatism_party: "КП"
+ BOR_conservatism_party_long: "Консервативна партія"
+ BOR_paternalism_party: "НП"
+ BOR_paternalism_party_long: "Національна партія"
+ BOR_despotism_party: "НП"
+ BOR_despotism_party_long: "Національна партія"
+ BOR_fascism_party: "ШНП"
+ BOR_fascism_party_long: "Штирійська національна партія"
+ BOR_national_socialism_party: "ШНП"
+ BOR_national_socialism_party_long: "Штирійська національна партія"
 
- ### Characaters ###
- BOR_Albert_Hertzog: "Albert Hertzog"
- BOR_Rudolph_Hiemstra: "Rudolph Hiemstra"
- BOR_Boere_Volksraad: "Boere Volksraad"
- BOR_P_W_Botha: "P. W. Botha"
- BOR_Jaap_Marais: "Jaap Marais"
+ ### Персонажі ###
+ BOR_Albert_Hertzog: "Альберт Герцог"
+ BOR_Rudolph_Hiemstra: "Рудольф ГімстраЯ"
+ BOR_Boere_Volksraad: "Буре Фольксраад"
+ BOR_P_W_Botha: "П. В. Бота"
+ BOR_Jaap_Marais: "Яп Маре"
