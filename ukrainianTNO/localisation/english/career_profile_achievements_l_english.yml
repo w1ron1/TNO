@@ -250,7 +250,7 @@
  CAREER_PROFILE_COUNTRY_RAJ:0 "Британська Індія" # RAJ_UK_neutrality
  CAREER_PROFILE_COUNTRY_SOV:0 "Совєцький союз" # SOV_communism
  CAREER_PROFILE_COUNTRY_SPR:0 "Іспанія" # SPR_democratic
- CAREER_PROFILE_COUNTRY_USA:0 "Об'єднані штати" # USA_democratic
+ CAREER_PROFILE_COUNTRY_USA:0 "Сполученні штати" # USA_democratic
  CAREER_PROFILE_COUNTRY_YUG:0 "Югославія" # YUG_neutrality
 
 ### ІНШЕ ###
@@ -280,6 +280,6 @@
  DLC_DESCRIPTION_dlc038: "Напишіть нову, захопливу історію Нордичних країн, поки великі держави Європи воюють за майбутнє всього світу. Центральне місце займають нові національні фокуси для Фінляндії, Швеції, Данії та Норвеґії. Спеціалізуйте свою збройну промисловість, щоби збільшити її ефективність, а тоді продавайте цю зброю на новому міжнародному ринку."
 
  # Profile Picture Tab
- CAREER_PROFILE_TOOLTIP_BRONZE:0 "Розблоковується медаллю: $NAME|H$ бронза"
- CAREER_PROFILE_TOOLTIP_SILVER:0 "Розблоковується медаллю: $NAME|H$ срібло"
- CAREER_PROFILE_TOOLTIP_GOLD:0 "Розблоковується медаллю: $NAME|H$ золото"
+ CAREER_PROFILE_TOOLTIP_BRONZE:0 "Розблоковується медалю: $NAME|H$ бронза"
+ CAREER_PROFILE_TOOLTIP_SILVER:0 "Розблоковується медалю: $NAME|H$ срібло"
+ CAREER_PROFILE_TOOLTIP_GOLD:0 "Розблоковується медалю: $NAME|H$ золото"
