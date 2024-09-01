@@ -18,8 +18,8 @@
  BOP_ACTIVE_RANGE_DESC:0 "[root.GetActiveRangeName]"
  BOP_ACTIVE_RANGE_TOOLTIP:0 "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
 
- BOP_CHANGE_RATE_DAILY:2 "$VALUE|2%H$ у день"
- BOP_CHANGE_RATE_WEEKLY:2 "$VALUE|2%H$ у неділю"
+ BOP_CHANGE_RATE_DAILY:2 "$VALUE|2%H$ за день"
+ BOP_CHANGE_RATE_WEEKLY:2 "$VALUE|2%H$ за тиждень"
 
  BOP_RANGE_DESC:0 "$NAME|Y$\nДіапазон: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
  BOP_RANGE_MODIFIER:0 "§YМодифікатори:§!\n$DESC$"
