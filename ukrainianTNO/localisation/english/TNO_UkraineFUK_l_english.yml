@@ -716,25 +716,25 @@ FUK_election_Political_Capital_tt: ""
 FUK_election_progbar_tt: "Predicted £UKR_collab_texticon §QSpivavtor§! Seats: [?spivavtor_expected_seats|Q0]\nPredicted £UKR_culturalist_texticon §PCulturalist§! Seats: [?culturalists_expected_seats|P0]\nPredicted £UKR_populist_texticon §wUnited Struggle§! Seats: [?populists_expected_seats|w0]"
 FUK_election_progbar_delayed_tt: "Нам потрібно контролювати щонайменше 50% місць, щоб перемогти на виборах!"
 
-FUK_election_map_west: "Western Region"
+FUK_election_map_west: "Західний регіон"
 FUK_election_map_west_tt: "Western Region - [?93.seats|Y0] seats\n--------------\n\t£UKR_collab_texticon §QSpivavtor§! Popularity: [?93.coalition_pop^0|Q%]\n\t£UKR_culturalist_texticon §PCulturalist§! Popularity: [?93.coalition_pop^1|P%]\n\t£UKR_populist_texticon §wUnited Struggle§! Popularity: [?93.coalition_pop^2|w%]"
 FUK_election_map_west_spivavtor_tt: "$FUK_election_map_west_tt$"
 FUK_election_map_west_culturalist_tt: "$FUK_election_map_west_tt$"
 FUK_election_map_west_populist_tt: "$FUK_election_map_west_tt$"
-FUK_election_map_central: "Central Region"
+FUK_election_map_central: "Центральний регіон"
 FUK_election_map_central_tt: "Central Region - [?202.seats|Y0] seats\n--------------\n\t£UKR_collab_texticon §QSpivavtor§! Popularity: [?202.coalition_pop^0|Q%]\n\t£UKR_culturalist_texticon §PCulturalist§! Popularity: [?202.coalition_pop^1|P%]\n\t£UKR_populist_texticon §wUnited Struggle§! Popularity: [?202.coalition_pop^2|w%]"
 FUK_election_map_central_spivavtor_tt: "$FUK_election_map_central_tt$"
 FUK_election_map_central_culturalist_tt: "$FUK_election_map_central_tt$"
 FUK_election_map_central_populist_tt: "$FUK_election_map_central_tt$"
-FUK_election_map_east: "Eastern Region"
+FUK_election_map_east: "Східний регіон"
 FUK_election_map_east_tt: "Eastern Region - [?227.seats|Y0] seats\n--------------\n\t£UKR_collab_texticon §QSpivavtor§! Popularity: [?227.coalition_pop^0|Q%]\n\t£UKR_culturalist_texticon §PCulturalist§! Popularity: [?227.coalition_pop^1|P%]\n\t£UKR_populist_texticon §wUnited Struggle§! Popularity: [?227.coalition_pop^2|w%]"
 FUK_election_map_east_spivavtor_tt: "$FUK_election_map_east_tt$"
 FUK_election_map_east_culturalist_tt: "$FUK_election_map_east_tt$"
 FUK_election_map_east_populist_tt: "$FUK_election_map_east_tt$"
 
 # Effect Tooltips
-FUK_election_change_pop_tt: "[FUK_election_GetRegionName_target]: [FUK_election_GetCoalitionName_target] popularity [?t_val|=+%]"
-FUK_election_change_pc_tt: "£FUK_election_PoliticalCapital Political Capital: [?t_val|=+0]"
+FUK_election_change_pop_tt: "[FUK_election_GetRegionName_target]: [FUK_election_GetCoalitionName_target] популярність [?t_val|=+%]"
+FUK_election_change_pc_tt: "£FUK_election_PoliticalCapital Політичний капітал: [?t_val|=+0]"
 
 ## Decisions
 FUK_election_pc_tt: "£FUK_election_PoliticalCapital [?N|Y0]"
@@ -774,22 +774,22 @@ FUK_harass_rival_organizers_desc: ""
 FUK_clip_voter_rolls: "[FUK_election_GetActionIcon]  Змінити списки для голосування"
 FUK_clip_voter_rolls_desc: ""
 
-FUK_attack_opposition_delegate: "[FUK_election_GetActionIcon]  Attack Opposition Delegate"
+FUK_attack_opposition_delegate: "[FUK_election_GetActionIcon]  Напад на делегата опозиції"
 FUK_attack_opposition_delegate_desc: ""
 
-FUK_ballot_intimidation: "[FUK_election_GetActionIcon]  Ballot Intimidation"
+FUK_ballot_intimidation: "[FUK_election_GetActionIcon]  Залякування виборців"
 FUK_ballot_intimidation_desc: ""
 
-FUK_burn_national_socialist_papers: "[FUK_election_GetActionIcon]  Burn National Socialist Papers"
+FUK_burn_national_socialist_papers: "[FUK_election_GetActionIcon]  Спалити націонал-соціялістичні газети"
 FUK_burn_national_socialist_papers_desc: ""
 
-FUK_burn_communist_papers: "[FUK_election_GetActionIcon]  Burn Communist Papers"
+FUK_burn_communist_papers: "[FUK_election_GetActionIcon]  Спалити комуністичні газети"
 FUK_burn_communist_papers_desc: ""
 
-FUK_rural_agitation: "[FUK_election_GetActionIcon]  Rural Agitation"
+FUK_rural_agitation: "[FUK_election_GetActionIcon]  Агітація у селі"
 FUK_rural_agitation_desc: ""
 
-FUK_parade_party_militia: "[FUK_election_GetActionIcon]  Parade Party Militia"
+FUK_parade_party_militia: "[FUK_election_GetActionIcon]  Парадно-вихідна міліція"
 FUK_parade_party_militia_desc: ""
 
 # Election Ending Tooltips
