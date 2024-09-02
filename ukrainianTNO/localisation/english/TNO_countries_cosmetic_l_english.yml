@@ -183,7 +183,7 @@
  
  PRM_ANARCHY_paternalism: "Пермський антифашистський комітет"
  PRM_ANARCHY_paternalism_DEF: "Пермський антифашистський комітет"
- PRM_ANARCHY_paternalism_ADJ: "Перм"
+ PRM_ANARCHY_paternalism_ADJ: "Пермськ"
  
  SVR_ANARCHY_despotism: "Єкатіренбург"
  SVR_ANARCHY_despotism_ADJ: "Єкатіренбург"
@@ -744,8 +744,8 @@
  ANG_GER_ADJ: "Сюдвестафріканськ"
  ANG_GER_DEF: "Райхскомісаріят Зюдвестафріка"
 
- COG_GER: "Райхскомісаріят Централафріка"
- COG_GER_DEF: "Райхскомісаріят Централафріка"
+ COG_GER: "Райхскомісаріят Центральафріка"
+ COG_GER_DEF: "Райхскомісаріят Центральафріка"
  COG_GER_ADJ: "Централафріканськ"
 
  CRI_SGR: "Адміністративний округ Ґотенлянд"
