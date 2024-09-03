@@ -3,23 +3,23 @@
   GNG_achievements: "Кремнієві мрії"
   GNG_economic_gekokujo_NAME: "Економічний Гекокуджьо"
   GNG_economic_gekokujo_DESC: "Скрипуче колесо тріскається."
-  GNG_outraced_manchukuo: "§FМи перевершили £MAN_manchukuo_texticon §fІмперію Манчжурія§! економічно.§!"
+  GNG_outraced_manchukuo: "§FМи перевершили £MAN_manchukuo_texticon §fімперію Манчжурія§! економічно.§!"
 
-  GNG_the_business_of_ingenuity_achievement_NAME: "Бізнес на винахідливості"
+  GNG_the_business_of_ingenuity_achievement_NAME: "Бізнес це винахідливість"
   GNG_the_business_of_ingenuity_achievement_DESC: "«Допитливість - це ключ до творчості.»"
-  GNG_100_percent_product: "§FПродати §fідеа§!§mльний§! продукт.§!"
+  GNG_100_percent_product: "§FПродайте §fідеа§!§mльний§! продукт.§!"
 
-  GNG_asias_finest_achievement_NAME: "Найкраще в Азії"
+  GNG_asias_finest_achievement_NAME: "Найкраще у Азії"
   GNG_asias_finest_achievement_DESC: "З честю, обов'язком та вірністю."
   GNG_asias_finest_trigger_tooltip: "§FМи реформували £GNG_police_texticon §QГП§! та побороли £GNG_corruption_yen_texticon §Rкоррупцію§!.§!"
 
   GNG_silicon_dreamers_achievement_NAME: "Кремнієві мрійники"
-  GNG_silicon_dreamers_achievement_DESC: "Держава, побудована на Дусі Левової Скелі."
+  GNG_silicon_dreamers_achievement_DESC: "Держава, побудована на дусі левової скелі."
   GNG_morita_personal_victory_achievement: "§F§VМоріта Акіо§! та §CЛі Ка-сін§! реалізували свій задум.§!"
 
   GNG_dreams_deferred_NAME: "Відкладені мрії"
   GNG_dreams_deferred_DESC: "Держава, побудована на видаванні бажаного за дійсне."
-  GNG_morita_personal_failstate_achievement: "§F§VМоріті Акіо§! та §CЛі Ка-шін§! не вдалося.§!"
+  GNG_morita_personal_failstate_achievement: "§F§VМоріті Акіо§! та §CЛі Ка-шін§! не вдалося реалізувати свій задум.§!"
 
   GNG_a_worthy_heir_NAME: "Гідний спадкоємець"
   GNG_a_worthy_heir_DESC: "Чоловіча амбіція здійснилася."
@@ -27,7 +27,7 @@
 
   GNG_overshadowed_legacies_NAME: "Затьмарена спадщина"
   GNG_overshadowed_legacies_DESC: "Мацушіта лише в назві"
-  GNG_matsushita_puppet_achievement: "§F§WМацушіта Масахару§! був надто слабким і не міг торувати власний шлях.§!"
+  GNG_matsushita_puppet_achievement: "§F§WМацушіта Масахару§! був надто слабким і не міг виборити власний шлях.§!"
 
   GNG_utopian_parody_NAME: "Пародія на утопію"
   GNG_utopian_parody_DESC: "Минуле лежить бездушне і мертве."
@@ -36,12 +36,12 @@
   GNG_Utopian_Parody_tooltip_2: "§F§mІбука Масару§! мусить подивитися правді в очі.§!"
 
   GNG_happy_worlds_end_NAME: "Щасливий світ закінчився"
-  GNG_happy_worlds_end_DESC: "Хоп-хоп-степ-степ, і можна мені цей танець, це кінець світу, давай зробимо раз-два?"
+  GNG_happy_worlds_end_DESC: "Хоп-хоп-степ-степ, і можна мені станцювати танець, на кінець світу, давай зробимо на раз-два!"
   GNG_happy_worlds_end_custom_trigger: "[Get_Happy_Worlds_End_trigger]"
   GNG_Happy_Worlds_End_tooltip_1: "§F§KТі щасливі часи з §VАкіо§!...\nЯ такий радий що він повернувся.§!§!"
   GNG_Happy_Worlds_End_tooltip_2: "§F§mІбука Масару§! мусить подивитися правді в очі.§!"
 
-  GNG_rigged_from_the_start_NAME: "Змонтовано з самого початку"
+  GNG_rigged_from_the_start_NAME: "Це сцена з самого початку"
   GNG_rigged_from_the_start_DESC: "Єдиний спосіб перемогти - не грати."
   GNG_komai_manchurian_achievement: "§F§LКомаї Кенічіро§! зв'язаний своїми господарями.§!"
 
@@ -53,50 +53,50 @@
   GNG_the_curtain_falls_DESC: "Кінець казки."
   GNG_the_curtain_falls_custom_trigger: "[Get_the_curtain_falls_trigger]"
   GNG_the_curtain_falls_tooltip_1: "§xЯк же вони помилялися, бо їхні руки Мідаса зламалися перед нашими залізними серцями.§!"
-  GNG_the_curtain_falls_tooltip_2: "§FІсторія £GFX_GNG_Guangdong_texticon §SҐуандуну§! Завершилася.§!"
+  GNG_the_curtain_falls_tooltip_2: "§FІсторія £GFX_GNG_Guangdong_texticon §SҐуандуну§! завершилася.§!"
 
   ### ГИДКИЙ АМЕРИКАНЕЦЬ ###
   UGLY_achievements: "Гидкий американець"
 
   UGLY_Why_Is_Maurice_Here_NAME: "Чому Моріс тут?"
   UGLY_Why_Is_Maurice_Here_DESC: "Душа, що вижила."
-  UGLY_Why_Is_Maurice_Here_trigger: "§FЗа §MСполученні штати§§!, врятуйте §YМоріса§!.§!"
+  UGLY_Why_Is_Maurice_Here_trigger: "§FЗа §MСполученні Штати§§!, врятуйте §YМоріса§!.§!"
   
-  UGLY_Just_Here_To_Suffer_NAME: "Тут, щоб страждати"
+  UGLY_Just_Here_To_Suffer_NAME: "Ми тут, щоб страждати"
   UGLY_Just_Here_To_Suffer_DESC: "Старий жарт, нова історія."
-  UGLY_Just_Here_To_Suffer_trigger: "§FЯк §gНімеччина§!, вбийте §YМоріса§!.§!"
+  UGLY_Just_Here_To_Suffer_trigger: "§FЯк §gҐерманія§!, вбийте §YМоріса§!.§!"
   
-  UGLY_Seized_German_Servers_NAME: "Вилучення німецьких серверів"
+  UGLY_Seized_German_Servers_NAME: "Вилучення Німецьких серверів"
   UGLY_Seized_German_Servers_DESC: "Джерело: Військові."
-  UGLY_Seized_German_Servers_trigger: "§FЯк §gНімеччина§! §Fчи§! §MАмерика§!, вийграте у Ісландськіх election §Rwithout§! a coalition government.§!"
+  UGLY_Seized_German_Servers_trigger: "§FЯк §gҐерманія§! §Fчи§! §MАмерика§!, вийграйте у Ісландськіх виборах §Rбез створення§! коаліційного уряду.§!"
   
   UGLY_Impeachment_With_Honor_NAME: "Імпічмент з честю"
-  UGLY_Impeachment_With_Honor_DESC: "Нiксон менi нiколи не заважав!"
-  UGLY_Impeachment_With_Honor_trigger: "§FЯк §MСполученні штати§!, §Gпереможіть§! на мадагаскарі незважаючи на §Rімпічмент§!.§!"
+  UGLY_Impeachment_With_Honor_DESC: "Особисто мені, Нiксон нiколи не заважав!"
+  UGLY_Impeachment_With_Honor_trigger: "§FЯк §MСполученні Штати§!, §Gпереможіть§! на мадагаскарі незважаючи на §Rімпічмент§!.§!"
   
   UGLY_Imminent_Threat_Neutralized_NAME: "Неминучу загрозу нейтралізовано"
   UGLY_Imminent_Threat_Neutralized_DESC: "Ти зробив те, що повинен був зробити."
-  UGLY_Imminent_Threat_Neutralized_trigger: "§FЯк §MСполученні штати§!, зробіть §Rпереворот§! у Сурінамі.§!"
+  UGLY_Imminent_Threat_Neutralized_trigger: "§FЯк §MСполученні Штати§!, зробіть §Rпереворот§! у Сурінамі.§!"
   
   UGLY_The_Ugly_American_NAME: "Гидкий американець"
-  UGLY_The_Ugly_American_DESC: "Прям однофамілець!"
+  UGLY_The_Ugly_American_DESC: "У усій його гидкості!"
   UGLY_The_Ugly_American_trigger: "§FЗа §MСполученні штати§!, зробіть §Rмаксимальне насильство§! у Гаїті.§!"
   
   UGLY_What_The_Doctor_Ordered_NAME: "Те, що доктор прописав"
   UGLY_What_The_Doctor_Ordered_DESC: "Яблук недостатньо."
-  UGLY_What_The_Doctor_Ordered_trigger: "§FЯк §MСполученні штати§!, допоможіть §BДювальє§! Об'єдініть іспаніолу.§!"
+  UGLY_What_The_Doctor_Ordered_trigger: "§FЯк §MСполученні Штати§!, допоможіть §BДювальє§! об'єднати Еспаніньолу.§!"
   
   UGLY_New_Way_Forward_NAME: "Новий шлях уперед"
-  UGLY_New_Way_Forward_DESC: "Обдурив мене один раз - ганьба тобі."
-  UGLY_New_Way_Forward_trigger: "§FЯк §MСполученні штати§!, §Gпереможіть§! у Гаїті після того, як зобов'язалися §YЗбільшити числіність військ§!.§!"
+  UGLY_New_Way_Forward_DESC: "Обдуриш мене один раз, буде ганьба тобі."
+  UGLY_New_Way_Forward_trigger: "§FЯк §MСполученні Штати§!, §Gпереможіть§! у Гаїті після того, як зобов'язалися §Yзбільшити числіність військ§!.§!"
   
   UGLY_Betting_The_Farm_NAME: "Ставлю на ферми"
-  UGLY_Betting_The_Farm_DESC: "Добрі наміри чи власні інтереси?"
-  UGLY_Betting_The_Farm_trigger: "§FЯк §MСполученні штатит§!, §Yзрадьте§! §OДомініканським революціонерам§! та §xпройте§! їм.§!"
+  UGLY_Betting_The_Farm_DESC: "Добрий намір чи власний інтерес?"
+  UGLY_Betting_The_Farm_trigger: "§FЯк §MСполученні Штати§!, §Yзрадьте§! §OДомініканським революціонерам§!.§!"
   
   UGLY_Hart_Attack_NAME: "Атака Харта"
   UGLY_Hart_Attack_DESC: "І скільки ми за це платимо?"
-  UGLY_Hart_Attack_trigger: "§FЯк §MХарт§!, Намагайтесь §RМаксімально знищити§! міста.§!"
+  UGLY_Hart_Attack_trigger: "§FЯк §MХарт§!, намагайтеся §Rмаксімально знищити§! міста.§!"
   
   UGLY_Hart_Breaker_NAME: "Інфаркт Харта"
   UGLY_Hart_Breaker_DESC: "Тримайся."
@@ -104,7 +104,7 @@
   
   UGLY_Chep_Off_The_Old_Block_NAME: "Чепуха за межами старого кварталу"
   UGLY_Chep_Off_The_Old_Block_DESC: "Знову те ж саме? Як чудово!"
-  UGLY_Chep_Off_The_Old_Block_trigger: "§FЯк §mЧеп§!, §GЗбережи§! §YURI§! повністю.§!"
+  UGLY_Chep_Off_The_Old_Block_trigger: "§FЯк §mЧеп§!, §Yзбережіть§! §YURI§! повністю.§!"
   
   UGLY_Oh_Darling_NAME: "Ох! Любий."
   UGLY_Oh_Darling_DESC: "Повірте мені, коли я вам кажу."
@@ -112,4 +112,4 @@
   
   UGLY_Only_Interests_NAME: "Лише інтереси"
   UGLY_Only_Interests_DESC: "Роки оновлення."
-  UGLY_Only_Interests_trigger: "§FЯк §MХарт§!, §GЗахопіть Гаваї§! з політикою §YКіссінджера§!§!"
+  UGLY_Only_Interests_trigger: "§FЯк §MХарт§!, §Gзахопить Гаваї§! з політикою §YКіссінджера§!§!"
