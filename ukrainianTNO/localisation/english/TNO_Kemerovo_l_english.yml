@@ -1,82 +1,82 @@
 ﻿l_english:
- ####################################################################################
- ## ██████╗ ██╗   ██╗██████╗ ██╗██╗  ██╗    ██╗███╗   ███╗██████╗ ███████╗██████╗  ##
- ## ██╔══██╗██║   ██║██╔══██╗██║██║ ██╔╝    ██║████╗ ████║██╔══██╗██╔════╝██╔══██╗ ##
- ## ██████╔╝██║   ██║██████╔╝██║█████╔╝     ██║██╔████╔██║██████╔╝█████╗  ██████╔╝ ##
- ## ██╔══██╗██║   ██║██╔══██╗██║██╔═██╗     ██║██║╚██╔╝██║██╔═══╝ ██╔══╝  ██╔══██╗ ##
- ## ██║  ██║╚██████╔╝██║  ██║██║██║  ██╗    ██║██║ ╚═╝ ██║██║     ███████╗██║  ██║ ##
- ## ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝ ##
- ####################################################################################
+ ##################################################################################################################################
+ ## ██╗███╗   ███╗████████╗███████╗██████╗  █████╗ ████████╗ ██████╗ ██████╗     ██████╗ ██╗ ██████╗ ██████╗ ██   ████╗██╗  ██╗  ##
+ ## ██║████╗ ████║██╔═══██║██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██║██╔═══██╗██╔══██╗██  ██╔██║██║ ██╔╝  ##
+ ## ██║██╔████╔██║██║   ██║█████╗  ██████╔╝███████║   ██║   ██║   ██║██████╔╝    ██████╔╝█████║   ██║██████╔╝██╔██╔╝██║█████╔╝   ##
+ ## ██║██║╚██╔╝██║██║   ██║██╔══╝  ██╔═══╝ ██╔══██║   ██║   ██║   ██║██╔═══╝     ██╔═══╝ ██╔██║   ██║██╔═══╝ ████╔╝ ██║██╔═██╗   ##
+ ## ██║██║ ╚═╝ ██║██║   ██║███████╗██║     ██║  ██║   ██║   ╚██████╔╝██║         ██║     ██║╚██████╔╝██║     ██╔═╝  ██║██║  ██╗  ##
+ ## ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝         ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝    ╚═╝╚═╝  ╚═╝  ##
+ ##################################################################################################################################
  
- ### Country Names ###
- KEM: "Kemerovo"
- KEM_DEF: "Kemerovo"
- KEM_paternalism: "Principality of Kemerovo"
- KEM_paternalism_DEF: "the Principality of Kemerovo"
- KEM_despotism: "Principality of Kemerovo"
- KEM_despotism_DEF: "the Principality of Kemerovo"
- KEM_ADJ: "Kemerovo"
+ ### Назви держав ###
+ KEM: "Кемерово"
+ KEM_DEF: "Кемерово"
+ KEM_paternalism: "Князівство Кемерово"
+ KEM_paternalism_DEF: "Князівство Кемерово"
+ KEM_despotism: "Князівство Кемерово"
+ KEM_despotism_DEF: "Князівство Кемерово"
+ KEM_ADJ: "Кемеровськ"
 
- ### Party Names ###
- KEM_communist_party: "VKP(b)"
- KEM_communist_party_long: "Vsesoyuznaya Kommunisticheskaya Partiya (Bolshevikov)"
- KEM_socialist_party: "ND"
- KEM_socialist_party_long: "Novgorodskoye Dvizheniye"
- KEM_progressivism_party: "RNP"
- KEM_progressivism_party_long: "Rossiyskaya Narodnaya Partiya"
- KEM_liberalism_party: "DPS"
- KEM_liberalism_party_long: "Demokraticheskaya Partiya Sibiri"
- KEM_conservatism_party: "RPP"
- KEM_conservatism_party_long: "Rossiyskaya Promyshlemnaya Partiya"
- KEM_paternalism_party: "Zemsky Sobor"
- KEM_paternalism_party_long: "Zemsky Sobor"
- KEM_despotism_party: "Zemsky Sobor"
- KEM_despotism_party_long: "Zemsky Sobor"
- KEM_fascism_party: "RFP"
- KEM_fascism_party_long: "Rossiyskaya Fashistskaya Partiya"
- KEM_national_socialism_party: "RFP"
- KEM_national_socialism_party_long: "Rossiyskaya Fashistskaya Partiya"
- KEM_ultranationalism_party: "ChL"
- KEM_ultranationalism_party_long: "Chernaya Liga"
+ ### Назви партій ###
+ KEM_communist_party: "ВКП(б)"
+ KEM_communist_party_long: "Всєсоюзная комуністічєская партія (більшовиків)"
+ KEM_socialist_party: "НД"
+ KEM_socialist_party_long: "Новґородскоє двіженіє"
+ KEM_progressivism_party: "РНП"
+ KEM_progressivism_party_long: "Російская народная партія"
+ KEM_liberalism_party: "ДПС"
+ KEM_liberalism_party_long: "Дємократіческая партія Сібірі"
+ KEM_conservatism_party: "РПП"
+ KEM_conservatism_party_long: "Російськая промишлєная партія"
+ KEM_paternalism_party: "Зємский собор"
+ KEM_paternalism_party_long: "Зємский собор"
+ KEM_despotism_party: "Зємский собор"
+ KEM_despotism_party_long: "Зємский собор"
+ KEM_fascism_party: "РФП"
+ KEM_fascism_party_long: "Російская фашистская партія"
+ KEM_national_socialism_party: "РФП"
+ KEM_national_socialism_party_long: "Російская фашистская партія"
+ KEM_ultranationalism_party: "ЧЛ"
+ KEM_ultranationalism_party_long: "Чорна Ліга"
  
- ### Leader Descriptions ###
- POLITICS_RURIK_II_DESC: "Major General Nikolay Ivanovich Krylov was once an officer of the Red Army, serving as Chief of Staff for the 62nd Army in battles like Sevastopol and Stalingrad. But as the Great Patriotic War became nothing but great defeats for the Soviets, Krylov was wounded both inside and out, and the stress of constant retreats led to a nervous breakdown. However, the 62nd was unaffected by his affliction, since it had already disintegrated. He and his small band of officers without an army joined the eastward wave of refugees pouring over the Urals, eventually finding his superiors in the Central Siberian Republic. Sent by the Republic to deal with the Anarchist insurgency of the Siberian Black Army, Krylov suffered a humiliating defeat and later faced betrayal by one of his trusted subordinates, General Andreev in Krasnoyarsk, and was forced to retreat his forces in Kemerovo. There, he fell deeper into his stupor, drinking or smoking whatever he could get his hands on to dull his pain and guilt.\n\nBut one day, it suddenly changed. After an evening locked naked in his room with nothing but a carton of cigarettes, three bottles of vodka, and a book on Orthodox mysticism, he walked out proclaiming that he had been ordered to reunite Russia. By whom? He declines to say. His officer comrades were worried for his mental state, a fear exacerbated when Krylov crowned himself as 'Rurik II, Emperor and Autocrat of all the Rus.' However, their concerns were drowned out by a wave of support from soldiers and mercenaries, drawn by promises of conquest and glory.\n\nRurik preaches an eclectic mix of Russian traditionalism and Soviet militarism. He claims to be the heir to the Tsarist tradition, yet despises the Romanovs; he talks about the virtue of Vladimir the Great, but is atheist and dismisses priests as "charlatans and wizards". His motley ideology is represented by his supporters, a mix of reactionaries, Soviet veterans, and soldiers of fortune. Some in his officer corps suspect that the whole "Rurik" act is simply a charade to rally the peasants' support; if it is, he is doing an exceptionally good job at staying in character."
+ ### Опис лідерів ###
+ POLITICS_RURIK_II_DESC: "Генерал-майор Ніколай Іванович Крилов колись був офіцером Червоної армії, служив начальником штабу 62-ї армії, брав участь у таких битвах, як Севастопольська та Сталінградська. Але оскільки Велика Вітчизняна війна стала для совєтів нічим іншим, як великими поразками, Крилов був поранений як зсередини, так і ззовні, а стрес від постійних відступів призвів до нервового зриву. Втім, 62-га дивізія не була зачеплена його недугою, оскільки вона вже розпалася. Він і його невелика група офіцерів без армії приєдналися до східної хвилі біженців, що линула через Урал, і врешті-решт знайшли своє командування в Центрально-Сибірській республіці. Посланий республікою для боротьби з анархістським повстанським рухом Сибірської чорної армії, Крилов зазнав принизливої поразки, а згодом зіткнувся зі зрадою одного зі своїх довірених підлеглих, генерала Андрєєва в Красноярську, і був змушений відступити зі своїми військами в Кемерово. Там він ще більше впав у ступор, пив і курив усе, що потрапляло до рук, щоб притупити біль і провину. Але одного дня все раптово змінилося. Після вечора, проведеного голим, замкненим у своїй кімнаті, з пачкою цигарок, трьома пляшками горілки і книжкою з православної містики, він вийшов і заявив, що отримав наказ возз'єднати росію. Від кого? Він відмовляється відповідати. Його товариші-офіцери хвилювалися за його психічний стан, і цей страх посилився, коли Крилов коронував себе як "Рюрик II, імператор і самодержець всієї Русі". Однак їхні побоювання були заглушені хвилею підтримки з боку солдатів і найманців, приваблених обіцянками завоювань і слави.\n\nРюрик проповідує еклектичну суміш російського традиціоналізму і совєцького мілітаризму. Він стверджує, що є спадкоємцем царської традиції, але зневажає Романових; він говорить про чесноти Володимира Великого, але є атеїстом і відкидає священиків як «шарлатанів і чаклунів». Його строката ідеологія представлена його прихильниками, сумішшю реакціонерів, совєцьких ветеранів і солдатів удачі. Дехто з його офіцерського корпусу підозрює, що вся ця історія з «Рюриком» - просто шарада, щоб заручитися підтримкою селян; якщо це так, то йому дуже добре вдається залишатися в образі."
 
- POLITICS_KING_YURIY_DESC: "If you had told Yuriy Nikolayevich Krylov two decades ago that he would one day stand at the helm of a rejuvenated Russian monarchy, he would've no doubt been in a state of sheer disbelief. Yet, in a truly bizarre series of events, Yuriy has risen to become the undisputed successor to his father's almost heroic legacy.\n\nAs a young man, Yuriy took after his father and joined the army of the Central Siberian Republic as an officer, where he distinguished himself as an energetic and capable leader. During his time on the front, he saw firsthand the devastating effects of war upon the poor and disadvantaged of Russia. Although he continued to rise through the ranks, Yuriy became frustrated with his inability to make a real difference in the name of the people.\n\nYuriy's life would soon become even more hectic when his father suffered what appeared to be a severe mental break. When he emerged again as Rurik II, he was quick to establish his progeny as nobility in his self-proclaimed kingdom. After a short period of confusion and concern for his father, Prince Yuriy eventually came to see the kingdom as a chance to make his ideals a reality. The path towards the crown was fraught with political intrigue, but despite these challenges Yuriy would eventually be named as Rurik II's rightful successor.\n\nNow christened as Rurik III in honor of his late father, the King intends to make good on his lofty goals. Under his reign, Rurik III intends to lay the foundations of a more fair and just kingdom, one which looks to the rights of its people first and foremost."
+ POLITICS_KING_YURIY_DESC: "Якби ви сказали Юрію Ніколаєвічу Крилову два десятиліття тому, що одного дня він стане на чолі оновленої російської монархії, він, без сумніву, був би в стані цілковитої невіри. Проте, завдяки справді химерному збігу обставин, Юрій став беззаперечним спадкоємцем майже героїчної спадщини свого батька.\n\nУ молодості Юрій пішов за батьком і вступив офіцером до армії Центрально-Сибірської республіки, де відзначився як енергійний і здібний лідер. Під час перебування на фронті він на власні очі побачив руйнівні наслідки війни для бідних і знедолених верств населення росії. Хоча він продовжував просуватися по службі, Юрій розчарувався через свою нездатність реально змінити ситуацію в ім'я народу.\n\nЖиття Юрія незабаром стало ще більш неспокійним, коли його батько переніс, як виявилося, важкий психічний розлад. Коли він знову з'явився на світ як Рюрик II, він поспішив зробити своїх нащадків знаттю у своєму самопроголошеному королівстві. Після короткого періоду розгубленості та турботи про батька, князь Юрій врешті-решт почав розглядати королівство як шанс втілити свої ідеали в реальність. Шлях до корони був сповнений політичних інтриг, але, незважаючи на ці виклики, Юрій врешті-решт буде названий законним наступником Рюрика II.\n\nТепер охрещений як Рюрик III на честь свого покійного батька, король має намір досягти своїх високих цілей. Під час свого правління Рюрик III має намір закласти підвалини більш справедливого і чесного королівства, яке в першу чергу дбає про права свого народу."
 
- POLITICS_QUEEN_LYDIA_DESC: "From the chaos and confusion of the Russian warlord era arises Rogneda I, the Wolf Queen of Rus'. The woman formerly known as Lydia Krylova's rise to power was nothing short of meteoric, and she now stands tall as the most powerful authority of the resurrected Russian nation.\n\nIt was not always destined to be like this. Once upon a time, Lydia was a volunteer nurse helping with the rear echelon of the Central Siberian Republic's military. What she witnessed during her time shaped her character dramatically: countless men and women putting their lives on the line for causes they did not fully understand, without any indication that their sacrifices were making a difference. Russia was dying, and this could not be more tangible to Lydia, who was able to witness the effects of these death throes with her own eyes.\n\nWhen her father emerged from his mental lapse as Rurik II, Lydia immediately saw this as her opportunity to turn the tide. As the Kingdom's power continued to grow, so too did the Wolf Princess'. Eventually, she was forced to compete with her own brother for the throne, but her passionate and ruthless drive saw Lydia through to take his place as Rurik II's rightful heir.\n\nNewly reborn as Queen Rogneda, she intends to restore strength and honor to the wounded Russian nation, no matter what the cost may be."
+ POLITICS_QUEEN_LYDIA_DESC: "З хаосу та плутанини епохи російських воєначальників постає Ронегда I, Вовча королева Русі. Зліт до влади жінки, раніше відомої як Лідія Крилова, був не що інше, як метеоритний, і тепер вона стоїть на чолі наймогутнішої влади відродженої російської нації.\n\nНе завжди їй судилося бути такою. Колись Лідія була медсестрою-добровольцем, яка допомагала тиловому ешелону армії Центрально-Сибірської республіки. Те, що вона побачила за цей час, кардинально змінило її характер: незліченна кількість чоловіків і жінок ризикували своїм життям заради причин, які вони не розуміли до кінця, без жодних ознак того, що їхні жертви щось змінюють на краще. росія гинула, і це не могло бути більш відчутним для Лідії, яка могла бачити наслідки цих передсмертних мук на власні очі.\n\nКоли її батько вийшов зі стану божевілля під ім'ям Рюрика II, Лідія одразу ж побачила в цьому можливість переломити хід подій. У міру того, як влада королівства продовжувала зростати, зростала і влада Вовчої княгині. Зрештою, вона була змушена змагатися з власним братом за трон, але її пристрасний і безжальний порив допоміг Лідії посісти місце законної спадкоємиці Рюрика II.\n\nЗнову відродившись як королева Ронегда, вона має намір відновити силу і честь пораненої російської нації, чого б це не коштувало."
 
- ### Character Localisation ###
- KEM_Rurik_II: "Rurik II"
- KEM_Rurik_III: "Rurik III"
- KEM_Ronegda_I: "Ronegda I"
+ ### Переклад песонажів ###
+ KEM_Rurik_II: "Рюрик II"
+ KEM_Rurik_III: "Рюрик III"
+ KEM_Ronegda_I: "Ронегда I"
 
  ### Ministers ###
- KEM_Yuriy_Krylov: "Yuriy Krylov"
- KEM_Yuriy_Krylov_hog_desc: "§YCrown Prince\nSocial Nationalism§!"
+ KEM_Yuriy_Krylov: "Юрій Крилов"
+ KEM_Yuriy_Krylov_hog_desc: "§YСпадкоємний принц\nСоціял-націоналізм§!"
  
- KEM_Lydia_Krylova: "Lydia Krylova"
- KEM_Lydia_Krylova_hog_desc: "§YCrown Princess\nAristocratic Conservatism§!"
+ KEM_Lydia_Krylova: "Лідія Крилова"
+ KEM_Lydia_Krylova_hog_desc: "§YСпадкоємна принцеса\nАристократичний консерватизм§!"
  
- KEM_Pyotr_Baranovsky: "Pyotr Baranovsky"
- KEM_Pyotr_Baranovsky_for_desc: "§YForeign Emissary\nPopular Front§!" # Uhhh why are they popular front? lmao?
+ KEM_Pyotr_Baranovsky: "Пьотр Барановскій"
+ KEM_Pyotr_Baranovsky_for_desc: "§YІноземний посол\nНародний фронт§!" # Чому вони популярний фронт?
  
- KEM_Lev_Voznesensky: "Lev Voznesensky"
- KEM_Lev_Voznesensky_eco_desc: "§YRoyal Minister of Finance\nPopular Front§!"
+ KEM_Lev_Voznesensky: "Лєв Вознєсєнській"
+ KEM_Lev_Voznesensky_eco_desc: "§YКоролівський міністр фінансів\nНародний фронт§!"
  
- KEM_Ivan_Yakovlev: "Ivan Yakovlev"
- KEM_Ivan_Yakovlev_sec_desc: "§YSecurity Minister\nAristocratic Conservatism§!"
+ KEM_Ivan_Yakovlev: "Іван Яковлєв"
+ KEM_Ivan_Yakovlev_sec_desc: "§YМіністр безпеки\nАристократичний консерватизм§!"
  
- ### Generals ###
- KEM_Boris_Krylov: "Boris Krylov"
- KEM_Alexander_Kazartsev: "Alexander Kazartsev"
- KEM_Alexander_Shevtsov: "Alexander Shevtsov"
- KEM_Yakov_Bronin_Liechtenstein: "Yakov Bronin-Liechtenstein"
- KEM_Nikolay_Nikitin: "Nikolay Nikitin"
- KEM_Aleksander_Afanasyev: "Aleksander Afanasyev"
- KEM_Anna_Kostur: "Anna Kotsur"
+ ### Генерали ###
+ KEM_Boris_Krylov: "Боріс Крилов"
+ KEM_Alexander_Kazartsev: "Алєксандр Казарцєв"
+ KEM_Alexander_Shevtsov: "Алєксандр Шевцов"
+ KEM_Yakov_Bronin_Liechtenstein: "Яков Бронін-Ліхтенштейн"
+ KEM_Nikolay_Nikitin: "Нікалай Нікітін"
+ KEM_Aleksander_Afanasyev: "Алєксандр Афанасьєв"
+ KEM_Anna_Kostur: "Анна Котсур"
  
- ### Ideas ###
+ ### Ідеї ###
  KEM_esoteric_kingdom: "Esoteric Kingdom"
  KEM_esoteric_kingdom_desc: "His Majesty Rurik II is a man burning with desire to see all traitors and all despoilers of Holy Russia perish. Normally, this would be the kind of man our shattered land would need, but his mental state has led to him developing some... interesting ideas as to how the Restoration of the Motherland should proceed. Some may find hope and inspiration in his drive, true, but most of his neighbors would only see a madman."
 
