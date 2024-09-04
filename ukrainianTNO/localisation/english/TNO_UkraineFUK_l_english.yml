@@ -744,13 +744,13 @@ FUK_election_pc_pp_tt_blocked: "£FUK_election_PoliticalCapital [?N|R0] £politi
 FUK_election_pc_cp_tt: "£FUK_election_PoliticalCapital [?N|Y0] £command_power [?M|Y0]"
 FUK_election_pc_cp_tt_blocked: "£FUK_election_PoliticalCapital [?N|R0] £command_power [?M|R0]"
 
-FUK_election_test: "£UKR_collab_texticon §QSpivavtor§!\n£UKR_culturalist_texticon §PCulturalists§!\n£UKR_populist_texticon §wUnited Struggle§!"
+FUK_election_test: "£UKR_collab_texticon §QСпівавтори§!\n£UKR_culturalist_texticon §PКультуралісти§!\n£UKR_populist_texticon §wСпільна боротьба§!"
 
 FUK_election_spivavtor_campaign: "£UKR_collab_texticon §QSpivavtor§! Campaign!"
 FUK_election_culturalist_campaign: "£UKR_culturalist_texticon §PCulturalist§! Campaign!"
 FUK_election_populist_campaign: "£UKR_populist_texticon §wUnited Struggle§! Campaign!"
 
-FUK_election_actions_shuffle_tt: "Available actions will change..."
+FUK_election_actions_shuffle_tt: "Доступні дії зміняться..."
 
 FUK_election_timer: "Вибори завершені"
 
