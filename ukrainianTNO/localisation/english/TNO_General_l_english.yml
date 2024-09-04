@@ -9,13 +9,13 @@ LOADING_GUI:0 "§BВбиваємо Домвіля...§!"
 LOADING_MAP_SPRITES:0 "§BСтавимо черевики на землю...§!"
 #"Loading sprites"
 
-LOADING_DATABASES:0 "§BРобимо облогу острову Мен...§!"
+LOADING_DATABASES:0 "§BБеремо в облогу острів Мен...§!"
 #"Loading databases"
 
 INIT_MAP_LOGIC:0 "§BПеретинаємо Атлантику...§!"
 #"Initialising map logic"
 
-LOADING_HISTORY:0 "§BЗаймаємося контрабандними поставками...§!"
+LOADING_HISTORY:0 "§BПоставляємо контрабанду...§!"
 #"Loading History"
 
 LOAD_EVENTS:0 "§BВикоріннюємо опору...§!"
