@@ -106,11 +106,11 @@
  SAF_ANC_power_increase:0 "§Gзросте§!"
  SAF_ANC_power_decrease:0 "§Rвпаде§!"
  SAF_ANC_power_unchanged:0 "§Yзалишиться незмінною§!"
- SAF_ANC_power_change_tt:0 "Через це влада §АНК§! [GetANCPowerIncreaseDecrease] на [?SAF_ANC_power_temp|%Y]."
+ SAF_ANC_power_change_tt:0 "Через це влада §KАНК§! [GetANCPowerIncreaseDecrease] на [?SAF_ANC_power_temp|%Y]."
  SAF_Boers_power_increase:0 "§Gзросте§!"
  SAF_Boers_power_decrease:0 "§Rвпаде§!"
  SAF_Boers_power_unchanged:0 "§Yзалишиться незмінною§!"
- SAF_Boers_power_change_tt:0 "Через це сила §OБурів§! [GetBoersPowerIncreaseDecrease] на [?SAF_Boers_power_temp|%Y].."
+ SAF_Boers_power_change_tt:0 "Через це сила §OБурів§! [GetBoersPowerIncreaseDecrease] на [?SAF_Boers_power_temp|%Y]."
  
  SAF_GUI_government_title:0 "§WУряд§!"
  SAF_GUI_ANC_title:0 "§KАНК§!"
