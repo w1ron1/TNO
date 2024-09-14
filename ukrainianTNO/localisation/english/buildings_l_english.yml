@@ -42,7 +42,7 @@
  thermoelectric_plant_plural:0 "Теплоелектростанції"
  thermoelectric_plant_desc:0 "Ця будівля забезпечує державу £power_texticon  §Yелектроенергією§!\n\nВиробництво електроенергії:"
  nuclear_reactor:0 "Ядерний реактор"
- nuclear_reactor_plural:0 ""Ядерні реактори"
+ nuclear_reactor_plural:0 "Ядерні реактори"
  nuclear_reactor_desc:0 "Ця будівля забезпечує державу великою кількістю £power_texticon  §Yелектроенергії§!\n\nВиробництво електроенергії:"
  enrichment_plant:0 "Збагачувальний комбінат"
  enrichment_plant_plural:0 "Збагачувальні комбінати"
