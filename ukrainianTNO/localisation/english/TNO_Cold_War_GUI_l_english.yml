@@ -29,8 +29,8 @@ Cold_War_GUI_Spheres_Button_tt: "Сфери"
 Cold_War_GUI_Nukes_Button_tt: "Ядерна зброя"
 
 ## Power Projection
-Cold_War_GUI_PowerProjection_AddSeaZone_tt: "Ми §Gотримаємо§! можливість проектувати владу в §Y[Cold_War_GUI_GetSeaZone_Name]§!."
-Cold_War_GUI_PowerProjection_RemoveSeaZone_tt: "ми §Rвтратимо§! можливість проектувати владу в §Y[Cold_War_GUI_GetSeaZone_Name]§!."
+Cold_War_GUI_PowerProjection_AddSeaZone_tt: "Ми §Gотримаємо§! можливість проєктувати владу в §Y[Cold_War_GUI_GetSeaZone_Name]§!."
+Cold_War_GUI_PowerProjection_RemoveSeaZone_tt: "ми §Rвтратимо§! можливість проєктувати владу в §Y[Cold_War_GUI_GetSeaZone_Name]§!."
 
 Cold_War_GUI_GetSeaZone_Name_EastPacific: "Східна частина Тихого океану"
 Cold_War_GUI_GetSeaZone_Name_WestPacific: "Західна частина Тихого океану"
@@ -40,13 +40,13 @@ Cold_War_GUI_GetSeaZone_Name_NorthSea: "Північне море"
 Cold_War_GUI_GetSeaZone_Name_Mediterranean: "Середземномор'я"
 Cold_War_GUI_GetSeaZone_Name_IndianOcean: "Індійський океан"
 
-Cold_War_GUI_PowerProjection_Info_tt: "§F§WПроекція сили§! це міра здатності наддержави проектувати силу по всьому світу за допомогою своїх військових і баз. Це вимірюється її доступом до різних §YМорських зон§!, які вона може втратити або отримати в залежності від результатів міжнародних конфліктів, в яких вона бере участь.[Cold_War_GUI_PowerProjection_Bonuses]"
+Cold_War_GUI_PowerProjection_Info_tt: "§F§WПроекція сили§! це міра здатності наддержави проєктувати силу по всьому світу за допомогою своїх військових і баз. Це вимірюється її доступом до різних §YМорських зон§!, які вона може втратити або отримати в залежності від результатів міжнародних конфліктів, в яких вона бере участь.[Cold_War_GUI_PowerProjection_Bonuses]"
 Cold_War_GUI_PowerProjection_Bonuses_tt: "\n\nНаразі ми отримуємо[?power_projection_pp_effect|=+2] Політичної влади та [?Cold_War_GUI_Selected_Superpower.Score_Diplomacy^7|G0] Оцінки холодної війни від нашої здатності §WПрогнозувати владу§!§!"
 
 Cold_War_GUI_PowerProjection_InfoDelayed_tt: "[Cold_War_GUI_PowerProjection_InfoDelayed]"
 Cold_War_GUI_PowerProjection_InfoDelayed_info_tt: "§FНаш статус доступу до §YМорської зони§!:§!\n  §YСхідна частина Тихого океану:§! [Cold_War_GUI_GetSeaZone_Status_0]\n  §YЗахідна частина Тихого океану:§! [Cold_War_GUI_GetSeaZone_Status_1]\n  §YПівденну Атлантику:§! [Cold_War_GUI_GetSeaZone_Status_2]\n  §YПівнічну Атлантику:§! [Cold_War_GUI_GetSeaZone_Status_3]\n  §YПівнічне море:§! [Cold_War_GUI_GetSeaZone_Status_4]\n  §YСередземномор'я:§! [Cold_War_GUI_GetSeaZone_Status_5]\n  §YІндійський океан:§! [Cold_War_GUI_GetSeaZone_Status_6]"
 
-Cold_War_GUI_PowerProjection_Access_tt: "§W[THIS.GetNameWithFlag]§! §Fмає можливість проектування ввімкненої сили:§!§Y[Cold_War_GUI_GetSeaZone_Access_0][Cold_War_GUI_GetSeaZone_Access_1][Cold_War_GUI_GetSeaZone_Access_2][Cold_War_GUI_GetSeaZone_Access_3][Cold_War_GUI_GetSeaZone_Access_4][Cold_War_GUI_GetSeaZone_Access_5][Cold_War_GUI_GetSeaZone_Access_6]§!"
+Cold_War_GUI_PowerProjection_Access_tt: "§W[THIS.GetNameWithFlag]§! §Fмає можливість проєктування ввімкненої сили:§!§Y[Cold_War_GUI_GetSeaZone_Access_0][Cold_War_GUI_GetSeaZone_Access_1][Cold_War_GUI_GetSeaZone_Access_2][Cold_War_GUI_GetSeaZone_Access_3][Cold_War_GUI_GetSeaZone_Access_4][Cold_War_GUI_GetSeaZone_Access_5][Cold_War_GUI_GetSeaZone_Access_6]§!"
 
 Cold_War_GUI_GetSeaZone_Access_EastPacific_tt: "\n Східна частина Тихого океану"
 Cold_War_GUI_GetSeaZone_Access_WestPacific_tt: "\n  Західна частина Тихого океану"
@@ -59,13 +59,13 @@ Cold_War_GUI_GetSeaZone_Access_IndianOcean_tt: "\n  Індійський оке�
 Cold_War_GUI_GetSeaZone_Status_Yes_tt: "§GТак§!"
 Cold_War_GUI_GetSeaZone_Status_No_tt: "§RНі§!"
 
-has_access_to_seazone_east_pacific_tt: "Маємо можливість проектувати силу на §YСхідну частину Тихого океану§!."
-has_access_to_seazone_west_pacific_tt: "Маємо можливість проектувати силу на §YЗахідну частину Тихого океану§!."
-has_access_to_seazone_south_atlantic_tt: "Маємо можливість проектувати силу на §YПівденну Атлантику§!."
-has_access_to_seazone_north_atlantic_tt: "Маємо можливість проектувати силу на §YПівнічну Атлантику§!."
-has_access_to_seazone_north_sea_tt: "Маємо можливість проектувати силу на §YПівнічне море§!."
-has_access_to_seazone_mediterranean_tt: "Маємо можливість проектувати силу на §YСередземномор'я§!."
-has_access_to_seazone_indian_ocean_tt: "Маємо можливість проектувати силу на  §YІндійський океан§!."
+has_access_to_seazone_east_pacific_tt: "Маємо можливість проєктувати силу на §YСхідну частину Тихого океану§!."
+has_access_to_seazone_west_pacific_tt: "Маємо можливість проєктувати силу на §YЗахідну частину Тихого океану§!."
+has_access_to_seazone_south_atlantic_tt: "Маємо можливість проєктувати силу на §YПівденну Атлантику§!."
+has_access_to_seazone_north_atlantic_tt: "Маємо можливість проєктувати силу на §YПівнічну Атлантику§!."
+has_access_to_seazone_north_sea_tt: "Маємо можливість проєктувати силу на §YПівнічне море§!."
+has_access_to_seazone_mediterranean_tt: "Маємо можливість проєктувати силу на §YСередземномор'я§!."
+has_access_to_seazone_indian_ocean_tt: "Маємо можливість проєктувати силу на  §YІндійський океан§!."
 
 ## Scoring Categories
 # Military

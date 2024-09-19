@@ -112,7 +112,7 @@ Alert_RUS_Smuta_War_Desc: "Сусідний §fКонкурент§! почав 
 
 ## ASIA ##
 # Guangdong alerts
-Alert_GNG_LegCo_Bill: "Законопроект на голосуванні у §SLegCo§!"
+Alert_GNG_LegCo_Bill: "Законопроєкт на голосуванні у §SLegCo§!"
 Alert_GNG_LegCo_Bill_Desc: "§FНаразі ми голосуємо за [GNG_legco_bill_tooltip_dynamic_current] [GNG_get_legco_current_bill_tooltip]§! у £GNG_legco_texticon §SЗаконодавчій раді§!.§!"
 
 Alert_GNG_Product_Cycle: "§YПродуктивчий цикл§! у дії"

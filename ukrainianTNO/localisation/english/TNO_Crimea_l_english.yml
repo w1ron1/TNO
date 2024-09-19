@@ -23,13 +23,13 @@
  CRI_communist_party_long:0 ""
  
  ###Міністри###
- CRI_Otto_Christandl:0 "Отто Крістандл"
+ CRI_Otto_Christandl:0 "Отто Крістандль"
  CRI_Otto_Christandl_hog_desc: "§YНаціонал-соціялізм\nЗаступник ґауляйтера§!\n--------------\n"
 
- CRI_Kurt_Hinze:0 "Kurt Hinze"
+ CRI_Kurt_Hinze:0 "Курт Гінце"
  CRI_Kurt_Hinze_sec_desc: "§YНаціонал-соціялізм\nВищий керівник СС і поліції Чорного моря§!\n--------------\n"
 
- CRI_Ernst_Durrfeld:0 "Ernst Dürrfeld"
+ CRI_Ernst_Durrfeld:0 "Ернст Дюррфельд"
  CRI_Ernst_Durrfeld_eco_desc: "§YНаціонал-соціялізм\nРадник з питань економіки Ґау та президент Торгово-промислової палати Ґау§!\n--------------\n" 
 
  
