@@ -158,7 +158,7 @@
  STATE_92: "Вандаленланд"
  STATE_92_pol: "Люблін"
  STATE_93: "Волинь"
- STATE_93_ger: "Волиніен"
+ STATE_93_ger: "Волюньєн"
  STATE_93_ukr: "Волинь"
  STATE_93_pol: "Волинь"
  STATE_94: "Нордстерн"
@@ -334,7 +334,7 @@
  STATE_197_rus: "Ніколаев"
  STATE_198: "Могиляу"
  STATE_199: "Поділля"
- STATE_199_ger: "Подоліен" #Khmelnytskyi
+ STATE_199_ger: "Подольєн" #Khmelnytskyi
  STATE_199_ukr: "Поділля"
  STATE_200: "Запоріжжя"
  STATE_200_ger: "Запорош'є"
@@ -1097,7 +1097,7 @@
  STATE_772_usa_npp: "Паттон Ісландс"
  STATE_772_usa_rd: "Ейзенхауер Ісландс"
  STATE_773: "Вінниця"
- STATE_773_ger: "Вінниза"
+ STATE_773_ger: "Вінніца"
  STATE_774: "Південна Ютландія"
  STATE_774_ger: "Нордшлезвіґ"
  STATE_774_den: "Нордшлесвіг"
