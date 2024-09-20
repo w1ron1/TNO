@@ -70,7 +70,7 @@
  POLITICS_EXPIRE_TIME:0 "Закінчується через $TIME|Y$ дн."
  POLITICS_SUCCESS_PROGRESS:0 "Успішно досягнуто на $PROGRESS|Y%0$"
  POLITICAL_POLITICAL:0 "Політика"
- MANAGE_OCCUPIED_TERRITORIES:2 "скорочено до Окуповані тер-рії"
+ MANAGE_OCCUPIED_TERRITORIES:2 "Окуповані тер-рії"
  MANAGE_SUBJECTS:0 "Кер-ня суб'єктами"
  manage_occupied_territories_no_occupation:0 "§RНа даний момент Ви не контролюєте жодні неосердні території.§!"
  MANAGE_OCCUPIED_TERRITORIES_HEADER:0 "Іноземна територія"
