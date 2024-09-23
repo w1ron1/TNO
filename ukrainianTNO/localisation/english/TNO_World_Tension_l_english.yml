@@ -3,19 +3,18 @@
  DEFCON_tt: "[get_world_tension_topbar_defcon_tt]"
  DEFCON_tt_delayed: "[get_world_tension_topbar_defcon_tt_delayed]"
  DEFCON_tt_topbar: "§F[get_world_tension_topbar_defcon_tt]\nУ той час як світова напруженість перебуває на рівні [?global.threat|Y%0]§!"
- DEFCON_tt_topbar_delayed: "§F§GКлацніть§! для перегляду §RПоточних конфліктів§! по всьому світу.§!"
+ DEFCON_tt_topbar_delayed: "§F§GКлацніть§! щоб переглянути поточні §Rтриваючі конфлікти§! по всьому світу.§!"
  DEFCON_1: "§eDEFCON 1§!"
  DEFCON_2: "§YDEFCON 2§!"
  DEFCON_3: "§nDEFCON 3§!"
  DEFCON_4: "§MDEFCON 4§!"
  DEFCON_5: "§WDEFCON 5§!"
 
- DEFCON_1_delayed: "§xОпівноч настигає.§!"
- DEFCON_2_delayed: "Вага усього світу лежить на лезі бритви."
- DEFCON_3_delayed: "Пауза, мигтіння та іскра, яка чекає, щоб спалахнути."
+ DEFCON_1_delayed: "§xНа світ насувається непроглядна темрява.§!"
+ DEFCON_2_delayed: "Вага світу балансує на лезі бритви."
+ DEFCON_3_delayed: "Пауза, мерехтіння та іскра, яка чекає, щоб спалахнути."
  DEFCON_4_delayed: "Тіні нависають над новим порядком."
- DEFCON_5_delayed: "Легкий вітерець несе надію на мир."
+ DEFCON_5_delayed: "Легкий вітерець несе надію на спокій."
  
  CONFLICT_MARKER_tt: "§FЗвіти вказують на те, що в цьому регіоні §Rтривають конфлікти§!§!"
 
- 

@@ -1,29 +1,29 @@
 ﻿l_english:
  ### Country Names ###
- MEN: "Mengjiang United Autonomous Government"
- MEN_DEF: "the Mengjiang United Autonomous Government"
- MEN_ADJ: "Mongol"
+ MEN: "Сполучений Автономний Уряд Менцзяну"
+ MEN_DEF: "Сполучений Автономний Уряд Менцзяну"
+ MEN_ADJ: "Монгольськ"
 
  ### Parties ###
- MEN_communist_party: "Ovor Mongolyn Oortoo Zasakh Khodolgoonii Niigemleg"
- MEN_socialist_party: "Dotood Mongolyn Ardyn Khuvisgalyn Nam 'Daur'"
- MEN_paternalism_party: "Dotood Mongolyn Ardyn Khuvisgalyn Nam 'Karaqin'"
- MEN_despotism_party: "Mongolyn Nokhon Sergeekn Khoroo"
- MEN_fascism_party: "Mongolyn Zaluuchuudyn Khuvisgalt Nam"
+ MEN_communist_party: "Уряд зменшення болі Внутрішньої Монголії"
+ MEN_socialist_party: "Народна Революційна Партія Внутрішньої Монголії 'Даурія'"
+ MEN_paternalism_party: "Народна Революційна Партія Внутрішньої Монголії 'Карацін'"
+ MEN_despotism_party: "Монгольський Комітет Відновлення "
+ MEN_fascism_party: "Монгольська партія трансфорсмації"
 
  ### Characters ###
- MEN_Demchugdongrub: "Demchugdongrub"
- MEN_Dugursulong: "Dugursulong"
- MEN_Li_Shouxin: "Li Shouxin"
- MEN_Tao_Ketao: "Togtokh"
- MEN_Degulai: "Degulai"
- MEN_Unenbayan: "Unenbayan"
+ MEN_Demchugdongrub: "Демчуґдонруб"
+ MEN_Dugursulong: "Дуґурсулонг"
+ MEN_Li_Shouxin: "Лі Шоуксінь"
+ MEN_Tao_Ketao: "Тао Кетао"
+ MEN_Degulai: "Деґулай"
+ MEN_Unenbayan: "Уненбаян"
 
  ## Leader Descs ##
- POLITICS_DEMCHUGDONGRUB_DESC: "What would one call Prince Demchugdongrub - the hero of Mongolia, or the traitor of the Chinese Nation? Born in the Sönid Right Banner in 1902, Prince De is the 31st generation descendant of the Golden Clan and the only son of Prince Namjil Wangchuk. Six years later, Prince De inherited his father's title with the approval of the Aisin Gioro court, and was indoctrinated with the essence of the Chinese Civilization. Among all historical figures, Genghis Khan, the ancestor of Prince De, was whom the young Prince worshiped the most, and whose legacy the Prince pursued after throughout his life.\n\nWhen Prince De concurrently served as the Chief of the Xilingol League in 1931, much has changed in the steppe throughout the troubled times - the Kuomintang has replaced the fallen Qing Empire and the Beiyang Regime as the Central Government of China, whereas Outer Mongolia was lost under the schemes of Russia. Later, the Mukden Incident would let Prince De make use of Nanjing's fear to start his Pan-Mongolian self-rule movement. After negotiations fell apart due to the Han Chauvinism of Chiang Kai-Shek and his followers, Prince De turned to his last resort - the Kwantung Army - out of strong desire to achieve his ambitions, despite realizing that the Japanese carried no goodwill in their offer.\n\nDecades of struggle have partially fulfilled the Prince's dream. Nine years after the Greater East Asia War, the Mongol Autonomous Government crushed the forces of the Soviet puppet and recovered the lost territories in the wake of the Siberian Intervention. However, despite Prince De's grand accomplishments, Mongolia has yet been united, let alone independent - Mengjiang is still a de jure vassal of Wang Jingwei and his dogs, as well as a de facto fiefdom of Kwantung. The lands of Eastern Mongolia remain under the grip of Manchukuo, and the resistance of Outer Mongolia never stops troubling the Prince.\n\nSome despise Prince De as a traitor humiliating the spirit of Genghis Khan, while some condemn him as an upstart vassal with delusions of grandeur. Somehow, Prince De echoes with their words - for he has zero desire to follow the steps of his previous overlord Puyi as a Japan puppet. With Nanjing announcing their Modernization Programme, Prince De vigilantly feels that the storm of revolution will soon reach East Asia once more, and perhaps this will be his last chance to prove himself as the worthy descendant of Genghis Khan - the last chance to free Mongolia from the oppressors."
+ POLITICS_DEMCHUGDONGRUB_DESC: "Як можна назвати принца Демчуґдонруба - героєм Монголії чи зрадником китайської нації? Принц Де народився в Соніді у 1902 році, він є нащадком Золотого клану в 31-му поколінні і єдиним сином принца Намг'яла Вангчука. Шість років по тому принц Де успадкував титул батька зі схвалення двору Айсін Ґьоро і був індоктринований сутністю китайської цивілізації. Серед усіх історичних постатей Чингісхан, предок принца Де, був тим, кому молодий принц поклонявся найбільше, і чию спадщину принц наслідував протягом усього свого життя.\n\nКоли принц Де одночасно служив начальником Ліги Шилін-Гол в 1931 році, багато чого змінилося в степу протягом неспокійних часів - Гоміндан замінив повалену імперію Цін і режим Бейян в якості центрального уряду Китаю, в той час як Зовнішня Монголія була загублена за схемами Росії. Пізніше Мукденський інцидент дозволить принцу Де скористатися страхом Нанкіна, щоб розпочати свій панмонгольський рух за самоуправління. Після того, як переговори провалилися через ханьський шовінізм Чан Кайші та його послідовників, принц Де звернувся до свого останнього засобу - Квантунської армії - через сильне бажання досягти своїх амбіцій, незважаючи на усвідомлення того, що японці не мали доброї волі у своїй пропозиції.\n\nДесятиліття боротьби частково здійснили мрію князя. Через дев'ять років після Великої Східно-Азійської війни Монгольський автономний уряд розгромив сили совєцької маріонетки і повернув собі території, втрачені внаслідок Сибірської інтервенції. Однак, незважаючи на грандіозні досягнення принца Де, Монголія так і не стала об'єднаною, не кажучи вже про незалежність - Менцзян все ще залишається де-юре васалом Ван Цзінвея та його псів, а де-факто - вотчиною Квантуна. Землі Східної Монголії залишаються під владою Маньчжоу-Ґо, а опір Зовнішньої Монголії не перестає турбувати князя.\n\nДехто зневажає князя Де як зрадника, що принижує дух Чингісхана, а дехто засуджує його як вискочку-васала з манією величі. Так чи інакше, принц Де перегукується з їхніми словами - адже він не має жодного бажання повторювати кроки свого попереднього володаря Пуї як маріонетка Японії. Коли Нанкін оголосив про свою програму модернізації, принц Де пильно відчуває, що незабаром буря революції знову накриє Східну Азію, і, можливо, це буде його останній шанс проявити себе як гідного нащадка Чингісхана - останній шанс звільнити Монголію від гнобителів."
 
  ## Minister Descs ##
- MEN_Li_Shouxin_hog_desc: "§YVice Chairman\nWarlordism§!\n--------------\n"
- MEN_Unenbayan_for_desc: "§YPresident of the Political Affairs House\nAristocratic Conservatism§!\n--------------\n"
- MEN_Degulai_eco_desc: "§YMinister of Finance\nAristocratic Conservatism§!\n--------------\n"
- MEN_Tao_Ketao_sec_desc: "§YMinister of Justice\nAristocratic Conservatism§!\n--------------\n"
+ MEN_Li_Shouxin_hog_desc: "§YЗаступник Голови\nВарлордизм§!\n--------------\n"
+ MEN_Unenbayan_for_desc: "§YГолова Палати Політичних Справ\nАристократичний Консерватизм§!\n--------------\n"
+ MEN_Degulai_eco_desc: "§YМіністр Фінансів\nАристократичний Консерватизм§!\n--------------\n"
+ MEN_Tao_Ketao_sec_desc: "§YМіністр Справедливості\nАристократичний Консерватизм§!\n--------------\n"
