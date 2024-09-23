@@ -1,64 +1,66 @@
 ﻿l_english:
  ### Country Names ###
- UTL: "Turkestan Legion"
- UTL_DEF: "the Turkestan Legion"
- UTL_ADJ: "Turkestani"
+ UTL: "Туркестанський легіон"
+ UTL_DEF: "Туркестанський легіон"
+ UTL_ADJ: "Туркестанськ"
 
  ## Cosmetic Tags ##
- UTL_Baymirza_Legion: "State of Turks"
- UTL_Baymirza_Legion_DEF: "the State of Turks"
+ UTL_Baymirza_Legion: "Держава Тюрків"
+ UTL_Baymirza_Legion_DEF: "Держава Тюрків"
 
- UTL_unified_1: "Turkestan Reclamation Government"
- UTL_unified_1_DEF: "the Turkestan Reclamation Government"
+ UTL_unified_1: "Туркестанський меліоративний уряд"
+ UTL_unified_1_DEF: "Туркестанський меліоративний уряд"
 
- UTL_unified_2: "Turkestan National State"
- UTL_unified_2_DEF: "the Turkestan National State"
+ UTL_unified_2: "Національна держава Туркестан"
+ UTL_unified_2_DEF: "Національна держава Туркестан"
 
- UTL_unified_3: "Provisional Authority of Turkestan"
- UTL_unified_3_DEF: "the Provisional Authority of Turkestan"
+ UTL_unified_3: "Тимчасова влада Туркестану"
+ UTL_unified_3_DEF: "Тимчасова влада Туркестану""
 
- UTL_occupation: "Military District of Turkestan"
- UTL_occupation_DEF: "the Military District of Turkestan"
+ UTL_occupation: "Туркестанський військовий округ"
+ UTL_occupation_DEF: "Туркестанський військовий округ"
 
- UTL_TURAN: "Khaganate of Turan"
- UTL_TURAN_DEF: "the Khaganate of Turan"
- UTL_TURAN_ADJ: "Turkic"
+ UTL_TURAN: "Туранський каганат"
+ UTL_TURAN_DEF: "Туранський каганат"
+ UTL_TURAN_ADJ: "Тюркськ"
 
  ### Parties ###
- UTL_despotism_party: "TL(K)"
- UTL_despotism_party_long: "Turkiston legioni (Korsimat's Clique)"
- UTL_fascism_party: "OFP"
- UTL_fascism_party_long: "Ozbekiston fashistik Partiyasi"
- UTL_national_socialism_party: "OMSP"
- UTL_national_socialism_party_long: "Ozbekiston Milliy Sotsialistik Partiyasi"
+ UTL_despotism_party: "ТЛ (К)"
+ UTL_despotism_party_long: "Туркистанський легіон (Корсімат Кліка)"
+ UTL_fascism_party: "ФПУ"
+ UTL_fascism_party_long: "Фашистська партія Узбекистану"
+ UTL_national_socialism_party: "НСПУ"
+ UTL_national_socialism_party_long: "Націонал-соціялістична партія Узбекистану"
 
- UTL_despotism_occupation_party: "TL(N)"
- UTL_despotism_occupation_party_long: "Turkiston legioni (Nazar's Clique)"
+ UTL_despotism_occupation_party: "ТЛ (Н)"
+ UTL_despotism_occupation_party_long: "Туркистанський легіон (Назар Кліка)"
 
  ### Characters ###
- UTL_Veli_Kayum_Khan: "Veli Kayyum Han"
- UTL_Baymirza_Hayit: "Baymirza Hayit"
- UTL_Ruzi_Nazar: "Ruzi Nazar"
- UTL_Nureddin_Namangani: "Nureddin Namangani"
- UTL_Sher_Muhammad: "Sher Muhammad Korşirmat"
- UTL_Power_Vacuum: "Power Vacuum"
- UTL_Abdurashidov_Munavvar_Kara: "Abduraşitov Münevver Kara"
+ UTL_Veli_Kayum_Khan: "Велі Каюм-хан"
+ UTL_Baymirza_Hayit: "Баймірза Хаїт"
+ UTL_Ruzi_Nazar: "Рузі Назар"
+ UTL_Nureddin_Namangani: "Нуреддін Наманґані"
+ UTL_Sher_Muhammad: "Шир Мухаммед Куршірмат"
+ UTL_Power_Vacuum: "Вакуум влади"
+ UTL_Abdurashidov_Munavvar_Kara: "Абдурашитов Мюневвер Кара"
 
  ## Leader Descs ##
- POLITICS_VELI_KAYUM_KHAN_DESC: "Veli Kayum-Khan began flirting with anti-communist and nationalist ideology with the rise of the Soviet Union, which he despised. He would move to Germany to study, but he chose to never return to the USSR. Soon, he rose to prominence in the Turkestani émigré movement for his pan-Turkic and anti-Soviet rhetoric and beliefs. When war broke out in Europe, he would attempt to help the Nazis with his ideology which had much in common. To achieve this, he would help found the Turkestan Legion, a unit of the army composed of Turkestani collaborators and prisoners of war. Even though they were considered "inferior races" by the Nazis, this attitude would quickly change as they wished to exploit the anti-Soviet sentiment of the Turkic peoples of Central Asia during Operation Barbarossa. The Legion would play a minor role in the swift conquest of Bukharin's Soviet Union.\n\nWith the end of the war, the country that had oppressed Kayum-Khan's ethnic group for so long completely collapsed, and Uzbekistan finally had a chance to become free. This push for independence would fail and wither into nothing, however, and it would be years until he would find himself with another chance. With time, tenacity, and Afghan support, however, the legion has made considerable gains. Believing in Pan-Turanism, Kayum's ultimate goal is to unite all peoples of Central Asia. Of course, the first step to do that is to defeat all those who stand in his way, no matter which meddling powers stand in his way.\n\nEven though he rules with an iron fist, Kayum still faces strong opposition. Many are not loyal to his fascist government, with some even harbouring Fayzullah sympathies. If he is to develop power as leader of Turkestan, Khan will need to secure his unstable state, and ensure that all of Central Asia stands behind him through respect, and faith in his pan-Turkic beliefs."
- POLITICS_BAYMIRZA_HAYIT_DESC: "The greatest Turkic fighting force in the history of the modern world was assembled and unleashed upon her enemies twenty years ago. And for twenty years, the blood and lives of its brave soldiers has been wasted by its incompetent leadership.\n\nBaymirza Hayit was born in Yargorgan, a small village in what is now Uzbekistan in 1917. From a young age, Baymirza had shown a great deal of interest in literature and matters of the mind, only interrupted by the onset of war and his conscription into the Red Army in 1939, right after he had graduated from Tashkent University. For two years, Baymirza Hayit served the Soviet Union in fighting the Germans, until he was captured by those same Germans in 1941. It would not be the Red Army that would come to define the rest of his life, however, but the Legion formed out of Turkic prisoners of war in Germany. The Turkestan Legion.\n\nThough the Second World War had ended, the task ahead for the Turkestan Legion did not. Under Veli Kayum's leadership, they re-entered their homeland, but a mixture of sheer incompetence and greed has led to the Legion only controlling a mere fraction of the nation. The Legion's destiny remains unfulfilled, in spite of all that they have collectively sacrificed. Veli Kayum made much noise about his new plans, the "Yangi Ergenekon" that he had hoped to build, and like every other half-brained scheme he had cooked, it exploded in his face. Now it falls to Baymirza to pick up the pieces and begin the process of fulfilling the grand and glorious Turkic Destiny, the project of unification now in the hands of someone passionate, decisive, and most of all, competent. The path forward is clear, and all that's required now is the strength to see it through to its end."
+ POLITICS_VELI_KAYUM_KHAN_DESC: "Велі Каюм-хан почав фліртувати з антикомуністичною та націоналістичною ідеологією з підйомом Совєцького Союзу, який він зневажав. Він переїхав до Німеччини, щоб навчатися, але вирішив ніколи не повертатися до СРСР. Незабаром він здобув визнання в емігрантському русі Туркестану за свою пантюркську та антисовєцьку риторику та вірування. Коли в Європі спалахнула війна, він спробував допомогти нацистам з його ідеологією, яка мала багато спільного. Щоб досягти цього, він брав участь у створенні Туркестанського легіону, військового підрозділу, що складався з туркестанських колабораціоністів і військовополонених. Незважаючи на те, що нацисти вважали їх "неповноцінними расами", це ставлення швидко змінилося, оскільки вони хотіли скористатися антисовєцькими настроями тюркських народів Центральної Азії під час операції "Барбаросса". Легіон зіграв незначну роль у швидкому завоюванні Совєцького Союзу Бухаріна.\n\nЗі закінченням війни країна, яка так довго пригнічувала етнічну групу Каюм-хана, повністю розвалилася, і Узбекистан, нарешті, отримав шанс стати вільним. Однак цей поштовх до незалежності провалився і зник, і пройшли роки, перш ніж він отримав інший шанс. Однак з часом, наполегливістю та підтримкою Афганістану легіон досягнув значних успіхів. Вірячи в пантуранізм, кінцева мета Каюма - об'єднати всі народи Центральної Азії. Звичайно, перший крок до цього - це перемогти всіх, хто стоїть на його шляху, незалежно від того, які втручаються сили стоять на його шляху.\n\nНезважаючи на те, що він править залізною рукою, Каюм все ще стикається з сильною опозицією. Багато хто не вірний його фашистському уряду, деякі навіть зберігають симпатії до Файзулли. Щоб розвинути владу як лідер Туркестану, Каюм-хану потрібно буде забезпечити стабільність своєї держави та переконатися, що вся Центральна Азія стоїть за ним, поважаючи його та вірячи в його пантюркські вірування."
+ POLITICS_BAYMIRZA_HAYIT_DESC: "Найбільша тюркська бойова сила в історії сучасного світу була зібрана і розв'язана на її ворогів двадцять років тому. І протягом двадцяти років кров і життя її хоробрих солдатів були марно витрачені її некомпетентним керівництвом.\n\nБаймирза Хайїт народився в Яргоргані, маленькому селі на території сучасного Узбекистану в 1917 році. З раннього віку Баймирза виявляв велику зацікавленість до літератури та питань розуму, що переривалося лише початком війни та його призовом до Червоної Армії в 1939 році, відразу після закінчення Ташкентського університету. Два роки Баймирза Хайїт служив Совєцькому Союзу, воюючи з німцями, поки в 1941 році не був захоплений у полон тими ж німцями. Однак не Червона Армія визначала решту його життя, а легіон, сформований з тюркських військовополонених у Німеччині. Туркестанський легіон.\n\nХоча Друга світова війна закінчилася, завдання, що стояло перед Туркестанським легіоном, не зникло. Під керівництвом Велі Каюма вони знову увійшли до своєї батьківщини, але суміш чиста некомпетентності та жадібності призвела до того, що легіон контролює лише невелику частину нації. Доля легіону залишається нездійсненною, незважаючи на все, що вони спільно присвятили. Велі Каюм багато говорив про свої нові плани, "Янґі Ерґенекон", який він сподівався побудувати, і як кожна інша напіврозумна схема, яку він придумав, вона вибухнула йому в обличчя. Тепер Баймирза має зібрати шматки і розпочати процес здійснення великої і славної тюркської долі, проєкт об'єднання тепер у руках когось, хто пристрасний, рішучий і, перш за все, компетентний. Шлях вперед чіткий, і все, що потрібно зараз, - це сила, щоб пройти його до кінця."
  POLITICS_RUZI_NAZAR_DESC: ""
- POLITICS_SHER_MUHAMMAD_DESC: "With a stern face, and dark sunglasses, Sher Muhammad-bek Gaza cuts an imposing figure. Few would have expected a mercenary to seize control of the Turkestan Legion. Yet since he emerged from a Russian prison as a boy, he has surprised many who underestimated him.\n\nMuhammad-bek played a critical role in the Fegana Uprising before engaging in guerrilla warfare against the Soviet Union. He built an extensive network on the Afghan-Soviet border, and sold information to Turkey, Japan, and Germany. This network was later used by Germany to assist in restoring the former Bukharan Emir to the throne.\n\nFollowing the Nazi victory, Muhammad-bek embraced the life of a mercenary, taking the name "Korşirmat." Yet he realized that it was not wealth he truly sought - but power. This desire led him to the Turkestan Legion - and to seize power when the opportunity arose.\n\nNone can say for certain if it was luck, foreign powers, or one of his own schemes that led to his ascent, but it matters not. With the Legion in his grasp, few obstacles stand between him, and a final battle to decide the fate of Central Asia."
+ POLITICS_SHER_MUHAMMAD_DESC: "
+З суворим обличчям і темними окулярами Шер Мухаммад-бек Газа постає як імпозантна фігура. Мало хто очікував, що найманець захопить контроль над Туркестанським легіоном. Однак з того часу, як він вийшов з російської в'язниці хлопчиком, він здивував багатьох, хто його недооцінював.\n\nМухаммад-бек зіграв ключову роль у Феганському повстанні, перш ніж брати участь у партизанській війні проти Совєцького Союзу. Він побудував розгалужену мережу на афгансько-совєцькому кордоні та продавав інформацію Туреччині, Японії та Німеччині. Ця мережа згодом була використана Німеччиною для допомоги в поверненні колишнього Бухарського еміра на престол.\n\nПісля перемоги нацистів Мухаммад-бек прийняв життя найманця, взявши ім'я "Корширмат". Однак він зрозумів, що справді шукав не багатство, а владу. Це бажання привело його до Туркестанського легіону, і до захоплення влади, коли з'явилася така можливість.\n\nНіхто не може з упевненістю сказати, чи це була удача, іноземні сили або одна з його власних схем, що привела його до влади, але це не має значення. З легіоном у своїх руках перед ним стоїть лише кілька перешкод, і остаточна битва, яка вирішить долю Центральної Азії."
  POLITICS_TURKESTAN_LEGION_POWER_VACUUM_DESC: ""
 
  ## Character Descs ##
- UTL_Baymirza_Hayit_hog_desc: "§YHead of Government\nFascism§!"
- UTL_Ruzi_Nazar_for_desc: "§YForeign Minister\nStratocratic Nazism§!"
- UTL_Nureddin_Namangani_eco_desc: "§YEconomic Minister\nStratocratic Nazism§!"
- UTL_Sher_Muhammad_sec_desc: "§YSecurity Minister\nStratocratic Nazism§!"
+ UTL_Baymirza_Hayit_hog_desc: "§YГолова уряду\nФашизм§!"
+ UTL_Ruzi_Nazar_for_desc: "§YМіністр закордонних справ\nСтратократичний нацизм§!"
+ UTL_Nureddin_Namangani_eco_desc: "§YМіністр економіки\nСтратократичний нацизм§!"
+ UTL_Sher_Muhammad_sec_desc: "§Yміністр безпеки\nСтратократичний нацизм§!"
 
  ### Ideas ###
- UTL_Veli_Rides_Again: "Veli Kayum Rides Again!"
- UTL_Veli_Rides_Again_desc: "Veli Kayum was a man of decadence. He was a man who lived life best as he could with all the advantages which corruption would provide, from the free flow of cash to the countless favors which he would be owed. Now, however, he has seen the light of life. He has seen the error of corruption and free luxury. He knows that there are few things better than earning success, not asking and receiving freedoms as though there is no opposition in his way.\n\nLife has granted Kayum a chance to peer into what a life has in store for those who fight, and he is satisfied beyond measure as to what it can offer him. All that remains is to fulfill his duties to the Legion. To fulfill his duties to Turkmenistan."
- UTL_Black_Dogs: "Black Dogs"
- UTL_Black_Dogs_desc: "The Legion has become a pack of dogs. Betrayed, backstabbed, and left to rot by others, the Turkestan Legion finds itself being kicked to the curb by all those who interacted with it, and finally being left with its blood bubbling from its mouth.\n\nNow, foreign powers reach out to it, asking for its aid, asking for it to fight on behalf of the whims of others. What answer is there to give if not "no"? Now, the Legion finds itself in a position which some would consider being of geopolitical importance, an entrance into Central Asia. The Legion does not care. Now, they bite and snap at those who would hope to strongarm them into their influence. The Legion has taken it upon itself to reject all foreign influence from this moment onwards. After all, the Legion does not fight the battles of others."
+ UTL_Veli_Rides_Again: "Велі Каюм повертається!"
+ UTL_Veli_Rides_Again_desc: "Велі Каюм був людиною розкоші. Він жив життям якнайкраще, використовуючи всі переваги, які могла надати йому корупція, від вільного потоку готівки до незліченних послуг, які йому були винні. Однак тепер він побачив світло життя. Він побачив помилку корупції та вільної розкоші. Він знає, що мало що краще, ніж заробити успіх, а не просити і отримувати свободу, ніби ніхто не перешкоджає йому на шляху.\n\nЖиття дало Каюму можливість зазирнути в те, що чекає на тих, хто бореться, і він безмірно задоволений тим, що воно може йому запропонувати. Залишається лише виконати свій обов'язок перед Легіоном. Виконати свій обов'язок перед Туркестаном."
+ UTL_Black_Dogs: "Чорні собаки"
+ UTL_Black_Dogs_desc: "
+Легіон перетворився на зграю собак. Зраджених, підставлених і залишених гнити іншими, Туркестанський легіон виявляє, що його штовхають убік усі, хто з ним взаємодіяв, і, нарешті, залишають з кров'ю, що булькає у нього з рота.\n\nТепер іноземні сили тягнуться до нього, просячи про його допомогу, просячи його воювати за примхи інших. Яку відповідь можна дати, крім "ні"? Тепер легіон опинився в ситуації, яку деякі вважають геополітично важливою, - це вхід до Центральної Азії. Легіон не переймається. Тепер вони кусають і гарчать на тих, хто сподівається примусити їх до свого впливу. Легіон взяв на себе зобов'язання відкинути будь-який іноземний вплив з цього моменту. Зрештою, легіон не воює битви інших."

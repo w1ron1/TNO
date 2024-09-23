@@ -556,7 +556,7 @@
  FLEET_NAME:0 "$NUMBER$ флот держави $COUNTRY$"
  FLEET_NAME_USA:0 "$NUMBER$ група ВМС США"
  FLEET_NAME_GER:0 "$NUMBER$ флот держави $COUNTRY$"
- FLEET_NAME_SOV:0 "$NUMBER$ радянська флотилія"
+ FLEET_NAME_SOV:0 "$NUMBER$ совєцька флотилія"
  RESERVE_FLEET_NAME:0 "$NUMBER$ резервний флот ($COUNTRY$)"
  TASK_FORCE_NAME:0 "$NUMBER$ оперативна група ($COUNTRY$)"
  COMPACT_SHIP_VIEW_DESC:0 "$NUM|Y$ кораблі(в) типу $TYPE|Y$."

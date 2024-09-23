@@ -2,25 +2,25 @@
  ## Country Names ##
 
  ####Party Names#####
- PRK_despotism_party:0 "Żołnierze Wyklęci"
- PRK_despotism_party_long:0 "Żołnierze Wyklęci"
- PRK_progressivism_party:0 "Żołnierze Wyklęci"
- PRK_progressivism_party_long:0 "Żołnierze Wyklęci"
- HWL_Kazimierz_Piechowski:0 "Kazimierz Piechowski"
- POLITICS_Kazimierz_Piechowski_DESC:0 "All this training. All this fighting. All this blood. All this war. None of it prevented the chill of winter. The ashes of the fallen would only darken the coming storms.\n\nHow greatly did the enduring people of the Polish nation suffer under the chronicles of history? Kazimierz Piechowski knows firsthand just how terrible of a fight it all was, and, yet, just how necessary it was, whether it was for belief, for ideology, or just for the chance of a god-forsaken home. Participating within the Polish Boys Scouts as a young boy, Piechowski knew that he was a priority on the target list of the Germans, and once Poland's government fell, he knew it was high-time to move the fight underground. It was long, hard, and brutal, but Piechowski's evasion of the Reich could only go on for so long, as the concentration camps awaited the Pole, and all of his comrades.\n\nBut death hadn't chosen Kazimierz that day, nor any day within the coming years. The suffering was unbearable, the sight of the men, women, and children of his nation being systematically exterminated would have been unbelievable had it not been happening right in front of him. How cold was this world to do this to so many? Piechowski knew that it did not matter, and as the camps were moved to the plantations, he knew that carrying the journey forward was all he could do.\n\nBut now, Germany stands against itself, brutalized by the very barbarians who tore his countrymen to shreds in the past few decades. Both had to be fought against, for some stand of righteousness in this terrible, cold world. But, rumors only grow. Nightmares of a world on fire plague Piechowski, and his deepest fears about who he may be forced to fight alongside grow closer to reality with each coming hour."
+ PRK_despotism_party:0 "Прокляті Солдати"
+ PRK_despotism_party_long:0 "Прокляті Солдати"
+ PRK_progressivism_party:0 "Прокляті Солдати"
+ PRK_progressivism_party_long:0 "Прокляті Солдати"
+ HWL_Kazimierz_Piechowski:0 "Казімеж Пеховський"
+ POLITICS_Kazimierz_Piechowski_DESC:0 "Вся ця підготовка. Вся ця боротьба. Вся ця кров. Вся ця війна. Ніщо не виправдовує втрати. Попіл загиблих під ногами що розлітаються на вітрі до самого неба що затьмарює наближаючий шторм.\n\nНаскільки витривалими людей польскої нації зробили ці всі перешкоди які їм зустрічалися протягом історії? Казімеж Пеховський знав від довірених наскільки жахливою була боротьба, а також наскільке це було необхідно, за віру, за ідеологію чи заради того щоб мати богом забутий дім. В юному віці він був участником польських бойскаутів, Пеховський знав те що він був пріоритетом в цільових списках, і як польский уряд пав, він знав що пора продовжувати боротьбу в підпіллі. То було довго, тяжко та огидно, але ухилляна Пеховського та його товарішів від Райху могло тривати настільки довго накільки настільки концтабори чекали на поляка та його друзів.\n\nАле смерть не змогла наздогнати Казімежа в той день, і не змогла на протязі цих років. Страждання були нестерпними для чоловіків, жінок, дітей. Систематичне ввинещення його народу було настільки жахливим що йому пощастило що він не бачив ці кадри. Взагалі наскільки черствий світ що зміг допустити щось подібне? Пеховський знав що це безглузде питання, і коли табори були перенесені на плантації, він знав що він може лише продовжувати свою подорож.\n\nАле зараз, німці стоять один-проти-одного, ті сами кровожерливі варвари що безжалісно страчали польський нарід останні дисятиліття. Проти всіх треба вистоять за подобу справидливості в цьому жахливому, холодному світі, але чутки все ростуть. Жахи всього світу у вогні мучать Пеховського, і його найпотаємніші страхи про те що йому прийдеться боротися віч-навіч, ці страхи стають все ближчими з кожною годиною."
 
  ## Ministers ##
  
  ## Ideas ##
  
- PRK_to_the_death:0 "To the Death"
- PRK_to_the_death_desc:0 "Nobody in the Reich can doubt this: the slave revolt is doomed. No matter their determination, they cannot hope to stand against the Reich come the day of judgement. Despair withers before the resolute acceptance of death, and resolve is certainly not lacking amongst the liberated."
+ PRK_to_the_death:0 "У Вічі Самій Смерті"
+ PRK_to_the_death_desc:0 "Ніхто в Райху не сумнівається: повстання рабів приречинно. Не важливо наскільки вони рішучі, всеодно вони не зможуть вистояти проти Райху в судний день. Однак самі звільнені настільки рішучі що можуть дивитися у вічі самій Смерті без остраху, їм всеодно немає що втрачати..."
  
- PRK_old_soldiers:0 "Old Soldiers"
- PRK_old_soldiers_desc:0 "At the core of the revolt stands a cadre of POWs turned slaves, who quickly formed an ad-hoc command structure to coordinate the militias during the rising. They enjoy great popular support despite their disparate nationalities."
+ PRK_old_soldiers:0 "Старі Солдати"
+ PRK_old_soldiers_desc:0 "В центрі революції стоять раби що колись були військовопоневоленими, під час повстання вони зформовували спеціальні командні структури щоб контролювати ополчення. Вони мають дуже хорошу народну підтримку незважаючи на різні національності."
  
- PRK_justice_of_the_liberated:0 "Justice of the Liberated"
- PRK_justice_of_the_liberated_desc:0 "You cannot expect pity or mercy from freed slaves - at least, not if you were the one grinding them into the dirt for two decades. The righting of wrongs has been swift, and more than a little chaotic."
+ PRK_justice_of_the_liberated:0 "Правосуддя Звільнених"
+ PRK_justice_of_the_liberated_desc:0 "Тобі не слід надіятися на милосердя від звільнених рабів - якщо ти не був із тих хто горбатив спину в багнюці остані двадесятиліття. Зміни, виправлення та помилки були стрімкими і більш ніж трішки хаотичні."
  
  ## Decisions ##
  

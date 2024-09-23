@@ -119,7 +119,7 @@ scripted_gui_open_tt_UKR_breadbasket:0 "Відкрити хлібний коши
 
 ###Drift###
 communist_drift:0 "Щоденна підтримка комуністів"
-socialist_drift:0 "Щоденна підтримка соціалістів"
+socialist_drift:0 "Щоденна підтримка соціялістів"
 progressivism_drift:0 "Щоденна підтримка прогресизму"
 liberalism_drift:0 "Щоденна підтримка лібералізму"
 liberal_conservatism_drift:0 "Щоденна підтримка ліберального консерватизму"
@@ -127,7 +127,7 @@ conservatism_drift:0 "Щоденна підтримка консерватизм
 paternalism_drift:0 "Щоденна підтримка патерналізму"
 despotism_drift:0 "Щоденна підтримка деспотизму"
 fascism_drift:0 "Щоденна підтримка фашизму"
-national_socialism_drift:0 "Щоденна підтримка націонал-соціалізму"
+national_socialism_drift:0 "Щоденна підтримка націонал-соціялізму"
 ultranationalism_drift:0 "Щоденна підтримка ультранаціоналізму"
 
 ###Banned###
@@ -140,5 +140,5 @@ conservatism_banned:0 "Консерватизм під забороною"
 paternalism_banned:0 "Патерналізм під забороною"
 despotism_banned:0 "Деспотізм під забороною"
 fascist_banned:0 "Фашізм під забороною"
-national_socialism_banned:0 "Націонал-Соціалізм під забороною"
+national_socialism_banned:0 "Націонал-Соціялізм під забороною"
 ultranationalism_banned:0 "Ультранаціоналізм під забороною"
