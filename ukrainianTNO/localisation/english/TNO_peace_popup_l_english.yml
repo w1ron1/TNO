@@ -28,7 +28,7 @@
  #Wars that have finished
  TNO_PEACE_POPUP_WAR_CONCLUSION_OSTLAND: "Держава §Y[winning_country.GetNameWithFlag]§![GetWinnerAlliesWithHas] перемагає державу §Y[losing_country.GetNameWithFlag]§![GetLoserAllies], поки як вихор йде війна за §YОстланд§!."
 
- TNO_PEACE_POPUP_WAR_CONCLUSION_UKRAINE: "Держава §Y[winning_country.GetNameWithFlag]§![GetWinnerAlliesWithHas] перемагає державу §Y[losing_country.GetNameWithFlag]§![GetLoserAllies] поки §Yжитниця Райху§! стікає §Rкров'ю§!."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_UKRAINE: "Держава §Y[winning_country.GetNameWithFlag]§![GetWinnerAlliesWithHas] перемагає державу §Y[losing_country.GetNameWithFlag]§![GetLoserAllies], поки §Yжитниця Райху§! стікає §Rкров'ю§!."
  
  TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN: "Держава §YПівденноафриканська війна§! нарешті закінчилася остаточною перемогою держави §Y[winning_country.GetNameWithFlag]§![GetWinnerAllies] над державою §Y[losing_country.GetNameWithFlag]§![GetLoserAllies]."
  TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_LOSE: "Держава §YПівденноафриканська війна§! нарешті закінчилася остаточною перемогою держави §Y[winning_country.GetNameWithFlag]§![GetWinnerAllies] над державою §Y[losing_country.GetNameWithFlag]§![GetLoserAllies]."

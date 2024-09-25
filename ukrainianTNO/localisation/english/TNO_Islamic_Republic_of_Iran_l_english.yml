@@ -1,24 +1,24 @@
 ﻿l_english:
  ### Country Names ###
- IRI: "Islamic Republic of Iran"
- IRI_DEF: "the Islamic Republic of Iran"
- IRI_ADJ: "Iranian"
+ IRI: "Ісламська Республіка Іран"
+ IRI_DEF: "Ісламська Республіка Іран"
+ IRI_ADJ: "Іранськ"
 
  ### Parties ###
- IRI_despotism_party: "HJE"
- IRI_despotism_party_long: "Hezb-e Jomhūrī-e Eslāmī"
+ IRI_despotism_party: "ХДЕ"
+ IRI_despotism_party_long: "Хезб-е Джомхурі-е Есламі"
 
  ### Characters ###
- IRI_Ruhollah_Khomeini: "Ruhollah Khomeini"
- IRI_Mostafa_Chamran: "Mostafa Chamran"
- IRI_Mohsen_Rafighdoost: "Mohsen Rafighdoost"
- IRI_Qasem_Ali_Zahirnejad: "Qasem-Ali Zahirnejad"
- IRI_Hossein_Hassani_Sadi: "Hossein Hassani Sa'di"
- IRI_Valiollah_Fallahi: "Valiollah Fallahi"
- IRI_Mohammad_Beheshti: "Mohammad Beheshti"
- IRI_Abolhassan_Banisadr: "Abolhassan Banisadr"
- IRI_Akbar_Hashemi_Rafsanjani: "Akbar Hashemi Rafsanjani"
- IRI_Hossein_Fardoust: "Hossein Fardoust"
+ IRI_Ruhollah_Khomeini: "Рухолла Хомейні"
+ IRI_Mostafa_Chamran: "Мостафа Чамран"
+ IRI_Mohsen_Rafighdoost: "Мохсен Рафігдуст"
+ IRI_Qasem_Ali_Zahirnejad: "Касем-Алі Захирнеджад"
+ IRI_Hossein_Hassani_Sadi: "Хоссейн Хассані Са'ді"
+ IRI_Valiollah_Fallahi: "Валіолла Фаллахі"
+ IRI_Mohammad_Beheshti: "Мохаммад Бехешті"
+ IRI_Abolhassan_Banisadr: "Аболхассан Банісадр"
+ IRI_Akbar_Hashemi_Rafsanjani: "Акбар Хашемі Рафсанджані"
+ IRI_Hossein_Fardoust: "Хоссейн Фардуст"
 
  ## Leader Descs  ##
- POLITICS_RUHOLLAH_KHOMEINI_DESC: "Ruhollah Khomeini has lived in exile for more than a decade. His legend has only grown in this time. Unlike the Nazi-backed imperial junta and the American-backed 'democrats', Khomeini's base of support lies in the Iranian people, and his power in their desire to break the shackles of foreign oppression and live according to the Will of God, the Most Gracious, the Most Merciful.\n\nKhomeini's vision for Iran is that of 'welayat-el faqih', with a group of learned Islamic jurists providing guardianship to the state. To his enemies' surprise the Ayatollah has proven a pragmatic man, making and breaking alliances with all manner of power centres as he sees fit. To his supporters, emboldened by cassette tapes carrying his message, Khomeini is anything and everything. To the religious he promises a return to Islamic values; to the nationalists, an end to the 'Jewish agents' and 'foreign serpents' backing their enemies. To the young, the Ayatollah promises hope and a better life. As for his own role in the Iranian Revolution, perhaps only God knows."
+ POLITICS_RUHOLLAH_KHOMEINI_DESC: "Рухолла Хомейні прожив у вигнанні більше десяти років. За цей час його легенда тільки зросла. На відміну від підтримуваної нацистами імперської хунти та підтримуваних американцями "демократів", Хомейні спирається на підтримку іранського народу, а його сила в його бажанні розірвати кайдани іноземного гніту і жити згідно з волею Бога, Наймилостивішого, Наймилосерднішого.\n\nБачення Хомейні щодо Ірану - це "велаят-ель-факіх", коли група вчених ісламських юристів забезпечує опіку над державою. На подив своїх ворогів, аятола виявився прагматичною людиною, укладаючи і розриваючи альянси з усіма можливими центрами влади на власний розсуд. Для своїх прихильників, підбадьорених касетами з його посланнями, Хомейні є будь-ким і будь-чим. Релігійним він обіцяє повернення до ісламських цінностей; націоналістам - кінець "єврейським агентам" і "іноземним зміям", що підтримують їхніх ворогів. Молоді аятола обіцяє надію і краще життя. Що ж до його власної ролі в іранській революції, то, мабуть, тільки Бог знає."

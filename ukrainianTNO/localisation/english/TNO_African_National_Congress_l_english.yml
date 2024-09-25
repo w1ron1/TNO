@@ -1,28 +1,28 @@
 ﻿l_english:
  ### Country Names ###
- ANC: "African National Congress"
- ANC_DEF: "the African National Congress"
- ANC_ADJ: "African"
+ ANC: "Африканський національний конгрес"
+ ANC_DEF: "Африканський національний конгрес"
+ ANC_ADJ: "Африканськ"
 
  ## Cosemetic Tags ##
- ANC_DURBAN: "Durban Socialist Republic"
- ANC_DURBAN_DEF: "the Durban Socialist Republic"
- ANC_DURBAN_ADJ: "Durbanite"
+ ANC_DURBAN: "Дурбанська соціялістична республіка"
+ ANC_DURBAN_DEF: "Дурбанська соціялістична республіка"
+ ANC_DURBAN_ADJ: "Дурбаністськ"
 
  ### Parties ###
- ANC_communist_party: "ANC"
- ANC_communist_party_long: "African National Congress"
- ANC_socialist_party: "ANC"
- ANC_socialist_party_long: "African National Congress"
- ANC_progressivism_party: "ANC"
- ANC_progressivism_party_long: "African National Congress"
+ ANC_communist_party: "АНК"
+ ANC_communist_party_long: "Африканський національний конгрес"
+ ANC_socialist_party: "АНК"
+ ANC_socialist_party_long: "Африканський національний конгрес"
+ ANC_progressivism_party: "АНК"
+ ANC_progressivism_party_long: "Африканський національний конгрес"
 
  ### Characters ###
- ANC_Oliver_R_Tambo: "Oliver R. Tambo"
- ANC_Chris_Hani: "Chris Hani"
- ANC_Lennox_Lagu: "Lennox Lagu"
- ANC_Matooane_Mapefane: "Matooane Mapefane"
- ANC_Potlako_Leballo: "Potlako Leballo"
- ANC_Vusumzi_Make: "Vusumzi Make"
- ANC_John_Nyathi_Pokela: "John Nyathi Poleka"
- ANC_Jacob_Zuma: "Jacob Zuma"
+ ANC_Oliver_R_Tambo: "Олівер Р. Тамбо"
+ ANC_Chris_Hani: "Кріс Гані"
+ ANC_Lennox_Lagu: "Леннокс Лагу"
+ ANC_Matooane_Mapefane: "Матуане Мапефане"
+ ANC_Potlako_Leballo: "Потлако Лебалло"
+ ANC_Vusumzi_Make: "Вусумзі Маке"
+ ANC_John_Nyathi_Pokela: "Джон Ньяті Полека"
+ ANC_Jacob_Zuma: Якоб Зума"

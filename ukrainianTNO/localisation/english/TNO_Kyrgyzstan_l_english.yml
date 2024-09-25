@@ -1,54 +1,54 @@
 ﻿l_english:
  ### Country Names ###
- KYR: "Kyrgyz Soviet Socialist Republic"
- KYR_DEF: "the Kyrgyz Soviet Socialist Republic"
- KYR_ADJ: "Kyrgyz"
+ KYR: "Кирґизька совєцька соціялістична республіка"
+ KYR_DEF: "Кирґизька совєцька соціялістична республіка"
+ KYR_ADJ: "Кирґизьк"
 
  ## Cosmetic Tags ##
- KYR_Talas: "Islamic State of Talas"
- KYR_Talas_DEF: "the Islamic State of Talas"
- KYR_Talas_ADJ: "Kyrgyz"
+ KYR_Talas: "Ісламська держава Талас"
+ KYR_Talas_DEF: "Ісламська держава Талас"
+ KYR_Talas_ADJ: "Кирґизьк"
 
- KYR_UZBEK_ANNEX_COM: "Central Asian People's Republic"
- KYR_UZBEK_ANNEX_COM_DEF: "the Central Asian People's Republic"
- KYR_UZBEK_ANNEX_COM_ADJ: "Central Asian"
+ KYR_UZBEK_ANNEX_COM: "Середньо-азіатська народна республіка"
+ KYR_UZBEK_ANNEX_COM_DEF: "Середньо-азіатська народна республіка"
+ KYR_UZBEK_ANNEX_COM_ADJ: "Середньо-азіатськ"
 
- KYR_UZBEK_ANNEX_DEM: "Islamic State of Kokand"
- KYR_UZBEK_ANNEX_DEM_DEF: "the Islamic State of Kokand"
- KYR_UZBEK_ANNEX_DEM_ADJ: "Kokand"
+ KYR_UZBEK_ANNEX_DEM: "Ісламська держава Коканд"
+ KYR_UZBEK_ANNEX_DEM_DEF: "Ісламська держава Коканд"
+ KYR_UZBEK_ANNEX_DEM_ADJ: "Кокандськ"
 
- KYR_KARAKALPAK_ANNEX_COM: "Soviet Socialist Republic of Central Asia"
- KYR_KARAKALPAK_ANNEX_COM_DEF: "the Soviet Socialist Republic of Central Asia"
- KYR_KARAKALPAK_ANNEX_COM_ADJ: "Central Asian"
+ KYR_KARAKALPAK_ANNEX_COM: "Совєцька Соціялістична Республіка Середньої Азії"
+ KYR_KARAKALPAK_ANNEX_COM_DEF: "Совєцька Соціялістична Республіка Середньої Азії"
+ KYR_KARAKALPAK_ANNEX_COM_ADJ: "Середньо-азіатськ"
 
- KYR_KARAKALPAK_ANNEX_DEM: "Federation of Central Asia"
- KYR_KARAKALPAK_ANNEX_DEM_DEF: "the Islamic State of Kyrgyzstan and Federative Republic of Uzbekistan-Karakalpakstan"
- KYR_KARAKALPAK_ANNEX_DEM_ADJ: "Central Asian"
+ KYR_KARAKALPAK_ANNEX_DEM: "Федерація Середньої Азії"
+ KYR_KARAKALPAK_ANNEX_DEM_DEF: "Ісламська держава Кирґизстан і Федеративна Республіка Узбекистан-Каракалпакстан
+ KYR_KARAKALPAK_ANNEX_DEM_ADJ: "Середньо-азіатськ"
 
  ### Parties ###
- KYR_communist_party: "KKP"
- KYR_communist_party_long: "Kirgizstandik Kommunistik Partiyasi"
- KYR_socialist_party: "SBP"
- KYR_socialist_party_long: "Sotsialist Bostonduk Partiyasi"
- KYR_liberalism_party: "KDP"
- KYR_liberalism_party_long: "Kirgix Demokratiyalsk Partiyasi"
- KYR_despotism_party: "İRUÖ"
- KYR_despotism_party_long: "İslam Respublikasının Ubaktıluu Ökmötü"
+ KYR_communist_party: "ККП"
+ KYR_communist_party_long: "Кирґизька комуністична партія"
+ KYR_socialist_party: "СБП"
+ KYR_socialist_party_long: "Соціялістична Бостондук партія"
+ KYR_liberalism_party: "КДР"
+ KYR_liberalism_party_long: "Кирґизька демократична республіка"
+ KYR_despotism_party: "ТУІР"
+ KYR_despotism_party_long: "Тимчасовий уряд Ісламської Республіки"
 
  ### Characters ###
- KYR_Kaliynur_Usenbekov: "Kaliynur Usenbekov"
- KYR_Turdakun_Usulbaliev: "Turdakun Usubaliev"
- KYR_Andrei_Grebnev: "Andrei Grebnev"
- KYR_Temirlan_Alibievich_Dzhangildin: "Temirlan Alibievich Dzhangildin"
- KYR_Abdukadyr_Urazbekov: "Abdukadyr Urazbekov"
- KYR_Zurakan_Imankalykova: "Zurakan Imankalykova"
- KYR_Sultan_Ibraimov: "Sultan Ibraimov"
- KYR_Abbas_Jumagulov: "Abbas Jumagulov"
- KYR_Kalima_Amankulova: "Kalima Amankulova"
+ KYR_Kaliynur_Usenbekov: "Усенбеков Калійнур"
+ KYR_Turdakun_Usulbaliev: "Турдакун Усубалієв"
+ KYR_Andrei_Grebnev: "Андрій Ґребнєв"
+ KYR_Temirlan_Alibievich_Dzhangildin: "Темірлан Алібієвич Джанґільдін"
+ KYR_Abdukadyr_Urazbekov: "Абдукадир Уразбеков"
+ KYR_Zurakan_Imankalykova: "Зуракан Іманкаликова"
+ KYR_Sultan_Ibraimov: "Султан Ібрагімов"
+ KYR_Abbas_Jumagulov: "Аббас Джумаґулов"
+ KYR_Kalima_Amankulova: "Каліма Аманкулова"
 
  ## Leader Descriptions ##
- POLITICS_KALIYNUR_USENBEKOV_DESC: "The tumultuous decades have left their mark everywhere. On Kyrgyzstan, on its people, and most visibly, on the Chairman himself. Born in what was, at the time, the Turkestan Soviet, Kaliynur was raised to embody the ideal of the Kyrgyz man, and being raised on tales of the Tsar's caprice and the cruelty of his bandit-governors, he also grew into the ideal picture of the Marxist-Leninist man as well, and joined in the Red Army to defend his land, his people, and all other lands and peoples.\n\nBut eventually, the Union itself was defeated, and Kaliynur had no choice except to return to his fatherland with his comrades. Hoping to recover and recuperate from the devastating defeat in Russia, he and his allies instead only found more conflict. War had broken out between neighboring Tajikistan and Afghanistan, and the Tajiks were taking the worst of it. Kaliynur marched with the Red Army of the Kyrgyz People and fought valiantly, before eventually falling into the hands of a particularly cruel Afghan general. His left eye would be left behind in that cold, Afghan prison.\n\nRescue from this plight would not come by liberating army, but by the heroics of a single man, Turdakun Usubaliev. Hand in hand with Turdakun, Kaliynur returned to Kyrgyzstan a hero of two lost wars, and has since found his victories in the political arena instead. With the Kyrgyz people at his side, he looks to pave the way for a rejuvenated Central Asia."
- POLITICS_TURDAKUN_USUBALIEV_DESC: "Born in 1919 to Kyrgyz peasants, Turdakun Usubalievich Usubaliev was an early convert to the communist cause - though the future he may have once imagined following his graduation from the Kyrgyz National Institute in 1941 came crashing down as the Germans destroyed the USSR and left the peoples of Central Asia to pick up the pieces wherever they fell.\n\nClearly there had been some fault in communism as it was. Just as clearly, however, it was not all bad - after all, it had granted him, the son of dirt-poor peasants, opportunities of education, employment, and social advancement that nothing else could have. Its main failing, then, was clearly its refusal to acknowledge the power of religion as a unifying force - and this is not a mistake Turdakun would repeat again. To unite the Kyrgyz people once more, what would be needed is not merely repeating the promises of the past, but to use that which has bonded them together for centuries, and which could help in obtaining support from far beyond the seas.\n\nWith this ideal was born the Islamic State of Talas, governed along the lines of orthodox socialism with strong religious aspects present in all parts of the government, led by Turdakun holding together this eclectic mixture of ideas - for the benefit of all the Kyrgyz people, of course."
+ POLITICS_KALIYNUR_USENBEKOV_DESC: "Бурхливі десятиліття залишили свій слід скрізь. На Кирґизстані, на його людях і, найпомітніше, на самому Голові. Народжений у тодішній Туркестанській Совєцькій республіці, Калайнур був вихований як втілення ідеалу кирґизької людини, і будучи вихованим на розповідях про примхи царя та жорстокість його бандитів-губернаторів, він ще також виріс в ідеальну картину марксистсько-ленінської людини, і вступив до лав Червоної Армії, щоб захистити свою землю, свій народ, і всі інші землі та народи. \Але врешті-решт сам Союз зазнав поразки, і Калінур не мав іншого вибору, окрім як повернутися на батьківщину разом зі своїми товаришами. Сподіваючись відновитися і оговтатися від нищівної поразки в росії, він і його союзники натомість знайшли лише ще більший конфлікт. Між сусідніми Таджикистаном і Афганістаном спалахнула війна, і таджикам дісталося найгірше. Калінур йшов у складі Червоної Армії Кирґизького народу і відважно бився, поки врешті-решт не потрапив до рук особливо жорстокого афганського генерала. Його ліве око залишиться в холодній афганській в'язниці.\n\nПорятунок від цієї долі прийде не визвольна армія, а героїзм однієї людини, Турдакуна Усубалієва. Рука об руку з Турдакуном Калайнур повернувся до Кирґизстану героєм двох програних воєн і відтоді здобував перемоги на політичній арені. З кирґизьким народом на своєму боці, він прагне прокласти шлях до оновленої Центральної Азії."
+ POLITICS_TURDAKUN_USUBALIEV_DESC: "Турдакун Усубалієв Усубалієв народився в 1919 році в сім'ї киргизьких селян і рано став прихильником комуністичної ідеї, хоча майбутнє, яке він, можливо, колись уявляв собі після закінчення Кирґизького національного інституту в 1941 році, зруйнувалося, коли німці зруйнували СРСР і залишили народи Центральної Азії збирати уламки там, де вони впали.\n\nОчевидно, що в комунізмі були певні недоліки. Так само очевидно, однак, що він був не таким вже й поганим - зрештою, він надав йому, синові бідних селян, можливості освіти, працевлаштування та соціального просування, яких не могло дати ніщо інше. Отже, її головною помилкою була відмова визнати владу релігії як об'єднуючої сили - і це не та помилка, яку Турдакун повторив би знову. Щоб знову об'єднати кирґизький народ, потрібно не просто повторювати обіцянки минулого, а використовувати те, що пов'язувало його протягом століть і що могло б допомогти в отриманні підтримки з-за морів.\n\nЗ цим ідеалом народилася Ісламська держава Талас, керована за принципами ортодоксального соціялізму з сильними релігійними аспектами, присутніми у всіх частинах уряду, на чолі з Турдакуном, який утримує разом цю еклектичну суміш ідей - звичайно ж, на користь всього киргизького народу"
 
  ### Ideas ###
- KYR_Stabilization_Regime: "Stabilization Regime"
+ KYR_Stabilization_Regime: "Стабілізаційний режим"

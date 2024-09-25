@@ -1,52 +1,53 @@
 ﻿l_english:
  ### Country Names ###
- VOR: "Vorkuta Corrective Labor Camp"
- VOR_DEF: "the Vorkuta Corrective Labor Camp"
- VOR_ADJ: "Vorkutan"
+ VOR: "Воркутинський виправний трудовий табір"
+ VOR_DEF: "Воркутинський виправний трудовий табір"
+ VOR_ADJ: "Воркутинськ"
 
  ### Party Names ###
- VOR_communist_party: "GUITLK NKVD SSSR"
- VOR_communist_party_long: "Glavnoe upravlenie ispravitel'no-trudovikh lagerey i koloniy Narodnogo komissariata vnutrennikh del Soyuza Sovetskikh Sotsialisticheskikh Respublik"
+ VOR_communist_party: "ГУІТЛК НКВД СССР"
+ VOR_communist_party_long: "Главноє управлєніє ісправітєльно-трудових лагєрєй і колоній Народного комісаріата внутрєннії дєл Союзу Совєцьких Соціялістіческих Республік"
  
  ### Leader Bios ###
- POLITICS_VASILY_BLOKHIN_DESC: "Some men have strict moral codes. Vasily Mikhailovich Blokhin abandoned them long ago, when he became the chief executioner of the People's Commissariat of Internal Affairs, the NKVD. His effectiveness in "wetwork" as a Cheka member would not go unnoticed, and so he would quickly gain a higher position. Blokhin's brutality was unmatched: he personally oversaw mass executions of "enemies of the state", from the most insignificant ones to those of the most prominent Bolsheviks in the history of the Soviet Union. Thousands would perish under his watch, yet he himself would manage to avoid being affected by any purges carried out.\n\nFollowing the end of the Second World War and the humiliating defeat of the USSR, Blokhin would not let his power go that easily. As chief of the Vorkutlag, a large gulag complex, he would exercise his power, initially as the face of the West Russian Revolutionary Front's authority. In reality, he did whatever he wanted to, and there was no one that could stop him, for they would be executed or mysteriously disappear. However, things would change with the rebellion of the gulag inmates against the guards: the formation of the dissident group of the Ural League put him in danger, but soon he would reign supreme once again as they fled southwards.\n\nVasily Blokhin was left to govern the gulags of Vorkuta, and now the city itself, on his own, especially as the WRRF crumbled with the famous West Russian War. With the help of what few guards remained, he would reorganize the area, and effectively set up his warlord state. However, Blokhin is not an ambitious man; all he wants is for his fiefdom to be left alone and survive, no matter what the cost for that may be."
+ POLITICS_VASILY_BLOKHIN_DESC: "Деякі люди мають суворі моральні кодекси. Васілій Міхайловіч Блохін відмовився від них давно, коли став головним катом НКВД. Його ефективність у "брудній роботі" як члена ЧК не залишилася непоміченою, і тому він швидко отримав вищу посаду. Жорстокість Блохіна була неперевершеною: він особисто наглядав за масовими стратами "ворогів держави", від найнезначніших до найвидатніших більшовиків в історії Совєцького Союзу. Тисячі загинули під його наглядом, проте сам він зумів уникнути впливу будь-яких чисток. Після закінчення Другої світової війни та принизливої поразки СССР Блохін не так легко відпустив свою владу. Будучи начальником Воркутлагу, великого табірного комплексу, він здійснював свою владу, спочатку як обличчя влади Західноросійського революційного фронту. Насправді він робив все, що хотів, і не було нікого, хто міг би його зупинити, бо їх стратили б або вони таємничо зникли. Однак ситуація змінилася з повстанням в'язнів табору проти охоронців: формування дисидентської групи Уральської ліги поставило його в небезпеку, але незабаром він знову взяв владу у свої руки, коли вони втекли на південь. Васілія Блохіна залишили керувати таборами Воркути, а тепер і самим містом, особливо коли ЗРРФ розвалився під час Західноросійської війни. За допомогою тих небагатьох охоронців, що залишилися, він реорганізував територію і фактично створив свою державу. Однак Блохін не амбітна людина; все, чого він хоче - щоб його феодальне володіння залишили в спокої і воно вижило, незалежно від того, якою може бути ціна за це."
 
  ### Characters ###
- VOR_Vasily_Blokhin: "Vasily Blokhin"
- VOR_Vasily_Blokhin_hog_desc: "§YHead of Government\nCommunism§!"
+ VOR_Vasily_Blokhin: "Васілій Блохін"
+ VOR_Vasily_Blokhin_hog_desc: "§YГолова уряду\nКомунізм§!"
  
- VOR_Boris_Trofimov: "Boris Trofimov"
- VOR_Boris_Trofimov_for_desc: "§YForeign Minister\nCommunism§!"
+ VOR_Boris_Trofimov: "Боріс Трохімов"
+ VOR_Boris_Trofimov_for_desc: "§YМіністр закордонних справ\nКомунізм§!"
  
- VOR_Yevgeniy_Yudin: "Yevgeniy Yudin"
- VOR_Yevgeniy_Yudin_eco_desc: "§YEconomic Minister\nCommunism§!"
+ VOR_Yevgeniy_Yudin: "Євгєній Юдін"
+ VOR_Yevgeniy_Yudin_eco_desc: "§YМіністр економіки\nКомунізм§!"
  
- VOR_Stepan_Garanin: "Stepan Garanin"
- VOR_Stepan_Garanin_sec_desc: "§YSecurity Minister\nCommunism§!"
+ VOR_Stepan_Garanin: "Степан Гаранін"
+ VOR_Stepan_Garanin_sec_desc: "§YМіністр безпеки\nКомунізм§!"
  
- VOR_Viktor_Kolesnikov: "Viktor Kolesnikov"
+ VOR_Viktor_Kolesnikov: "Віктор Колєсніковв"
  
  ### Generals ###
- VOR_Pyotr_Gladkov: "Pyotr Gladkov"
+ VOR_Pyotr_Gladkov: "Пьотр Гладков"
 
  ### Ideas ###
- VOR_security_state: "Security State"
- VOR_inhospitable_climate: "Inhospitable Climate"
+ VOR_security_state: "Стан безпеки"
+ VOR_inhospitable_climate: "Неприємний клімат"
  
- VOR_security_state_desc: "The state of Vorkuta made its origins with the NKVD officers sent to guard and survey the armies of prisoners of war, political prisoners, and violent criminals sent to pillage the vast resources of the region. From the era of the Front onwards, and past the West Russian War, the NKVD was granted free reign to rule the province as they saw fit, to maximize the crucial resources needed to keep the war machine in the West operational.\n\nOne can say they were cruel, and that they were brutal, perhaps unnecessarily so. But one cannot say that they were incompetent. The NKVD of Vorkuta, now swollen with volunteers and 'rehabilitated' prisoners is a formidable machine, with truly fearful capabilities in the field of combat, security, and intelligence-gathering."
- VOR_inhospitable_climate_desc: "Vorkuta's climate, to put it as lightly as anyone is likely to, is brutally cold and unforgiving. In many parts of the region, permafrost cakes the ground, agriculture is impossible, and hunting is unfruitful. Unwinterized equipment is liable to freeze, and ill-prepared soldiers are liable to suffer. To fight in these harsh conditions is not a prospect one should take lightly, or approach with anything other than caution and acceptance of the dangers involved."
- VOR_pechora_war: "Pechora War"
- VOR_pechora_war_desc: "The Pechora War is the latest squabble between the two northern states of Vorkuta and Yugra. However, this time, both parties intend to finish what they started." 
+ VOR_security_state_desc: "Воркутинська держава сформувалась із офіцерів НКВД, відправлених для охорони та нагляду за військовополоненими, політичними в'язнями та жорстокими злочинцями. Починаючи з воєнної епохи і далі, після Західноросійської війни, НКВД отримав повну свободу дій у цьому краї, щоб максимально використати критично важливі ресурси, необхідні для підтримки військової машини на Заході в робочому стані. Сказати, що вони були жорстокими і брутальними, можливо, надмірно. Але не можна сказати, що вони були некомпетентними. НКВД Воркути, тепер поповнений добровольцями та "реабілітованими" в'язнями, є грізною машиною з дійсно страшними можливостями у сфері бойових дій, безпеки та збору розвідданих.."
+ VOR_inhospitable_climate_desc: "Клімат Воркути, якщо висловлюватися якомога м'якше, жорстоко холодний і безжальний. У багатьох частинах регіону вічна мерзлота вкриває землю, сільське господарство неможливе, а полювання безплідне. Обладнання, не пристосоване до зими, може замерзнути, а непідготовлені солдати ризикують загинути. Воювати в цих суворих умовах - це перспектива, до якої не слід ставитися легковажно або підходити без обережності та усвідомлення пов'язаних з цим небезпек"
+ VOR_pechora_war: "Печорська війна"
+ VOR_pechora_war_desc: "Печорська війна це останнє боєзіткнення між двомп північними державами - Воркутою та Югрою. Але цього разу, обидві сторони мають на меті завершити те, що почали" 
 
- vorkuta_smuta.1.t: "An Offer from the [FROM.GetName]"
- vorkuta_smuta.1.desc: "I am not crazy! I know he swapped those numbers! I knew it was 1216. One after Magna Carta. As if I could ever make such a mistake. Never. Never! I just - I just couldn't prove it. He - he covered his tracks, he got that idiot at the copy shop to lie for him. You think this is something? You think this is bad? This? This chicanery? He's done worse. That billboard! Are you telling me that a man just happens to fall like that? No! He orchestrated it! Jimmy! He defecated through a sunroof! And I saved him! And I shouldn't have. I took him into my own firm! What was I thinking? He'll never change. He'll never change! Ever since he was 9, always the same! Couldn't keep his hands out of the cash drawer! But not our Jimmy! Couldn't be precious Jimmy! Stealing them blind! And he gets to be a lawyer!? What a sick joke! I should've stopped him when I had the chance! And you - you have to stop him!"
- vorkuta_smuta.1.a: "S'all good, man"
+ vorkuta_smuta.1.t: "Пропозиція від  [FROM.GetName]"
+ vorkuta_smuta.1.desc: "Я не скажений! Я знав, ло він підмінив ті номери! Я знав що це 1216! Той що після Великої хартії вольностей. Якби ж я міг помилятись! Та ніколи. Ніколи! Я просто, просто не міг це довести. Він, він замів свої сліди, він змусив того ідіота в копіювальному центрі брехати за нього. Ви думаєте, це щось? Ви думаєте, це погано? Це? Він робив і гірше. Той рекламний щит! Ви кажете мені, що людина просто так падає? Ні! Він це організував! Джиммі! Він випорожнився через люк на даху автомобіля! А я його врятував! І я не повинен був. Я взяв його у свою власну фірму! Про що я думав? Він ніколи не зміниться. Він ніколи не зміниться! Відколи йому було 9, завжди одне й те саме! Не міг тримати руки подалі від каси! Але не наш Джиммі! Не міг бути дорогоцінний Джиммі! Обкрадає їх наосліп! І він стає адвокатом!? Який же жарт! Я повинен був зупинити його, коли мав шанс! І ви - ви повинні його зупинити!"
+ vorkuta_smuta.1.a: "Все добре, чувак"
  vorkuta_smuta.1.b: "vine thud"
   
- vorkuta_smuta.2.t: "A Response from Blokhin"
- vorkuta_smuta.2.desc: "Blokhin has thankfully obliged our invitation of peaceful integration. This shall save us the cost and time of marching across the northern Urals to seize the fiefdom by force. Valuable lives have also been saved through this.\n\nIntegration of the region into our administration shall begin effective immediately, securing our northern frontier. We are one step closer to a unified motherland, without a drop of blood spilt."
- vorkuta_smuta.2.a: "One bloody battle fewer."
+ vorkuta_smuta.2.t: "Відповідь від Блохіна"
+ vorkuta_smuta.2.desc: "Блохін, на щастя, погодився на наше запрошення мирної інтеграції. Це заощадить нам витрати і час на перехід яерез північний Урал для захоплення феодального володіння силою. Завдяки цьому також було врятовано цінні життя. Інтеграція регіону забезпечуючи нас північний кордон. Ми на крок ближче до об'єднаної батьківщини, без пролиття краплі крові."
+ vorkuta_smuta.2.a: "Однією кривавою битвою менше."
 
- vorkuta_smuta.3.t: "A Response from Blokhin"
- vorkuta_smuta.3.desc: "Blokhin and his men have refused our offer. This is an unfortunate outcome, but shall prove only a minor setback for our military might.\n\nThe harsh peaks of the northern Urals provide their only true defence, behind them Vorkuta lies open for the taking, and take it we shall."
- vorkuta_smuta.3.a: "No more half measures then."
+ vorkuta_smuta.3.t: "Відповідь від Блохіна"
+ vorkuta_smuta.3.desc: "Блохін та його люди відмовилися від нашої пропозиції. Це прикрий результат, але він виявиться лише незначною перешкодою для нашої військової могутності.
+Суворі вершини північного Уралу забезпечують їхній єдиний справжній захист, за ними Воркута лежить відкрита для захоплення, і ми її захопимо."
+ vorkuta_smuta.3.a: "Більше жодних напівзаходів."
