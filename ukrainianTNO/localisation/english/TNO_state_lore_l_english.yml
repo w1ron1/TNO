@@ -30,7 +30,7 @@
  state_lore_name.4: "Лос-Анджелес"
  state_lore_desc.4: "The largest city on the west coast. The third largest city in the country. The home of America's, and arguably the world's, entertainment industry.\n\nThe story of Los Angeles is full of controversy, but no one can say it isn't interesting. Originally a small coastal town, LA began to grow rapidly towards the end of the nineteenth century, continuing unabated through World War 2 and even the 1950s following the Japanese seizure of the port.\n\nAs the home of Hollywood, LA has earned a reputation as a land of glitz and glamor, though the diverse and often impoverished neighborhoods of the growing city are on the front lines of America's civil rights movement."
 
- state_lore_initials.5: "ЛА-П"
+ state_lore_initials.5: "П-ЛА"
  state_lore_name.5: "[Statelore_Get_Losangeles_name]"
  state_lore_name.5_USA: "Порт Лос-Анджелеса"
  state_lore_name.5_JAP: "Рафуко (Port of Los Angeles)"
@@ -55,7 +55,7 @@
  state_lore_desc.9: "To describe Washington, D.C. as just a city would be entirely inappropriate. D.C. is more than a collection of buildings or roads, it is more than the amalgamation of human will, forced together into an urban sprawl that defines D.C.\n\nNo, what defines the District of Columbia best is the building on the hill- the home of freedom and security, in a world where such a commodity is hard to come by. Such freedom is not fought over for the denizens of this city, but fought with, in the halls of Congress, where issues of undeniable importance are fought over and where the future of the nation as a whole is decided.\n\nWith the stirring winds of democracy blowing strong, and the future uncertain as ever, these freedoms of democracy are more than something to ensure freedom, but something to hold on to in these turbulent times. May they protect us forevermore."
 
  state_lore_initials.10: "РИМ"
- state_lore_name.10: "РИМ"
+ state_lore_name.10: "Рим"
  state_lore_desc.10: "Rome, the Eternal City, stands as the jewel of the Mediterranean and the capital of the Italian Empire. Founded millennia ago by Romulus on the banks of the Tiber, few cities- if any- can claim such an expansive history. Indeed, there's not an inch of the city that isn't rich with the legacy of the Roman Empire, the pride of Italian history.\n\nDespite the invasions, plagues, and misfortunes that have fallen on the city before, Rome has always emerged from the rubble, ready to rebuild- and, in doing so, has cemented its place as the center of Italy. It is here where the King, the Pope, and the Duce stay, and it is here that the Italian government sits, along with artists, culinary geniuses, and romantics from across the world.\n\nMake no mistake- Rome has survived thousands of years before, and- barring the apocalypse- it will survive thousands of years more."
 
  state_lore_initials.11: "МАД"
