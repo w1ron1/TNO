@@ -1,17 +1,17 @@
 ﻿l_english:
  ### Country Names ###
- NNG: "Northern Nigeria"
- NNG_DEF: "the Northern Nigerian Military Command"
- NNG_ADJ: "Nigerian"
+ NNG: "Північна Ніжерія"
+ NNG_DEF: "Військове командування Північної Ніжерії"
+ NNG_ADJ: "Ніжерійськ"
 
  ## Cosmetic Tags ##
- NNG_unified: "Nigeria"
- NNG_unified_DEF: "the Republic of Nigeria"
- NNG_unified_ADJ: "Nigerian"
+ NNG_unified: "Ніжерія"
+ NNG_unified_DEF: "Республікаі Ніжерія"
+ NNG_unified_ADJ: "Ніжерійськ"
 
  ### Parties ###
- NNG_despotism_party: "NNMC"
- NNG_despotism_party_long: "Northern Nigerian Military Command"
+ NNG_despotism_party: "ВКПН"
+ NNG_despotism_party_long: "Військове командування Північної Ніжерії"
 
  ### Characters ###
- NNG_Zakariya_Maimalari: "Zakariya Maimalari"
+ NNG_Zakariya_Maimalari: "Закарія Маймаларі"

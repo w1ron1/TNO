@@ -1,25 +1,25 @@
 ﻿l_english:
  ### Country Names ###
- NGA: "Nigeria"
- NGA_DEF: "the Republic of Nigeria"
- NGA_ADJ: "Nigerian"
+ NGA: "Ніжерія"
+ NGA_DEF: "Республіка Ніжерія"
+ NGA_ADJ: "Ніжерійськ"
 
  ## Cosmetic Tags ##
- NGA_CAOPuppet: "Nigeria"
- NGA_CAOPuppet_DEF: "the African State of Nigeria"
- NGA_CAOPuppet_ADJ: "Nigeria"
+ NGA_CAOPuppet: "Ніжерія"
+ NGA_CAOPuppet_DEF: "Африканська держава Ніжерія"
+ NGA_CAOPuppet_ADJ: "Ніжерійськ"
 
  ### Parties ###
- NGA_socialist_party: "NYM"
- NGA_socialist_party_long: "Nigerian Youth Movement"
- NGA_conservatism_party: "NPN"
- NGA_conservatism_party_long: "National Party of Nigeria"
- NGA_paternalism_party: "NPP"
- NGA_paternalism_party_long: "Nigerian People's Party"
- NGA_despotism_party: "NAC"
- NGA_despotism_party_long: "Nigerian Army Council"
+ NGA_socialist_party: "НМР"
+ NGA_socialist_party_long: "Ніжерійський молодіжний рух"
+ NGA_conservatism_party: "НПН"
+ NGA_conservatism_party_long: "Національна партія Ніжерії"
+ NGA_paternalism_party: "ННП"
+ NGA_paternalism_party_long: "Ніжерійська народна партія"
+ NGA_despotism_party: "НВР"
+ NGA_despotism_party_long: "Ніжерійська військова рада"
 
  ### Characters ###
- NGA_Yakubu_Gowon: "Yakubu Gowon"
- NGA_Nnamdi_Azikiwe: "Nnamdi Azikiwe"
- NGA_Akinola_Maja: "Akinola Maja"
+ NGA_Yakubu_Gowon: "Якубу Ґовон"
+ NGA_Nnamdi_Azikiwe: "Ннамді Азіківе"
+ NGA_Akinola_Maja: "Акінола Майя"
