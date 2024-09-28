@@ -2471,7 +2471,7 @@
  UKR_BB_Action_rem_dev: "'§Y[?temp_action.GetTokenLocalizedKey]§! §Rвилучено§! з §MХлібного§! §Yкошику§!."
  UKR_BB_Action_rem_res: "'§Y[?temp_action.GetTokenLocalizedKey]§! §Rвилучено§! з §MХлібного§! §Yкошику§!."
 
- UKR_BB_Action_Cost_label: "Кошт.:"
+ UKR_BB_Action_Cost_label: "Кошт:"
  UKR_BB_Action_Cooldown_tt: "Ця дія перебуває у стані очікування: ([?cooldown_frame|G0]/[?30|Y0]) днів"
 
  UKR_BB_D_Action_Cost: "          [UKR_BB_D_Get_Action_Cost_Color][UKR_BB_Get_Action_Cost_PP][UKR_BB_Get_Action_Cost_CP][UKR_BB_Get_Action_Cost_InfEq][UKR_BB_Get_Action_Cost_MP][UKR_BB_Get_Action_Cost_Money]§!"
