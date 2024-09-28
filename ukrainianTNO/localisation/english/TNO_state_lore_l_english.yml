@@ -33,7 +33,7 @@
  state_lore_initials.5: "П-ЛА"
  state_lore_name.5: "[Statelore_Get_Losangeles_name]"
  state_lore_name.5_USA: "Порт Лос-Анджелеса"
- state_lore_name.5_JAP: "Рафуко (Port of Los Angeles)"
+ state_lore_name.5_JAP: "Рафуко (Порт Лос-Анджелеса)"
  state_lore_desc.5: "At the height of World War 2, the port of Los Angeles employed almost 100,000 Americans. These days only a small fraction of that number turn up for work every day, and a different flag flies over the warships that fill the harbor.\n\nAs one of the two Japanese concessions bordering the American mainland, the port of LA is a constant hotspot of world tension. Japanese and US soldiers watch each other from behind checkpoints, and both the sailors of the IJN and the residents of LA hope their uncomfortable proximity never escalates to hostility.\n\nWhile some demand the United States take action and reclaim it, their pleas fall deaf, §Rfor now.§! §YPerhaps one day, a President bold enough may take back the ports, or possibly even more.§!"
 
  state_lore_initials.6: "СФО"
@@ -43,7 +43,7 @@
  state_lore_initials.7: "П-СФ"
  state_lore_name.7: "[Statelore_Get_Sanfran_name]"
  state_lore_name.7_USA: "Порт Сан-Франциско"
- state_lore_name.7_JAP: "Кувако (Port of San Francisco)"
+ state_lore_name.7_JAP: "Кувако (Порт Сан-Франциско)"
  state_lore_desc.7: "Much like its European namesake, the Paris of the West is a city divided. Though most of the city remains in the USA, the port facilities have been held by Japan since 1945. One of the farthest flung territories of the Japanese Empire, the port of San Francisco is a major asset to the sphere.\n\nThe tiny sliver of Japanese territory, along with its southern counterpart in Los Angeles, are constant sources of tension between two of the world's superpowers, but as long as the Japanese retain their ability to immediately threaten the entire west coast, they're happy to pay that price.\n\nWhile some demand the United States take action and reclaim it, their pleas fall deaf, §Rfor now.§! §YPerhaps one day, a President bold enough may take back the ports, or possibly even more.§!"
 
  state_lore_initials.8: "НЙК"
@@ -51,7 +51,7 @@
  state_lore_desc.8: "The very definition of a city that never sleeps, New York City is the fruit of the labor of generations of hardworking individuals, with an astounding amount of commerce passing through it each and every day.\n\nFirst settled by the Dutch in 1624 as New Amsterdam, it changed hands over the centuries and now stands as a proud bastion of American freedoms, exemplified by the Statue of Liberty in its harbor. Countless different cultures have taken root in the city, long a relative safe haven for oppressed peoples from all over the world from tyranny in their distant homelands.\n\nEqually attractive as the open mindedness of the city, however, are its open markets, being one of the premier centers of international business and finance as well as the greatest display of American economic might. There's always something to do in New York for any person willing to pay the right price."
 
  state_lore_initials.9: "О.К."
- state_lore_name.9: "Вашингтон, О.К."
+ state_lore_name.9: "Вошинґтон, О.К."
  state_lore_desc.9: "To describe Washington, D.C. as just a city would be entirely inappropriate. D.C. is more than a collection of buildings or roads, it is more than the amalgamation of human will, forced together into an urban sprawl that defines D.C.\n\nNo, what defines the District of Columbia best is the building on the hill- the home of freedom and security, in a world where such a commodity is hard to come by. Such freedom is not fought over for the denizens of this city, but fought with, in the halls of Congress, where issues of undeniable importance are fought over and where the future of the nation as a whole is decided.\n\nWith the stirring winds of democracy blowing strong, and the future uncertain as ever, these freedoms of democracy are more than something to ensure freedom, but something to hold on to in these turbulent times. May they protect us forevermore."
 
  state_lore_initials.10: "РИМ"
@@ -118,7 +118,7 @@
  state_lore_desc.24: "Founded in 600 BCE as one of the oldest cities in Europe, Marseille has stood tall from its ancient Greek origins to its contemporary French authority.\n\nDevastating civil wars, barbarians, sieges, plagues, revolutions, and world wars have all conspired to destroy the ancient city, and World War II nearly cast the city into the inescapable fire, but its people have survived and thrived throughout.\n\nThe city saw Rouget de Lisle write the French national anthem, La Marseillaise. The old city stands today as one of the largest cities in France; may God preserve Marseille for many more centuries."
 
  state_lore_initials.25: "ПАР"
- state_lore_name.25: "Паріж"
+ state_lore_name.25: "Париж"
  state_lore_desc.25: "Ask a Parisian about Paris in 1901, and he might have described it to you as the center of his country. Ask a Parisian about Paris in 1919, and he might have told you of it as the center of the world. Ask a Parisian about Paris today, and you will get a canvas of broken dreams and lost glory, a twinge of sadness in his eyes, for the years have not been kind to the Ville-Lumière.\n\nOnce a capital of all things cultured, Paris today stands as a shadow of its former self. The Haussmannian buildings frown at the daily sight of German soldiers, as Parisians try their best to live their lives in spite of all the hardships they have to endure. And yet, they live on, for better or for worse; for there is no alternative but to give in to despair, as the denizens of France know all too well."
 
  state_lore_initials.26: "Н-ПР"
@@ -250,7 +250,7 @@
  state_lore_desc.55: "Once the historic capital of Latvia, Riga now serves as the headquarters for German administration in Reichskommissariat Ostland.\n\nYears of bombings, genocidal policies towards the natives, and an influx of German settlers have rendered Riga unrecognizable compared to its old self; it now exists as the "model city" for the "model colony," the scenic showpiece of Germany's enormous colonial empire."
 
  state_lore_initials.56: "ПРА"
- state_lore_name.56: "Прага"
+ state_lore_name.56: "Праґ"
  state_lore_desc.56: "Once one of the great cosmopolitan centres of Europe, with a rich architectural and cultural heritage reflecting centuries of steady Czech, Jewish and Habsburg influence, Prague was brutally remade in both culture and architecture by the German occupation.\n\nIn the streets and markets, the universities and theatres, the churches and chapels, only German is allowed to be spoken - and with every passing generation the memories of the past fade further and further into murky obscurity.\n\nDespite the brutality of the occupation, however, Prague's industrial output has only increased, and in recent years has become an increasingly important logistical and technological centre for the Reich as a whole - reflecting its increasingly integrated role with both the nation and its cultural continuum."
 
  state_lore_initials.57: "КРК"
@@ -262,11 +262,11 @@
  state_lore_desc.57_POL: "Owing to its status as a cultural and artistic centre of the Polish nation as opposed to its actual capital, Kraków largely escaped serious infrastructural damage during the war - but that does not mean it went unscathed.\n\nVast sections of its population 'vanished' into the night and fog, leaving entire streets and city blocks empty and silent. The universities were closed, the churches repurposed, and the construction of vast factory complexes with attached labour camps completed Kraków's transformation into an industrial nightmare held in a vice grip by the demands of the Reich.\n\nBut, with Poles once again ruling in Kraków, change is washing over the city. While decades of oppression and Germanization cannot be overwritten in a day, there is a new determination among the citizens of Kraków, long ground down under the Nazi jackboot. What the new Kraków will look like - and whether it can survive the seemingly inevitable resumption of hostilities between Poland and Germany - remains to be seen."
 
  state_lore_initials.58: "БРА"
- state_lore_name.58: "Братіслава"
+ state_lore_name.58: "Братислава"
  state_lore_desc.58: "Once a Roman border fortress, Bratislava became the capital of the 7th century Kingdom of Samo, the first ever Slavic state. A cultural melting pot throughout its history, Bratislava was the capital of the Hungarian Kingdom from 1536 to 1783, and its heritage shows its unique blend of Slavic (Slovak), Hungarian, and German influence.\n\nAs Czechoslovakia collapsed, Bratislava became the capital of Jozef Tiso's fascist Slovak Republic. Of the major Slavic cities under German hegemony, Bratislava has suffered the least, allowed to continue its steady development into a modern industrial city. Whether this shall lead to permanent success or come crashing down, only time--and Germany--can tell."
 
  state_lore_initials.59: "БУД"
- state_lore_name.59: "Будапешт"
+ state_lore_name.59: "Будапешть"
  state_lore_desc.59: "Lying on the banks of the Danube and the center of the fertile Hungarian plain, the cities of Buda and Pest were long centers of commerce. Merged into the single city of 'Budapest' to become the new Hungarian capital in 1873, the city flourished, quickly becoming one of the largest and most prosperous cities in Europe.\n\nThe vast Hungarian conquests of the Second World War only increased its prosperity, but the extermination of much of the city's Jews, the devastating war with Rumania and Slovakia, and the economic crash of the 1950s, have recently plunged the city into jeopardy. Budapest reels under an iron fist, is torn between the joint threats of German and Italian encroachment, and faces increasing unrest as more and more people question the underpinnings of the government."
 
  state_lore_initials.60: "БУХ"
@@ -789,8 +789,8 @@
  state_lore_name.186: "Атланта"
  state_lore_desc.186: "On the banks where Peachtree Creek flows into the Chattahoochee River stands Atlanta, state capital of Georgia and largest city in the Southeast. Founded in the early 19th century, Atlanta was a small town with less than 10,000 people, known for being a major railway terminus in the Southeast. This made it an important logistic hub during the Civil War, until general Sherman burnt the entire city down during his March to the Sea. But like the Phoenix reborn from its ashes, the people of Atlanta rebuilt the city during the Reconstruction, and the population skyrocketed as a consequence.\n\nToday Atlanta is a vibrant city with a large economy, hosting the headquarters of companies such as Coca Cola and Delta Air Lines, but beneath the façade lie simmering racial issues, with over 40 percent of the city population black and living under Jim Crow. Despite this, the black community of Atlanta has always strived to carve its own place in the city, by starting their own businesses; teaching in their own colleges; and campaigning against segregation. One black man in particular stands out in the fight for civil rights, Martin Luther King Jr, an Atlanta native who has brought the issues that black Americans face on a nationwide scale. Atlanta is in many ways a mirror of the South, a place of genuine Southern hospitality afflicted by racism, but it is also the only place where real change feels possible, and all its black citizens hope that one day they can claim the city as their own."
 
- state_lore_initials.187: "Х'Ю"
- state_lore_name.187: "Х'юстон"
+ state_lore_initials.187: "Г'Ю"
+ state_lore_name.187: "Г'юстон"
  state_lore_desc.187: "While the Capital of Texas may officially be Austin, every good Houstonian knows where the true, beating heart of Texas is. Not the cosmopolitan busybodies in Austin nor the churning hell of Dallas, grinding up its citizens and spitting out noxious fumes like watermelon seeds. No, it is the warm, sprawling city of Houston. Named after the Revolutionary Hero himself, General Sam Houston who led Texas' people to shatter the shackles of Mexican tyranny, Houston continues to shine bright in the Lone Star State, above all else.\n\nWhy? Because Houston has a secret weapon that sets itself apart. After the unparalleled devastation of the 1900 Galveston Hurricane, a peculiar discovery was made on the outskirts of the ruined metropolis. Oil - barrels upon barrels of it. Following the discovery at Spindletop, thousands flocked to the area to dig deep and dig greedily for the elusive Black Gold inside the Red Sands of the Gulf. What was once an industrial mining town, became a haven for entrepreneurs, down-and-outers and the huddled masses that had been ground up by the East Coast Establishment. Houston, with its chaos and its noise, does not have a New Colossus to parade itself around with. For it does not need any decaying, copper monstrosities or Art Deco, Nouveau Baroque or any gaudy monuments to its arrogance. All Houston needs... is Houston."
 
  state_lore_initials.188: "ДЕН"
@@ -798,11 +798,11 @@
  state_lore_desc.188: "Known as the "Mile High City," Denver was founded in 1858 as a small mining town by a group of gold prospectors. The capital of Colorado, Denver is one of the largest cities before the Rocky Mountains- a rest stop that many pioneers took advantage of during the gold rushes of the 1800s. Today, the glory days of the Pike's Peak Gold Rush are long gone, and the only relic of those times is the distinctive golden dome of the State Capitol building, shining like a jewel in the city's skyline.\n\nA progressive beacon in America's heartland, Denver was one of the first cities to set up a civil rights commission, and one of the few in the country to provide fair public housing to Latinos, African-Americans, and Japanese-Americans. The liberal, racially tolerant attitude of Denver has attracted immigrants from all over the world, and one fifth of the city's population has Hispanic ancestry. There might not be any more gold on the mountains of Denver, but its citizens' hearts shine brighter than any precious metal."
 
  state_lore_initials.189: "НОР"
- state_lore_name.189: "Новий Орлеан"
+ state_lore_name.189: "Нью-Орлінс"
  state_lore_desc.189: "In the so-called "City of Yes" sometimes it would be more desirable to say No. The Jewel of the Mississippi, New Orleans stood as the Empress of the South - her valuable, strategic position on the Mississippi Delta being her raison d'etre of it all. In better times, the Mississippi Queen's neon-white lights and elaborate technicolor Mardi Gras costumes would have provided the beacon of civilization over the steamy Louisiana swamps and decaying plantation houses.\n\nNew Orleans' best days are behind her now. While the Empress walks and talks like a goddess, her courtesans make their final bows. Educated African-Americans are migrating from the South to the sun-baked sands of California and rain-battered Manhattan, while the shining megalopolises of Houston and Miami both enviously eye the throne. The colossal port - that once was its source of power - has been supplanted by other ports, near and far; with the banking industry retreating out of the state to more prosperous shores. Regardless, New Orleans stands tall, her back straight and her eyes to the horizon. While the daggers to her back may be sharp, its inhabitants - whether they be the designer suits in the Downtown Area or the haggard aldermen of the French Quarter - will serve their sovereign dutifully."
 
- state_lore_initials.190: "СІЕ"
- state_lore_name.190: "Сіетл"
+ state_lore_initials.190: "СІЄ"
+ state_lore_name.190: "Сієтл"
  state_lore_desc.190: "Nestled beneath the waters, islands, and inlets of Puget Sound, the Jewel of the Northwest bustles at the center of a prosperous metropolis.\n\nHaving survived boom and bust, fires, and labor unrest, Seattle was hard-hit during the Depression. The drop in global trade, the protectionism of the Hoover administration, and violent labor strife put the hammer on the city's once-bustling maritime traffic. The city's slow recovery was interrupted by the outbreak of the Second World War, bringing with it both government contracts and renewed prosperity, even as it shattered its nascent Japanese community.\n\nOnce a boomtown for logging and timber, Seattle now thrives beneath the mushrooming of jet-age industry and plentiful government contracts. A fact distinctly exemplified by the newly built Space Needle, an unmistakable sight in the city's skyline. The city's docks, however, remain barren. Once a hotbed of labor strife, isolation from East Asian markets has left Seattle's harbors as shadows of their pre-Depression selves."
 
  state_lore_initials.191: "ДЕТ"
@@ -874,11 +874,11 @@
  state_lore_desc.207: "Far north of where the Mississippi River pours into the Gulf of Mexico, it finds its headwaters in the wooded Lake Itasca. From there, it winds downstream, picking up width and speed until it turns into the force of God that defines the lands around it. It's during this early stage that the Old Man River cuts through the Twin Cities - Minneapolis and Saint Paul.\n\nMinneapolis began as land on a military base. Saint Paul was a collection of small villages. Saint Paul is the last city in the East, they say, and Minneapolis is the first city in the West. Minneapolis styles itself with urban renewal and modern architecture while Saint Paul maintains a classic Victorian style. The cities may be split physically by the river and their many differences, but their inexorable ties to one another have grown and flourished, developing a rich history and culture forged by freezing temperatures. Together they share the 7-time champion Golden Gophers, the newly founded Vikings, and the aptly named Twins, as well as economic prosperity and a strong hold over state politics.\n\nEven in the Minnesota cold, the heated rivalry between the two cities has defined their histories to the point of competitive cathedral building, architectural blacklisting, and even the kidnapping of census takers to prevent one city from being deemed larger than the other. Yet today, the internal troubles of each city is the focus of much concern. Both cities contend with unofficial segregation and deep roots of discrimination, despite their liberal tendencies. Both cities struggle with declining populations and labor disputes. Both cities pour effort into distinguishing themselves among the manufacturing metropolises of the Midwest who so often command the attention of America.\n\nStill, through the blizzards and tornadoes, the strikes and the riots, the decline of industry and the tensions of the Cold War, Minneapolis-Saint Paul endures and innovates. Each night, the people can look up to the sky, pick out the brightness of the North Star, and know that no matter what the future has in store, the Twin Cities will be ready to challenge whatever comes."
 
  state_lore_initials.208: "ОМА"
- state_lore_name.208: "Омаха"
+ state_lore_name.208: "Омага"
  state_lore_desc.208: "In the days of the pioneers and the Oregon Trail, families from the East traveled into the great frontier of the American west, unsure of what lay ahead of them. For many, their last place of rest and preparation before the venture was in a blooming town on the Missouri River. This is the city of Omaha, Nebraska, the Gateway to the West.\n\nOmaha is the second-largest city on the Great Plains today, home to over 300,000 people and swiftly rising. The imposing brick silhouettes of Jobbers Canyon form the heart of the burgeoning meatpacking and agricultural industry which dominates the local economy, while the golden fields of the Big O's surroundings are filled with wheat, corn, and other grains. Just a few miles south is the University of Nebraska, the largest college in the state and home to a resurgent Cornhuskers football team. When the sun sets on the prairie, you can count on the theaters and venues of the city's North Side to spill jazz and blues into the streets, the rich music developed by the sizeable Black population which calls Omaha their home.\n\nBut just as anvil clouds on the horizon signal incoming thunderstorms, so too does trouble creep towards the city. Rumors of railroad and meatpacking industry restructures threaten a massive wave of layoffs among the impoverished North Side, predominantly targeting Black laborers. While Nebraska has no segregation nor slaver history on the books, the city is governed unofficially by an everpresent policy of redlining and secret covenants keeping the communities apart, only recently even being challenged. Wealth disparity between White and Black citizens is among the highest in the nation. Tensions, always present and always bubbling, threaten to explode as the Civil Rights movement steams on - and, if the Red Summer of 1919 bears any relevance to today, an explosion means riots, lynchings, bloodshed, and death.\n\nOmaha teeters on the precipice of the future - economically as precarious as Detroit or Toledo, racially as fragile as Birmingham or Montgomery. Its fate relies as much upon itself as it does on the nation around it. What way America falls may decide whether Omaha has summer days or tornado season ahead."
 
- state_lore_initials.209: "НАШ"
- state_lore_name.209: "Нашвілл"
+ state_lore_initials.209: "НЕШ"
+ state_lore_name.209: "Нешвілл"
  state_lore_desc.209: "You hear Nashville before you see it. Come over the hills which surround the city, and you'll just begin to pick out the guitar notes of America's top country hits. Get closer and you can hear the saxophones and organs of jazz and soul sweep in alongside the drums and bass. Once you see the L&C Tower and the sound becomes overpowering, you know you've made it. This is Music City, where the dreams of country's most talented artists come to make their name.\n\nNashville finds its beginnings as a fort built during the Revolutionary War. Its strategic position on the Cumberland River instantly made it a quickly growing investment, both for military and economic purposes, and the city exploded in popularity as more Americans moved over the Appalachians. The Civil War mostly passed the city by, save for the early occupation by Federal forces and the Battle of Nashville in 1864, and that relative intactness allowed the city to prosper in the Reconstruction era and beyond. Healthcare, music, and universities such as Vanderbilt, Belmont, Tennessee State, and others have all become vital to the city's economy and culture, leading to the nickname "The Athens of the South".\n\nThe Athens of the South, however, is plagued by its original sin of slavery. Segregation and discrimination is buried deeply into Nashville's roots. The city itself was founded with slaves to work the streets. The Civil War ended the direct ownership of Black Americans, but Reconstruction brought no racial progress. The Daughters of the Confederacy made their home first in Nashville, and the first incarnation of the Klan found the city as one of its earliest hotbeds. The gruesome lynching of Ephraim Gizzard was only the beginning of the long, arduous, and brutal fight for equality in the city.\n\nThe Civil Rights Movement has not left Nashville alone. Recent years have seen some steps forwards in the move towards equality, but the systems of segregation remain in place both officially and unofficially. Tensions smolder under the neon exterior of the clubs and the studios. Still, the people of the city have a lot to look ahead to. The healthcare industry is booming, outside companies are making their new home in the city, and the road for music's best keep leading to Tennessee. At the end of the day, as long as the guitars keep playing and the organs keep sounding their notes, Music City remains hopeful for a brighter future ahead."
 
  state_lore_initials.210: "СЛС"
@@ -889,8 +889,8 @@
  state_lore_name.211: "Чарлстон"
  state_lore_desc.211: "Few American cities are as steeped in the history of the country as Charleston, South Carolina. Charleston was one of the first colonies founded by the English, bringing with it settlers, ideas- and slaves. Charleston was on the front lines of the American Revolution. And it was the site of the first battle of the Civil War, as Confederate troops fired upon their brothers. Today, it is one of the great metropolises of the South- prosperous, cosmopolitan, but never free from the ugly legacy of oppression and bigotry. Just as in the past, Charleston is sure to be one of the front lines of this latest conflict that will define a new era of American history."
 
- state_lore_initials.212: "РІЧ"
- state_lore_name.212: "Річмонд"
+ state_lore_initials.212: "РИЧ"
+ state_lore_name.212: "Ричмонд"
  state_lore_desc.212: "Richmond, capital of Virginia, is a crossroads. It's bigger than a town, but is finding itself increasingly dwarfed by the metropolises of America. It's not of the modern, cosmopolitan northeast, but is only peripheral to the South. It is increasingly a city of progress and learning, but its legacy as the capital of the Confederate States of America is felt by every African-American resident who still has to live with the legacy of slavery and segregation. Richmond enters the 1960s as a microcosm of America itself- both of the hope of progress and technology, and the fears of bigotry and discrimination."
 
  state_lore_initials.213: "МАЯ"
@@ -962,11 +962,11 @@
  state_lore_desc.229: "The capital of the Reichsgau of Saxony remains a center of industry and culture in the Reich, with the Zwinger Palace, the Dresden Frauenkirche, and Semperoper opera house remaining untouched by the ravages of time. Around the city center, precision factories for vehicles, precision optics, and medical devices mark Dresden as one of the great industrial centers of Eastern Germany proper - supplying a garrison force that keeps a steady watch on the eastern borders of the Reich."
  
  state_lore_initials.230: "ДАН"
- state_lore_name.230: "Ґданськ"
+ state_lore_name.230: "Данциґ"
  state_lore_desc.230: "The first attack of Nazi Germany's war machines was against not a country, but a city made independent by circumstance after the First World War. Sitting on a namesake bay, Danzig had been separately founded and defined by Polish and German roots. Its Senate overrun by the NSDAP in 1933, the city would begin to infringe upon the rights of its Polish and Jewish inhabitants, and would ultimately be annexed by Germany in the first days of the Second World War.\n\nWith its return affirmed by the passage of decades, the city now stands as a staunchly German city, built around shipbuilding and trade. It looks ahead to the open sea, for behind it lays the countless innocent lives lost through pogroms and genocides in Germania's pursuit for supposed racial superiority."
  
- state_lore_initials.231: "ВРЦ"
- state_lore_name.231: "Вроцлав"
+ state_lore_initials.231: "ВРУ"
+ state_lore_name.231: "Вреслау"
  state_lore_desc.231: "From the Romans, to the Bohemians, to the Poles, to the Hungarians, to Austrians, and finally to the Prussians, Breslau is a city of many names that has been passed around many nations. The largest city east of Germania, Breslau has long served as an important railway hub to the East and as the industrial center of Silesia.\n\nMany camps, of both the forced labor and extermination type, surround the ancient city. It serves and has served as a stronghold of National Socialism, a bastion of NSDAP support even before they came to power. Millions have been worked to death by the conglomerates all around Breslau, and yet the residents cannot and will not bat an eye.\n\nBreslau, a city known for its long, storied history and multicultural heritage, has been utterly subsumed by the monolith of National Socialism. It is a tombstone for the East, with millions of Slavs and their cultures buried underneath the city."
  
  state_lore_initials.232: "ЛДЗ"
@@ -977,8 +977,8 @@
  state_lore_name.233: "Ганновер"
  state_lore_desc.233: "Hannover - situated at a critical road and river junction in Northern Germany, connecting the maritime cities of the Hanseatic League with overland routes to the Low Countries and the eastern German states - remains a critical center of commerce and intermediate industry in the Reich. Oil, rubber, and chemical factories dot the horizon over a city known for its patronage of intellectual pursuits and higher research - with its past linkages to the German Jewish community and Great Britain consigned to the dustbin of history."
  
- state_lore_initials.234: "КЕН"
- state_lore_name.234: "Кенігсберг"
+ state_lore_initials.234: "КОН"
+ state_lore_name.234: "Кьоніґсберґ"
  state_lore_desc.234: "The traditional heartland of Prussia, Germany would be almost unrecognisable if it wasn't for the winding spires and paradoxical bridges of Königsberg. During the dark days of Napoleon's rampage across Europe, Königsberg provided a vital shelter for King Frederick William III during the French occupation of Prussia. Just as it served then, and just as it served during the days of the Great Elector, under the Reich, Königsberg serves as the fulcrum that separates Eastern Europe from the Reich's Imperial heartland.\n\nAdorned with statues and monuments to Hitler's savage subjugation of Eastern Europe, there seldom lies a street that does not hold Hitler's visage. Each detail, lovingly crafted by a Party sycophant to portray the Führer as the neo-Alexandrian demigod that forty years of propaganda spent building up.\n\nWhen Hitler dies, he will find he is much more like Alexander than he realises."
 
  state_lore_initials.235: "ТУН"
@@ -1012,8 +1012,8 @@
  state_lore_name.303: "Кайєнн"
  state_lore_desc.303: "The Brazilian Army has been occupying French Guiana for the last twenty years, and not once has the city of Cayenne accepted it. Sitting on the estuary of the Cayenne River, the occupation authority has seen fit to make the largest city in the colony their home, and the resentment ever since has been thick enough to taste. Add onto that with the migration of tens of thousands of Brazilian immigrants moving in, and you have a recipe for one of South America's most resentful regions - and there are certainly more than enough of those on the continent.\n\nAs the war came to a conclusion and the authority of both France's fell into flux, Brazil saw its opportunity to step in. Backed by an American nation which saw it as a convenient solution to a potential problem, the Brazilian Army marched across the border and seized the colony. Since then, French Guiana - and Cayenne - have lasted in an odd limbo, slowly but surely spiraling further and further into Brazil's sphere while more and more immigrants bring the region closer to their home and more Brasilia money funnels into the area's development. Cayenne has certainly benefited from the influx of people and jobs, but when paired with the slow fading of the region's autonomy and culture, the trade-off seems a lot more sour than it first appeared.\n\nIt's not clear what the future holds for French Guiana and Cayenne. The city itself has come far from once being a penal colony. Its narrow streets and sidewalks are vibrant with culture and life, and its people enjoy a steadily improving quality of life. But how long can this limbo lasts before Cayenne is pulled from the ledge, one way or another?"
 
- state_lore_initials.304: "ТХН"
- state_lore_name.304: "Торсхавн"
+ state_lore_initials.304: "ТГН"
+ state_lore_name.304: "Торсгавн"
  state_lore_desc.304: "Tórshavn, the Faroe Islands' largest city and capital, is in so many ways a product of its many occupations. The product of medieval policies of trade monopoly, the city has prospered - and faltered - in the many foreign occupations to come. Danish for much of modern history, it fell into British hands when WW2 began, and into American when the war ended. In 1946, it became the site of the Faroe Islands declaration of independence - the birthplace of the republic.\n\nNow, it bears all the fruits and scars of that relationship. Tórshavn's century-old buildings have been modernized by American money, but its streets remain teeming with foreign businesses and OFN soldiers. Which truly matters more is a matter of perspective - and a bitter political battle which rages until present."
 
  state_lore_initials.305: "ПБМ"
@@ -1109,7 +1109,7 @@
  state_lore_initials.323_POL: "ЛВО"
  state_lore_initials.323_UKR: "ЛВІ"
  state_lore_name.323: "[Statelore_Get_lviv_name]"
- state_lore_name.323_GGN: "Лемберг"
+ state_lore_name.323_GGN: "Лемберґ"
  state_lore_name.323_POL: "Львоу"
  state_lore_name.323_UKR: "Львів"
  state_lore_desc.323: "[Statelore_Get_lviv_desc]"
@@ -1198,7 +1198,7 @@
  state_lore_initials.342_UKR: "КНС"
  state_lore_initials.342_UKS: "ДПВ"
  state_lore_name.342: "[Statelore_Get_reichenaustadt_name]"
- state_lore_name.342_GER: "Рейхенауштат"
+ state_lore_name.342_GER: "Райхєнаусштадт"
  state_lore_name.342_UKR: "Катерінослав"
  state_lore_name.342_UKS: "Дніпропетровськ"
  state_lore_desc.342: "[Statelore_Get_reichenaustadt_desc]"
@@ -1220,7 +1220,7 @@
  state_lore_initials.344_GER: "ҐЗД"
  state_lore_initials.344_UKR: "ЮЗК"
  state_lore_name.344: "[Statelore_Get_hughesdorf_name]"
- state_lore_name.344_GER: "Ґунзедорф"
+ state_lore_name.344_GER: "Гуґєсдорф"
  state_lore_name.344_UKR: "Юзівка"
  state_lore_desc.344: "[Statelore_Get_hughesdorf_desc]"
  state_lore_desc.344_GER: "Hughesdorf is a satellite settlement to the coal mines of the Donets Basin. If the miners of the region do not live in tottering portable barracks close to an open mine shaft, corralled and mushed by rifle-sporting Soldaten, they live in one of Hughesdorf's skeletal outer suburbs. Going into the city center, perhaps to pick up groceries or firewood, they walk past wide open fields that were once whole city blocks. The map is like an asteroid belt — untethered pockets of settlement form a ring around the central district, the only complete and uniform place in the mutilated city.\n\nThe city center was rebuilt with coal production in mind. Tool shops pock the main roads, factories spit out black smoke and rock drills, wide ships and enslaved dockworkers drag articulated haulers onto land. However, these machines have not eliminated the use of pickaxes and corfs, quarry tubs, hard wire hutches, and heavy mattocks in the mines. The governing authorities of Reichskommissariat Ukraine are very deliberate in who they provide the newest equipment. The governing authorities of Reichskommissariat Moskowien are invested in the economic success of the city only insofar as it secures a steady coal supply. That the current arrangement murders Ukrainians and Russians by the hour is a welcome and deliberate feature of Hughesdorf's new economic architecture."
@@ -1230,7 +1230,7 @@
  state_lore_initials.345_GER: "РАД"
  state_lore_initials.345_UKR: "РНД"
  state_lore_name.345: "[Statelore_Get_rostov_name]"
- state_lore_name.345_GER: "Ростов ам Дон"
+ state_lore_name.345_GER: "Ростоу-ам-Дон"
  state_lore_name.345_UKR: "Ростів-на-Дону"
  state_lore_desc.345: "[Statelore_Get_rostov_desc]"
  state_lore_desc.345_GER: "Strategically positioned at the crossroads of key transportation routes and with access to vital stocks of wheat, iron, and timber, Rostow has become an essential hub for the Nazi economic machine. The city serves as a logistical center for the supply and movement of troops, weaponry, and raw materials to fronts all throughout the Reich, and its bristling port.\n\nMost importantly, Rostow connects trade from the Black Sea with the river routes of the other Reichskommissariats. Oil tankers from Kaukasien steam up the Volga from Astrakhan, across the Volga-Don Shipping Canal near Paulusburg, and out the Don through Rostow. The city is an easy route for freight of all kinds and a vital passage for the continued operation of German economic exploitation in Eastern Europe."
