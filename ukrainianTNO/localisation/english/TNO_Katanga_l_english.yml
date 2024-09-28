@@ -1,27 +1,27 @@
 ﻿l_english:
  ### Country Names ###
- KTG: "State of Katanga"
- KTG_DEF: "the State of Katanga"
- KTG_ADJ: "Katanganian"
+ KTG: "Держава Катанга"
+ KTG_DEF: "Держава Катанга"
+ KTG_ADJ: "Катангзьк"
 
  ## Cosmetic Tags ##
- KTG_Congo: "State of the Congo"
- KTG_Congo_DEF: "the State of the Congo"
- KTG_Congo_ADJ: "Congolese"
+ KTG_Congo: "Держава Конґо"
+ KTG_Congo_DEF: "Держава Конґо"
+ KTG_Congo_ADJ: "Конґолезьк"
 
  ### Parties ###
- KTG_communist_party: "Katanga ALM"
- KTG_communist_party_long: "Katanga African Liberation Movement"
- KTG_paternalism_party: "PSA"
- KTG_paternalism_party_long: "Parti Solidaire Africain"
- KTG_despotism_party: "Belgian Mining Concerns"
- KTG_despotism_party_long: "Belgian Mining Concerns"
- KTG_fascism_party: "Schramme Clique"
- KTG_fascism_party_long: "Schramme Clique"
- KTG_national_socialism_party: "Hüttig Loyalisten"
- KTG_national_socialism_party_long: "Hüttig Loyalisten"
+ KTG_communist_party: "АВР Катанги"
+ KTG_communist_party_long: "Африканський визвольний рух Катанги"
+ KTG_paternalism_party: "ПАС"
+ KTG_paternalism_party_long: "Партія африканської солідарності"
+ KTG_despotism_party: "Бельгійські гірничодобувні концерни"
+ KTG_despotism_party_long: "Бельгійські гірничодобувні концерни"
+ KTG_fascism_party: "Кліка Шрамма"
+ KTG_fascism_party_long: "Кліка Шрамма"
+ KTG_national_socialism_party: "Лоялісти Гюттіґа"
+ KTG_national_socialism_party_long: "Лоялісти Гюттіґа"
 
  ### Characters ###
- KTG_Jean_Schramme: "Jean Schramme"
- KTG_Alistair_Wicks: "Alistair Wicks"
- KTG_Guy_Weber: "Guy Weber"
+ KTG_Jean_Schramme: "Жан Шрамм"
+ KTG_Alistair_Wicks: "Алістер Вікс"
+ KTG_Guy_Weber: "Ґай Вебер"

@@ -1,7 +1,7 @@
 ﻿l_english:
  ### Country Names ###
- ANC: "Африканський національний конгрес"
- ANC_DEF: "Африканський національний конгрес"
+ ANC: "Африканський Національний Конгрес"
+ ANC_DEF: "Африканський Національний Конгрес"
  ANC_ADJ: "Африканськ"
 
  ## Cosemetic Tags ##
@@ -11,11 +11,11 @@
 
  ### Parties ###
  ANC_communist_party: "АНК"
- ANC_communist_party_long: "Африканський національний конгрес"
+ ANC_communist_party_long: "Африканський Національний Конгрес"
  ANC_socialist_party: "АНК"
- ANC_socialist_party_long: "Африканський національний конгрес"
+ ANC_socialist_party_long: "Африканський Національний Конгрес"
  ANC_progressivism_party: "АНК"
- ANC_progressivism_party_long: "Африканський національний конгрес"
+ ANC_progressivism_party_long: "Африканський Національний Конгрес"
 
  ### Characters ###
  ANC_Oliver_R_Tambo: "Олівер Р. Тамбо"

@@ -1198,7 +1198,7 @@
  state_lore_initials.342_UKR: "КНС"
  state_lore_initials.342_UKS: "ДПВ"
  state_lore_name.342: "[Statelore_Get_reichenaustadt_name]"
- state_lore_name.342_GER: "Рейхенауштат"
+ state_lore_name.342_GER: "Райхенауштат"
  state_lore_name.342_UKR: "Катерінослав"
  state_lore_name.342_UKS: "Дніпропетровськ"
  state_lore_desc.342: "[Statelore_Get_reichenaustadt_desc]"

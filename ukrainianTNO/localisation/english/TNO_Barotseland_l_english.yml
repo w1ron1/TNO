@@ -1,21 +1,21 @@
 ﻿l_english:
  ### Country Names ###
- BRS_despotism: "Kingdom of Barotseland"
- BRS_despotism_DEF: "the Kingdom of Barotseland"
- BRS_socialist: "Socialist State of Barotseland"
- BRS_socialist_DEF: "the Socialist State of Barotseland"
- BRS_ADJ: "Barotse"
+ BRS_despotism: "Королівство Баротселенд"
+ BRS_despotism_DEF: "Королівство Баротселенд"
+ BRS_socialist: "Соціялістична держава Баротселенд"
+ BRS_socialist_DEF: "Соціялістична держава Баротселенд"
+ BRS_ADJ: "Баротськ"
 
  ### Parties ###
- BRS_communist_party: "BANU"
- BRS_communist_party_long: "Barotse African National Union"
- BRS_socialist_party: "BANU"
- BRS_socialist_party_long: "Barotse African National Union"
- BRS_despotism_party: "Royal Party"
- BRS_despotism_party_long: "Royal Party"
- BRS_paternalism_party: "Barotseland Armed Guard"
- BRS_paternalism_party_long: "Barotseland Armed Guard"
+ BRS_communist_party: "БАНС"
+ BRS_communist_party_long: "Баротський африканський національний союз"
+ BRS_socialist_party: "БАНС"
+ BRS_socialist_party_long: "Баротський африканський національний союз"
+ BRS_despotism_party: "Королівська партія"
+ BRS_despotism_party_long: "Королівська партія"
+ BRS_paternalism_party: "Збройна гвардія Баротселенду"
+ BRS_paternalism_party_long: "Збройна гвардія Баротселенду"
 
  ### Characters ###
- BRS_Mwanawina_III: "Mwanawina III"
- BRS_Mishake_Muyongo: "Mishake Muyongo"
+ BRS_Mwanawina_III: "Мванавіна III"
+ BRS_Mishake_Muyongo: "Мішаке Муйонґо"
