@@ -320,7 +320,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   GNG_CountryInfo_Content.9: "Негідники та державні діячі"
   GNG_CountryInfo_Content_desc.9: "Even as the tycoons tussle over political influence, the power of the underworld is such that their 'respectable' interlocutors - §nStanley Ho§! for the Triads, and §EYokoi Hideki§! for the Yakuza - are as influential as the beleaguered §QCommissioner of Police§!, who relies on the §eKenpeitai's Colonel Miyazaki Kiyotaka§!, to assist in police and intelligence duties.\n\nFrom beyond Guangdong's borders, the §eEmpire of Japan's§! tends to its interests in Guangdong via §qGeneral Nagano Shigeto§! and §jConsul-General Takashima Masuo§! - representing the §qmilitary§! and §jcivilian§! branches of §JJapan's government§!.\n\nFor the §MRepublic of China§!, the §Mloss of Guangdong in 1950 still smarts§!. Consul-General §MSong Zhiguang§! - a §Snative of Guangdong§! - offers his begrudging assistance to the corporate state, assisted by senior political attaché §MWang Jingxu§! - a representative of the Chinese military with §Rfar less patience§! than Song."
 
- # Бразилія
+ # БРАЗИЛІЯ
 
   #101
   BRA_CountryInfo_Folder.101: "Кінець Третьої республіки"
@@ -347,7 +347,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   BRA_CountryInfo_Content.8: "The International Situation"
   BRA_CountryInfo_Content_desc.8: "As has been the case for several decades, §nBrazil§! is broadly aligned with the §iOFN§! and §iAmerica§!, primarily due to common military training (the military is more pro-American than politicians) and deep socio-economic links. However, §nBrazil§! is not cowed by their American allies and has the latitude to oppose §iAmerica§! when there are differences.\n\nSignificant §SJapanese§! investment is welcomed by even pro-§iOFN§! politicians such as §MLott§! and §MKubitschek§! and there is therefore strong pro-§SJapan§! sentiment. No such sympathy is spared for §qGermany§!, who frequently denounces §nBrazil§! for its 'mongrelization'. §nBrazilian§! efforts in the Lobster War have total support.\n\n§nBrazil§! aspires towards Latin American economic integration; its aim in this is to strengthen economies and increase Latin countries' global influence. However, this does not extend to §MArgentina§!; there, foreign-policy conflicts are hardening into what is being known as the §ISouth American Cold War§!."
 
- # Японія
+ # ЯПОНІЯ
   JAP_CountryInfo_Folder.101: "Тріумфуюче сонце, що сходить"
   JAP_CountryInfo_Content.1: "Conquest's Bitter Resentment"
   JAP_CountryInfo_Content_desc.1: "Jealous of the Colonial Empires possessed by the Europeans and snubbed by the failure of the Racial Equality Clause in Versailles, the §PEmpire of Japan§! sought to carve its own Imperium within the resource-bountiful but troubled region of East Asia. With the fall of the hated §RWashington§! §MNaval§! §WTreaty§!, it was only a matter of time. Occupying Manchuria - sealing the dead Tsar's bitter rout in 1905 once and for all - in 1931, it reorganised the region into the §wEmpire of Manchuria§! or simply, §wManchukuo§!. The Kwantung Army - had seized Manchuria from the warlords and fiefdoms that had been vying for even scraps of power within its wind-swept hills, when an explosion rocked the Japanese-controlled Mantetsu.\n\nWithin the backdrop of the §nGreat Depression§! an ultimate clash for the fate of the entirety of Asia lay over the horizon. When the dark sky broke, a war like no other would erupt."
@@ -375,7 +375,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   JAP_CountryInfo_Content.12: "The Kidoites"
   JAP_CountryInfo_Content_desc.12: "Centred on its eponymous leader, §gKido Kōichi§!, the Kidoites aren't so much a faction as they are §fkingmakers§!. Kido, being the Lord Keeper of the Privy Seal, acts as §fHis Majesty's§! eyes and ears inside the government - as well as his supposed mouth. If Kido says something must be or must not be done, it is only because the Emperor said it must be or must not be done. At least, allegedly. His support will be instrumental, in getting any potential government's legislation through the House of Representatives as well as the small gathering of allies he has accrued inside the YSK that equally enjoy being the tiebreaker inside politics as he does."
 
- # Китай
+ # КИТАЙ
 
   #101
   CHI_CountryInfo_Folder.101: "Каприз долі"
@@ -392,7 +392,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   CHI_CountryInfo_Content_desc.4: "- Sway the §WYuan§! in your favor and §Gexploit the support§! of your most trusted faction!\n\n- Follow the journey of an ancient nation in a modern world!\n\n- Guide a moderate modernization or charge full speed ahead towards the future!"
 
 
- # Юньнань
+ # ЮНЬНАНЬ
 
   #101
   YUN_CountryInfo_Folder.101: "Пережиток старих часів..."
@@ -486,7 +486,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   ORE_CountryInfo_Content.3: "Реформи"
   ORE_CountryInfo_Content_desc.3: "Even if the skies weren't filled with bombers, the §WOrenburg Workers' State§! lacks the organization and will to industrialize the region. Despite the legends, §WOrenburg§! is disorganized and fragile. The §WWorkers' Council§! is consumed by indecision, infighting, and bureaucracy. The village communes it represents are fiercely independent and oppose any efforts to centralize the region into something resembling a functioning government. If §WOrenburg§! is to survive, it must adapt.\n\nNot all agree with the §WWorkers' Council§!, however. §WAleksander Burba§! imagines a technocratic republic that can carry §WOrenburg§! into the modern world, while his opponent §WGeorgy Malenkov§! rallies around an older, more Soviet style of governance. A bright future lies before §WOrenburg§!, and the Urals as a whole, but only if she is strong enough to seize it..."
  
- # МАҐНІТОҐОРСЬК
+ # МАҐНІТОҐОРСК
 
   #101
   MGN_CountryInfo_Folder.101: "Гора"
@@ -656,7 +656,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   USA_CountryInfo_Content.9: "The Extremists"
   USA_CountryInfo_Content_desc.9: "While "more respectable" NPP leaders try to ignore them, the Pact also includes many smaller groups whose hostility to the §LEstablishment§! includes not just the two main parties but the American system itself. These parties view the Republic as a failed state, with radical action needed to save its people.\n\nThe §VMarxist Caucus§!, led by Communist Party USA's §VGus Hall§!, is one such group. Composed of avowed communists and socialists, the Marxist Caucus sees the average American as exploited by the capitalist class and the current fight over civil rights to be a symptom of a larger class struggle.\n\nEven smaller and more fringe than the §VMarxists§! are the §jSovereigntists§!, a vile group of fascists and white nationalists. Few but the most radicalized Americans would dare associate themselves with them. Their leader, §jFrancis Parker Yockey§!, has made a reputation giving voice to the dark fantasies of aggrieved whites who see Germany as an ally, not an enemy in a coming war."
 
- #ІБЕРІЯ 
+ # ІБЕРІЯ 
  IBR_CountryInfo_Folder.101: "Brothers in Arms?"
  IBR_CountryInfo_Folder.102: "Sunset Over Iberia"
 
@@ -683,7 +683,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  SAF_CountryInfo_Content.3: "Майбутня різноманітність рішень"
  SAF_CountryInfo_Content_desc.3: "У містах пригноблені марширують на знак солідарності, вимагаючи континенту, вільного від розколу, а з далеких застав, що охороняють §RРайхскомісаріят§!, просочуються повідомлення про спалені села та вбиті сім'ї в конфлікті між партизанськими силами та §RНімецькою африканською армією§!. §WДомініон§! справді ходить по канату, обережно задобрюючі усі фронти.\n\nПеред нацією стоїть багато виборів; вона може використати на свою користь подарунки, які викрала компанія «Де Бірс» з видобутком §Wалмазів!. Вона повинна збалансувати іноземний §Wвплив§! і прибуток, намагаючись підтримувати торгівлю з §RПактом§!; і вона повинна переконатися, що майбутні §Wвибори§! відбудуться на її користь, бо який би вибір не був зроблений, він так чи інакше потрясе Південну Африку. Конфлікт у Капській провінції швидко стає неминучим; §Wпрем'єр-міністр Вільєрс Граф§! повинен утримувати країну на прямому і вузькому шляху, бо якщо §WПівденна Африка§! зісковзне з високого тросу, то тільки Бог знає, де вона приземлиться."
 
- # Британія ПРАВЬ МОРЯМИ
+ # БРИТАНІЯ ПРАВЬ МОРЯМИ
 
  ENG_CountryInfo_Folder.101: "The Lightless Isle"
  ENG_CountryInfo_Folder.102: "The Veneer of Civilisation"
@@ -718,7 +718,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  ENG_CountryInfo_Content.10: "The Exiles"
  ENG_CountryInfo_Content_desc.10: "The retreat from Britain was an affair characterised by abject chaos. Those in Britain today speak of a "§VList§!" which divided those who would be able to leave and those who would stay. Amongst that "§VList§!" was most of the §sWartime Cabinet§! of §iWinston Churchill§!, including future Prime Ministers §RHerbert Morrison§! and §BHarold Macmillan§!.\n\nAlso on the list were many who had had the fortune of being covered by the umbrella of §VLord Beaverbrook§!, such as the now §RLeader of the Opposition§! §VMichael Foot§!. In §LOttawa§! the exiles have sat adrift for the past §M17 Years§!, and the malaise of perhaps never being able to once again set foot on their beloved homeland has permeated much of the government.\n\nWhether it be for §BQueen and Country§! or the §VVoice of the People§!, the current party leaders, §BMacmillan§! and §VFoot§!, have risen to near-mythological status within their respective ranks. The leadership of the §GExiles§! could not be under more safe hands, provided that there still lies hope..."
 
- # АНГЛІЯ РУЛІ ТА УЕЛЬС
+ # АНГЛІЯ ТА УЕЛЬС
 
  OLD_ENG_CountryInfo_Folder.101: "Ruled Britannia"
  OLD_ENG_CountryInfo_Folder.102: "The Oncoming Storm"
@@ -753,8 +753,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  OLD_ENG_CountryInfo_Content.10: "Berlin-on-the-Plym"
  OLD_ENG_CountryInfo_Content_desc.10: "Germany is not blind to the instability of their puppet regime. They realise all too well that neither §lCollaborator§! or §BHMMLR§! member is a fan of the Nazi Regime. The few, such as §oChesterton and his merry band of lunatics inside the National Front§!, that do appreciate their rule are too incompetent to even be considered as possible replacements. Which is why the town of Plymouth was transformed into a vast military holding led by the Wehrmacht garrison inside the British Isles. Commanded by §EFranz Six§!, the former leisure town has fulfilled its purpose once more and become the hottest destination for Wehrmacht officers to send their children, to keep them out of harm's way. If England was ever to truly break free from German rule, the garrison is to march on England proper and exterminate any signs of resistance. Armed with only the most high-tech of weaponry, if this was ever to occur, it would spell §xdisaster§! for any budding Resistance movement."
 
-
- # СВЕРДЛОВСЬК
+ # СВЄРДЛОВСК
 
  SVR_CountryInfo_Folder.101: "A State with an Army, or...?"
  SVR_CountryInfo_Folder.102: "The Wind Blows West in Siberia"
@@ -774,7 +773,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  SVR_CountryInfo_Content.5: "The Deepest Black"
  SVR_CountryInfo_Content_desc.5: "To our southwest, there is a plague ravaging our people. It spreads silently and it kills without signal or sign. It is the §sBlack League of Omsk§!. Hatred and revenge has seeped into their existence to the point that their entire state has become a near-fascistic abomination dedicated to delivering their calculated revenge against every German man, woman and child. While the annihilation of the Nazi is our goal, our quarrel is §wnot with the women and children§! of Germany but the §oideology§! they spout.\n\nMoreover, we have caught the plague. Omsk infiltrators continue to act unabated inside our Army, and report directly to Karbyshev and Yazov on every movement. Unless we curtail their influence, we too will become just another footnote in Russia's §Rmournful history.§!"
 
-# УЕЛЬС
+ # УЕЛЬС
 
  WAL_CountryInfo_Folder.101: "Cymru Today"
  WAL_CountryInfo_Folder.102: "Cymru Tomorrow"
@@ -916,27 +915,27 @@ CountryInfo_tab_name_country: "Огляд країни"
  COG_CountryInfo_Content.7: "Beyond the Reichsmark"
  COG_CountryInfo_Content_desc.7: "South Africa is a powderkeg. Worse, it is a powderkeg that has had decades to boil. Resentment from both §OBoer§! and §nAfrican§! alike has led to Cape Town making rasher and hastier decisions, than it did previously. Without the leash of its §VBritish§! master on its collar, South Africa has become rudderless. They can grovel at the feet of the Boer or the Black Man. Not both.\n\nTo Müller however, this is nothing more than an §Eobligation§!. He will send his mercenaries over to South Africa where their §Rbattle-hardened experience§! will more than easily wipe away whatever §JCape Town conscripts§! sent to stop them. Once the war is over, the hunting will resume, as it always has. The only thing that worries Müller is §iAmerica§!. Sure, their military can go toe to toe with the best of his army, but imagine what it would do to his §Kbusiness§!? A sobering thought, indeed."
 
- # РК. Україна
+ # РК. УКРАЇНА
 
  UKR_CountryInfo_Folder.101: "Нагодувати Європу"
 
  UKR_CountryInfo_Content.1: "Хлібний кошик Європи"
  
- UKR_CountryInfo_Content_desc.1: "§MUkr§!§Yaine§!'s history is best condensed in what the word "§MUkr§!§Yaine§!" literally means; from the old Slavic language, it means "Borderland". Caught between the forces of Berlin in the west or Moscow in the east, there has scarcely been a moment of calm in §MUkr§!§Yaine§!'s storied history. Once but a slice of the vast §KRussian Empire§!, §MUkr§!§Yaine§! first gained independence in the chaos of the §VRussian Revolution§! before losing it to Moscow's vengeful return, and now finds itself a slave to §oGermania§!.\n\n§MUkr§!§Yaine§! lies conquered at the mercy of another empire's hand, subject to its cruelty and decree, yet the cycle has begun to churn out another vain imitation of §MUkrai§!§Ynian§! history, put on show for the thousandth time as a ruler's crown starts to slip. Every twisted dream of §MUkrai§!§Ynian§! nationhood now vies with one another for the nation's soul; be it east or west, §gcollaboration§! or §Gindependence§!, §Ofascism§! or §yfreedom§!, every hope and prayer for §MUkr§!§Yaine§! has come to seize Destiny - or die trying."
+ UKR_CountryInfo_Content_desc.1: "§MІсторія Укр§!§Yаїни§! найкраще відображає старослов'янське розуміння слова «§MУкр§!§Yаїна§!», як прикордоння хоч і не правильне але дуже сильно підкреслює біль України. Вона затиснута між силами Ґерманії на заході та Москви на сході, §MУкр§!§Yаїна§! майже не знала спокійних моментів у своїй багатовіковій історії. Колись ставши шматком величезної §KРосійської імперії§!, §MУкр§!§Yаїна§! здобула незалежність тільки під час хаосу §VРосійської революції§!, а потім втратила її через мстиве повернення Москви, а тепер опинилася в рабстві у §oҐерманії§!.\n\n§MУкр§!§Yаїна§! лежить завойована на милість іншої імперії, підкорена її жорстокістю і декретами, але цикл почав випускати чергову марну імітацію від завойовників роблячи вигляд «зацикленості» §MУкраї§!§Yнської§! історії, яку виставляють на показ в тисячний раз, коли корона правителя починає сповзати з голови. Кожна мрія про §MУкраї§!§Yнську§! державність тепер змагається одна з одною за душу нації, будь то схід чи захід, §gколабораціонізм§! чи §Gнезалежність§!, §Oфашизм§! чи §yсвобода§!, кожна надія та молитва за §MУкр§!§Yаїну§! прийшла, щоб забрати собі долю - або померти намагаючись."
 
  UKR_CountryInfo_Content.2: "Мільйон зломаних мрій"
- UKR_CountryInfo_Content_desc.2: "§MUkrai§!§Ynian§! dreams have a habit of stillbirth. Starting with the Cossack hetmanate, §MUkrai§!§Ynian§! nationhood could only flare up for fleeting moments. In 1917, with Moscow in §Vturmoil§!, the §DUkrainian Rada§! tried their hand. This dream, too, died young, with the remnants of §MUkrai§!§Ynian§! democracy fleeing from the advancing §eSoviets§! to §CPoland§!. The §gOrganization of Ukrainian Nationalists§! soon began resistance across Western Ukraine and in Polish Galicia, and fought with the §oNazis§! against their hated enemy.\n\nBut with the end of the §SUA-SSR's§! dream, the §gOUN§! soon floundered, with those opposing collaboration breaking away under §sStepan Bandera§!. Meanwhile, another movement arose in Western Ukraine and Galicia, fighting for a §Gdemocratic dream§!. But §Rnone§! of these visions would survive - nor would almost any leader of the Ukrainian resistance movements, including Bandera. Even §oGermany's§! vision would die, as Erich Koch's colony slowly lost its position as the breadbasket of Europe at the hands of countless terrorist freedom fighters."
+ UKR_CountryInfo_Content_desc.2: "§MПочинаючи з часів козацького гетьманату, §MУкраї§!§Yнська§! державність могла спалахувати лише на короткі миті, якщо дивитися на її загальну історію. У 1917 році, коли в Москві панувало безладдя, §DУкраїнська Рада§! спробувала свої сили. Ця мрія також померла молодою, коли залишки §MУкраї§!§Yнської§! демократії були вбиті §eСовєцькими§! військами через що вона втікла до §CПольщі§!. §gОрганізація Українських Націоналістів§! незабаром розпочала опір по всій Західній Україні та в Польській Галичині і разом з §oнацистами§! боролася проти §eСовєцького§! союзу, свого ненависного ворога.\n\nАле з кінцем мрії про §SУСРР§!, §gОУН§! незабаром теж занепала, а ті, хто виступав проти колабораціонізму, відкололися від неї під проводом §sСтепана Бандери§!. Тим часом у Західній Україні та Галичині виник інший рух, який боровся за §Gдемократичну мрію§!. Але §Rжодне§! з цих бачень не сильно, прийнаймні на такому рівні щоб протидіяти фюреру так щоб він це помітив, і майже жоден з лідерів §MУкраї§!§Yнського§! руху опору, включно з Бандерою не вижив. Навіть бачення §oНімеччини§! може загинути, тому що колонія Еріха Коха повільно втрачає свою позицію житниці Європи від рук незліченних борців за свободу, що здобувають її терористичними методами."
 
  UKR_CountryInfo_Content.3: "Застряглі у часі"
- UKR_CountryInfo_Content_desc.3: "The Reichskommissariat was designed with the goal of subjugation. Its planners believed that someday, §MUkr§!§Yaine§! would submit to §oGermany§! and meekly accept its cultural and demographic §Rdecline§!. Instead, the situation on the ground has barely progressed, even after almost two decades spent attempting to move the dial. The §MUkrai§!§Ynian§! people have proven effective at maintaining their armies, and with violence already the core of their colonial policy, the Germans have no other answers.\n\nThe §DUNRA§! still fights for a §Grepublic§!, one now slipping into history. The §sUPA§! still fight for a man who died in prison a decade earlier, their nationalistic dreams more fantastical than ever. The §SPartisans§! battle for a Union which has long since §eshattered§!. Even the §oReichskommissariat§! battles for eventual Germanization, a dream that has endlessly delayed as the situation on the ground failed to change. The world has moved on from the Second World War, but Ukraine remains here, fighting with §Vno way out§!."
+ UKR_CountryInfo_Content_desc.3: "Райхскомісаріят був створений з метою підкорення. Його планувальники вірили, що колись §MУкр§!§Yаїна§! підкориться §oНімеччині§! і покірно прийме свій культурний і демографічний §Rзанепад§!. Натомість ситуація майже не змінилася, навіть після майже двох десятиліть, витрачених на спроби здобути незалежність. §MУкраї§!§Yнський§! народ довів свою ефективність в утриманні своїх армій, а оскільки насильство вже стало основою їхньої колоніальної політики, Німці не мають інших засобів відповісти.\n\n§DУНРА§! все ще бореться за §Gреспубліку§!, яка вже є історією що була дуже давно. §sУПА§! все ще бореться за людину, яка померла у в'язниці десять років тому, їхні націоналістичні мрії більш фантастичні, ніж будь-коли. §SПартизани§! які борються за Союз, який вже давно §eрозпався§!. Навіть §oрайхскомісаріят§! бореться за остаточну ґерманізацію - мрію, яка нескінченно відкладається, оскільки ситуація не змінюється. Світ відійшов від другої світової війни, але Україна залишається тут, борючись, не маючи §Vіншого виходу§!."
 
  UKR_CountryInfo_Folder.102: "Реліквії минулого"
 
  UKR_CountryInfo_Content.4: "Реформатори гнилі"
- UKR_CountryInfo_Content_desc.4: "The reality is that this system is utterly §xbroken§! in its current form, and that reality is clear even to the oppressors who run it. §MUkrai§!§Ynian§! colonialism has meant great expense and greater death. If it is to last, to continue to provide what the Nazi machine requires of it, it will need reforms.\n\nWhat those reforms will look like is still a matter of great debate. §oOhlendorf§!, an SS leader and thinker, looks to the free-market and pragmatic government action to §Grejuvenate§! the colonial system and §Rwipe out§! resistance. §BLeibbrandt§!, a disciple of Rosenberg, sees a §Llimited devolution§! to the natives as the reform the Reichskommissariat was always designed for. §sBräutigam§!, a rising star in the diplomatic core, imagines an even more radical reform that sees Ukraine as a §Dtrue equal§! with a fair government.\n\nFor now, the Reichskommissariat's reformers are forever §eblocked§! by Koch, yet he is an ancient man now. If the Reichskommissariat survives, it will likely be without him."
+ UKR_CountryInfo_Content_desc.4: "Реальність полягає в тому, що ця система в її нинішньому вигляді є абсолютно §xнеспроможною§!, і ця реальність є очевидною навіть для гнобителів, які нею керують. §MУкраї§!§Yнський§! колоніалізм означав велику кількість витрат і велику кількість смертей. Якщо він має тривати, щоб продовжувати забезпечувати те, що вимагає від нього нацистська машина, він потребує реформ.\n\nЯк виглядатимуть ці реформи, все ще є предметом великих дебатів. §oОлендорф§!, лідер і мислитель СС, сподівається на вільний ринок і прагматичні дії уряду, щоб §Gомолодити§! колоніальну систему і §Rзнищити опір§!. §BЛяйббрандт§!, учень Розенберга, бачить §Lобмежену передачу§! прав місцевому населенню як реформу, до якої завжди прагнув Райхскомісаріят. §sБраутігам§!, висхідна зірка в дипломатичному ядрі, уявляє собі ще радикальнішу реформу, яка бачить Україну §Dсправжнім рівноправним§! партнером зі справедливим урядом.\n\nНаразі ідеї реформаторів Райхскомісаріяту §eзаблоковані§! Кохом, але він уже стара людина. Якщо Райхскомісаріят і виживе, то, швидше за все, без нього."
 
- UKR_CountryInfo_Content.5: "The Dud Revolution"
- UKR_CountryInfo_Content_desc.5: "The dream of the Soviet is still alive. With the present grim and the future bleak, most §MUkrai§!§Ynians§! have little to rally behind but the past. No group exemplifies this more than the §SUA-SSR§!, a group of leftists under §SOleksandr Shumskyi§! who wish desperately for a return to the glory days of the §VUkrainian Soviet§!. Old soldiers and young dreamers all flock to that antique red banner.\n\nThey are tenacious and driven in this goal, but also incredibly ideologically diverse. §SShumskyists§!, §RTrotskyists§!, §eBukharinists§! and more fight alongside one another as begrudging comrades. A strained yet resolute adhesive of a common goal holds them together, just barely maintained by §SShumskyi§! himself. Were the movement to lose him, there is no guarantee the §SSSR§! would stay together, and their dream would §enever be realized§!."
+ UKR_CountryInfo_Content.5: "Революція дуда"
+ UKR_CountryInfo_Content_desc.5: "Мрія про Радянський Союз все ще жива. В умовах похмурого сьогодення та безрадісного майбутнього більшість §Mукраї§!§Yнців§! не мають нічого, що могло б їх згуртувати, окрім минулого. Жодна група не є кращим прикладом цього, ніж §SУСРР§!, група лівих на чолі з §SОлександром Шумським§!, які відчайдушно прагнуть повернення до славних часів §VУкраїнської Радянської Республіки§!. Старі солдати і молоді мрійники - всі вони стікаються до цього антикварного червоного прапора.\n\nВони наполегливі і цілеспрямовані в досягненні цієї мети, але також неймовірно ідеологічно різноманітні. §SШумськісти§!, §Rтроцькісти§!, §eбухарінці§! та інші борються пліч-о-пліч один з одним, як товариші по нещастю. Їх об'єднує слабкий, але рішучий клей спільної мети, який ледве підтримується самим §SШумським§!. Якби рух втратив його, немає жодної гарантії, що §SСРР§! залишиться разом, і їхня мрія §eніколи не здійсниться§!."
 
  UKR_CountryInfo_Content.6: "Спадкоємці 1917"
  UKR_CountryInfo_Content_desc.6: "The history of the §DUkrainian National Revolutionary Army§! has seen it collect traditions stretching across a century of §MUkrai§!§Ynian§! history, from the first rumblings of §Gindependence§! to present day. Perhaps their movement is best summarized in a common slogan: "it is 1917 once more."\n\nThat year, a Ukrainian Republic was first created. Though it would be destroyed by the §VBolsheviks§!, the Republic would nevertheless come to define the §DUNRA§!, most clearly its liberalism and republicanism. When Taras Bulba-Borovets formed his own army, he took these §yideals§!, and that year of §Rrevolution§!, in his heart.\n\nNow, in 1962, it survives with new leadership. A §Ynew generation§! sees the §DUNRA§! as the movement looking forward, even as it looks back. Their nationalist, even leftist beliefs have become increasingly the norm - even if a §eblack heart§! of collaborationism and §sUPA§! connections lurk within the movement."
@@ -944,7 +943,7 @@ CountryInfo_tab_name_country: "Огляд країни"
  UKR_CountryInfo_Content.7: "Стопами Бандери"
  UKR_CountryInfo_Content_desc.7: "Once, the §sUPA§! would have been defined by §sStepan Bandera's§! words. Like most in the §MUkrai§!§Ynian§! nationalist movement, he began resisting the §CPoles§! before collaborating with the §oNazis§!. Yet only Bandera, with his uniquely radical position and surprising popularity, managed to break from §oGermany§! and rise against their former masters.\n\nNow, the §sUPA§! is defined by Bandera's death. Killed in a concentration camp, his movement outlived him, finding new leadership under Dmytro Klyachkivsky. His movement lurks in the west, engaged in an endless war with the §DUNRA§! and the German occupiers.\n\nNow, the §sUPA§! survives strong, but leadership is §Ysplit§! over the future of Bandera's vision. Some seek the nostalgia of past orthodoxy, whilst others audaciously seek to reforge the §sUPA§! for their own ends. The Banderites walk a dangerous and uncertain path just as likely to be their §xdoom§! as their §ysalvation§!."
 
- #Мексика
+ #МЕКСИКА
   #101
   MEX_CountryInfo_Folder.101: "Вічна революція"
   MEX_CountryInfo_Content.1: "Epoch of Change"
@@ -986,7 +985,7 @@ CountryInfo_tab_name_country: "Огляд країни"
   CountryInfo_Economic_Overview_SVR: "Sverdlovsk operates under the §gMilitary-Directed Economic§! model. This is a model where the military, due to its §gunchecked grip§! on the state, has the ability to completely command and direct the economy. It is not a command economy similar to that in the former §VSoviet Union§!, because private enterprise is allowed to exist in the state, but the military regime has the §Rfinal say§! over all directives inside the nation.\n\nIn Sverdlovsk's case, the military regime commands what is left of the industry that was moved west by §CBukharin§! and §eStalin§! into the Siberian plains, and was not damaged during the §LLuftwaffe Terror Bombings§! in the 50's and 60's. Compared to other states, it still has a fairly hefty industry and is able to project economic power further than the other warlord states."
   #- Розміщуйте економічні огляди тут -#
     
- ##Ґуандун
+ ##ҐУАНДУН
   CountryInfo_Economic_Overview_GNG: "§SGuangdong's economy§! operates as a §SCorporate Oligarchy§! - a polity where both the economic and political spheres have been subsumed under the direction of large corporations, in this case the §YFour Companies§! of §YYasuda§!, §VSony§!, §WMatsushita§!, and §mFujitsu§!.\n\nSocial and labor protections are intentionally kept weak - weaker than on the §jHome Islands§! themselves - to enable the maximization of profit, with the Four Companies given essentially free reign to do as they please. While Guangdong maintains the minimum necessary to maintain the pretense of a functional government, the withering away of the state has afforded even more opportunities for §Rcorruption§! or §Ycorporate interests§! to insert themselves into public life.\n\nGuangdong's economic performance is also intimately tied to the §melectronics product cycle§! - a competition to win the hearts and wallets of consumers with the §Kbest product§! at the §Kcheapest price§!."
 
   CountryInfo_Economic_Overview_GRO: "Reichskommissariat Ostafrika's Economy is that of the §oGelenkte Wirtschaft§! model. This model tries to balance between the command economy of the former §RSoviet Union§! and the free market capitalism of the §iUnited States of America§! by combining a use of state-directed initiatives and cooperation with private enterprise and selecting a few trusted and proven corporations to serve the state in a fashion that suits both parties.\n\nIn §jOstafrika§!'s case, the state runs on African branches and subsidiaries of German corporations within Europe. However, it is most similar to §EBurgundy§! in the fact that it heavily relies on slave labour and an incredibly repressed underclass to serve the §rselect few§! chosen inside the colony, that can barely eek out a living themselves in the harsh conditions of Eastern Africa."
@@ -995,8 +994,8 @@ CountryInfo_tab_name_country: "Огляд країни"
 
   CountryInfo_Economic_Overview_COG: "Reichskommissariat Zentralafrika's Economy is that of the §oGelenkte Wirtschaft§! model. This model tries to balance between the command economy of the former §RSoviet Union§! and the free market capitalism of the §iUnited States of America§! by combining a use of state-directed initiatives and cooperation with private enterprise and selecting a few trusted and proven corporations to serve the state in a fashion that suits both parties.\n\nThe reality on the ground is that Zentralafrika is run more like Müller's §ysweetshop§! than anything else. The entire colony is littered with shell companies of Western and other §oforeign-based corporations§! who pay Müller a hefty fee to sap what resources haven't been drowned by the §BCongo Lake§! - with the Reichskommissar away to hunt down big game and leaving the economic paperwork to his underlings."
 
-### TUTORIALS ###
-CountryInfo_tab_name_tutorials: "Інформація про мод"
+ ### ТУТОРІАЛИ ###
+ CountryInfo_tab_name_tutorials: "Інформація про мод"
 
  CountryInfo_Tutorial_Folder.101: "Новий порядок" # Новий парядачєк
 
@@ -1023,8 +1022,8 @@ CountryInfo_tab_name_tutorials: "Інформація про мод"
  CountryInfo_Tutorial_Content.8: "ГІКи для конкретних країн"
  CountryInfo_Tutorial_Content_desc.8: "Багато країн у §WНовому порядку§! мають розширені §Gзаскриптовані ГІКи§!, розроблені для того, щоб додати глибини вашому §Rдосвіду геймпелю§! у мирний час та зробити геймплей більш інтерактивним. §GЗаскріптовані ГІКи у рішеннях§! вбудовані безпосередньо у вкладку §Yрішень§!, і доступ до них можна отримати, просто відкривши цю вкладку. Сюди входять §WГІК Томської Думи§!, §WГІК Південноафриканського референдуму§! та §Rбагатьох§! інших країн.\n\nЗ іншого боку, доступ до §Gповністю скриптових ГІКив§! здійснюється через §Yвкладку політика§! за допомогою кнопки, розташованої під §Wпортретом лідера вашої країни§!, поруч з §Wпортретом глави уряду§!. Ці §Gповністю заскриптовані ГІКи§!, як правило, набагато глибші, і часто є життєво важливими для §Rігрового досвіду країни§!, До них належать §WГІК голосування у США§!, §WГІК Шпеєровського Цольверайну§!, §WГІК для законодавчого органу Японії§! та §Rбагато§! інших. Крім того, у більшості §Gзаскриптованих ГІКів§! також є кнопка §Yінформації§!, при наведенні на яку або натисканні на яку буде показано корисну інформацію про те, як працює ГІК та інші можливості §Rінтегрованої механіки§!."
  
-### Development ###
-CountryInfo_tab_name_development: "Розробка моду"
+ ### РОЗРОБКА ###
+ CountryInfo_tab_name_development: "Розробка моду"
  
  CountryInfo_Development_Folder.101: "Соц-медіа"
  
@@ -1046,6 +1045,6 @@ CountryInfo_tab_name_development: "Розробка моду"
  CountryInfo_Development_Folder.103: "Правова інформація"
  CountryInfo_Development_Content.6: "Заява про використання"
  CountryInfo_Development_Content_desc.6: "Новий порядок: Останні дні Європи («Цей мод») може містити матеріали, захищені авторським правом.\n\nЦей мод робить доступними матеріали, захищені авторським правом, якщо такі є, з метою сприяння розумінню небезпеки фашизму, нацизму та інших форм екстремізму. Наразі цей мод не має на меті і не намагатиметься отримати прибуток від використання захищених авторським правом матеріалів. Таким чином, цей мод вважає, що це є «добросовісним використанням» матеріалів, захищених авторським правом, як це передбачено Розділом 17, Секцією 107 Кодексу Сполучених Штатів Америки або відповідними законами в інших застосовних юрисдикціях.\n\nЯкщо ви бажаєте використовувати матеріали, захищені авторським правом, для власних цілей, які виходять за рамки «добросовісного використання» (або його еквіваленту у вашій юрисдикції), ви повинні отримати дозвіл від власника авторських прав."
-### COUNTRY ENDING ###
+### КІНЕЦЬ В КРАЇНАХ ###
 CountryInfo_tab_name_ending: "Задумка"
  

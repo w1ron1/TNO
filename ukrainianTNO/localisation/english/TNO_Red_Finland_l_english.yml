@@ -1,36 +1,35 @@
 ﻿l_english:
- ## Country Names ##
- RFI: "Finnish Socialist Republic"
- RFI_DEF: "the Finnish Socialist Republic"
- RFI_ADJ: "Finnish"
+ ## Назви країн ##
+ RFI: "Фінська Соціалістична Республіка"
+ RFI_DEF: "Фінська Соціалістична Республіка"
+ RFI_ADJ: "фінський"
 
- ####Party Names#####
- RFI_communist_party:0 "SKP"
- RFI_communist_party_long:0 "Suomen Kommunistinen Puolue"
- RFI_socialist_party:0 "SDTP"
- RFI_socialist_party_long:0 "Suomen Demokraattinen Työväenpuolue"
- RFI_progressivism_party:0 "LP"
- RFI_progressivism_party_long:0 "Lehmuksen Putiikki"
- RFI_paternalism_party:0 "SKJ"
- RFI_paternalism_party_long:0 "Suojeluskuntajärjestö"
+ ####Назви партій#####
+ RFI_communist_party:0 "СКП"
+ RFI_communist_party_long:0 "Фінська Комуністична Партія"
+ RFI_socialist_party:0 "СДТП"
+ RFI_socialist_party_long:0 "Фінська Демократична Робітнича Партія"
+ RFI_progressivism_party:0 "ЛП"
+ RFI_progressivism_party_long:0 "Лембузен Путіккі"
+ RFI_paternalism_party:0 "СКЖ"
+ RFI_paternalism_party_long:0 "Союз захисників"
 
- ## Characters ##
- RFI_Aimo_Aaltonen:0 "Aimo Aaltonen"
- RFI_Taisto_Sinisalo:0 "Taisto Sinisalo"
- RFI_Erkki_Salomaa:0 "Erkki Salomaa"
- RFI_Tuure_Lehen:0 "Tuure Lehén"
- RFI_Ville_Pessi:0 "Ville Pessi"
+ ## Персонажі ##
+ RFI_Aimo_Aaltonen:0 "Аймо Аалтонен"
+ RFI_Taisto_Sinisalo:0 "Тайсто Сінісало"
+ RFI_Erkki_Salomaa:0 "Ерккі Саломаа"
+ RFI_Tuure_Lehen:0 "Тууре Лехен"
+ RFI_Ville_Pessi:0 "Вілле Пессі"
 
- ## Ministers ##
+ ## Міністри ##
  
- ## Ideas ##image.png
- 
- ## Decisions ##
- 
- ## Tooltips ##
- 
- ## Focus Tree ##
- 
- ## Events ##
+ ## Ідеї ## 
+ ## Рішення ##
+
+ ## Підказки ##
+
+ ## Дерево фокусів ##
+
+ ## Події ##
 
  
