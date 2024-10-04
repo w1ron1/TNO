@@ -1,21 +1,21 @@
-﻿l_english:
+l_english:
  ### Country Names ###
- MFP: "Frontier Provinces"
- MFP_DEF: "the Frontier Provinces"
- MFP_ADJ: "Pashtun"
+ MFP: "Прикордонні території"
+ MFP_DEF: "Прикордонні території"
+ MFP_ADJ: "Пуштунськ"
 
  ### Parties ###
- MFP_conservatism_party: "Pashtun Tribal Clans"
- MFP_conservatism_party_long: "Pashtun Tribal Clans"
- MFP_paternalism_party: "Frontier Corps"
- MFP_paternalism_party_long: "Frontier Corps"
- MFP_despotism_party: "FPCA"
- MFP_despotism_party_long: "Frontier Provinces Civilian Administration"
+ MFP_conservatism_party: "Племінні роди пуштунів"
+ MFP_conservatism_party_long: "Племінні роди пуштунів"
+ MFP_paternalism_party: "Загони прикордонників"
+ MFP_paternalism_party_long: "Загони прикордонників"
+ MFP_despotism_party: "ГУПТ"
+ MFP_despotism_party_long: "Громадське управління прикордонними територіями"
 
  ### Characters ###
- MFP_Nawabzada_Shahabuddin_Khan: "Nawabzada Shahabuddin Khan"
- MFP_Muhammad_Akbar_Khan: "Muhammad Akbar Khan"
- MFP_Pashtun_Tribal_Clans: "Pashtun Tribal Clans"
+ MFP_Nawabzada_Shahabuddin_Khan: "Навабзада Шахабуддін Хан"
+ MFP_Muhammad_Akbar_Khan: "Мухаммад Акбар Хан"
+ MFP_Pashtun_Tribal_Clans: "Племінні роди пуштунів"
 
  ## Leader Bios ##
- POLITICS_NAWABZADA_SHAHABUDDIN_KHAN_DESC: "Nawabzada Shahabuddin Khan, Khan of Jandol and Nawab of Dir, second son of Nawab Shah Jehan Khan, is a harsh, ruthless man with a strong devotion to duty.\n\nThat is appropriate given his second job as the Afghan-appointed military governor of the frontier provinces, set up by the Khanate of Afghanistan in opposition to the remnants of the Pakistan Army on the frontier. His duty is to make sure the Pakistani Army remains on the frontier and does not backfire on Afghanistan; being a loyal subordinate of Afghanistan, he takes to this duty with alacrity.\n\nWhen Shahabuddin Khan is not keeping a lid on the Pakistanis, he is governing his pair of small princely states in the northwest of what was supposed to have Pakistan. Many praise him for his efforts to modernize his state - he single-handedly funds schools, hospitals, fortifications and roads all over his domain. But just as many people criticize him for the ruthlessness he exhibits in his dealings with anyone he meets.\n\nHis absolute rule over the region ruins just as many lives as it uplifts; countless tribal groups hold him as their enemy for his incessant expropriations of tribal land for the purposes of development. The civilians in the Frontier Provinces outside of the Pakistani frontier or Jandol and Dir are not too impressed with him either; his absolutist, ruthless rule causes no small number of them to chafe under him, and there are rumblings of pro-Pakistani and even pro-Indian sentiment.\n\nFaced with all these things, the Nawabzada will do as he always has: assert his authority and suppress dissent until it calms down. It has worked before - why should it not work again?"
+ POLITICS_NAWABZADA_SHAHABUDDIN_KHAN_DESC: "Навабзада Шахабуддін Хан, хан Джандолу і набоб Діру, другий син Наваб Шах Джехан Хана - сувора, безжальна людина, із сильною відданістю обов'язку.\n\nЗважаючи на його другу посаду, а саме військовий губернатор прикордонних провінцій, створених Ханством Афґаністан на противагу залишкам пакистанської армії на кордоні - подібне вживати про нього доречно. Його обов'язок полягає в тому, щоб пакистанська армія залишалася біля кордону й не нападала на Афґаністан - будучи вірним та підвладним Афґаністану, він виконує це доручення з запалом.\n\nКоли Шахабуддін Хан не тримає пакистанців на мушці, то він править двійкою малих князівств на північному заході, які мали б належати Пакистану. Чимало хто звеличує його за потугу в усучасненні своєї держави - у одноосібному фінансуванні шкіл, лікарень, укріплень та доріг по всій території його володінь. Проте також, безліч людей критикує Хана за безжалісність, яку він проявляє в взаєминах із усіма, хто трапляється йому на очі.\n\nАбсолютне панування його над регіоном нищить стільки життів, скільки й поліпшує: немало племінних родів вважають його супостатом, за безперервну експропріацію земель племен із метою забудівлі. Населення Прикордонних територій за межами кордону з Пакистаном чи Джандолу й Діру також не надміру вражене ним: його абсолютистське, нещадне правління, викликає в значної кількості з них обурення - зрештою, у суспільстві вирують пропакистанські й навіть проіндійські настрої.\n\nЗіткнувшись з усім цим, Навабзада діятиме так, як і завжди: зміцнюввтиме свою владу й придушуватиме іншодумців, доки все не вгамується. Це працювало раніше - чому б не спрацювати цьому знову?"
