@@ -1,464 +1,472 @@
-﻿l_english:
-#██████╗ ███████╗██╗ ██████╗██╗  ██╗#
-#██╔══██╗██╔════╝██║██╔════╝██║  ██║#
-#██████╔╝█████╗  ██║██║     ███████║#
-#██╔══██╗██╔══╝  ██║██║     ██╔══██║#
-#██║  ██║███████╗██║╚██████╗██║  ██║#
-#╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝╚═╝  ╚═╝#
-#World Events
+l_english:
+#                          #: .%.              #         
+#                          -###=               #         
+#                                              #         
+#     %@@%#+.    -@-     +*    .##  +#    -%.  #         
+#     %+::-*%:   ***     +*    =@#  .%-   #=   #         
+#     %=    *+  .%:%.    +*   .%+#   =#. -#.   #         
+#     %=    =#  -* #-    +*   ++=#   .#=.#-    #         
+#     %=    +*  *- =*    +*  :%.=#    -%=#     #         
+#     %=   -@: .%. .%.   +*  *= =#     #@:     #         
+#     %@@@@%-  -#   #-   +* -#. =#    .#%-     #         
+#     %=...    *%###%*   ++.#:  =#    =+-#.    #         
+#     %=      .%-:::-%.  +==*   =#   .%: #=    #         
+#     %=      =#     %-  ++%:   =#   ++  :%.   #         
+#     %=      #=     +*  +@+    =#  :%:   *+   #         
+#     %=     .%:     :@. +#.    =#  *+    :@:  #
+#Світові Евенти
 
 ########################
-# Germany World Events #
+# Ґерманські світові Евенти #
 ########################
 
-#|=|========[ Germany General World Events ]========|=|#
- WORLD_REICH.1.t: "[Get_newspaper_header]The Reich's Last Conquest"
- WORLD_REICH.1.desc: "On the 19th of January, 1962, Eberhard Köllner became the first man to ever land on the Moon. While the space race has been a struggle between the Reich, Japan and the USA, and while the Americans had managed to put the first man in space, the Führer was proud to announce that the German landing firmly plants the Reich as the victor in the competition.\n\nA grand ceremony is planned in Germania to present Köllner and his fellow astronauts with the Iron Cross, and a week of celebration has been declared across the Reich.\n\nWhile terse congratulations have been sent from America and Japan, President Nixon has vowed that the United States would be the first to create a permanent mission on the Moon, and Japan shortly thereafter announced it would be the first to land on Mars."
- WORLD_REICH.1.a: "Has the Space Race been won?"
+#|=|========[ Ґерманські основні світові Евенти ]========|=|#
+ WORLD_REICH.1.t: "[Get_newspaper_header]Останнє завоювання Райху"
+ WORLD_REICH.1.desc: "19 січня 1962 року Ебергард Кьольнер став першою людиною, що ступила на Місяць. Хоча космічна гонка була боротьбою між Райхом, Японією та США, і хоча американцям вдалося першими відправити людину в космос, фюрер з гордістю оголосив, що німецька висадка твердо закріпила перемогу Райху у цій гонці.\n\nВелика церемонія запланована в Ґерманії, щоб вручити Кьольнеру та його колегам-астронавтам Залізний хрест, а також тиждень святкувань оголошено по всьому Райху.\n\nПопри стримані вітання від Америки та Японії, президент Ніксон пообіцяв, що США будуть першими, хто створить постійну базу на Місяці, а Японія незабаром після цього оголосила, що стане першою, хто висадиться на Марс."
+ WORLD_REICH.1.a: "Чи виграно космічні перегони?"
 
- WORLD_REICH.2.t: "[Get_newspaper_header]Assassin Strikes at Hitler!"
- WORLD_REICH.2.desc: "News from Germany is sporadic at best. Information smuggled out of Germania reports that shortly after celebrations over the Moon landing settled, military units and several platoons worth of bodyguard units filled the streets and immediately put the city under martial law. Apparently, an assassin, which the Germans claim belonged to the Japanese Tokumusoukan, attempted to kill the Führer, but was stopped in his attempt by one of Hitler's personal bodyguards.\n\nAlready, reports of various other assassinations have surfaced. In the streets, the various military units nearly came to blows, as several units ordered each other to stand down and the chain of command fell apart. Suddenly, the Reich seems much weaker. Can the Germans maintain their New World Order when they can hardly handle themselves?"
- WORLD_REICH.2.a: "A house divided..."
- WORLD_REICH.2.b: "Oh no."
- WORLD_REICH.2.c: "What is this the meaning of this insolent accusation?"
+ WORLD_REICH.2.t: "[Get_newspaper_header]Спроба замаху на Гітлера!"
+ WORLD_REICH.2.desc: "Новини з Ґерманії надходять лише уривками. Інформація, що була таємно вивезена з країни, свідчить, що незабаром після завершення святкувань з приводу висадки на Місяць, вулиці міста наповнили військові частини та загони охорони, і місто негайно було переведено на воєнний стан. Нібито японський агент спробував убити фюрера, але був зупинений одним із його особистих охоронців.\n\nВже повідомляють про інші вбивства. На вулицях різні військові частини майже зіткнулися між собою, коли деякі підрозділи наказували іншим відступити, і ланцюг командування вийшов з ладу. В момент Райх здається значно слабшим. Чи зможуть німці зберегти свій Новий світовий порядок, якщо вони ледве справляються самі з собою?"
+ WORLD_REICH.2.a: "Дім розділений..."
+ WORLD_REICH.2.b: "О ні."
+ WORLD_REICH.2.c: "Що означає це нахабне звинувачення?"
 
- WORLD_REICH.3.t: "[Get_newspaper_header]Hitler Names Bormann His Successor"
- WORLD_REICH.3.desc: "Following the recent attempt on the German Führer's life by a suspected Tokumusoukan agent, the pressure upon the Führer to name an official successor, and for the Reichstag to formally recognize the choice, has been steadily building. After almost a week of debate and speculation, Adolf Hitler today appeared on live television from the Reichstag and announced to the Reich that his successor would be Martin Bormann.\n\nConsidered the most likely choice, the decision has been welcomed by the moderate and conservative elements of Germany, although the liberals and some elements of the military have expressed concern. With Bormann's commitment to staying the course of Nazism with only minor reform, Albert Speer, Hermann Göring and Reinhard Heydrich have criticised the choice as being certain to drive the Reich into an early grave."
- WORLD_REICH.3.a: "More of the same it would seem."
+ WORLD_REICH.3.t: "[Get_newspaper_header]Гітлер призначив Бормана своїм наступником"
+ WORLD_REICH.3.desc: "Після нещодавньої спроби замаху на ґерманського фюрера з боку підозрюваного агента Токумусокану, тиск на фюрера з вимогою призначити офіційного наступника і формально затвердити його вибір у Райхстазі постійно зростає. Після майже тижня дебатів і спекуляцій, сьогодні Адольф Гітлер виступив з прямою телезаявою з Райхстаґу і оголосив, що його наступником буде Мартін Борман.\n\nВважається, що це був найімовірніший вибір, і його привітали помірковані та консервативні кола Ґерманії, хоча ліберали та деякі елементи військових висловили занепокоєння. З огляду на прихильність Бормана до продовження курсу нацизму з незначними реформами, Альберт Шпеєр, Герман Ґьорінґ та Райнгард Гайдріх розкритикували цей вибір, вважаючи його передвісником занепаду Райху."
+ WORLD_REICH.3.a: "Здавалося б, все те ж саме"
 
- WORLD_REICH.4.t: "[Get_newspaper_header]Hitler Names Göring His Successor"
- WORLD_REICH.4.desc: "Following the recent attempt on the German Führer's life by a suspected Tokumusoukan agent, the pressure upon the Führer to name an official successor, and for the Reichstag to formally recognize the choice, has been steadily building. After almost a week of debate and speculation, Adolf Hitler today appeared on live television from the Reichstag and announced to the Reich that his successor would be Hermann Göring.\n\nOne of the Führer's oldest allies and beloved uncle of the nation, Göring enjoys extensive support from the Nazi old guard and the Wehrmacht, a relationship which has caused many to reject the decision. Albert Speer, Martin Bormann and Reinhard Heydrich have all criticized the nomination, vowing to never allow the Reich to fall into the hands of a glory lusting warmonger."
- WORLD_REICH.4.a: "Is war on the horizon?"
+ WORLD_REICH.4.t: "[Get_newspaper_header]Гітлер призначив Ґьорінґа своїм наступником"
+ WORLD_REICH.4.desc: "Після нещодавньої спроби замаху на життя ґерманського фюрера підозрюваним агентом Токумусокану, тиск на фюрера з вимогою призначити офіційного наступника і формально затвердити його вибір у Райхстазі постійно зростав. Після майже тижня дебатів і спекуляцій, сьогодні Адольф Гітлер виступив на прямому телеетері з Райхстаґу та оголосив Райху, що його наступником стане Герман Ґьорінґ.\n\nОдин із найстаріших союзників фюрера і улюблений «дядечко» нації, Ґьорінґ користується великою підтримкою старої нацистської гвардії та Вермахту, що викликало неоднозначну реакцію. Альберт Шпеєр, Мартін Борман та Райнгард Гайдріх критично оцінили це призначення, заявивши, що ніколи не дозволять Райху впасти в руки військового авантюриста."
+ WORLD_REICH.4.a: "Чи не наближається війна?"
 
- WORLD_REICH.5.t: "[Get_newspaper_header]Hitler Names Speer His Successor"
- WORLD_REICH.5.desc: "Following the recent attempt on the German Führer's life by a suspected Tokumusoukan agent, the pressure upon the Führer to name an official successor, and for the Reichstag to formally recognize the choice, has been steadily building. After almost a week of debate and speculation, Adolf Hitler today appeared on live television from the Reichstag and announced to the Reich that his successor would be Albert Speer.\n\nA highly controversial choice, Speer enjoys the support from the left-leaning members of the Reichstag and the liberal movement in Germany due to his advocacy of extensive economic and political reform. The decision has upset the more conservative elements within the Reich however, with Martin Bormann, Hermann Göring and Reinhard Heydrich each denouncing the choice."
- WORLD_REICH.5.a: "A new dawn for the Reich."
+ WORLD_REICH.5.t: "[Get_newspaper_header]Гітлер призначив Шпеєра своїм наступником"
+ WORLD_REICH.5.desc: "Після нещодавньої спроби замаху на життя ґерманського фюрера підозрюваним агентом Токумусокану, тиск на фюрера з вимогою призначити офіційного наступника і формально затвердити його вибір у Райхстазі постійно зростав. Після майже тижня дебатів і спекуляцій, сьогодні Адольф Гітлер виступив на прямому телеетері з Райхстаґу та оголосив Райху, що його наступником стане Альберт Шпеєр.\n\nЦе рішення стало дуже суперечливим. Шпеєр користується підтримкою лівоорієнтованих членів Райхстаґу та ліберального руху в Ґерманії завдяки своїм закликам до масштабних економічних та політичних реформ. Це, однак, розлютило консервативні елементи в Райху, зокрема Мартіна Бормана, Германа Ґьорінґа та Райнгарда Гайдріха, які всі засудили цей вибір."
+ WORLD_REICH.5.a: "Новий світанок для Райху."
 
- WORLD_REICH.6.t: "[Get_newspaper_header]Hitler Names Heydrich His Successor"
- WORLD_REICH.6.desc: "Following the recent attempt on the German Führer's life by a suspected Tokumusoukan agent, the pressure upon the Führer to name an official successor, and for the Reichstag to formally recognize the choice, has been steadily building. After almost a week of debate and speculation, Adolf Hitler today appeared on live television from the Reichstag and announced to the Reich that his successor would be Reinhard Heydrich.\n\nShock and outrage immediately consumed the Reichstag, with a quarter of the votes going against the nomination, and another quarter abstaining, the first non unanimous vote in its history. While some hail this as an end to hostilities between Germany and the SS, only few are so forgiving, with most viewing Heydrich as little more than a puppet of Burgundy as riots erupt across Germany in response."
- WORLD_REICH.6.a: "All is well under the Black Sun."
- WORLD_REICH.6.b: "My God."
+ WORLD_REICH.6.t: "[Get_newspaper_header]Гітлер призначив Гайдріха своїм наступником"
+ WORLD_REICH.6.desc: "Після нещодавньої спроби замаху на життя ґерманського фюрера підозрюваним агентом Токумусокану, тиск на фюрера з вимогою призначити офіційного наступника і формально затвердити його вибір у Райхстазі постійно зростав. Після майже тижня дебатів і спекуляцій, сьогодні Адольф Гітлер виступив на прямому телеетері з Райхстаґу та оголосив Райху, що його наступником стане Райнгард Гайдріх.\n\nШок і обурення охопили Райхстаґ, чверть голосів було віддано проти номінації, ще чверть утрималася – це був перший раз, коли голосування не стало одностайним в історії Райхстаґу. Хоча деякі вітали це як кінець ворожнечі між Ґерманією та СС, більшість залишаються непрощеними, вважаючи Гайдріха лише маріонеткою Бурґундії, на тлі чого по всій Ґерманії почалися заворушення."
+ WORLD_REICH.6.a: "Усе гаразд під Чорним Сонцем."
+ WORLD_REICH.6.b: "Боже мій."
 
- WORLD_REICH.7.t: "[Get_newspaper_header]Adolf Hitler Has Died"
- WORLD_REICH.7.desc: "Tragedy has consumed Germany as the news spread first throughout the Reich and then the world. Adolf Hitler, Führer of Germany and victor of the Second World War, has died. Whilst the Führer's declining health had been speculated about for some time, the news has nevertheless left Germany in a state of complete shock. The Reichstag has announced that three months of mourning shall be held, and that the Führer shall be buried beside his late wife, Eva Hitler, with dignitaries from around the world invited to the funeral.\n\nWhile Germany mourns, internationally many are celebrating the death of the man held responsible for three decades of suffering throughout the world. Yet many international commentators fear what may now become of Germany, the Third Reich having already been embattled in a bitter power struggle over the rightful successor to the Führership."
- WORLD_REICH.7.a: "A day to remember..."
+ WORLD_REICH.7.t: "[Get_newspaper_header]Адольф Гітлер помер"
+ WORLD_REICH.7.desc: "Трагедія охопила Ґерманію, коли новина швидко поширилася спочатку по Райху, а потім по всьому світу. Адольф Гітлер, фюрер Ґерманії та переможець Другої світової війни, помер. Хоча чутки про погіршення здоров'я фюрера ходили вже деякий час, новина все ж залишила Ґерманію в стані повного шоку. Райхстаґ оголосив тримісячний траур, а фюрера буде поховано поруч з його покійною дружиною, Євою Гітлер, причому на похорон запрошені державні діячі з усього світу.\n\nПоки Ґерманія сумує, на міжнародній арені багато хто святкує смерть людини, відповідальної за три десятиліття страждань у всьому світі. Однак багато міжнародних оглядачів побоюються, що тепер буде з Ґерманією, оскільки Третій Райх вже занурився в запеклу боротьбу за владу за право наслідувати фюрерство."
+ WORLD_REICH.7.a: "День, який запам'ятається..."
 
- ## GCW
- WORLD_REICH.8.t: "[Get_newspaper_header]The German Civil War"
- WORLD_REICH.8.desc: "In the wake of Adolf Hitler's death, the Reich has erupted into chaos. Despite the Führer's appointment of a legal successor, powerful factions within the Reich have taken up arms against one another with the interest of leading the nation in their vision. The nation is torn with entire garrisons ignoring orders from Germania and flocking to the successor of their choice. Though the gravity of the situation is not yet known, it is estimated that the Reich is either facing or already experiencing total collapse of central authority.\n\nThough not much is known about the fate of the Reich's eastern administrations, the sudden cessation of contact between Germania and her possessions has created speculation on if those regions too will find their fate. What is known for sure, however, is that the collapse of Europe's titan has thrown the continent asunder."
- WORLD_REICH.8.a: "The end of the Reich, surely."
+ ## Бюрґеркріг
+ WORLD_REICH.8.t: "[Get_newspaper_header]Бюрґеркріг"
+ WORLD_REICH.8.desc: "Після смерті Адольфа Гітлера Райх занурився в хаос. Незважаючи на призначення фюрером законного наступника, впливові фракції всередині Райху взялися за зброю з метою очолити націю відповідно до свого бачення. Країна розколота, і цілі гарнізони ігнорують накази з Ґерманії та приєднуються до наступника, якого вони вибрали. Хоча повна серйозність ситуації поки що не визначена, оцінюється, що Райх або стоїть перед повним колапсом центральної влади, або вже переживає його.\n\nХоча доля східних адміністрацій Райху залишається невідомою, раптове припинення зв'язку між Ґерманією та її володіннями викликало спекуляції, чи ті регіони теж знайдуть свій власний шлях. Відомо одне: крах європейського титана призвів до хаосу на континенті."
+ WORLD_REICH.8.a: "Це кінець Райху, без сумніву."
 
- WORLD_REICH.9.t: "[Get_newspaper_header]Hans Speidel Assumes Control of Germania"
- WORLD_REICH.9.desc: "With Germany having collapsed into civil war across the country, even at this early state of the conflict the toll both in terms of lives and destruction is rapidly becoming apparent. Yet it appears as though not everyone within the Reich is interested in taking part in this destructive war. In light of the collapse of the emergency council, Field Marshal Hans Speidel, best known for foiling the attempted SS coup during the West Russian War, today marched into Germania.\n\nOn the steps of the Reichstag, with respected war hero Field Marshal Erwin Rommel beside him, Speidel declared his neutrality in the conflict. The city of Germania will now be garrisoned by the forces of Speidel, Rommel and other generals loyal to their cause of neutrality, with a stern warning of an unshakable resistance should any side in the civil war attempt to attack the city."
- WORLD_REICH.9.a: "The hero we needed."
- WORLD_REICH.9.b: "More trouble in Germany."
+ WORLD_REICH.9.t: "[Get_newspaper_header]Ганс Шпайдель бере контроль над Ґерманією"
+ WORLD_REICH.9.desc: "Ґерманія занурилася в громадянську війну по всій країні, і навіть на ранньому етапі конфлікту швидко стають очевидними його руйнівні наслідки як для людських життів, так і для інфраструктури. Однак, здається, не всі в Райху зацікавлені брати участь у цій руйнівній війні. Після розпаду надзвичайної ради генерал-фельдмаршал Ганс Шпайдель, найбільш відомий тим, що запобіг спробі перевороту СС під час Західно-Російської війни, сьогодні увійшов до Ґерманії.\n\nНа сходах Райхстаґу, поряд із поважним героєм війни фельдмаршалом Ервіном Роммелем, Шпайдель оголосив про свій нейтралітет у конфлікті. Місто Ґерманія тепер буде гарнізоване силами Шпайделя, Роммеля та інших генералів, вірних їхній справі нейтралітету, з суворим попередженням про незламний опір у разі спроби будь-якої зі сторін у громадянській війні напасти на місто."
+ WORLD_REICH.9.a: "Герой, якого ми потребували."
+ WORLD_REICH.9.b: "Ще більше проблем у Ґерманії."
 
- WORLD_REICH.10.t: "[Get_newspaper_header]Karl Dönitz Seizes Crimea"
- WORLD_REICH.10.desc: "Chaotic news is spreading out of the Black Sea amid news of a marine-led coup having been launched against the local civilian administration by respected German war hero Karl Dönitz earlier this week. Serving as commander of the major Reich naval base on Crimea, Dönitz announced via radio that following the disgraceful and illegal seizure of the Reichstag by Hans Speidel, he had no choice but to renounce the authority of Germania.\n\nShock then erupted across the Reich, and the world, as Dönitz then openly declared for Martin Bormann. Immensely liked by the Kriegsmarine, many captains have since declared their support for Dönitz's actions and have vowed to join him at Crimea to ensure that the Kriegsmarine remains out of the hands of those who would utterly destroy the Reich."
- WORLD_REICH.10.a: "Troubling."
+ WORLD_REICH.10.t: "[Get_newspaper_header]Карл Деніц захоплює Крим"
+ WORLD_REICH.10.desc: "Хаотичні новини поширюються з Чорного моря на тлі повідомлень про те, що на початку цього тижня шанований ґерманський герой війни Карл Деніц здійснив морський переворот проти місцевої цивільної адміністрації. Як командувач великої військово-морської бази Райху в Криму, Деніц оголосив по радіо, що після ганебного та незаконного захоплення Райхстаґу Гансом Шпайделем у нього не залишилося іншого вибору, як відмовитися від підкорення Ґерманії.\n\nШок охопив Райх і весь світ, коли Деніц відкрито заявив про свою підтримку Мартіна Бормана. Деніц користується величезною популярністю в Кріґсмаріне, і багато капітанів заявили про свою підтримку його дій та пообіцяли приєднатися до нього в Криму, щоб гарантувати, що Кріґсмаріне не опиниться в руках тих, хто може знищити Райх."
+ WORLD_REICH.10.a: "Тривожні новини."
 
- WORLD_REICH.11.t: "[Get_newspaper_header]The Anti-Heydrich Pact Forms"
- WORLD_REICH.11.desc: "The German Civil War has taken many twists and turns, but this may be the strangest of them all. Earlier today, multiple contenders to the Führership have announced a temporary ceasefire between them in order to focus on what they have deemed "the largest threat to the Reich today" - Reinhard Heydrich and his SS.\n\nHeydrich and the SS, backed only by Heinrich Himmler, have made surprising gains in recent months despite their poor starting position and lack of political power or popular appeal. It appears that this has spooked the other contenders, whose forces now gather to put an end to Heydrich's armies. With Heydrich being a proud follower of both Himmler and his 'Burgundian system', it must be a relief to Germans everywhere that their leaders can at least agree on one thing - mutual hatred of the SS and what it stands for."
- WORLD_REICH.11.a: "Himmler's madness will not spread to our soil!"
- WORLD_REICH.11.b: "Let them come."
- WORLD_REICH.11.c: "Heydrich will handle this with ease."
- WORLD_REICH.11.d: "It could always be worse."
+ WORLD_REICH.11.t: "[Get_newspaper_header]Анти-Гайдріхівський пакт сформований"
+ WORLD_REICH.11.desc: "Німецька громадянська війна набула багатьох несподіваних поворотів, але цей може бути найдивнішим з усіх. Сьогодні кілька претендентів на пост фюрера оголосили про тимчасове перемир'я між собою, щоб зосередити сили на тому, що вони вважають «найбільшою загрозою для Райху сьогодні» — Райнгарді Гайдріху та його СС.\n\nГайдріх та СС, підтримувані лише Генріхом Гіммлером, зробили несподівані успіхи за останні місяці, незважаючи на їх слабкі стартові позиції, відсутність політичної влади та популярності. Здається, це налякало інших претендентів, війська яких тепер збираються, щоб зупинити армії Гайдріха. Оскільки Гайдріх є палким прихильником як Гіммлера, так і його «бурґундської системи», для багатьох німців є полегшенням, що їхні лідери хоча б в чомусь єдині — у взаємній ненависті до СС та того, що вони представляють."
+ WORLD_REICH.11.a: "Божевілля Гіммлера не пошириться на наші землі!"
+ WORLD_REICH.11.b: "Нехай приходять."
+ WORLD_REICH.11.c: "Гайдріх з легкістю з цим впорається."
+ WORLD_REICH.11.d: "Завжди могло бути гірше."
 
- WORLD_REICH.12.t: "[Get_newspaper_header]Bormann Wins the German Civil War"
- WORLD_REICH.12.desc: "The German Civil War, the most devastating and bloody conflict to ever consume Germany, has finally ended with Martin Bormann emerging as the victor. Having enjoyed extensive support during the civil war, many expected Bormann's victory to be the most likely outcome of this terrible conflict. Standing before the Volkshalle today, the new Führer promised the German people a swift return to the former glory of the Reich, promising limited reform to ensure such a conflict never need occur again.\n\nWith the nation in ruins, a collapsed economy, a weary populace and much of Europe still consumed by chaos however, the true future of the Reich remains uncertain. Yet with the great politician leading them, many remain hopeful that Bormann truly will be able to return stability to the Reich."
- WORLD_REICH.12.a: "Peace returns to Germany."
+ WORLD_REICH.12.t: "[Get_newspaper_header]Борман переміг у Бюрґеркрізі"
+ WORLD_REICH.12.desc: "Бюрґеркріг, найруйнівніший і найкровопролитніший конфлікт, який коли-небудь охоплював Ґерманію, нарешті завершився перемогою Мартіна Бормана. Оскільки Борман мав широку підтримку під час громадянської війни, багато хто очікував, що його перемога буде найбільш ймовірним результатом цього жахливого конфлікту. Виступаючи сьогодні перед народом у Фолькcхаллі, новий фюрер пообіцяв німецькому народу швидке повернення до колишньої слави Райху, пообіцявши обмежені реформи, щоб запобігти повторенню подібного конфлікту.\n\nОднак із нацією, що лежить в руїнах, зруйнованою економікою, змученим населенням і значною частиною Європи, що все ще охоплена хаосом, справжнє майбутнє Райху залишається невизначеним. Проте, з великим політиком на чолі, багато хто сподівається, що Борман справді зможе повернути стабільність Райху."
+ WORLD_REICH.12.a: "Мир повертається в Ґерманію."
 
- WORLD_REICH.13.t: "[Get_newspaper_header]Speer Wins the German Civil War"
- WORLD_REICH.13.desc: "The German Civil War, the most devastating and bloody conflict to ever consume Germany, has finally ended with Albert Speer emerging as the victor. Once thought to have had too little support both from the military and the wider population to pose any real threat in the war, Speer today spoke before the Volkshalle as Germany's new Führer to vow a new era for the Reich.\n\nWhilst Speer has promised to make true on the economic and political reforms his supporters now expect to come, few suspect the next few months to be easy for the new Führer. Even should Speer be able to win over the German people and begin to heal the crippled nation, much of Europe remains consumed by a chaos many view Speer unfit to resolve. Yet with the country in ruins, many are thankful to at least have the Reich's great architect now in charge of rebuilding the nation."
- WORLD_REICH.13.a: "Peace returns to Germany."
+ WORLD_REICH.13.t: "[Get_newspaper_header]Шпеєр переміг у Бюрґеркрізі"
+ WORLD_REICH.13.desc: "Бюрґеркріг, найруйнівніший і найкровопролитніший конфлікт, який коли-небудь охоплював Ґерманію, нарешті завершився перемогою Альберта Шпеєра. Колись вважалося, що у Шпеєра занадто мало підтримки як з боку армії, так і населення, щоб становити реальну загрозу у війні, але сьогодні Шпеєр виступив у Фолькcхалле як новий фюрер Ґерманії, пообіцявши нову еру для Райху.\n\nХоча Шпеєр пообіцяв здійснити економічні та політичні реформи, на які сподіваються його прихильники, мало хто вважає, що наступні місяці будуть легкими для нового фюрера. Навіть якщо Шпеєр зможе завоювати підтримку німецького народу та почне відновлювати зруйновану націю, значна частина Європи все ще залишається охопленою хаосом, який як багато хто вважає, Шпеєр не здатний вирішити. Проте з країною в руїнах багато хто вдячний, що саме великий архітектор Райху тепер відповідальний за відновлення нації."
+ WORLD_REICH.13.a: "Мир повертається в Ґерманію."
 
- WORLD_REICH.14.t: "[Get_newspaper_header]Göring Wins the German Civil War"
- WORLD_REICH.14.desc: "The German Civil War, the most devastating and bloody conflict to ever consume Germany, has finally ended with Hermann Göring emerging as the victor. With much of the Heer and the Luftwaffe siding with Göring during the war proving to have been crucial to his success, the new Führer personally thanked the Wehrmacht during a speech at the Volkshalle today.\n\nWith Göring publicly advocating militaristic policies before the war, many now fear how deep the influence of the military may grow, and how long it may be before Germany finds itself in a new war. Yet with the nation in ruins, a collapsed economy and a weary populace however, the true future of the Reich remains uncertain. Whilst many may fear for the future however, many are now simply glad Göring's military might has brought peace today."
- WORLD_REICH.14.a: "Peace returns to Germany."
+ WORLD_REICH.14.t: "[Get_newspaper_header]Герман Ґьорінґ переміг у Бюрґеркрізі"
+ WORLD_REICH.14.desc: "Бюрґеркріг, найруйнівніший і найкровопролитніший конфлікт, який коли-небудь охоплював Ґерманію, нарешті завершився перемогою Германа Ґьорінґа. Оскільки велика частина сухопутних військ та Люфтваффе підтримала Ґьорінґа під час війни, це виявилося ключовим для його успіху. Новий фюрер особисто подякував Вермахту під час виступу у Фолькcхалле сьогодні.\n\nОскільки Ґьорінґ публічно виступав за мілітаристські політики до війни, багато хто тепер побоюється, наскільки глибоким може стати вплив армії, і як скоро Ґерманія знову опиниться у новій війні. Проте з нацією в руїнах, зруйнованою економікою та змученим населенням, справжнє майбутнє Райху залишається невизначеним. Незважаючи на побоювання за майбутнє, багато хто зараз просто радий, що військова міць Ґьорінґа сьогодні принесла мир."
+ WORLD_REICH.14.a: "Мир повертається в Ґерманію."
 
- WORLD_REICH.15.t: "[Get_newspaper_header]Heydrich Wins the German Civil War"
- WORLD_REICH.15.desc: "The German Civil War, the most devastating and bloody conflict to ever consume Germany, has finally ended with Reinhard Heydrich emerging as the victor. Widely disliked by the German populace, it has been the might of the SS which has won Heydrich the day. Speaking before the Volkshalle, the new Führer denounced the decadence which had corrupted Germany, and vowed to remove all hints of degeneracy from the Reich.\n\nWhilst Heinrich Himmler has offered his warmest congratulations to Heydrich, the international response has been largely muted with deep concern for the future of Germany. With the nation in ruins, a collapsed economy, a weary populace and a Europe still consumed by chaos, many now fear what the rule of the secretive fanatical organization will have in store for the future of the Reich."
- WORLD_REICH.15.a: "Peace returns to Germany."
+ WORLD_REICH.15.t: "[Get_newspaper_header]Гайдріх переміг у Бюрґеркрізі"
+ WORLD_REICH.15.desc: "Бюрґеркріг, найруйнівніший і найкровопролитніший конфлікт, який коли-небудь охоплював Ґерманію, нарешті завершився перемогою Райнгарда Гайдріха. Не користуючись популярністю у німецького народу, саме міць СС забезпечила Гайдріху перемогу. Виступаючи перед Фолькcхалле, новий фюрер засудив розбещеність, яка зіпсувала Ґерманію, і пообіцяв викорінити всі сліди дегенерації з Райху.\n\nХоча Генріх Гіммлер тепло привітав Гайдріха, міжнародна реакція була здебільшого стриманою з глибокою стурбованістю щодо майбутнього Ґерманії. З нацією в руїнах, зруйнованою економікою, змученим населенням і Європою, яка все ще охоплена хаосом, багато хто тепер побоюється, що на майбутнє Райху готує правління цієї фанатичної організації."
+ WORLD_REICH.15.a: "Мир повертається в Ґерманію."
 
- WORLD_REICH.16.t: "[Get_newspaper_header]Germany Restores Control Over Central Europe"
- WORLD_REICH.16.desc: "The Reichsprotektorat of Bohemia and Moravia, together with the Netherlands and Denmark, were the territories where Germanization proved the most successful. When Germany fractured, these territories entered a state of political upheaval, but in the end lands this close to the beating heart of the Reich couldn't be allowed to become a potential threat.\n\nAs such, it was no surprise when the new government in Germania decided to quickly move in and seize back such important provinces, especially the Netherlands with their trade ports, and Bohemia with its industrial core.\n\nWith friendly governments in Copenhagen and Amsterdam, and the total annexation of the Reichsprotektorat, the new Führer has secured control over Central Europe."
- WORLD_REICH.16.a: "Long live the Reich!"
- WORLD_REICH.16.b: "It seems the old lion can still roar."
- WORLD_REICH.16.c: "It was to be expected."
+ WORLD_REICH.16.t: "[Get_newspaper_header]Ґерманія відновлює контроль над Центральною Європою"
+ WORLD_REICH.16.desc: "Райхспротекторат Богемія та Моравія, разом із Нідерландами та Данією, були територіями, де ґерманізація виявилася найбільш успішною. Коли Ґерманія розкололася, ці території опинилися в стані політичної нестабільності, але врешті-решт землі, що розташовані так близько до серця Райху, не могли бути залишені як потенційна загроза.\n\nОтже, не стало несподіванкою, коли новий уряд у Ґерманії вирішив швидко захопити назад ці важливі провінції, особливо Нідерланди з їхніми торговими портами та Богемію з її промисловим ядром.\n\nЗ дружніми урядами в Копенгагені та Амстердамі, а також з повною анексією Райхспротекторату, новий фюрер забезпечив контроль над Центральною Європою."
+ WORLD_REICH.16.a: "Хай живе Райх!"
+ WORLD_REICH.16.b: "Здається, старий лев ще може рикнути."
+ WORLD_REICH.16.c: "Це було очікувано."
 
- WORLD_REICH.17.t: "[Get_newspaper_header]German Hegemony Returns"
- WORLD_REICH.17.desc: "At the beginning of the great civil war that ripped the Reich apart, many of the Reichskommissariats in the east broke free from Germania, due either to internal revolt or to the fact that the Reichskommissar was loyal to one of the defeated opponents to the new Führer.\n\nAfter the Bürgerkrieg ended, the weakened German nation was too devastated to even consider foreign expansion, and for a time it seemed that the swastika would never return to the bloodied fields of Eastern Europe.\n\nToday, however, marks a new beginning for the Reich. After a series of both military campaigns and diplomatic efforts, most of the former Reichskommissariats have returned to the fold of the reborn Reich. As the world looks in both awe and worry, one thing is certain: German hegemony has returned."
- WORLD_REICH.17.a: "Lebensraum is ours once more!"
- WORLD_REICH.17.b: "The swastika will fall, it's only a matter of time."
- WORLD_REICH.17.c: "It seems the Reich has returned to the world stage..."
+ WORLD_REICH.17.t: "[Get_newspaper_header]Повернення німецької гегемонії"
+ WORLD_REICH.17.desc: "На початку Бюрґеркрігу, що розірвав Райх на частини, багато райхскомісаріятів на сході відкололися від Ґерманії через внутрішні повстання або через те, що райхскомісар був вірний одному з переможених супротивників нового фюрера.\n\nПісля закінчення війни ослаблена Ґерманія була надто спустошеною, щоб навіть задумуватися про зовнішню експансію, і деякий час здавалося, що свастика більше ніколи не повернеться на окривавлені поля Східної Європи.\n\nСьогодні, однак, починається нова ера для Райху. Після серії як військових кампаній, так і дипломатичних зусиль, більшість колишніх райхскомісаріятів повернулися під владу відродженого Райху. У той час як світ спостерігає з подивом і тривогою, одне можна сказати напевно: німецька гегемонія повернулася."
+ WORLD_REICH.17.a: "Лебенсбраум знову наш!"
+ WORLD_REICH.17.b: "Свастика впаде, це лише питання часу."
+ WORLD_REICH.17.c: "Здається, Райх повернувся на світову арену..."
 
- WORLD_REICH.18.t: "[Get_newspaper_header]Germany Increases Presence in Indian Ocean"
- WORLD_REICH.18.desc: "As the Das Reich newspaper proudly informed their readers, the German Kriegsmarine recently conducted a series of large-scale exercises out of Mauritius and Réunion, previously a part of French Madagascar that was transferred to Germany following the insurgency there. After losing many of its belongings in Africa as the result of numerous military conflicts in the region, Germany has made a comeback in the nearby Indian Ocean, projecting its power against the Co-Prosperity Sphere.\n\nThe Japanese representatives on the diplomatic arena took no hesitation to denounce the "act of the German aggression". Although Japan has not yet acted in retaliation, the incident is seen as a part of a tendency of deteriorating relationships between the two superpowers, exacerbated by the actions of Führer Martin Bormann."
- WORLD_REICH.18.a: "Wir lagen vor Madagaskar..."
- WORLD_REICH.18.b: "A disgraceful act!"
- WORLD_REICH.18.c: "How worse it can get?"
+ WORLD_REICH.18.t: "[Get_newspaper_header]Ґерманія збільшує присутність в Індійському океані"
+ WORLD_REICH.18.desc: "Як гордо повідомила своїх читачів газета Das Reich, нещодавно Кріґсмаріне Ґерманії провела серію масштабних навчань на Маврикії та Реюньйоні, які раніше входили до складу Французького Мадагаскару, а згодом були передані Ґерманії після повстання на острові. Втративши багато своїх володінь в Африці внаслідок численних військових конфліктів у цьому регіоні, Ґерманія зробила камбек у прилеглих водах Індійського океану, демонструючи свою міць проти Сфери.\n\nЯпонські представники на дипломатичній арені негайно засудили цей «акт німецької агресії». Хоча Японія ще не вжила заходів у відповідь, цей інцидент розглядається як частина тенденції до погіршення відносин між двома наддержавами, що загострилося через дії фюрера Мартіна Бормана."
+ WORLD_REICH.18.a: "Ми знаходилися біля Мадагаскару..."
+ WORLD_REICH.18.b: "Ганьба!"
+ WORLD_REICH.18.c: "Як погано це може бути?"
 
- WORLD_REICH.19.t: "[Get_newspaper_header]German Missile Deployment in Mauritius and Réunion"
- WORLD_REICH.19.desc_BOR: "Anxiety gripped the international public and the militaries of the world have been put on alert as the news arrived from the Indian Ocean. According to the American and Japanese reports, the German Reich constructed missile launch facilities on the islands of Mauritius and Réunion, thereby placing its nuclear warheads in a hotly contested area.\n\nHailed as a great strategical victory in Germania, the act drew stern condemnation from the Empire of Japan whose diplomats unequivocally warned about the possibility of a reciprocal action. The outcome of the German militarisation of the Indian Ocean remains uncertain, but it can be safely said that the incident led to an increase in tension comparable to the beginning of the Aleutians Crisis."
- WORLD_REICH.19.desc_SGR: "Anxiety gripped the international public and the militaries of the world have been put on alert as the news arrived from the Indian Ocean. According to the American and Japanese reports, the German Reich constructed missile launch facilities on the islands of Mauritius and Réunion, thereby placing its nuclear warheads in a hotly contested area.\n\nHailed as a great strategical victory in Germania, the act drew stern condemnation from the superpowers whose diplomats unequivocally warned about the possibility of a retaliatory action. The outcome of the German militarisation of the Indian Ocean remains uncertain, but it can be safely said that the incident led to a record increase of tension since the diplomatic talks led by German foreign minister, Helmut Schmidt."
- WORLD_REICH.19.a: "A victory to remember!"
- WORLD_REICH.19.b: "This won't go unpunished!"
- WORLD_REICH.19.c: "The world hangs in the balance once again."
+ WORLD_REICH.19.t: "[Get_newspaper_header]Ґерманія розгортає ракети на Маврикії та Реюньйоні"
+ WORLD_REICH.19.desc_BOR: "Міжнародну спільноту охопило занепокоєння, а військові всього світу перебувають у стані підвищеної готовності після новин з Індійського океану. За даними американських та японських джерел, Великоґерманський Райх побудував ракетні пускові установки на островах Маврикій та Реюньйон, розмістивши таким чином свої ядерні боєголовки в гарячій зоні конфлікту.\n\nЦей акт був оголошений великою стратегічною перемогою в Ґерманії, але викликав різке засудження з боку Японської імперії, чиї дипломати однозначно попередили про можливість взаємної відповіді. Результат мілітаризації Ґерманією Індійського океану залишається невизначеним, але можна з упевненістю сказати, що цей інцидент призвів до зростання напруженості, подібної до початку кризи на Алеутських островах."
+ WORLD_REICH.19.desc_SGR: "Міжнародну спільноту охопило занепокоєння, а військові всього світу перебувають у стані підвищеної готовності після новин з Індійського океану. За даними американських та японських джерел, Великоґерманський Райх побудував ракетні пускові установки на островах Маврикій та Реюньйон, розмістивши таким чином свої ядерні боєголовки в гарячій зоні конфлікту.\n\nЦей акт був оголошений великою стратегічною перемогою в Ґерманії, але викликав різке засудження з боку наддержав, чиї дипломати однозначно попередили про можливість взаємних дій у відповідь. Результат мілітаризації Ґерманією Індійського океану залишається невизначеним, але можна з упевненістю сказати, що цей інцидент призвів до рекордного зростання напруженості з часу дипломатичних переговорів під керівництвом міністра закордонних справ Ґерманії Гельмута Шмідта."
+ WORLD_REICH.19.a: "Це перемога, яку варто запам'ятати!"
+ WORLD_REICH.19.b: "Це не залишиться безкарним!"
+ WORLD_REICH.19.c: "Світ знову висить на волосині."
 
-#|=|========[ Bormann World Events ]========|=|#
- WORLD_REICH.110.t: "[Get_newspaper_header]The Disappearance of Albert Speer"
- WORLD_REICH.110.desc: "Albert Speer has vanished. The former German Reichsminister-turned-Nazi exile has spent the last few years living in America after seeking political asylum. While many Nazis who fled the aftermath of the German Civil War sought to change their identity, Albert Speer instead published a book under his own name and conducted several high-profile interviews to increase its sales figures.\n\nAs of the early hours of the morning, Albert Speer has gone missing, and the American police are coordinating to conduct a nationwide manhunt. In a public statement, Germany's Foreign Minister Walther Hewel wished the Americans luck in their investigation and demanded that Speer be extradited to the Reich in the event of his discovery."
- WORLD_REICH.110.a: "Where is Speer?"
+ #|=|========[ Світові Евенти Бормана ]========|=|#
+ WORLD_REICH.110.t: "[Get_newspaper_header]Зникнення Альберта Шпеєра"
+ WORLD_REICH.110.desc: "Альберт Шпеєр зник. Колишній Райхсміністр Ґерманії, який став нацистським вигнанцем, останні роки проживав у США, шукаючи політичного притулку. Хоча багато нацистів, які втекли після Громадянської війни в Ґерманії, намагалися приховати свою особистість, Альберт Шпеєр натомість видав книгу під власним ім'ям і дав кілька гучних інтерв'ю, щоб підвищити її продажі.\n\nЗ ранку Альберт Шпеєр зник, і американська поліція координує національне полювання на нього. У публічній заяві міністр закордонних справ Ґерманії Вальтер Гевель побажав американцям успіху в розслідуванні та вимагав екстрадиції Шпеєра до Райху у разі його виявлення."
+ WORLD_REICH.110.a: "Де Шпеєр?"
 
- WORLD_REICH.111.t: "[Get_newspaper_header]The Assassination of Albert Speer"
- WORLD_REICH.111.desc: "Albert Speer is dead. The former German Reichsminister-turned-Nazi exile had spent the last few years in America after seeking political asylum. While many Nazis who fled the aftermath of the German Civil War sought to change their identity, Albert Speer instead published a book under his own name and conducted several high-profile interviews to increase its sales figures.\n\nAt 11am in broad daylight, Speer was shot six times by a single gunman who allegedly shouted "Heil Bormann!" before leaping into the back of a nearby vehicle, which swiftly raced away. Speer was dead by the time the ambulance arrived. Germany's Foreign Minister Walther Hewel has refused to confirm or deny the involvement of Germany's Ordnungspolizei, instead labelling Speer a "treacherous dog who deserved his fate". The President of the United States has signalled his fury.\n"
- WORLD_REICH.111.a: "An insult to America."
+ WORLD_REICH.111.t: "[Get_newspaper_header]Вбивство Альберта Шпеєра"
+ WORLD_REICH.111.desc: "Альберт Шпеєр мертвий. Колишній Райхсміністр Ґерманії, який став нацистським вигнанцем, останні роки провів у США після пошуку політичного притулку. Хоча багато нацистів, які втекли після Громадянської війни в Ґерманії, намагалися приховати свою особистість, Альберт Шпеєр видав книгу під власним ім'ям і провів кілька гучних інтерв'ю для підвищення її продажів.\n\nО 11 ранку, серед білого дня, Шпеєра шість разів вистрілив один стрілець, який, як стверджується, вигукнув «Хайль Борман!» перед тим, як стрибнути в автомобіль, що швидко зник із місця події. Шпеєр був мертвий ще до прибуття швидкої допомоги. Міністр закордонних справ Ґерманії Вальтер Гевель відмовився підтвердити або спростувати причетність Великоґерманський Райху, назвавши Шпеєра «зрадницькою собакою, що отримала по заслугам». Президент США висловив своє обурення."
+ WORLD_REICH.111.a: "Образа для Америки."
 
- WORLD_REICH.112.t: "[Get_newspaper_header]The Eurasian Détente"
- WORLD_REICH.112.desc: "Surprising news has come out of both Tokyo and Germania today, via a joint declaration of friendship between the Superpowers announced this morning. Even during the Second World War, ties between the nations were already fraught and after the Atomic Bombing of Pearl Habor, the nations of the Tripartite Pact formally ended their alliance. With the onset of the Cold War, the former allies became rivals for influence and power all over the planet.\n\nNow it seems that rivalry has become just a short, unpleasant episode in German-Japanese relations, which are seeing a high not seen since the 1930s. As world leaders both within the German and Japanese Empires and without congratulate the thaw as a crucial step to ensuring global peace, international experts have noticed that Washington has been unusually quiet in their reaction to the news."
- WORLD_REICH.112.a: "To our brothers in Japan!"
- WORLD_REICH.112.b: "Long live Germany!"
- WORLD_REICH.112.c: "Let them come."
- WORLD_REICH.112.d: "Maybe peace is possible."
+ WORLD_REICH.112.t: "[Get_newspaper_header]Євразійська розрядка"
+ WORLD_REICH.112.desc: "Сьогодні несподівані новини прийшли з Токіо та Ґерманії через спільну декларацію дружби між наддержавами, оголошену вранці. Навіть під час Другої світової війни відносини між країнами були напруженими, і після атомного бомбардування Перл-Гарбора країни Троїстого пакту формально припинили свій союз. З початком холодної війни колишні союзники стали суперниками за вплив і владу по всій планеті.\n\nТепер здається, що це суперництво стало лише коротким, неприємним епізодом у ґермансько-японських відносинах, які зараз досягли такого рівня, який не бачили з 1930-х років. Лідери Ґерманії, Японії та інших країн привітали потепління як важливий крок до забезпечення глобального миру, хоча експерти помітили, що Вашингтон незвично мовчазний у своїй реакції."
+ WORLD_REICH.112.a: "За наших братів у Японії!"
+ WORLD_REICH.112.b: "Хай живе Ґерманія!"
+ WORLD_REICH.112.c: "Нехай приходять."
+ WORLD_REICH.112.d: "Можливо, мир може бути досягнутий."
+
+ WORLD_REICH.120.t: "[Get_newspaper_header]Друга Ніч довгих ножів"
+ WORLD_REICH.120.desc: "Чорна павутина змов, що охоплює всі елементи Райху, запалала за наказом фюрера Мартіна Бормана.\n\nОрганізована поліція Рейнгарда Гелена була мобілізована і отримала завдання придушити всі прояви незгоди в Райху. Конгломерати, християнські інституції, нелояльні фракції армії та підступні бюрократи партії зазнають найбільшого політичного, соціяльного та культурного чищення в новітній історії Ґерманії.\n\nКулі полетять, мотузки натягнуться, і трон Бормана стане ще більшим."
+ WORLD_REICH.120.a: "До утопії завжди один крок."
  
- WORLD_REICH.120.t: "[Get_newspaper_header]Second Night of the Long Knives"
- WORLD_REICH.120.desc: "The black web of conspiracy ensnaring all elements of the Reich has been lit aflame by orders of the Führer Martin Bormann.\n\nReinhard Gehlen's Ordnungspolizei has been mobilized and tasked with crushing all dissent within the Reich. Conglomerates, Christian institutions, disloyal Heer factions and scheming Party bureaucrats alike are being cracked down upon in the largest political, social and cultural purge in recent German history.\n\nThe bullets will fire, the ropes will snap taut, and Bormann's throne shall grow larger still."
- WORLD_REICH.120.a: "Always one death away from utopia."
+ WORLD_REICH.121.t: "[Get_newspaper_header]Червень зради"
+ WORLD_REICH.121.desc: "Чорна павутина змов, що охоплює всі елементи Райху, зірвала фюрера Мартіна Бормана з його трону.\n\nНелояльність серед армії, конгломератів і навіть самої Партії досягла кривавого апогею, коли почався збройний переворот з метою скинути Бормана та його союзників.\n\nОрганізатор перевороту, керівник канцелярії партії Бальдур фон Ширах, здається, готовий стати новим фюрером Великоґерманського Райху. Німці вступили в нову епоху."
+ WORLD_REICH.121.a: "Віск, що тримав крила докупи, розтанув."
+
+ WORLD_REICH.122.t: "[Get_newspaper_header]Вбивство Райхсміністра Гевеля"
+ WORLD_REICH.122.desc: "З Кельна, промислового серця Ґерманського Райху, надходять численні повідомлення про те, що кілька годин тому було виявлено тіло Райхсміністра Гевеля, ґерманського міністра закордонних справ, та його дружини Бланди. Їх знайшли в складі в невеликому містечку за межами міста. Пан і пані Гевель вважалися зниклими протягом двох тижнів після того, як їхній будинок у престижному районі Кельна був пограбований.\n\nТерористична група під назвою «Фракція Червоної армії» взяла на себе відповідальність за вбивство, посилаючись на репресії та тиранічні дії адміністрації фюрера Бормана як на виправдання своїх дій. Цей поворот подій кинув Ґерманський Райх у хаос, оскільки протягом останніх тижнів по всьому Райху проходили насильницькі протести, які були придушені лише за кілька днів до викрадення міністра та його дружини."
+ WORLD_REICH.122.a: "Ґерманський орел знову захворів."
+
+ #|=|========[ Світові Евенти Шпеєра ]========|=|#
+ WORLD_REICH.200.t: "[Get_newspaper_header]Підписано Кенігсберзьку угоду"
+ WORLD_REICH.200.desc: "На великий міжнародний подив, сьогодні в Кенігсберзі було підписано дипломатичну угоду між Великим Ґерманським Райхом та Республікою Польща, яку підписали Райхсміністр Гельмут Шмідт та польський представник Станіслав Ваховяк. Угода включає в себе офіційне визнання поляків як народу з боку Ґерманії та план репатріації польських рабів у найближчому майбутньому. У свою чергу, Польщею буде керувати тимчасовий уряд до подальших переговорів, і вона буде інтегрована в Айнхайтспакт.\n\nБагато хто охрестив це дипломатичним дивом, однак угода викликала великі суперечки, оскільки вона не торкається статусу анексованих територій Польщі і викликала сильне незадоволення з боку реакційних членів НСДАП та кількох польських лідерів. В обох країнах одночасно відбулися великі протести як за, так і проти угоди."
+ WORLD_REICH.200.a: "Друге диво на Віслі?"
+ WORLD_REICH.200.b: "Заради Бога, Шмідт, що ти накоїв?!"
+
+ WORLD_REICH.201.t: "[Get_newspaper_header]Польща узурпована Вермахтом"
+ WORLD_REICH.201.desc: "На середні міжнародні реакції, Республіка Польща сьогодні капітулювала перед Вермахтом Великого Ґерманського Райху. Угода була досягнута маршалами Генріком фон Трескевом та Гансом Шпайделем з польським урядом, і Райх здійснив все більший тиск на залишкову державу, обіцяючи їй свободу та процвітання, хоч і під німецьким чоботом.\n\nХоча міжнародні надії на Ґерманський режим з явно лібералізованим курсом були зруйновані цим, все ж варто зазначити, що передача влади відбулася без серйозного насильства чи репресій проти польського народу. Хоча в Польщі та польській діаспорі відбуваються значні протести, рішення здається стабільним. Залежно від наступних дій, у незалежної Польщі ще може бути майбутнє."
+ WORLD_REICH.201.a: "Можливо, ще не все втрачено."
+
+ WORLD_REICH.202.t: "[Get_newspaper_header]Польща впала під контроль Ґерманії"
+ WORLD_REICH.202.desc: "На міжнародний шок, Республіка Польща була насильно придушена Вермахтом Великого Ґерманського Райху, нібито за наказом самого фюрера Альберта Шпеєра. Це, очевидно, було відповіддю на невдалі попередні переговори, і цей крок широко вважається крахом образу Альберта Шпеєра як ліберального реформатора Райху. Хоча Вермахт швидко взявся за відновлення порядку та встановлення окупаційного режиму, який активно намагається уникнути подальших конфліктів, ситуація в Польщі не була такою збудженою з часів Громадянської війни в Ґерманії.\n\nЗалишається невідомим, яке майбутнє чекає Польщу."
+ WORLD_REICH.202.a: "Фюрер — брехун!"
+
+ WORLD_REICH.206.t: "[Get_newspaper_header]М'яка рука на Сході"
+ WORLD_REICH.206.desc: "Після відновлення гегемонії над землями, які раніше належали східним райхскомісаріятам, більшість очікували, що Райх просто відновить стару систему, але, схоже, вони помилилися. У кроці, який всіх здивував, ці землі були реорганізовані в незалежні нації, очолювані формально вільними урядами.\n\nХоча більшість погоджуються, що ці нові держави в основному складаються з колаборантів, ніхто не може заперечити, що це важлива зміна. Фюрер негайно підписав кілька угод з новоствореними країнами, які, безумовно, принесуть користь Ґерманії.\n\nЗ цією новою системою, яку більшість вважає сильною, під впливом реформаторського крила партії, німецька гегемонія в Східній Європі виглядає значно більш стабільною, ніж за старої."
+ WORLD_REICH.206.a: "Розумний вибір для розумного уряду."
+ WORLD_REICH.206.b: "Несподіваний, але бажананий розвиток."
+ WORLD_REICH.206.c: "Схоже, вони засвоїли урок..."
+
+ WORLD_REICH.207.t: "[Get_newspaper_header]Суворий контроль на Сході"
+ WORLD_REICH.207.desc: "Після відновлення гегемонії над землями, які раніше належали східним райхскомісаріятам, Райх вирішив реорганізувати їх у Райхсланди, автономні регіони під суворим контролем з Ґерманії. Місцевий Райхсштатхальтер, за підтримки уряду, в основному обраного ними, має наглядати за цивільним управлінням, щоб забезпечити суворий контроль над територією, але з кращим управлінням у порівнянні з надмірностями, вчиненими деякими з старих райхскомісарів.\n\nХоча це, напевно, пом'якшить найгірші наслідки німецької домінації, більшість спостерігачів погоджуються, що це мало що змінить у запеклій ненависті, яку місцеві жителі відчувають до своїх господарів, і вони вважають, що слід очікувати збільшення хвилі партизанських атак при перших ознаках слабкості з боку уряду."
+ WORLD_REICH.207.a: "Наша влада сильніша, ніж будь-коли!"
+ WORLD_REICH.207.b: "Цей новий порядок, так само як і попередній, приречений на крах..."
+ WORLD_REICH.207.c: "Візьміть стару систему, дайте їй нову назву: вуаля!"
+
+ WORLD_REICH.208.t: "[Get_newspaper_header]'Засідання Зондергеріхт у Ґерманії"
+ WORLD_REICH.208.desc: "У спробі очистити НСДАП від нелояльних членів, Альберт Шпєр, фюрер Ґерманського Райху, започаткував 'Зондергеріхт', спеціальний суд, який засудив кількох членів партії за різноманітні злочини, від зловживання владою до отримання хабарів і навіть зради.\n\nУ результаті кілька демократичних країн виступили з протестом проти того, що виглядало як масовий розправу, але це не завадило уряду в Ґерманії. Після кількох місяців Шпеєр досяг подвійного результату: він не лише зміцнив свою владу в партії, але й отримав значну підтримку німецького народу для свого режиму.\n\nЗнову маючи на своїй стороні громадську думку, фюрер тепер може зосередитися на більш важливих справах."
+ WORLD_REICH.208.a: "Ці зрадники отримали те, що заслуговували!"
+ WORLD_REICH.208.b: "Леопард не може змінити свої плями..."
+ WORLD_REICH.208.c: "Чистка, як це банально!"
+
+ WORLD_REICH.209.t: "[Get_newspaper_header]NetzRAM в мережі"
+ WORLD_REICH.209.desc: "Після кількох років підготовки, ремонту, налаштувань і вдосконалень, нарешті NetzRAM вийшов на лінію і повністю запрацював. Ця нова та неймовірно розвинена система, що об'єднує всі комп'ютери в найважливіших наукових установах та урядових бюро по всьому Райху, дозволяє надзвичайно швидку передачу будь-яких даних, від тексту до зображень, що сильно покращує координацію між різними установами.\n\nХоча основна мета NetzRAM полягає в допомозі науковим дослідженням та підвищенні бюрократичної ефективності, мало хто сумнівається, що фюрер експериментуватиме з його використанням у військовій та шпигунській сферах. Після цього, хто знає, можливо, цю систему можна буде розширити та адаптувати для цивільного використання? Але одне очевидно: з цим досягненням Райх нарешті вступив у майбутнє."
+ WORLD_REICH.209.a: "Майбутнє вже тут!"
+ WORLD_REICH.209.b: "У нас з'явився новий конкурент за технологічну перевагу?"
+ WORLD_REICH.209.c: "Неймовірно!"
+
+ WORLD_REICH.210.t: "[Get_newspaper_header]Студенти бунтують у Нюрнберзі"
+ WORLD_REICH.210.desc: "Удруге за останній час вулиці Ґерманії ожили протестами студентів. У місті Нюрнберг вулиці заполонили хаос і насильство на фоні стрільби по відомому марксистському акціонеру Руді Дучке з боку ОРПО.\n\nДучке був марксистським активістом у тому, що можна вважати найантикомуністичнішою країною в історії. Для багатьох його смерть була неминучою, якщо не давно очікуваною. Однак те, що не було очікуваним, це загальна реакція на вбивство. Хоча в різних куточках Райху відбувалися невеликі акції протесту, епіцентром бурі стало місто Нюрнберг, відоме рассовими законами.\n\nНасильство досягло такої межі, і радикалізм виявлений настільки далекий від нацистської ортодоксії, що не можна не запитати, коли, а не якщо, сокира впаде на бунтівників.\n"
+ WORLD_REICH.210.a: "Причина для занепокоєння."
+
+ WORLD_REICH.211.t: "[Get_newspaper_header]Крах фондового ринку Франкфурта на фоні нафтової кризи"
+ WORLD_REICH.211.desc: "З нафтовою кризою та її економічними наслідками, Великоґерманський Райх був особливо сильно вражений, оскільки Франкфуртська фондова біржа впала більш ніж на сто пунктів. Тисячі людей уже втратили роботу, і кілька підприємств, здається, на шляху до банкрутства.\n\nЕкономісти швидко зазначили, що залежність Райху від нафти різко зросла через масштабні зусилля з індустріалізації під час Цойвельрайну, особливо в Східній Європі.\n\nФюрер Шпєр ще не відреагував публічно на цю кризу. Оскільки економічні реформи були основною складовою його політики реформ, раптовий кінець так званого віртшафтсвундеру, що відбувався під керівництвом Райхсекретаря з економіки Людвіга Ерхарда, напевно, сильно позначиться на громадській думці."
+ WORLD_REICH.211.a: "Чи впаде тисячолітній Райх під вагою нафти?"
+ WORLD_REICH.211.b: "Невже знову!"
+
+ WORLD_REICH.212.t: "[Get_newspaper_header]Повстання рабів в Райху"
+ WORLD_REICH.212.desc: "Існує багато речей, за які Райх всесвітньо відомий, і жодна з них не є настільки ганебною, як його широке використання рабської праці в своїх проєктах, що викликало ненависть по всій Європі. Однак, з методом сталих реформ фюрера Шпєра, здавалося, що невдоволення серед класу рабів було придушене. Це було вражаюче доведено хибним.\n\nПо всіх східних володіннях Райху раби піднялися на боротьбу проти своїх німецьких господарів, залишивши глибоку рану на континенті. Поки уряд Шпєра намагається скласти відповідь, фельдмаршал Шернер захопив контроль над російською територією Райху, обіцяючи жорстку реакцію на повстання, якщо Ґерманія не зможе контролювати ситуацію. Хоча між усіма трьома сторонами все ще тримається ненадійний мир, світ з затамованим подихом спостерігає, чи скине Ґерманія нарешті ланцюги рабства."
+ WORLD_REICH.212.a: "Це катастрофа!"
+ WORLD_REICH.212.b: "Вставайте, всі раби, бо ваша свобода тут!"
+ WORLD_REICH.212.c: "Більше жодних поступок!"
+ WORLD_REICH.212.d: "Час вибору настав."
  
- WORLD_REICH.121.t: "[Get_newspaper_header]The June of Deceit"
- WORLD_REICH.121.desc: "The black web of conspiracy ensnaring all elements of the Reich has torn the Führer Martin Bormann from his throne of power.\n\nDisloyalty within the Heer, the conglomerates and even the Party itself has come to a bloody head as an armed coup launches to overthrow Bormann and his allies.\n\nThe mastermind of the coup, Chief of the Party Chancellery Baldur von Schirach, looks poised to become the new Führer of the Großgermanisches Reich. The Germans have entered a new age."
- WORLD_REICH.121.a: "The wax wings have melted."
+ WORLD_REICH.213.t: "[Get_newspaper_header]Заколот вермахту придушено"
+ WORLD_REICH.213.desc: "Заколот фельдмаршала Фердинанда Шернера у колишньому Райхскомісаріяті Московієні був рішуче придушений, згідно з даними як незалежних, так і райхівських джерел. Спочатку висланий на російські території для захисту великого проєкту реформи вермахту під керівництвом фельдмаршалів Геннінга фон Трескова та Ганса Шпейделя у Ґерманії, Шорнер підірвав місцеву владу під командуванням генерала Алексіса фон Ренне і здійснив переворот під час початку повстання рабів.\n\nЗ Московією в руїнах і рабами, що все ще контролюють великі території Східної Європи, доля бунтівного фельдмаршала майже визначена — це буде безславна смерть. Однак поки раби ще повстають, неможливо передбачити, коли стабільність остаточно повернеться до Європи."
+ WORLD_REICH.213.a: "Кривавий Фердинанд зазнав поразки."
 
- WORLD_REICH.122.t: "[Get_newspaper_header]Reichsminister Hewel Murdered"
- WORLD_REICH.122.desc: "Reports have been flooding out of Cologne, in the industrial heart of the German Reich, where just hours ago it was reported that Reichsminister Hewel, the German minister of foreign affairs, was found dead alongside his wife Blanda inside of a warehouse in a small town outside of the city. Mr. and Mrs. Hewel were reported missing two weeks prior to their discovery, after their home in an upscale Cologne neighborhood had been broken into.\n\nA terrorist group known as the Red Army Faction has taken responsibility for the killings, citing suppression and tyrannical action by Führer Bormann's administration as their justification. This turn of events has thrown the German Reich into turmoil, with weeks of violent protests across the Reich having been put down just days before the kidnapping of the minister and his wife."
- WORLD_REICH.122.a: "The German eagle falls ill once again."
+ WORLD_REICH.214.t: "[Get_newspaper_header]Рабське повстання придушено"
+ WORLD_REICH.214.desc: "Рабське повстання під керівництвом Віллі Брандта було жорстоко придушено вермахтом, згідно з даними як незалежних, так і Райхівських джерел. Звіти про кількість жертв та помсти, що відбулися внаслідок цього, є обмеженими й державними цензурованими, але оцінюються як катастрофічно великі. Повстання, очолюване німецькою групою опору Райхсбанеру та кількома європейськими партизанськими групами, мало на меті скасування рабства та сумнозвісних Нюрнберзьких законів.\n\nЗі Східною Європою, яка тепер лежить у руїнах, міжнародні інвестори відступають від колись перспективного Цольверрайну, а неназвані джерела в кількох країнах настійно радять змінити політику щодо Ґерманії. Брандта вважають мертвим."
+ WORLD_REICH.214.a: "Мрія про вільну Європу мертва."
 
-#|=|========[ Speer World Events ]========|=|#
- WORLD_REICH.200.t: "[Get_newspaper_header]Königsberg Treaty Signed"
- WORLD_REICH.200.desc: "To wide international surprise, a diplomatic treaty between the Greater Germanic Reich and Republic of Poland has today been signed in Königsberg by Reichsminister Helmut Schmidt and Polish representative Stanisław Wachowiak. Included in it are the official recognition of the Polish as a people by Germany and a plan for repatriation of Polish slaves within the near future. In turn, Poland is to be administrated by a provisional government pending further negotiation and reintegrated into the Einheitspakt.\n\nHailed as a diplomatic miracle by many, large controversy nonetheless plagues the treaty as it does not address the status of the annexed territories of Poland and has been met with strong disapproval by reactionary NSDAP members and several Polish leaders. Large protests, both for and against the treaty, took place in both nations simultaneously."
- WORLD_REICH.200.a: "A second miracle on the Vistula?"
- WORLD_REICH.200.b: "Um Gottes willen, Schmidt, what have you done?!"
+ WORLD_REICH.215.t: "[Get_newspaper_header]Кінець рабського повстання"
+ WORLD_REICH.215.desc: "Після напружених переговорів з групою опору Райхсбанеру та її партизанськими союзниками, тріумфальний Альберт Шпєр сьогодні оголосив у Фолькcхалле про досягнення угоди з повсталими рабами. В обмін на негайне скасування рабства та Нюрнберзьких законів — 'на жаль, занадто поспішних', за словами фюрера — повстанці погодилися скласти зброю та повернутися до цивілізованості. Змішані реакції у НСДАП, яка критикувала фюрера за сам факт переговорів, не завадили угоді здобути значну підтримку як у суспільстві, так і в Цольверрайні та на міжнародній арені.\n\nГрупа реформаторів, відома як 'банда Чотирьох', не була присутня поруч із фюрером під час оголошення. Лідер Райхсбанер Віллі Брандт, як повідомляється, втік до Сполучених Штатів."
+ WORLD_REICH.215.a: "Схоже, фюрер знову в центрі уваги."
+
+ WORLD_REICH.216.t: "[Get_newspaper_header]Кінець рабського повстання"
+ WORLD_REICH.216.desc: "Після напружених переговорів з групою опору Райхсбанеру та її партизанськими союзниками, екзальтований Курт Кізінгер оголосив сьогодні у Фолькcхалле про досягнення угоди з протестувальниками. В обмін на масштабні реформи, включно з негайним скасуванням рабства та Нюрнберзьких законів — 'давно очікуваних', за словами заступника фюрера — порядок буде відновлено на сході. Незважаючи на внутрішні конфлікти в НСДАП, яких не було з часів Бюрґеркрігу, реакція громадськості та закордонна підтримка були переважно позитивними через свободи, які ці поправки приносять Райху та Цольверрайну.\n\nФюрер Шпєр був помітно відсутнім під час оголошення, ймовірно, через 'незначний грип'. Лідер Райхсбанер Віллі Брандт, як повідомляється, втік до Сполучених Штатів."
+ WORLD_REICH.216.a: "Хто тепер справжній фюрер?"
+
+ WORLD_REICH.217.t: "[Get_newspaper_header]Заворушення у Ґерманії"
+ WORLD_REICH.217.desc: "Сьогодні була заплямована гордість Великоґерманського Райху, оскільки під час святкування його досягнень спалахнуло невдоволення. Щорічні мітинги в Нюрнберзі на підтримку НСДАП зустріли протести групи студентів, які виступали за свободу слова та реформи в Райху. Однак під час проведення протесту один із студентів, Руді Дучке, був застрелений Йозефом Бахманом, який, як видається, не мав жодних зв'язків з урядом, зважаючи на його ідеологічне керівництво.\n\nРозлючені смертю Дучке, студенти прорвали кілька барикад і почали сутички з охороною, поки влада не відповіла силою. Після кількох черг стрілянини заворушення були розігнані, а місто Нюрнберг оголосило воєнний стан. Група опору Райхсбанер заявляє про свою підтримку протестувальників і стверджує, що вбивство Дучке було організоване самим Райхом."
+ WORLD_REICH.217.a: "Тривожно."
+ WORLD_REICH.217.b: "Айне шієре катастрофе!"
+
+ WORLD_REICH.218.t: "[Get_newspaper_header]Реформаторський уряд Ґерманії повалено"
+ WORLD_REICH.218.desc: "Після раптового радіомовчання та закриття кількох нещодавно створених міжнародних контактних пунктів між світом і Великоґерманським Райхом, міжнародні спостерігачі склали похмуру картину нації, виходячи з нечисленних джерел, що залишилися. Уряд фюрера Альберта Шпєра, найбільш відомий своєю підтримкою 'банди чотирьох' — групи впливових реформаторів, що об'єдналися з фюрером напередодні Бюрґеркрігу, — повалено.\n\nЗневажений генерал-фельдмаршал Фердинанд Шернер взяв на себе командування ґерманською державою, замінивши колишнього фюрера Альберта Шпєра, який не з'являвся на публіці з моменту введення обмежень. Офіційна заява уряду Райхсканцелярії стверджує, що 'все добре'. Місцезнаходження колишніх членів уряду невідоме."
+ WORLD_REICH.218.a: "Ми приречені."
+ WORLD_REICH.218.b: "І ось зникла остання надія Європи."
+
+ WORLD_REICH.219.t: "[Get_newspaper_header]Ґерманія інтегрує східні Райхскомісаріяти"
+ WORLD_REICH.219.desc: "Після недавнього перевороту Ґерманського уряду генералом-фельдмаршалом Фердинандом Шернером доля урядів у східних Райхскомісаріятах залишалася непевною — їхні адміністрації продовжували працювати, як зазвичай, але страх перед третбою 'Барбароссою' та подальшим руйнуванням висів над їхніми головами. З радіомовчанням з боку Ґерманії здавалося, що Шернер має намір зберегти нинішній, робочий порядок на Сході через страх подальшої дестабілізації регіону.\n\nНещодавні комунікації спростували ці припущення, оскільки Ґерманія оголосила про інтеграцію всіх східних Райхскомісаріятів до складу Ґерманії. Подальші повідомлення також уточнили, що Райхскомісаріяти не скасовано, але їхню автономію значно скорочено для підвищення ефективності та контролю над Сходом. Східна Європа, схоже, й надалі стикатиметься зі складнощами, навіть під наглядом Ґерманії."
+ WORLD_REICH.219.a: "Страх перед начальником повинен бути сильнішим за страх перед ворогом."
+ WORLD_REICH.219.b: "Риє ранню могилу?"
+
+ WORLD_REICH.220.t: "[Get_newspaper_header]Оголошено про 'демократичні' реформи в Ґерманії"
+ WORLD_REICH.220.desc: "Після жорстокого придушення недавнього рабського повстання у Східній Європі після невдалих переговорів майбутнє Ґерманії здавалося темним — декларацію про війну негайно супроводжував внутрішній партійний переворот, коли фюрера Альберта Шпєра скинули 'реакціонери' всередині НСДАП. Очолюваний президентом Райхстаґу Теодором Оберлендером, цей рух складається з широкого фронту націонал-соціялістів, які були відсторонені урядом Альберта Шпєра.\n\nХоча можна було б очікувати, що новий уряд продовжить жорстокі репресії та скасує реформи, здійснені попереднім урядом, схоже, що нинішній уряд зробив протилежне. У телевізійному виступі в Райхстазі він оголосив про подальші реформи в країні — пообіцявши нову еру масової демократичної участі під загальною структурою НСДАП. Як саме ця мета буде досягнута, поки невідомо."
+ WORLD_REICH.220.a: "Один народ, один рейх, одна партія"
+ WORLD_REICH.220.b: "У цьому немає нічого демократичного!"
+
+ WORLD_REICH.221.t: "[Get_newspaper_header]Оновлена боротьба за владу в Ґерманії"
+ WORLD_REICH.221.desc: "Після жорстокого придушення недавнього рабського повстання у Східній Європі після вторгнення, майбутнє Ґерманії здавалося похмурим — Декларація війни з боку бунтівного фельдмаршала Фердинанда Шернера була негайно доповнена внутрішнім партійним переворотом фюрера Альберта Шпеєра, здійсненим давно знеславленими 'реакціонерами' всередині НСДАП.\n\nКоли війська Шернера тріумфально увійшли до Ґерманії, йому довелося стикнутися з уже сформованою протиборчою фракцією — 'реакціонерами' під керівництвом Теодора Оберлендера. Хоча обидві сторони погодилися на тимчасову співпрацю, ознаки нової боротьби за владу очевидні — обидві фракції, як повідомляється, консолідують свої бази підтримки для майбутнього перевороту одна проти одної, водночас займаючись справами у самій Ґерманії та придушенням залишкових елементів на Сході. Доля Ґерманії висить на волосині."
+ WORLD_REICH.221.a: "Єдність ніколи не буде досягнута."
+ WORLD_REICH.221.b: "Зараз це відбувається над трупами мільйонів?"
+
+ WORLD_REICH.222.t: "[Get_newspaper_header]Рейк'явіцькі угоди розпочато"
+ WORLD_REICH.222.desc: "Очікувані Рейк'явіцькі угоди ось-ось почнуться. Американські та німецькі дипломати почали прибувати до Ісландії для, можливо, найважливішої зустрічі десятиліття. На кону стоїть багато, і багато хто з нетерпінням очікує на перспективу 'потепління' у відносинах між Ґерманією та Америкою.\n\nГоловною темою є американське ембарго проти Ґерманії. Невідомо, чи готова якась зі сторін піти на компроміс, щоб зняти ембарго; ходять чутки, що Америка може вимагати повного звільнення рабів, преференційних торгових угод, ядерного роззброєння або навіть всього цього разом! Чутки з Ґерманії також змішані — від 'жодних компромісів!' до 'віддайте все, щоб закінчити ембарго!' Ніхто не знає, чого очікувати від цієї зустрічі, але її результат визначить американсько-німецькі відносини на роки вперед."
+ WORLD_REICH.222.a: "Нехай переговори розпочнуться!"
+ WORLD_REICH.222.b: "Ще одне марне завдання."
+
+ WORLD_REICH.223.t: "[Get_newspaper_header]Рейк'явіцькі угоди підписано"
+ WORLD_REICH.223.desc: "У пізні вечірні години американські та німецькі делегації зробили те, що багато хто вважав неможливим. Вони обидві підписали угоду.\n\nХоча для іноземних спостерігачів ще не очевидно, що саме запропонували німці, щоб американці погодилися на таку драматичну зміну політики, це, безумовно, було достатньо привабливим для підписання.\n\nНіхто точно не знає, до чого призведуть ці дії в майбутньому, але вперше за десятиліття Ґерманія та Америка не перебувають на межі війни."
+ WORLD_REICH.223.a: "Сьогодні новий день."
+ WORLD_REICH.223.b: "Вони що підписали?!"
+
+ WORLD_REICH.224.t: "[Get_newspaper_header]Перемовини в Торонто починаються"
+ WORLD_REICH.224.desc: "На запрошення НПП (Національної партії прогресу) німецькі дипломати почали прибувати до канадського міста Торонто для того, що чиновники називають 'зустріччю століття'. На порядку денному — американське ембарго проти Ґерманії.\n\nЩе не зрозуміло, до чого саме вдасться домовитися, якщо взагалі щось буде досягнуто. Однак багато німців оптимістично налаштовані щодо сприятливого результату, враховуючи про-німецьку позицію НПП. Проте американці можуть не захотіти 'легко віддатися' будь-якій угоді. Німці будуть змушені залишатися напоготові в найближчі дні."
+ WORLD_REICH.224.a: "Конференція розпочинається!"
+ WORLD_REICH.224.b: "Америка грається з вогнем."
  
- WORLD_REICH.201.t: "[Get_newspaper_header]Poland Usurped by the Wehrmacht"
- WORLD_REICH.201.desc: "To middling international reactions, the Republic of Poland has today surrendered to the Wehrmacht of the Greater Germanic Reich. Negotiated by Feldmarschalls Henning von Tresckow and Hans Speidel with the Polish government, the Reich excerted ever increasing pressure unto the rump state while promising to it freedom and prosperity, albeit under the German boot.\n\nAlthough international hopes for a German regime on a clearly liberalizing course have been dampened by this, it is nonetheless notable that this transition of power occured with no major violence or repercussions against the Polish people. While there is significant protest in Poland and the Polish diaspora, the solution appears to be stable. Depending on the next actions, Poland may just have a future."
- WORLD_REICH.201.a: "Perhaps not yet lost."
+ WORLD_REICH.225.t: "[Get_newspaper_header]Торонтівські угоди завершено"
+ WORLD_REICH.225.desc: "Сьогодні вдень дипломати з Ґерманії та Америки підписали Торонтівські угоди. Після тривалих обговорень американці погодилися скасувати торгове ембарго, яке тривало проти Ґерманії більше десяти років.\n\nОбидва уряди тихо оптимістичні щодо майбутнього обох націй. Проте скептики запитують себе: чи переживуть ці нові домовленості зміну адміністрації?"
+ WORLD_REICH.225.a: "До нової ери!"
+ WORLD_REICH.225.b: "Сьогоднішній ворог — завтрашній партнер."
+
+ WORLD_REICH.226.t: "[Get_newspaper_header]Шмідт зустрічається з Президентом"
+ WORLD_REICH.226.desc: "На честь успішних дипломатичних переговорів між Ґерманією та Америкою, головний Ґерманський дипломат на переговорах, Гельмут Шмідт, був запрошений до Білого дому. Шмідту випала честь підписати законодавство, яке офіційно завершило американське ембарго проти Ґерманії разом із самим Президентом.\n\nЦе історичний день для обох націй; обидві країни нарешті готові залишити позаду понад два десятиліття суперництва та конфліктів. Знадобиться час, щоб залікувати рани, але перший крок уперед нарешті зроблено."
+ WORLD_REICH.226.a: "Дамо миру шанс."
+ WORLD_REICH.226.b: "Ніхто не очікував цього."
+
+ WORLD_REICH.227.t: "[Get_newspaper_header]Чорна валькірія"
+ WORLD_REICH.227.desc: "Через недавній провал дипломатії між Америкою та Ґерманією фюрер Альберт Шпеєр розпочав мобілізацію Люфтваффе. Анонімні джерела з його апарату повідомляють, що Ґерманія схвалила нову операцію. Під кодовою назвою 'Schwarze Walküre', або 'Чорна Валькірія', ця операція, як виглядає, є німецькою спробою розвідати повітряний простір Америки та країн OFN за допомогою масових авіакрил, включаючи стратегічні бомбардувальники з ядерною зброєю. Німецькі наміри поки не зрозумілі, але це виглядає як прямий наслідок провалу дипломатичних зусиль між Сполученими Штатами та Німецьким Райхом. Іноземні спостерігачі попереджають, що й без того високі напруження можуть зрости ще більше, а обмежений конфлікт може стати реальністю.\n\nНевідомо, чим це все закінчиться, але світ затамував подих, коли Америка і Ґерманія протистоять одна одній."
+ WORLD_REICH.227.a: "Хто першим кліпне?"
+
+ WORLD_REICH.228.t: "[Get_newspaper_header]Норфолкські угоди"
+ WORLD_REICH.228.desc: "Світ був шокований, коли Ґерманія сіла за стіл переговорів у Норфолку, штат Вірджинія. Потепління у відносинах між двома державами здавалося малоймовірним, але тиск з боку кабінету Шпеєра та загроза бойових дій змусили його поступитися США. Як жест 'доброї волі', Норфолкські угоди були підписані на борту USS Вісконсин, одного з небагатьох уцілілих американських лінкорів з 40-х років. Під прапором зі зірками та смугами американське ембарго проти Ґерманії було офіційно скасовано. Сказати, що Ґерманію принизили, було б недооцінкою. За угодами Ґерманія змушена покращити умови для рабів, надати пріоритет американським інвесторам на своєму ринку та суттєво скоротити ядерні запаси. У той час як Америка проголошує нову еру миру, її Ґерманський партнер зберігає мовчання. Німецькі громадяни обурені дипломатичним приниженням; навіть найвідданіші прихильники Шпеєра не мають що сказати."
+ WORLD_REICH.228.a: "Фантастичні новини!"
+ WORLD_REICH.228.b: "Шпеєр вдарив нас у спину."
+ WORLD_REICH.228.c: "Схоже, Америка вийшла переможцем."
+
+ WORLD_REICH.229.t: "[Get_newspaper_header]Переговори в Мельбурні"
+ WORLD_REICH.229.desc: "Сьогодні в Мельбурні відбулася невелика зустріч між групою американських і німецьких дипломатів. Німецька делегація, під час свого туру по Сфері співпроцвітання після підписання торговельної угоди з Японією, зробила невеликий обхід до австралійського міста для неофіційної зустрічі з дипломатами Сполучених Штатів.\n\nНа подив багатьох, зустріч виявилася плідною для обох сторін. Переговори пройшли на диво в дружній атмосфері, і був зроблений певний прогрес у пом'якшенні напруженості між Сполученими Штатами та Ґерманією. Хоча жодних офіційних угод не було підписано, американська делегація досягла 'джентльменської угоди' щодо початку поступового пом'якшення ембарго між двома наддержавами.\n\nХоча це лише символічна домовленість, багато хто задається питанням, чи не є це початком нової ери співпраці між двома країнами."
+ WORLD_REICH.229.a: "Велика перемога для батьківщини!"
+ WORLD_REICH.229.b: "Ґерманія пройшла великий шлях за останні роки."
+ WORLD_REICH.229.c: "Неочікувана зустріч з неочікуваними результатами."
+
+ WORLD_REICH.230.t: "[Get_newspaper_header]Переговори в Копенгагені"
+ WORLD_REICH.230.desc: "На запрошення фюрера Великого Ґерманського Райху Альберта Шпеєра до таємних переговорів у Копенгагені уряд США, на подив багатьох, оголосив про пом'якшення ембарго проти Ґерманії. Майбутні переговори щодо подальшого зниження торговельних обмежень також стоять на порядку денному, за умови, що відносини залишатимуться позитивними та стабільними. Чи буде це реалістичним у разі поразки НПП на національних виборах, ще належить з'ясувати.\n\nАмериканська громадськість надзвичайно розділена: навіть деякі члени НПП висловлюють сумніви щодо рішення безумовно знизити ембарго. Інші висловлюють скромну похвалу за спробу нормалізувати відносини з Ґерманією. Проте, відносини між двома наддержавами кращі, ніж вони були за останні десятиліття."
+ WORLD_REICH.230.a: "Найбільший дипломатичний успіх!"
+ WORLD_REICH.230.b: "НПП схиляється перед Ґерманією? Як вони могли?"
+ WORLD_REICH.230.c: "Тривожно."
  
- WORLD_REICH.202.t: "[Get_newspaper_header]Poland Falls to Germany"
- WORLD_REICH.202.desc: "To international shock, the Republic of Poland has been violently put down by the Wehrmacht of the Greater Germanic Reich, allegedly under order of Führer Albert Speer himself. Apparently a response to prior negotiations failing, the move is widely regarded as a censure in Albert Speer's self-image as the liberal reformer of the Reich. While the Wehrmacht has quickly moved to restore order and install an occupation regime actively trying to avoid further conflict, the situation in Poland has not been this agitated since the German Civil War.\n\nIt remains to be seen what Poland's fate is."
- WORLD_REICH.202.a: "The Führer is a liar!"
- 
- WORLD_REICH.206.t: "[Get_newspaper_header]A Lighter Hand in the East"
- WORLD_REICH.206.desc: "After reasserting hegemony over the lands formerly belonging to the eastern Reichskommissariats, most expected the Reich to simply restore the old system, but it seems they were mistaken. In a move that left all astonished, the lands were reorganized into independent nations, led by formally free governments.\n\nWhile most agree that these new states are mostly comprised of collaborators, no one can deny that this is an important change. The Führer has immediately signed several treaties with the newly-established countries, which will surely benefit Germany.\n\nWith this new system, which most consider to be heavily influenced by the reformist wing of the party, German hegemony over Eastern Europe appears far more stable than under the old one."
- WORLD_REICH.206.a: "A sensible choice for a sensible government."
- WORLD_REICH.206.b: "An unexpected development, but a welcome one."
- WORLD_REICH.206.c: "It seems they have learnt their lesson..."
- 
- WORLD_REICH.207.t: "[Get_newspaper_header]A Tight Grip in the East"
- WORLD_REICH.207.desc: "After reasserting its hegemony over the lands formerly belonging to the eastern Reichskommissariats, the Reich has decided to reorganize them into Reichslander, autonomous regions under strict surveillance from Germania. A native Reichsstatthalter, aided by a government mostly of their choosing, shall oversee a civilian administration, in order to ensure a tight grip over the territory, but a better administration compared to the excesses perpetrated by some of the old Reichskommissars.\n\nWhile this will probably mitigate the worst effects of German domination, most observers agree that it will do little to quench the burning hate the natives feel for their overlords, and they believe that an increased wave of partisan attacks is to be expected at the first sign of weakness from the government."
- WORLD_REICH.207.a: "Our rule is stronger than ever!"
- WORLD_REICH.207.b: "This new order, just like the last, is doomed to collapse..."
- WORLD_REICH.207.c: "Take the old system, use a new name: voila!"
+ WORLD_REICH.231.t: "[Get_newspaper_header]Відносини між Райхом і Сполученими Штатами розірвані"
+ WORLD_REICH.231.desc: "Відносини між Америкою та Ґерманією досягли нового мінімуму. Американський уряд не опублікував офіційної заяви, але анонімне джерело з американського посольства було процитовано зі словами: 'Неможливо домовлятися з тими, хто каже: моє – це моє, а твоє – предмет для обговорення.'\n\nНаразі американське посольство в Ґерманії евакуюється, його персонал повертається додому. На найближчий час Америка припинила будь-які переговори."
+ WORLD_REICH.231.a: "Добре, ми не будемо сумувати за ними."
+ WORLD_REICH.231.b: "Ми більше не говоритимемо з нацистами."
+ WORLD_REICH.231.c: "Час наближається до півночі."
 
- WORLD_REICH.208.t: "[Get_newspaper_header]'Sondergericht' in Germany"
- WORLD_REICH.208.desc: "In a bid to cleanse the NSDAP of disloyal members, Albert Speer, Führer of the German Reich, had begun the 'sondergericht', a special trial which saw several members of the party accused of a variegated list of crimes, from abuse of power to accepting bribes and even treason.\n\nAs a result of this, several democratic countries have protested against what had appeared to be a purge in disguise, but this didn't deter the government in Germania. After several months, Speer has achieved a double result: not only has he tightened his grip on the party, but the German people are also much more supportive of his regime.\n\nWith the public opinion once more in his favor, the Führer can now concentrate on more important matters."
- WORLD_REICH.208.a: "Those traitors got what they deserved!"
- WORLD_REICH.208.b: "A leopard can't change its spots..."
- WORLD_REICH.208.c: "A purge: how typical!"
- 
- WORLD_REICH.209.t: "[Get_newspaper_header]NetzRAM Is Online"
- WORLD_REICH.209.desc: "After several years of preparations, repairs, tweaks and improvements, finally NetzRAM is online and fully operative. This new and incredibly advanced system, linking together all computers in the most important research facilities and government bureaus all throughout the Reich, allows for incredibly fast transmission of any sort of data, from text to images, dramatically improving coordination between the various institutions.\n\nWhile NetzRAM's main purpose is to help scientific research and increase bureaucratic efficiency, few doubt that the Führer will experiment with its use in the fields of military and espionage. After that, who knows, perhaps the system can be expanded and adapted for civilian use? Still, one thing is certain: with this achievement, the Reich has finally entered the future."
- WORLD_REICH.209.a: "The future is now!"
- WORLD_REICH.209.b: "Do we have a new rival for technological supremacy?"
- WORLD_REICH.209.c: "Incredible!"
+ WORLD_REICH.232.t: "[Get_newspaper_header]Удар по Ісландії"
+ WORLD_REICH.232.desc: "Вдруге в історії атомні бомби були використані з ненавистю проти людства. Це також другий раз, коли Америка була вражена атомним вогнем. Ісландія, американська цитадель, була повністю спалена вогнем, гарячішим за сонце. Ґерманський підводний човен тихо проплив біля узбережжя, непомічений, і вранці випустив свій смертоносний вантаж короткострокових ядерних ракет. У американців було менше хвилини на відповідь. Десятки тисяч людей тепер перетворені на попіл, і від колись прекрасного острова мало що залишилося.\n\nЛюди по всьому світу зі страхом спостерігають; цього разу Сполучені Штати мають засоби для відповіді. Поки дві наддержави готують свої ядерні арсенали, годинник показує опівніч. Світ затамував подих, оскільки Америка готує відповідь, яка, ймовірно, буде відплатою."
+ WORLD_REICH.232.a: "Вони не наважаться... правда?"
+ WORLD_REICH.232.b: "Німці не залишили нам вибору."
+ WORLD_REICH.232.c: "Кінець близько."
 
- WORLD_REICH.210.t: "[Get_newspaper_header]Students Riot in Nuremberg"
- WORLD_REICH.210.desc: "For the second time in recent memory, Germany's streets are alive with student protests. In the city of Nuremberg, the streets have erupted into chaos and violence in the wake of the shooting of famed Marxist revolutionary, Rudi Dutschke, by the Orpo.\n\nDutschke was a Marxist activist in what can be said to be the most anti-Marxist nation in all of history. For many, his death was seen as inevitable, if not a long time coming. What was not expected, however, was the general reaction to the killing. While some small actions have been taking place all across the Reich, the center of the firestorm is the city of Nuremberg, famous for the antisemitic laws named for it.\n\nThe violence has reached such a point, and the radicalism displayed is so far removed from Nazi orthodoxy, that one cannot help but wonder when, not if, the hammer is going to come down on the rioters.\n"
- WORLD_REICH.210.a: "A cause for concern."
+ WORLD_REICH.233.t: "[Get_newspaper_header]Ґерманський Райх прагне розрядки з Японською імперією"
+ WORLD_REICH.233.desc: "Під час сьогоднішньої пресконференції в Райхсканцелярії фюрер Німецького народу Альберт Шпеєр оголосив про своє рішення відкрити нову дипломатичну місію в Токіо, столиці Японської імперії, щоб 'підживити почуття дружби між нашими націями.'\n\nЦе стало несподіванкою для багатьох міжнародних спостерігачів, які вважали, що Райхсміністр Гельмут Шмідт буде направляти зовнішню політику Райху на інший бік Тихого океану, особливо зважаючи на те, що Японія підозрюється в участі в останній спробі замаху на життя Адольфа Гітлера.\n\nФюрер швидко відкинув такі підозри як 'обурливі заяви', які не розуміють 'великого значення честі та вірності в японській культурі'. Ґерманія і Японія воювали разом у найбільшій війні, яку коли-небудь бачив світ, і він упевнений, що це об'єднає їхні дві нації більше, ніж останні двадцять років їх розділяли."
+ WORLD_REICH.233.a: "Схоже, Шмідта відсунули."
 
- WORLD_REICH.211.t: "[Get_newspaper_header]Frankfurt Stock Market Crash Amidst Oil Crisis"
- WORLD_REICH.211.desc: "With the Oil Crisis and its economic effects rippling through the world, the Greater Germanic Reich was hit particularly badly by it as the Frankfurt Stock Exchange dropped by over one hundred points. Thousands have already been laid off and several businesses appear on the road to insolvency.\n\nEconomists were quick to note that the Reich's dependency on oil massively increased due to vast industrialization efforts under the Zollverein, particularly in Eastern Europe.\n\nFührer Speer has yet to publically react to this crisis. As economic reform was the main pillar of his reform policy, the abrupt fizzling out of the so-called 'wirtschaftswunder' that took shape under the guidance of Reichswirtschaftsminister Ludwig Erhard is sure to take a massive toll on public approval."
- WORLD_REICH.211.a: "Will the thousand year Reich finally crumble under the weight of oil?"
- WORLD_REICH.211.b: "Nicht schon wieder!"
+ WORLD_REICH.234.t: "[Get_newspaper_header]Успіх зближення між Ґерманією та Японією"
+ WORLD_REICH.234.desc: "Після кількох тижнів переговорів німецька делегація в Токіо та їхні японські колеги випустили спільну заяву, в якій оголосили про підписання 'серії всебічних угод між нашими націями', які 'допоможуть виправити непорозуміння останніх двох десятиліть.' Хоча зміст договорів ще не оприлюднено, кожен міг помітити задоволення членів обох делегацій, за винятком, мабуть, Райхсміністра Гельмута Шмідта."
+ WORLD_REICH.234.a: "Чи не наближається нова вісь Токіо-Ґерманія?"
 
- WORLD_REICH.212.t: "[Get_newspaper_header]Slave Revolt in the Reich"
- WORLD_REICH.212.desc: "There are many things that the Reich is infamous for internationally, none as egregious as its heavy use of slave labor in its projects, sowing resentment across Europe. However, with Führer Speer's method of steady reform, it seemed that unrest among the slave class had been quelled. This has been spectacularly proven false.\n\nAcross the Reich's eastern holdings, slaves have taken up arms against their German masters, carving a gash across the continent. While Speer's government scrambles to put together a response, Feldmarschall Schörner has seized control of the Reich's Russian territory, promising a crushing response to the revolt if Germany is unable to control the situation. Though an uneasy peace still holds between all three parties, the world watches with bated breath if Germany will finally drop the shackles of slavery altogether."
- WORLD_REICH.212.a: "This is a disaster!"
- WORLD_REICH.212.b: "Rise, all slaves, for your freedom is here!"
- WORLD_REICH.212.c: "No more concessions!"
- WORLD_REICH.212.d: "The time for choosing is at hand."
- 
- WORLD_REICH.213.t: "[Get_newspaper_header]Wehrmacht Mutiny Crushed"
- WORLD_REICH.213.desc: "Feldmarschall Ferdinand Schörner's Wehrmacht mutiny in the former Reichskommissariat Moskowien has been soundly defeated according to both independent and Reich-based sources. Originally exiled to the Russian territory to protect the vast Wehrmacht reform project led by Feldmarschalls Henning von Tresckow and Hans Speidel in Germany proper, Schörner undermined local authority under General Alexis von Roenne only to stage a coup when the Slave Revolt broke out.\n\nWith Moskowien in ruins and the slaves still controlling swathes of Eastern Europe, the rogue Feldmarschall's fate is all but assured to be an unceremonious death. As long as the slaves are still in revolt, however, there is no saying when stability will fully return to Europe."
- WORLD_REICH.213.a: "Bloody Ferdinand lies defeated."
- 
- WORLD_REICH.214.t: "[Get_newspaper_header]Slave Revolt Crushed"
- WORLD_REICH.214.desc: "Willy Brandt's slave revolt has been brutally crushed by the Wehrmacht according to both independent and Reich-based sources. Reports as to the number of casualties and retributions that happened as a result are scarce and state-censored, but estimated to be in catastrophically large. Led by the German resistance group Reichsbanner Schwarz-Rot-Gold and several European partisan groups, the slave revolt fought for the abolishment of slavery and the notorious Nuremberg Laws.\n\nAs much of Eastern Europe now lies in ruins, international investors back out of the once-promising Zollverein and unnamed sources in several nations have strongly suggested a change in policy towards Germany as a consequence. Brandt is presumed dead."
- WORLD_REICH.214.a: "The dream of a free Europe lies dead."
- 
- WORLD_REICH.215.t: "[Get_newspaper_header]The End of the Slave Revolt"
- WORLD_REICH.215.desc: "After tense negotiations with the resistance group Reichsbanner Schwarz-Rot-Gold and its partisan allies, a triumphant Albert Speer announced today in the Volkshalle the reaching of an agreement with the rebellious slaves. In turn for the immediate abolishment of slavery and the Nuremberg Laws - "regrettably rash" demands according to the Führer - the rebels are to stand down and return to civility. Met with mixed reactions from the NSDAP, which criticized that the Führer would even negotiate, the agreements made nonetheless have found significant approval in the public, the Zollverein and internationally.\n\nThe Gang of Four, known as the leading force behind reforms in Germany, was missing at the Führer's side during his announcement. Reichsbanner leader Willy Brandt has reportedly fled to the United States."
- WORLD_REICH.215.a: "It seems the Führer is back in the limelight."
- 
- WORLD_REICH.216.t: "[Get_newspaper_header]The End of the Slave Revolt"
- WORLD_REICH.216.desc: "After tense negotiations with the resistance group Reichsbanner Schwarz-Rot-Gold and its partisan allies, an ecstatic Kurt Kiesinger announced today in the Volkshalle the reaching of an agreement with the protestors. In turn for wide-ranging reforms including the immediate abolishment of slavery and the Nuremberg Laws - "long overdue" according to the Deputy Führer - order will be restored to the east. Met with infighting within the NSDAP not seen since the eve of the German Civil War, public and foreign reaction has nonetheless been overwhelmingly supportive largely due to the liberties these amendments grant the Reich and Zollverein.\n\nFührer Speer was notably absent during the announcement, allegedly recuperating from a "minor flu". Reichsbanner leader Willy Brandt has reportedly fled to the United States."
- WORLD_REICH.216.a: "Who is really the Führer, by now?"
- 
- WORLD_REICH.217.t: "[Get_newspaper_header]Riots in Germany"
- WORLD_REICH.217.desc: "The pride of the German Reich was damaged today as an outbreak of dissidence occurred within the very celebrations of its achievements. The annual Nürnberg rallies supporting the NSDAP were met with protests from a gathering group of students, advocating for free speech and reform within the Reich. However, whilst leading the protests of the student gatherers, one of the students, Rudi Dutschke, was shot by Josef Bachmann, who has appeared to have no government ties, on account of his ideological leadership.\n\nAngered by Dutschke's death, the students broke through several barricades fighting against guards whilst officials replied through force. After several waves of gunfire, the riot was dispersed, and the city of Nürnberg was placed under martial law by authorities. The Reichsbanner, a German resistance group, claims support for the protestors and that Dutschke's shooting was orchestrated by the Reich itself.\n"
- WORLD_REICH.217.a: "Disturbing."
- WORLD_REICH.217.b: "Eine schiere katastrophe!"
+ WORLD_REICH.235.t: "[Get_newspaper_header]Успішна дипломатична конференція між Ґерманією та Японією"
+ WORLD_REICH.235.desc: "Після кількох тижнів переговорів німецька делегація в Токіо та їхні японські колеги випустили спільну заяву, в якій оголосили про підписання 'всебічного договору', який 'визначить курс на дружні відносини між нашими країнами.' Хоча зміст договору ще не оприлюднено, всі погоджуються, що конференція стала важливим кроком до розрядки між двома наддержавами, хоча залишаються незначні розбіжності."
+ WORLD_REICH.235.a: "Краще, ніж очікували більшість."
 
- WORLD_REICH.218.t: "[Get_newspaper_header]Reformist German Government Collapses"
- WORLD_REICH.218.desc: "Following sudden radio silence and the closure of several recently established international contact points between the world and Greater Germanic Reich, international observers have drawn together a bleak picture of the nation with the scarce sources left to them. Führer Albert Speer's government, most widely known to be staffed with the so-called 'Gang of Four' - a group of influential reformists in the Reich who aligned with the Führer in the days before the German Civil War - has collapsed.\n\nDisgraced Generalfeldmarschall Ferdinand Schörner has taken command of the German state, replacing former Führer Albert Speer, who has not been seen since the restrictions first started. Reassurements in an official public statement relayed by the Reichskanzlei that "all is well". The whereabouts of the former government members are unknown."
- WORLD_REICH.218.a: "Wir sind verloren."
- WORLD_REICH.218.b: "And so vanishes Europe's last hope."
+ WORLD_REICH.236.t: "[Get_newspaper_header]Дипломатичні переговори між Ґерманією та Японією призупинені"
+ WORLD_REICH.236.desc: "Після кількох тижнів переговорів німецька делегація в Токіо та їхні японські колеги випустили спільну заяву, в якій оголосили про підписання меморандуму, що 'стане першим каменем на довгому шляху до зближення' між двома наддержавами. У дипломатичній мові це означає, що переговори пройшли не так добре, але принаймні вони знайшли спільну мову в принципових питаннях: час покаже, чи стане розрядка реальністю, чи залишиться на папері."
+ WORLD_REICH.236.a: "Так і очікували: гордість вбиває дружбу."
 
- WORLD_REICH.219.t: "[Get_newspaper_header]Germany Integrates Eastern Reichskommissariats"
- WORLD_REICH.219.desc: "Following the recent coup of the German government by Generalfeldmarschall Ferdinand Schörner, the fate of the governments in the eastern Reichskommissariats remained tenuously balanced - its administrations have continued to work as usual, but the fear of a third Barbarossa and further ruin hung over their heads. With radio silence from Germania, it seemed as if Schörner intends to keep the current, working arrangement in the East in fear of further destabilizing the region.\n\nRecent communiques have proved the assumptions wrong, as Germania has announced the integration of all eastern Reichskommissariats into Germany proper. Further communications have also clarified that the Reichskommissariats are not abolished - but rather had its autonomy greatly reduced to increase efficiency and control over the East. It seems that Eastern Europe will continue facing more struggles, even under Germania's watch.\n"
- WORLD_REICH.219.a: "The fear of the superior must be greater than the fear of the enemy."
- WORLD_REICH.219.b: "Digging an early grave?"
+ WORLD_REICH.237.t: "[Get_newspaper_header]Дипломатичні переговори між Ґерманією та Японією провалилися"
+ WORLD_REICH.237.desc: "Після кількох тижнів переговорів німецька делегація в Токіо терміново покинула місто, не випустивши навіть заяви. Для більшості міжнародних спостерігачів це еквівалентно визнанню того, що конференція провалилася з тріском. Цю думку пізніше підтвердили чутки з таємничого японського міністерства закордонних справ, де неназваний посадовець розкрив, що єдине, в чому сторони змогли погодитися, це їхня незгода. Хоча відносини між країнами, особливо між наддержавами, можуть змінитися за лічені години, більшість вважає, що це означає кінець будь-яких надій на зближення між двома колишніми союзниками."
+ WORLD_REICH.237.a: "Можливо, їм варто було послухати Шмідта..."
 
- WORLD_REICH.220.t: "[Get_newspaper_header]'Democratic' Reforms Announced in Germany"
- WORLD_REICH.220.desc: "Following the brutal suppression of the recent slave revolt in Eastern Europe after failed negotiations, the future for Germany seemed dark - the declaration of war was immediately followed upon by an internal party coup of Führer Albert Speer by long-disgraced 'reactionaries' inside the NSDAP. Led by the President of the Reichstag, Theodor Oberländer, the faction is staffed by a broad front of National Socialists who were sidelined by Albert Speer's government.\n\nWhile one could have expected the new government to continue harsh crackdowns and reverse the reforms made by the past government, it seems as if the current government has done the exact opposite. On a televised speech in the Reichstag, he announced further reforms to the country - promising a new era of mass democratic participation under an overarching NSDAP structure. How this new goal is set to be reached is unknown.\n"
- WORLD_REICH.220.a: "Ein Volk, Ein Reich, Eine Partei!"
- WORLD_REICH.220.b: "There is nothing democratic about this!"
+ #|=|========[ Світові Евенти Ґьорінґа ]========|=|#
 
- WORLD_REICH.221.t: "[Get_newspaper_header]Renewed Power Struggle in Germany"
- WORLD_REICH.221.desc: "Following the brutal suppression of the recent slave revolt in Eastern Europe after the invasion of the revolt, the future for Germany seemed dark - The declaration of war by mutinous field marshal Ferdinand Schörner was immediately followed upon by an internal party coup of Führer Albert Speer by long-disgraced 'reactionaries' inside the NSDAP.\n\nAs Schörner's troop marched into Germania in triumph, he has been faced with an established opposing faction towards his goals -  the 'reactionaries' under Theodor Oberländer. While both have agreed to work together for now, the signs of a renewed power struggle is clear - both factions have been reported to have been consolidating their support base for an eventual coup against the other, both being respectively tied up by affairs in Germany proper and the suppression of remnant elements in the East. The fate of Germany hangs in the balance.\n"
- WORLD_REICH.221.a: "Einheit kann niemals erreicht werden."
- WORLD_REICH.221.b: "Right now, over the corpses of millions?"
- 
- ## Speer-USA
- WORLD_REICH.222.t: "[Get_newspaper_header]Reykjavik Accords Begin"
- WORLD_REICH.222.desc: "The anticipated Reykjavik Accords are set to commence. American and German diplomats have begun to arrive to Iceland for perhaps the most important meeting of the decade. Much is at stake, and many are excited at the prospects of a 'thaw' in relations between Germany and America.\n\nThe subject on everyone's mind is the American embargo of Germany. It is unknown if either side is willing to compromise in order to have the embargo lifted; rumors are floating around that America will demand full emancipation, preferred trade deals, nuclear disarmament, or even all of the above! Rumors from Germany have been mixed as well, from "no compromise!" to "give whatever you must to end the embargo!" No one knows what to expect from this meeting, but its outcome will shape American-German relations for years to come."
- WORLD_REICH.222.a: "Let the talks begin!"
- WORLD_REICH.222.b: "Another fool's errand."
- 
- WORLD_REICH.223.t: "[Get_newspaper_header]Reykjavik Accords Are Signed"
- WORLD_REICH.223.desc: "In the waning hours of the evening, the American and German delegations have done what many had thought was unachievable. They both signed the treaty.\n\nWhile it isn't apparent yet to foreign observers what exactly the Germans offered to have the Americans agree to such a dramatic policy change, it must have been enticing enough for them to sign.\n\nNo one quite knows what these actions will have in the future, but for the first time in decades, Germany and America aren't at each other's throats."
- WORLD_REICH.223.a: "Today is a new day."
- WORLD_REICH.223.b: "They signed what?!"
-
- WORLD_REICH.224.t: "[Get_newspaper_header]Toronto Accords Begin"
- WORLD_REICH.224.desc: "At the invitation of the NPP, German diplomats have begun to arrive to the Canadian city of Toronto for what officials are calling the "meeting of the century". On the docket is the American embargo of Germany.\n\nIt remains to be seen what exactly will be agreed to, if anything. However, many Germans are optimistic of a favorable outcome, considering the NPP's pro-German stance. However, the Americans may well not be content to just 'sign away' to any agreement. The Germans will still need to be on their toes in the coming days."
- WORLD_REICH.224.a: "The conference commences!"
- WORLD_REICH.224.b: "America is playing with fire."
- 
- WORLD_REICH.225.t: "[Get_newspaper_header]Toronto Accords End"
- WORLD_REICH.225.desc: "This afternoon, diplomats from Germany and America have signed the Toronto Accords. The Americans, after more than a little deliberation, have agreed to end the trade embargo that's stood against Germany for the last decade.\n\nBoth governments are quietly optimistic at what the future holds for both nations. Skeptics ask themselves though; will these new overtures survive an administrative change?"
- WORLD_REICH.225.a: "To a new era!"
- WORLD_REICH.225.b: "Today's enemy, tomorrow's partner."
- 
- WORLD_REICH.226.t: "[Get_newspaper_header]Schmidt Meets the President"
- WORLD_REICH.226.desc: "In celebration of the successful diplomatic talks between Germany and America, the head German diplomat at the talks, Helmut Schmidt, has been invited to the White House. Schmidt has had the honor to sign the legislation that officially ended the American embargo of Germany alongside the President himself.\n\nIt is a historic day for both nations; both countries are finally ready to try and put behind them more than two decades of rivalry and conflict. It will take time to mend the wounds, but the first step forward has finally been taken."
- WORLD_REICH.226.a: "We'll give peace a chance."
- WORLD_REICH.226.b: "No one expected that."
- 
- WORLD_REICH.227.t: "[Get_newspaper_header]Schwarze Walküre"
- WORLD_REICH.227.desc: "With the recent breakdown in diplomacy between America and Germany, Albert Speer, the Führer, has begun to mobilize the Luftwaffe. Anonymous sources within his bureaucracy state that Germany has approved a new operation. Codenamed 'Schwarze Walküre', or 'Black Valkyrie', this operation appears to be a German attempt to probe American and OFN airspace with massed air wings, including nuclear capable strategic bombers. German intentions are not clear at this time, but this appears to be a direct result of collapsed diplomatic overtures between the United States and German Reich. Foreign observers warn that already high tensions may raise even more, and caution that limited conflict could result.\n\nIt is unknown what the end results will be, but the world holds its breath as America and Germany square off."
- WORLD_REICH.227.a: "Who will blink first?"
-
- WORLD_REICH.228.t: "[Get_newspaper_header]The Norfolk Accords"
- WORLD_REICH.228.desc: "The world reeled in shock as Germany sat down to the negotiating table in Norfolk, Virginia. A thaw between the two seemed unrealistic at best, but pressures from Speer's cabinet combined with the threat of hostilities has forced him to bend to the U.S. As a gesture of "goodwill," the Norfolk Accords were signed on the USS Wisconsin, one of the few surviving U.S. capital ships from the 40s. Under a pole waving the stars and stripes, the U.S. embargo of Germany formally ended. Saying Germany was humiliated would be an understatement. Under the accords, Germany is forced to improve slave conditions, give American investors priority in their market, and severely reduce their nuclear stockpiles. While America proclaims a new era of peace, her counterpart has been mute. German citizens are disgusted at the diplomatic humiliation; even the most loyal of Speer's supporters have nothing to say."
- WORLD_REICH.228.a: "Fantastic news!"
- WORLD_REICH.228.b: "Speer has stabbed us in the back."
- WORLD_REICH.228.c: "It seems America has come out on top."
- 
- WORLD_REICH.229.t: "[Get_newspaper_header]The Melbourne Talks"
- WORLD_REICH.229.desc: "A small meeting was held in Melbourne today between a small group of American and German diplomats. The German delegation, while touring the Co-Prosperity Sphere after signing a trade agreement with Japan, took a detour to the Australian city for an informal meeting with United States diplomats.\n\nTo the surprise of many, the meeting bore fruit for both sides. Talks remained surprisingly cordial, and some headway was made in thawing tensions between the United States and Germany. Though no official treaties were signed, the American delegation made a "gentleman's agreement" to begin relaxing the longstanding embargo between the two superpowers.\n\nAlthough only a token arrangement, many are wondering if this isn't the beginning of a new era of cooperation between the two nations."
- WORLD_REICH.229.a: "A great victory for the fatherland!"
- WORLD_REICH.229.b: "Germany has come far these few years."
- WORLD_REICH.229.c: "An unexpected meeting with unexpected results."
- 
- WORLD_REICH.230.t: "[Get_newspaper_header]The Copenhagen Talks"
- WORLD_REICH.230.desc: "Upon invitation by the Greater Germanic Reich's Führer Albert Speer to secret talks in Copenhagen, the U.S. government, in a shocking revision of foreign policy, announced that they would be relaxing the embargo against Germany. Future talks to further lower trade restrictions are also on the table, as long as relations remain positive and stable. Whether or not that will be realistic in the event of the NPP losing national elections remains to be seen.\n\nAmerican opinion is extremely mixed, with even members of the NPP voicing doubts at the decision to scale down the embargo unconditionally. Others offer token praise for attempting to normalize relations with Germany. Still, relations between the two superpowers are better than they've been in decades."
- WORLD_REICH.230.a: "Our greatest diplomatic success yet!"
- WORLD_REICH.230.b: "The NPP bows to Germany? How could they?"
- WORLD_REICH.230.c: "Disturbing."
- 
- WORLD_REICH.231.t: "[Get_newspaper_header]Reich and United States Relations Crash"
- WORLD_REICH.231.desc: "Relations between America and Germany have hit a new low. The American government has not released an official statement, but an anonymous source from the American embassy has been quoted stating, "You can not negotiate with people who says what's mine is mine, and what's yours is negotiable."\n\nThe American embassy in Germania is currently being emptied, its staff being sent back home. For the foreseeable future, the Americans are done with negotiation."
- WORLD_REICH.231.a: "Good riddance, we won't miss them."
- WORLD_REICH.231.b: "We're done speaking with Nazis."
- WORLD_REICH.231.c: "The clock moves closer to midnight."
- 
- WORLD_REICH.232.t: "[Get_newspaper_header]Icelandic Strike"
- WORLD_REICH.232.desc: "For the second time in history, atomic warheads have been detonated in anger against fellow man. It is also the second time America has been struck by atomic fire. Iceland, an American citadel, has been thoroughly raked by fire hotter than the sun. A German U-boat silently cruised off shore undetected and launched its deadly payload of short-ranged nuclear missiles in the early hours of the morning. There was less than a minute for the Americans to respond. Tens of thousands of people are now ash and little remains of the once beautiful island.\n\nPeoples from around the world watch with unbidden terror; for this time the United States has a means to respond. As the two superpowers ready their respective nuclear arsenals, the clock strikes twelve. The world holds its breath as America prepares its response, which will likely be retribution."
- WORLD_REICH.232.a: "They don't have the spine... right?"
- WORLD_REICH.232.b: "The Germans have given us no choice."
- WORLD_REICH.232.c: "The end is nigh."
- 
- ## Speer-Japan
- WORLD_REICH.233.t: "[Get_newspaper_header]German Reich Seeks Détente With Empire of Japan"
- WORLD_REICH.233.desc: "During a press conference held today in the Reichskanzlei, Albert Speer, Führer of the German people, has announced his decision to open a new diplomatic mission in Tokyo, capital of the Empire of Japan, to "foster renewed feelings of friendship between our nations"\n\nThis comes as a surprise to most international observers, who believed Reichsminister Helmut Schmidt would steer the foreign policy of the Reich towards the other side of the Pacific, especially considering the fact that Japan is heavily suspected of being involved in the last attempt on Adolf Hitler's life.\n\nThe Führer has quickly refuted such suspicions as "outrageous claims" that fail to understand "the great emphasis Japanese culture puts on honor and loyalty". Germany and Japan fought together in the greatest war to ever befall mankind, and he is certain that this will unite their two nations more than the last twenty years divided them.\n"
- WORLD_REICH.233.a: "It seems Schmidt got sidelined."
- 
- WORLD_REICH.234.t: "[Get_newspaper_header]Rapprochement Between Germany and Japan Succeeds"
- WORLD_REICH.234.desc: "After weeks of negotiations, the German delegation to Tokyo and their Japanese counterparts released a joint statement in which they revealed the signing of "a series of comprehensive agreements between our nations" that will "help mend the regrettable misunderstanding of the last two decades." While the contents of the treaties are yet to be made public, everyone could notice the satisfaction in both delegations' members, except perhaps Reichsminister Helmut Schmidt."
- WORLD_REICH.234.a: "Is a new Tokyo-Germania Axis on the horizon?"
- 
- WORLD_REICH.235.t: "[Get_newspaper_header]Diplomatic Conference Between Germany and Japan Succeeds"
- WORLD_REICH.235.desc: "After weeks of negotiations, the German delegation to Tokyo and their Japanese counterparts released a joint statement in which they revealed the signing of "a comprehensive treaty" that will "set the course for friendly relationships between our countries." While the contents of the treaty are yet to be made public, everyone agrees that the conference was an important step towards détente between the two superpowers, though small differences remain."
- WORLD_REICH.235.a: "Better than what most expected."
- 
- WORLD_REICH.236.t: "[Get_newspaper_header]Diplomatic Talks Between Germany and Japan Stall"
- WORLD_REICH.236.desc: "After weeks of negotiations, the German delegation to Tokyo and their Japanese counterparts released a joint statement in which they revealed the signing of a memorandum that "will set the first stone in the long road to rapprochement" between the two superpowers. In the diplomatic jargon, this means that the talks didn't go well, but at least they found common ground on matters of principle: time will tell if the détente will become reality, or remain on paper."
- WORLD_REICH.236.a: "Just as expected: pride kills friendship."
- 
- WORLD_REICH.237.t: "[Get_newspaper_header]Diplomatic Talks Between Germany and Japan Fail"
- WORLD_REICH.237.desc: "After weeks of negotiations, the German delegation to Tokyo departed in a hurry without even releasing a statement. To most international observers, this is the equivalent of admitting that the conference failed spectacularly. This belief was later confirmed by rumors from the usually secretive Japanese foreign minister, where an unnamed official revealed that the only thing the two sides could agree on was their disagreement. While relations between countries - and especially superpowers - can change in mere hours, most agree that this spells the end for any hope of a rapprochement between the two former allies."
- WORLD_REICH.237.a: "Perhaps they should have listened to Schmidt..."
-
-#|=|========[ Göring World Events ]========|=|#
-
-#|=|========[ Heydrich World Events ]========|=|#
+ #|=|========[ Світові Евенти Райгарда ]========|=|#
 
 
-###################################
-# Reichskommissariat World Events #
-###################################
+ ####################################
+ # Світові Евенти Райхскомісаріятів #
+ ####################################
 
-#|=|========[ Poland/GGN World Events ]========|=|#
- WORLD_REICH.1000.t: "[Get_newspaper_header]The Warsaw Uprising"
- WORLD_REICH.1000.desc: "While the Generalgouvernement in Poland has always been quiet, this has seemingly been little more than a thin veneer, desperately kept on by the Germans in the face of growing unrest. This has become evident when, not even weeks after the beginning of the German Civil War, the Polish Home Army, or the AK, has begun a general uprising that has easily toppled the weak Generalgouvernement and its leader, Hans Frank.\n\nWith a free Poland on the very border of the Reich, the future seems unclear for how well the rest of the German sphere will weather this storm. Still, Poland is completely surrounded by the Reich on all borders besides the southern front, where it has some scant access to its rapidly collapsing neighbor in Hungary. One can only guess at the reborn state's future."
- WORLD_REICH.1000.a: "Poland will be ours!"
- WORLD_REICH.1000.b: "The Nazi Empire continues to crumble..."
- WORLD_REICH.1000.c: "Hopefully the other Slavs don't get any ideas..."
+ #|=|========[ Польща/ГГН Світові Події ]========|=|#
+ WORLD_REICH.1000.t: "[Get_newspaper_header] Варшавське повстання"
+ WORLD_REICH.1000.desc: "Хоча Генеральна губернія в Польщі завжди залишалася тихою, це, здавалося, всього лише тонка оболонка, яку німці намагалися підтримувати перед обличчям зростаючого невдоволення. Це стало очевидним, коли, навіть не минуло й тижня з початку німецької громадянської війни, Армія Крайова, або АК, почала загальне повстання, яке легко повалило слабку колоніальну адміністрацію та її лідера, Ганса Франка.\n\nЗ вільною Польщею на самому кордоні Райху, майбутнє виглядає невизначеним щодо того, як решта німецької сфери переживе цей шторм. Проте Польща повністю оточена Райхом з усіх кордонів, крім південного фронту, де вона має деякий обмежений доступ до свого швидко колапсуючого сусіда Угорщини. Лише можна здогадуватись про майбутнє відродженої держави."
+ WORLD_REICH.1000.a: "Польща буде нашою!"
+ WORLD_REICH.1000.b: "Імперія продовжує руйнуватись..."
+ WORLD_REICH.1000.c: "Сподіваюся, інші слов'яни не отримають жодних ідей..."
 
-#|=|========[ Ostland World Events ]========|=|#
- WORLD_REICH.1200.t: "[Get_newspaper_header]Chaos in Reichskommisariat Ostland"
- WORLD_REICH.1200.desc: "While much of the German sphere has always been shrouded by the German government, Ostland never had this issue with multiple international news stations in Riga always ready to be paraded around by German officials to show off the high quality of life, strength of the workforce and happiness of the people in their 'model colony'.\n\nWhilst the administration in Ostland have now attempted to close down the various sections of Riga dedicated to the press, guerrilla reporters have still managed to disperse to film the developments on the ground to the world outside. The footage is shocking, showing brutal house to house fighting between various members of the garrison, militia groups, citizenry, and partisans. The international community is still deciding what to make of this footage, and who, if anyone, they are supposed to root for."
- WORLD_REICH.1200.a: "A Reich divided."
+ #|=|========[ Остланд Світові Події ]========|=|#
+ WORLD_REICH.1200.t: "[Get_newspaper_header] Хаос в Райхскомісаріяті Остланд"
+ WORLD_REICH.1200.desc: "Хоча більша частина німецької сфери завжди була затінена німецьким урядом, Остланд ніколи не мала цієї проблеми з численними міжнародними новинними станціями в Ризі, завжди готовими бути показаними німецькими чиновниками, щоб продемонструвати високий рівень життя, силу робочої сили та щастя людей у їхній "зразковій колонії".\n\nПоки адміністрація в Остланді намагалася закрити різні відділення Риги, присвячені пресі, партизанські репортери все ж змогли розосередитись, щоб зняти події на місці та показати їх зовнішньому світу. Зображення шокують, демонструючи жорстокі бої від дверей до дверей між різними членами гарнізону, міліцейськими групами, громадянами та партизанами. Міжнародна спільнота все ще вирішує, що робити з цими зображеннями, і за кого, якщо взагалі, їм слід вболівати."
+ WORLD_REICH.1200.a: "Райх розділений."
 
-#|=|========[ Ukraine World Events ]========|=|#
- WORLD_REICH.1400.t: "[Get_newspaper_header]Erich Koch Severely Injured in Kiew Bombing"
- WORLD_REICH.1400.desc: "The second attempt on the life of a German leader this year, martial law has been declared across Reichskommissariat Ukraine following an attempt on the life of Reichskommissar Erich Koch. Reportedly injured when a bomb hidden within his personal vehicle detonated as he left his home yesterday morning, two soldiers and Koch's driver were killed whilst Koch suffered severe injuries to his chest, right arm and face. Following emergency surgery, the German administrator reportedly remains in critical condition.\n\nWith undercover foreign press having extensively exposed the levels of violence and poverty within Ukraine since the German capture of the region from the Soviet Union during the Second World War, many internationally now fear for the welfare of the Ukrainian people as the Reich begins its hunt for those responsible."
- WORLD_REICH.1400.a: "Troubling news from a troubled land."
+ #|=|========[ Україна Світові Події ]========|=|#
+ WORLD_REICH.1400.t: "[Get_newspaper_header] Еріх Кох важко поранений у вибуху в Києві"
+ WORLD_REICH.1400.desc: "Другий замах на життя Ґерманського лідера цього року, військовий стан оголошено по всьому Райхскомісаріяту Україна після замаху на життя Райхскомісара Еріка Коха. Повідомляється, що він був поранений, коли бомба, захована у його особистому автомобілі, вибухнула, коли він вийшов зі свого дому вчора вранці, двоє солдатів та водій Коха загинули, тоді як Кох отримав важкі поранення грудей, правої руки та обличчя. Після екстреної операції Ґерманський адміністратор, як повідомляється, залишається в критичному стані.\n\nЗ огляду на те, що іноземна преса під прикриттям детально висвітлила рівень насильства та бідності в Україні з моменту німецької окупації цього регіону під час Другої світової війни, багато міжнародних спостерігачів тепер хвилюються за добробут українського народу, оскільки Райх починає полювання на тих, хто відповідає за замах."
+ WORLD_REICH.1400.a: "Тривожні новини з розбурханого краю."
 
- # Ukrainian Civil War Victory World Events
- UKR_UCW_NEWS.0.t: "[Get_newspaper_header]The Reichskommissariat Wins the Ukrainian Civil War"
- UKR_UCW_NEWS.0.desc: "Little surprise in Germany's breadbasket today, as the Reichskommissariat government has retained control over Ukraine. In a statement from the Ukrainian government, Kiew has celebrated the end of the insurrection and reaffirmed its commitment to "National Socialism, the Führer, and the German people." However, some in the Kiew government, including current acting Reichskommissar Georg Leibbrandt, have proposed reforms to the Reichskommissariat.\n\nThough the situation remains stable at present, cracks may be growing across the Reichskommissariat. While leadership lies ostensibly with Leibbrandt, the current ruling "Security Council", composed of Leibbrandt, Otto Ohlendorf, and Hans-Otto Bräutigam, is on the brink of collapse as the three vie for power. While the conflict is not projected to come to the battlefield, it is clear that further chaos lies within Ukraine's future.\n"
- UKR_UCW_NEWS.0.a: "True leadership is found in those who take it."
- UKR_UCW_NEWS.0.b: "German superiority defeats all."
- UKR_UCW_NEWS.0.c: "The jackboot continues to stomp."
+ # Перемога в Українській Громадянській Війні Світові Події
+ UKR_UCW_NEWS.0.t: "[Get_newspaper_header] Райхскомісаріят виграє Українську громадянську війну"
+ UKR_UCW_NEWS.0.desc: "Немає сюрпризу в німецькій хлібниці сьогодні, оскільки уряд Райхскомісаріяту зберіг контроль над Україною. У заяві від українського уряду Київ святкує закінчення повстання і підтверджує свою прихильність до 'національного соціялізму, фюрера та Ґерманського народу'. Проте деякі в уряді Києва, включаючи нинішнього виконуючого обов'язки Райхскомісара Георга Лейбрандта, запропонували реформи для Райхскомісаріяту.\n\nХоча ситуація наразі залишається стабільною, тріщини можуть почати з'являтися в Райхскомісаріяті. Хоча керівництво, здавалося б, належить Лейбрандту, нинішня правляча "Рада безпеки", що складається з Лейбрандта, Отто Олендорфа та Ганса-Отто Браютігама, знаходиться на межі краху, оскільки троє борються за владу. Хоча конфлікт не прогнозується на полі бою, очевидно, що подальший хаос чекає Україну в майбутньому.\n"
+ UKR_UCW_NEWS.0.a: "Справжнє лідерство виявляється в тих, хто його бере."
+ UKR_UCW_NEWS.0.b: "Німецька перевага перемагає всіх."
+ UKR_UCW_NEWS.0.c: "Чобіт продовжує давити."
 
- UKR_UCW_NEWS.1.t: "[Get_newspaper_header]The Republic of Ukraine is Established"
- UKR_UCW_NEWS.1.desc: "In the aftermath of the collapse of the Reich's eastern holdings, a light of hope has finally emerged from the dark fog of war. After a months-long civil conflict in the so-called Breadbasket of the Reich, the Ukrainian territories are now in the hands of a liberal and democratic partisan group that has begun installing a new democratic government.\n\nAppealing to the people of Ukraine's dreams of a free nation, the now Republic of Ukraine has won the hearts and minds of the oppressed people of Ukraine, and has since established a sovereign state, with the native Ukrainians being the main holders of power within the government.\n\nThe international community remains skeptical as to what will happen next, though the leader of the Republic, Yuriy Horlis, assures all that Ukraine will remain free.\n"
- UKR_UCW_NEWS.1.a: "We are finally free."
- UKR_UCW_NEWS.1.b: "Liars! False Promises!"
- UKR_UCW_NEWS.1.c: "A light from the darkness of Europe?"
+ UKR_UCW_NEWS.1.t: "[Get_newspaper_header] Республіка Україна встановлена"
+ UKR_UCW_NEWS.1.desc: "Після краху східних володінь Райху світло надії нарешті з'явилося з темного туману війни. Після місяців громадянського конфлікту в так званій хлібниці Райху, українські території тепер в руках ліберальної та демократичної партизанської групи, яка почала встановлювати новий демократичний уряд.\n\nЗвертаючись до мрій народу України про вільну націю, теперішня Республіка Україна завоювала серця та уми пригнобленого українського народу та з тих пір встановила суверенну державу, при цьому корінні українці стали основними володарями влади в уряді.\n\nМіжнародна спільнота залишається скептичною щодо того, що станеться далі, хоча лідер Республіки Юрій Горліс запевняє всіх, що Україна залишиться вільною.\n"
+ UKR_UCW_NEWS.1.a: "Ми нарешті вільні."
+ UKR_UCW_NEWS.1.b: "Брехуни! Хибні обіцянки!"
+ UKR_UCW_NEWS.1.c: "Світло з темряви Європи?"
 
- UKR_UCW_NEWS.2.t: "[Get_newspaper_header]The Restoration of the Ukrainian Socialist Soviet Republic"
- UKR_UCW_NEWS.2.desc: "A great reversal has occurred in Eastern Europe. Once thought a relic of a bygone era, the Ukrainian Socialist Soviet Republic has bested the various warring factions of the Ukrainian Civil War and wrested control over the entire Reichskommissariat. Despite its Soviet origins, they are not merely a continuation of the Soviet regime - First Secretary Oleksander Shumskyi has distanced himself from the ideology of Bukharin, declaring his belief in National Communism and emphasizing the continued liberation of the Ukrainian people.\n\nAs red banners fly across Germany's breadbasket, the world now waits with bated breath to see how the Reich will retaliate. But for now, many Ukrainians rejoice for the proclamation of the Ukrainian Socialist Soviet Republic, representing a great moment of liberation from decades of hardship and cruelty.\n"
- UKR_UCW_NEWS.2.a: "A new revolution has begun!"
- UKR_UCW_NEWS.2.b: "History cannot be allowed to reverse."
- UKR_UCW_NEWS.2.c: "Liberation comes at a cost."
+ UKR_UCW_NEWS.2.t: "[Get_newspaper_header] Відновлення Української Соціялістичної Радянської Республіки"
+ UKR_UCW_NEWS.2.desc: "В Східній Європі сталася велика реверсія. Коли-небудь вважався реліктом минулої ери, Українська соціялістична Радянська Республіка перемогла різні воюючі фракції Української громадянської війни та здобула контроль над усім Райхскомісаріятом. Незважаючи на свої радянські корені, вони не є лише продовженням радянського режиму - перший секретар Олександр Шумський дистанціювався від ідеології Бухаріна, проголосивши свою віру в національний комунізм та підкреслюючи продовження звільнення українського народу.\n\nПоки червоні прапори майорять у хлібниці Ґерманії, світ чекає з нетерпінням, щоб побачити, як Райх відреагує. Але наразі багато українців святкують проголошення Української Соціялістичної Радянської Республіки, що представляє великий момент звільнення від десятиліть труднощів і жорстокості.\n"
+ UKR_UCW_NEWS.2.a: "Нова революція розпочалася!"
+ UKR_UCW_NEWS.2.b: "Історію не можна дозволити перевернути."
+ UKR_UCW_NEWS.2.c: "Свобода має свою ціну."
 
- UKR_UCW_NEWS.3.t: "[Get_newspaper_header]The Ukrainian Insurgent Army Unites Ukraine"
- UKR_UCW_NEWS.3.desc: "The Ukrainian State, a nation born of the remnants of Stepan Bandera's Organization of Ukrainian Nationalists, has completely upended the 20 year status quo of Ukraine. Their leader, Dmytro Klyachkivsky, a staunch adherent of Bandera's ultranationalism, has shown a clear desire to create a Ukraine free of any "parasites." Already, German settler families and other minorities swarm the borders, hoping to flee Ukraine before the "reprisals" begin.\n\nAll is not well in Ukraine, however, as whispers of dissidents and rebels undermine the newly founded state's stability. Dmytro Klyachkivsky dismissed these rumors, declaring on the radio, "Ukraine is free of the malicious influences of the vile German, Russian, and Pole! Those who still serve the exploiters can reunite with them in death! Slava Ukraini, Heroiam Slava!" Only time will tell if the newborn Ukrainian State will rise above the flames or be buried in the ash.\n"
- UKR_UCW_NEWS.3.a: "Slava Ukraini, Heroiam Slava!"
- UKR_UCW_NEWS.3.b: "Clearly the Ukrainians have learnt nothing from the last twenty years."
- UKR_UCW_NEWS.3.c: "Bandera's shadow grows ever longer."
+ UKR_UCW_NEWS.3.t: "[Get_newspaper_header] Українська повстанська армія об'єднує Україну"
+ UKR_UCW_NEWS.3.desc: "Українська Держава, нація, що народилася з уламків Організації українських націоналістів Степана Бандери, повністю переосмислила 20-річний статус-кво України. Її лідер, Дмитро Клячківський, рішучий адепт ультранаціоналізму Бандери, виявив чітке бажання створити Україну, вільну від будь-яких 'паразитів'. Вже німецькі поселенські родини та інші меншини стікаються до кордонів, сподіваючись втекти з України до початку 'репресій'.\n\nПроте не все добре в Україні, оскільки шепіт дисидентів і повстанців підриває стабільність новоствореної держави. Дмитро Клячківський відкинув ці чутки, заявивши по радіо: 'Україна вільна від зловмисних впливів підлих німців, росіян і поляків! Ті, хто досі служить експлуататорам, можуть возз'єднатись з ними у смерті! Слава Україні, Героям слава!' Лише час покаже, чи зможе новонароджена Українська Держава піднятись над полум'ям чи буде похованою в попелі.\n"
+ UKR_UCW_NEWS.3.a: "Слава Україні, Героям слава!"
+ UKR_UCW_NEWS.3.b: "Очевидно, що українці нічого не навчилися з останніх двадцяти років."
+ UKR_UCW_NEWS.3.c: "Тінь Бандери стає все довшою."
 
- # Germany goes nuclear (literally)
+ # Ґерманія запускає ядерну зброю (буквально)
 
- WORLD_REICH.1599.t: "[Get_newspaper_header]Germany Destroys Kiew"
- WORLD_REICH.1599.desc: "In a development sparking horror and outrage worldwide, Germany today used a nuclear weapon against the city of Kiew, killing or injuring hundreds of thousands. The decision to deploy overwhelming force against a city which Germany considers its sovereign territory reportedly emerged after the German military proved incapable of stopping a rebellion within the Reichskommissariat Ukraine. Faced with a threat to German dominance and fears that instability could spread, the Führer took "extreme measures."\n\nWhile no statement from Germania is forthcoming, reaction elsewhere has been swift. OFN member-states issued a joint statement condemning "this act of unprecedented barbarism." An appalled spokesman of the Empire of Japan expressed outrage and informed press that the Empire would be re-evaluating its limited relations with Germany. Protests have roiled several European cities.\n"
- WORLD_REICH.1599.a: "They make a desert and call it peace."
+ WORLD_REICH.1599.t: "[Get_newspaper_header] Ґерманія знищує Київ"
+ WORLD_REICH.1599.desc: "В події, що викликала жах і обурення у всьому світі, Ґерманія сьогодні застосувала ядерну зброю проти міста Київ, вбивши або поранивши сотні тисяч людей. Рішення застосувати надмірну силу проти міста, яке Ґерманія вважає своєю суверенною територією, сталося після того, як німецька армія виявилася нездатною зупинити повстання в Райхскомісаріяті Україна. Стикнувшись з загрозою німецькій домінуванню і страхом, що нестабільність може поширитися, фюрер вжив 'екстрених заходів'.\n\nХоча ніякої заяви з боку Ґерманії не надходило, реакція в інших місцях була швидкою. Держави-члени ОВН видали спільну заяву, засуджуючи "цей акт безпрецедентного варварства". Розгніваний речник Японської Імперії висловив обурення і повідомив пресі, що Імперія переоцінить свої обмежені відносини з Ґерманією. Протести спалахнули в кількох європейських містах.\n"
+ WORLD_REICH.1599.a: "Вони роблять пустелю і називають це миром."
 
-#|=|========[ Moskowien World Events ]========|=|#
- WORLD_REICH.1600.t: "[Get_newspaper_header]Kasche Disappearance Causes Moskowien Turmoil"
- WORLD_REICH.1600.desc: "The German Reich's largest European territorial gain during the Second World War, the sudden disappearance of Reichskommissar Sigfried Kasche has now seemingly brought an end to Reichskommissariat Moskowien overnight. Following emergency talks between the German administration and Russian representatives in Moskau, an agreement to peacefully divide the territory has reportedly now been reached.\n\nThe latest development in the collapse of the German Reich, Moskowien had been one of the most troubled German territories since its inception, yet emerged as a beacon for reformists within the Reich for its experiments with native collaboration efforts following the West Russian War. Now, with the man behind the unifying efforts between the German and Russian populace gone, it appears the experiment has failed."
- WORLD_REICH.1600.a: "The Reich's frontier could no longer hold."
+ #|=|========[ Московієн Світові Події ]========|=|#
+ WORLD_REICH.1600.t: "[Get_newspaper_header] Зникнення Каше викликає заворушення в Московієні"
+ WORLD_REICH.1600.desc: "Найбільше європейське територіальне досягнення Ґерманії під час Другої світової війни, раптове зникнення Райхскомісара Зігріфа Каше, здається, поклало край Райхскомісаріяту Московієн за одну ніч. Після надзвичайних переговорів між німецькою адміністрацією та російськими представниками в Москві, досягнуто угоди про мирний поділ території.\n\nОстанній розвиток у краху Ґерманського Райху, Московія була однією з найбільш проблемних німецьких територій з моменту свого виникнення, але з'явилась як маяк для реформістів у Райху за своїми експериментами з нативними зусиллями співпраці після Західно-російської війни. Тепер, коли людина, що стояла за об'єднуючими зусиллями між німецьким і російським населенням, зникла, здається, експеримент провалився."
+ WORLD_REICH.1600.a: "Кордон Райху більше не тримається."
 
-#|=|========[ Kaukasien World Events ]========|=|#
- WORLD_REICH.1800.t: "[Get_newspaper_header]The Proclamation of the Kingdom of Kaukasia"
- WORLD_REICH.1800.desc: "As if the past several weeks could not get any more maddening, an even stranger turn of events has emerged in the Caucasus. Josias, hereditary prince of Waldeck and Pyrmont and the reclusive Reichskommissar of Kaukasien, has formally announced his already de facto severance of ties from the Greater Germanic Reich, in a rare public announcement transmitted through the Turkish consulate in Baku. Even more bizarrely was the fact that the man went as far as to proclaim a 'Kingdom of Kaukasia', crowning himself as King Josias I.\n\nThis message would have been dismissed as incredulous or an elaborate hoax, were it not accompanied by photographs of the coronation ceremony and an official regnal portrait of the new King. The world may have gone mad, but there is one thing everyone knows for certain..."
- WORLD_REICH.1800.a: "This man is the maddest of them all."
- WORLD_REICH.1800.b: "This man is an island of sanity."
+ #|=|========[ Кавказ Світові Події ]========|=|#
+ WORLD_REICH.1800.t: "[Get_newspaper_header] Проголошення Королівства Кавказ"
+ WORLD_REICH.1800.desc: "Якщо б минулі кілька тижнів не могли стати більш божевільними, ще один несподіваний поворот подій виник у Кавказі. Йосіас, спадковий принц Вальдек-Пірмонту та відлюдний Райхскомісар Кавказу, офіційно оголосив про своє вже де-факто розривання зв'язків із Великоґерманським Райхом у рідкісному публічному оголошенні, переданому через турецьке консульство в Баку. Ще більш дивно, що він пішов так далеко, що проголосив 'Королівство Кавказ', коронуючи себе як короля Йосіаса I.\n\nЦе повідомлення могло б бути відкинуте як неймовірне або складний обман, якби його не супроводжували фотографії коронаційної церемонії та офіційний портрет нового короля. Світ, можливо, збожеволів, але є одна річ, яку всі знають напевно..."
+ WORLD_REICH.1800.a: "Ця людина найбожевільніша з усіх."
+ WORLD_REICH.1800.b: "Ця людина - острів розуму."
+
 
 ###############################
-# Western Europe World Events #
+# Західноєвропейські світові евенти #
 ###############################
 
-#|=|========[ Netherlands World Events ]========|=|#
+#|=|========[ Нідерланди Світові Події ]========|=|#
 
 
-#|=|========[ Denmark World Events ]========|=|#
+#|=|========[ Данія Світові Події ]========|=|#
 
 
-#|=|========[ Norway World Events ]========|=|#
- WORLD_REICH.2200.t: "[Get_newspaper_header]The End of Reichskommissariat Norwegen"
- WORLD_REICH.2200.desc: "With the German Reich quickly becoming evermore consumed by chaos and warfare, the Nazi collapse has today claimed its next victim. Speaking before the Storting this morning, Norwegian Minister-President Gulbrand Lunde announced that his newly empowered government had been informed of the immediate resignation of Reichskommissar Josef Terboven and the dissolution of the Norwegian garrison, effectively marking the end of the German occupation of Norway.\n\nYet whilst many across the Reich attempt to escape from the warzones, it has been reported Terboven has instead flown back into Germany, along with a steady stream of Norwegian soldiers returning home to fight for their preferred side. Whilst the details behind these developments are largely unknown, one thing is for certain; Norway is now a free nation once again."
- WORLD_REICH.2200.a: "The fatherland abandons their great fortress."
- WORLD_REICH.2200.b: "As the fatherland burns so shall we."
+#|=|========[ Норвегія Світові Події ]========|=|#
+ WORLD_REICH.2200.t: "[Get_newspaper_header]Кінець Райхскомісаріяту Норвегія"
+ WORLD_REICH.2200.desc: "Оскільки Ґерманський Райх швидко поглинається хаосом і війною, сьогодні колапс нацистів забрав своє наступне жертву. Сьогодні вранці, виступаючи перед Стортингом, Міністр-президент Норвегії Гульбранд Лунде оголосив, що його новий уряд був проінформований про негайну відставку Райхскомісара Йозефа Тербовена та розпуск норвезького гарнізону, що фактично означає кінець німецької окупації Норвегії.\n\nПроте, поки багато хто в Райху намагаються втекти з воєнних зон, повідомляється, що Тербовен натомість повернувся до Ґерманії, разом із стабільним потоком норвезьких солдатів, які повертаються додому, щоб боротися за свою улюблену сторону. Хоча деталі цих подій здебільшого невідомі, одне можна сказати напевно; Норвегія знову стала вільною нацією."
+ WORLD_REICH.2200.a: "Батьківщина залишає свою велику фортецю."
+ WORLD_REICH.2200.b: "Поки батьківщина горить, так і ми."
 
- WORLD_REICH.2201.t: "[Get_newspaper_header]Milorg Coup in Norway"
- WORLD_REICH.2201.desc: "Revolution has struck the Greater German Reich! As warfare grips Europe in its deadly embrace, Norway has experienced a drastic shift in leadership following a coup by Milorg.\n\nFor over two decades, this resistance movement has violently opposed the administration of Reichskommissariat Norwegen. To the forces of democracy, they are freedom fighters; to the supporters of national socialism, they are militant terrorists. What is indisputable is that this organization overran the city of Oslo, ousted the collaborationist rulers and established a new provisional government. Under the leadership and guidance of Knut Møyen, Norway has embarked upon the grand goal of transitioning to a functioning democracy once again."
- WORLD_REICH.2201.a: "Democracy in Europe? They won't stand a chance..."
- WORLD_REICH.2201.b: "The northern lights shine on us once more."
+ WORLD_REICH.2201.t: "[Get_newspaper_header]Переворот у Норвегії"
+ WORLD_REICH.2201.desc: "Революція вдарила по Великоґерманському Райху! Оскільки війна охоплює Європу своїм смертоносним обіймами, Норвегія зазнала різкого зміщення керівництва після перевороту, здійсненого Мілоргом.\n\nПротягом більше двох десятиліть цей рух опору насильницьки протистояв адміністрації Райхскомісаріяту Норвегія. Для сил демократії вони є борцями за свободу; для прихильників націонал-соціялізму — це терористи-екстремісти. Що є безсумнівним, так це те, що ця організація захопила місто Осло, скинула колабораціоністських правителів і встановила новий тимчасовий уряд. Під керівництвом і в керівництві Кнута Мьойена Норвегія почала грандіозну мету повернення до функціонуючої демократії."
+ WORLD_REICH.2201.a: "Демократія в Європі? Вони не мають шансів..."
+ WORLD_REICH.2201.b: "Північні вогні знову світять на нас."
 
-#|=|========[ Burgundy World Events ]========|=|#
- WORLD_REICH.2300.t: "[Get_newspaper_header]Tremors Detected in Burgundian Soil"
- WORLD_REICH.2300.desc: "The Swiss Seismological Service has issued a press release with worrying news. Last night, their HQ in Zürich noted a seismological event somewhere in the Burgundian Jura that lasted four seconds and reached 4.6 on the Richter scale. Due to the lack of aftershocks, they concluded that this is "not natural activity, but likely a man-made incident." Several Swiss radiologists have also reported a spike in airborne radiation equivalent to a mild nuclear meltdown... or an atomic airblast.\n\nGovernments worldwide have arrived at one conclusion: the Burgundians have successfully tested a nuclear device, twice as strong as the one dropped on Pearl Harbor in 1945. With the shadow state remaining tight-lipped as ever, the news will likely never be confirmed. Still, it seems that [GetYear] will be remembered as a dark point in history: the year Burgundy ascended to the ranks of the nuclear powers."
- WORLD_REICH.2300.a: "God help us all."
- WORLD_REICH.2300.b: "Wunderbar!"
- WORLD_REICH.2300.c: "What does that madman think he's doing?!"
- BRG_finally_done_it_tt: "§RThe world awaits with bated breath...§!"
+#|=|========[ Бурґундія Світові Події ]========|=|#
+ WORLD_REICH.2300.t: "[Get_newspaper_header]Тремтіння в бурґундському грунті"
+ WORLD_REICH.2300.desc: "Швейцарська сейсмологічна служба випустила прес-реліз з тривожними новинами. Вчора ввечері, їх штаб-квартира в Цюріху зафіксувала сейсмологічну подію десь у бурґундському Юрі, що тривала чотири секунди і досягла 4.6 за шкалою Ріхтера. Через відсутність поштовхів після основного явища, вони дійшли висновку, що це "не природна активність, а, ймовірно, штучний інцидент." Декілька швейцарських радіологів також повідомили про сплеск радіації в повітрі, еквівалентний легкому ядерному розпаду... або атомному вибуху.\n\nУряди у всьому світі дійшли одного висновку: бурґундці успішно випробували ядерний пристрій, який вдвічі сильніший за той, що був скинутий на Перл-Харбор у 1945 році. Оскільки тіньова держава залишається мовчазною, цю новину, ймовірно, ніколи не підтвердять. Однак, здається, що [GetYear] буде запам'ятано як темна точка в історії: рік, коли Бурґундія піднялася до рядів ядерних держав."
+ WORLD_REICH.2300.a: "Боже, допоможи нам усім."
+ WORLD_REICH.2300.b: "Вундербар!"
+ WORLD_REICH.2300.c: "Що цей божевільний чоловік думає, що він робить?!"
+ BRG_finally_done_it_tt: "§RСвіт чекає затримавши дихання...§!"
 
- WORLD_REICH.2301.t: "[Get_newspaper_header]The Franco-Burgundian War"
- WORLD_REICH.2301.desc: "As the situation within Europe rapidly develops as the German sphere free falls into total collapse, many have wondered what if any move the secretive 'black state' would make. With recently leaked footage from Germany showing SS convoys moving into Burgundy, a border that has become one of the most militarized on Earth overnight, many observers declared this to be evidence that Heinrich Himmler had withdrawn support of Reinhard Heydrich's claim for the Führership.\n\nYet the true reasoning has now revealed itself. While the international community is still scrambling to make sense of the chaos, Burgundian tanks are now rolling into Paris and the French military, severely weakened by German sanctions, have either been forced into full retreat or had entire divisions destroyed wherever they dare make their stands."
- WORLD_REICH.2301.a: "God save us!"
- WORLD_REICH.2301.b: "They shall know power."
- WORLD_REICH.2301.c: "A shadow looms over France..."
+ WORLD_REICH.2301.t: "[Get_newspaper_header]Франко-Бурґундська війна"
+ WORLD_REICH.2301.desc: "Оскільки ситуація в Європі швидко розвивається, і німецька сфера вільно падає у повний колапс, багато хто задається питанням, який крок зробить таємнича 'чорна держава'. З нещодавно злитими кадрами з Ґерманії, на яких показані конвої СС, що рухаються в Бурґундію, кордон, що став одним з найбільш мілітаризованих на Землі за ніч, багато спостерігачів оголосили це доказом того, що Генріх Гімлер відкликав підтримку заяві Райнгарда Гайдріха на Фюрерство.\n\nОднак справжня причина тепер виявилася. Поки міжнародна спільнота все ще намагається зрозуміти хаос, бурґундські танки тепер котяться до Парижа, а французька армія, серйозно послаблена німецькими санкціями, або була змушена до повного відступу, або втратила цілі дивізії в тих місцях, де наважувалася тримати позиції."
+ WORLD_REICH.2301.a: "Боже, врятуй нас!"
+ WORLD_REICH.2301.b: "Вони повинні знати силу."
+ WORLD_REICH.2301.c: "Тінь нависає над Францією..."
 
- ## Burgundy Collapse
- WORLD_REICH.2302.t: "[Get_newspaper_header]Collapse of the SS-Ordensstaat Burgund"
- WORLD_REICH.2302.desc: "Information from Burgundy has historically been scarce, but news revealed by dissidents and refugees have revealed that the infamously secretive nation led by Heinrich Himmler is on the verge of collapse. According to them, Himmler is fighting his native SS Legions, along with the French Resistance.\n\nNations and observers around the world are closely watching as the situation develops. The United States has stated they are monitoring the situation, emergency meetings have been held, and the Pentagon has put soldiers on alert. Germany has not released an official statement, but eyewitnesses report similar meetings taking place, and troops being moved towards the German-Burgundian border. While the situation remains fluid, international experts believe that it is not a question of if there will be intervention - but who will do so first."
- WORLD_REICH.2302.a: "The end of the Shadow State approaches."
- WORLD_REICH.2302.b: "It all comes tumbling down."
+ ## Колапс Бурґундії
+ WORLD_REICH.2302.t: "[Get_newspaper_header]Колапс СС-Орденсштадта Бурґунд"
+ WORLD_REICH.2302.desc: "Інформація з Бурґундії історично була скромною, але новини, що їх оприлюднили дисиденти та біженці, розкрили, що інфамозно секретна нація під керівництвом Генріха Гімлера перебуває на межі колапсу. Згідно з їхніми словами, Гімлер бореться з власними легіонами СС, а також з французьким опором.\n\nНації та спостерігачі у всьому світі уважно стежать за розвитком ситуації. Сполучені Штати заявили, що спостерігають за ситуацією, екстрені засідання були проведені, і Пентагон поставив солдатів у стан готовності. Ґерманія не випустила офіційної заяви, але свідки повідомляють про схожі засідання та переміщення військ до ґермансько-бурґундського кордону. Оскільки ситуація залишається нестабільною, міжнародні експерти вважають, що питання не в тому, чи буде втручання, а в тому, хто зробить це першим."
+ WORLD_REICH.2302.a: "Кінець Тіньової Держави наближається."
+ WORLD_REICH.2302.b: "Все починає падати."
 
- WORLD_REICH.2303.t: "[Get_newspaper_header]The German Invasion of Burgundy"
- WORLD_REICH.2303.desc: "With troops and military equipment steadily increasing along the German-Burgundy border, and escalatory statements from German officials, many experts speculated that German intervention in the ongoing Burgundian collapse was certain. These beliefs were confirmed as German troops officially entered the collapsed Ordensstaat early in the morning, citing the need to secure their western border.\n\nBoth SS Legions as well as Himmler's forces have been targeted, confirming a suspected German objective of fully pacifying the region and eliminating the final SS stronghold in Europe. German officials have promised a swift victory, and while indications are that Himmler has attempted to reposition in a last attempt to hold out, most expect that the former Ordensstaat's days are numbered."
- WORLD_REICH.2303.a: "The black sun has set."
+ WORLD_REICH.2303.t: "[Get_newspaper_header]Ґерманське вторгнення в Бурґундію"
+ WORLD_REICH.2303.desc: "З зростанням чисельності військ та військової техніки на ґермансько-бурґундському кордоні та ескалаційними заявами з боку німецьких чиновників, багато експертів припустили, що німецьке втручання у процес колапсу Бурґундії є неминучим. Ці припущення підтвердилися, коли німецькі війська офіційно увійшли до колапсованого Орденсштадту рано вранці, посилаючись на необхідність забезпечити свій західний кордон.\n\nОбидва легіони СС, а також сили Гімлера стали мішенню, що підтверджує підозрювану мету Ґерманії — повністю умиротворити регіон і знищити останній оплот СС в Європі. Німецькі чиновники обіцяли швидку перемогу, і хоча ознаки вказують на те, що Гімлер намагався перепозиціонуватися в останній спробі утриматися, більшість очікує, що дні колишнього Орденсштадта рахуються."
+ WORLD_REICH.2303.a: "Чорне сонце сіло."
 
- WORLD_REICH.2304.t: "[Get_newspaper_header]German Control Established Over Burgundy"
- WORLD_REICH.2304.desc: "In the streets of Nord-Paris, German convoys and tanks, together with French soldiers march before a cheering crowd. Before a gathering of thousands, the Führer has declared the liberation of Burgundy from the tyranny of Himmler and the SS Legions, and praised the support of the French forces that played a crucial role in the liberation. Across the former Ordensstaat, French and German soldiers are welcomed as heroes as nation-wide celebrations take place.\n\nGermany and France have slowly begun releasing information concerning the conditions many were living in, which show widespread poverty, and the abuses of the SS without restrictions. While many of the newly liberated are grateful for the German intervention, the escaped dissidents have expressed their concern that one abusive master has been replaced with another. Only the future will determine if that fear will come to pass.\n"
- WORLD_REICH.2304.a: "Clouds hang over Burgundy."
+ WORLD_REICH.2304.t: "[Get_newspaper_header]Ґерманський контроль над Бурґундією встановлено"
+ WORLD_REICH.2304.desc: "На вулицях Норд-Парижа німецькі конвої та танки, разом із французькими солдатами, марширують перед захопленою натовпом. На зібранні тисяч Фюрер оголосив про визволення Бурґундії від тиранії Гімлера та легіонів СС та похвалив підтримку французьких сил, які зіграли важливу роль у визволенні. У всьому колишньому Орденштаді французькі та німецькі солдати вітаються як герої, і по всій країні відбуваються святкування.\n\nҐерманія та Франція повільно почали публікувати інформацію про умови, в яких багато хто жив, що показує повсюдну бідність та зловживання СС без жодних обмежень. Хоча багато нововизволених вдячні за німецьке втручання, дисиденти висловили своє занепокоєння, що один господар був замінений на іншого. Лише майбутнє покаже, чи здійсниться цей страх."
+ WORLD_REICH.2304.a: "Хмари нависли над Бурґундією."
 
- WORLD_REICH.2305.t: "[Get_newspaper_header]The United States Intervenes in Burgundy"
- WORLD_REICH.2305.desc: "Hours after Germany announced their intention to intervene in the rapidly collapsing Ordensstaat, the United States, together with France have announced that they will also be deploying soldiers into the former Ordensstaat in support of the planned French reclamation.\n\nFrench soldiers have already begun limited incursions into the state as the United States war machine roars into force. Many Frenchmen are hopeful that they will be able to reclaim their lands, and do so before the Germans push deep into the country.\n\nIt remains to be seen if this intervention will allow the tide against the Masters of Europe to be changed, but both American and French officials appear willing to take the chance - even if some fear the intervention raises the risk of igniting a Third World War."
- WORLD_REICH.2305.a: "The French reclamation has come."
+ WORLD_REICH.2305.t: "[Get_newspaper_header]Сполучені Штати втручаються в Бурґундію"
+ WORLD_REICH.2305.desc: "За кілька годин після оголошення Ґерманії про намір втрутитися в швидко колапсуючий Орденсштадт, Сполучені Штати, разом з Францією, оголосили, що також відправлять солдатів у колишній Орденсштадт на підтримку запланованого французького повернення.\n\nФранцузькі солдати вже розпочали обмежені вторгнення в державу, оскільки військова машина Сполучених Штатів набирає силу. Багато французів сподіваються, що їм вдасться повернути свої землі, і зробити це до того, як німці глибоко зайдуть у країну.\n\nЧи дозволить це втручання змінити хід проти Володаря Європи, поки неясно, але як американські, так і французькі чиновники, здається, готові ризикнути - навіть якщо деякі бояться, що втручання підвищує ризик спалахування Третьої світової війни."
+ WORLD_REICH.2305.a: "Французьке повернення відбулося."
 
- WORLD_REICH.2306.t: "[Get_newspaper_header]The Paris Agreement"
- WORLD_REICH.2306.desc: "Many people across the world breathe a sigh of relief as Germany and the United States announced that they have reached an agreement regarding the territory of the former Ordensstaat. Both sides have agreed to demilitarize the borders, withdraw their forces to their respective nations, allow the French to establish control over their former lands.\n\nObservers have confirmed that soldiers and military equipment are rapidly departing Burgundy, and humanitarian aid from the Organization of Free Nations is pouring in, as each member nation has pledged support in helping rebuilding the nation. As the French begin the difficult task to healing from the trauma Himmler inflicted, the rest of the world relaxes, knowing that a crisis in Western Europe has been averted."
- WORLD_REICH.2306.a: "The clock moves from midnight."
+ WORLD_REICH.2306.t: "[Get_newspaper_header]Паризька угода"
+ WORLD_REICH.2306.desc: "Багато людей по всьому світу з полегшенням зітхають, коли Ґерманія та Сполучені Штати оголосили, що досягли угоди щодо території колишнього Орденсштадту. Обидві сторони погодилися демілітаризувати кордони, вивести свої війська до відповідних країн і дозволити французам встановити контроль над своїми колишніми землями.\n\nСпостерігачі підтвердили, що солдати та військова техніка швидко покидають Бурґундію, а гуманітарна допомога від Організації Вільних Націй надходить у великих обсягах, оскільки кожна країна-член пообіцяла підтримку в допомозі відновленню країни. Коли французи починають важку справу лікування від травм, завданих Гімлером, решта світу розслабляється, знаючи, що криза в Західній Європі була розряджена."
+ WORLD_REICH.2306.a: "Годинник переходить від опівночі."
 
- WORLD_REICH.2307.t: "[Get_newspaper_header]The Burgundian Crisis"
- WORLD_REICH.2307.desc: "Fears of war have been raised across the world as both German and American governments have denounced each other, and each angrily departed the negotiations surrounding the former Ordensstaat. Both nations have stated that they would not be departing Burgundy, and soldiers on both sides have been placed on high alert. Emergency meetings have also been called in Washington and Germania, though neither nation has commented on their nature.\n\nWhile neither side has committed to direct conflict, more men and equipment have been observed moving to supply each side. Leaked messages sent to the Pakt and OFN by their respective leaders warn of a "potential escalation" in coming days. With neither Germany or the United States willing to negotiate further, many fear that the crisis will only deepen in the coming - and risk dragging the world into another world war.\n"
- WORLD_REICH.2307.a: "Midnight draws closer."
+ WORLD_REICH.2307.t: "[Get_newspaper_header]Бурґундська криза"
+ WORLD_REICH.2307.desc: "Страхи війни наростають по всьому світу, оскільки як німецькі, так і американські уряди засудили один одного, і кожен сердито покинув переговори щодо колишнього Орденсштадту. Обидві нації заявили, що не покинуть Бурґундію, і солдати з обох сторін перебувають у стані високої готовності. Також були скликані екстрені засідання у Вашингтоні та Ґерманії, хоча жодна країна не прокоментувала їхню суть.\n\nХоча жодна зі сторін не зобов'язалася до прямого конфлікту, спостерігається більше людей і техніки, що переміщуються для забезпечення обох сторін. У витоках повідомлень, надісланих до Пакту та ОВН їхніми відповідними лідерами, попереджається про «потенційне загострення» в найближчі дні. Оскільки ні Ґерманія, ні Сполучені Штати не готові до подальших переговорів, багато хто боїться, що криза лише загостриться в найближчі дні - і ризикує втягнути світ у ще одну світову війну."
+ WORLD_REICH.2307.a: "Опівніч наближається."
 
- WORLD_REICH.2308.t: "[Get_newspaper_header]France Demands Territorial Restoration"
- WORLD_REICH.2308.desc: "As tanks roll through the streets of Nord-Paris, Germany has announced that it has secured control over the former Ordensstaat Burgund, and successfully eliminated Heinrich Himmler, the rebellious SS Legions, and the nascent French Resistance. They have declared the day one of liberation, and stated their intent to rebuild and restore the territory.\n\nThe French State, which did not intervene during the conflict, has also officially demanded that Germany "immediately return rightful French territory", though it was unclear what leverage they have to enforce this. There has so far been no response from Germany, though some sources have indicated that German and French negotiators have made contact. It remains unknown how these discussions will proceed."
- WORLD_REICH.2308.a: "The German price will be high."
+ WORLD_REICH.2308.t: "[Get_newspaper_header]Франція вимагає відновлення територій"
+ WORLD_REICH.2308.desc: "Коли танки котяться вулицями Норд-Парижа, Ґерманія оголосила, що вона забезпечила контроль над колишнім Орденсштадтом Бурґунд, і успішно усунула Генріха Гімлера, бунтівні легіони СС і новонароджену французьку опозицію. Вони оголосили цей день днем звільнення та висловили намір відновити та відновити територію.\n\nФранцузька держава, яка не втручалася під час конфлікту, також офіційно вимагала, щоб Ґерманія "негайно повернула законні французькі території", хоча залишалося незрозумілим, який важіль вони мають для забезпечення цього. Досі не було відповіді від Ґерманії, хоча деякі джерела вказали, що німецькі та французькі переговорники вже встановили контакт. Залишається невідомим, як будуть проходити ці обговорення."
+ WORLD_REICH.2308.a: "Німецька ціна буде високою."
 
- WORLD_REICH.2309.t: "[Get_newspaper_header]Germany Returns French Territories"
- WORLD_REICH.2309.desc: "Celebrations have broken out across the French State, and the former Ordensstaat as France announced that Germany has agreed to return all rightful French lands to their possession. The French government has planned to hold a nation-wide celebration from Paris, as well as promising to fully restore, rebuild, and heal what was destroyed under Himmler's reign.\n\nIn a less-covered announcement, Germany also released a statement confirming that France would officially rejoin the Einheitspakt, which many are speculating was the price Germany demanded for returning French lands.\n\nWhile the newfound alignment between France and Germany has come as a surprise to some experts, few in France appear to care about the geopolitical implications. Their nation has been restored, and for that, they celebrate.\n"
- WORLD_REICH.2309.a: "Vive la France!"
+ WORLD_REICH.2309.t: "[Get_newspaper_header]Ґерманія повертає французькі території"
+ WORLD_REICH.2309.desc: "Святкування спалахнули по всій Французькій державі та колишньому Орденсштадту, оскільки Франція оголосила, що Ґерманія погодилася повернути всі законні французькі землі у їхнє володіння. Французький уряд планує провести загальнонаціональне святкування з Парижа, а також обіцяє повністю відновити, відбудувати і залікувати те, що було знищено під час правління Гімлера.\n\nУ менш обговорюваному оголошенні Ґерманія також випустила заяву, підтверджуючи, що Франція офіційно знову приєднається до Єдності, що багато хто вважає ціною, яку Ґерманія вимагала за повернення французьких земель.\n\nХоча нове зближення між Францією та Ґерманією стало несподіванкою для деяких експертів, небагато у Франції, здається, переймаються геополітичними наслідками. Їхня країна була відновлена, і за це вони святкують."
+ WORLD_REICH.2309.a: "Слава Франції!"
 
- WORLD_REICH.2310.t: "[Get_newspaper_header]Germany Refuses French Territorial Restoration"
- WORLD_REICH.2310.desc: "Tensions between the French State and Germany reached a new high, as Germany unequivocally stated that they would not be returning the former French lands to their previous owners. France has responded by condemning Germany harshly, and revealing that Germany attempted to pressure them into rejoining the Einheitspakt in exchange for their rightful lands.\n\nWhile the OFN has formally condemned the decision, Germany has moved forward in establishing a "temporary restoration government" intended to formalize the stablilization and rebuilding of the region.\n\nFew see a viable path for France to regain their territory without German cooperation, and most experts agree that this decision by Germany has all but ensured that the tensions between the two nations remain permanently high.\n"
- WORLD_REICH.2310.a: "An injustice perpetuated."
+ WORLD_REICH.2310.t: "[Get_newspaper_header]Ґерманія відмовляє у відновленні французьких територій"
+ WORLD_REICH.2310.desc: "Напруженість між Французькою державою та Ґерманією досягла нового рівня, оскільки Ґерманія беззастережно заявила, що не поверне колишні французькі землі їхнім попереднім власникам. Франція відповіла жорстким засудженням Ґерманії, розкривши, що Ґерманія намагалася тиснути на них, щоб вони знову приєдналися до Єдності в обмін на їхні законні землі.\n\nХоча ОВН формально засудила рішення, Ґерманія продовжила створювати "тимчасовий уряд відновлення", який має на меті формалізувати стабілізацію та відновлення регіону.\n\nМало хто бачить життєздатний шлях для Франції, щоб відновити свою територію без співпраці з Ґерманією, і більшість експертів погоджуються, що це рішення Ґерманії майже гарантовано забезпечило, що напруженість між двома націями залишиться постійно високою."
+ WORLD_REICH.2310.a: "Несправедливість триває."
 
- WORLD_REICH.2311.t: "[Get_newspaper_header]The Burgundian Standoff"
- WORLD_REICH.2311.desc: "While the armies of Heinrich Himmler and those of the SS Legions have been crushed under the combined might of Germany, the United States, and France, the situation remains highly tense in Burgundy. While nominal control has been established over the former Ordensstaat by the armies of both sides, both German and American armies remain on high alert for any sign of aggression from the other.\n\nBoth Germany and the United States have publicly signaled rhetorical deescalation, though observers have noted that both sides remain poised and entrenched along established demarcation lines, in preparation for an escalation. German and American diplomats have been seen moving to Burgundy, and both nations are engaging each other at all diplomatic levels. While all are hoping the situation will stabilize, tensions continue to rise - and fears of a renewed war between the two superpowers with it.\n"
- WORLD_REICH.2311.a: "It's up to the diplomats now."
+ WORLD_REICH.2311.t: "[Get_newspaper_header]Бурґундський конфлікт"
+ WORLD_REICH.2311.desc: "Хоча армії Генріха Гімлера та легіонів СС були розбиті під спільною силою Ґерманії, Сполучених Штатів і Франції, ситуація в Бурґундії залишається надзвичайно напруженою. Хоча номінальний контроль був встановлений над колишнім Орденсштадтом арміями обох сторін, армії Ґерманії та Сполучених Штатів залишаються у стані високої готовності на будь-який знак агресії з боку один одного.\n\nІ Ґерманія, і Сполучені Штати публічно сигналізували про риторичне деескалацію, хоча спостерігачі зазначили, що обидві сторони залишаються готовими і укріпленими вздовж встановлених демаркаційних ліній у підготовці до ескалації. Німецькі та американські дипломати були помічені, що рухаються в Бурґундію, і обидві нації залучають один одного на всіх дипломатичних рівнях. Хоча всі сподіваються, що ситуація стабілізується, напруженість продовжує зростати - і страхи відновленої війни між двома наддержавами також зростають."
+ WORLD_REICH.2311.a: "Тепер все залежить від дипломатів."
  
- WORLD_REICH.2312.t: "[Get_newspaper_header]Germany Maintains Influence Over French Lands"
- WORLD_REICH.2312.desc: "While predicted by many experts following the conquest of Burgundy by Germany, there remained many who were shocked by the German announcement that they were in the process of establishing governments in the former French and Belgium lands - without the input of the French State.\n\nMany believe that this is due to the French State's alliance with Italy, and has caused an expected uproar among the French, who accuse Germany of not even attempting outreach. Italy, along with her allies, has also condemned the German decision, though few expect substantial actions.\n\nNow, many watch closely, and wonder if the new states will be able to sustain themselves, or if a new era of resistance will be born in the war-torn and weary nation."
- WORLD_REICH.2312.a: "The clock starts over."
+ WORLD_REICH.2312.t: "[Get_newspaper_header]Ґерманія зберігає вплив на французькі землі"
+ WORLD_REICH.2312.desc: "Хоча багато експертів передбачали це після завоювання Бурґундії Ґерманією, все ж було багато тих, хто був шокований оголошенням Ґерманії про те, що вони перебувають у процесі створення урядів на колишніх французьких та бельгійських землях - без участі Французької держави.\n\nБагато хто вважає, що це сталося через альянс Французької держави з Італією, що викликало очікуваний сплеск обурення серед французів, які звинувачують Ґерманію у відсутності навіть спроб контакту. Італія разом із її союзниками також засудила рішення Ґерманії, хоча мало хто очікує суттєвих дій.\n\nТепер багато хто уважно стежить і дивується, чи зможуть нові держави утриматися на плаву, або ж у війні, що зруйнувала країну, народиться нова ера опору."
+ WORLD_REICH.2312.a: "Годинник починає відлік заново."
 
- WORLD_REICH.2313.t: "[Get_newspaper_header]The Establishment of the French Pakt Commission"
- WORLD_REICH.2313.desc: "The world responded with a mixture of trepidation and relief when news of the collapse of the SS-Ordensstaat Burgund was confirmed, with Germany mobilizing afterwards to invade the remains of Heinrich Himmler's collapsed state. With order restored, Germany has proclaimed victory over Himmler, and declared that the reign of terror perpetuated by the Reichsführer-SS has ended.\n\nWith the French State in chaos following its collapse after the failed invasion of Brittany, Germany has established the French Pakt Commission, administered by Adolf Heusinger. While the OFN and Italy have expressed concern at the development, with no legitimate French state to protest, the world can only watch - and hope that the new German administration is kinder than the last."
- WORLD_REICH.2313.a: "Our victory over the traitor is complete!"
- WORLD_REICH.2313.b: "Another German regime."
+ WORLD_REICH.2313.t: "[Get_newspaper_header]Створення Французької Пактокомісії"
+ WORLD_REICH.2313.desc: "Світ відповів сумішшю тривоги та полегшення, коли підтвердилася новина про крах СС-Орденсштадту Бурґунд, після чого Ґерманія мобілізувалася для вторгнення в залишки розпущеної держави Генріха Гімлера. Відновивши порядок, Ґерманія оголосила перемогу над Гімлером і заявила, що ера терору, що підтримувалася Райхсфюрером СС, закінчилася.\n\nОскільки Французька держава перебувала в хаосі після її краху внаслідок невдалої спроби вторгнення в Бретань, Ґерманія створила Французьку Пактову Комісію, якою керує Адольф Хойзінгер. Хоча ОВН та Італія висловили стурбованість з цього приводу, без легітимної французької держави для протесту світ може лише спостерігати - і сподіватися, що нове німецьке управління буде добрішим за попереднє."
+ WORLD_REICH.2313.a: "Наша перемога над зрадником завершена!"
+ WORLD_REICH.2313.b: "Черговий Ґерманський режим."
