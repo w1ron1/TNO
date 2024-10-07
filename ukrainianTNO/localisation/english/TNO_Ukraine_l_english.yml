@@ -42,7 +42,7 @@
    # 8.3 - РІШЕННЯ ГІРКИХ ЖНИВ
    # 8.4 - РІШЕННЯ ДОЛІ
  # 9 - МЕХАНІКИ/ГІКи
-   # 9.1 - ГІК ХЛІБНОГО КОШИКУ
+   # 9.1 - ГІК ХЛІБНИЦІ
      # 9.1.1 - Таб Розвитку
      # 9.1.2 - Таб Опору
      # 9.1.3 - Таб Рішень
@@ -260,7 +260,7 @@
  UKR_UCW_supply_idea: "Гіркі жнива"
  UKR_UCW_supply_idea_desc: "§FСтабільність: [?UKR_UCW_supply_stability_factor|=+%]\nВійськова підтримка: [?UKR_UCW_supply_war_support_factor|=+%]\nЗростання ВВП: [?UKR_UCW_supply_gdp_growth_modifier|=+%]\nКоефіцієнт відновлення дивізій: [?UKR_UCW_supply_army_morale_factor|=+%]\nОрганізація дивізії: [?UKR_UCW_supply_army_org_regain|=+%]\nВідновлення організація дивізії: [?UKR_UCW_supply_army_org_factor|=+%]\nСільськогосподарські методи Щомісячна зміна: [?UKR_UCW_supply_agriculture_monthly_rate|=+]\nБідність щомісячна зміна: [?UKR_UCW_supply_poverty_monthly_rate|=+%]\nНаселення щомісяця: [?UKR_UCW_monthly_pop|=+%]§!\n§g--------------§!\nЗернові поля, що були житницею Райху, горять, а з ними і їжа, необхідна для підтримки нації. Якщо ми хочемо перемогти у цій війні і після неї правити нацією, а не трупами, ми повинні дбайливо розпоряджатися тими запасами, що залишилися."
 
- # ШПЕЄРОВСЬКІ НАЦ. ДУХИ ХЛІБНОГО КОШИКУ
+ # ШПЕЄРОВСЬКІ НАЦ. ДУХИ ХЛІБНИЦІ
  UKR_breadbasket_of_the_reich_raga: "Житниця Райху"
  UKR_breadbasket_of_the_reich_raga_desc: "Після великої перемоги Райху на сході, Україна стала житницею Райху та його союзників у Пакті. Значна частина бюджету адміністрації формувалася за рахунок величезних обсягів експорту сільськогосподарської продукції. Хоча це дозволило Україні залишатися певною мірою економічно самодостатньою, торгівля гальмувала наш промисловий розвиток в інших галузях.\n\nПри новій владі Райху, однак, Раду було відновлено, що дало українцям значно більшу свободу дій у веденні своїх справ. Хоча це було дещо менш ефективно, ніж інші більш авторитарні варіанти, це, безсумнівно, спрямує справи у більш мирне русло.§!"
 
@@ -361,7 +361,7 @@
 
  ### 6.1 - ВСТУПНІ ФОКУСИ ###
  UKR_the_herzogs_rage: "Лють Герцога"
- UKR_fuel_the_breadbasket: "Заправити хлібний кошик"
+ UKR_fuel_the_breadbasket: "Заправити хлібницю"
  UKR_mechanization_in_dnieper_ukraine: "Механізація наддніпрянщини України"
  UKR_finish_off_communal_farms: "Добити «коллективні господарства»"
  UKR_skip_noc_holdings: "Пропустити NOC Holdings"
@@ -526,7 +526,7 @@
 
  UKR_a_flag_above_ashes: "Прапор над попелищем"
  UKR_begin_hunting_the_partisans: "Почати полювання на партизанів"
- UKR_bring_back_the_breadbasket: "Повернути хлібний кошик"
+ UKR_bring_back_the_breadbasket: "Повернути хлібницю"
  UKR_problems_in_the_field: "Проблеми на місцях"
  UKR_matters_of_priorities: "Пріоритетні питання"
  UKR_something_is_broken: "Щось зламалося"
@@ -1871,7 +1871,7 @@
  UKR_POL_relation.41.desc: "Vladimir sat at the end of the table, looking between the two delegates at their respective sides of the room. Horlis and Nil both had an understanding look on their faces, as if two parents solemnly looking at each other as their children bicker. Nothing had come to a boil yet it seemed, but the tension was definitely felt throughout the room. Little had been agreed on in the few hours they had been here, just that both sides should benefit. He had felt in his gut that this would devolve into a shouting match, but as the room seemed to come close to a climax one man stood up. The man raised his voice, got the attention of the room, and all was silent.\n\nHorlis and Nil both looked surprised, and he couldn't be sure which side he belonged to. It did not matter though, as his trade proposal was the most thought thing to be proposed that morning. It seemed to shift the mood of the room when all of the others began to silently nod and agree with each other. Of course, there were objections here and there, but it wasn't anything that couldn't be ironed out. Things were beginning to look up, and Vladimir saw the two old delegates smile between each other. Another day of this and they'd have a robust economic plan between the two of them."
  UKR_POL_relation.41.a: "Thank God it didn't get out of hand."
 
- ### 7.10 - ІВЕНТИ ХЛІБНОГО КОШИКУ ###
+ ### 7.10 - ІВЕНТИ ХЛІБНИЦІ ###
 
  UKR.consumption_cycle.t: "Consumption Cycle Summary:\n[?UKR_bb_cycle_start_date.GetDateStringNoHourLong] - [?UKR_bb_cycle_end_date.GetDateStringNoHourLong]"
  UKR.consumption_cycle.desc: "Total grain consumed: [?stockpile_consumed|0]\n\n[Get_UKR_BB_consumption_event_section_1]\n\n[Get_UKR_BB_consumption_event_section_2]\n\n[Get_UKR_BB_consumption_event_section_3]"
@@ -2083,14 +2083,14 @@
  #UKR_UCW_trace_heerema: "Слідами Хіреми" #Скоріш за усе видалиться потім
  #UKR_UCW_trace_heerema_desc: ""
 
- UKR_UCW_gotenland_envoy: "Надішліть посланця до Готенланду"
- UKR_UCW_gotenland_envoy_desc: "Уряд Готенланду наразі збирає власний захист, але за допомогою об'єднаної кампанії ми могли б зробити більше. По-перше, нам потрібно зв'язатися з ними. Маючи лояльного і високопоставленого посланника, ми можемо сподіватися, що зможемо відкрити дипломатичні канали."
+ UKR_UCW_gotenland_envoy: "Надішліть посланця до Ґотенлянду"
+ UKR_UCW_gotenland_envoy_desc: "Уряд Ґотенлянду наразі збирає власний захист, але за допомогою об'єднаної кампанії ми могли б зробити більше. По-перше, нам потрібно зв'язатися з ними. Маючи лояльного і високопоставленого посланника, ми можемо сподіватися, що зможемо відкрити дипломатичні канали."
 
- UKR_UCW_gotenland_aid: "Зверніться за допомогою до Готенланду"
- UKR_UCW_gotenland_aid_desc: "З відкритою дипломатією з Готенландом ми можемо просити про більше. Хоча вони, скоріш за все, відмовляться надсилати свої війська, допомога все одно допоможе нам протриматися довше - і тим самим врятує їх від битви."
+ UKR_UCW_gotenland_aid: "Зверніться за допомогою до Ґотенлянду"
+ UKR_UCW_gotenland_aid_desc: "З відкритою дипломатією з Ґотенляндом ми можемо просити про більше. Хоча вони, скоріш за все, відмовляться надсилати свої війська, допомога все одно допоможе нам протриматися довше - і тим самим врятує їх від битви."
 
  UKR_UCW_reach_out_bulgaria: "Зверніться до Болгарії"
- UKR_UCW_reach_out_bulgaria_desc: "Нам потрібні ресурси, щоб вижити. Болгарія, з її слов'янським походженням і монархічною адміністрацією, навряд чи є нормальним союзником, але це надійний союзник, стабільний після десятиліть служби. Якщо вони зможуть надати допомогу через Готенланд, це дозволить нам протриматися довше."
+ UKR_UCW_reach_out_bulgaria_desc: "Нам потрібні ресурси, щоб вижити. Болгарія, з її слов'янським походженням і монархічною адміністрацією, навряд чи є нормальним союзником, але це надійний союзник, стабільний після десятиліть служби. Якщо вони зможуть надати допомогу через Ґотенлянд, це дозволить нам протриматися довше."
 
  UKR_UCW_reach_out_turkey: "Зверніться до Туреччини"
  UKR_UCW_reach_out_turkey_desc: "Нам потрібні ресурси, щоб вижити, а з огляду на стан виробництва, наші можливості створювати запаси продовольства вкрай обмежені. А от у Туреччині їжі вдосталь. Наразі вона не є союзником німців, але якщо ми зможемо отримати їхню допомогу в ім'я стабільності на континенті, нам буде краще."
@@ -2157,7 +2157,7 @@
  ### 8.5 - Інші рішення ###
 
  UKR_crimea_reconquest_category: "Німецькі залишки"
- UKR_crimea_reconquest_category_desc: "Після нескінченної і запеклої боротьби над нами сходить сонце - настає світанок. Але наше визволення не буде повним, доки вся Україна не звільниться від німецького чобота. На південь від нас НСДАП намагається асимілювати території Херсонщини та Криму, об'єднавши їх у вигаданий «Готенланд». Їхні слова нічого не значать проти єдиного почуття нації - ця земля є нашою, як це було протягом століть. Наші брати по той бік Дніпра мають бути звільнені, а їхні засоби до існування відновлені. Німецькі поселенці, туристи і спекулянти можуть запанікувати і розбігтися, але українці, що залишилися, зрештою зможуть побачити мир. "
+ UKR_crimea_reconquest_category_desc: "Після нескінченної і запеклої боротьби над нами сходить сонце - настає світанок. Але наше визволення не буде повним, доки вся Україна не звільниться від німецького чобота. На південь від нас НСДАП намагається асимілювати території Херсонщини та Криму, об'єднавши їх у вигаданий «Ґотенлянд». Їхні слова нічого не значать проти єдиного почуття нації - ця земля є нашою, як це було протягом століть. Наші брати по той бік Дніпра мають бути звільнені, а їхні засоби до існування відновлені. Німецькі поселенці, туристи і спекулянти можуть запанікувати і розбігтися, але українці, що залишилися, зрештою зможуть побачити мир. "
  UKR_Core_Crimea: "Реінтегрувати Крим"
  UKR_Countdown_To_Invasion: ""§mМи переправимось через Дніпро,§! §Yта увійдемо в історію.§!""
 
@@ -2166,8 +2166,8 @@
  # 9 - МЕХАНІКИ/ГІКи #
  #####################
 
- ### 9.1 - ГІК ХЛІБНОГО КОШИКУ ###
- UKR_BB_open_button: "§F§MХлібний§! §YКошик§! §jРайху§!§!"
+ ### 9.1 - ГІК ХЛІБНИЦІ ###
+ UKR_BB_open_button: "§F§MХліб§!§Yниця§! §jРайху§!§!"
  
  UKR_BB_tab_development: "РОЗВИТОК"
  UKR_BB_tab_development_tt: "Вкладка §YРОЗВИТКУ§!"
@@ -2186,7 +2186,7 @@
  UKR_BB_ACTIONS_tt: "ДІЇ"
 
  UKR_BB_stateview_region_tt: "§Y[THIS.GetName]§! входить до регіону §Y[?region_var.GetName]§!."
- UKR_BB_stateview_modifiers_tt: "§FЕфекти §MХлібного§! §YКошику§!:\n£UKR_development §DРівень розвитку§! (§D[?region_var:development_level]§!/§Y10§!) Дає наступне:\n    Коефіцієнт зростання ВВП держави: [?UKR_BB_state_dynmod_growth|=+%2]\n    Максимальна кількість будівель у регіоні: [?UKR_BB_state_dynmod_building_slots|=+%2]\n\n§OЕксплуатація регіону§! (§O[?region_var:exploitation]§!/§Y100§!) дає наступне:\n    Місцеві ресурси: [?UKR_BB_state_dynmod_resources|=+%2]\n    Приріст населення регіону: [?UKR_BB_state_population_growth|=+%2]\n\nВсі модифікатори, за винятком максимальної кількості будівель у стані, зменшуються на основі регіонального §Vспустошення§! (§V[?region_var:desolation]§!/§Y100§!).§!"
+ UKR_BB_stateview_modifiers_tt: "§FЕфекти §MХліб§!§Yниці§!:\n£UKR_development §DРівень розвитку§! (§D[?region_var:development_level]§!/§Y10§!) Дає наступне:\n    Коефіцієнт зростання ВВП держави: [?UKR_BB_state_dynmod_growth|=+%2]\n    Максимальна кількість будівель у регіоні: [?UKR_BB_state_dynmod_building_slots|=+%2]\n\n§OЕксплуатація регіону§! (§O[?region_var:exploitation]§!/§Y100§!) дає наступне:\n    Місцеві ресурси: [?UKR_BB_state_dynmod_resources|=+%2]\n    Приріст населення регіону: [?UKR_BB_state_population_growth|=+%2]\n\nВсі модифікатори, за винятком максимальної кількості будівель у стані, зменшуються на основі регіонального §Vспустошення§! (§V[?region_var:desolation]§!/§Y100§!).§!"
 
  ## 9.1.1 - Таб розвитку
 
@@ -2207,7 +2207,7 @@
  # СЕКЦІЯ ЗЕРНА
  UKR_BB_consumption_header: "ЗЕРНО\nСПОЖИВАННЯ"
  UKR_BB_consumption_x_axis: "КІЛЬКІСТЬ ЗЕРНА"
- UKR_BB_consumption_tooltip: "§FЯк на §MХлібну§! §Yкорзину§! §oРайху§!, На нашу адміністрацію покладаються великі сподівання щодо адекватного постачання нашого врожаю зернових до кінця кожного циклу споживання. Однак ми також повинні пам'ятати про власні потреби в зерні, щоб забезпечити достатнє харчування для нашого населення.\n\nКожного циклу споживання ми повинні задовольняти §oпопит на експорт§! з боку Німеччини, який буде мати пріоритетне значення. Крім того, ми також повинні споживати певну кількість зерна, щоб тримати людей нагодованими. Зерно буде зібрано з наших врожаїв у §Gциклі§!, а також з будь-яких запасів, перенесених з §Yпопереднього врожаю§!.\n\nБільше того, §oНімеччина§! також очікує, що наша адміністрація буде належним чином опікуватися розвитком регіону. Наприкінці кожного циклу споживання від регіонів Райхскомісаріяту очікується певний рівень §Розвитку§!\n\n§RНевиконання будь-якої з цих вимог і потреб призведе до жахливих наслідків.§!§!"
+ UKR_BB_consumption_tooltip: "§FЯк на §MХліб§!§Yниця§! §oРайху§!, На нашу адміністрацію покладаються великі сподівання щодо адекватного постачання нашого врожаю зернових до кінця кожного циклу споживання. Однак ми також повинні пам'ятати про власні потреби в зерні, щоб забезпечити достатнє харчування для нашого населення.\n\nКожного циклу споживання ми повинні задовольняти §oпопит на експорт§! з боку Німеччини, який буде мати пріоритетне значення. Крім того, ми також повинні споживати певну кількість зерна, щоб тримати людей нагодованими. Зерно буде зібрано з наших врожаїв у §Gциклі§!, а також з будь-яких запасів, перенесених з §Yпопереднього врожаю§!.\n\nБільше того, §oНімеччина§! також очікує, що наша адміністрація буде належним чином опікуватися розвитком регіону. Наприкінці кожного циклу споживання від регіонів Райхскомісаріяту очікується певний рівень §Розвитку§!\n\n§RНевиконання будь-якої з цих вимог і потреб призведе до жахливих наслідків.§!§!"
 
  UKR_BB_consumption_stocks_tt: "§FЗапаси §fзерна§! на кінець цього циклу споживання є такими:\n£UKR_consumption_stockpile  Запаси зерна з §Yпопереднього врожаю§!: [?UKR_BB_consumption_grain_STOCKPILE|f0]\n£UKR_consumption_gain  Зерно, що буде зібрано §Gцього циклу§!: [?UKR_total_grain_output|f0]\n--------------\nДо загальної кількості §Y[?stockpile_total]§! §fЗерна§! яке буде використано в цьому циклі. §fЗерно§! не використане в циклі споживання, буде додано до §Yзапасу§! наступного циклу.§!"
  UKR_BB_consumption_demands_tt: "§FЗапаси §fзерна§! §Rпотрібні§! до кінця цього циклу споживання є наступними:\n£UKR_consumption_demands  §oҐерманські§! експортні потреби: [?UKR_BB_Germania_Demand_grain|f0]\n£UKR_consumption_needs  Зерно необхідне для §MУкраї§!§Yнців§!: [?UKR_BB_local_grain_needs|f0]\n--------------\nДо загальної кількості в §R[?demands_total]§! §fзерна§! необхідно для цього циклу.\n\nВідправка §fзерна§! до наших §oНімецьких§! господарів стоїть на першому місці, §MУкраї§!§Yнці§! отримають те що залишиться.§!"
@@ -2401,7 +2401,7 @@
  UKS_uprising_division_exp_tt: "Кожен з наших загонів отримає додатковий §Yдосвід§! на початку §Sповстання§! кожного разу, коли ми виконуватимемо цю дію"
  UKS_pre_uprising_guns_tt: "Ми зможемо скористатися перевагами додаткової §YПіхотної зброї§! на початку §Suprising§!"
  UKR_BB_resistance_stockpile_amount: "£weapon_icon  [?UKR_bb_partisan_stockpile_guns]  £manpower_texticon [?UKR_bb_partisan_stockpile_manpower]" #  £dollar_sign [?UKR_bb_partisan_stockpile_money]M
- UKR_bb_resistance_stockpile_tt: "Ми будемо використовувати запаси нашої групи опору для проведення акцій в §MХлібний§!§Yкорзині§!.\nВсі ресурси, які ми не використаємо тут, будуть використані на початку будь-якої §Sповстання§!.\n\nПоточної щотижневої зміни:\n£weapon_icon   [?UKR_bb_stockpile_guns_gain|0+=]\n£manpower_texticon  [?UKR_bb_stockpile_manpower_gain|0+=]\n" 
+ UKR_bb_resistance_stockpile_tt: "Ми будемо використовувати запаси нашої групи опору для проведення акцій в §MХліб§!§Yниці§!.\nВсі ресурси, які ми не використаємо тут, будуть використані на початку будь-якої §Sповстання§!.\n\nПоточної щотижневої зміни:\n£weapon_icon   [?UKR_bb_stockpile_guns_gain|0+=]\n£manpower_texticon  [?UKR_bb_stockpile_manpower_gain|0+=]\n" 
  UKR_bb_guns_stockpile_change_tt: "Зміняє £weapon_icon §YЗапас§! зброї: [?temp_guns|0=+]\n"
  UKR_bb_manpower_stockpile_change_tt: "Зміна у £manpower_texticon Запасі §Yробочої сили§!: [?temp_mp|0=+]\n"
 
@@ -2466,10 +2466,10 @@
  UKR_BB_R_Action_UPA_PreUCW_3: "Новобранці прес-групи"
 
  ### Баскенд
- UKR_BB_Action_add_dev: "'§Y[?temp_action.GetTokenLocalizedKey]§! тепер §Gдоступні§! у §MХлібному§! §Yкошику§!."
- UKR_BB_Action_add_res: "'§Y[?temp_action.GetTokenLocalizedKey]§! тепер §Gдоступні§! у §MХлібному§! §Yкошику§!."
- UKR_BB_Action_rem_dev: "'§Y[?temp_action.GetTokenLocalizedKey]§! §Rвилучено§! з §MХлібного§! §Yкошику§!."
- UKR_BB_Action_rem_res: "'§Y[?temp_action.GetTokenLocalizedKey]§! §Rвилучено§! з §MХлібного§! §Yкошику§!."
+ UKR_BB_Action_add_dev: "'§Y[?temp_action.GetTokenLocalizedKey]§! тепер §Gдоступні§! у §MХліб§!§Yниці§!."
+ UKR_BB_Action_add_res: "'§Y[?temp_action.GetTokenLocalizedKey]§! тепер §Gдоступні§! у §MХліб§!§Yниці§!."
+ UKR_BB_Action_rem_dev: "'§Y[?temp_action.GetTokenLocalizedKey]§! §Rвилучено§! з §MХліб§!§Yниці§!."
+ UKR_BB_Action_rem_res: "'§Y[?temp_action.GetTokenLocalizedKey]§! §Rвилучено§! з §MХліб§!§Yниці§!."
 
  UKR_BB_Action_Cost_label: "Кошт:"
  UKR_BB_Action_Cooldown_tt: "Ця дія перебуває у стані очікування: ([?cooldown_frame|G0]/[?30|Y0]) днів"
@@ -2612,7 +2612,7 @@
  
  UKR_UCW_inevitable_tt: "§RГромадянська війна стала §xнеминучою§!.§!"
  
- UKR_breadbasket_disable_tt: "Механіка §fХлібного кошика§! втратив працездатність через §xНімецьку Громадянську Війну§!."
+ UKR_breadbasket_disable_tt: "Механіка §fХлібниці§! втратив працездатність через §xНімецьку громадянську війну§!."
  
  UKR_UCW_UKS_uprising_play_tt: "Час настав, §Vреволюція§! §Gрозпочалася§!!"
  UKR_UCW_UKS_uprising_tt: "...і падає."
@@ -2740,7 +2740,7 @@
  # ДЕБАҐ
  UCW_supply_debug: "§xДЕБАҐ:§! Клацніть лівою кнопкою миші, щоб додати 50 | Клацніть правою кнопкою миші, щоб відняти 50" # Їх ніхто не побачить тому мені похуй які баги я зроблю, не їбіть мене з цим
 
- # ДІНМОД ХЛІБНОГО КОШИКА
+ # ДІНМОД ХЛІБНИЦІ
 
  UKR_bb_national_dynmod_change_tt: "(§YЖитниця Райху§!)"
 
