@@ -1,23 +1,23 @@
-﻿l_english:
+l_english:
  ## Country Names ##
  
  ####Party Names#####
- FSP_national_socialism_party:0 "SS-Einsatzkommission Preußen"
- FSP_national_socialism_party_long:0 "SS-Einsatzkommission Preußen"
- FSP_ultranationalism_party:0 "SS-Einsatzkommission Preußen"
- FSP_ultranationalism_party_long:0 "SS-Einsatzkommission Preußen"
- HWL_Adolf_Eichmann:0 "Adolf Eichmann"
- POLITICS_Adolf_Eichmann_DESC:0 "The Death's Head will march on. For purity. For unity. For the Aryan Race. No matter how many need to bleed to do it.\n\nOtto-Adolf Eichmann was born a German, worked as a German, fought as a German, and killed as a German. Originally from Prussia but rising through the ranks of his father's Austrian mining business after being pulled away from school, Eichmann's closest form of solidarity came through the right-wing militias and paramilitaries all of his friends had been talking about, and the bold words of the NSDAP flashing across the Newspaper headlines. Germany was destined for greatness, in young Adolf's mind, and it was his time to participate, and participate he did, as Eichmann was charged with personally sicking the dogs of war, brutal deportation, and genocide against thousands upon thousands of Jews. With the powerlessness of the Allies preventing anything from stopping him, Eichmann bathed in the blood of the Hebrews as a Grand Master and Architect of the most horrific slaughter of Jews the world had ever seen.\n\nHowever, the years of joyful bloodshed were cinched tightly by the collapsing successes of the Reich. Economic mishandlings, military failures in Russia, and a near-collapse of the German government had shaken the entire Aryan spirit, driving Eichmann towards swearing allegiance towards the newly formed Ordensstaat. For, if the Vaterland would trade the sword for the shackle, perhaps the Reichsführer-SS would employ Eichmann where he worked best, as he became the new SS-Obergruppenführer over the SS-Totenkopfverbände, leading the "Death's Heads" to a bloody, new Final Solution.\n\nHowever, all of the successes and accomplishments for Eichmann have come to fold, as the entirety of the Reich finds itself embattled against itself. To the East, the Blonde Beast leads in apocalyptic bookings of doom and despair towards Eichmann's former master, the Reichsführer-SS. Of course, Eichmann could never give into the wishes of someone willing to end the world, if that were true of course, however, a new goal rises upon the horizon. The degenerate Untermenschen surrounds the SS-Totenkopfverbände in broken shackles, and the time has come to reignite the Endlösung."
+ FSP_national_socialism_party:0 "СС-Айнзатцкоммісійон Пройссен"
+ FSP_national_socialism_party_long:0 "СС-Айнзатцкоммісійон Пройссен"
+ FSP_ultranationalism_party:0 "СС-Айнзатцкоммісійон Пройссен"
+ FSP_ultranationalism_party_long:0 "СС-Айнзатцкоммісійон Пройссен"
+ HWL_Adolf_Eichmann:0 "Адольф Айхман"
+ POLITICS_Adolf_Eichmann_DESC:0 "Мертва голова прямуватиме далі. За чистоту. За єдність. За арійську расу. Незалежно від того, скільки крові для цього проллється.\n\nОтто-Адольф Айхман народився німцем, працював, як німець  боровся, як німець - і вбивав, як німець. Родом із Пруссії: та після того, Айхман піднявся по кар'єрних сходах гірничодобувного бізнесу його батька в Австрії, коли його виключили зі школи. Найближчою формою братерства Айхмана були воєнізовані формування правого штибу та парамілітарні спілки, про які говорили всі його друзі - а також мужні слова НСДАП, що грали на газетних заголовках. На думку юного Адольфа, Німеччині судилося стати величною, і пришла прикласти до цього руку йому - що він і робив, оскільки Айхмана звинувачували в безпосередньому нацьковуванні "псів війни”, жорстокій депортації та в геноциді проти тисячі євреїв. У безсиллі Союзників, які не могли його ніяк спинити, Айхман умивався в гебрейській крові, як великий умілець і творець найжахливішого душогубства євреїв, яке коли-небудь видів світ.\n\nТа роки втішливого кроволиття були суцільно затьмарені провалом здобутків Райху. Економічні прорахунки, військові невдачі в Росії й наближення німецького уряду до колапсу похитнули весь арійський дух, підштовхнувши Айхмана до присяги на вірність новоствореному Орденсштадту. Позаяк, якби Фатерлянд замінила йому меч на кайдани, то, можливо, Райхсфюрер-СС влаштував би Айхмана на місце, де він працював б найкраще, оскільки він став би новим обергрупенфюрером-СС над СС-Тотенкопффербенде, ведучи "Мертву голову" до кривавого, нового Остаточного розв’язання.\n\nВтім, усі успіхи та досягнення Айхмана танули на очах, оскільки весь Райх опинився в стані боротьби проти самого себе. На сході, Білявий Звір заводить згубницькі заклики безнадії та відчаю до колишнього господаря Айхмана, Райхсфюрера-СС. Звісно, Айхман ніколи б не піддався на бажання того, хто жадає покінчити зі світом, якби це, звісно, було правдою - проте на обрії вимальовується нова мета. Вироджені унтерменші оточують СС-Тотенкопффербенде в розірваних кайданах, і настав час знову поновити Ендльозон."
 
  ## Ministers ##
  
  ## Ideas ##
  
- FSP_no_regrets:0 "No Regrets"
- FSP_no_regrets_desc:0 "Ask, and Eichmann will characterize himself as a dedicated bureaucrat and loyal National Socialist. However, this is not the whole picture; he is also a cold-blooded, hateful ideologue, and encourages his men to follow suit."
+ FSP_no_regrets:0 "Ніякого співчуття"
+ FSP_no_regrets_desc:0 "Поцікавтеся, і Айхман визначить себе, як відданого бюрократа й вірного націонал-соціяліста. Однак, це не весь образ: також, він є незворушним ідеологом ворожнечі, і заохочує належних до нього людей наслідувати свій взірець."
  
- FSP_second_solution:0 "A Second Solution"
- FSP_second_solution_desc:0 "Eichmann's mission in Prussia is simple: to permanently excise all degeneracy. He has returned to his old methods of extermination and broadened their scope to include all who fail to live up to the ideals of the SS."
+ FSP_second_solution:0 "Інший вихід"
+ FSP_second_solution_desc:0 "Завдання Айхмана в Пруссії просте - назавжди викорінити будь-яку дегенерацію. Він повернув свої старі методи винищування й розширив межу їх застосування, доєднавши до неї всіх, хто не відповідає ідеалам СС."
  
  ## Decisions ##
  
@@ -26,5 +26,3 @@
  ## Focus Tree ##
  
  ## Events ##
-
- 
