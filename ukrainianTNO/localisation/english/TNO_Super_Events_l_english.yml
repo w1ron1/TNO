@@ -83,7 +83,7 @@ TNO_SE_ITALY_PF: "ВИБУХ НА ПЬЯЦЦА ФОНТАНА"
 
 SE_RUSSIAN_REUNIFICATION_SVERDLOVSK_BATOV: "ОБ'ЄДНАННЯ РОСІЇ"
 SE_RUSSIAN_REUNIFICATION_SVERDLOVSK_BATOV_D: "Одна хвилина може вирішити результат битви, одна година - результат кампанії, а один день - долю країни.\n- Алєксандр Суворов"
-SE_RUSSIAN_REUNIFICATION_SVERDLOVSK_BATOV_A: "Служити росії"
+SE_RUSSIAN_REUNIFICATION_SVERDLOVSK_BATOV_A: "Служити Росії"
 TNO_SE_RUSSIAN_REUNIFICATION_SVERDLOVSK_BATOV: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_WRRF_TUKHA: "ОБ'ЄДНАННЯ РОСІЇ"
@@ -132,7 +132,7 @@ SE_RUSSIAN_REUNIFICATION_SAMARA_ZYKOV_A: "З темряви - світло"
 TNO_SE_RUSSIAN_REUNIFICATION_SAMARA_ZYKOV: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_SAMARA_BUNYACHENKO: "ОБ'ЄДНАННЯ РОСІЇ"
-SE_RUSSIAN_REUNIFICATION_SAMARA_BUNYACHENKO_D: "Не випускайте з рук отриману зброю, боріться з ворогами народу. Вас чекають замучені народи росії. Звільніть їх!\n- Андрєй Власов"
+SE_RUSSIAN_REUNIFICATION_SAMARA_BUNYACHENKO_D: "Не випускайте з рук отриману зброю, боріться з ворогами народу. Вас чекають замучені народи Росії. Звільніть їх!\n- Андрєй Власов"
 SE_RUSSIAN_REUNIFICATION_SAMARA_BUNYACHENKO_A: "Кінець слабкості"
 TNO_SE_RUSSIAN_REUNIFICATION_SAMARA_BUNYA: "ОБ'ЄДНАННЯ РОСІЇ"
 
@@ -222,7 +222,7 @@ SE_RUSSIAN_REUNIFICATION_SVERDLOVSK_YELTSIN_A: "Кінець минулої ер
 
 SE_RUSSIAN_REUNIFICATION_TOMSK_HUMANIST: "ОБ'ЄДНАННЯ РОСІЇ"
 SE_RUSSIAN_REUNIFICATION_TOMSK_HUMANIST_D: "Війна принесла велике горе й зробила життя дуже, дуже важким. Немало горя, немало сліз. Але до війни було ще важче, бо тоді кожен був сам на сам зі своїм горем.\n- Дмітрій Шостаковіч"
-SE_RUSSIAN_REUNIFICATION_TOMSK_HUMANIST_A: "російська симфонія"
+SE_RUSSIAN_REUNIFICATION_TOMSK_HUMANIST_A: "Російська симфонія"
 TNO_SE_RUSSIAN_REUNIFICATION_TOMSK_HUMANISTS: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_TOMSK_BASTILLARDS: "ОБ'ЄДНАННЯ РОСІЇ"
@@ -236,7 +236,7 @@ SE_RUSSIAN_REUNIFICATION_TOMSK_MODERNISTS_A: "Крізь терня до зір"
 TNO_SE_RUSSIAN_REUNIFICATION_TOMSK_MODERNISTS: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_TOMSK_DECEMBRISTS: "ОБ'ЄДНАННЯ РОСІЇ"
-SE_RUSSIAN_REUNIFICATION_TOMSK_DECEMBRISTS_D: "Так, дивний, блискучий, неземний краєвид справді відкриваєш ти, о росія, країно моя!\n- Микола Гоголь"
+SE_RUSSIAN_REUNIFICATION_TOMSK_DECEMBRISTS_D: "Так, дивний, блискучий, неземний краєвид справді відкриваєш ти, о Росія, країно моя!\n- Микола Гоголь"
 SE_RUSSIAN_REUNIFICATION_TOMSK_DECEMBRISTS_A: "Мудрість і зростання"
 TNO_SE_RUSSIAN_REUNIFICATION_TOMSK_DECEMBRISTS: "ОБ'ЄДНАННЯ РОСІЇ"
 
@@ -276,7 +276,7 @@ SE_RUSSIAN_REUNIFICATION_BURYATIA_AUTHSOC_A: "Лєніне знову жив"
 TNO_SE_RUSSIAN_REUNIFICATION_BURYATIA_AUTHSOC: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_CHITA_STRATOCRATIC: "ОБ'ЄДНАННЯ РОСІЇ"
-SE_RUSSIAN_REUNIFICATION_CHITA_STRATOCRATIC_D: "У росії лише два союзники: армія і флот.\n- Алєксандр III"
+SE_RUSSIAN_REUNIFICATION_CHITA_STRATOCRATIC_D: "У Росії лише два союзники: армія і флот.\n- Алєксандр III"
 SE_RUSSIAN_REUNIFICATION_CHITA_STRATOCRATIC_A: "Боже, царя храни"
 TNO_SE_RUSSIAN_REUNIFICATION_CHITA_SHEPUNOV: "ОБ'ЄДНАННЯ РОСІЇ"
 
@@ -291,12 +291,12 @@ SE_RUSSIAN_REUNIFICATION_AMUR_A: "Більше ніяких дурниць"
 TNO_SE_RUSSIAN_REUNIFICATION_AMUR: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_MAGADAN_MATKOVSKY: "ОБ'ЄДНАННЯ РОСІЇ"
-SE_RUSSIAN_REUNIFICATION_MAGADAN_MATKOVSKY_D: "Влада приходить сама по собі до сильного. Ми приймемо нашу свободу і наші закони від російського патріота, який веде росію до спасіння.\n- Іван Ільїн"
+SE_RUSSIAN_REUNIFICATION_MAGADAN_MATKOVSKY_D: "Влада приходить сама по собі до сильного. Ми приймемо нашу свободу і наші закони від російського патріота, який веде Росію до спасіння.\n- Іван Ільїн"
 SE_RUSSIAN_REUNIFICATION_MAGADAN_MATKOVSKY_A: "Воля до влади"
 TNO_SE_RUSSIAN_REUNIFICATION_MAGADAN_MATKOVSKY: "ОБ'ЄДНАННЯ РОСІЇ"
 
 SE_RUSSIAN_REUNIFICATION_MAGADAN_PETLIN: "ОБ'ЄДНАННЯ РОСІЇ"
-SE_RUSSIAN_REUNIFICATION_MAGADAN_PETLIN_D: "У ці дні сумнівів, у ці дні болісних роздумів про долю моєї країни, ти одна - мій жезл і мій посох, о велика, могутня, правдива і вільна росія!\n- Іван Турґєнєв"
+SE_RUSSIAN_REUNIFICATION_MAGADAN_PETLIN_D: "У ці дні сумнівів, у ці дні болісних роздумів про долю моєї країни, ти одна - мій жезл і мій посох, о велика, могутня, правдива і вільна Росія!\n- Іван Турґєнєв"
 SE_RUSSIAN_REUNIFICATION_MAGADAN_PETLIN_A: "Земля свободи"
 TNO_SE_RUSSIAN_REUNIFICATION_MAGADAN_PETLIN: "ОБ'ЄДНАННЯ РОСІЇ"
 
