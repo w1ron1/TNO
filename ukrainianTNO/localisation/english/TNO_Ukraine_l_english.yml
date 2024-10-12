@@ -12,29 +12,29 @@
    # 5.1 - ГЕНЕРАЛИ
  # 6 - ФОКУСИ
    # 6.1 - ВСТУПНІ ФОКУСИ
-   # 6.2 - ДО-УЦВ ФОКУСИ
-   # 6.3 - УЦВ ФОКУСИ
-   # 6.4 - ПІСЛЯ-УЦВ ФОКУСИ
+   # 6.2 - ДО-УГВ ФОКУСИ
+   # 6.3 - УГВ ФОКУСИ
+   # 6.4 - ПІСЛЯ-УГВ ФОКУСИ
    # 6.5 - ФОКУСИ БРАУТІГАМА
    # 6.6 - ФОКУСИ ЛЕЙБРЯНДТА
    # 6.7 - ФОКУСИ ОЛЕНДОРФ
  # 7 - ІВЕНТИ
    # 7.1 - ВСТУПНІ ІВЕНТИ
    # 7.2 - БОМБІТЬ КОКХА ІВЕНТИ
-   # 7.3 - ДО-УЦВ ІВЕНТИ
-     # 7.3.0 - ПРЕ-УЦВ ІВЕНТИ ЯКІ НЕ ВКАЗАНІ В ІНШИХ ГРУППАХ
-     # 7.3.1 - ПРЕ-УЦВ ІВЕНТИ РК
-     # 7.3.2 - ПРЕ-УЦВ ІВЕНТИ РЕСПУБЛІКИ
-     # 7.3.3 - ПРЕ-УЦВ ІВЕНТИ УСРР
+   # 7.3 - ДО-УГВ ІВЕНТИ
+     # 7.3.0 - ПРЕ-УГВ ІВЕНТИ ЯКІ НЕ ВКАЗАНІ В ІНШИХ ГРУППАХ
+     # 7.3.1 - ПРЕ-УГВ ІВЕНТИ РК
+     # 7.3.2 - ПРЕ-УГВ ІВЕНТИ РЕСПУБЛІКИ
+     # 7.3.3 - ПРЕ-УГВ ІВЕНТИ УСРР
      # 7.3.4 - UKRAINIAN INSURGENT ARMY PRE-UCW EVENTS
      # 7.3.5 - UCW STARTUP/SETUP CHAIN
-   # 7.4 - УЦВ ІВЕНТИ
-     # 7.4.1 - РК УЦВ ІВЕНТИ
-     # 7.4.7 - УЦВ ГІРЬКІ ЖНИВА ІВЕНТИ
-     # 7.4.8 - УЦВ ЕВЕНТИ КАПІТУЛЯЦІЇ
-     # 7.4.9 - УЦВ АРКІ ПЕРСОНАЖІВ
-   # 7.5 - ПІСЛЯ-УЦВ ІВЕНТИ
-   # 7.5.1 - ПІСЛЯ-УЦВ ІВЕНТИ ПЕРСОНАЖІВ
+   # 7.4 - УГВ ІВЕНТИ
+     # 7.4.1 - РК УГВ ІВЕНТИ
+     # 7.4.7 - УГВ ГІРЬКІ ЖНИВА ІВЕНТИ
+     # 7.4.8 - УГВ ЕВЕНТИ КАПІТУЛЯЦІЇ
+     # 7.4.9 - УГВ АРКІ ПЕРСОНАЖІВ
+   # 7.5 - ПІСЛЯ-УГВ ІВЕНТИ
+   # 7.5.1 - ПІСЛЯ-УГВ ІВЕНТИ ПЕРСОНАЖІВ
    # 7.6 - УКРАЇНСЬКО-ПОЛЬСЬКІ ВІДНОСИНИ ІВЕНТИ
  # 8 - РІШЕННЯ
    # 8.1 - ДЕБАҐ РІШЕННЯ
@@ -187,7 +187,7 @@
  UKR_development_tax: "Одноразовий податок на розвиток"
  UKR_development_tax_desc: "Труднощі в Райху змусили адміністрацію шукати кошти буть де навіть. Шукати всередині країни. Спеціальний податок, що стягується з українців на програми розвитку, забезпечить фінансування необхідних робіт. Є впевненість, що його не запровадять знову. Абсолютна впевненість."
 
- # ПРЕ-УЦВ
+ # ПРЕ-УГВ
  UKR_paradise_aflame: "Палаючий рай"
  UKR_paradise_aflame_desc: "Україну обіцяли зробити раєм для арійського народу. Пишною землею, де не потрібно було б ворушити пальцем, щоб пожинати великі багатства, і де майбутнє Німеччини могло б бути побудоване під сонцем її синами. Скромний арійський чоловік, з мирним господарством для своєї сім'ї, вільний від усього бруду міського життя. Життя, яким воно мало бути.\n\nМрія палає перед нашими очима.\n\nРайхскомісар у коматозному стані. Уряд розколотий, сперечається сам з собою. Поліція перенапружена, намагаючись стримати хвилю бандитизму. Партизани сильніші, ніж будь-коли, вбачаючи в смерті Коха перший крок до падіння націонал-соціялізму. Люди кричать, плачуть і вмирають.\n\nТепер зрозуміло:\n\n§xУкраїна приречена.§!"
 
@@ -256,7 +256,7 @@
  UKR_supply_feed_people: "Нагодувати людей"
  UKR_supply_feed_people_desc: "Ми можемо мати потужну армію, яка панує на полі бою, так, але наша держава не може триматися лише на силі армії. Найважливішими є працьовиті люди за межами фронту. Їх підтримка ще ніколи не була такою важливою, як зараз. Війна ніколи не може бути виграна без підтримки народу, який її веде. Тому, як це не прикро для армії, але наш народ повинен отримати першочергове забезпечення, щоб він був щасливим і підтримував наш режим."
 
- # ГОЛОВНІ УЦВ НАЦ. ІДЕЇ
+ # ГОЛОВНІ УГВ НАЦ. ІДЕЇ
  UKR_UCW_supply_idea: "Гіркі жнива"
  UKR_UCW_supply_idea_desc: "§FСтабільність: [?UKR_UCW_supply_stability_factor|=+%]\nВійськова підтримка: [?UKR_UCW_supply_war_support_factor|=+%]\nЗростання ВВП: [?UKR_UCW_supply_gdp_growth_modifier|=+%]\nКоефіцієнт відновлення дивізій: [?UKR_UCW_supply_army_morale_factor|=+%]\nОрганізація дивізії: [?UKR_UCW_supply_army_org_regain|=+%]\nВідновлення організація дивізії: [?UKR_UCW_supply_army_org_factor|=+%]\nСільськогосподарські методи Щомісячна зміна: [?UKR_UCW_supply_agriculture_monthly_rate|=+]\nБідність щомісячна зміна: [?UKR_UCW_supply_poverty_monthly_rate|=+%]\nНаселення щомісяця: [?UKR_UCW_monthly_pop|=+%]§!\n§g--------------§!\nЗернові поля, що були житницею Райху, горять, а з ними і їжа, необхідна для підтримки нації. Якщо ми хочемо перемогти у цій війні і після неї правити нацією, а не трупами, ми повинні дбайливо розпоряджатися тими запасами, що залишилися."
 
@@ -396,7 +396,7 @@
  UKR_this_is_not_enough_desc: "Кожен убитий бандит, кожне більшовицьке щуряче гніздо, кожен фанатик УПА, кожен бюрократ-сентименталіст, призначений в нікуди, - все це буде даремно. Кох бачив правду такою, якою вона є. Просто занадто багато в адміністрації слабких - безвольних розенбергівців Ляйббрандта, що чіпляються за стару дурнувату мрію 20-річної давнини, глузливих есесівців Олендорфа, зрадницьких мастей Браутігама; всі вони не розуміють, що слов'янин - «українець», «росіянин» чи інший - розуміє лише насильство.\n\nАле їх не можна усунути в цей час. Кох побачив написане на стіні; він повинен отримати схвалення і підтримку від самого Райху, щоб відновити справжнє націонал-соціялістичне правління в Україні, інакше колонія скоро загине. На щастя, значна частина партії, не кажучи вже про самого Гітлера, поділяє такі погляди.\n\nВсе, що він повинен зробити - це поїхати туди..."
  UKR_a_visit_for_old_times_sake_desc: "Еріх Кох не завжди був головним представником Райху в Україні: до того, як він утихомирив цей дикий край, він був гауляйтером і оберпрезидентом Остпройссену - титули, які він зберігає і донині. Дійсно, Кох дуже любив відвідувати свої старі місця; в деякі роки він навіть проводив більше часу у своєму Гау, ніж у Райхскомісаріяті. А потім ці брудні слов'яни вторглися в Московію...\n\nСкільки років минуло відтоді, як він востаннє бачив Кенігсберг? Занадто багато! Третя фаза генерального плану «Ост» просувається просто чудово; його люди можуть впоратися з цим самостійно на деякий час. Звісно, дехто турбується про неприємності в Німеччині та тут, у Києві, але це не повинно викликати занепокоєння, і ми зможемо вирішити ці проблеми, коли він повернеться."
 
- ### 6.2 - ДО-УЦВ ФОКУСИ ###
+ ### 6.2 - ДО-УГВ ФОКУСИ ###
 
  UKR_the_melt_of_rot: "Плавлення гнилі"
  UKR_the_melt_of_rot_desc: "Райхскомісар Кох лежить у комі в Кієві, а на державу нападають - з усіх боків і з джерел, яких не злічити. Тубільці кричать у повстанні, їхні партизани нападають на наших солдатів і об'єкти, фракції всередині партії сваряться і саботують одна одну, а новини і постачання з Райху стають дедалі мізернішими.\n\nОчевидно, що розвиток гнилі, яка, за словами багатьох, вразила Україну, досягає своєї останньої фази. Необхідно вжити рішучих заходів у всіх сферах. Ми, і держава в цілому, повинні бути готові зробити все, пожертвувати всім, щоб вижити."
@@ -470,7 +470,7 @@
  UKR_high_time_steel: "Час загартовувати себе"
  UKR_high_time_steel_desc: "Завтра все закінчиться. Завершення боротьби Поліської гвардії - це останній бій, боротьба не на життя, а на смерть, яка може означати кінець для українського народу. Більше не залишилося ні планування, ні навіть організації. Операцію завершено. Зараз почнеться битва.\n\nНатомість ми загартовуємось. Ми оглядаємо нашу роботу і бачимо, що вона завершена. Ми бачимо наші армії, які спокійно стоять у міцному строю. Ми бачимо нашу зброю, складену так високо, як нам може знадобитися. Ми бачимо наших союзників, які стоять на нашому боці або принишкли з різними дияволами. Ми бачимо карти, які нам роздали, і можемо нарешті зрозуміти шанси на виживання.\n\nУ цю мить здається, що у нас з'явився шанс."
 
- ### 6.3 - ФОКУСИ УЦВ ##
+ ### 6.3 - ФОКУСИ УГВ ##
 
  UKR_the_depth_of_decay: "Глибина занепаду"
  UKR_regroup_our_forces: "Перегрупувати наші сили"
@@ -522,7 +522,7 @@
  UKR_silence_the_sentimentalists_desc: "Ми так багато зробили в Україні, будуючи чисту, націонал-соціялістичну батьківщину для тих, кому не знайшлося місця в Центрі. Здавалося б, після таких успіхів ми повинні були б викорінити сентименталізм і демонічні концепції співчуття до нелюдського ворога, які ми викорінюємо.\n\nАле ні! Схоже, що не всі поділяють наш план. Деякі слабаки схиляються перед маревними поняттями «моралі» (ніби існує якась інша мораль, окрім тієї, яку передав нам фюрер), або «перемоги над народом» (ніби є якась користь від перемоги над недолюдьми), та іншими подібними нісенітницями. Ми - націонал-соціялісти; дозволяти цим речам стримувати нас - вершина безглуздя.\n\nЦей факт буде дуже чітко доведений до голови цієї банди сентиментальних майже зрадників Ганса-Отто Браутігама. Ця людина ходить по тонкому льоду; решта членів Ради Безпеки не будуть терпіти його нескінченну маячню із засудженням нашої політики. Краще за все попередити його і дати йому останній шанс - зрештою, він все ще німець."
  UKR_corruption_desc: "Ми так багато зробили в Україні, будуючи чисту, націонал-соціялістичну батьківщину для тих, кому не знайшлося місця в Центрі. Можна було б подумати, що після таких успіхів ми зможемо викорінити сентименталізм і демонічні концепції симпатії до нелюдського ворога, якого ми викорінюємо.\n\nМожна було б подумати, що, незважаючи на те, що це не так, наших попереджень і заохочень до присяги на вірність команді фюрера і райхскомісара буде достатньо. Можна було б подумати - або, можливо, правильніше сказати, сподіватися, - що ми змусимо їх замовкнути і очистимо Україну від сміття націонал-соціялізму. Але ми марно сподівалися.\n\nНаціонал-соціялізм корумпується. Поширюються чутки про тиху незгоду з нашими методами ведення війни - гірше того, люди, яких посилають викрити їх, повертаються, сумніваючись у наших поглядах. Сентиментальні настрої, які, як ми думали, ми викорінили, поширюються, як ракова пухлина, по всій адміністрації.\n\nМи хворі.\n\nПеремога - єдині ліки.\n\nОна повинна прийти швидко."
 
- ### 6.4 - ПІСЛЯ-УЦВ ФОКУСИ ###
+ ### 6.4 - ПІСЛЯ-УГВ ФОКУСИ ###
 
  UKR_a_flag_above_ashes: "Прапор над попелищем"
  UKR_begin_hunting_the_partisans: "Почати полювання на партизанів"
@@ -678,7 +678,7 @@
  UKR_intro_chain.26.a: ""Ні, все! Забирайся звідси негайно!""
 
  ### 7.2 - КОҚ ПОЛУЧИВ СНАРЯДОМ У ПОТЯГ ###
- UKR_koch_bombing.1.t: "Назад у Прйссен"
+ UKR_koch_bombing.1.t: "Назад у Пройссен"
  UKR_koch_bombing.1.desc: "Еріх Кох, здавалося, вперше за дуже довгий час був щасливий.\n\nПерш за все, його секретарі були розгублені. Адже ситуація з партизанами не покращилася, а крім того, Олендорф, Ляйббрандт і Браутігам, як і раніше, боролися за владу. Втім, незабаром секретарі Коха зрозуміють причину його радості, коли він надішле їм повідомлення: найближчими днями він виїжджає до Остпройссену і проведе там кілька тижнів.\n\nПоки він несамовито пакував свої речі, на його обличчі не сходила посмішка. Останні 20 років Кох провів на цій жалюгідній посаді райхскомісара України, маючи справу як з місцевими жителями, так і зі своїми співвітчизниками-німцями. Всі вони, здавалося, були готові накинутися на нього і з'їсти живцем, як стерв'ятники, при найменшому прояві будь-якої слабкості. Однак тепер він міг повернутися до свого прийомного дому. Спогади про час, коли він був гауляйтером і оберпрезидентом Остпройссену, наповнювали його свідомість, коли він продовжував повертатися назад.\n\nКолись, ще до «Барбаросси», до того, як його призначили в цю глушину Райху, він був головним у регіоні і другим після самого фюрера. Він очистив свої володіння від бідності та безробіття, і Остпройссен стала маяком процвітання для всього Райху.\n\nЗакінчуючи пакувати речі, він подивився на свій стіл і про щось задумався. Можливо, ця його відпустка може стати нагодою? Можливо, райхскомісар зможе потягнути за якісь ниточки, щоб не лише піти у відставку, але й повернути собі старі титули у Остпройссену? Еріх посміхався дедалі ширше, молячись Богу, щоб задумане здійснилося."
  UKR_koch_bombing.1.a: "Зрештою, якщо Бог на його боці, що може піти не так?"
 
@@ -695,8 +695,8 @@
  UKR_koch_bombing.4.a: "Ще одна поразка."
 
 
- ### 7.3 - ПРЕ-УЦВ ІВЕНТИ ###
- ## 7.3.0 - ПРЕ-УЦВ ІВЕНТИ НЕ ПОЗНАЧЕНІ У ІНШИХ ВИПАДКАХ ##
+ ### 7.3 - ПРЕ-УГВ ІВЕНТИ ###
+ ## 7.3.0 - ПРЕ-УГВ ІВЕНТИ НЕ ПОЗНАЧЕНІ У ІНШИХ ВИПАДКАХ ##
  UKR_VanNordenIntro.1.t: "Батько"
  UKR_VanNordenIntro.1.desc: "З перших днів свого життя Пітер Ван Норден був вихований у вірі, що найчистіше життя - це бездумне життя, і що чисте життя - це все, що має значення. Він народився в Амстердамі всього за рік до війни, і його дитинство пройшло у світі радіопередач і консультантів Гітлерюгенду. Бліцкриг пропаганди проломив стіни його свідомості, і з кожним днем триматись за минуле ставало все важче і важче. Коли він приземлився в Московієну з гвинтівкою за плечима, він твердо обрав легкий шлях.\n\nАле засвоєння фашистських цінностей було дією, зробленою не лише з міркувань зручності, якою б бездумною вона не була. Вільне володіння Пітером Німецькою мовою, його звання у Вермахті, його зростаючий рахунок вбивств - все це надавало йому значення, з яким не могли зрівнятися його сім'я та друзі в Голландії. Люди з його оточення були невдахами, прикутими до трупа. Пітер був ідеальним арійським солдатом, який зробив свій внесок у створення Райху, що надовго переживе невдалу державу, яку він поглинув.\n\nВрешті-решт, служба Пітера закінчилася пострілом у плече, і йому запропонували розпочати нове завдання: заселення України. Це був новий ідеал, до якого варто було прагнути, і Пітер вхопився за цю можливість. Швидко він знайшов собі дружину в старій шкільній подрузі, і помчав до садиби під Кієвом, щоб почати все спочатку.\n\nТепер він знайшов свою нову рутину, оранку і збір врожаю, прокидаючись на світанку і лягаючи спати на заході сонця. Це далеко від його міського життя в Амстердамі, але Пітер робить це все одно. Можливо, якщо він зупиниться, то зрозуміє, як далеко відійшов від усього, що знав, яким самотнім і порожнім почувається на новій землі. Але він не зупиниться, бо бездумний порив - це шлях Райху, а Пітер Ван Норден - улюблений син Райху."
  UKR_VanNordenIntro.1.a: "Працювати і працювати вічно."
@@ -789,7 +789,7 @@
  UKR_BohdanIntro.9.desc: "Богдан занурив голову в струмок. Холодна вода щипала, але біль притупився. Він витягнув голову і побачив, як бруд і кров сповзають вниз за течією. Відчуття чистоти звільняло, але він все ще не міг позбутися занепокоєння, що в нього за спиною націлений пістолет. Він почав повертатися до дерева, де повісив сушитися пальто. Коли він почав витирати рукавом обличчя, птахи злетіли з дерев на галявині на звук гуркоту двигунів.\n\nВін згорбився, сподіваючись, що рідкісний навіс над ним і схил пагорба за струмком захистять його. Його рука поповзла до пістолета на поясі. Рев ставав дедалі гучнішим, важчим і лютішим. Між гілками на пагорбі Богдан побачив військову вантажівку, що скреготіла по дорозі, прикрашену похмурою геральдикою Райху. Одного цього видовища було достатньо, щоб він витягнув зброю і притиснувся до валуна. До какофонії механічного шуму приєднався стукіт його серця, і він кілька хвилин прислухався.\n\nВін ризикнув поглянути за скелю, дозволивши собі випростатися на повний зріст і побачити більше десятка вантажівок і броньовиків, що рухалися в дорозі. Він знав, що був ворогом суспільства, але, звичайно, вони ж не висилають стільки техніки проти втікача? Відповідь на це питання він отримав, коли вони проїхали повз нього так само, як і решту сільської місцевості. Він відступив за камінь, смертельний страх відступив перед розгубленістю. Він дозволив шуму стихнути, перш ніж вислизнути і попрямувати до пагорба. Він здригнувся, коли вийшов з укриття і опинився на виду дороги. За кілька сотень футів попереду була остання з найбільших колон Вермахту, яку він бачив за останні роки, і вона поспішно рухалася до горизонту. Він зітхнув з обережним полегшенням і сповз вниз. Відклавши пістолет, він помітив, що його руки тремтять.\n\nЄдине, що шокувало його більше, ніж цей момент, до якого він готувався роками, було те, що він не мав жодного уявлення про те, що робити."
  UKR_BohdanIntro.9.a: "Війна нарешті прийшла."
  
- ## 7.3.1 - ПРЕ-УЦВ ІВЕНТИ РКУ ##
+ ## 7.3.1 - ПРЕ-УГВ ІВЕНТИ РКУ ##
  UKR_pre_UCW_RK.0.t: "Поклик"
  UKR_pre_UCW_RK.0.desc: "Засідання Ради Безпеки завершилося, ще один день зіткнень. Слова «Ein Volk» ніколи не здавалися такими фальшивими - три лідери лише знаходили свої бачення і мрії один одного. Кожна сварка була дрібною перешкодою для амбіцій іншого.\n\nҐеорґ Ляйббрандт на самоті у своєму освітленому лампою кабінеті читав доповіді про своїх вихованців з Української Національної Ради. Вони страждали так само, як і він, спостерігаючи, як занепадає земля, яку вони так любили. На перший погляд, він мав бути найвпливовішим в Україні, але непокора переслідувала його на кожному кроці. Олендорфа і Браутігама треба було поставити на місце.\n\nОтто Олендорф закінчив складати черговий список рекомендацій - ще один набір ініціатив, які Ляйббрандт відхилив би або підірвав. Він був слабаком, що хапався за концепції, які він збирав докупи в рамках своєї гротескної фантазії про Німецькі землі. Що він зробив, щоб заслужити на те, щоб потрапити під вплив цього тупого розенберзського розуму? Ситуація мала змінитися.\n\nГанс-Отто Браутігам працював всю ніч. Він не міг дозволити собі перерву, коли його колеги вже укріпили свої позиції. Ляйббрандт обіцяв реформи, і він доставить їх у голій формі, а Олендорф обіцяв свій власний бренд реформ, але, що тривожно, він міг доставити їх в Україну в повному обсязі. Ці аборигени заслуговували на краще, на молоду людину з новими ідеями. Вони заслуговували на Браутігама.\n\nЗ висот, далеко над їхнім земним царством, Доля спостерігала за всіма ними, споглядаючи їхні видіння досить довго. Їхні плани здавалися такими крихітними і незначними у великому плані речей, але, можливо, одному з них варто було надати перевагу, лише одному.
  UKR_pre_UCW_RK.0.a: "Мрії Ляйббрандта стануть реальністю."
@@ -887,7 +887,7 @@
  UKR_pre_UCW_RK.22.desc: "«Проблеми, з якими стикається Україна, очевидні. Ми не знаємо, скільки їжі виробляють фермерські господарства. Ми не знаємо, скільки селян працює на цих фермах, і лише туманно можемо пояснити ці розбіжності зміною потреб між сезонами. Партизанський конфлікт розірвав відносини з радами і зробив багатьох українців під нашою опікою вразливими до підривної діяльності з боку різних груп».\n\nГеоргій Ліббрандт мав захоплену аудиторію серед різних бюрократів та учнів, які приїхали до Києва. Він був їхнім колективним батьком, у певному сенсі, і скелею, об яку могли лише безсило розбиватися хвилі навколишнього хаосу. Його оточення було сповнене спокійного, холодного збирання, даних, науки і раціональності в тому, що здавалося справжньою божевільнею суперечливих особистостей. Люди, які збиралися в цій задушливій залі засідань, були не стільки бюрократами, які керували колонією, скільки лакеями пророка, винагородженими за добрі справи милістю присутності їхнього улюбленого лідера.\n\n«Звісно, є дуже мало простих рішень цих проблем, як деякі наші... критики хотіли б, щоб наші керівники вважали. Нам потрібно підтримувати синергію з різними адміністративними гілками влади та українськими організаціями. Нам потрібно використовувати природні багатства України, не лише ґрунти, але й річки та лимани. Наша економіка повинна індустріалізуватися, щоб відповідати потребам європейської спільноти. Ми можемо реалізувати бачення фюрера лише за умови участі та відданості кожного адміністратора. Ми повинні уникати пісень сирен екстремізму або безнадійного нігілізму перед обличчям ірраціонального бунтарства»."
  UKR_pre_UCW_RK.22.a: "У потоках нісенітниць формулюється план..."
 
- ## 7.3.2 - ПОЛІСЬКА ГВАРДІЯ ПРЕ-УЦВ ІВЕНТИ ##
+ ## 7.3.2 - ПОЛІСЬКА ГВАРДІЯ ПРЕ-УГВ ІВЕНТИ ##
 
  UKR_pre_UCW_Republic.1.t: "Свобода, що просочується крізь тріщини"
  UKR_pre_UCW_Republic.1.desc: "Після вибуху бомби Коха керівництву УНРА знадобилося лише кілька неспокійних днів, щоб зібратися в невідомому місці в сільській місцевості на заході України. Зібравшись за великим столом у тьмяно освітленому наметі, чоловіки не були в присутності один одного одночасно майже десять років. В кінці столу стояв Горліс, готуючись оголосити те, що багато хто вважав відповіддю на бомбардування.\n\n«Бачиш його?» Командир, що сидів навпроти, прошепотів своєму співвітчизнику поруч: «Горліс не виглядав таким впевненим з часів Західно-Російської війни».\n«Шшш. Він говорить». Всі погляди прикуті до старого поліщука.\n\n«Хоча ми всі добре знаємо, - він урочисто зітхає, - і відчуваємо на собі дряхлість і гнилість, що гноїлися і розросталися в умовах окупації, події, що розгорнулися останнім часом, показали, що цей процес...», - в кімнаті з'являється посмішка або дві, - «просунувся далі, ніж очікувалося». Поведінка Горліса покращується.\n\n«Цей вибух дає нам можливість, подібної до якої ми не мали з 56-го року». Озираючись навколо, він бачить надію в очах своїх підлеглих і відчуває гордість, якої не відчував з часів первісної республіки. «Наближається повстання, і, судячи з тієї інформації, яку я можу отримати з Німеччини, це буде скоріше рано, ніж пізно. Цього разу нас не застануть зненацька».\n\n«Ми розпочнемо прискорену кампанію вербування, накопичення запасів і встановлення контактів з нашими осередками по всій Україні. З можливостями, які відкриває майбутнє, - Горліс спирається на стіл, - ми зможемо нарешті звільнити наш народ від будь-якого гніту - комуністичного, бандерівського чи нацистського!»\n\nПо всьому лісу лунають аплодисменти."
@@ -977,8 +977,8 @@
  UKR_pre_UCW_Republic.22.t: "Крик свободи"
  UKR_pre_UCW_Republic.22.desc: "Повідомлення було надіслано на кожну фабрику, плантацію та кожну іншу в'язницю, в стінах якої працювали українці. Кращого моменту не було б: кожне з цих місць мало низький пріоритет для окупантів, які були перекинуті на гасіння пожеж по всьому Райхскомісаріяту. Для Марко настав час розпалити власну пожежу.\n\nЩодня він працював під пильним поглядом свого наглядача - жалюгідного підлабузника, який задовольнявся тим, що цілував перстень будь-кого, хто стояв вище нього. Для тих, хто стояв нижче, він був стереотипним фашистом, який не давав поблажок, щедро використовуючи своїх головорізів, щоб змусити замовкнути інакомислення, яким би незначним воно не було. Це інакомислення більше не можна було замовчувати.\n\nМарко рано прийшов на роботу, дивлячись на свого наглядача, який кричав по телефону, щоб він викликав більше людей, поки йшов до своєї дільниці. Паровий свисток сигналізував про початок страйку, замість того, щоб сповіщати про ще більше вкраденої робочої сили. Стукіт молотків, що починався як розрізнені звуки, повільно перетворився в один безперервний удар, коли єдиний голос вигукнув:\n\n«Смерть фашизму, свободу народу!»\n\nНаглядач спробував покликати на допомогу, але ніхто не відповів, окрім Марко і п'ятьох інших, що підійшли до нього з молотками. Повернувшись до свого кабінету, він намагався знайти щось, що могло б переконати їх пощадити його. Ніщо не врятувало б його, навіть якщо б він провів цілу вічність, вигадуючи ідеальну комбінацію слів, яка могла б виправдати самого Юду.\n\nСкло в кабінеті розбилося на підлогу, коли чоловіки увійшли до кабінету. Він спробував закричати і жалібно благати, перш ніж його вжалило гострим болем у грудях, коли його зір затьмарився, зникаючи, як прелюдія до незавершеної революції 1917 року."
  UKR_pre_UCW_Republic.22.a: "Сцена повторювалася сотню разів по всій Україні."
-
- ## 7.3.3 - УССР ПРЕ-УЦВ ІВЕНТИ ##
+ 
+ ## 7.3.3 - УССР ПРЕ-УГВ ІВЕНТИ ##
  UKR_pre_UCW_UA_SSR.1.t: "Червоні скрипачі"
  UKR_pre_UCW_UA_SSR.1.desc: "Залишатися в Будинку профспілок після полудня для чоловіка було майже самогубством, а в Донецьку це було особливо небезпечно в будь-який час після сходу сонця. Але Василь був тут, грав на скрипці так, ніби це була велика національна опера. Грати на виїзді в маленькій квартирі було неймовірно ризиковано, Василь знав це, і його друзі, які були з ним, знали це особливо добре. Граючи повільну версію "Танцю лицарів", Василь думав про свого вчителя, про ті часи, коли світ мав якусь подобу сенсу. Було божевіллям, що світу практично настав кінець, і все, що Василь міг зробити, - це вижити, але такі моменти заспокоювали його, принаймні, робили спокійнішим. Поглянувши на тих, хто його оточував, можна було побачити, що вони не були такими спокійними, аура за межами музики чітко давала зрозуміти, що в будь-яку мить на них може налетіти німецький наліт.\n\nВасиль доспівав майже половину своєї пісні, і всі це відчули. Змінився настрій, змінилися емоції. На вулиці не було ніякого руху. Гомін за вікнами квартири затих тривожно швидко, наче ось-ось мав настати кінець світу, і в якомусь сенсі так воно і було. Кроки в коридорі не зменшилися, навіть навпаки, вони стали менш метушливими і важчими. Якби не скрипка і не гостріння ножів німців, можна було б почути, як падає шпилька.\n\nВасиль перевів подих. Його друзі дістали з-під пальт чи валіз пістолети й автомати і направили їх на закриті жалюзі чи замкнені двері. Майже неусвідомлено Василь продовжував грати, і все ж його охопило дивне відчуття. Він не зможе доспівати свою пісню. Він напружувався, налаштовувався, але не міг позбутися цього відчуття. Він сумнівався, чи варто взагалі закінчувати пісню, але знав, що мусить. Тож він замислився. Може, зіграти її коротше, свою версію, взяти крещендо по-своєму? Він роздумував над цим."
  UKR_pre_UCW_UA_SSR.1.a: "Крещендо."
@@ -1247,10 +1247,10 @@
  UKR_pre_UCW_UPA.37.desc: "The gathering may have seemed from the outside like it was any other. Shuckhevych did not portray it as anything else, as was the intention. He could tell that the people who had gathered weren't fully sure why they were here.\n\nHe wondered if he should feel some doubts, hesitations, or fears. He felt none of those. There came times to make choices, and he had been accepting of how things were for too long. He had been passive. He had been servile in the name of an ideal that was revealed to be an illusion. No longer. There would be no hesitation about what must be done.\n\nBut he couldn't do it alone.\n\nKuk. Horbovyi, Pozychanyuk, Voloshyn, all of these men were ones he could trust with his life. He was doing so once again by placing it into their hands. If he was wrong, then so be it. If he was right, then there was still hope for Ukraine. He waited only a little longer, and began speaking.\n\n"Klyachkivsky has failed us," he said flatly, gauging the reactions. A few widened eyes, and stiffened spines - but none of them seemed surprised. "He has failed the UPA. He has failed to embody Bandera's vision. He has failed Ukraine, and will bring it to ruin if he remains in power. I will not allow him to ruin all we have worked towards."\n\nHe exhaled, his voice steel. "I intend to deal with Klyachkivsky at the earliest opportunity and I will not succeed without your support. That is what I ask from you tonight. You are good men - and I will need such men for what is to come. What say you?"\n\nThere was a brief pause - but he did not have to wait long for an answer. Pozychanyuk glanced between the gathered men, nodded, and turned to face Shukhevych, his eyes resolved, and his voice firm."
  UKR_pre_UCW_UPA.37.a: ""We are with you, Shukhevych. To the end.""
 
- ## 7.3.8 - ЛАНЦЮГ ПОЧАТКУ УЦВ ##
- UKR_UCW_startup.1.t: "Convocation Denied"
- UKR_UCW_startup.1.desc: "The solution was simple, obvious, evident - and yet clearly a decision would not be made. No response was coming. Georg Leibbrandt simply could not believe it. Could not believe the stupidity that such inaction implied.\n\nUkraine was disintegrating. It was obvious to any intelligent observer, untrained or not, and the implications of that disintegration, should it be allowed to occur, were staggering. Economically, militarily and, most importantly in Leibbrandt's eyes, ideologically. Ukraine was a proof of concept - it could not be allowed to fall.\n\nYet that is precisely what he saw was about to happen. He had sent his missive to Germania, carefully worded and well-supported by exhaustive empirical evidence, as to why he should, without delay, be appointed Reichskommissar. In order to, of course, stave off the coming darkness.\n\nNo reply had been forthcoming.\n\nWhat had been forthcoming had been reports from all over Ukraine of bandit uprisings and the wholesale slaughter of settler communities. Of disappearing equipment, deserting auxiliaries, and demoralized garrison forces. Of disorder. Of impending systemic collapse. Things were getting much worse much more quickly than anyone else but he could see, and he had to act to correct it before the experiment of Ukraine failed entirely.\n\nHe sent the message again. There was no answer."
- UKR_UCW_startup.1.a: "What shall come of this?"
+ ## 7.3.8 - ЛАНЦЮГ ПОЧАТКУ УГВ ##
+ UKR_UCW_startup.1.t: "Відмова у скликанні"
+ UKR_UCW_startup.1.desc: "Рішення було простим, очевидним - і все ж очевидно, що рішення не буде прийнято. Жодної відповіді не надходило. Ґеорґ Ляйббрандт просто не міг у це повірити. Не міг повірити в тупість, яку означала така бездіяльність.\n\nУкраїна розпадалася. Це було очевидно для будь-якого розумного спостерігача, підготовленого чи ні, і наслідки цієї дезінтеграції, якщо дозволити їй відбутися, були приголомшливими. Економічні, військові і, що найважливіше в очах Ляйббрандта, ідеологічні. Україна була доказом концепції Арійського раю - її не можна було допустити до розпаду.\n\nАле саме це, як він бачив, мало статися. Він надіслав до Німеччини своє послання, ретельно сформульоване і підкріплене вичерпними емпіричними доказами, чому його слід негайно призначити райхскомісаром. Щоб, звичайно ж, відвернути темряву, що насувається.\n\nВідповіді не було.\n\nНатомість з усієї України надходили повідомлення про бандитські повстання та масове винищення поселенських громад. Про зникнення техніки, дезертирство допоміжних підрозділів та деморалізацію гарнізонів. Про безлад. Неминучого системного колапсу. Ситуація погіршувалася набагато швидше, ніж будь-хто очікував, але він це бачив, і він повинен був діяти, щоб виправити це, перш ніж експеримент з Україною повністю провалиться.\n\nВін відправив повідомлення ще раз. Відповіді не було."
+ UKR_UCW_startup.1.a: "Що через це буде?"
 
  UKR_UCW_startup.2.t: "Donbass Blitz"
  UKR_UCW_startup.2.desc: "At first, the administrators in Kiew thought it a temporary communications outage. Infrastructure as a whole across Ukraine was deplorable, and telephone lines were always cut by the partisans and then replaced in turn.\n\nThen the first motorcycle rider, frantic with energy, reached the city.\n\nHe spoke of a general uprising, far larger than any possible bandit attack, that was overwhelming the entire Donbass. That had already overtaken the regional headquarters in Vossenitz. He said he had only just escaped. He was at first discounted - such was patently impossible, of course. The bandits did not have the organization or the numbers to accomplish such a feat.\n\nBut then other reports arrived of massive revolts, attacks, and ambushes elsewhere in Ukraine. Of entire units being overrun - or simply never reporting at all. No inquiries to Vossenitz were returned. No messengers returned either. Some attempts were made to control this knowledge, but such was simply impossible, and so the panic spread.\n\nAll in the administration knew what the bandits would do to them, knew they had to get out, and efforts at response were thus further weakened by internal dysfunction. The storm was coming, it was clear, and as the picture became more dire, pleas for assistance traveled westward."
@@ -1345,8 +1345,8 @@
  UKR_post_koch_chaos.9.desc: "The state's counteroffensive has been successful. Mostly, inasmuch as the core of the state can be considered stabilized and we are in no danger of imminent collapse.\n\nBut we are far from victorious. Far from forgiven.\n\nLarge swaths of the countryside, and more than a few urban areas, cannot be considered to be under state control, and the war against the bandits is in no way close to completion. Violence is sure to increase, even past the heights to which it has already ascended, and despite the necessity of reprisals, such actions are sure to swell the bandits' ranks.\n\nBeyond such considerations also lies, of course, Germania. Terse communications have indicated that the Heimat is giving the state space and time, but this is not unlimited - and the grain quota must still be fulfilled. It will be. Continued support demands it.\n\nThe fight will continue, and though our victory will likely be one over a much reduced country, one of severe devastation and destruction - the bandits will ensure it - it will be a victory. The state, and its lands, can be rebuilt.\n\nAfter all, we have done it before."
  UKR_post_koch_chaos.9.a: "Twice, in fact."
 
- ## 7.4 - УЦВ ІВЕНТИ ##
- # DESIGN PENDING
+ ## 7.4 - УГВ ІВЕНТИ ##
+ # РОЗРОБКА ОЧІКУЄТЬСЯ
  UKR_UCW_RK.1.t: "Shotgun Solidarity"
  UKR_UCW_RK.1.desc: "The conference rooms of the RK in Kyiv had been nothing better than dens of intrigue for years. These were not the rooms in which great decisions were made, empires made and lost - these were smoke-filled backrooms, where government officials greased their way to power through corruption and petty plotting.\n\nNow, though, with the enemy at the gates, the smoke had dispersed like clouds in sunlight. Leibbrandt, Bräutigam and Ohlendorf sat together, pale as ghosts, where they once would have been whispering away to their associates in some dim corner of the room. Across from them sat a bevy of generals, Weinmann chief among them - not here, for once, to beg for rations or call in some dirty favor from the party men. One could almost imagine Metternich and Napoleon sitting in this room, deciding the future of a continent.\n\n"How much of the country is under our control?" asked Leibbrandt, beginning proceedings. His voice had an unusually thick edge to it, like he was trying to choke down food while speaking.\n\n"Most of the east and the Donets basin is controlled by the communists," Weinmann replied. "The west is split between the Polissian Guard and the Banderites. The Dnieper, for the moment, remains under our control. But we need to decide on a plan of action. The partisans can be counted on to fight each other, yes, but they will undoubtedly annihilate us if given the opportunity."\n\n"We must have a full mobilization," Ohlendorf interjected. "This situation demands all of our efforts. This is not just some local disturbance - this is a fully fledged rebellion."\n\nOnce upon a time, Bräutigam and Leibbrandt might have argued, for no better reason than not to let their rival have his way. Now, though, with their lips drawn tight, they merely nodded."
  UKR_UCW_RK.1.a: "There can be no squabbling, not anymore."
@@ -1367,10 +1367,10 @@
  UKR_UCW_RK.5.desc: "Since his return to Ukraine, Otto Ohlendorf rarely managed to get back to Germany. The work of suppressing the subhuman was endless and taxing, especially when having to deal with the broken pluralism of the Security Council. Though his prussian sense of duty would never allow for a proper vacation, a visit with the Gauleiter in Gotenland was welcome, and so Ohlendorf eagerly accepted the task.\n\nUnfortunately for Ohlendorf, this cordial talk had soon turned into little more than another inspection. Maierhofer, desperate to return confidence to his region, wasted no time in showing Ohlendorf all kinds of preparations. To some extent, such "pleasantries" were a part of diplomacy. But when Germany's fate was on the line, Ohlendorf hardly had patience.\n\nThings became worse once Ohlendorf began taking the inspection seriously. The military was split between several different commands, leaving soldiers on the ground confused. The lines of fortifications would crumble once a single weak point was found. Maierhofer, unwilling to commit to Ukraine, was going to waste his last resources on trifles.\n\nAs the truck carrying the Gauleiter and Ohlendorf pulled into the NSDAP Taurien headquarters, Ohlendorf felt he had to voice what this tour had truly made him think. "I will be blunt with you, Herr Maierhofer, because I have to be. All of these preparations are just bluster in the long run - they can only survive as long as our administration remains in control. Your gau cannot survive an onslaught from the Ukrainians. All these men and guns would be better spent on the front lines.""
  UKR_UCW_RK.5.a: "Hopefully harsh words will make him see the light."
 
- UKR_UCW_RK.6.t: "Reichskommissariat Ukraine Requests Aid" #event for Gotenland only
+ UKR_UCW_RK.6.t: "Райхскомісаріят Україна просить допомогу" #івент для Ґотенлянда
  UKR_UCW_RK.6.desc: ""
- UKR_UCW_RK.6.a: "accept"
- UKR_UCW_RK.6.b: "deny"
+ UKR_UCW_RK.6.a: "Надати"
+ UKR_UCW_RK.6.b: "Відхилити"
 
  UKR_UCW_RK.60.t: "Gotenland Supports Us"
  UKR_UCW_RK.60.desc: "Ohlendorf's driver began crossing the Dnieper. The police chief stared over the note he had managed to secure from Herr Maierhofer, considering how he might use his new gains. The final agreement was long and a little tedious - Gotenland was, unsurprisingly, anxious about every detail - leaving a surprisingly thick stack of pages to examine.\n\nDespite all the detail, the core was summarized in the first line: "For the purpose of securing the territory of the Reich, the Gau of Gotenland will provide a shipment of supplies, primarily military in nature, to be utilized by the Reichskommissariat Ukraine and its Wehrmacht forces as they see fit."\n\nAnd then, it continued into an itemized list of charges: money, some guns, minor support across the board. It wasn't truly what Ohlendorf had come here for - if he had his way, Gotenland would be sending its entire army rather than trying its own separate defense. Yet the conversations with Maierhofer made it clear they weren't willing to go further. These gifts would be about as much as Ukraine could hope for."
@@ -1380,7 +1380,7 @@
  UKR_UCW_RK.61.desc: "Ohlendorf's driver began crossing the Dnieper. The police chief fumed to himself privately, facing towards the window so that his driver could not see his frustration. This visit had ended as a humiliation, and with hours left on the cautious ride back to Kiew, Ohlendorf had a long while to let that feeling simmer.\n\nNo agreement in his hands. No deal.\n\nIt was ridiculous. Ohlendorf did not think of himself as quick to anger, but to leave without even a gun from the Gotenland government made it clear that they had no respect for their past, let alone any aptitude for planning. Gotenland was ultimately an appendage of the Ukrainian project, one designed and enforced by RKU planners. Now, that Crimean set was willing to bet everything on their own defense, before their forces had even seen combat. They were letting Ukraine die, and all it would buy them is a few more days if the Reichskommissariat fell."
  UKR_UCW_RK.61.a: "Pathetic."
 
- UKR_UCW_RK.7.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Болгарії
+ UKR_UCW_RK.7.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Болгарії
  UKR_UCW_RK.7.desc: ""
  UKR_UCW_RK.7.a: ""
  UKR_UCW_RK.7.b: ""
@@ -1401,31 +1401,31 @@
  UKR_UCW_RK.8.desc: ""Dear [TUR.GetLeader]\n\nI write to you today not as a representative of the Reich but as a man who values stability in these often uncertain times. Our domain suffers widespread chaos apparent to even the blindest observer. We are desperate for support to quell terrorist uprisings. That is why I am writing this letter, as our Reichskommissariat teeters over the edge.\n\nWe require munitions and armaments if we are to calm this region. I understand relations between our countries have decayed, but the consequences of our collapse will have a vast impact on the natural order that has been established. Ankara will not be safe from the danger of communists buying top-of-the-line German weaponry to wreak havoc on the stability that Atatürk fought for.\n\nI understand the apprehension in helping our government. I wish to reform it, but I will be unable to do so if we lose control. If our grip was loosened, Ukraine could even fall into the hands of communists, desperate to fund any potential allies, perhaps even those unruly Armenians and Kurds within your lands.\n\nI eagerly await your response.\n\nYours sincerely,\nHans-Otto Bräutigam, representative of the Foreign Office""
  UKR_UCW_RK.8.a: "Bräutigam sighed as he sealed the envelope, unsure of any help to come."
 
- UKR_UCW_RK.81.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Туреччині (CHP ITW перемогла)
+ UKR_UCW_RK.81.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Туреччині (CHP ITW перемогла)
  UKR_UCW_RK.81.desc: ""
  UKR_UCW_RK.81.a: ""
 
- UKR_UCW_RK.82.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Туреччині (CHP ITW програла)
+ UKR_UCW_RK.82.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Туреччині (CHP ITW програла)
  UKR_UCW_RK.82.desc: ""
  UKR_UCW_RK.82.a: ""
 
- UKR_UCW_RK.83.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Туреччині (DYP)
+ UKR_UCW_RK.83.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Туреччині (DYP)
  UKR_UCW_RK.83.desc: ""
  UKR_UCW_RK.83.a: ""
 
- UKR_UCW_RK.84.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Туреччині (UDP)
+ UKR_UCW_RK.84.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Туреччині (UDP)
  UKR_UCW_RK.84.desc: ""
  UKR_UCW_RK.84.a: ""
 
- UKR_UCW_RK.85.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Туреччині (Військова хунта)
+ UKR_UCW_RK.85.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Туреччині (Військова хунта)
  UKR_UCW_RK.85.desc: ""
  UKR_UCW_RK.85.a: ""
 
- UKR_UCW_RK.9.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Румунії
+ UKR_UCW_RK.9.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Румунії
  UKR_UCW_RK.9.desc: ""
  UKR_UCW_RK.9.a: ""
 
- UKR_UCW_RK.10.t: "Reichskommissariat Ukraine Requests Aid" #Івент бачний тільки Італії
+ UKR_UCW_RK.10.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Італії
  UKR_UCW_RK.10.desc: ""
  UKR_UCW_RK.10.a: ""
 
@@ -1481,7 +1481,7 @@
  UKR_UCW_RK.23.desc: "As the Security Council convened, more than one of its members held a private wager with another on whether anything would actually get done.\n\nThere was hope for collective action, of course, for progress on reconstruction and the establishment of stability. The administration had demanded it, and so the attempt would be made. But this was Ukraine, and all knew very well what that meant.\n\nThe meeting began, agendas were set, and the first roadblocks were hit. All agreed that the Council offered the best venue for unity, and indeed slow progress was made on the articles desired, but then questions were raised about how the forum would work - and so began, identified by those members with long experience in Ukrainian dysfunction - the undoing.\n\nOne member raised the question of authority. Was the Council's mandate absolute, or was there some other power? This resulted in two opposing proclamations by other members, who were soon supported by factions around them. Arguments subsequently grew, and before long the 'debate' occupied all remaining time, with nothing of note being accomplished.\n\nAs they left, those with wagers either rejoiced in profit or suffered in loss, their fears being well-founded. They would of course try again. But then the wagers would be larger."
  UKR_UCW_RK.23.a: "Is there any hope?"
 
- # 7.4.7 УЦВ Гіркі жнива
+ # 7.4.7 УГВ Гіркі жнива
 
  UKR_UCW_bitter_harvest.1.t: "Cause for Concern"
  UKR_UCW_bitter_harvest.1.desc: "CLASSIFIED - REPORT BEGINS\n\nReport: 348867-A5\n\nConcerning: Significant Reduction in Available Foodstocks\n\nInventory levels of processed foodstuffs (as well as constituent components) in state warehouses and storage facilities have fallen significantly from initial levels, and both current and projected replenishment rates are to be considered wholly insufficient to offset this decline.\n\nCurrent rationing procedures are sufficient for the maintenance of basic dietary needs among the general population (both military and civilian), but this cannot be expected to remain the case for much longer. Decisions regarding alternative sources of foodstuffs, and/or more severe rationing procedures are required, with haste.\n\nSecurity regarding the food situation has been maintained for the moment, with only needed parties informed as to the situation, however additional resources are requested in order to maintain informational control.\n\nREPORT ENDS"
@@ -1503,7 +1503,7 @@
  UKR_UCW_bitter_harvest.5.desc: "CLASSIFIED - REPORT BEGINS\n\nReport: 618673-D9\n\nConcerning: Increase in Available Foodstock Levels\n\nInventory levels of subsistence foodstuffs (of normal and reduced nutrition levels) have increased considerably over the recent period. These supplies have been effectively transported to central locations and distributed to identified groupings with considerable efficiency. Early reports indicate a reduction in near-famine conditions as a result in addition to a general improvement in the near-critical security situation.\n\nThis development is promising, but food security is nowhere close to being assured. Careful and focused attention will be required from the state both to preserve the current improvement and further build upon it. Security forces stand ready to assist.\n\nREPORT ENDS"
  UKR_UCW_bitter_harvest.5.a: "A small step. But a step."
 
- # 7.4.8 УЦВ капітуляції
+ # 7.4.8 УГВ капітуляції
  
  # РКУ
  UKR_UCW_capitulation.1.t: "The Dishonor of Silence" # УНРА
@@ -1555,7 +1555,7 @@
  UKR_UCW_capitulation.12.desc: "Little Andriy remembered his walks in the meadows of Lutsk in the autumn, and the pleasant sounds of the dried leaves crunching beneath his feet. He reminisced about the smell of the brisk, chilly air, and to be greeted by a warm cup of tea from mama back home.\n\nToday, however, was not the same. The Vozhd had come and gone, but the fires had not. Andriy recalled the scent of freshly baked bread, fried lard and tea in the city centre, but those once fresh smells had subsided, with the smell of burnt wood and rotting flesh left in its wake. Green-clad men with star-emblazoned caps marched the grey-uniformed, self-described "rebels" down unpaved roads where an unsettling, indescribable stench wafted from the end. Occasionally, other men in green would throw things at them. Horse excrement? Bags of urine? Vomit? Only God knew. Where were those men going? What was causing that foul scent? Andriy didn't want to know—he had tried to relate the scent to something else, but it was truly unlike anything he had known. The smell and the screams kept him far away.\n\nAndriy once more recalled the crackling of his home's cosy, warm fireplace, though the crackles and pops in the streets weren't only of burning wood. The books and pamphlets the "rebels" in grey left at each door withered and shrivelled in the flames, along with those once-omnipresent posters of that bald man—Pantera, was it? Andriy had already forgotten. And that statue installed in the town square of Klyachiki or whatever his name was, now beheaded, and a red flag - though without that black stripe, hung from its shoulders."
  UKR_UCW_capitulation.12.a: "Soon Stepan's name would die from the hearts of the Ukrainians, too."
 
- ## 7.4.9 - УЦВ арки персонажів ##
+ ## 7.4.9 - УГВ арки персонажів ##
  UKR_UCW_characters.1.t: "Around a Dim Fire" # 1 івент Богдана
  UKR_UCW_characters.1.desc: "Bohdan Antonenko huddled around a small fire, deep within the woods. The remains of small game he'd caught nearby, his meal for the night. His concern was not on food, but instead what to do next. For now he hid, as Ukraine collapsed into violence; stories and rumors of what was happening swirled in his mind.\n\nHe heard of Ukrainians who'd risen up, and had taken over half of the country; he'd heard of partisans who'd supposedly assassinated swaths of the Reichskommissariat apparatus; he'd even heard that more soldiers of the former Ukrainian Socialist Republic had emerged.\n\nHe suspected most were exaggerated or untrue. The Germans would never let Ukraine fall so easily, not even if the wildest rumors were true. Yet there was no doubt that the hold the Germans had held was broken.\n\nBohdan watched the fading fire, struggling with what to do. His conscience told him to try and find his comrades among the communists. After what he'd done, they'd welcome him back as a hero. If he returned, he wouldn't be an aimless partisan, but have something to higher to believe in.\n\nIt seemed obvious at first, yet he hesitated as the fire dimmed, and another cold Ukrainian night began.\n\nThings were no longer the same since he had almost killed Koch. He wasn't special, or a hero, and didn't even know how he'd find them again since being cut off. He also knew that he didn't fight now for state or socialism. His mission, once so clear, was now anything but. Socialist, partisan, freedom fighter, none of those seemed right anymore.\n\nHe knew he could not stay idle, but the fire that had burned in him had dimmed; no cause fulfilled him as it once had. For now, he decided, he could only keep going."
  UKR_UCW_characters.1.a: "Maybe everything would become clearer in time."
@@ -1604,10 +1604,10 @@
  UKR_UCW_characters.12.desc: ""I will watch them all die again, tomorrow."\n\nDanylo found himself writing at a speed he had not managed in years. It was Halyna's idea - take a chair out to the fields, find a change of scenery from their increasingly decrepit above. It sounded ludicrous to him - nothing seemed more mundane than the freshly harvested field, an empty expanse that spread in every direction.\n\nYet it was capturing something for him. Here he could see nothing, and yet everything - his home, his fields, and even in the far distance his town. Thinking further, it struck Danylo as a great metaphor - was this not what Ukraine had become? A great field, harvested into oblivion?\n\nHe stopped himself. This field was not destroyed - certainly, years of German demands left it overharvested, hobbled by its status as a monoculture and the constant need for ramping production. Yet this land was arable still. Next year, should Danylo and Halyna last another year, they would grow another harvest, and see a field of grain once more.\n\nPerhaps a more optimistic metaphor for Ukraine, yes, but fatalistic at its core. This field was built for harvesting. Danylo had to pray that Ukraine was not the same.\n\n"As I have done, as I will do, as always seems to come.""
  UKR_UCW_characters.12.a: ""Is that all I am good for?""
 
- ## 7.5 - ПОСТ-УЦВ ІВЕНТИ ##
+ ## 7.5 - ПОСТ-УГВ ІВЕНТИ ##
  # РОЗРОБКА ОЧІКУЄТЬСЯ
  
- ## 7.5.1 ПОСТ-УЦВ ІВЕНТИ ПЕРСОНАЖІВ
+ ## 7.5.1 ПОСТ-УГВ ІВЕНТИ ПЕРСОНАЖІВ
  
  # РКУ
  UKR_post_UCW_characters.1.t: "Damned If You Do, Damned If You Don't"
@@ -1921,7 +1921,7 @@
  UKR_pre_UCW_tree_RK: "Завантажити §YДрево РК§!"
  
  UKR_ucw_debug: "§xДЕБАҐ ЦИВІЛЬНОЇ ВІЙНИ§!"
- UKR_UCW_tree_debug: "Завантажити §YДрево РК УЦВ§!"
+ UKR_UCW_tree_debug: "Завантажити §YДрево РК УГВ§!"
  
  UKR_destiny_debug: "Включити механіку §CДолі§!"
  
@@ -2261,7 +2261,7 @@
  UKR_BB_full_control_2: "[UKR_BB_SLOT_2_PIE_C]Повний контроль§!"
  UKR_BB_full_control_3: "[UKR_BB_SLOT_3_PIE_C]Повний контроль§!"
 
- # ПРЕ УЦВ
+ # ПРЕ УГВ
  UKR_BB_nazis: "РКУ - СС та Поліція"
  UKR_BB_u_ssr: "Українська Червона Армія"
  UKR_BB_pg: "Українська Національна Революційна Армія"
@@ -2272,7 +2272,7 @@
  UKR_BB_upra_south: "УПРА - Південь"
  UKR_BB_upra_east: "УПРА - Схід"
 
- # ПРЕ УЦВ
+ # ПРЕ УГВ
  UKR_BB_nazis_clr: "£UKR_reichskommissariat §jРКУ - СС та поліція§!"
  UKR_BB_u_ssr_clr: "£UKR_communists §SУкраїнська Червона Армія§!"
  UKR_BB_pg_clr: "£UKR_pg §DУкраїнська Національна Революційна Арміяy§!"
@@ -2283,7 +2283,7 @@
  UKR_BB_upra_south_clr: "§gУПРА - Південь§!"
  UKR_BB_upra_east_clr: "§PУПРА - Схід§!"
 
- # ПРЕ УЦВ
+ # ПРЕ УГВ
  UKR_BB_nazis_c: "£UKR_reichskommissariat §j"
  UKR_BB_u_ssr_c: "£UKR_communists §S"
  UKR_BB_pg_c: "£UKR_pg §D"
@@ -2294,7 +2294,7 @@
  UKR_BB_upra_south_c: "§g"
  UKR_BB_upra_east_c: "§P"
 
- # ПРЕ УЦВ
+ # ПРЕ УГВ
  UKR_BB_nazis_pie_c: "§L"
  UKR_BB_u_ssr_pie_c: "§S"
  UKR_BB_pg_pie_c: "§D"
@@ -2310,7 +2310,7 @@
  UKR_BB_resistance_activity_spike: "§eЦикл активності§! через §Y[?UKR_bb_resistance_countdown]§! днів"
  UKR_BB_resistance_activity_tooltip: "§FУправління численними групами, які виступають проти нас, має вирішальне значення, якщо ми хочемо досягти успіху в наших цілях. У цьому інтерфейсі ми можемо легко отримати доступ до інформації про ці різні групи, навівши курсор на їхні назви, а також відстежувати їхній вплив на нашу державу.\n\n§eЦикл активності§! - це періоди часу, в кінці яких групи опору здійснюватимуть операції, що матимуть вплив на різні регіони України.\n\nКожній групі опору призначено головний регіон, який є базою їхніх операцій. Якщо §Rконтроль§! групи опору перевищує певний §Yпоріг§! в межах цих визначених вирішальних регіонів, то ефекти, застосовані в кінці циклу активності, будуть гіршими порівняно з тими, що не перевищують цей поріг.\n\nЕфекти для кожної групи опору можна побачити за допомогою §Yнаведення§! на §Bкличний знак§! праворуч від кожної групи опору.§!"
 
- # Пре-УЦВ опор
+ # Пре-УГВ опор
  UKR_BB_Resistance_Activities_RK_Active: "§jРКУ - СС та Поліція§!"
  UKR_BB_Resistance_Activities_RK_Active_leader: "Лідер: §YОтто Олендорф§!"
  UKR_BB_Resistance_Activities_RK_Active_Desc: "£UKR_reichskommissariat §jШуцштадт і поліція в Райхскомісаріяті Україна§!\nЛідер: §YОтто Олендорф§!\n\n\n\n\n\n\n\n£UKR_ohlendorf_texticon\n\n\n\n\n\n\n\n\n--------------\nСС та поліція Райхскомісаріяту є основою апарату безпеки адміністрації. У той час як СС підтримує свій елітний статус, командуючи антипартійними операціями, брудну польову роботу виконують переважно поліцейські підрозділи, укомплектовані Українськими колабораціоністами, які вбивають своїх співвітчизників. Нещодавні потрясіння в адміністрації мали хвилеподібний вплив на її здатність боротися з бунтівними елементами - слабкість, яку охоче використовують повстанці, що прагнуть повалити колоніальний режим. В умовах, коли Вермахт залишився бездіяльним, вони є єдиною справді підготовленою лінією оборони, і багато хто чекає на їхнє знищення."
@@ -2327,7 +2327,7 @@
  UKR_BB_Resistance_Activities_UPA_Active_leader: "Лідер: §YДмитро Клячківський§!"
  UKR_BB_Resistance_Activities_UPA_Active_Desc: "£UKR_UPA §sУкраїнська повстанча армія§!\nЛідер: §YДмитро Клячківський§!\n\n\n\n\n\n\n\n£UKR_dmytro_kylachkivsky_texticon\n\n\n\n\n\n\n\n\n--------------\n§sСтепан Бандера§! можливо, помер у 1945 році, але §sУкраїнська повстанська армія§! продовжує його справу. Одне з найжорстокіших угруповань в Україні, £UKR_UPA §sУкраїнська повстанська армія§! відома застосуванням терору проти населення, особливо проти поляків і німців. Хоча вважалося, що їхня нищівна поразка у «Другій боротьбі» в 1950-х роках прирекла їхню організацію на загибель, Дмитру Клячківському вдалося запобігти її розпаду. Зіткнення з £UKR_pg §DУНРА§! послабили їх, але вони, здається, такі ж екстремальні і віддані баченню Бандери, як і раніше."
 
- # УПА Клячківського Пост-УЦВ опор
+ # УПА Клячківського Пост-УГВ опор
  UKR_BB_Resistance_Activities_UPRA_West_Active: "§OУНРА - Захід§!"
  UKR_BB_Resistance_Activities_UPRA_West_Active_leader: "Лідер: §YТарас Бульба-Боровець§!"
  UKR_BB_Resistance_Activities_UPRA_West_Active_Desc: "§OУкраїнська народна революційна армія - Західна група§!"
@@ -2342,7 +2342,7 @@
 
  UKR_BB_Resistance_Activities_UPA_State_Active: "§sУкраїнська Держава§!"
 
- # УСРР Пост-УЦВ опор
+ # УСРР Пост-УГВ опор
  UKR_BB_Resistance_Activities_communist_german_guerilla_Active: "§SРКУ - партизани СС та Вермахту§!"
  UKR_BB_Resistance_Activities_communist_german_guerilla_Active_leader: "Лідер: §YТБС §!"
  UKR_BB_Resistance_Activities_communist_german_guerilla_Active_Desc: "§OПОТРІБНО ПІДТВЕРДИТИ§!"
@@ -2412,7 +2412,7 @@
 
  ## 9.1.3 - рішення
 
- # РКУ Пре-УЦВ #
+ # РКУ Пре-УГВ #
  
  UKR_BB_D_Action_RK_PreUCW_1: "Механізувати ферм"
  UKR_BB_D_Action_RK_PreUCW_2: "Інвестиція у промисловий розвиток"
@@ -2428,7 +2428,7 @@
  UKR_BB_R_Action_RK_PreUCW_6: "Розблокувати бойові групи"
  UKR_BB_R_Action_RK_PreUCW_7: "Підхід «Стримування»"
 
- # ПГ Пре-УЦВ #
+ # ПГ Пре-УГВ #
 
  UKR_BB_D_Action_PG_PreUCW_1: "Саботаж виробництва зерна"
  UKR_BB_D_Action_PG_PreUCW_2: "Звільнити поневолених"
@@ -2440,7 +2440,7 @@
 
  UKR_BB_R_Action_PG_PreUCW_4: "Обмеження злочинності в базових районах"
 
- # УССР Пре-УЦВ #
+ # УССР Пре-УГВ #
 
  UKR_BB_D_Action_UA_SSR_PreUCW_1: "Саботаж виробництва зерна"
  UKR_BB_D_Action_UA_SSR_PreUCW_2: "Викрадення техніки"
@@ -2455,7 +2455,7 @@
  UKR_BB_R_Action_UA_SSR_PreUCW_7: "Тисніть на конвеєр озброєнь" ##intended as final boost
  UKR_BB_R_Action_UA_SSR_PreUCW_8: "Зверніться до залишків Союзу" ##intended as final boost
 
- # УПА Пре-УЦВ #
+ # УПА Пре-УГВ #
 
  UKR_BB_D_Action_UPA_PreUCW_1: "Саботаж виробництва зерна"
  UKR_BB_D_Action_UPA_PreUCW_2: "Знищити заводів"
@@ -2597,7 +2597,7 @@
  ### РІШЕННЯ ДОЛІ ###
  UKR_paradise_undone_tt: "§RНеможливо тренувати юнітів, розформовувати юнітів або редагувати шаблони юнітів.§!"
 
- ### РКУ ПРЕ-УЦВ ###
+ ### РКУ ПРЕ-УГВ ###
 
  UKR_play_ohlendorf_tt: "§OВи§! §Wбудете стежити за історією §oОтто Олендорфа§!.§!\n\n"
  UKR_play_leibbrandt_tt: "§OВи§! §Wбудете стежити за історією §BҐеорґа Ляйббранда§!.§!\n\n"
@@ -2625,24 +2625,24 @@
 
  UCW_tt: "Доміно впало. §xГромадянська війна§! розпочалася."
  
- ### ПРЕ-УЦВ ###
+ ### ПРЕ-УГВ ###
  UKR_one_division_infantry_tt: "Ми залучимо §Yодну піхотну дівізію§! на свій бік."
  UKR_one_division_militia_tt: "Ми залучимо §Yодна дивізія міліції§! на свій бік."
  
  UKR_two_division_militia_tt: "Ми залучимо §Yдві дивізії міліції§! на свій бік."
  UKR_two_division_infantry_tt: "Ми залучимо §Yдві піхотні дивізії§! на свій бік."
 
- ## ПРЕ-УЦВ ПОЛІСЬКА ГВАРДІЯ ##
+ ## ПРЕ-УГВ ПОЛІСЬКА ГВАРДІЯ ##
  UKR_FUK_intro_tt: ""
  UKR_galicia_roots_tt: "Ми отримаємо §Gдодаткову підтримку§! в §BГаличині§! після нашого повстання."
  UKR_FUK_collaboration_gonna_be_fucked_tt: "Tвін буде робити будь-які спроби §Yпереговорів з Райхом§! в майбутньому - більш §Rжорсткі§!, на користь §MБоровця§! та §PДзюби§!."
  UKR_FUK_collaboration_gonna_be_less_fucked_tt: "Це зробить будь-які спроби §Yпереговорів з Райхом§! у майбутньому §Gлегшими§!, що піде на користь §gОглоблину.§!."
 
- ### ПРЕ-УЦВ КОМУНІСТИ ###
+ ### ПРЕ-УГВ КОМУНІСТИ ###
  UKR_ukrainization_yes: "Ми вирішили §Gрозповсюдити§! Українізацію на території на якій ми базуємось."
  UKR_ukrainization_no: "Ми вирішили піти на §Bкомпроміс§! з російськомовною меншиною на нашій території на якій ми базуємось."
 
- ### РКУ УЦВ ###
+ ### РКУ УГВ ###
  UKR_the_depth_of_decay_tt: "Поглинутий виродженням, £UKR_reichskommissariat §jРайхскомісаріят§! впав у хаос. Ми повинні відновити порядок.\n\n§RНезважаючи на ціну.§!"
 
  UKR_panacea_tt: "§R§MУкр§!§Yаїна§! хвора.§!\n\n£UKR_reichskommissariat §jМи§! §eмаємо ліки.§!"
