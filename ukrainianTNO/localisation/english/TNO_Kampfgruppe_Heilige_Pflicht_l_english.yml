@@ -2,22 +2,22 @@
  ## Country Names ##
  
  ####Party Names#####
- KHP_national_socialism_party:0 "SS-Alpenkommando"
- KHP_national_socialism_party_long:0 "SS-Alpenkommando"
- KHP_ultranationalism_party:0 "SS-Alpenkommando"
- KHP_ultranationalism_party_long:0 "SS-Alpenkommando"
- HWL_Joachim_Peiper:0 "Joachim Peiper"
- POLITICS_Joachim_Peiper_DESC:0 "My honour is called loyalty. My duty is called loyalty. My duty calls to my blood. My blood calls to the Reichsführer-SS.\n\nHimmler's Inner Circle is not an easy order to find oneself in. However, SS-Brigadeführer Joachim Peiper managed to achieve just that, through scrutiny by some and praise by others. Born right into the heart of the middle of the First World War within the burning heart of the German Empire itself, Berlin. Peiper quickly attracted the likeness of the soon-to-be Reichsführer-SS, who admired the young recruit's Aryan features so much that he was forwarded to SS Leadership training. From those halls would birth the Ravager of the East, the monster who would lead the "Blowtorch Battalion" through Kharkov and into atrocity after atrocity. And with the Reich's victory would come more massacres for the Beast of Berlin.\n\nAs the Reich brought upon a new era of dominance and success, Peiper found himself becoming further engrossed with the esoteric propagandas of the Schutzstaffel, as the dedicated National Socialist came to praise Peiper as a goal, some ideal to achieve. Nevertheless, the Reichsführer-SS held his prized possession close, allowing for Peiper to receive a massive promotion for all of his "duties in the field of combat and leadership, in the recognition to dedication towards the annihilation of degeneracy, and the establishment of a new National Socialist era." Thus, as the celebrity combatant kicked back with a seemingly secure position in the SS-Ordensstaat Burgund, Peiper believed that all had turned out well.\n\nAnd, yet, the horrors facing the Reich could never be more dire. With Peiper's former ally, Reinhard Heydrich, now denouncing and rebelling against the Reichsführer-SS, the Butcher of Berlin stands as a meat grinder against all those traitorous cowards refusing the Reichsführer-SS in their attempts to flee to the South, as the bitter, frozen Austrian winter grows colder by the day..."
+ KHP_national_socialism_party:0 "СС-Альпенкомандо"
+ KHP_national_socialism_party_long:0 "СС-Альпенкомандо"
+ KHP_ultranationalism_party:0 "СС-Альпенкомандо"
+ KHP_ultranationalism_party_long:0 "СС-Альпенкомандо"
+ HWL_Joachim_Peiper:0 "Йоахім Пайпер"
+ POLITICS_Joachim_Peiper_DESC:0 "Моя честь - це вірність. Мій обов'язок - це вірність. Мій обов'язок промовляє до моєї крові. Моя кров промовляє до Райхсфюрера-СС.\n\nУ Внутрішнє коло Гіммлера не так легко потрапити. Поза цим, Бріґадфюрер-СС Йоахім Пайпер зміг власне цього досягнути, за ненависть від перших та похвалу від інших. Народжений у серці першої світової та Німецької імперії - Берліні. Пайпер швидко привернув увагу майбутнього Райхсфюрера-СС, який настільки захоплювався Арійськими рисами молодого рекрута, що аж просунув його до навчань на лідерство в СС. У цих стінах народиться розбійник Сходу - чудовисько, що поведе за собою "Батальйон Паяльних Ламп" по Харкову, вчиняючи окрутність за окрутністю. Після перемоги Райху звір Берліну вчиняв ще більше різанин.\n\nЗ початком нової ери панування та успіху Райху Пайпер ще більше захопився езотеричною пропагандою шуцштаффелів, а віддані націонал-соціялісти почали вихваляти Пайпера як мету, як ідеал, якого треба досягти. Тим не менш, Райхсфюрер-СС тримав свою власність на короткому повідку, дозволяючи Пайперу отримати величезне підвищення за його "заслуги у сфері боротьби та лідерства, у визнанні відданості справі знищення виродків та встановлення нової націонал-соціялістичної ери". Тому, повернувшись із, здавалося б, безпечної позиції в СС-Орденсштадт Бурґундія в званні відомого комбатанта, Пайпер вважав, що все для нього склалося добре.\n\nІ все ж жахіття, з якими зіткнувся Райх, ніколи не могли бути більш жахливими. Колишній союзник Пайпера, Рейнхард Ґайдріх, тепер доносить на Райхсфюрера-СС і повстає проти нього, Берлінський м'ясник стає м'ясорубкою для всіх тих зрадників і боягузів, які відмовляють Райхсфюреру-СС у спробах втекти на південь, в той час як гірка, морозна австрійська зима стає холоднішою з кожним днем..."
 
  ## Ministers ##
  
  ## Ideas ##
  
- KHP_bloodstained_legacy:0 "Bloodstained Legacy"
- KHP_bloodstained_legacy_desc:0 "Even within the SS, Peiper's command is infamous for its refusal to show quarter, as well as regular massacres of both civilians and POWs. Feared and hated by both the Wehrmacht remnants and civilians, Peiper can expect short shrift if his situation turns sour."
+ KHP_bloodstained_legacy:0 "Кривава спадщина"
+ KHP_bloodstained_legacy_desc:0 "Навіть всередині СС, команду Пайпера знають за його нещадність до будь-кого, а також за регулярні різанини цивільних осіб та військовополонених. Зненавиджений і залишками Вермахту і простим людом, Пайпер навряд може надіятися на високу підтримку, якщо його справи підуть кепсько."
  
- KHP_eagles_nest:0 "Eagle's Nests"
- KHP_eagles_nest_desc:0 "Situated in the Austrian Alps, Peiper's Kampfgruppe is in a very favorable defensive position. Peiper is an expert commander of armor and infantry alike; the terrain will prove no obstacle to his units should the fight come to them."
+ KHP_eagles_nest:0 "Орлине гніздо"
+ KHP_eagles_nest_desc:0 "Полишена в Австрійських Альпах, Камфгрупа Пайпера має дуже вигідну захисну позицію. Сам Пайпер є дуже досвідченим командиром і танків і піхоти, місцевість не буде перешкодою для його підрозділів, якщо бій дійде до них."
  
  ## Decisions ##
  
