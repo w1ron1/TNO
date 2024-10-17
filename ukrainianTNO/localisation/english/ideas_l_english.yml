@@ -523,6 +523,6 @@
  Generic_High_Command_1:0 "Вакантне місце"
  Generic_High_Command_2:0 "Вакантне місце"
  Generic_High_Command_3:0 "Вакантне місце"
- CHANGE_ADVISOR: "\nВи можете замінити цього радника, клацнувши сюди й обравши заміну."
- ALREADY_HAS_ADVISOR_WITH_TRAIT:0 "Вже є призначений радник із цією рисою."
+ CHANGE_ADVISOR: ""
+ ALREADY_HAS_ADVISOR_WITH_TRAIT:0 ""
  Generic_Vacant_Minister: "Вакантна посада"
