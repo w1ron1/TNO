@@ -1,27 +1,27 @@
 ﻿l_english:
  ### Country Names ###
- SLF: "South African Liberation Front"
- SLF_DEF: "the South African Liberation Front"
- SLF_ADJ: "South African"
+ SLF: "Південно-Африканський фронт визволення"
+ SLF_DEF: "Південно-Африканський фронт визволення"
+ SLF_ADJ: "Південноафриканськ"
 
  ## Cosmetic Tags ##
- SLF_FEDERATION: "South African Federation"
- SLF_FEDERATION_DEF: "the South African Federation"
- SLF_FEDERATION_ADJ: "South African"
+ SLF_FEDERATION: "Південно-Африканська федерація"
+ SLF_FEDERATION_DEF: "Південно-Африканська федерація"
+ SLF_FEDERATION_ADJ: "Південноафриканськ"
  
  ### Parties ###
- SLF_despotism_party: "South African Liberation Front"
- SLF_despotism_party_long: "South African Liberation Front"
+ SLF_despotism_party: "ПАФВ"
+ SLF_despotism_party_long: "Південно-Африканський фронт визволення"
 
  ### Characters ###
- SLF_Constand_Viljoen: "Constand Viljoen"
+ SLF_Constand_Viljoen: "Констанд Вільюн"
 
  ## Leader Descs ##
- POLITICS_CONSTAND_VILJOEN_DESC: "In theory, Connie Mulder's restored South African government can count on the loyalty of the Union Defense Forces (UDF). As with most things in South Africa, reality is far more convoluted.\n\nConstand Viljoen belongs to a clique of younger officers who despised the Graff's government unwillingness to compromise with the native population. Although he initially defected to the Boers at the outbreak of the War, the entry of the Afrika-Schild and the Volksraad submission to Hüttig caused him to rescind his betrayal and rejoin the Union Defense Forces. From there, he rose to prominence as one of the UDF's most competent military commanders.\n\nViljoen was intelligent enough to go into hiding once it became obvious that the Schild would win the war. From his internal exile, Viljoen made clear his view that it was the politicians and their racial inflexibility that had lost South Africa, and later the Afrikaner Volkstaat, its freedom. Now in control of the lion's share of the reborn UDF, Viljoen is determined to prevent this from happening again. To many, Viljoen's bizarre claim that a Boer state is not incompatible with majority African rule carry the implication that he wishes for a federated South Africa.\n\nAlmost immediately, the general's insistence on closer cooperation with native African forces caused a break with the Cape Town government, from which the SALF is effectively independent. While Hüttig's agents and Malan's Boers remain Viljoen's immediate concern, the General's ultimate aim is to create a new multiracial order that will prevent South Africa from being divided and conquered ever again. If Mulder, the natives, or anyone else proves an obstacle to this, Viljoen won't hesitate to turn his guns on them."
+ POLITICS_CONSTAND_VILJOEN_DESC: "Теоретично, відновлений уряд Південної Африки Конні Малдера може розраховувати на лояльність Сил оборони Союзу (UDF). Як і в більшості випадків у Південній Африці, реальність набагато заплутаніша.\n\nКонстанд Вільюн належить до кліки молодих офіцерів, які зневажали небажання уряду Граффа йти на компроміс з корінним населенням. Хоча спочатку він перейшов на бік бурів на початку війни, вступ Афріка-Шильду і підпорядкування Фольксрааду Гюттіґу змусили його відмовитися від зрадництва і знову приєднатися до Сил оборони Союзу. Там він став одним з найкомпетентніших воєначальників СОС.\n\nВільюну вистачило розуму піти в підпілля, коли стало очевидно, що Шильд виграє війну. Перебуваючи у внутрішньому вигнанні, Вільюн чітко висловив свою думку, що саме політики та їхня расова негнучкість призвели до того, що Південна Африка, а згодом і Африканський Фольксраад, втратили свою свободу. Тепер, контролюючи левову частку відродженого СОС, Вільюн сповнений рішучості не допустити, щоб це повторилося. Для багатьох дивна заява Вільюна про те, що бурська держава не є несумісною з правлінням більшості африканців, означає, що він бажає федеративної Південної Африки.\n\nМайже одразу ж наполягання генерала на тіснішій співпраці з корінними африканськими силами призвело до розриву з урядом Кейптауна, від якого ПАФВ фактично незалежний. Хоча агенти Гюттіґа та бури Малана залишаються безпосереднім предметом занепокоєння Вільюна, кінцева мета генерала - створення нового міжрасового порядку, який не дозволить Південній Африці бути знову розділеною та завойованою. Якщо Мюлдер, аборигени чи будь-хто інший стане на заваді цьому, Вільюн без вагань спрямує проти них зброю."
 
  ### Ideas ###
- SLF_lessons_first_civil_war: "Lessons of the First Civil War"
- SLF_lessons_first_civil_war_desc: "Back during the South African War, attacks by Boer guerillas were a constant and traumatizing occurrence, cutting down units with little more than a half dozen men. Now though, with the Volkstaat's collapse, the tables have turned. The tactics of the Boers shall now be their, as well as the rest of our enemies', worst nightmares, just as it was ours."
+ SLF_lessons_first_civil_war: "Уроки першої громадянської війни"
+ SLF_lessons_first_civil_war_desc: "Під час Південно-Африканської війни напади бурських партизанів були постійним і травматичним явищем, що знищувало підрозділи, які налічували трохи більше ніж півдюжини людей. Однак тепер, з розпадом Фолькстааду, все змінилося. Тактика бурів тепер стане для них, як і для решти наших ворогів, найстрашнішим кошмаром, так само, як і колись для нас."
 
- SLF_governmental_rivalries: "Governmental Rivalries"
- SLF_governmental_rivalries_desc: "The Liberation Front that formed after the Volkstaat's collapse is as unstable as it is diverse. All for their own reasons, everyone from progressives in the Defense Force, to moderate Boers, to Native Africans all find themselves fighting together for a common cause, but with different motivations. While this is good news for Viljoen's government in terms of manpower, command is a nightmare and often devolves into battles for influence."
+ SLF_governmental_rivalries: "Урядове суперництво"
+ SLF_governmental_rivalries_desc: "Фронт визволення, що утворився після розпаду Фолькстааду, настільки ж нестабільний, наскільки й різноманітний. Кожен з них має свої власні причини: від прогресистів у силах оборони до поміркованих бурів і корінних африканців - всі вони воюють разом за спільну справу, але з різними мотивами. Хоча це хороша новина для уряду Вільюна з точки зору людських ресурсів, командування є кошмаром і часто перетворюється на битви за вплив."

@@ -1,288 +1,288 @@
 ﻿l_english:
 
- #IDEAS AND MODIFIERS
+ #Ідеї та модифікатори
 
- GER_SGR_student_protests:0 "Civilian Protests"
- GER_SGR_student_protests_desc:0 "§DPolitical Power Gain Factor: [?SGR_protests_severity_pp|0+%]\nWeekly Stability: [?SGR_protests_severity_stab|1+%]\n--------------\n§!Gone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students - supporters of yore for Speer in the German Civil War - are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
+ GER_SGR_student_protests:0 "Громадські протести"
+ GER_SGR_student_protests_desc:0 "§DФактор отримання політичної влади: [?SGR_protests_severity_pp|0+%]\nЩотижнева стабільність: [?SGR_protests_severity_stab|1+%]\n--------------\n§!Минув час майже одностайної підтримки військових зусиль у Райху. Громадськість, переважно студенти – колишні прихильники Шпеєра під час Бюрґеркрігу в Ґерманії – повстали проти залучення Ґерманії до війни, яку вони вважають безглуздою та монструозною. Чим довше їхній Фюрер веде цю війну, тим більше вони чинитимуть опір."
 
- GER_BOR_student_protests:0 "Civilian Protests"
- GER_BOR_student_protests_desc:0 "Political Power Gain Factor: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nWeekly Stability: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
+ GER_BOR_student_protests:0 "Громадські протести"
+ GER_BOR_student_protests_desc:0 "Фактор отримання політичної влади: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nЩотижнева стабільність: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nМинув час майже одностайної підтримки військових зусиль у Райху. Громадськість, переважно студенти, повстали проти залучення Ґерманії до війни, яку вони вважають безглуздою та монструозною. Чим довше їхній Фюрер веде цю війну, тим більше вони чинитимуть опір."
 
- GER_GGR_student_protests:0 "Civilian Protests"
- GER_GGR_student_protests_desc:0 "Political Power Gain Factor: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nWeekly Stability: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
+ GER_GGR_student_protests:0 "Громадські протести"
+ GER_GGR_student_protests_desc:0 "Фактор отримання політичної влади: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nЩотижнева стабільність: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nМинув час майже одностайної підтримки військових зусиль у Райху. Громадськість, переважно студенти, повстали проти залучення Ґерманії до війни, яку вони вважають безглуздою та монструозною. Чим довше їхній Фюрер веде цю війну, тим більше вони чинитимуть опір."
 
- GER_SGR_student_protests_dynamic_modifier:0 "Civilian Protests"
- GER_BOR_student_protests_dynamic_modifier:0 "Civilian Protests"
- GER_GGR_student_protests_dynamic_modifier:0 "Civilian Protests"
+ GER_SGR_student_protests_dynamic_modifier:0 "Громадські протести"
+ GER_BOR_student_protests_dynamic_modifier:0 "Громадські протести"
+ GER_GGR_student_protests_dynamic_modifier:0 "Громадські протести"
 
- GER_SGR_drugs_SAW:0 "Combat Drugs"
- GER_SGR_drugs_SAW_desc:0 "From Speed to Pervitin and beyond, drugs allegedly enhancing combat performance have found their way into the hands of German soldiers."
- 
- GER_GGR_drugs_SAW:0 "Combat Drugs"
- GER_GGR_drugs_SAW_desc:0 "From Speed to Pervitin and beyond, drugs allegedly enhancing combat performance have found their way into the hands of German soldiers."
+ GER_SGR_drugs_SAW:0 "Бойові наркотики"
+ GER_SGR_drugs_SAW_desc:0 "Від спідів до Первітину та іншого, котики, що нібито підвищують бойову продуктивність, потрапили до рук німецьких солдатів."
+
+ GER_GGR_drugs_SAW:0 "Бойові наркотики"
+ GER_GGR_drugs_SAW_desc:0 "Від спідів до Первітину та іншого, котики, що нібито підвищують бойову продуктивність, потрапили до рук німецьких солдатів."
 
  #FOCUS WORK
 
- SGR_a_game_of_balancing_trigger_tt:0 "§WSchmidt's proposal has been accepted.§!"
- SGR_a_show_of_force_trigger_tt:0 "§WTresckow's proposal has been accepted.§!"
+ SGR_a_game_of_balancing_trigger_tt:0 "§WПропозиція Шмідта прийнята.§!"
+ SGR_a_show_of_force_trigger_tt:0 "§WПропозиція Трескова прийнята.§!"
 
  #DECISION WORK
  #SPEER
- SGR_South_African_War_category:0 "§ODer Krieg im Süden§!"
- SGR_South_African_War_category_desc:0 "§YINVOLVEMENT:§! [GetSGRSAWInvolvement] ([?SGR_SAW_involvement|Y1]§Y%§!)  §MPROTEST:§! [GetSGRSAWProtest] ([?SGR_SAW_civilian_protest|Y1]§Y%§!)\n\nOur strategy is currently [getSGRSAWStrategy].\n\nThe §RSouth African War§! was not instigated or even intended by the §YFührer§!, but we can nonetheless profit from it. Whether we push the §RUnited States§! out of Africa or §Gwithdraw§! will have repercussions.\n\nIn spite of all this, the §Mcivilian population§! is protesting our involvement in this war already. We must carefully balance their demands and our plans, or §Rbe forced to withdraw§!."
+ SGR_South_African_War_category:0 "§OВійна на Півдні§!"
+ SGR_South_African_War_category_desc:0 "§YУЧАСТЬ:§! [GetSGRSAWInvolvement] ([?SGR_SAW_involvement|Y1]§Y%§!)  §MПРОТЕСТ:§! [GetSGRSAWProtest] ([?SGR_SAW_civilian_protest|Y1]§Y%§!)\n\nНаша стратегія наразі: [getSGRSAWStrategy].\n\n§RПівденноафриканська війна§! не була ініційована або навіть запланована §YФюрером§!, проте ми можемо отримати з неї вигоду. Чи ми виженемо §RСполучені Штати§! з Африки або §Gвідступимо§!, матиме свої наслідки.\n\nПопри це, §Mцивільне населення§! вже протестує проти нашої участі в цій війні. Ми повинні ретельно збалансувати їхні вимоги та наші плани, інакше нам доведеться §Rвийти з війни§!."
 
- SGR_SAW_withdraw_from_the_war:0 "§YWithdraw from the War§!"
+ SGR_SAW_withdraw_from_the_war:0 "§YВийти з війни§!"
  SGR_SAW_withdraw_from_the_war_desc:0 ""
 
- SGR_SAW_increase_volunteers:0 "§RReinforce the War Effort§!"
- SGR_SAW_increase_volunteers_desc:0 "We will send more volunteers into the South African War."
- SGR_SAW_increase_volunteers_tt:0 "§YWar Involvement§! must be at least [?SGR_SAW_involvement_check|Y]§Y%§! or higher."
+ SGR_SAW_increase_volunteers:0 "§RЗбільшити військове втручання§!"
+ SGR_SAW_increase_volunteers_desc:0 "Ми відправимо більше добровольців у Південноафриканську війну."
+ SGR_SAW_increase_volunteers_tt:0 "§YУчасть у війні§! повинна бути принаймні [?SGR_SAW_involvement_check|Y]§Y%§! або вищою."
 
- SGR_SAW_decrease_volunteers:0 "§MReduce the War Effort§!"
- SGR_SAW_decrease_volunteers_desc:0 "We will draw back volunteers from the South African War."
- SGR_SAW_decrease_volunteers_tt:0 "§YWar Involvement§! must be at least §Y10%§! or higher."
+ SGR_SAW_decrease_volunteers:0 "§MЗменшити військове втручання§!"
+ SGR_SAW_decrease_volunteers_desc:0 "Ми виведемо добровольців з Південноафриканської війни."
+ SGR_SAW_decrease_volunteers_tt:0 "§YУчасть у війні§! повинна бути принаймні §Y10%§! або вищою."
 
- SGR_SAW_war_report:0 "War Report"
- SGR_SAW_war_report_desc:0 "Every month, the nation receives the newest report on the South African War by the Oberkommando der Wehrmacht. Despite best censorship efforts, information will always end up trickling through - and the truth of this senseless war in Africa does not make the German people happy."
+ SGR_SAW_war_report:0 "Військовий звіт"
+ SGR_SAW_war_report_desc:0 "Щомісяця нація отримує новий звіт про Південноафриканську війну від ОКВ. Незважаючи на всі зусилля щодо цензури, інформація завжди просочується - і правда про цю безглузду війну в Африці не радує німецький народ."
 
- SGR_SAW_war_effort_failure:0 "§xLooming Failure§!"
- SGR_SAW_war_effort_failure_desc:0 "Due to mounting pressure from the §Mpublic§!, the §gReich's§! valiant war effort in South Africa may soon have to grind to a halt. A truly shameful result for such a noble, and profitable, cause..."
+ SGR_SAW_war_effort_failure:0 "§xНаближається провал§!"
+ SGR_SAW_war_effort_failure_desc:0 "Через зростаючий тиск з боку §Mсуспільства§!, §gРайх§! може незабаром зупинити свої доблесні військові зусилля в Південній Африці. Справжній сором для такої благородної та вигідної справи..."
 
- SGR_SAW_propaganda_open:0 "Show §BPropaganda Decisions§!"
- SGR_SAW_propaganda_open_desc:0 "Click to show §BPropaganda Decisions§!."
+ SGR_SAW_propaganda_open:0 "Показати §BПропагандистські рішення§!"
+ SGR_SAW_propaganda_open_desc:0 "Натисніть, щоб показати §BПропагандистські рішення§!."
 
- SGR_SAW_propaganda_small:0 "Small Propaganda Effort"
- SGR_SAW_propaganda_small_desc:0 "We will focus some resources on a small propaganda campaign aimed to calm down the protestors."
+ SGR_SAW_propaganda_small:0 "Мала пропагандистська кампанія"
+ SGR_SAW_propaganda_small_desc:0 "Ми сконцентруємо деякі ресурси на невеликій пропагандистській кампанії, спрямованій на заспокоєння протестувальників."
 
- SGR_SAW_propaganda_med:0 "Medium Propaganda Effort"
- SGR_SAW_propaganda_med_desc:0 "We will focus resources on a propaganda campaign aimed to evoke a feeling of national unity within the protestors."
+ SGR_SAW_propaganda_med:0 "Середня пропагандистська кампанія"
+ SGR_SAW_propaganda_med_desc:0 "Ми спрямовуємо ресурси на пропагандистську кампанію, щоб викликати почуття національної єдності серед протестувальників."
 
- SGR_SAW_propaganda_big:0 "Large Propaganda Effort"
- SGR_SAW_propaganda_big_desc:0 "We will focus our resources on a truly grand propaganda campaign, aimed to recreate the flame of patriotism in our errant youth."
+ SGR_SAW_propaganda_big:0 "Велика пропагандистська кампанія"
+ SGR_SAW_propaganda_big_desc:0 "Ми спрямовуємо наші ресурси на справді грандіозну пропагандистську кампанію, щоб відновити полум'я патріотизму серед наших заблукалих юнаків."
 
- SGR_SAW_propaganda_close:0 "Hide §BPropaganda Decisions§!"
- SGR_SAW_propaganda_close_desc:0 "Click to hide §BPropaganda Decisions§!."
+ SGR_SAW_propaganda_close:0 "Сховати §BПропагандистські рішення§!"
+ SGR_SAW_propaganda_close_desc:0 "Натисніть, щоб сховати §BПропагандистські рішення§!."
 
- SGR_SAW_equipment_open:0 "Show §OEquipment Decisions§!"
- SGR_SAW_equipment_open_desc:0 "Click to show §OEquipment Decisions§!."
+ SGR_SAW_equipment_open:0 "Показати §OРішення щодо обладнання§!"
+ SGR_SAW_equipment_open_desc:0 "Натисніть, щоб показати §OРішення щодо обладнання§!."
 
- SGR_SAW_equipment_guns_schmidt:0 "Gun Shipments"
- SGR_SAW_equipment_guns_schmidt_desc:0 "What equipment we can spare will be sent to the African RKs."
+ SGR_SAW_equipment_guns_schmidt:0 "Постачання зброї"
+ SGR_SAW_equipment_guns_schmidt_desc:0 "Ми відправимо все обладнання, яке можемо виділити, африканським РК."
 
- SGR_SAW_equipment_antitank_schmidt:0 "Anti-Tank and Artillery Shipments"
- SGR_SAW_equipment_antitank_schmidt_desc:0 "What equipment we can spare will be sent to the African RKs."
+ SGR_SAW_equipment_antitank_schmidt:0 "Постачання протитанкової зброї та артилерії"
+ SGR_SAW_equipment_antitank_schmidt_desc:0 "Ми відправимо все обладнання, яке можемо виділити, африканським РК."
 
- SGR_SAW_equipment_helicopters_schmidt:0 "Attack Helicopter Shipments"
- SGR_SAW_equipment_helicopters_schmidt_desc:0 "What equipment we can spare will be sent to the African RKs."
+ SGR_SAW_equipment_helicopters_schmidt:0 "Постачання бойових гелікоптерів"
+ SGR_SAW_equipment_helicopters_schmidt_desc:0 "Ми відправимо все обладнання, яке можемо виділити, африканським РК."
 
- SGR_SAW_equipment_guns_tresckow:0 "Gun Shipments"
- SGR_SAW_equipment_guns_tresckow_desc:0 "What equipment we can spare will be sent to the African RKs."
+ SGR_SAW_equipment_guns_tresckow:0 "Постачання зброї"
+ SGR_SAW_equipment_guns_tresckow_desc:0 "Ми відправимо все обладнання, яке можемо виділити, африканським РК."
 
- SGR_SAW_equipment_antitank_tresckow:0 "Anti-Tank and Artillery Shipments"
- SGR_SAW_equipment_antitank_tresckow_desc:0 "What equipment we can spare will be sent to the African RKs."
+ SGR_SAW_equipment_antitank_tresckow:0 "Постачання протитанкової зброї та артилерії"
+ SGR_SAW_equipment_antitank_tresckow_desc:0 "Ми відправимо все обладнання, яке можемо виділити, африканським РК."
 
- SGR_SAW_equipment_helicopters_tresckow:0 "Attack Helicopter Shipments"
- SGR_SAW_equipment_helicopters_tresckow_desc:0 "What equipment we can spare will be sent to the African RKs."
+ SGR_SAW_equipment_helicopters_tresckow:0 "Постачання бойових гелікоптерів"
+ SGR_SAW_equipment_helicopters_tresckow_desc:0 "Ми відправимо все обладнання, яке можемо виділити, африканським РК."
 
- SGR_SAW_equipment_close:0 "Hide §OEquipment Decisions§!"
- SGR_SAW_equipment_close_desc:0 "Click to hide §OEquipment Decisions§!."
+ SGR_SAW_equipment_close:0 "Сховати §OРішення щодо обладнання§!"
+ SGR_SAW_equipment_close_desc:0 "Натисніть, щоб сховати §OРішення щодо обладнання§!."
 
- SGR_SAW_reinforcements_open:0 "Show §RReinforcements Decisions§!"
- SGR_SAW_reinforcements_open_desc:0 "Click to show §RReinforcements Decisions§!."
+ SGR_SAW_reinforcements_open:0 "Показати §RРішення щодо підкріплень§!"
+ SGR_SAW_reinforcements_open_desc:0 "Натисніть, щоб показати §RРішення щодо підкріплень§!."
 
- SGR_SAW_reinforcements_schmidt:0 "Send Volunteer Reinforcements"
- SGR_SAW_reinforcements_schmidt_desc:0 "The brave patriots who have signed up for victory in South Africa will be sent to it."
+ SGR_SAW_reinforcements_schmidt:0 "Відправити добровольчі підкріплення"
+ SGR_SAW_reinforcements_schmidt_desc:0 "Сміливі патріоти, які підписалися на перемогу в Південній Африці, будуть туди відправлені."
 
- SGR_SAW_advisors_schmidt:0 "Send Advisors"
- SGR_SAW_advisors_schmidt_desc:0 "Oberkommando der Wehrmacht advisors are sent to the south to aid the local commands of the African RKs."
+ SGR_SAW_advisors_schmidt:0 "Відправити радників"
+ SGR_SAW_advisors_schmidt_desc:0 "Радники ОКВ будуть відправлені на південь для допомоги місцевим командуванням африканських РК."
 
- SGR_SAW_reinforcements_tresckow:0 "Send Volunteer Reinforcements"
- SGR_SAW_reinforcements_tresckow_desc:0 "The brave patriots who have signed up for victory in South Africa will be sent to it."
+ SGR_SAW_reinforcements_tresckow:0 "Відправити добровольчі підкріплення"
+ SGR_SAW_reinforcements_tresckow_desc:0 "Сміливі патріоти, які підписалися на перемогу в Південній Африці, будуть туди відправлені."
 
- SGR_SAW_drugs_tresckow:0 "Combat Drugs Shipments"
- SGR_SAW_drugs_tresckow_desc:0 "Although it is a disgrace, the enemy has forced our hands..."
+ SGR_SAW_drugs_tresckow:0 "Постачання бойових наркотиків"
+ SGR_SAW_drugs_tresckow_desc:0 "Хоча це ганьба, ворог змусив нас до цього..."
 
- SGR_SAW_reinforcements_close:0 "Hide §RReinforcements Decisions§!"
- SGR_SAW_reinforcements_close_desc:0 "Click to hide §RReinforcements Decisions§!."
+ SGR_SAW_reinforcements_close:0 "Сховати §RРішення щодо підкріплень§!"
+ SGR_SAW_reinforcements_close_desc:0 "Натисніть, щоб сховати §RРішення щодо підкріплень§!."
 
- SGR_SAW_steal_assets:0 "§YSeize RK Assets§!"
- SGR_SAW_steal_assets_desc:0 "As we can see the writing on the wall, it is time to seize the remaining products of our decades long investment into Africa."
+ SGR_SAW_steal_assets:0 "§YЗахопити активи РК§!"
+ SGR_SAW_steal_assets_desc:0 "Оскільки ми бачимо, що все йде до кінця, настав час захопити залишки нашого багаторічного вкладення в Африку."
 
- SGR_SAW_bombingruns:0 "§RCommence Luftwaffe Bombing Runs§!"
- SGR_SAW_bombingruns_desc:0 "The situation in South Africa requires more direct intervention, of which the Luftwaffe is more than capable of."
- 
- SGR_SAW_withdrawal_soften_the_blow_tt:0 "§WWill unlock more §Gwithdrawal decisions§! to accelerate our departure from South Africa.§!"
- SGR_SAW_withdrawal_youre_on_your_own_tt:0 "§WWill unlock more §Gwithdrawal decisions§! to maximize our profits from Africa before our withdrawal.§!"
+ SGR_SAW_bombingruns:0 "§RПочати бомбардування Люфтваффе§!"
+ SGR_SAW_bombingruns_desc:0 "Ситуація в Південній Африці вимагає більш прямого втручання, з чим Люфтваффе легко впорається."
+
+ SGR_SAW_withdrawal_soften_the_blow_tt:0 "§WВідкриє більше §Gрішень для виходу§!, щоб прискорити наш вихід з Південної Африки.§!" 
+ SGR_SAW_withdrawal_youre_on_your_own_tt:0 "§WВідкриє більше §Gрішень для виходу§!, щоб максимізувати наші прибутки з Африки перед виходом.§!"
  #BORMANN
- GER_Bormann_SAF_War_category:0 "§ODer Krieg im Süden§!"
- GER_Bormann_SAF_War_category_desc:0 "§YINVOLVEMENT:§! [GetBORSAWInvolvement] ([?GER_Bormann_SAW_involvement|Y1]§Y%§!)\n§MPROTEST:§! [GetBORSAWProtest] ([?GER_Bormann_SAW_civilian_protest|Y1]§Y%§!)\n\nOur strategy is currently [getBORSAWStrategy].\n\nThe §RSouth African War§! was not instigated or even intended by the §YFührer§!, but we can nonetheless profit from it. Whether we push the §RUnited States§! out of Africa or §Gwithdraw§! will have repercussions.\n\nIn spite of all this, the §Mcivilian population§! is protesting our involvement in this war already. We must carefully balance their demands and our plans, or §Rbe forced to withdraw§!."
+ GER_Bormann_SAF_War_category:0 "§OВійна на Півдні§!"
+ GER_Bormann_SAF_War_category_desc:0 "§YУЧАСТЬ:§! [GetBORSAWInvolvement] ([?GER_Bormann_SAW_involvement|Y1]§Y%§!)\n§MPРОТЕСТ:§! [GetBORSAWProtest] ([?GER_Bormann_SAW_civilian_protest|Y1]§Y%§!)\n\nНаша стратегія наразі: [getBORSAWStrategy].\n\n§RПівденноафриканська війна§! не була ініційована або навіть запланована §YФюрером§!, проте ми можемо отримати з неї вигоду. Чи ми виженемо §RСполучені Штати§! з Африки або §Gвідступимо§!, матиме свої наслідки.\n\nПопри це, §Mцивільне населення§! вже протестує проти нашої участі в цій війні. Ми повинні ретельно збалансувати їхні вимоги та наші плани, інакше нам доведеться §Rвідступити§!."
 
- GER_Bormann_SAF_withdraw_from_the_war:0 "§YWithdraw from the War§!"
+ GER_Bormann_SAF_withdraw_from_the_war:0 "§YВийти з війни§!"
  GER_Bormann_SAF_withdraw_from_the_war_desc:0 ""
 
- GER_Bormann_SAF_increase_volunteers:0 "§RReinforce the War Effort§!"
- GER_Bormann_SAF_increase_volunteers_desc:0 "We will send more volunteers into the South African War."
- GER_Bormann_SAF_increase_volunteers_tt:0 "§YWar Involvement§! must be at least [?GER_Bormann_SAW_involvement_check|Y]§Y%§! or higher."
+ GER_Bormann_SAF_increase_volunteers:0 "§RЗбільшити військове втручання§!"
+ GER_Bormann_SAF_increase_volunteers_desc:0 "Ми відправимо більше добровольців на Південноафриканську війну."
+ GER_Bormann_SAF_increase_volunteers_tt:0 "§YУчасть у війні§! має бути не менше ніж [?GER_Bormann_SAW_involvement_check|Y]§Y%§! або більше."
 
- GER_Bormann_SAF_decrease_volunteers:0 "§MReduce the War Effort§!"
- GER_Bormann_SAF_decrease_volunteers_desc:0 "We will draw back volunteers from the South African War."
- GER_Bormann_SAF_decrease_volunteers_tt:0 "§YWar Involvement§! must be at least §Y10%§! or higher."
+ GER_Bormann_SAF_decrease_volunteers:0 "§MЗменшити військове втручання§!"
+ GER_Bormann_SAF_decrease_volunteers_desc:0 "Ми відведемо частину добровольців з Південноафриканської війни."
+ GER_Bormann_SAF_decrease_volunteers_tt:0 "§YУчасть у війні§! має бути не менше ніж §Y10%§! або більше."
 
- GER_Bormann_SAF_war_report:0 "War Report"
- GER_Bormann_SAF_war_report_desc:0 "Every month, the nation receives the newest report on the South African War by the Oberkommando der Wehrmacht. Despite best censorship efforts, information will always end up trickling through - and the truth of this senseless war in Africa does not make the German people happy."
+ GER_Bormann_SAF_war_report:0 "Військовий звіт"
+ GER_Bormann_SAF_war_report_desc:0 "Щомісяця країна отримує новий звіт про Південноафриканську війну від ОКВ. Незважаючи на найкращі зусилля з цензури, інформація завжди просочується – і правда про цю безглузду війну в Африці не радує німецький народ."
 
- GER_Bormann_SAF_propaganda_open:0 "Show §BPropaganda Decisions§!"
- GER_Bormann_SAF_propaganda_open_desc:0 "Click to show §BPropaganda Decisions§!."
+ GER_Bormann_SAF_propaganda_open:0 "Показати §BРішення щодо пропаганди§!"
+ GER_Bormann_SAF_propaganda_open_desc:0 "Натисніть, щоб показати §BРішення щодо пропаганди§!."
 
- GER_Bormann_SAF_propaganda_small:0 "Small Propaganda Effort"
- GER_Bormann_SAF_propaganda_small_desc:0 "We will focus some resources on a small propaganda campaign aimed to calm down the protestors."
+ GER_Bormann_SAF_propaganda_small:0 "Невелика пропагандистська кампанія"
+ GER_Bormann_SAF_propaganda_small_desc:0 "Ми спрямуємо деякі ресурси на невелику пропагандистську кампанію, спрямовану на заспокоєння протестувальників."
 
- GER_Bormann_SAF_propaganda_med:0 "Medium Propaganda Effort"
- GER_Bormann_SAF_propaganda_med_desc:0 "We will focus resources on a propaganda campaign aimed to evoke a feeling of national unity within the protestors."
+ GER_Bormann_SAF_propaganda_med:0 "Середня пропагандистська кампанія"
+ GER_Bormann_SAF_propaganda_med_desc:0 "Ми спрямуємо ресурси на пропагандистську кампанію, спрямовану на пробудження почуття національної єдності серед протестувальників."
 
- GER_Bormann_SAF_propaganda_big:0 "Large Propaganda Effort"
- GER_Bormann_SAF_propaganda_big_desc:0 "We will focus our resources on a truly grand propaganda campaign, aimed to recreate the flame of patriotism in our errant youth."
+ GER_Bormann_SAF_propaganda_big:0 "Велика пропагандистська кампанія"
+ GER_Bormann_SAF_propaganda_big_desc:0 "Ми спрямуємо наші ресурси на справді велику пропагандистську кампанію, спрямовану на відродження патріотизму серед нашої молоді."
 
- GER_Bormann_SAF_propaganda_close:0 "Hide §BPropaganda Decisions§!"
- GER_Bormann_SAF_propaganda_close_desc:0 "Click to hide §BPropaganda Decisions§!."
+ GER_Bormann_SAF_propaganda_close:0 "Приховати §BРішення щодо пропаганди§!"
+ GER_Bormann_SAF_propaganda_close_desc:0 "Натисніть, щоб приховати §BРішення щодо пропаганди§!."
 
- GER_Bormann_SAF_equipment_open:0 "Show §OEquipment Decisions§!"
- GER_Bormann_SAF_equipment_open_desc:0 "Click to show §OEquipment Decisions§!."
+ GER_Bormann_SAF_equipment_open:0 "Показати §OРішення щодо спорядження§!"
+ GER_Bormann_SAF_equipment_open_desc:0 "Натисніть, щоб показати §OРішення щодо спорядження§!."
 
- GER_Bormann_SAF_equipment_guns:0 "Gun Shipments"
- GER_Bormann_SAF_equipment_guns_desc:0 "What equipment we can spare will be sent to the African RKs."
+ GER_Bormann_SAF_equipment_guns:0 "Постачання зброї"
+ GER_Bormann_SAF_equipment_guns_desc:0 "Те обладнання, яке ми можемо виділити, буде відправлено до африканських РК."
 
- GER_Bormann_SAF_equipment_antitank:0 "Anti-Tank and Artillery Shipments"
- GER_Bormann_SAF_equipment_antitank_desc:0 "What equipment we can spare will be sent to the African RKs."
+ GER_Bormann_SAF_equipment_antitank:0 "Постачання протитанкової зброї та артилерії"
+ GER_Bormann_SAF_equipment_antitank_desc:0 "Те обладнання, яке ми можемо виділити, буде відправлено до африканських РК."
 
- GER_Bormann_SAF_equipment_helicopters:0 "Attack Helicopter Shipments"
- GER_Bormann_SAF_equipment_helicopters_desc:0 "What equipment we can spare will be sent to the African RKs."
+ GER_Bormann_SAF_equipment_helicopters:0 "Постачання ударних вертольотів"
+ GER_Bormann_SAF_equipment_helicopters_desc:0 "Те обладнання, яке ми можемо виділити, буде відправлено до африканських РК."
 
- GER_Bormann_SAF_equipment_close:0 "Hide §OEquipment Decisions§!"
- GER_Bormann_SAF_equipment_close_desc:0 "Click to hide §OEquipment Decisions§!."
+ GER_Bormann_SAF_equipment_close:0 "Приховати §OРішення щодо спорядження§!"
+ GER_Bormann_SAF_equipment_close_desc:0 "Натисніть, щоб приховати §OРішення щодо спорядження§!."
 
- GER_Bormann_SAF_reinforcements_open:0 "Show §RReinforcements Decisions§!"
- GER_Bormann_SAF_reinforcements_open_desc:0 "Click to show §RReinforcements Decisions§!."
+ GER_Bormann_SAF_reinforcements_open:0 "Показати §RРішення щодо підкріплень§!"
+ GER_Bormann_SAF_reinforcements_open_desc:0 "Натисніть, щоб показати §RРішення щодо підкріплень§!."
 
- GER_Bormann_SAF_reinforcements:0 "Send Volunteer Reinforcements"
- GER_Bormann_SAF_reinforcements_desc:0 "The brave patriots who have signed up for victory in South Africa will be sent to it."
+ GER_Bormann_SAF_reinforcements:0 "Відправити добровольчі підкріплення"
+ GER_Bormann_SAF_reinforcements_desc:0 "Сміливі патріоти, які записалися заради перемоги в Південній Африці, будуть туди відправлені."
 
- GER_Bormann_SAF_drugs:0 "Combat Drugs Shipments"
- GER_Bormann_SAF_drugs_desc:0 "Although it is a disgrace, the enemy has forced our hands..."
+ GER_Bormann_SAF_drugs:0 "Постачання бойових наркотиків"
+ GER_Bormann_SAF_drugs_desc:0 "Хоч це і ганьба, ворог змусив нас піти на цей крок..."
 
- GER_Bormann_SAF_reinforcements_close:0 "Hide §RReinforcements Decisions§!"
- GER_Bormann_SAF_reinforcements_close_desc:0 "Click to hide §RReinforcements Decisions§!."
+ GER_Bormann_SAF_reinforcements_close:0 "Приховати §RРішення щодо підкріплень§!"
+ GER_Bormann_SAF_reinforcements_close_desc:0 "Натисніть, щоб приховати §RРішення щодо підкріплень§!."
 
- GER_Bormann_SAF_bombingruns:0 "§RCommence Luftwaffe Bombing Runs§!"
- GER_Bormann_SAF_bombingruns_desc:0 "The situation in South Africa requires more direct intervention, of which the Luftwaffe is more than capable of."
+ GER_Bormann_SAF_bombingruns:0 "§RПочати бомбардування Люфтваффе§!"
+ GER_Bormann_SAF_bombingruns_desc:0 "Ситуація в Південній Африці потребує більш прямого втручання, і Люфтваффе цілком здатне на це."
 
- GER_Bormann_SAF_arsenal_of_afrika:0 "§wArsenal of Africa§!"
- GER_Bormann_SAF_arsenal_of_afrika_desc:0 "Reichskommissariat Zentralafrika, located primarily within the geographic boundaries of the former-Belgian Congo, is notably a considerable distance from the conflict's frontline and largely outside the range of any enemy airfields & bombers, thereby making the Reichskommissariat and region difficult to directly strike. Therefore, Führer Bormann has decreed that Zentralafrika shall be built into a hub for arms & supplies, the proverbial 'Arsenal of Africa'."
+ GER_Bormann_SAF_arsenal_of_afrika:0 "§wАрсенал Африки§!"
+ GER_Bormann_SAF_arsenal_of_afrika_desc:0 "Райхскомісаріат Центральна Африка, розташований переважно в межах колишнього Бельгійського Конго, знаходиться на значній відстані від лінії фронту та поза зоною досяжності ворожих аеродромів і бомбардувальників, що ускладнює прямі удари по ньому. Фюрер Борманн постановив перетворити Центральну Африку на центр озброєння і постачання, так званий 'Арсенал Африки'."
 
- GER_Bormann_SAF_restore_luftwaffe_divisions:0 "§BRestore Luftwaffe Divisions§!"
- GER_Bormann_SAF_restore_luftwaffe_divisions_desc:0 "The Bürgerkrieg left the Luftwaffe bloated and many airmen are grounded, with little reason to maintain operations in Europe. Restoring the field divisions would provide valuable support for our Reichskommissar allies and give a chance to cut the chaff. These men are of questionable loyalty given their proximity to Göring, and little will be lost if they don't come back."
+ GER_Bormann_SAF_restore_luftwaffe_divisions:0 "§BВідновити дивізії Люфтваффе§!"
+ GER_Bormann_SAF_restore_luftwaffe_divisions_desc:0 "Громадянська війна залишила Люфтваффе з великим штатом, і багато льотчиків залишаються без діла, з малою потребою в діях у Європі. Відновлення польових дивізій забезпечить цінну підтримку нашим союзникам-Райхскомісарам і надасть можливість позбутися зайвих кадрів. Ці люди викликають сумніви у своїй лояльності через їхні зв'язки з Герінгом, і ми мало втратимо, якщо вони не повернуться."
 
- GER_Bormann_SAF_train_the_werewolves:0 "§jTrain the Werewolves§!"
- GER_Bormann_SAF_train_the_werewolves_desc:0 "Unternehmen Werwulf was a plan from the less certain stages of the war, for the unthinkable event of the Reich falling and an Allied government being imposed. Recruits would be trained in guerrilla warfare, supplied with silenced weaponry, explosives and vehicles, with the aim of making Germany ungovernable and aid the rise of the rightful government once more. This event naturally never came to fruition, but the Werwulf plans may yet be useful. Training Hüttig's soldiers in these tactics will provide a valuable edge."
+ GER_Bormann_SAF_train_the_werewolves:0 "§jНавчання 'Вовків'§!"
+ GER_Bormann_SAF_train_the_werewolves_desc:0 "Операція 'Вервольф' була планом на випадок падіння Райху і встановлення союзницького уряду. Добровольці мали пройти підготовку з партизанської війни, забезпечені безшумною зброєю, вибухівкою та транспортом, з метою зробити Німеччину некерованою та допомогти відновленню законного уряду. Хоча ця подія не відбулася, плани 'Вервольфа' можуть ще стати в нагоді. Навчання солдатів Гюттіга цим тактикам надасть важливу перевагу."
 
- GER_Bormann_SAF_festung_johannesburg:0 "§OFestung Johannesburg§!"
- GER_Bormann_SAF_festung_johannesburg_desc:0 "Johannesburg has been a bastion of Aryan settlement on the Dark Continent for nearly two hundred years. The discovery of gold brought a flood of Boer settlers that rapidly turned it into South Africa's largest cities - now it is the capital of the Afrikaner Volkstaat. Our Afrikaner allies must not be allowed to falter in the defense of their homeland. We must send our engineers to turn the city into a fortress, one that will not fall to the Americans like it did to the British."
- 
- GER_Bormann_SAW_withdrawal_veterans_of_the_civil_war_tt:0 "§WWill unlock a §Gwithdrawal decision§! to further dispose of members of the §RMilitarist§! faction.§!"
- GER_Bormann_SAW_withdrawal_not_so_volunteers_tt:0 "§WWill unlock a §Gwithdrawal decision§! to further dispose of members of the §GReformist§! faction.§!"
+ GER_Bormann_SAF_festung_johannesburg:0 "§OФортеця Йоганнесбург§!"
+ GER_Bormann_SAF_festung_johannesburg_desc:0 "Йоганнесбург вже майже двісті років є бастіоном арійського поселення на Темному континенті. Відкриття золота привело до потоку бурських поселенців, які швидко перетворили його на найбільше місто Південної Африки - зараз це столиця Африканерського Фолькштату. Наші союзники-африканери не повинні похитнутися у захисті своєї батьківщини. Ми повинні відправити наших інженерів, щоб перетворити місто на фортецю, яка не впаде під натиском американців, як це сталося з британцями."
 
- GER_Bormann_SAW_withdrawal_abwehrabteilung_afrika_tt:0 "§WWill unlock a §Gwithdrawal decision§! to further hone our tactics in open warfare.§!"
- GER_Bormann_SAW_withdrawal_the_best_gear_tt:0 "§WWill unlock a §Gwithdrawal decision§! to send a final shipment of the best weapons.§!"
+ GER_Bormann_SAW_withdrawal_veterans_of_the_civil_war_tt:0 "§WВідкриє рішення про §Gвиведення§! для подальшої ліквідації членів §RMілітаристської§! фракції.§!"
+ GER_Bormann_SAW_withdrawal_not_so_volunteers_tt:0 "§WВідкриє рішення про §Gвиведення§! для подальшої ліквідації членів §GРеформістської§! фракції.§!"
 
- GER_Bormann_SAF_war_effort_failure:0 "§xLooming Failure§!"
- GER_Bormann_SAF_war_effort_failure_desc:0 "Due to mounting pressure from the §Mpublic§!, the §gReich's§! valiant war effort in South Africa may soon have to grind to a halt. A truly shameful result for such a noble, and profitable, cause..."
+ GER_Bormann_SAW_withdrawal_abwehrabteilung_afrika_tt:0 "§WВідкриє рішення про §Gвиведення§! для подальшого вдосконалення наших тактик у відкритій війні.§!"
+ GER_Bormann_SAW_withdrawal_the_best_gear_tt:0 "§WВідкриє рішення про §Gвиведення§! для відправки останнього постачання найкращої зброї.§!"
 
- #EVENTS
- 
- speerkriegcategory.1.t:0 "Industrial Assets Seized"
- speerkriegcategory.1.d:0 "Industrial assets from the African Reichskommissariats have successfully been seized and transported back to Germany."
- speerkriegcategory.1.a:0 "Excellent."
+ GER_Bormann_SAF_war_effort_failure:0 "§xНаближення провалу§!"
+ GER_Bormann_SAF_war_effort_failure_desc:0 "Через зростаючий тиск з боку §Mсуспільства§!, героїчні військові зусилля §gРайху§! у Південній Африці можуть скоро зупинитися. Справді ганебний результат для такої благородної та прибуткової справи..."
 
- speerkriegcategory.2.t:0 "Monetary Assets Seized"
- speerkriegcategory.2.d:0 "Monetary assets from the African Reichskommissariats have successfully been seized and transported back to Germany."
- speerkriegcategory.2.a:0 "Excellent."
+ #ПОДІЇ
 
- speerkriegcategory.3.t:0 "Asset Seizure Failed"
- speerkriegcategory.3.d:0 "The operation to seize economic assets from the African Reichskommissariats has shamefully failed."
- speerkriegcategory.3.a:0 "Damned."
+ speerkriegcategory.1.t:0 "Вилучення промислових активів"
+ speerkriegcategory.1.d:0 "Промислові активи з африканських Райхскомісаріатів успішно вилучено та перевезено назад до Ґерманії."
+ speerkriegcategory.1.a:0 "Чудово."
 
- #TOOLTIPS
+ speerkriegcategory.2.t:0 "Вилучені грошові активи"
+ speerkriegcategory.2.d:0 "Грошові активи африканських Райхскомісаріатів успішно вилучені та перевезені до Ґерманії."
+ speerkriegcategory.2.a:0 "Чудово."
 
- SGR_SAW_equip_decisions:0 "§W§OEquipment§! related decisions become available.§!"
- SGR_SAW_reinf_decisions:0 "§W§RReinforcement§! related decisions become available.§!"
- SGR_SAW_advisors_decisions:0 "§W§YAdvisor§! related decisions become available.§!"
- SGR_SAW_drugs_decisions:0 "§W§RCombat drugs§! related decisions become available.§!"
- SGR_SAW_soldier_return:0 "§W[?SGR_SAW_manpower|R0] soldiers return to §gGermany§!.\n§RAll§! volunteer divisions sent to §YAfrica§! will be recalled back to §gGermany§!.§!"
- BOR_SAW_soldier_return:0 "§W[?GER_Bormann_SAF_manpower|R0] soldiers return to §gGermany§!.\n§RAll§! volunteer divisions sent to §YAfrica§! will be recalled back to §gGermany§!.§!"
+ speerkriegcategory.3.t:0 "Не вдалося вилучити активи"
+ speerkriegcategory.3.d:0 "Операція з вилучення економічних активів з африканських Райхскомісаріатів ганебно провалилася."
+ speerkriegcategory.3.a:0 "Прокляття."
 
- SGR_SAW_war_report_predic_tt:0 "§WWe predict an increase of §MCivilian Upheaval§! of [?SGR_SAW_civilian_protest_growth_base|Y]§Y%§! for the next month.§!"
- SGR_SAW_war_failure_tt:0 "§W§MPublic§! pressure has become too large!§!"
- SGR_SAW_war_save_tt:0 "§W§MPublic§! pressure must fall below §Y90%§!.§!"
- SGR_SAW_entry_tt:0 "§WThe §ODer Krieg im Süden§! Decision Category becomes available.§!"
- SGR_SAW_conclude_tt:0 "§W§gThe Reich§! withdraws from the §RSouth African War§!.§!"
- SGR_SAW_erhard_plan_tt:0 "§WErhard's plan has been chosen.§!"
- SGR_SAW_tresckow_plan_tt:0 "§WTresckow's plan has been chosen.§!"
- SGR_SAW_withdrawal_tt:0 "§W§gGermany§! is in the process of §Ywithdrawing§! from the §RSouth African War§!.§!"
- SGR_SAW_involvement_0_tt:0 "§W§YInvolvement§! in the §RSouth African War§! lies at §Y0%§!.§!"
- SGR_SAW_protests_overwhelming_tt:0 "§W§MProtests§! have become §Roverwhelming§! at atleast §Y75%§!.§!"
- SGR_SAW_rob_assets_tt:0 "§WThe §gReich§! will attempt to seize assets from the African RKs.§!"
- SGR_SAW_rob_assets_money_tt:0 "§WAssets seized will be added to §gGermany's§! §Yliquid reserves§!.§!"
- SGR_SAW_rob_assets_failure_tt:0 "§RThe attempt to seize assets has failed!§!"
- 
- SGR_SAW_light_involvement_tt:0 "§WThe §gReich§! shall focus on §Ylight strategic involvement§! in the §RSouth African War§!.§!"
- SGR_SAW_heavy_involvement_tt:0 "§WThe §gReich§! shall focus on §Yheavy strategic involvement§! in the §RSouth African War§!.§!"
+ #Інструменти
 
- SGR_SAW_involvement_increase_small_tt:0 "§YWar Involvement§! will §Rincrease§! by §Y2.5%§!."
- SGR_SAW_involvement_increase_med_tt:0 "§YWar Involvement§! will §Rincrease§! by §Y5%§!."
- SGR_SAW_involvement_increase_big_tt:0 "§YWar Involvement§! will §Rincrease§! by §Y10%§!."
+ SGR_SAW_equip_decisions:0 "§W§OРішення, пов'язані з обладнанням§!, стають доступними.§!"
+ SGR_SAW_reinf_decisions:0 "§W§RРішення, пов'язані з підкріпленнями§!, стають доступними.§!"
+ SGR_SAW_advisors_decisions:0 "§W§YРішення, пов'язані з радниками§!, стають доступними.§!"
+ SGR_SAW_drugs_decisions:0 "§W§RРішення, пов'язані з бойовими наркотиками§!, стають доступними.§!"
+ SGR_SAW_soldier_return:0 "§W[?SGR_SAW_manpower|R0] солдатів повертаються до §gҐерманії§!.\n§RУсі§! добровольчі дивізії, відправлені до §YАфрики§!, будуть відкликані назад до §gҐерманії§!.§!"
+ BOR_SAW_soldier_return:0 "§W[?GER_Bormann_SAF_manpower|R0] солдатів повертаються до §gҐерманії§!.\n§RУсі§! добровольчі дивізії, відправлені до §YАфрики§!, будуть відкликані назад до §gҐерманії§!.§!"
 
- SGR_SAW_involvement_decrease_small_tt:0 "§YWar Involvement§! will §Gdecrease§! by §Y2.5%§!."
- SGR_SAW_involvement_decrease_med_tt:0 "§YWar Involvement§! will §Gdecrease§! by §Y5%§!."
- SGR_SAW_involvement_decrease_big_tt:0 "§YWar Involvement§! will §Gdecrease§! by §Y10%§!."
+ SGR_SAW_war_report_predic_tt:0 "§WМи прогнозуємо збільшення §MГромадянського невдоволення§! на [?SGR_SAW_civilian_protest_growth_base|Y]§Y%§! на наступний місяць.§!"
+ SGR_SAW_war_failure_tt:0 "§W§MТиск з боку громадськості§! став надто великим!§!"
+ SGR_SAW_war_save_tt:0 "§W§MТиск з боку громадськості§! повинен впасти нижче §Y90%§!.§!"
+ SGR_SAW_entry_tt:0 "§WКатегорія рішень §OВійни на півдні§! стає доступною.§!"
+ SGR_SAW_conclude_tt:0 "§W§gРайх§! виходить з §RПівденноафриканської війни§!.§!"
+ SGR_SAW_erhard_plan_tt:0 "§WПлан Ерхарда було обрано.§!"
+ SGR_SAW_tresckow_plan_tt:0 "§WПлан Трескова було обрано.§!"
+ SGR_SAW_withdrawal_tt:0 "§W§gҐерманія§! перебуває в процесі §Yвиходу§! з §RПівденноафриканської війни§!.§!"
+ SGR_SAW_involvement_0_tt:0 "§W§YУчасть§! у §RПівденноафриканській війні§! становить §Y0%§!.§!"
+ SGR_SAW_protests_overwhelming_tt:0 "§W§MПротести§! стали §Rнепереборними§! і досягли принаймні §Y75%§!.§!"
+ SGR_SAW_rob_assets_tt:0 "§W§gРайх§! спробує вилучити активи з африканських Райхскомісаріатів.§!"
+ SGR_SAW_rob_assets_money_tt:0 "§WВилучені активи будуть додані до §gліквідних резервів Ґерманії§!.§!"
+ SGR_SAW_rob_assets_failure_tt:0 "§RСпроба вилучення активів провалилася!§!"
 
- SGR_SAW_protests_increase_small_tt:0 "§MCivilian Protest§! will §Rincrease§! by §Y2.5%§!."
- SGR_SAW_protests_increase_med_tt:0 "§MCivilian Protest§! will §Rincrease§! by §Y5%§!."
- SGR_SAW_protests_increase_big_tt:0 "§MCivilian Protest§! will §Rincrease§! by §Y10%§!."
+ SGR_SAW_light_involvement_tt:0 "§W§gРайх§! зосередиться на §Yнезначній стратегічній участі§! у §RПівденноафриканській війні§!.§!"
+ SGR_SAW_heavy_involvement_tt:0 "§W§gРайх§! зосередиться на §Yзначній стратегічній участі§! у §RПівденноафриканській війні§!.§!"
 
- SGR_SAW_protests_decrease_small_tt:0 "§MCivilian Protest§! will §Gdecrease§! by §Y2.5%§!."
- SGR_SAW_protests_decrease_med_tt:0 "§MCivilian Protest§! will §Gdecrease§! by §Y5%§!."
- SGR_SAW_protests_decrease_big_tt:0 "§MCivilian Protest§! will §Gdecrease§! by §Y10%§!."
+ SGR_SAW_involvement_increase_small_tt:0 "§YУчасть у війні§! §Rзросте§! на §Y2.5%§!."
+ SGR_SAW_involvement_increase_med_tt:0 "§YУчасть у війні§! §Rзросте§! на §Y5%§!."
+ SGR_SAW_involvement_increase_big_tt:0 "§YУчасть у війні§! §Rзросте§! на §Y10%§!."
 
- BOR_SAW_war_report_predic_tt:0 "§WWe predict an increase of §MCivilian Upheaval§! of [?GER_Bormann_SAW_civilian_protest_growth_base|Y]§Y%§! for the next month.§!"
- 
+ SGR_SAW_involvement_decrease_small_tt:0 "§YУчасть у війні§! §Gзменшиться§! на §Y2.5%§!."
+ SGR_SAW_involvement_decrease_med_tt:0 "§YУчасть у війні§! §Gзменшиться§! на §Y5%§!."
+ SGR_SAW_involvement_decrease_big_tt:0 "§YУчасть у війні§! §Gзменшиться§! на §Y10%§!."
 
- #SCRIPTED LOC
+ SGR_SAW_protests_increase_small_tt:0 "§MГромадянські протести§! §Rзростуть§! на §Y2.5%§!."
+ SGR_SAW_protests_increase_med_tt:0 "§MГромадянські протести§! §Rзростуть§! на §Y5%§!."
+ SGR_SAW_protests_increase_big_tt:0 "§MГромадянські протести§! §Rзростуть§! на §Y10%§!."
 
- SGR_SAW_strategy_undecided:0 "undecided"
- SGR_SAW_strategy_robbery:0 "§Gaiming to take Africa's wealth for us§!"
- SGR_SAW_strategy_victory:0 "§Raiming to win the war§!"
- BOR_SAW_strategy_dissidents:0 "§gaiming to send away dissidents§!"
+ SGR_SAW_protests_decrease_small_tt:0 "§MГромадянські протести§! §Gзменшаться§! на §Y2.5%§!."
+ SGR_SAW_protests_decrease_med_tt:0 "§MГромадянські протести§! §Gзменшаться§! на §Y5%§!."
+ SGR_SAW_protests_decrease_big_tt:0 "§MГромадянські протести§! §Gзменшаться§! на §Y10%§!."
 
- SGR_SAW_involvement_none:0 "§Wnon-existent§!"
- SGR_SAW_involvement_small:0 "§glow-level§!"
- SGR_SAW_involvement_med:0 "§Ynotable§!"
- SGR_SAW_involvement_big:0 "§Osignificant§!"
- SGR_SAW_involvement_huge:0 "§Rmajor§!"
+ BOR_SAW_war_report_predic_tt:0 "§WМи прогнозуємо збільшення §MГромадянського невдоволення§! на [?GER_Bormann_SAW_civilian_protest_growth_base|Y]§Y%§! на наступний місяць.§!"
 
- SGR_SAW_protest_none:0 "§Wnon-existent§!"
- SGR_SAW_protest_small:0 "§gsmall§!"
- SGR_SAW_protest_med:0 "§Ygrowing§!"
- SGR_SAW_protest_big:0 "§Ovast§!"
- SGR_SAW_protest_huge:0 "§Roverwhelming§!"
 
- SGR_SAW_strat_rob_tt:0 "§WOur war-time strategy shall base on §Gevacuating what wealth remains in Africa§!.§!"
- SGR_SAW_strat_win_tt:0 "§WOur war-time strategy shall base on §Rseeing the war to victory§!.§!"
- BOR_SAW_strat_dis_tt:0 "§WOur war-time strategy shall base on §gusing the war to get rid of dissidents§!.§!"
+ #СКРИПТОВАНІ показники
 
- # SAW Withdrawal
+ SGR_SAW_strategy_undecided:0 "не визначено"
+ SGR_SAW_strategy_robbery:0 "§Gнацілюємося на вилучення багатства Африки на нашу користь§!"
+ SGR_SAW_strategy_victory:0 "§Rнацілюємося на перемогу у війні§!"
+ BOR_SAW_strategy_dissidents:0 "§gнацілюємося на відправку інакодумців§!"
 
- GER_promote_kai_uwe_von_hassel_tt:0 "§WThe §gReich's§! interests in Afrika shall be represented by a proper administrator.§!"
- GER_prepare_german_loyalists_tt:0 "§WWe will ensure our interests remain at the top of the African RKs' priorities.§!"
- GER_investigate_internal_affairs_tt:0 "§WA better understanding of internal affairs in Afrika will help us evaluate our future options.§!"
- GER_investigate_african_rebels_tt:0 "§WWe will be able to interact with native rebels in the future.§!"
- GER_African_RKs_Collapse_tt:0 "§RThe African Reichskommissariats will begin to collapse in the face of §BSouth Africa's§! materiel advantage.§!"
+ SGR_SAW_involvement_none:0 "§Wнеіснуюча§!"
+ SGR_SAW_involvement_small:0 "§gнизький рівень§!"
+ SGR_SAW_involvement_med:0 "§Yзначна§!"
+ SGR_SAW_involvement_big:0 "§Oзначна§!"
+ SGR_SAW_involvement_huge:0 "§Rвелика§!"
+
+ SGR_SAW_protest_none:0 "§Wнеіснуюча§!"
+ SGR_SAW_protest_small:0 "§gнезначна§!"
+ SGR_SAW_protest_med:0 "§Yзростає§!"
+ SGR_SAW_protest_big:0 "§Oширока§!"
+ SGR_SAW_protest_huge:0 "§Rнепереборна§!"
+
+ SGR_SAW_strat_rob_tt:0 "§WНаша стратегія під час війни базується на §Gвиведенні залишків багатств Африки§!.§!"
+ SGR_SAW_strat_win_tt:0 "§WНаша стратегія під час війни базується на §Rперемозі у війні§!.§!"
+ BOR_SAW_strat_dis_tt:0 "§WНаша стратегія під час війни базується на §gвикористанні війни для позбавлення від інакодумців§!.§!"
+
+ #Вихід з Південноафриканської війни
+
+ GER_promote_kai_uwe_von_hassel_tt:0 "§WІнтереси §gРайху§! в Африці мають представлятися належним адміністратором.§!"
+ GER_prepare_german_loyalists_tt:0 "§WМи гарантуємо, що наші інтереси залишаться у пріоритеті для африканських Райхскомісаріатів.§!"
+ GER_investigate_internal_affairs_tt:0 "§WКраще розуміння внутрішніх справ Африки допоможе нам оцінити наші майбутні можливості.§!"
+ GER_investigate_african_rebels_tt:0 "§WМи зможемо взаємодіяти з місцевими повстанцями у майбутньому.§!"
+ GER_African_RKs_Collapse_tt:0 "§RАфриканські Райхскомісаріати почнуть розвалюватися під тиском §BПівденної Африки§! і її матеріальної переваги.§!"
