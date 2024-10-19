@@ -5,7 +5,7 @@
  ### Party Names ###
  
  FUK_progressivism_party:0 "УНДА"
- FUK_progressivism_party_long:0 " Український народно-демократичний альянс" 
+ FUK_progressivism_party_long:0 "Український народно-демократичний альянс" 
  FUK_liberalism_party:0 "УНДП"
  FUK_liberalism_party_long:0 "Українська народно-демократична партія"
  FUK_conservatism_party:0 "УНДП"
@@ -90,7 +90,7 @@
 
  ### Decisions ###
  
- UKR_UCW_empower_polissian_guard: "Надайте повноваження УНРА"
+ UKR_UCW_empower_polissian_guard: "Надати повноваження УНРА"
  UKR_UCW_request_polish_aid: "Попросити польщі про допомогу"
  UKR_UCW_seize_upa_civ_assets: "Захопити цивільні активи УПА"
  UKR_UCW_search_collab_filing_cabinets: "Пошук файлів колаборантів"
@@ -105,14 +105,14 @@
  UKR_FUK_power_struggle_active_decision: "Ще одне §Mрішення§! §Pстовпів§! §sреволюції§! в дії"
 
  FUK_rally_borovets_men: "Мітинг людей Боровця"
- FUK_emphasise_the_struggle: "Наголосити на анті§jнімецькій§! боротьбі"
- FUK_contact_the_home_army: "Звернутися до §xкрайовської§! §Wармії§!"
+ FUK_emphasise_the_struggle: "Наголосити на анти§jнімецькій§! боротьбі"
+ FUK_contact_the_home_army: "Звернутися до §xармії§! §Wкрайови§!"
  FUK_promote_dedicated_partisans: "Просувати відданих §Mпартизан§!"
  FUK_combat_internal_fascism: "Боротися з внутрішнім §Jфашизмом§!"
  FUK_mobilize_the_population: "Мобілізувати населення"
  FUK_defend_ukranian_culture: "Захищати §mУкраї§!§Yнську§! культуру"
  FUK_offer_a_nationalist_alternative: "Запропунувати §Rнаціон§!§sалістичну§! альтернативу"
- FUK_expand_literature_club: "Розширювати §mУкраї§!§Yнські§! зустірі клубу літератури"
+ FUK_expand_literature_club: "Розширювати §mУкраї§!§Yнські§! зустрічі клубу літератури"
  FUK_meet_with_socialist_republicans: "Зустрічатися з поміркованими §Rсоціялістами§!"
  FUK_promise_business_owners_amnesty: "Обіцяти амністію £UKR_industrial_texticon §Lвласникам бізнесу§!"
  FUK_convert_police_officers: "Конвертувати £GFX_UKR_collab_texticon §Qофіцерів Поліції§!"
