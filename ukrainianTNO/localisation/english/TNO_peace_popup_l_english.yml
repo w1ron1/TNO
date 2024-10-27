@@ -118,7 +118,7 @@
 
  #Капітуляція (продовження війни) події
  
- TNO_PEACE_POPUP_WAR_CONTINUING_DEFAULT: "Держава §Y[winning_country.GetNameWithFlag]§! преемогла державу §Y[losing_country.GetNameWithFlag]§! в умовах триваючого конфлікту."
+ TNO_PEACE_POPUP_WAR_CONTINUING_DEFAULT: "Держава §Y[winning_country.GetNameWithFlag]§! перемогла державу §Y[losing_country.GetNameWithFlag]§! в умовах триваючого конфлікту."
  
  #Ванільний варіант
  
