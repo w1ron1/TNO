@@ -17,7 +17,7 @@
    # 6.4 - ПІСЛЯ-УГВ ФОКУСИ
    # 6.5 - ФОКУСИ БРЕУТІГАМА
    # 6.6 - ФОКУСИ ЛАЙББРАНДТА
-   # 6.7 - ФОКУСИ ОЛЕНДОРФ
+   # 6.7 - ФОКУСИ ОЛЕНДОРФА
  # 7 - ІВЕНТИ
    # 7.1 - ВСТУПНІ ІВЕНТИ
    # 7.2 - БОМБІТЬ КОКХА ІВЕНТИ
@@ -1394,13 +1394,13 @@
  UKR_UCW_RK.70.desc: ""Dear Representative Bräutigam,\n\nI was moved by your government's efforts to contact me, and I have decided with consultation from my ministers of Staff and Foreign Affairs that a small amount of assistance can be arranged. Consider it a gesture of good faith between our great nations, a strengthening of the alliance that holds Bulgaria and Germany together. Ukraine is a beautiful land, one I visited on a vacation to Theodorichshafen just two summers ago. It cannot be overrun by the madness of extremism.\n\nYours,\nBoris III, King of Bulgaria"\n\nHans-Otto Bräutigam held the letter in his hands. It wasn't perfect - For one, the assistance was merely small shipments of excess guns and foodstuffs; for another, Boris III seemed not to know that Theodorichshafen was not actually in Ukraine. Nevertheless, it was certainly better than nothing. Bräutigam had found himself a win, and Ukraine could last a few days more."
  UKR_UCW_RK.70.a: "A victory from Sofia."
 
- UKR_UCW_RK.71.t: "Bulgaria Declines Aid Request"
- UKR_UCW_RK.71.desc: ""Dear Representative Bräutigam,\n\nIt is my great displeasure to tell you that despite our clear sympathies, the Bulgarian government cannot help you at this time. I wish, truly and deeply, that I could prevent the revolution happening in your midst - alas, a similar conspiracy exists within my own borders, and both my vigilance and my government's assets are entirely tied up in this separate anti-partisan activity. In order to preserve the integrity of my own nation, I must decline. Nevertheless, best of luck to you, and may we meet in person under more pleasant circumstances.\n\nYours,\nBoris III, King of Bulgaria"\n\nHans-Otto Bräutigam held the letter in his hands. It seemed that the Kingdom of Bulgaria would not provide any kind of assistance. No great loss - Bulgaria was always the biggest longshot, even if the rejection still stung a little. Bräutigam pushed his finger across the bottom of the page, and the signature smeared. At least he had the decency to give it his own signature."
- UKR_UCW_RK.71.a: "Abandoned with dignity."
+ UKR_UCW_RK.71.t: "Болгарія відхилила запит на допомогу"
+ UKR_UCW_RK.71.desc: "«Шановний представник Бреутігам,\n\nз великим незадоволенням повідомляю вам, що, незважаючи на наші явні симпатії, болгарський уряд не може допомогти вам у цей час. Я щиро і глибоко бажав би, щоб я міг запобігти революції у вашому середовищі - на жаль, подібна змова існує в межах моїх власних кордонів, і моя пильність та активи мого уряду повністю пов'язані з цією окремою антипартійною діяльністю. Щоб зберегти цілісність моєї нації, я повинен відмовитися. Тим не менш, бажаю вам удачі, і нехай ми зустрінемося особисто за більш приємних обставин.\n\nваш\nБорис ІІІ, цар Болгарії.\n\nГанс-Отто Бреутігам тримав листа в руках. Здавалося, що Королівство Болгарія не надасть жодної допомоги. Не велика втрата - Болгарія завжди була найбільшим ризиком, навіть якщо відмова все ще трохи боляче вражала. Бреутігам провів пальцем по нижній частині сторінки, і підпис розмазався. Принаймні йому вистачило порядності поставити власний підпис."
+ UKR_UCW_RK.71.a: "Покинуті з гідністю."
 
- UKR_UCW_RK.8.t: "To the President of Turkey"
- UKR_UCW_RK.8.desc: ""Dear [TUR.GetLeader]\n\nI write to you today not as a representative of the Reich but as a man who values stability in these often uncertain times. Our domain suffers widespread chaos apparent to even the blindest observer. We are desperate for support to quell terrorist uprisings. That is why I am writing this letter, as our Reichskommissariat teeters over the edge.\n\nWe require munitions and armaments if we are to calm this region. I understand relations between our countries have decayed, but the consequences of our collapse will have a vast impact on the natural order that has been established. Ankara will not be safe from the danger of communists buying top-of-the-line German weaponry to wreak havoc on the stability that Atatürk fought for.\n\nI understand the apprehension in helping our government. I wish to reform it, but I will be unable to do so if we lose control. If our grip was loosened, Ukraine could even fall into the hands of communists, desperate to fund any potential allies, perhaps even those unruly Armenians and Kurds within your lands.\n\nI eagerly await your response.\n\nYours sincerely,\nHans-Otto Bräutigam, representative of the Foreign Office""
- UKR_UCW_RK.8.a: "Bräutigam sighed as he sealed the envelope, unsure of any help to come."
+ UKR_UCW_RK.8.t: "Президенту Туреччини"
+ UKR_UCW_RK.8.desc: "«Шановний [TUR.GetLeader]\n\nЯ пишу вам сьогодні не як представник Райху, а як людина, яка цінує стабільність у ці часто непевні часи. Наша областина страждає від широкомасштабного хаосу, очевидного навіть для самого сліпого спостерігача. Ми відчайдушно потребуємо підтримки для придушення терористичних повстань. Саме тому я пишу цього листа, оскільки наш Райхскомісаріят балансує на межі.\n\nМи потребуємо боєприпасів та озброєння, якщо хочемо заспокоїти цей регіон. Я розумію, що відносини між нашими країнами занепали, але наслідки нашого розпаду матимуть величезний вплив на природний порядок, що встановився. Анкара не буде в безпеці від того, що комуністи купуватимуть найсучаснішу німецьку зброю, щоб зруйнувати стабільність, за яку боровся Ататюрк.\n\nЯ розумію побоювання щодо допомоги нашому уряду. І я хочу його реформувати, але я не зможу цього зробити, якщо ми втратимо контроль над країною. Якщо ми послабимо хватку, Україна може навіть потрапити до рук комуністів, які відчайдушно намагатимуться фінансувати будь-яких потенційних союзників, можливо, навіть непокірних вірмен і курдів на ваших землях.\n\nЯ з нетерпінням чекаю на вашу відповідь.\n\nЗ повагою,\nГанс-Отто Бреутігам, представник Міністерства закордонних справ»"
+ UKR_UCW_RK.8.a: "Бреутігам зітхнув, запечатуючи конверт, не сподіваючись на будь-яку допомогу."
 
  UKR_UCW_RK.81.t: "Райхскомісаріят Україна просить допомогу" #Івент бачний тільки Туреччині (CHP ITW перемогла)
  UKR_UCW_RK.81.desc: ""
@@ -1908,7 +1908,7 @@
  ###############
 
  ### 8.1 - ДЕБАҐ РІШЕННЯ ###
- UKR_debug_category: "§MУкраї§!§Yнський§! §WДебаґ§!"
+ UKR_debug_category: "§MУкраї§!§Yнський§! §Wдебаґ§!"
  UKR_debug_category_desc: "Нехай минають дні, нехай вода тримає мене на дні\nНехай минають дні, нехай вода тече під землею\nЗнову в блакить, коли гроші пішли\nОдин раз в житті, вода тече під землею..."
  
  UKR_pre_ucw_debug: "§WДЕБАҐ ДО ГРОМАДЯНСЬКОЇ ВІЙНИ§!"
@@ -1921,7 +1921,7 @@
  UKR_pre_UCW_tree_BOV: "Завантажити §YДрево УПА§!"
  UKR_pre_UCW_tree_RK: "Завантажити §YДрево РК§!"
  
- UKR_ucw_debug: "§xДЕБАҐ ЦИВІЛЬНОЇ ВІЙНИ§!"
+ UKR_ucw_debug: "§xДЕБАҐ ГРОМАДЯНСЬКОЇ ВІЙНИ§!"
  UKR_UCW_tree_debug: "Завантажити §YДрево РК УГВ§!"
  
  UKR_destiny_debug: "Включити механіку §CДолі§!"
@@ -1996,7 +1996,7 @@
 
  UKR_power_struggle_factionalism_intensifies: "§RПосилює фракційність§!"
 
- ## 8.2.1 - РІШЕННЯ БреутігамА У БОРОТЬБІ ЗА ВЛАДУ ##
+ ## 8.2.1 - РІШЕННЯ БРЕУТІГАМА У БОРОТЬБІ ЗА ВЛАДУ ##
 
  UKR_power_struggle_appeal_to_the_unc: "Звернення до УГА"
  UKR_power_struggle_gather_corporate_allies: "Залучати корпоративних союзників"
@@ -2007,7 +2007,7 @@
  UKR_power_struggle_negotiate_lower_grain_quotas: "Вести переговори про зниження квот на зерно"
  UKR_power_struggle_push_against_harsher_measures: "Виступити проти більш жорстких заходів"
 
- ## 8.2.2 - РІШЕННЯ ЛайббрандтА У БОРОТЬБІ ЗА ВЛАДУ ##
+ ## 8.2.2 - РІШЕННЯ ЛАЙББРАНДТА У БОРОТЬБІ ЗА ВЛАДУ ##
 
  UKR_power_struggle_tighten_the_unc_grip: "Затягніть рукоятку УГА"
  UKR_power_struggle_reassure_the_businessmen: "Заспокоїти бізнесменів"
@@ -2523,7 +2523,7 @@
  UKR_PS_BUR_tt: "§FЛояльність £UKR_bureaucracy_texticon §rБюрократів§! Належить до [Get_UKR_PS_inf_BUR].§!"
  UKR_PS_BUR_tt_delayed: "§LСтроката команда вигнанців з усього Райху, бюрократія Райхскомісаріяту здається, може погодитися лише з однією фразою: стабільність повинна бути відновлена.\n\nАле вони не пропонують жодного реального рішення, жодного напрямку. Якщо хтось хоче керувати Райхскомісаріятом, він повинен буде його забезпечити.§!\n\n§BЛайббрандт§! має підтрику [?UKR_PS_Bureaucrat^1]%\n\n§oОлендорф§! має підтримку [?UKR_PS_Bureaucrat^0]%\n\n§gБреутігам§! має підтримку [?UKR_PS_Bureaucrat^2]%"
  UKR_PS_COL_tt: "§FЛояльність £UKR_collab_texticon §QКолабораціоністів§! належить до [Get_UKR_PS_inf_COL].§!"
- UKR_PS_COL_tt_delayed: "§LПіднявшись після жахливого жорстокого поводження з Голодоморним планом, невелика група українців стоїть пліч-о-пліч зі своїми німецькими господарями.\n\nПочатково незначні, нещодавні реформи збільшили їхній вплив у Райхскомісаріяті. Подобається вам це чи ні, але колаборанти тепер мають право голосу в майбутньому України.§!\n\n§BЛайббрандт§! має підтримку [?UKR_PS_Collaborator^1]%\n\n§oОлендорф§! має підтримку [?UKR_PS_Collaborator^0]%\n\n§gБреутігамm§! має підтримку [?UKR_PS_Collaborator^2]%"
+ UKR_PS_COL_tt_delayed: "§LПіднявшись після жахливого жорстокого поводження з Голодоморним планом, невелика група українців стоїть пліч-о-пліч зі своїми німецькими господарями.\n\nПочатково незначні, нещодавні реформи збільшили їхній вплив у Райхскомісаріяті. Подобається вам це чи ні, але колаборанти тепер мають право голосу в майбутньому України.§!\n\n§BЛайббрандт§! має підтримку [?UKR_PS_Collaborator^1]%\n\n§oОлендорф§! має підтримку [?UKR_PS_Collaborator^0]%\n\n§gБреутігам§! має підтримку [?UKR_PS_Collaborator^2]%"
  UKR_PS_MIL_tt: "§FЛояльність £UKR_military_texticon §sПоліції§! належить до [Get_UKR_PS_inf_MIL].§!"
  UKR_PS_MIL_tt_delayed: "§LПоліція може бути не найгламурнішим крилом Райхскомісаріяту, але вона є найефективнішою - і найжорстокішою - у своїх методах.\n\nУ міру того, як Україна руйнується, поліція розглядає своє насильство як останній оплот проти варварства. Український народ - і навіть частина уряду - бачить у них тих, ким вони є: м'ясників.§!\n\n§BЛайббрандт§! має підтримку [?UKR_PS_Militarist^1]%\n\n§oОлендорф§! має підтримку [?UKR_PS_Militarist^0]%\n\n§gБреутігам§! має підтримку [?UKR_PS_Militarist^2]%"
  
