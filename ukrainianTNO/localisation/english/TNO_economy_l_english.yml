@@ -4,24 +4,24 @@ economy_multiplicative_modifiers_base: "Базові значення"
 
 ### NEW NEW GUI ###
 
-puCalc_gdp_text: "£production_units_texticon  §GВиробничі одиниці§! від §YВВП§!:"
+puCalc_gdp_text: "£production_units_texticon  §GВ.О.§! Від §YВВП§!:"
 puCalc_gdp_tt: ""
 puCalc_gdp_tt_long: ""
 puCalc_gdp_value_text: "[?production_units_gdp_raw|+0]"
 
-puCalc_trade_text: "£production_units_texticon  §GВиробничі одиниці§! від §Yторгівлі§!:"
+puCalc_trade_text: "£production_units_texticon  §GВ.О.§! Від §Yторгівлі§!:"
 puCalc_trade_tt: ""
 puCalc_trade_tt_long: ""
 puCalc_trade_value_text: "[?PU_trade_balance|+0]"
 
-puCalc_other_text: "£production_units_texticon  Інші §GВиробничі одиниці§!:"
+puCalc_other_text: "£production_units_texticon  Інші §GВ.О.§!:"
 puCalc_other_tt: ""
 puCalc_other_tt_long: ""
 puCalc_other_value_text: "[?production_units_modifier|+0]"
 
 ### OLD NEW GUI ###
 
-nominal_GDP_growth_txt: "§GЗростання номінального ВВП:§!"
+nominal_GDP_growth_txt: "§GЗростання ном. ВВП:§!"
 nominal_GDP_growth_txt_number: "§W[?GDP_growth_nominal|3]%§!"
 nominal_GDP_growth_tt: "Наш номінальний темп зростання ВВП становить £gdp_growth_texticon §W[?GDP_growth_nominal|3]%§! від базового номінального зростання у §W[?GDP_growth_nominal_display_tt|3]%§! з мультиплікатором [?GDP_growth_multiplier|+][GetRedGreenGDPMultiplier]x§!.\n\nБазове номінальне зростання становить §W[?GDP_growth_nominal_display_tt|3]%§!:\n  [?GDP_growth|+=][GetRedGreenBaseGDPGrowth]%§! базова ставка[GetGDPGrowthModifierExists][GetGDPGrowthEffectReservesExists]\n  [?deficit_GDP_growth_effect|+=][GetRedGreenSpendingEffect]%§! від нашого [Get_deficit_surplus]\n\nНаш мультиплікатор темпів зростання ВВП становить [?GDP_growth_multiplier|3+][GetRedGreenGDPMultiplier]x§!:\n  [?1|+=] базовий мультиплікатор [GetGrowthMultiplierExists][GetGDPGrowthDebtEffectExists][GetTotalPowerPlantEffectExists][GetTotalInfrastructureExists][GetDamagedInfrastructureExists][GetTaxesEffectExists][GetPopulationEffectExists][GetTradeEffectExists]"
 nominal_GDP_growth_tt_long: "£gdp_growth_texticonНомінальне зростання ВВП - це зростання нашого ВВП без урахування впливу інфляції. Це наш національний показник зростання, який не враховує ефекти зростання ВВП на рівні регіонів."
