@@ -1,62 +1,62 @@
 ﻿l_english:
 
-###################
-## COUNTRY NAMES ##
-###################
-STC: "Santa Cruz"
-STC_DEF: "the Oriental Government Comission"
-STC_ADJ: "Oriental"
+##################
+## назва країни ##
+##################
+STC: "Санта-Крус"
+STC_DEF: "Урядова комісія Орієнтальців"
+STC_ADJ: "Крусецьк"
 
-STC_camba: "Camba"
-STC_camba_DEF: "the Camba Nation"
-STC_camba_ADJ: "Camba"
+STC_camba: "Камба"
+STC_camba_DEF: "Нація Камба"
+STC_camba_ADJ: "Камбськ"
 
 #################
-## PARTY NAMES ##
+## НАЗВИ ПАРТІЙ ##
 #################
-STC_paternalism_party: "POS"
-STC_paternalism_party_long: "Partido Oriental Socialista"
-STC_liberal_conservatism_party: "PLC"
-STC_liberal_conservatism_party_long: "Partido Liberal Cruceño"
-STC_fascism_party: "FNC"
-STC_fascism_party_long: "Falange de la Nación Camba"
-STC_despotism_party: "Unionist Cliques"
-STC_despotism_party_long: "Unionist Cliques"
+STC_paternalism_party: "ПОС"
+STC_paternalism_party_long: "Партія орієнтального соціялізму"
+STC_liberal_conservatism_party: "ПЛК"
+STC_liberal_conservatism_party_long: "Партія ліберальних крусеньйо"
+STC_fascism_party: "ФНК"
+STC_fascism_party_long: "Фаланга Нації Камба"
+STC_despotism_party: "Юніоністські клани"
+STC_despotism_party_long: "Юніоністські клани"
 
 ##################
-## LEADER DESCS ##
+## ОПИСИ ЛІДЕРІВ ##
 ##################
-STC_Carmelo_Ortiz_Taborga: "Carmelo Ortíz Taborga"
-POLITICS_CARMELO_ORTIZ_TABORGA: "The reignition of the Chaco War by President Busch, a calamitous event for most of Bolivia, was almost providential for a peculiar group of Orientals, centered around the figure of Carmelo Ortíz Taborga.\n\nThese men and women, collectively known as the "Separatists," spent much of the Chaco War in Asunción, fighting an intellectual war of words with their "Integrationist" pairs. Both groups are highly racialist and dismissive of the ability of the western highland population - even of its white minority - to rule for itself. Their primary disagreement lies on whether this means the eastern sectors of the country, namely Santa Cruz, and its own white population, ought to "take charge" of the country, or leave it altogether. With the Paraguayan triumphal entry into the department's namesake city, the separatist faction received a major material and propagandistic boost, as well as control of the occupied zone's civil administration.\n\nTheir leader, a former merchant and telegraph operator, was the first to jump the ship to Paraguay for help in the cause of independence, and his legitimacy with the Santa Cruz elite has only increased with each failed Bolivian attempt to retake the city. Nevertheless, the population of the region, across both sides of the latest armistice line, remain highly divided on the matter. Moreover, the government that rules the civil administration in occupied Santa Cruz is itself composed of a big-tent coalition of Ortíz Taborga's early supporters, members of the briefly extant Oriental Socialist Party, and a new generation of chiefs orbiting around the "apolitical" pro-Santa Cruz Committee. While these contain the aggregate sum of political opinion in the region, many in the latter two groups are not fully convinced of independence, which ultimately has as its guarantor only the military fortunes of Paraguay."
-STC_Carlos_Valverde_Barbery: "Carlos Valverde Barbery"
-STC_Carlos_Valverde_Barbery_hog_desc: "§YHead of Government\nNational Syndicalism§!"
-STC_Elfy_Albrecht: "Elfy Albrecht"
-STC_Elfy_Albrecht_for_desc: "§YForeign Minister\nPaternalism§!"
-STC_Melchor_Pinto: "Melchor Pinto"
-STC_Melchor_Pinto_eco_desc: "§YEconomy Minister\nConservatism§!"
-STC_Modesto_Saavadera: "Modesto Saavadera"
-STC_Modesto_Saavadera_sec_desc: "§YSecurity Minister\nDespotism§!"
-STC_Hugo_Banzer: "Hugo Banzer"
+STC_Carmelo_Ortiz_Taborga: "Кармело Ортіс Таборга"
+POLITICS_CARMELO_ORTIZ_TABORGA: "Відновлення Чакської війни президентом Бушем, катастрофічна подія для більшості Болівії, виявилася майже провіденційною для певної групи орієнтальців, зосереджених навколо фігури Кармело Ортіса Таборги.\n\nЦі чоловіки та жінки, відомі як «сепаратисти», провели більшу частину Чакської війни в Асунсьйоні, ведучи інтелектуальну війну слів зі своїми «інтеграціоністськими» опонентами. Обидві групи є високо расистськими та зневажливо ставляться до спроможності населення західного нагір'я — навіть його білої меншини — самостійно керувати. Їх основна розбіжність полягає у тому, чи означає це, що східні сектори країни, а саме Санта-Крус, разом із власним білим населенням, мають «взяти владу» у країні чи покинути її назавжди. З тріумфальним вступом парагвайців до міста Санта-Крус, сепаратистська фракція отримала значний матеріальний і пропагандистський стимул, а також контроль над цивільною адміністрацією окупованої зони.\n\nЇхній лідер, колишній торговець і телеграфіст, був першим, хто звернувся до Парагваю по допомогу в справі незалежності, і його легітимність серед еліти Санта-Крус лише зростала з кожною невдалою спробою Болівії відвоювати місто. Тим не менш, населення регіону, по обидва боки останньої демаркаційної лінії за перемир’ям, залишається сильно розділеним у цьому питанні. Більше того, уряд, що керує цивільною адміністрацією окупованого Санта-Крусу, сам складається з широкої коаліції ранніх прибічників Ортіса Таборги, членів короткочасно існуючої Партії Орієнтального Соціалізму та нового покоління лідерів, які орбітують навколо «аполітичного» комітету на підтримку Санта-Круз. Хоча ці групи складають сукупну більшість політичної думки в регіоні, багато хто з останніх двох груп не повністю переконаний у незалежності, яка, в кінцевому рахунку, має гарантом лише військові успіхи Парагваю."
+STC_Carlos_Valverde_Barbery: "Карлос Вальверде Барбері"
+STC_Carlos_Valverde_Barbery_hog_desc: "§YГолова уряду\nФалангізм§!"
+STC_Elfy_Albrecht: "Елфі Альбрехт"
+STC_Elfy_Albrecht_for_desc: "§YМіністр закордонних справ\nПатерналізм§!"
+STC_Melchor_Pinto: "Мельчор Пінто"
+STC_Melchor_Pinto_eco_desc: "§YМіністр економіки\nКонсерватизм§!"
+STC_Modesto_Saavadera: "Модесто Сааведра"
+STC_Modesto_Saavadera_sec_desc: "§YМіністр безпеки\nДеспотизм§!"
+STC_Hugo_Banzer: "Уго Бансер"
 
-STC_Jose_Luis_Camacho_Parada: "José Luis Camacho"
+STC_Jose_Luis_Camacho_Parada: "Хосе Луїс Камачо"
 POLITICS_CAMACHO_PARADA: ""
 
 #######################
-## IDEAS & MINISTERS ##
+## ІДЕЇ ТА МІНІСТРИ ##
 #######################
- 
-##Starting Spirits
-STC_oriental_racist_party: "The Oriental Racist Party"
-STC_oriental_racist_party_desc: "Both of the dominant strains of political thought in Santa Cruz (Unionism and Separatism) rest on the assumption of the Racial superiority of Santa Cruz relative to the inferior, 'colla', west.\n\nWhether this takes the form of exalting both a hispanic-white purity, or a guarani-mestizo warrior ancestry - which it has sometimes been done simultaneously - the perception is that there exists an "Oriental Racist Party," as the Western newspapers refer to it, determined to turn Santa Cruz into the bane of all of Bolivia."
-STC_pozo_cano_ghost: "Pozo Cano's Ghost"
-STC_pozo_cano_ghost_desc: "Since 1938, the top priority and aim of Paraguayan foreign policy has been to achieve Oriental independence, as a prelude to Santa Cruz's eventual annexation.\n\nRaúl del Pozo Cano and Benjamín Velilla proved a crucial pair in this endeavor, and their former office at the Paraguayan consulate in Santa Cruz continues to be the source of much separatist propaganda, which, when combined with Paraguayan military prowess, has had a substantial effect in swaying the minds of the indecisive amongst the Oriental population."
-STC_masonic_shadow_war: "The Two-Lodge System"
-STC_masonic_shadow_war_desc: "Conspiracy theories around the Freemasons and their lodges have been a recurring trend in the Western world ever since they first came to prominence. Oftentimes, such conspiracies are wrapped in a dressing of anti-semitism - most prominently, of course, in the German Reich, where Hitler's decrying of the Masons as a Jewish puppet organization directly led to the state-organized mass murder of its members. Rumors of "Masonic plots" have become a boogeyman of leaders from all sides of the political spectrum who need a convenient scapegoat for their nation's woes, regardless of veracity or consequences.\n\nIt is some sort of cruel irony that the only part of the world where this conspiratorial thinking holds any truth is one where its two lodges have long ago splintered away from Masonry altogether.\n\nThe "Caballeros del Oriente" and the "Toborochi", once one and the same until the Toborochi split from the Caballeros, are engaged in a brutal shadow war which engulfs Cruzeño politics. The leadership are all members. The wealthy are all members. The generals are all members. The powerful are all members. If you want to go anywhere in Santa Cruz's society, you will swear yourself to a lodge, or you will find yourself rooted right to where you started."
-STC_rapid_growth: "The Oriental Miracle"
-STC_rapid_growth_desc: "As recently as two decades—or even one decade—ago, Santa Cruz was a backwater, the Bolivian definition of the middle of nowhere. But just as it did for the Arabs, the black gold called oil destroyed that old hellhole forevermore. Today, Cruzeños of a more learned bent half-jokingly refer to their hometown as the 'Pearl of the Orient'.\n\nThe discovery of massive oil deposits resulted in rapid industrial expansion and universal economic growth. That led to a population boom, which fed the breakneck urbanization of the former backwater and construction of seemingly unparalleled infrastructure projects to ensure Santa Cruz kept moving.\n\n§GLet there be no mistake: Santa Cruz is seeing its best days.§!"
 
- ##Ministers
- 
+## Початкові ідеї
+STC_oriental_racist_party: "Орієнтальна расистська партія"
+STC_oriental_racist_party_desc: "Обидва домінуючі напрямки політичної думки у Санта-Крус (юніонізм та сепаратизм) базуються на припущенні про расову перевагу Санта-Крус над «колла», західною частиною країни.\n\nЧи то це проявляється у формі звеличення іспансько-білої чистоти, чи гуарані-метисного воїнського спадку — іноді обидвох речей водночас — сприйняття таке, що «Орієнтальна расистська партія», як її називають західні газети, рішуче налаштована перетворити Санта-Крус на кару для всієї Болівії."
+STC_pozo_cano_ghost: "Привид Поцо-Кано"
+STC_pozo_cano_ghost_desc: "З 1938 року головним пріоритетом і метою зовнішньої політики Парагваю було досягнення незалежності Орієнта як прелюдії до остаточної анексії Санта-Круз.\n\nРауль дель Поцо-Кано та Бенхаміно Велілья стали вирішальною парою у цьому прагненні, а їх колишній офіс у консульстві Парагваю в Санта-Крус залишається джерелом багатьох сепаратистських пропагандистських матеріалів, які, у поєднанні з військовою міццю Парагваю, мали значний вплив на схильність нерішучих серед населення Орієнта."
+STC_masonic_shadow_war: "Система двох лож"
+STC_masonic_shadow_war_desc: "Теорії змов про масонів і їхні ложі є постійною тенденцією у західному світі ще з моменту їх появи. Часто такі змови обгорнуті в оболонку антисемітизму — найбільш відомо про такий процес, звісно, у Німецькому Райху, де Гітлер називав масонів єврейською маріонетковою організацією, що безпосередньо призвело до організованого державою масовим вбивством її членів. Чутки про «масонські змови» стали пугалом для лідерів з усіх боків політичного спектру, які потребують зручного цапа-відбувайла для проблем своїх країн, незалежно від правдивості чи наслідків.\n\nСвого роду жорстока іронія, що єдина частина світу, де ці конспіративні думки мають хоч якесь підґрунтя - це та, де її дві ложі давно відійшли від заповідей масонства.\n\n«Кабальєрос дель Орієнте» та «Тоборочі», колись одне ціле, доки «Тоборочі» не відкололись, ведуть жорстоку тіньову війну, яка охоплює політику Крусеньйо. Лідери — усі члени. Багаті — усі члени. Генерали — усі члени. Здалі — усі члени. Якщо ви хочете досягти чогось у суспільстві Санта-Крус, ви присягнете ложі або залишитеся там, де почали."
+STC_rapid_growth: "Орієнтальне диво"
+STC_rapid_growth_desc: "Ще два десятиліття тому — чи навіть одне — Санта-Крус був глухим кутом, болівійським визначенням безлюдної глибинки. Але, як це сталося з арабами, чорне золото під назвою нафта знищило це старе пекло назавжди. Сьогодні освічені крусеньйо напівжартома називають своє місто «Перлиною Орієнту».\n\nВідкриття величезних нафтових родовищ призвело до стрімкого індустріального зростання та загального економічного підйому. Це спричинило демографічний бум, який підживлював стрімку урбанізацію колишнього захалустя та будівництво неперевершених інфраструктурних проєктів, щоби Санта-Крус продовжував рухатися.\n\n§GНе сумнівайтесь, Санта-Крус переживає свої найкращі дні.§!"
+
+## Міністри
+
 ############
-## EVENTS ##
+## ПОДІЇ ##
 ############

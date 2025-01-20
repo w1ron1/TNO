@@ -1,11 +1,11 @@
 ﻿l_english:
   ### ҐУАНДУН ###
   GNG_achievements: "Кремнієві мрії"
-  GNG_economic_gekokujo_NAME: "Економічний Гекокуджьо"
+  GNG_economic_gekokujo_NAME: "Економічний Ґекокуджьо"
   GNG_economic_gekokujo_DESC: "Скрипуче колесо тріскається."
   GNG_outraced_manchukuo: "§FМи перевершили £MAN_manchukuo_texticon §fімперію Манчжурія§! економічно.§!"
 
-  GNG_the_business_of_ingenuity_achievement_NAME: "Бізнес це винахідливість"
+  GNG_the_business_of_ingenuity_achievement_NAME: "Бізнес винахідливості"
   GNG_the_business_of_ingenuity_achievement_DESC: "«Допитливість - це ключ до творчості.»"
   GNG_100_percent_product: "§FПродайте §fідеа§!§mльний§! продукт.§!"
 
@@ -23,10 +23,10 @@
 
   GNG_a_worthy_heir_NAME: "Гідний спадкоємець"
   GNG_a_worthy_heir_DESC: "Чоловіча амбіція здійснилася."
-  GNG_matsushita_independent_achievement: "§F§WМацушіта Масахару§! проявив себе у важкі часи.§!"
+  GNG_matsushita_independent_achievement: "§F§WМацушіта Масахару§! проявив себе у справді важкі часи.§!"
 
   GNG_overshadowed_legacies_NAME: "Затьмарена спадщина"
-  GNG_overshadowed_legacies_DESC: "Мацушіта лише в назві"
+  GNG_overshadowed_legacies_DESC: "Влада мацушіти лише на папері."
   GNG_matsushita_puppet_achievement: "§F§WМацушіта Масахару§! був надто слабким і не міг виборити власний шлях.§!"
 
   GNG_utopian_parody_NAME: "Пародія на утопію"
@@ -35,14 +35,14 @@
   GNG_Utopian_Parody_tooltip_1: "§F§mЩо це за ще одна жертва в ім'я досконалості?§!§!"
   GNG_Utopian_Parody_tooltip_2: "§F§mІбука Масару§! мусить подивитися правді в очі.§!"
 
-  GNG_happy_worlds_end_NAME: "Щасливий світ закінчився"
-  GNG_happy_worlds_end_DESC: "Хоп-хоп-степ-степ, і можна мені станцювати танець, на кінець світу, давай зробимо на раз-два!"
+  GNG_happy_worlds_end_NAME: "Кінець щасливого світу"
+  GNG_happy_worlds_end_DESC: "Кінець світу не може бути нічим іншим як кінцем ілюзій."
   GNG_happy_worlds_end_custom_trigger: "[Get_Happy_Worlds_End_trigger]"
   GNG_Happy_Worlds_End_tooltip_1: "§F§KТі щасливі часи з §VАкіо§!...\nЯ такий радий що він повернувся.§!§!"
   GNG_Happy_Worlds_End_tooltip_2: "§F§mІбука Масару§! мусить подивитися правді в очі.§!"
 
-  GNG_rigged_from_the_start_NAME: "Це сцена з самого початку"
-  GNG_rigged_from_the_start_DESC: "Єдиний спосіб перемогти - не грати."
+  GNG_rigged_from_the_start_NAME: "Сфальсифіковано з самого початку"
+  GNG_rigged_from_the_start_DESC: "Та єдиний спосіб перемогти - не грати."
   GNG_komai_manchurian_achievement: "§F§LКомаї Кенічіро§! зв'язаний своїми господарями.§!"
 
   GNG_crossing_the_rubicon_NAME: "Перетин Рубікону"
@@ -59,16 +59,16 @@
   UGLY_achievements: "Гидкий американець"
 
   UGLY_Why_Is_Maurice_Here_NAME: "Чому Моріс тут?"
-  UGLY_Why_Is_Maurice_Here_DESC: "Душа, що вижила."
+  UGLY_Why_Is_Maurice_Here_DESC: "Виживша душа."
   UGLY_Why_Is_Maurice_Here_trigger: "§FЗа §MСполученні Штати§§!, врятуйте §YМоріса§!.§!"
   
   UGLY_Just_Here_To_Suffer_NAME: "Ми тут, щоб страждати"
   UGLY_Just_Here_To_Suffer_DESC: "Старий жарт, нова історія."
-  UGLY_Just_Here_To_Suffer_trigger: "§FЯк §gҐерманія§!, вбийте §YМоріса§!.§!"
+  UGLY_Just_Here_To_Suffer_trigger: "§FЯк §gНімеччина§!, вбийте §YМоріса§!.§!"
   
   UGLY_Seized_German_Servers_NAME: "Вилучення Німецьких серверів"
   UGLY_Seized_German_Servers_DESC: "Джерело: Військові."
-  UGLY_Seized_German_Servers_trigger: "§FЯк §gҐерманія§! §Fчи§! §MАмерика§!, вийграйте у Ісландськіх виборах §Rбез створення§! коаліційного уряду.§!"
+  UGLY_Seized_German_Servers_trigger: "§FЯк §gНімеччина§! §Fчи§! §MАмерика§!, вийграйте у Ісландськіх виборах §Rбез створення§! коаліційного уряду.§!"
   
   UGLY_Impeachment_With_Honor_NAME: "Імпічмент з честю"
   UGLY_Impeachment_With_Honor_DESC: "Особисто мені, Нiксон нiколи не заважав!"
@@ -83,33 +83,86 @@
   UGLY_The_Ugly_American_trigger: "§FЗа §MСполученні штати§!, зробіть §Rмаксимальне насильство§! у Гаїті.§!"
   
   UGLY_What_The_Doctor_Ordered_NAME: "Те, що доктор прописав"
-  UGLY_What_The_Doctor_Ordered_DESC: "Яблук недостатньо."
-  UGLY_What_The_Doctor_Ordered_trigger: "§FЯк §MСполученні Штати§!, допоможіть §BДювальє§! об'єднати Еспаніньолу.§!"
+  UGLY_What_The_Doctor_Ordered_DESC: "Яблук буде недостатньо."
+  UGLY_What_The_Doctor_Ordered_trigger: "§FЯк §MСполученні Штати§!, допоможіть §BДювальє§! об'єднати Еспаньйолу.§!"
   
-  UGLY_New_Way_Forward_NAME: "Новий шлях уперед"
-  UGLY_New_Way_Forward_DESC: "Обдуриш мене один раз, буде ганьба тобі."
+  UGLY_New_Way_Forward_NAME: "Новий шлях вперед"
+  UGLY_New_Way_Forward_DESC: "Обдуриш мене хоч один раз, буде ганьба тобі."
   UGLY_New_Way_Forward_trigger: "§FЯк §MСполученні Штати§!, §Gпереможіть§! у Гаїті після того, як зобов'язалися §Yзбільшити числіність військ§!.§!"
   
   UGLY_Betting_The_Farm_NAME: "Ставлю на ферми"
   UGLY_Betting_The_Farm_DESC: "Добрий намір чи власний інтерес?"
-  UGLY_Betting_The_Farm_trigger: "§FЯк §MСполученні Штати§!, §Yзрадьте§! §OДомініканським революціонерам§!.§!"
+  UGLY_Betting_The_Farm_trigger: "§FЯк §MСполученні Штати§!, §Yзрадьте§! §OДомініканським революціонерам.§!"
   
-  UGLY_Hart_Attack_NAME: "Атака Харта"
+  UGLY_Hart_Attack_NAME: "Атака Гарта"
   UGLY_Hart_Attack_DESC: "І скільки ми за це платимо?"
-  UGLY_Hart_Attack_trigger: "§FЯк §MХарт§!, намагайтеся §Rмаксімально знищити§! міста.§!"
+  UGLY_Hart_Attack_trigger: "§FЗа §MГарта§!, намагайтеся §Rмаксімально знищити§! міста.§!"
   
-  UGLY_Hart_Breaker_NAME: "Інфаркт Харта"
+  UGLY_Hart_Breaker_NAME: "Інфаркт Гарта"
   UGLY_Hart_Breaker_DESC: "Тримайся."
-  UGLY_Hart_Breaker_trigger: "§FЗа §MХарта§!, §Rпомріть§!.§!"
+  UGLY_Hart_Breaker_trigger: "§FЗа §MГарта§!, §Rпомріть§!.§!"
   
   UGLY_Chep_Off_The_Old_Block_NAME: "Чепуха за межами старого кварталу"
   UGLY_Chep_Off_The_Old_Block_DESC: "Знову те ж саме? Як чудово!"
   UGLY_Chep_Off_The_Old_Block_trigger: "§FЯк §mЧеп§!, §Yзбережіть§! §YURI§! повністю.§!"
   
-  UGLY_Oh_Darling_NAME: "Ох! Любий."
+  UGLY_Oh_Darling_NAME: "Ох! Любий"
   UGLY_Oh_Darling_DESC: "Повірте мені, коли я вам кажу."
   UGLY_Oh_Darling_trigger: "§FЯк §mЧеп§!, врятуйте свій шлюб.§!"
   
   UGLY_Only_Interests_NAME: "Лише інтереси"
   UGLY_Only_Interests_DESC: "Роки оновлення."
-  UGLY_Only_Interests_trigger: "§FЯк §MХарт§!, §Gзахопить Гаваї§! з політикою §YКіссінджера§!§!"
+  UGLY_Only_Interests_trigger: "§FЯк §MГарт§!, §Gзахопить Гаваї§! з політикою §YКіссінджера.§!"
+
+  ### ОПЕРАЦІЯ ЛЮТИЙ МОРОЗ ###
+  ODF_achievements: "Операція лютий мороз"
+
+  ODF_this_is_a_good_thing_NAME: "Це добре?"
+  ODF_this_is_a_good_thing_DESC: "Не можу дочекатися наступного року!"
+  ODF_this_is_a_good_thing_trigger: "§FПережити §mсезон відчаю§!§!"
+
+  ODF_man_best_served_cold_NAME: "Людина - це страва, яку найкраще подавати холодною"
+  ODF_man_best_served_cold_DESC: "Я подивився і побачив чорного коня."
+  ODF_man_best_served_cold_trigger: "§FСтаньте свідком §eруїни§! станції Ширмахера§!"
+
+  ODF_oppenheimer_who_NAME: "Оппенгеймер хто?"
+  ODF_oppenheimer_who_DESC: "Моє ім'я Шуман. Еріх Шуман."
+  ODF_oppenheimer_who_trigger: "§FВчасно завершіть ядерні випробування Шумана§!"
+
+  ODF_penguins_of_madagascar_NAME: "Пінгвіни Мадагаскару"
+  ODF_penguins_of_madagascar_DESC: "Рядовий, дайте мені."
+  ODF_penguins_of_madagascar_trigger: "§Переможіть у §GМалагайській громадянській війні§!§!"
+
+  ODF_dogs_live_for_the_moment_NAME: "Собаки живуть моментом"
+  ODF_dogs_live_for_the_moment_DESC: "Тут трохи холодно."
+  ODF_dogs_live_for_the_moment_trigger: "§FДосягти Південного полюса з мінімальними втратами§!"
+
+  ODF_penguin_emperor_NAME: "У дворі імператора пінгвінів"
+  ODF_penguin_emperor_DESC: "Не соромтеся віддати честь своєму полковнику."
+  ODF_penguin_emperor_trigger: "§FДійдіть до Південного полюса без жодної втрати§!"
+
+  ODF_just_like_scott_NAME: "Прямо як Скотт."
+  ODF_just_like_scott_DESC: "Навіть найвідважніші падають §Bперед холодом,§! §$$вітром§! і §bтемрявою.§!"
+  ODF_just_like_scott_trigger: "§FЯк полковник Леаль, §eзагиньте§! під час §mОперації 90§!§!"
+
+  ODF_the_last_crusade_NAME: "Останній хрестовий похід"
+  ODF_the_last_crusade_DESC: "Ну, це дуже далеко від дому."
+  ODF_the_last_crusade_trigger: "§FВиграти Італо-Турецьку війну за §mАргентинську Антарктику§!§!"
+
+  ODF_operation_deep_freeze_NAME: "Операція лютий мороз"
+  ODF_operation_deep_freeze_DESC: "Це назва гри."
+  ODF_operation_deep_freeze_trigger: "§FЗберігайте факел свободи на замерзлому континенті§!"
+
+  ODF_finish_iceman_NAME: "Крижана людина йде"
+  ODF_finish_iceman_DESC: "Сподіваюсь, він дружелюбний..."
+  ODF_finish_iceman_trigger: "§FЗавершити проєкт крижана людина вчасно§!"
+
+  ODF_waddle_through_the_jungle_NAME: "Краще пробиратися крізь джунглі"
+  ODF_waddle_through_the_jungle_DESC: "Майте серце та поспішайте!"
+  AAO_win_mcw: "Виграти у малагайській громадянській війні"
+  AAO_win_saf: "Виграти у Південно-Африканській війні"
+  AAO_win_phi: "Виграти у Филіппінській громадянській війні"
+
+  ODF_who_goes_there_NAME: "Хто туди ходить?"
+  ODF_who_goes_there_DESC: "Холодні, втомлені, але переможці."
+  ODF_who_goes_there_trigger: "§FЗдобути повну перемогу в операції південний хрест§!"

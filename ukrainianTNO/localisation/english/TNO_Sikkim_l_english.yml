@@ -1,0 +1,38 @@
+﻿l_english:
+ ### Country Names ###
+ SIK: "Sikkim"
+ SIK_DEF: "the Kingdom of Sikkim"
+ SIK_ADJ: "Sikkimese"
+
+ ### Parties ###
+ SIK_communist_party: "CPS"
+ SIK_communist_party_long: "Communist Party of Sikkim"
+ SIK_socialist_party: "SKM"
+ SIK_socialist_party_long: "Sikkim Krantikari Morcha"
+ SIK_liberalism_party: "SSC-N"
+ SIK_liberalism_party_long: "Sikkim State Congress - Nonsectarian"
+ SIK_liberal_conservatism_party: "SSC-P"
+ SIK_liberal_conservatism_party_long: "Sikkim State Congress - Pradhanites"
+ SIK_conservatism_party: "SNP"
+ SIK_conservatism_party_long: "Sikkim National Party"
+ SIK_paternalism_party: "Chogyal's Government"
+ SIK_paternalism_party_long: "Chogyal's Government"
+ SIK_despotism_party: "Palden's Clique"
+ SIK_despotism_party_long: "Palden's Clique"
+
+ ### Characters ###
+ SIK_Tashi_Namgyal: "Tashi Namgyal"
+ SIK_Paljor_Namgyal: "Paljor Namgyal"
+ SIK_Ram_Singh_Thakuri: "Ram Singh Thakuri"
+ SIK_Netuk_Tshering: "Netuk Tshering"
+ SIK_Kashiraj_Pradhan: "Kashiraj Pradhan"
+ SIK_Martam_Topden: "Martam Topdem"
+
+ ### Country Leaders ###
+ POLITICS_TASHI_NAMGYAL_DESC: "The 11th Chogyal of Sikkim and the first to rule an independent Sikkim, Tashi Namgyal has dominated his country’s twentieth century, shaping its way from the old to the new.\n\nBorn in Tibet, Namgyal inherited the Kingdom following his older brother's early demise, being appointed by the Dalai Lama as Chogyal to succeed him. Thrust into the role at a young age, he was guided by his court and the watchful eye of the British Raj to maintain the isolated kingdom's tranquility, unaware of the changes that were to follow.\n\nAs the old order fell out of favor for one anew, Sikkim's sovereignty transferred from the Raj to an independent India, unwilling to make any significant changes as it experienced its growing pains. Azad Hind's formation continued this arrangement, with Namgyal collaborating closely with it to modernize Sikkim, alongside his personal push for overdue land reforms.\n\nWhile he is widely adored by the Bhutia-Lepchas — and generally accepted by the ethnic Nepalis — for his generous patronage toward healthcare, the arts, and sciences, Namgyal's personal popularity has not translated to Sikkim's monarchial institutions as a whole. As the Chogyal grows aged, he looks to his Kingdom with forlorn eyes, pondering a lone question.\n\n"After me, what next?""
+
+ ### Ideas ###
+ SIK_Darbar_or_Democracy: "Darbar or Democracy?"
+ SIK_Darbar_or_Democracy_desc: "As the rest of the world moves away from the notions of noble rule, Sikkim still finds itself caught in the debate of how much power should its royal court hold. Full-throated royalists and certain army officials dismiss any idea of reform as a sham, notions imported from the West unsuitable for Sikkim.\n\nThe Chogyal takes a far more nuanced view. The tide of change can’t be held back forever — especially in the landscape Sikkim is surrounded by — throwing his weight behind calculated reforms while still retaining plenty of power. While this middle ground approach has worked so far, it fails to find favor with either conservative voices, or those seldom figures in the court wishing to go further with reforms and democratization."
+ SIK_Legacy_of_Tumlong: "Legacy of Tumlong"
+ SIK_Legacy_of_Tumlong_desc: "Ever since the 1861 Treaty of Tumlong, Sikkim’s fate has been tied to that of greater nations, passing from the grips of Britain to India after the former fell from the status of empire. For all but the most foolhardy, this is a simple fact of life, knowing that Sikkim would never be able to defend itself as a fully independent entity.\n\nCurrently, it serves as a protectorate of Azad Hind, who control its defense and foreign policy. Technical support from its minder state is also responsible for the vast majority of its infrastructural development, including Sikkim’s roads, schools, and hospitals. Barring a dramatic change, the next hundred years will likely mirror the previous hundred years for Sikkim’s state of reliance."

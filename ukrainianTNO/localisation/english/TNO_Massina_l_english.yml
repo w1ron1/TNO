@@ -1,0 +1,51 @@
+﻿l_english:
+ ### Country Names ###
+ FTF: "Fuuta Massina"
+ FTF_DEF: "Fuuta Massina"
+ FTF_ADJ: "Massina"
+
+ ### Parties ###
+ FTF_communist_party: "FSN"
+ FTF_communist_party_long: "Front Socialiste du Niger"
+ FTF_socialist_party: "FSN"
+ FTF_socialist_party_long: "Front Socialiste du Niger"
+ FTF_progressivism_party: "FSN"
+ FTF_progressivism_party_long: "Front Socialiste du Niger"
+ FTF_liberalism_party: "PPN"
+ FTF_liberalism_party_long: "Parti Progressiste Nigérien"
+ FTF_conservatism_party: "PIN"
+ FTF_conservatism_party_long: "Parti de l'Indépendance du Nigéria"
+ FTF_paternalism_party: "PIN"
+ FTF_paternalism_party_long: "Parti de l'Indépendance du Nigéria"
+ FTF_despotism_party: "MNF"
+ FTF_despotism_party_long: "Mouvement Nationaliste Massina"
+ FTF_fascism_party: "MNF"
+ FTF_fascism_party_long: "Mouvement Nationaliste Massina"
+ FTF_national_socialism_party: "-"
+ FTF_national_socialism_party_long: "-"
+ FTF_ultranationalism_party: "FNM - Fundamentalists"
+ FTF_ultranationalism_party_long: "Massina Nationalist Movement - Fundamentalists"
+
+ ### Characters ###
+ FTF_Murtala_Mohammed: "Murtala Mohammed"
+ FTF_Djibo_Bakary: "Djibo Bakary"
+ FTF_Hamani_Diori: "Hamani Diori"
+ FTF_Amadou_Hampate_Ba: "Amadou Hampâté Bâ"
+ FTF_Barema_Bocoum: "Baréma Bocoum"
+ FTF_Tunde_Idiagbon: "Tunde Idiagbon"
+ FTF_Muhammadu_Buhari: "Muhammed Buhari"
+
+ ## Leader Descs ##
+ POLITICS_MURTALA_MOHAMMED_DESC: ""
+
+ ## Minister Descs ##
+ FTF_Murtala_Mohammed_hog_desc: "§YHead of Government\nDespotism§!\n--------------\n"
+ FTF_Barema_Bocoum_for_desc: "§YForeign Minister\nPateralism§!\n--------------\n"
+ FTF_Amadou_Hampate_Ba_eco_desc: "§YEconomy Minister\nConservatism§!\n--------------\n"
+ FTF_Tunde_Idiagbon_sec_desc: "§YSecurity Minister\nDespotism§!\n--------------\n"
+
+ ### Ideas ###
+ FTF_idea_murtalas_realm: "Murtala's Realm"
+ FTF_idea_murtalas_realm_desc: "Fuuta Massina owes its existence to the decision of a young Sokoto officer to rebel after witnessing his people exiled after Cameroonian raids in the 50s, and the treatment they faced under the Sokoto government. That officer, Murtala Muhammed, was a member of a ruling-class family amongst the Fulbe, and thus was quickly able to forge a nation around his persona within the deserts. It was here that Fuuta Massina was born, free once more."
+ FTF_idea_nascent_nationalism: "Nascent Nationalism"
+ FTF_idea_nascent_nationalism_desc: "Fuuta Massina wants what Murtala wants, and Murtala wants only one thing: For his people to be free to choose their own fate. Nationalism as a concept in Africa is young, and can't be established in one day.\n\nDespite these issues, Murtala continues to focus on strengthening Massina identity, hoping that his efforts will soon legitimize the identity enough to become a full-fledged nation."

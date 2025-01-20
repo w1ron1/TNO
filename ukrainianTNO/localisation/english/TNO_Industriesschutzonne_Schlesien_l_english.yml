@@ -2,22 +2,22 @@
  ## Country Names ##
  
  ####Party Names#####
- ISS_national_socialism_party:0 "SS-Industriebund Schlesien"
- ISS_national_socialism_party_long:0 "SS-Industriebund Schlesien"
- ISS_fascism_party:0 "Wehrwirtschaftsführer"
- ISS_fascism_party_long:0 "Wehrwirtschaftsführer"
- HWL_Karl_Hanke:0 "Karl Hanke"
- POLITICS_Karl_Hanke_DESC:0 "A master with golden rank treading upon lower men of all rank and blood who tried to rise and revolt. Nothing but the clatter of chains, turning of gears, and bellowing of smoke from factories now.\n\nSS-Gruppenführer Karl Hanke finds himself a man of honor, one of justice and virtue, yet dons nothing but the wills of the industrial magnates, as well as the guns of mercenaries willing to carry it out. Fired in his early 20's for joining the NSDAP, Hanke embraced the role of an orator and organizer by talent, and managed to slowly, yet surely, climb his way through the administrative positions of the Reich, even managing to achieve relations with high-ranking figures such as Erwin Rommel, the soon-to-be-late Joseph Goebbels, and even Albert Speer himself. Nevertheless, as the dawning of Axis victory appeared on the horizon, Hanke never allowed his ambition one step back.\n\nThus began the glory days of the Reich, the days in which the Americans backed off, the French and British were conquered, the Russians were a mere thought upon the hills, and the world became the cornucopia upon which Germany feasted. The Hangman of Breslau put away his rifle, and instead chose the champagne glass, looking to grow his portfolio as greatly as possible as his eyes fell upon the stars.\n\nBut every Titan must suffer a fall most terrible. The economy fell, the West Russian War fell, the Reich itself fell, and one thousand years of promised ascension fell within the span of just short of two decades. Hanke coordinated with his good friend, Albert Speer, in navigating the survival of as many of the other Speerites as possible. However, whilst the cannon shots echo above, Hanke rules from below, collaborating with all of the industrial magnates in an effort to secure their work efforts, while watching every corner's shadow for a slave revolt's march upon their borders...and for every leader who may ally with such degenerate rebels..."
+ ISS_national_socialism_party:0 "СС-Індустрієбунд Шлезієн"
+ ISS_national_socialism_party_long:0 "СС-Індустрієбунд Шлезієн"
+ ISS_fascism_party:0 "Вервіртшвафтсфюрер"
+ ISS_fascism_party_long:0 "Вервіртшвафтсфюрер"
+ HWL_Karl_Hanke:0 "Карл Ганке"
+ POLITICS_Karl_Hanke_DESC:0 "Майстер з золотим чином розтоптав нижчих людей всіх видів та крові, хто пробував повстати. Тепер не лишилося нічого, окрім брязкоту ланцюгів, повороту шестерень і реву диму з фабрик.\n\nСС-ґрупенфюрер Карл Ганке важжає себе людиною честі, справедливою та чесною, але не робить нічого, окрім виконання волі індустріальних магнатів, а також зброї найманцям, котрі готові її виконувати. Звільнений на початку своїх двадцятих черезе те, що приєднався до НСДАП, Ганке прийняв роль оратора та організатора завдяки своєму таланту, через що зміг повільно, але впевнено, підніматися по адміністративних щаблях Райху, навіть пробуючи досягнути відносин із людьми високого рангу, такими як Ервін Роммель, майбутній покійник Йозеф Ґьоббельс і навіть сам Альберт Шпеєр. Тим не менш, коли на горизонті з’явилася надія на перемогу Осі, Ганке жодного разу не дав своїм амбіціям відступити хоча б на крок.\n\nТак почалися славні дні Райху, дні, коли американці відступили, французи та британці були захоплені, росіяни були лише примарною думкою на пагорбах, і світ став рогом достатку, яким Німеччина насолоджувалася. Кат із Бреслау відклав свою рушницю, натомість узяв келих шапманського, шукаючи способи побудувати своє портфоліо таким міцним, наскільки це можливо, а його погляд був звернений на зірки.\n\nАле кожен титан рано чи пізно жахливо падає. Економіка впала, Західноросійська війна поклала багатьох, сам Райх пав, і обіцяна тисяча років піднесення впала всього лише за два десятиліття. Ганке координував свої дії зі своїм добрим другом, Альбертом Шпеєром, намагаючи досягнути виживання якнайбільшої кількості шпеєрівців. Однак, поки постріли гармат лунають угорі, Ганке керує знизу, співпрацюючи з усіма промисловими магнатами в зусиллях забезпечити їхню трудову діяльність, наглядаючи за кожною тінню й кожним кутком, щоби повстання рабів не дістався їхніх кордонів...і за кожним лідером, який може стати союзником цим дегенератам-повстанцям..."
 
  ## Ministers ##
  
  ## Ideas ##
  
- ISS_back_to_work:0 "Back to Work!"
- ISS_back_to_work_desc:0 "As the German Reich collapses around it, men in Silesia continue about their daily work lives almost as if little has changed. Clock in at the factory at sunrise, clock out at sunset. Take a day off on Sunday and return again on Monday. There is no time to dither with this internal strife. Get back to work!"
+ ISS_back_to_work:0 "Назад до роботи!"
+ ISS_back_to_work_desc:0 "Німецький Райх розпадається, однак люди в Сілезії продовжують своє щоденне робоче життя так, ніби мало що змінилося. На світанку - на завод, сонце зайшло - із заводу. Вихідний у неділю, у понеділок - все наново. Нема часу розбиратися з цими внутрішніми чварами. Треба йти назад до роботи!"
  
- ISS_slave_repression:0 "Slave Repression"
- ISS_slave_repression_desc:0 "The industrial magnates of Silesia are nothing less than frightened of what has occurred in Prussia. If a slave revolt in Silesia occurs, and grows out of hand as it did in Prussia, then all that these men have built will be lost. Everything that Hanke has built will be lost. The slaves must know their place; under the boot of their wealthy German masters. Should they disagree, they shall soon find their place at the end of a rifle muzzle."
+ ISS_slave_repression:0 "Репресії рабів"
+ ISS_slave_repression_desc:0 "Індустріальні магнати Сілезії надзвичайно налякані подіями в Прусії. Якщо в Сілезії станеться повстання рабів, якщо воно вийде з-під контролю, як у Прусії, тоді все, що ці люди зробили, буде втрачено. Усе, що Ганке побудував, не буде загублено. Раби мусять знати своє місце - під чоботом їхніх заможних німецьких хазяїв. Якщо вони не згідні - вони скоро дізнаються про своє місце - на мушці рушниці."
  
  ## Decisions ##
  

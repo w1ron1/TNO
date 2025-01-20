@@ -1,0 +1,25 @@
+﻿l_english:
+ ### Country Names ###
+ NNG: "Arewa"
+ NNG_DEF: "the Arewan Military Command"
+ NNG_ADJ: "Arewan"
+
+ ## Cosmetic Tags ##
+ NNG_unified: "Nigeria"
+ NNG_unified_DEF: "the Republic of Nigeria"
+ NNG_unified_ADJ: "Nigerian"
+
+ ### Parties ###
+ NNG_despotism_party: "NAMC"
+ NNG_despotism_party_long: "Northern Arewan Military Command"
+ NNG_fascism_party: "NAMC"
+ NNG_fascism_party_long: "Northern Arewan Military Command"
+ NNG_paternalism_party: "NPC"
+ NNG_paternalism_party_long: "Northern People's Congress"
+ NNG_conservatism_party: "NPC"
+ NNG_conservatism_party_long: "Northern People's Congress"
+ NNG_socialism_party: "Disorganized Cameroonian Remnants"
+ NNG_socialism_party_long: "Disorganized Cameroonian Remnants"
+
+ ### Characters ###
+ NNG_Zakariya_Maimalari: "Zakariya Maimalari"
