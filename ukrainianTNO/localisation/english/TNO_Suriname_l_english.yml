@@ -1,138 +1,140 @@
 ﻿l_english:
   # ADJ
-  SUR:0 "Suriname"
-  SUR_DEF:0 "the Kingdom of the Netherlands"
-  SUR_ADJ:0 "Surinamese"
+  SUR:0 "Суринам"  
+  SUR_DEF:0 "Королівство Нідерландів"  
+  SUR_ADJ:0 "Нідерландськ"  
   
-  SUR_Republic_of_Suriname: "Suriname"
-  SUR_Republic_of_Suriname_DEF: "the Republic of Suriname"
+  SUR_Republic_of_Suriname: "Суринам"  
+  SUR_Republic_of_Suriname_DEF: "Республіка Суринам"  
+  SUR_Republic_of_Suriname_ADJ: "Суринамськ"  
   
-  SUR_kingdom_of_netherlands: "Kingdom of the Netherlands"
+  SUR_kingdom_of_netherlands: "Королівство Нідерландів"  
+  SUR_kingdom_of_netherlands_ADJ: "Нідерландськ"  
   
-  CUR_Netherlands_Antilles: "Netherlands Antilles"
-  CUR_Netherlands_Antilles_DEF: "the Netherlands Antilles"
-  CUR_Netherlands_Antilles_ADJ: "Dutch"
+  CUR_Netherlands_Antilles: "Нідерландські Антильські острови"  
+  CUR_Netherlands_Antilles_DEF: "Нідерландські Антильські острови"  
+  CUR_Netherlands_Antilles_ADJ: "Нідерландськокарибськ"  
+  
+  # Партії  
+  SUR_progressivism_party:0 "ПП"  
+  SUR_progressivism_party_long:0 "Партія праці"  
+  SUR_liberalism_party: "ОІП"  
+  SUR_liberalism_party_long: "Об'єднана індустанська партія"  
+  SUR_liberal_conservatism_party:0 "Уряд ван Рейна"  
+  SUR_liberal_conservatism_party_long:0 "Уряд ван Рейна"  
+  SUR_conservatism_party: "Уряд ван Рейна"  
+  SUR_conservatism_party_long: "Уряд ван Рейна"  
+  SUR_paternalism_party:0 "Уряд ван Рейна"  
+  SUR_paternalism_party_long:0 "Уряд ван Рейна"  
+  SUR_despotism_party:0 "Неорганізовані нідерландські націоналістичні рухи"  
+  SUR_despotism_party_long:0 "Неорганізовані нідерландські націоналістичні рухи"  
+  
+  SUR_NPSNRP: "Національна партія Суринаму/Партія націоналістичної республіки"  
+  SUR_NPSNRP_sh: "НПС/ПНР"  
+  SUR_NPSNRPUHP: "Національна партія Суринаму/Партія націоналістичної республіки/Об'єднана індустанська партія"  
+  SUR_NPSNRPUHP_sh: "НПС/ПНР/ОІП"  
+  SUR_UHPCDANPS: "Об'єднана індустанська партія/Християнсько-демократичний заклик/Національна партія Суринаму"  
+  SUR_UHPCDANPS_sh: "ОІП/ХДЗ/НПС"  
+  SUR_Rens: "Уряд Ренса"  
+  SUR_Rens_long: "Уряд Ренса"  
+  SUR_NSPUHP: "Національна партія Суринаму/Об'єднана індустанська партія"  
+  SUR_NSPUHP_sh: "НПС/ОІП"  
+  SUR_CDHUHP: "Християнсько-демократичний заклик/Об'єднана індустанська партія"  
+  SUR_CDHUHP_sh: "ХДЗ/ОІП"  
+  SUR_CDA: "Християнсько-Демократичний заклик"  
+  SUR_CDA_sh: "ХДЗ"  
+  SUR_roijen:0 "Уряд ван Роєна"  
+  SUR_roijen_long:0 "Уряд ван Роєна"  
+  SUR_junta: "Надзвичайний кабінет"  
+  
+  CUR_Royalists: "Роялісти"  
+  CUR_Royalists_long: "Роялісти"  
+  CUR_CDAPNP: "Християнсько-демократичний заклик/Національна народна партія"  
+  CUR_CDAPNP_sh: "ХДЗ/ННП"  
+  
+  
+  # Втручання Америки  
+  USA_CIASUR_Coup_Mission_tt:0 "§MФБР§! §gотримає можливість допомагати§! §Oнідерландським вигнанцям§! §gу§! §Yреферендумі щодо незалежності Суринаму§!§g.§!"  
+  USA_prevent_suriname_independence:0 "Запобігти незалежності Сурінаму"  
+  USA_suriname_coup_tt:0 "Ми профінансуємо Королівську гвардію Нідерландів, щоби гарантувати, що Суринам не вийде з нашої сфери впливу."  
+  
+  # Ідеї  
+  SUR_1947_Constitution:0 "Конституція Нідерландів 1947 року"  
+  SUR_1947_Constitution_desc:0 "Розмови про реформу конституції вже були звичним явищем під час вигнання уряду в Лондоні; однак, коли уряд був змушений до подальшого вигнання у Карибський басейн, вибору не залишилося — конституція була реформована.\n\nНова Конституція 1947 року мало відрізняється від попередньої за своєю суттю: вона підтримує основоположні цінності свободи та демократії в умовах конституційної монархії. Однак вона відрізняється одним головним аспектом: вона забезпечує значну автономію різним залишковим карибським колоніям, які стали складовими демократіями в складі вигнаного Королівства Нідерландів."  
+  SUR_Poster_Boy_OFN:0 "Постерна країна ОВН"  
+  SUR_Poster_Boy_OFN_desc:0 "Будучи однією з останніх уцілілих учасниць старих союзницьких сил, вигнанський уряд Королівства Нідерландів у Суринамі є членом Організації вільних націй. Однак через очевидні труднощі, які викликає перебування уряду у вигнанні в залишковій частині його колишньої колоніальної імперії, він сильно залежить від великих кредитів та іншої допомоги для свого виживання.\n\nЯк результат потоку допомоги в Суринам, країна стала відома як постерна країна ОВН, демократія, яка виживає та процвітає завдяки великій підтримці своїх вільних демократичних союзників. Хоча це призвело до сильної економічної ситуації, ця сила насправді крихка, оскільки країна дуже сильно залежить від допомоги ОВН."  
 
-  # Parties
-  SUR_progressivism_party:0 "PvdA"
-  SUR_progressivism_party_long:0 "Partij van de Arbeid"
-  SUR_liberalism_party: "VHP"
-  SUR_liberalism_party_long: "Verenigde Hindoestaanse Partij"
-  SUR_liberal_conservatism_party:0 "Kabinet-van Rhijn"
-  SUR_liberal_conservatism_party_long:0 "Kabinet-van Rhijn"
-  SUR_conservatism_party: "Kabinet-van Rhijn"
-  SUR_conservatism_party_long: "Kabinet-van Rhijn"
-  SUR_paternalism_party:0 "Kabinet-van Rhijn"
-  SUR_paternalism_party_long:0 "Kabinet-van Rhijn"
-  SUR_despotism_party:0 "Unorganized Dutch Nationalist Movements"
-  SUR_despotism_party_long:0 "Unorganized Dutch Nationalist Movements"
-  
-  SUR_NPSNRP: "Nationale Partij Suriname/Partij Nationalistische Republiek"
-  SUR_NPSNRP_sh: "NPS/PNR"
-  SUR_NPSNRPUHP: "Nationale Partij Suriname/Partij Nationalistische Republiek/Verenigde Hindoestaanse Partij"
-  SUR_NPSNRPUHP_sh: "NPS/PNR/VHP"
-  SUR_UHPCDANPS: "Verenigde Hindoestaanse Partij/Christen-Democratisch Appèl/Nationale Partij Suriname"
-  SUR_UHPCDANPS_sh: "UHP/CDA/NPS"
-  SUR_Rens: "Kabinet-Rens"
-  SUR_Rens_long: "Kabinet-Rens"
-  SUR_NSPUHP: "Nationale Partij Suriname/Verenigde Hindoestaanse Partij"
-  SUR_NSPUHP_sh: "NPS/VHP"
-  SUR_CDHUHP: "Christen-Democratisch Appèl/Verenigde Hindoestaanse Partij"
-  SUR_CDHUHP_sh: "CDA/VHP"
-  SUR_CDA: "Christen-Democratisch Appèl"
-  SUR_CDA_sh: "CDA"
-  SUR_roijen:0 "Kabinet-van Roijen"
-  SUR_roijen_long:0 "Kabinet-van Roijen"
-  SUR_junta: "Noodkabinet"
-  
-  CUR_Royalists: "Royalisten"
-  CUR_Royalists_long: "Royalisten"
-  CUR_CDAPNP: "Christen-Democratisch Appèl/Partido Nashonal di Pueblo"
-  CUR_CDAPNP_sh: "CDA/PNP"
-  
+  SUR_queen_wilhelmina:0 "Королева Вільгельміна"  
+  SUR_queen_wilhelmina_desc:0 "Єдина дитина короля Віллема III Нідерландського та Емми Вальдек-Пірмонтської, Вільгельміна Нідерландська стала королевою у віці 10 років. Взявши кермо уряду після регентства, Вільгельміна здобула популярність за підтримку нейтралітету Нідерландів під час Першої світової війни та вирішення багатьох промислових проблем своєї країни. Її бізнес-підприємства зробили її першою жінкою-мільярдером у світі; вона забезпечила, щоб її сім'я залишалася однією з небагатьох європейських королівських династій, які зберегли свій статус. Але все це зруйнувалося, коли прийшли нацисти.\n\nПісля німецького вторгнення в Нідерланди в 1940 році Вільгельміна втекла до Великої Британії, очоливши нідерландський уряд у вигнанні. Падіння Сполученого Королівства під натиском німців стало для неї таким же серйозним ударом, як і втрата батьківщини, тому їй довелося втекти до Карибського басейну. Незабаром після прибуття в Суринам Вільгельміна намагалася зректися престолу; однак уряд відмовився це дозволити, оскільки уряд у вигнанні не витримав би такого удару. Пізніше було погоджено, що її донька, кронпринцеса Юліана, замінить її на церемоніях та подіях, у той час як Вільгельміна залишатиметься королевою.\n\nУ 40-х роках Дірк Ян де Гір залишив свій пост, і його замінив Петер Сьордс Гербранді. Пізніше Гербранді також пішов у відставку, вичерпаний напруженням управління; його замінив лагідний Аат ван Рейн. Але це нічого не змінило: Вільгельміна, як завжди, залишається у напрузі з урядом."  
 
-  # America Coup enabling
-  USA_CIASUR_Coup_Mission_tt:0 "§mThe CIA§! §gwill gain the ability to aid the§! §ODutch exiles§! §gin the§! §YSuriname Independence Referendum§!§g.§!"
-  USA_prevent_suriname_independence:0 "Prevent Independence of Suriname"
-  USA_suriname_coup_tt:0 "We will fund the Dutch Royal Guard to assure that Suriname may not fall out of our sphere of influence."
+  SUR_queen_juliana:0 "Королева Юліана"  
+  SUR_queen_juliana_desc:0 "Королева Юліана Нідерландська — єдина дитина королеви Вільгельміни та Генріха Мекленбург-Шверинського. Вона отримала приватну освіту та вивчала міжнародне право в Ляйденському університеті. У 1937 році вона вийшла заміж за принца Бернхарда Ліппе-Бістерфельдського; у шлюбі народилися чотири доньки: Беатрікс, Ірена, Маргарита і Марія Христина. Під час німецького вторгнення у Другій світовій війні королівська сім'я була евакуйована до Великої Британії; згодом Юліана та її діти вирушили до Канади, тоді як Бернхард і Вільгельміна залишалися на місці; коли Сполучене Королівство було захоплене, решта сім'ї приєдналася до Юліани в Канаді, а потім вирушила до Суринаму, де нідерландський уряд у вигнанні нарешті осів.\n\nЗ моменту занепаду її матері наприкінці 40-х років Юліана фактично стала королевою у вигнанні Нідерландів, замінюючи матір на церемоніях та заходах. Незважаючи на очевидну міць гітлерівської тиранії в Королівстві Нідерландів, вона залишається оптимістичною щодо того, що Амстердам буде звільнений одного дня. Навіть якщо цього не станеться, вона не падає духом; у такому випадку вона з радістю долучиться до свого уряду у вигнанні для укладання формальних угод із карибськими колоніями, створюючи справжню країну, яка вийде за межі цього тимчасового стану."  
 
-  # Ideas
-  SUR_1947_Constitution:0 "The 1947 Dutch Constitution"
-  SUR_1947_Constitution_desc:0 "Talk of constitutional reform was already commonplace during the government's exile in London; however, when the government was forced into further exile in the Caribbean, there was no choice; the constitution was reformed.\n\nThe new Constitution of 1947 is not too different from the previous one in its underpinnings: it espouses the fundamental values of freedom and democracy, under a constitutional monarchy. However, it is different in one major thing: it provides ample autonomy to the various remaining Caribbean colonies, which have become constituent democracies within the democracy that is the exiled Kingdom of the Netherlands."
-  SUR_Poster_Boy_OFN:0 "Poster Boy of the OFN"
-  SUR_Poster_Boy_OFN_desc:0 "Being one of the last standing members of the old Allied Powers, the exile-government of the Kingdom of the Netherlands in Suriname is a member of the Organization of Free Nations. However, because of the obvious difficulties presented by being a government exiled to a rump portion of its former colonial empire, it is heavily reliant on extensive loans and other assistance to keep itself afloat.\n\nAs a result of the flow of aid to Suriname, the country has become known as the poster-boy of the OFN, a democracy kept alive and made to flourish by the extensive assistance of its free, democratic allies. While this has led to a strong economic situation, that strength is in fact fragile, as the country is quite strongly dependent on OFN assistance."
+  SUR_surinamese_independence: "Незалежність Суринаму"  
+  SUR_surinamese_independence_desc: "У дні перед тим, як Суринам став незалежним — або, можливо, «незалежним» — теперішні економічні злидні вважалися гідними похвали, ознакою доброзичливості Організації Вільних Націй до країни. Для Республіки Суринам у наші дні це, однак, є нічим іншим, ніж тягарем.\n\nНідерланди номінально «пішли», але приватні нідерландські фонди досі володіють усією економікою Суринаму. Тим часом Нідерланди у вигнанні та Сполучені Штати, не зумівши утримати суринамських громадян під прямим контролем, задовольняються тим, що роблять їх залежними від обмеженої та недостатньої іноземної допомоги."  
 
-  SUR_queen_wilhelmina:0 "Queen Wilhelmina"
-  SUR_queen_wilhelmina_desc:0 "The only child of King Willem III of the Netherlands and Emma of Waldeck-Pyrmont, Wilhelmina of the Netherlands became queen at the age of 10. After taking charge of the government after a regency, Wilhelmina was popular for maintaining Dutch neutrality during the First World War and helping to solve many of her country's industrial problems. Her business ventures made her the world's first female billionaire; she went on to ensure that her family was one of the few European royal houses remaining in existence. But all that went to hell when the Nazis came.\n\nFollowing the German invasion of the Netherlands in 1940, Wilhelmina fled to Britain and took charge of the Dutch government-in-exile. The fall of the United Kingdom to the Germans was a just as grave a blow to her as the loss of her homeland, and she had to flee to the Caribbean. Shortly after her arrival in Suriname, Wilhelmina tried to abdicate; however, the government refused to permit it, as the government in exile was in no condition to take such a strain. However, it was later agreed that her daughter, Crown Princess Juliana, would take her place in events and ceremonies while she remained queen.\n\nIn the 40s, Dirk Jan de Geer left, and was replaced by Pieter Sjoerds Gerbrandy. Later Gerbrandy too retired, utterly exhausted by the strains of governance; he was replaced by the mild-mannered Aat van Rhijn. But it changed nothing: Wilhelmina, as always, remains at odds with the government."
+  CUR_Exiles_in_the_Antilles: "Вигнанці на Антильських островах"  
+  CUR_Exiles_in_the_Antilles_desc: "Хотілося б вірити, що це вигнання лише тимчасове, що добро переможе зло, і настане день, коли вигнанці залишать цей чужий берег. Можна майже уявити той день, у далекому майбутньому, коли чоловіки й жінки стоять на палубі величезного корабля, витираючи сльози з очей, повертаючись додому. Вони дивляться на пляжі, дамби, дюни. Вони прибувають у непорочний Амстердам, відновлений до своєї давньої слави, і отримують квіти та лаври як привітання з поверненням до відродженої країни.\n\nАле ця мрія — брехня. Це ілюзія. Не буде відновлення Нідерландів. Не буде повернення з вигнання. Не буде усміхнених облич, братніх обіймів чи щасливих сліз. На посушливих пляжах Аруби є лише загнивання й занепад для королівства, яке колись правило хвилями й контролювало світову торгівлю.\n\nТож королева та її двір продовжать тіснитися в яскраво пофарбованому палаці, чіпляючись за свої егоїстичні фантазії, поки світ іде далі. Вони видаватимуть укази, які ніхто не почує, поки врятовані Рембрандти тріскатимуться в рамах, а тканини Вілско блідішатимуть під нещадним сонцем. І вони ігноруватимуть зростаючий гнів і розчарування тих, кого вони витіснили на Арубі. Вони будуть ігнорувати тих, хто проклинає їхні імена та претензії на шляхетну жертву, поки не стане надто пізно, і мрія, якою було Королівство Нідерландів, остаточно не зникне назавжди."  
 
-  SUR_queen_juliana:0 "Queen Juliana"
-  SUR_queen_juliana_desc:0 "Queen Juliana of the Netherlands is the only child of Queen Wilhelmina and Henry of Mecklenburg-Schwerin. She received a private education and studied international law at the University of Leiden. In 1937, she married Prince Bernhard of Lippe-Biesterfeld; with him she had four daughters: Beatrix, Irene, Margriet, and Christina. During the German invasion in the Second World War, the royal family was evacuated to the United Kingdom; eventually, Juliana and her children went to Canada while Bernhard and Wilhelmina remained behind; when the United Kingdom was invaded, the rest of the family joined Juliana in Canada and then went to Suriname, where the Dutch exile government had at last settled down.\n\nSince the decline of her mother in the late 40s, Juliana has been essentially de-facto Queen-in-exile of the Netherlands, replacing her mother at ceremonies and events. Despite the apparent strength of the Hitlerite tyranny over the Kingdom of the Netherlands, she remains optimistic that Amsterdam will be liberated someday. Even if that does not take place, she refuses to despair; in that case she will most willingly join her exile government in entering into formal agreements with the Caribbean colonies to form a real country, evolving beyond this transitory state of affairs."
- 
-  SUR_surinamese_independence: "Surinamese Independence"
-  SUR_surinamese_independence_desc: "In the days before Suriname became independent—or perhaps that should be "independent"—the present economic privations were regarded as commendable, and a sign of the Organization of Free Nations' benevolence to the country. To the Republic of Suriname in the present day, however, they are nothing if not a burden.\n\nThe Dutch are nominally 'gone', but private Dutch funds still own the entire Surinamese economy. Meanwhile, the Netherlands-in-exile and the United States, having failed to keep Surinamese citizens under their direct control, instead satisfy themselves by making them reliant on limited, insufficient deployments of foreign aid."
-  
-  CUR_Exiles_in_the_Antilles: "Exiles in the Antilles"
-  CUR_Exiles_in_the_Antilles_desc: "It would be good to believe that this banishment is only temporary, that good will triumph over evil and a day will come when the exiles leave this foreign shore. One can almost imagine that day, in some far-off future, where men and women stand crowded on the deck of some great ship, wiping tears from their eyes, as they return home. They gaze upon the beaches, the dykes, the dunes. They arrive to a pristine Amsterdam, restored to its ancient glory, and are given flowers and laurels to welcome them back to a nation reborn.\n\nBut this dream is a lie. It is a delusion. There will be no restoration of the Netherlands. There will be no return from exile. There will be no smiling faces or brotherly embraces or happy tears. On the arid beaches of Aruba, there is only rot and desolation for a kingdom that once ruled the waves and controlled global trade.\n\nSo the Queen and her court will continue to huddle in their brightly colored palace, clinging to their selfish fantasies as the world passes them by. They will issue edicts heard by no one, as rescued Rembrandts crack in their frames and Vilsco fabrics bleach beneath the cruel sun. And they will shut out the growing anger and frustration from those they have displaced in Aruba. They will ignore those who curse their names and pretensions of noble sacrifice until it is too late and the dream that was the Kingdom of the Netherlands finally vanishes for good."
+  SUR_1971_Constitution: "Конституція 1971"  
+  SUR_1971_Constitution_desc: "Амстердам було втрачено, і безкраї рівнини Голландії більше ніколи не милуватимуть очей вигнанців. Але вони свого часу могли втішати себе тим, що вони, принаймні, залишаються вільними і демократичними, як їхні батьки після поразки іспанського панування.\n\nТепер це не так. Нова військова влада, встановлена переворотом, стверджує, що вона «зберігає надію та силу для нідерландського народу», створивши конституцію, яка фактично зруйнувала п'ятсот років демократичної традиції. Колись демократичні інституції були обмежені настільки, що це може змусити сумніватися навіть таких, як Сомоса чи Морініґо. Автономія колоній і права громадян колоній були знищені.\n\nВійськові, можливо, переконують себе, точніше, марно намагаються переконати себе, що, вдаючись до того, що справедливо називають святотатством, вони врятували залишки Королівства Нідерландів. Але насправді ці диктаторські закони створили лиш порожнечу та конфлікт серед останніх вільних голландців, рану, яка не загоїться, навіть якщо Нідерланди якось звільнять, і Королівський штандарт знову замайорить на Палеїс Амстердам."
 
-  SUR_1971_Constitution: "1971 Constitution"
-  SUR_1971_Constitution_desc: "Amsterdam was lost, and the rolling fields of Holland would never again grace the exiles' eyes. But they were once able to comfort themselves with the fact that they were at least still free and democratic as their fathers had been since the defeat of the Spanish rule.\n\nNo more. The new coup-installed military government, claiming to be "preserving hope and strength for the Dutch people," wrote a constitution that has essentially cracked down on five hundred years of democratic tradition. Previously democratic institutions have been restricted in a manner that might give a Somoza or a Morínigo pause. Colonial autonomy and the rights of citizens of the colonies have been destroyed.\n\nThe military men may convince themselves—or more accurately try and fail to do so—that by engaging in what is legitimately being called sacrilege they have saved what is left of the Kingdom of the Netherlands. But in reality these jackboots have created a hollowness and conflict in the last of the free Hollanders, a wound that will not be healed even if somehow the Netherlands are freed, and the Royal Standard flies from Paleis Amsterdam once more."
-  
-  # Events
-  
-  SUR.skeleton.6.t: "March of Suriname" # For america about the upcoming referendum
+  # Events  
 
-  SUR.skeleton.6.desc: "On the third pass over the royal compound in Dutch Aruba, the pilot of Girard Dawson's unmarked helicopter concluded the palace had no space suitable for landing such a large aircraft. Dawson, the CIA's station chief for Paramarimbo, asked what the alternative would be if they couldn't land. "We return to Oranjestad," offered the pilot, "or you take a dip." Without hesitation, Dawson began strapping himself into a life jacket and pointed the pilot towards a yacht berthing.\n\nOnce the helicopter was low enough, Dawson hopped into rotor-whipped waters and began swimming to shore amid the torrents. Once he waded onto solid ground, the soaked CIA agent caught sight of his contacts, Prince Bernhard and a cohort of Royal Army generals, running towards him. One car ride and a warm shower later, Dawson was with the group sipping port wine on a nearby veranda when General Frans van der Veen broached an ugly request. "As you know, the Estates of Suriname has recently voted for a Surinamese independence referendum," said the General through his cigarette-pursed lips, "and we want to stop it." Snickers and glass clinking filled the air.\n\nThese old kingpins of Dutch reaction held Surinamese autonomy in contempt and sought American support in "securing" the Kingdom's future. The Estates of Suriname was de facto the legal parliament of the Netherlands, and thus American involvement in overthrowing an OFN member government would violate the OFN's charter. Conversely, an independent Suriname would certainly exist outside the OFN. Dawson mulled the request and its implications."
+  SUR.skeleton.6.t: "Марш Суринаму" # Для США про майбутній референдум  
 
-  SUR.skeleton.6.a: ""I'll pass your request along.""
-  
-  SUR.news.1.t:0 "[Get_newspaper_header]The Death of Queen Wilhelmina"
-  SUR.news.1.desc:0 "Queen Wilhelmina of the Netherlands, exiled in Suriname, has died of cardiac arrest in her makeshift residence in Paramaribo where she has stayed since the government-in-exile's decampment to the Caribbean. The death came as no surprise: Wilhelmina had long been ill, forcing her daughter, the now-Queen Juliana, to assume more and more of her duties.\n\nThe Dutch Caribbean - at times plagued by disagreements - unites to mourn her death; mourning has even been reported in the Nazi-occupied Netherlands. At the late queen's request, the funeral was performed in white vestments rather than black in reflection of her Christian belief that death was merely the beginning of eternal life. Due to the circumstances, a special cemetery has been built in Paramaribo to house her remains; however, government sources indicate that if Amsterdam is ever freed, she will join her ancestors in the Royal Crypt there.\n"
-  SUR.news.1.a:0 "Our condolences."
-  
-  SUR.news.2.t:0 "[Get_newspaper_header]Reformation of the Dutch Basic Laws"
-  SUR.news.2.desc:0 "Recent actions by the Dutch government against Surinamese autonomy have sparked protests in the capital city of Paramaribo following revisions to the colonial Basic Laws. The mostly vacant Dutch legislature passed legislation that reduced the exile government to a ceremonial position and established voting privileges for exiles in Suriname. Queen Juliana's advisors then advised her to dismiss the Surinamese Prime Minister and appoint the Dutch Prime Minister, thus further unifying the Dutch realm.\n\nThe move has sparked outrage among the Surinamese population, who view this move as a violation of prior autonomy agreements with the Dutch crown. While the current Surinamese National Assembly will continue to stand until the next elections, the new Basic Laws have produced a rift between the exiles and Surinamese populations.\n"
-  SUR.news.2.a:0 "Is this a free nation?"
-  
-  SUR.news.3.t:0 "[Get_newspaper_header]Reorganization of the Dutch Realm"
-  SUR.news.3.desc:0 "From Paramaribo, the Dutch government-in-exile has agreed with the Estates of Suriname regarding the Kingdom's political future. In exchange for increased crown control over the Surinamese government, the Dutch government-in-exile has decided to dissolve itself and grant Suriname status as the Kingdom of the Netherlands's primary constituent country. This deal comes after months of negotiations and integrates the old Dutch political system into the Surinamese government.\n\nWhile the agreement has received the endorsement of Suriname's United Hindustani Party and a minority of its National Party, nationalists in the Estates have decried the laws as a usurpation of Suriname's sovereignty. Furthermore, the inclusion of Dutch constituencies in Suriname's upcoming elections points towards a double standard in the new government uncomfortable to autonomists.\n"
-  SUR.news.3.a:0 "Compromise is key."
-  
-  SUR.news.4.t:0 "[Get_newspaper_header]Surinamese Anti-Government Protests"
-  SUR.news.4.desc:0 "Protests in the Surinamese capital of Paramaribo have halted the city as anger against corruption in the government of Prime Minister Jo Meynen continues to pour into the streets. Demonstrations remained nonviolent, but students and factory workers conducted political demonstrations for Meynen's dismissal in swelling numbers. In response to the protests, Queen Juliana dismissed Meynen pending new elections in June.\n\nWhile the ordeal is unlikely to produce an investigation, the Prime Minister's dismissal has been hailed by the National Party as a victory for Surinamese democracy. The upcoming elections are already hard-fought, with campaign debates over independence and the royal prerogative polarizing voters.\n"
-  SUR.news.4.a:0 "Trouble in the exile kingdom."
-  
-  SUR.news.5.t:0 "[Get_newspaper_header]Surinamese Constitutional Crisis"
-  SUR.news.5.desc:0 "A political confrontation between Queen Juliana and the government of Surinamese Prime Minister Johan Kraag has led to Kraag's dismissal pending new elections. The dispute originated over the 1969 budget proposed by Kraag and his National Party, which ballooned benefits and state investments with a steep deficit. While Kraag has argued that growth and OFN aid would counteract the accrued debt, conservatives nonetheless have secured his dismissal.\n\nKraag's removal has since caused an uproar in the Estates of Suriname, and members of the National Party are increasingly campaigning on pro-independence platforms. While independence supporters lack a majority in the Estates, issues of the royal prerogative have polarized the upcoming election.\n"
-  SUR.news.5.a:0 "Can't they keep a promise?"
-  
-  SUR.news.6.t:0 "[Get_newspaper_header]Dutch Army Occupies Paramaribo"
-  SUR.news.6.desc:0 "Protests against government corruption and Dutch nepotism have afflicted Suriname for weeks following further revelations about abuses by the Jo Meynen government. Demonstrations remained nonviolent but spread beyond Paramaribo into peripheral towns and the Netherlands Antilles. Fearing this unrest could lead to a revolution, officers of the Royal Netherlands Army seized upon the demonstrators and began a rapid crackdown on anti-government figures and organizations. Prime Minister Maynen has since resigned, apparently unwillingly, and Lieutenant General Frans van der Veen has replaced him as head of a junta.\n\nThe military government has reiterated that "the Kingdom of the Netherlands" would return to democracy, though the junta has yet to provide a timeline. For now, autonomy and democracy in Suriname were suppressed by force.\n"
-  SUR.news.6.a:0 "A return to imperialism."
-  
-  SUR.news.7.t:0 "[Get_newspaper_header]Suriname Votes for Independence"
-  SUR.news.7.desc:0 "Hours after polling stations closed across Suriname, voting returns confirmed a majority of Surinamese had voted in favor of independence. Dutch polling experts and international observers had long estimated Suriname would remain in the Dutch realm. Still, recent anti-government demonstrations and rallying support for nationalist parties pushed voters toward independence.\n\nPro-independence sections of the National Party have praised the results as an expression of democracy, while the Dutch Christian Democratic Appeal has begun evacuating its organs to Aruba. Surinamese independence has reduced the Dutch crownland to the Netherlands Antilles, now the only remaining country in a once world-spanning Kingdom.\n"
-  SUR.news.7.a:0 "The end of the Netherlands?"
-  
-  SUR.news.8.t:0 "[Get_newspaper_header]Suriname Remains Dutch"
-  SUR.news.8.desc:0 "Hours after polling stations closed across Suriname, voting returns confirmed a majority of Surinamese had voted against independence. This was not surprising to the Dutch government, who had long expected the vote to fail, but still, Queen Juliana issued a note of reconciliation to the independence camp. In Paramaribo was a mood of relief, disappointment, and scattered bursts of anger, but life moved on.\n\nWhile Surinamese nationalist parties vowed to continue lobbying for independence, representatives of the United Hindustani Party supported the results as a basis for further national autonomy. Animosities over past wrongs remain in recent memory for many Surinamese, fueling the continued independence movement. For now, however, the nation has chosen to stay with the Kingdom.\n"
-  SUR.news.8.a:0 "Maybe reconciliation is possible."
+  SUR.skeleton.6.desc: "Після третього обльоту королівського комплексу на голландській Арубі пілот вертольота без позначок, що належав Джирарду Доусону дійшов висновку, що у палаці немає місця для посадки такого великого транспортного засобу. Доусон, керівник відділу ФБР у Парамарибо, запитав, яка альтернатива, якщо посадка неможлива. «Можемо повернутися до Ораньєстаду», - запропонував пілот і додав: «або ви можете скупатися». Не вагаючись, Доусон почав одягати рятувальний жилет і вказав пілоту на місце стоянки яхт.\n\nЩойно гвинтокрил спустився досить низько, Доусон стрибнув у воду, розбурхану роторами, і поплив до берега, незважаючи на течії. Коли він вийшов на тверду землю, мокрий агент ФБР побачив, як йому назустріч біжать його контакти: принц Бернхард і група генералів Королівської армії. Після короткої поїздки машиною та гарячого душу Доусон уже сидів з групою, попиваючи портвейн на веранді поблизу, аж раптом генерал Франс ван дер Веен порушив неприємне питання. «Як вам відомо, Естат Суринаму нещодавно проголосував за проведення референдуму щодо незалежності Суринаму», - сказав генерал, тримаючи цигарку між губами, - «і ми хочемо це зупинити». Повітря наповнилося сміхом і дзвоном келихів.\n\nЦі старі стовпи голландської реакції зневажали автономію Суринаму і шукали американської підтримки для «захисту» майбутнього Королівства. Естат Суринаму був де-факто законним парламентом Нідерландів, і таким чином участь Америки у поваленні уряду країни-члена ОВН суперечила б хартії ОВН. З іншого боку, незалежний Суринам, безсумнівно, існував би поза межами ОВН. Доусон розмірковував над цим проханням і його наслідками."
 
-  # Characters 
-  SUR_Aat_Rhijn: "Aat van Rhijn"
-  SUR_Gerard_Helders: "Gerald Helders"
-  SUR_Jaap_Burger: "Jaap Burger"
-  SUR_Jo_Meyen: "Jo Meyen"
-  SUR_Norbert_Schmelzer: "Norbert Schmelzer"
-  SUR_Johan_Kraag: "Johan Kraag"
-  SUR_Ivo_Samkalden: "Ivo Samkalden"
-  SUR_Jagernath_Lachmon: "Jagernath Lachmon"
-  SUR_Gaius_de_Gaay_Fortman: "Gaius de Gaay Fortman"
-  SUR_Just_Rens: "Just Rens"
-  SUR_Frans_van_der_Veen: "Frans van der Veen"
-  SUR_Herman_van_Roijen: "Herman van Roijen"
-  SUR_Olton_van_Genderen: "Olton van Genderen"
-  SUR_Juliana: "Juliana"
-  SUR_Isaac_Arend_Diepenhorst: "Isaac Arend Diepenhorst"
+  SUR.skeleton.6.a: "«Я передам ваше прохання далі»."
+  
+  SUR.news.1.t:0 "[Get_newspaper_header]Смерть королеви Вільгельміни"
+  SUR.news.1.desc:0 "Королева Нідерландів Вільгельміна, яка перебувала в екзилі в Суринамі, померла від серцевого нападу у своєму тимчасовому житлі в Парамарибо, де вона перебувала з моменту евакуації уряду в екзилі до Карибів. Смерть не стала несподіванкою: Вільгельміна вже довгий час була хвора, і це змушувало її доньку, тепер королеву Юліану, брати на себе все більше її обов'язків.\n\nГолландські Кариби — іноді охоплені суперечками — об'єдналися, щоб оплакати її смерть; навіть у окупованих нацистами Нідерландах були повідомлення про траур. За проханням покійної королеви, похорон був проведений в білих одежах, а не чорних, як відображення її християнської віри, що смерть є лише початком вічного життя. У зв'язку з обставинами в Парамарибо було побудовано спеціальне кладовище для її останків; однак джерела в уряді вказують, що якщо Амстердам коли-небудь буде звільнений, вона приєднається до своїх предків у Королівській крипті там."
+  SUR.news.1.a:0 "Наші співчуття."
 
-  #Leaders descs 
-  AAT_VAN_RHIJN_POLITICS_DESC:0 "Dr. Arie Adriaan "Aat" van Rhijn, a civil servant and politician, was born in Groningen in 1892; he studied at the universities of Utrecht and Groningen and served in various functions - for company associations, employee associations, five or six different ministries, and so on - until his appointment to Minister of Agriculture and Fisheries mere days before the German invasion.\n\nFleeing to London, and then from there to Ottawa and Paramaribo, van Rhijn watched as the Kingdom of Netherlands fell to a low from which it has only slightly recovered since, as the Nazi jackboot gouged into the Netherlands and the Yamato 'anti-colonialists' 'liberated' the Dutch East Indies. Van Rhijn was able to come through the last twenty years more or less sane, but others - such as Prime Ministers Dirk Jan de Geer and Pieter Sjoerds Gerbrandy, to say nothing of Queen Wilhelmina - were less well off; van Rhijn had to watch in sadness as so many people he knew and respected declined into misery, sickness, and decrepitude.\n\nGerbrandy, exhausted beyond belief, stepped down in the mid 1950s, choosing van Rhijn to take over; the far-flung people of Suriname have come to consider him a good fit for the job. A competent statesman, administrator, operating as a moderate Protestant conservative with significant respect for non-Protestants and the labor movement, Aat van Rhijn strives to stay the course, reforming only with common consent, for fear of upsetting the modus vivendi created in this country of exiles, immigrants, and colonists."
+  SUR.news.2.t:0 "[Get_newspaper_header]Реформа голландських основних законів"
+  SUR.news.2.desc:0 "Нещодавні дії голландського уряду проти автономії Суринаму викликали протести в столиці Парамарибо після перегляду колоніальних Основних законів. Переважно порожній голландський парламент прийняв законодавство, яке зменшило роль уряду в екзилі до церемоніальної позиції та надало право голосу вигнанцям у Суринамі. Радники королеви Юліани порадили їй звільнити прем'єр-міністра Суринаму та призначити голландського прем'єр-міністра, таким чином ще більше об'єднавши голландське королівство.\n\nЦей крок викликав обурення серед населення Суринаму, яке вважає цей крок порушенням попередніх угод про автономію з голландською короною. Хоча нинішній Національний парламент Суринаму продовжить свою роботу до наступних виборів, нові Основні закони призвели до розколу між вигнанцями та населенням Суринаму."
+  SUR.news.2.a:0 "І це ви кличете вільною державою?"
+
+  SUR.news.3.t:0 "[Get_newspaper_header]Реорганізація Голландського королівства"
+  SUR.news.3.desc:0 "З Парамарибо уряд Нідерландів в екзилі досяг угоди з Естатами Суринаму щодо політичного майбутнього королівства. У обмін на збільшення контролю корони над урядом Суринаму, уряд Нідерландів у екзилі вирішив саморозпуститися і надати Суринаму статус головної складової країни Королівства Нідерландів. Ця угода стала результатом місяців переговорів і інтегрує стару голландську політичну систему в уряд Суринаму.\n\nХоча угода отримала схвалення Об'єднаної індустанської партії Суринаму та меншості Національної партії, націоналісти в Естатах засудили закони як узурпацію суверенітету Суринаму. Крім того, включення голландських виборців у майбутні вибори Суринаму вказує на подвійні стандарти в новому уряді, що створює незручність для автономістів."
+  SUR.news.3.a:0 "Компроміс - ось що ключове."
+
+  SUR.news.4.t:0 "[Get_newspaper_header]Антиурядові протести в Суринамі"
+  SUR.news.4.desc:0 "Протести в столиці Суринаму, Парамарибо, паралізували місто, оскільки обурення через корупцію в уряді прем'єр-міністра Йо Мейне продовжує змушувати людей виходити на вулиці. Демонстрації залишались ненасильницькими, але студенти та робітники фабрик проводили політичні демонстрації з вимогою відставки Мейне, і ці демонстрації лише зростають у чисельності. У відповідь на протести королева Юліана звільнила Мейне до проведення нових виборів у червні.\n\nХоча малоймовірно, що ця ситуація призведе до розслідування, відставка прем'єр-міністра була сприйнята Національною партією як перемога для демократії Суринаму. Наступні вибори вже сигналізують про свою важкість: різні сили своїми передвиборчими кампаніями дебатують про незалежність, а королівські привілеї поляризують виборців."
+  SUR.news.4.a:0 "Проблеми в королівстві вигнанців."
+
+  SUR.news.5.t:0 "[Get_newspaper_header]Конституційна криза в Суринамі"
+  SUR.news.5.desc:0 "Політичне протистояння між королевою Юліаною та урядом прем'єр-міністра Суринаму Йохана Краага призвело до відставки Краага до нових виборів. Спір виник через бюджет 1969 року, запропонований Краагом і його Національною партією, який значно збільшив соціальні виплати та державні інвестиції при великому дефіциті. Хоча Крааг стверджував, що зростання та допомога ОВН компенсують накопичений борг, консерватори все ж забезпечили його відставку.\n\nВідставка Краага спричинила хвилю обурення в Естатах Суринаму, і члени Національної партії все більше ведуть кампанії на незалежницьких позиціях. Хоча прихильники незалежності не мають більшості в Естатах, питання королівських привілеїв поляризуватимуть вибори й надалі."
+  SUR.news.5.a:0 "Вони що, не можуть дотримуватись обіцянок?"
+
+  SUR.news.6.t:0 "[Get_newspaper_header]Голландська армія окуповує Парамарибо"
+  SUR.news.6.desc:0 "Протести проти урядової корупції та голландського непотизму терзали Суринам впродовж кількох тижнів після нових викриттів зловживань уряду Йо Мейне. Демонстрації залишались ненасильницькими, але поширились за межі Парамарибо на периферійні міста та Нідерландські Антильські острови. Боючись, що ці заворушення можуть призвести до революції, офіцери Королівської армії Нідерландів захопили демонстрантів і почали швидке придушення антиурядових діячів та організацій. Прем'єр-міністр Мейне пішов у відставку, ймовірно, без бажання, і генерал-лейтенант Франс ван дер Веєн замінив його, очоливши хунту.\n\nВійськовий уряд регулярно повторює, що «Королівство Нідерландів» повернеться до демократії, хоча хунта поки що не надала жодних термінів. Наразі автономія та демократія в Суринамі були придушені силою."
+  SUR.news.6.a:0 "Повернення до імперіалізму."
+  
+  SUR.news.7.t:0 "[Get_newspaper_header]Суринам голосує за незалежність"
+  SUR.news.7.desc:0 "Через кілька годин після закриття виборчих дільниць по всьому Суринаму результати голосування підтвердили, що більшість суринамців проголосували за незалежність. Голландські експерти з опитувань та міжнародні спостерігачі довго вважали, що Суринам залишиться частиною голландської корони. Проте нещодавні антиурядові демонстрації та зростання підтримки націоналістичних партій сприяли тому, що виборці обрали незалежність.\n\nПро-незалежницькі фракції Національної партії похвалили результати як вираз демократії, у той час як голландський Християнсько-демократичний заклик почав евакуювати свої органи на Арубу. Незалежність Суринаму зменшила голландську корону до Нідерландських Антильських островів, які тепер є єдиною країною в королівстві, що колись охоплювало весь світ."
+  SUR.news.7.a:0 "Кінець Нідерландів?"
+
+  SUR.news.8.t:0 "[Get_newspaper_header]Суринам лишається частиною Голландії"
+  SUR.news.8.desc:0 "Через кілька годин після закриття виборчих дільниць по всьому Суринаму результати голосування підтвердили, що більшість суринамців проголосували проти незалежності. Це не було сюрпризом для голландського уряду, який давно очікував, що голосування зазнає поразки, проте королева Юліана все ж звернулася з посланням, у якому прохала про примирення, для табору прихильників незалежності. У Парамарибо відчувалась суміш полегшення, розчарування і розпорошених сплесків гніву, але життя продовжилось.\n\nХоча націоналістичні партії Суринаму пообіцяли продовжувати лобіювати незалежність, представники Об'єднаної індустанської партії підтримали результати як основу для подальшої національної автономії. Ворожнеча через минулі образи все ще залишилася в свіжій пам'яті у багатьох суринамців, підживлюючи рух за незалежність. Однак наразі країна вирішила залишитися в складі королівства."
+  SUR.news.8.a:0 "Можливо, примирення все ж можливе."
+
+  # Персонажі
+  SUR_Aat_Rhijn: "Аат ван Рейн"
+  SUR_Gerard_Helders: "Жерар Хелдерс"
+  SUR_Jaap_Burger: "Яап Бургер"
+  SUR_Jo_Meyen: "Йо Мейне"
+  SUR_Norbert_Schmelzer: "Норберт Шмельцер"
+  SUR_Johan_Kraag: "Йохан Крааг"
+  SUR_Ivo_Samkalden: "Іво Самкалден"
+  SUR_Jagernath_Lachmon: "Ягернат Лахмон"
+  SUR_Gaius_de_Gaay_Fortman: "Гай де Гей Фортман"
+  SUR_Just_Rens: "Юст Ренс"
+  SUR_Frans_van_der_Veen: "Франс ван дер Веєн"
+  SUR_Herman_van_Roijen: "Герман ван Ройєн"
+  SUR_Olton_van_Genderen: "Олтон ван Гендерен"
+  SUR_Juliana: "Юліана"
+  SUR_Isaac_Arend_Diepenhorst: "Айзек Аренд Діпенгорст"
+
+  #Опис лідерів
+  AAT_VAN_RHIJN_POLITICS_DESC:0 "Доктор Арі Адріан «Аат» ван Рейн, державний службовець і політик, народився в Ґронінґені в 1892 році; він навчався в університетах Утрехта та Ґронінґена й обіймав різні посади у асоціаціях компаній, профспілок, у п'яти чи шести різних міністерствах і так далі — до свого призначення міністром сільського господарства та рибальства за кілька днів до німецького вторгнення.\n\nВтікаючи до Лондона, а потім до Оттави та Парамарибо, ван Рейн спостерігав, як Королівство Нідерландів падало до низького рівня, з якого воно тільки трохи відновилося з тих пір, коли нацистське ярмо полонило Нідерланди, а японські «антиколоніалісти» «визволили» Голландську Ост-Індію. Ван Рейн зміг пережити останні двадцять років більш-менш розумним, але інші, такі як прем'єр-міністри Дірк Ян де Ґеєр і Пітер Сйорс Ґербранді, не мали такого ж успіху; ван Рейн мусив сумувати, спостерігаючи, як багато людей, яких він знав і поважав, занепадали від бід, хвороб і старості.\n\nҐербранді, виснажений до межі, пішов у відставку в середині 1950-х років, обравши ван Рейна своїм наступником; віддалені люди Суринаму вважають його хорошим кандидатом на цю посаду. Компетентний державний діяч, адміністратор, поміркований протестантський консерватор з великою повагою до непротестантів і трудового руху, Аат ван Рейн прагне утримати курс, проводячи реформи лише за загальною згодою, побоюючись порушити модус вівенді, створений у цій країні вигнанців, іммігрантів і колоністів."
