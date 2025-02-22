@@ -1,46 +1,46 @@
 ﻿l_english:
  ### Country Names ###
- SYR: "Syrian Republic"
- SYR_DEF: "the Syrian Republic"
- SYR_ADJ: "Syrian"
+ SYR: "Сирійська Республіка"
+ SYR_DEF: "Сирійська Республіка"
+ SYR_ADJ: "Сирійськ"
 
- SNS: "Syrian National State"
- SNS_DEF: "the Syrian National State"
- SNS_ADJ: "Syrian"
+ SNS: "Сирійська Національна Держава"
+ SNS_DEF: "Сирійська Національна Держава"
+ SNS_ADJ: "Сирійськ"
 
  ## Cosmetic Tags ##
- SNS_ITWD: "Syrian Arab Republic"
- SNS_ITWD_DEF: "the Syrian Arab Republic"
- SNS_ITWD_ADJ: "Syrian"
+ SNS_ITWD: "Сирійська Арабська Республіка"
+ SNS_ITWD_DEF: "Сирійська Арабська Республіка"
+ SNS_ITWD_ADJ: "Сирійськ"
 
  ### Parties ###
- SYR_communist_party: "HBAI"
- SYR_communist_party_long: "Hizb al-Ba'th al-Arabi al-Ishtiraki"
- SYR_socialist_party: "HBAI"
- SYR_socialist_party_long: "Hizb al-Ba'th al-Arabi al-Ishtiraki"
- SYR_paternalism_party: "HTA"
- SYR_paternalism_party_long: "Harakat al-Tahrir al-'Arabiy"
- SYR_despotism_party: "HBAI"
- SYR_despotism_party_long: "Hizb al-Ba'th al-Arabi al-Ishtiraki"
- SYR_ultranationalism_party: "HBAI"
- SYR_ultranationalism_party_long: "Hizb al-Ba'th al-Arabi al-Ishtiraki"
+ SYR_communist_party: "ХБAI"
+ SYR_communist_party_long: "Хізб-аль-Ба'тх-аль-Араба аль-Іштіракі"
+ SYR_socialist_party: "ХБAI"
+ SYR_socialist_party_long: "Хізб-аль-Ба'тх-аль-Араба аль-Іштіракі"
+ SYR_paternalism_party: "ХТА"
+ SYR_paternalism_party_long: "Харакат-аль-Тахрір-аль-Арабій"
+ SYR_despotism_party: "ХБAI"
+ SYR_despotism_party_long: "Хізб-аль-Ба'тх-аль-Араба аль-Іштіракі"
+ SYR_ultranationalism_party: "ХБAI"
+ SYR_ultranationalism_party_long: "Хізб-аль-Ба'тх аль-Араба-аль-Іштіракі"
 
- SNS_despotism_party: "YSY"
- SNS_despotism_party_long: "Yerel Suriye Yönetimi"
- SNS_socialist_party: "HBAI"
- SNS_socialist_party_long: "Hizb al-Ba'th al-Arabi al-Ishtiraki"
+ SNS_despotism_party: "ЄСЙ"
+ SNS_despotism_party_long: "Єрель Сирія Йонетіми"
+ SNS_socialist_party: "ХБAI"
+ SNS_socialist_party_long: "Хізб-аль-Ба'тх-аль-Араба-аль-Іштіракі"
 
- SNS_ITWD_despotism_party: "HTA"
- SNS_ITWD_despotism_party_long: "Ḥarakat al-Tahrir al-'Arabiy"
+ SNS_ITWD_despotism_party: "ХТА"
+ SNS_ITWD_despotism_party_long: "Харакат-аль-Тахрір-аль-Арабій"
 
  ### Characters ###
- SYR_Adib_al_Shishakli: "Adib al-Shishakli"
- SYR_Hafez_al_Assad: "Hafez al-Assad"
- SYR_Salah_Jadid: "Salah Jadid"
- SYR_Michel_Aflaq: "Michel Aflaq"
- SYR_Ziad_al_Hariri: "Ziad al-Hariri"
+ SYR_Adib_al_Shishakli: "Адіб-аль-Шішаклі"
+ SYR_Hafez_al_Assad: "Хафез-аль-Асад"
+ SYR_Salah_Jadid: "Салах Джадід"
+ SYR_Michel_Aflaq: "Мішель Афлак"
+ SYR_Ziad_al_Hariri: "Зіяд-аль-Харірі"
 
- SNS_Council: "Council of the Syrian National State"
+ SNS_Council: "Рада Сирійської Національної Держави"
 
  ## Leader Descs ##
- POLITICS_SNS_COUNCIL_DESC: "The Syrian National State was born from abandonment.\n\nPromised independence in exchange for supporting the Germans, Syrians watched in horror as Turkish soldiers marched to Al Azm Palace with no German help in sight. In the birthplace of the revolt against France, the Syrian National State under Turkey was formed - birthing NASIL, the resistance to the Syrian State.\n\nThe SNS played a critical role in the Iraqi War in 1952, as the Turkish armies were stalled in Iraq, until Tayfur Sökmen, a Syrian official, developed a plan to invade Iraq from Syria, which was enough to win the war. Sökmen was assassinated afterwards by NASIL, leading the SNS to violently crack down on all dissent and anti-Turkish sentiment through political persecution, military force, and even public executions.\n\nToday, the SNS is led by a council led by Husni al Za'im, Adib Shishakli, Fawzi Selu, and Sami al Hinnawi, each of whom have their own ambitions for Syria. Yet there are whispers of the NASIL remnants stirring once more - whispers which threaten to bring down the unstable foundations of the Syrian National State."
+ POLITICS_SNS_COUNCIL_DESC: "Сирійська Національна Держава виникла через зраду.\n\nСирійці з жахом спостерігали, як турецькі солдати марширують до палацу Аль-Азм без допомоги з боку Німеччини - попри обіцяну незалежність в обмін на підтримку німців. У місці народження повстання проти Франції, утворилася Сирійська Національна Держава під управлінням Туреччини - це породило НАСІЛ, рух опору сирійської держави.\n\nCНД відіграла критичну роль в Іракській війні 1952 року: турецькі армії затримувались в Іраку, доки сирійський офіційний представник - Тайфур Сокмен, не розробив план вторгнення в Ірак через Сирію, що допомогло виграти війну. Сокмен був ліквідованим НАСІЛ, що призвело до жорстоких репресій проти всіх супротивників і антитурецьких настроїв, через політичні переслідування, військову силу й навіть публічну страту.\n\nСьогодні СНД очолюється радою, до якої входять: Хусні-аль-Заїм, Адіб Шішаклі, Фаузі Селу та Самі-аль-Хіннаві, кожен із котрих має свої амбіції щодо Сирії. Але присутні шепоти про те, що залишки НАСІЛ знову здіймаються - шепоти, які загрожують зруйнувати нестабільні основи Сирійської Національної Держави."
