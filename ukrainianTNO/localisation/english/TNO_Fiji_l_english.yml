@@ -1,0 +1,23 @@
+﻿l_english:
+# Leaders
+POLITICS_A_D_PATEL_DESC: "Like so many of his fellow Indo-Fijans, A.D. Patel is not a native of his Island home but has devoted his life to making Fiji a better place for all its citizens. Born in Gujarat India, his family immigrated to Fiji when he was young. During his education in India, he was inspired by the INC’s reforming leaders Nehru and Gandhi. Returning to Fiji with newfound zeal he became a politician organizing the marginalized Indo-Fijan population against the daily oppression of the white and native populations. Following the war's end as the sugar plantations crashed and tensions with the native population rose, Patel became one of the primary voices for, not just independence but vast socio-political reforms.\n\nA failed assassination attempt on Patel’s life proved critical in gaining the favor of the OFN who sponsored Fiji’s independence under a presidential republic thus thrusting Patel into power as Fiji’s first president, despite often being called Fiji’s George Washington by the American press. Patel remains a divisive figure. His attempts at rapid social reform often trampled on the traditional privileges of the already hostile native Fijians, while accusations of corruption in his party divided his Indo-Fijan constituency."
+
+FIJ_A_D_Patel: "A. D. Patel"
+
+# Ideas
+FIJ_divided_islands: "Divided Islands"
+FIJ_divided_islands_desc: "During the colonial era, the British imported thousands of indentured laborers from South Asia to work on its vast sugar plantations. Today their descendents, despite making up a slim majority on the Island live in squalor facing a de-facto racial caste system below the native Fijans. Meanwhile, the native Fijian population has its grievances as they see their traditional rights and privileges threatened by the new Republic’s ambitious reforms to amend past discrimination."
+FIJ_the_pacific_vanguard: "The Pacific Vanguard"
+FIJ_the_pacific_vanguard_desc: "As the OFN’s largest forward island base in the Pacific, a mere stone toss away from the Japanese territories, the little island republic has become a fortress, hosting several military bases and under 24/7 protection by air and sea. Nonetheless, the nearness of the Japanese and occasional incursions from Japanese fishermen leave the Islanders in a state of constant anxiety."
+FIJ_economic_doldrums: "Economic Doldrums"
+FIJ_economic_doldrums_desc: "With the collapse of the British Empire and the collapse of trade outside the shrinking Free World, the once prosperous plantation sugar economy in Fiji entered a tailspin triggering immense socio-political upheaval in the 1950s. The introduction of OFN capital investments and GI dollars from the military bases has stabilized the situation, but the Island has yet to find a niche in a changing world. The future seems to hang in the balance as the economy stagnates."
+
+# Parties
+FIJ_progressivism_party: "FP"
+FIJ_progressivism_party_long: "Federation Party"
+FIJ_liberalism_party: "FP"
+FIJ_liberalism_party_long: "Federation Party"
+FIJ_conservatism_party: "AP"
+FIJ_conservatism_party_long: "Alliance Party"
+FIJ_paternalism_party: "SBAP"
+FIJ_paternalism_party_long: "Sakeasi Butadroka Alliance Party"
