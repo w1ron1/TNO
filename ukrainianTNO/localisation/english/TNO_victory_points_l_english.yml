@@ -5488,6 +5488,7 @@
  VICTORY_POINTS_13270: "Ходжейлі"
  VICTORY_POINTS_13270_krk: "Ходжелі"
  VICTORY_POINTS_12454: "Желєзнодорожний"
+<<<<<<< Updated upstream
  VICTORY_POINTS_12454_krk_1962: "Темір-Жол"
  VICTORY_POINTS_12454_1969: "Кунград"
  VICTORY_POINTS_12454_krk_1969: "Коньрат"
@@ -5505,6 +5506,25 @@
  VICTORY_POINTS_10308: "Акмола"
  VICTORY_POINTS_10308_kaz: "Акмола"
  VICTORY_POINTS_10308_rus: "Акмолінск"
+=======
+ VICTORY_POINTS_12454_krk_1962: "Temir Jol"
+ VICTORY_POINTS_12454_1969: "Kungrad"
+ VICTORY_POINTS_12454_krk_1969: "Qońirat"
+ ###Kazakhstan###
+ VICTORY_POINTS_4294: "Aktobe"
+ VICTORY_POINTS_4294_kaz: "Aqtöbe"
+ VICTORY_POINTS_4294_rus: "Aktyubinsk"
+ VICTORY_POINTS_7370: "Alga"
+ VICTORY_POINTS_7370_kaz: "Alğa"
+ VICTORY_POINTS_4238: "Atbasar"
+ VICTORY_POINTS_1402: "Balkhash"
+ VICTORY_POINTS_1402_kaz: "Balqaş"
+ VICTORY_POINTS_4224: "Almaty"
+ VICTORY_POINTS_4224_rus: "Alma-Ata"
+ VICTORY_POINTS_10308: "Akmola"
+ VICTORY_POINTS_10308_kaz: "Aqmola"
+ VICTORY_POINTS_10308_rus: "Akmolinsk"
+>>>>>>> Stashed changes
  VICTORY_POINTS_10619: "Taldykorgan"
  VICTORY_POINTS_10619_kaz: "Taldyqorğan"
  VICTORY_POINTS_10619_rus: "Taldy-Kurgan"
