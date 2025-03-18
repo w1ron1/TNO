@@ -1,16 +1,17 @@
 ﻿l_english:
- XIN_communist_party:0 "CPC Remnants"
- XIN_communist_party_long:0 "CPC Remnants"
- XIN_conservatism_party:0 "KMT Remnants"
- XIN_conservatism_party_long:0 "KMT Remnants"
- XIN_despotism_party:0 "Xinjiang Junfa"
- XIN_despotism_party_long:0 "Xinjiang Junfa"
- POLITICS_ZHANG_ZHIZHONG_DESC:0 "Born in Anhui Province in the year 1890, Zhang Zhizhong was one of many young Chinese men whose nation was lost to them in the chaos of the Warlord Age. Unlike many of his peers, however, the fighting of that time never truly ended. Zhang studied and graduated from the Baoding Military Academy, and was nearly immediately thrust into the very heart of the chaos of early twentieth century China. He served the Kuomintang's National Revolutionary Army with courage and valor, participating in the legendary Northern Expedition, before turning his gun from his countrymen against the invading Japanese menace during the Anti-Japanese War.\n\nThe Japanese advance was vicious, inexorable, but Zhang Zhizhong held firm in the province of Hunan, holding the line against fate itself for months. One solitary mistake, a single broken communication ruined it all in the end. Fearing the fall of Changsha, Zhang Zhizhong gave the order to burn the city's most valuable assets before the Japanese could secure it, and yet no such risk of capture existed, and the general had to not only deal with the embarrassment of this err, but so too did it cripple his ability to properly defend Hunan. Zhang Zhizhong, however, was not done fighting. He would take his war to the Northwest, and he would never surrender to the invader.\n\nXinjiang is an inhospitable place, even moreso for an outsider like Zhang. His army is not alone, and he finds himself in the uncomfortable position of needing to negotiate between the Kuomintang, the last remnants of the Communist Party, and the local minorities upon whom they depend. Zhang Zhizhong takes the days as they come though, one step at a time, and just hopes that the long road he walks brings him closer to the restoration of his nation."
+ XIN_communist_party:0 "Прибічники КПК"
+ XIN_communist_party_long:0 "Прибічники КПК"
+ XIN_conservatism_party:0 "Прибічники Гоміньдану"
+ XIN_conservatism_party_long:0 "Прибічники Гоміньдану"
+ XIN_despotism_party:0 "Сіньцзянь Цзюньфа"
+ XIN_despotism_party_long:0 "Сіньцзянь Цзюньфа"
+ POLITICS_ZHANG_ZHIZHONG_DESC:0 "Чжан Чжіжун, що народився в провінції Аньхой у 1890 році, був одним із багатьох молодих китайців, чия нація втратилася для них, під час хаосу епохи вождів. На відміну від безлічі своїх однолітків, одначе, боротьба того часу ніколи не закінчувалась для нього. Чжан навчався в Баодінській військовій академії, і майже одразу після її закінчення, потрапив у саме серце хаосу Китаю початку двадцятого століття. Служивши в Національній революційній армії Гоміньдану з відвагою та мужністю, він брав участь в легендарному Північному поході, а потім виставив свою зброю від співвітчизників, на японську навалу під час Антияпонської війни.\n\nНаступ японців був жорстоким, невідворотним, але Чжан Чжіжун твердо стояв у провінції Хунань, утримуючи лінію проти самої долі місяцями. Єдина помилка, одна зіпсована комунікація - усе це в кінці кінців і зруйнувало. Побоюючись падіння Чанша, Чжан Чжіжун віддав наказ спалити найцінніші активи міста, доки японці не змогли захопили його, незважаючи на відсутність подібного ризику захоплення. І генерал мусив не лише справлятися з приниженням від цієї помилки, але це також паралізувало його здатність належно захищати Хунань. Чжан Чжіжун, утім, не зупинився. Він може перенести свою блротьбу на північний захід, і ніколи не зрадити своїх.\n\nСіньцзян — неприємне місце, ще більше для такого чужака, як Чжан. Його армія не на самоті, а він знаходиться в незручній ситуації, коли необхідно вести переговори між Гоміньданом, останніми рештками Комуністичної партії та місцевими національними меншинами, на яких вони покладаються. Чжан Чжіжун бере дні такими, якими вони є - крок за кроком, і сподівається, що довга дорога, якою він маршируэ, наблизить його до відродження нації."
  
- XIN_zhang_zhizhong:0 "Zhang Zhizhong"
+ XIN_zhang_zhizhong:0 "Чжан Чжіжун"
+ XIN_Zhao_Hanqi: "Чжао Ханьці"
  
  #Post-GAW Cosmetic Tag
- XIN_power_vacuum: "Provisional Government of Xinjiang"
+ XIN_power_vacuum: "Тимчасовий уряд Сіньцзяну"
  POLITICS_XIN_POWER_VACUUM_DESC: "" #
- XIN_IJA_despotism_party: "Xinjiang Linshi Shengzhengfu"
- XIN_IJA_despotism_party_long: "Xinjiang Linshi Shengzhengfu"
+ XIN_IJA_despotism_party: "Сіньцзянь Ліньші Шенчженфу"
+ XIN_IJA_despotism_party_long: "Сіньцзянь Ліньші Шенчженфу"
