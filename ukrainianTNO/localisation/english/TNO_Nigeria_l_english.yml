@@ -16,10 +16,10 @@
  NGA_conservatism_party_long: "Національна партія Нігерії"
  NGA_paternalism_party: "ННП"
  NGA_paternalism_party_long: "Нігерійська народна партія"
- NGA_despotism_party: "НАР"
- NGA_despotism_party_long: "Нігерійська армійська рада"
- NGA_fascism_party: "НАР"
- NGA_fascism_party_long: "Нігерійська армійська рада"
+ NGA_despotism_party: "РАН"
+ NGA_despotism_party_long: "Рада армії Нігерії"
+ NGA_fascism_party: "РАН"
+ NGA_fascism_party_long: "Рада армії Нігерії"
 
  ### Characters ###
  NGA_Yakubu_Gowon: "Якубу Говон"
