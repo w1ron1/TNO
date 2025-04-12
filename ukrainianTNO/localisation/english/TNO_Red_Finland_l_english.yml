@@ -1,18 +1,18 @@
 ﻿l_english:
  ## Назви країн ##
- RFI: "Фінська Соціалістична Республіка"
- RFI_DEF: "Фінська Соціалістична Республіка"
- RFI_ADJ: "фінський"
+ RFI: "Фінська соціялістична республіка"
+ RFI_DEF: "Фінська соціялістична республіка"
+ RFI_ADJ: "Фінськ"
 
  ####Назви партій#####
- RFI_communist_party:0 "СКП"
- RFI_communist_party_long:0 "Фінська Комуністична Партія"
- RFI_socialist_party:0 "СДТП"
- RFI_socialist_party_long:0 "Фінська Демократична Робітнича Партія"
- RFI_progressivism_party:0 "ЛП"
- RFI_progressivism_party_long:0 "Лембузен Путіккі"
- RFI_paternalism_party:0 "СКЖ"
- RFI_paternalism_party_long:0 "Союз захисників"
+ RFI_communist_party:0 "ФКП"
+ RFI_communist_party_long:0 "Фінська комуністична партія"
+ RFI_socialist_party:0 "ФДРП"
+ RFI_socialist_party_long:0 "Фінська демократична робітнича партія"
+ RFI_progressivism_party:0 "БЛ"
+ RFI_progressivism_party_long:0 "Бутік Лехмуса"
+ RFI_paternalism_party:0 "Білі"
+ RFI_paternalism_party_long:0 "Суоєлускунта"
 
  ## Персонажі ##
  RFI_Aimo_Aaltonen:0 "Аймо Аалтонен"
