@@ -1,29 +1,29 @@
 ﻿l_english:
-#Party names
-CZE_national_socialism_party:0 "NSDAP"
-CZE_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ #Party names
+ CZE_national_socialism_party:0 "НСДАП"
+ CZE_national_socialism_party_long:0 "Націонал-соціялістична німецька робітнича партія"
 
-CZE_fascism_party:0 "NS"
-CZE_fascism_party_long:0 "Národní souručenství"
+ CZE_fascism_party:0 "НП"
+ CZE_fascism_party_long:0 "Національне партнерство"
 
-CZE_conservatism_party:0 "ÚVOD"
-CZE_conservatism_party_long:0 "Ústřední vedení odboje domácího"
+ CZE_conservatism_party:0 "ЦКВО"
+ CZE_conservatism_party_long:0 "Центральне керівництво внутрішнього опору"
 
-CZE_communist_party:0 "KSČ"
-CZE_communist_party_long:0 "Komunistická strana Československa"
+ CZE_communist_party:0 "КПЧ"
+ CZE_communist_party_long:0 "Комуністична партія Чехословаччини"
 
-#Characters
-CZE_Lutz_Graf_Schwerin_Von_Krosigk:0 "Lutz Graf Schwerin von Krosigk"
-CZE_Karl_Hermann_Frank:0 "Karl Hermann Frank"
-CZE_Rudolf_Toussaint:0 "Rudolf Toussaint"
-CZE_Walter_Bertsch:0 "Walter Bertsch"
-CZE_Rolf_Gunther:0 "Rolf Günther"
-CZE_Horst_Bohme:0 "Horst Böhme"
-CZE_Kurt_Daluege:0 "Kurt Daluege"
-CZE_Curt_Siewert:0 "Curt Siewert"
-CZE_Heinrich_Hax:0 "Heinrich Hax"
+ #Characters
+ CZE_Lutz_Graf_Schwerin_Von_Krosigk:0 "Лютц Ґраф Шверін фон Кросіґк"
+ CZE_Karl_Hermann_Frank:0 "Карл Герман Франк"
+ CZE_Rudolf_Toussaint:0 "Рудольф Туссен"
+ CZE_Walter_Bertsch:0 "Вальтер Бертш"
+ CZE_Rolf_Gunther:0 "Рольф Ґюнтер"
+ CZE_Horst_Bohme:0 "Горст Бьоме"
+ CZE_Kurt_Daluege:0 "Курт Далюґе"
+ CZE_Curt_Siewert:0 "Курт Зіверт"
+ CZE_Heinrich_Hax:0 "Гайнріх Гакс"
 
-### leader bios ###
-POLITICS_LUTZ_GRAF_KROSIGK_DESC:0 "A conservative lawyer and disgraced former finance minister, Lutz Graf Schwerin von Krosigk is not the first man one would expect to be running any part of the Reich's vast territories. Appointed as Reich Minister of Finance by the hated von Papen, he managed to hold his position into and through the National Socialist takeover through a combination of keeping his head down and blindly following any order from Hitler, along with steadily managing the precious currency of the Reich during the years of massive spending. His competency, however, could not prevent the economic crash of the 1950s. His previous achievements on that field and even Hitler's respect, could not save his job.\n\nDemoted from his post as Reich Minister, he was bounced around numerous departments, becoming a wandering bureaucrat shuffling papers but eventually ended up becoming the Reichsprotektor of Böhmen und Mahren due to his rather soft and skillful hand in placating natives. As it turned out, he was the last in that position, as the Reichsprotektorat was formally annexed into the Reich in the early 1950s.\n\nYears after Reichsprotektorat annexation into the actual Reich borders, Krosigk emerged on the local political scene again, albeit this time as a Reichsverteidigungskommissar of Wehrkreis XIX, a local Wehrmacht command that took over after chaos engulfed the Reich. German Civil War participants had not yet managed to take over the rather small and neutral territory, but the future of such cordon - and the Reichsverteidigungskommissar with it - is rather bleak if things will fall apart under one of the contenders' wake."
+ ### leader bios ###
+ POLITICS_LUTZ_GRAF_KROSIGK_DESC:0 "Консервативний юрист та зневажений колишній міністр фінансів, Лютц Ґраф Шверін фон Кросіґк не та людина, яку можна було б очікувати на посаді, що керує будь-якою частиною величезних територій Райху. Призначений на посаду міністра фінансів Райху ненависним фон Папеном, він зміг зберегти свою посаду під час і після захоплення влади націонал-соціялістами завдяки комбінації мовчазного виконання наказів Гітлера та стабільному управлінню дорогоцінною валютою Райху під час років масових витрат. Однак його компетентність не змогла запобігти економічному краху 1950-х років. Його попередні досягнення в цій сфері та навіть повага Гітлера не змогли врятувати його роботу.\n\nПісля його усунення з посади міністра фінансів, Шверіна перекидало по численних відомствах - він став блукаючим бюрократом, що проглядає папери, але врешті-решт він став райхспротектором Богемії та Моравії завдяки своїй доволі м'якій, однак умілій руці у питанні заспокоєння місцевих жителів. Як виявилося, він став останнім на цій посаді, оскільки райхспротекторат було формально анексовано до складу Райху на початку 1950-х років.\n\nЧерез кілька років після анексії райхспротекторату до фактичних кордонів Райху Кросіґк знову з'явився на місцевій політичній арені, хоча цього разу як райхсвертайдіґунґскомісар військового округу XIX, місцевого командування вермахту, яке взяло на себе відповідальність після того, як хаос охопив Райх. Учасники громадянської війни в Німеччині ще не змогли захопити цю досить маленьку та нейтральну територію, але майбутнє такого кордону - і райхсвертайдіґунґскомісара зокрема - є досить похмурим, якщо все розвалиться під ударом одного з претендентів."
 
-POLITICS_KURT_DALUEGE_DESC:0 "Born in a small Silesian town, Kurt Max Franz Daluege was always a German through and through, thriving in the military culture of the old empire. Daluege joined the Nazi Party in the early years, and soon moved onto the SS, serving as head of the Ordnungspolizei for many of the prewar years. It was a post perfectly suited for a sociopath such as himself, and Daluege was highly effective at crushing partisans and dissenters.\n\nSo it was that when Daluege was sent to Bohemia after the defeat of the Soviet Union it felt, to him, as if he was being stripped of his rank for little reason. But despite his distaste for the position, Daluege was convinced that he would return to the centre of German politics soon enough, and so he continued to exercise a callous cruelty towards those he watched over. As Himmler undertook his coup, Daluege could do nothing but watch from his post in Prague. The return to central German politics never came.\n\nLack of a position in the inner party did not truly put Daluege down, however. He has since built his network in Bohemia, even betraying SS principles and working with the Czech Resistance in the years after the West Russian War, allowing them to grow under his supervision and using them to undermine the garrison when he saw fit. When the civil war came, he called upon his network and chased the garrison out of Prague, declaring himself Oberstgruppenführer. There are few outside the SS who would support his coup, and the fanatical actions that are sure to follow.\n\nBut in Daluege's eyes, he has has been shunned long enough by Germania. Let decadent fools shout across the continent. Daluege now holds the power in Bohemia, and nobody, not in his own realm, not in Germany, not even in Burgundy, is going to take it from him."
+ POLITICS_KURT_DALUEGE_DESC:0 "Народившись у маленькому сілезькому місті, Курт Макс Франц Далюґе завжди був цілковито й повністю німцем, що процвітав у військовій культурі старої імперії. Далюґе вступив до нацистської партії на початку її існування і незабаром перейшов до СС, обіймаючи посаду голови Орднунґсполіцай протягом багатьох довоєнних років. Це була посада, яка ідеально підходила для такого соціопата, як він, і Далюґе був надзвичайно ефективним у придушенні партизанів і незгодних.\n\nТак сталося, що, коли Далюґе відправили до Богемії після поразки Совєтського Союзу, це здалося йому пониженням - наче його позбавляли рангу без жодної причини. Але, незважаючи на його неприязнь до цієї посади, Далюґе був впевнений, що незабаром повернеться до центру німецької політики, тому продовжував проявляти жорстокість до тих, за ким наглядав. Коли Гіммлер здійснив свій переворот, Далюґе не міг нічого зробити, окрім як спостерігати зі своєї посади в Празі. Повернення до вищих штабелів німецької політики так і не відбулося.\n\nУтім, відсутність посади у внутрішній партії насправді не пригнічувала Далюґе. Він зумів побудувати свою мережу впливу в Богемії, навіть зрадивши принципам СС і працюючи з чеським опором у роки, що настали після Західноросійської війни, дозволяючи їм зростати під його контролем і використовуючи їх для підриву гарнізону, коли йому це було вигідно. Коли настала громадянська війна, він використав свою мережу і вигнав гарнізон із Праги, проголосивши себе оберстґруппенфюрером. Мало хто, не рахуючи СС, підтримають його переворот і фанатичні дії, які, безсумнівно, стануться.\n\nАле в очах Далюґе, він уже вдосталь зазнавав приниження з боку Ґерманії. Нехай розпусні дурні кричать по всьому континенту. Далюґе тепер має владу в Богемії, і ніхто, ні в його власному царстві, ні в Німеччині, ні навіть у Бурґундії, не зможе забрати це у нього."
