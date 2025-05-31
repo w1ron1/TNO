@@ -1,25 +1,25 @@
 ﻿l_english:
  ### Country Names ###
- NGA: "Нігерія"
- NGA_DEF: "Республіка Нігерія"
- NGA_ADJ: "Нігерійськ"
+ NGA: "Ніжерія"
+ NGA_DEF: "Республіка Ніжерія"
+ NGA_ADJ: "Ніжерійськ"
 
  ## Cosmetic Tags ##
- NGA_CAOPuppet: "Нігерія"
- NGA_CAOPuppet_DEF: "Африканська держава Нігерія"
- NGA_CAOPuppet_ADJ: "Нігерійськ"
+ NGA_CAOPuppet: "Ніжерія"
+ NGA_CAOPuppet_DEF: "Африканська держава Ніжерія"
+ NGA_CAOPuppet_ADJ: "Ніжерійськ"
 
  ### Parties ###
  NGA_socialist_party: "НМР"
- NGA_socialist_party_long: "Нігерійський молодіжний рух"
+ NGA_socialist_party_long: "Ніжерійський молодіжний рух"
  NGA_conservatism_party: "НПН"
- NGA_conservatism_party_long: "Національна партія Нігерії"
+ NGA_conservatism_party_long: "Національна партія Ніжерії"
  NGA_paternalism_party: "ННП"
- NGA_paternalism_party_long: "Нігерійська народна партія"
+ NGA_paternalism_party_long: "Ніжерійська народна партія"
  NGA_despotism_party: "РАН"
- NGA_despotism_party_long: "Рада армії Нігерії"
+ NGA_despotism_party_long: "Рада армії Ніжерії"
  NGA_fascism_party: "РАН"
- NGA_fascism_party_long: "Рада армії Нігерії"
+ NGA_fascism_party_long: "Рада армії Ніжерії"
 
  ### Characters ###
  NGA_Yakubu_Gowon: "Якубу Говон"

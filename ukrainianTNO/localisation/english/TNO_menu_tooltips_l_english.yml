@@ -1,17 +1,16 @@
 ﻿l_english:
 
-  # Icon tooltip
-TNO_ODF_icon_tt: "§DОПЕРАЦІЯ "ЛЮТИЙ МОРОЗ"§!"
-TNO_ODF_icon_tt_delayed: "§WАнтарктида§!. Континент вигнанців. Велика Біла Пустота. Середня температура: §m-21,6 по Цельсію§!. Оточена титанічними скелями, укрита льодовиками, піддана катабатичним вітрам, це найбільш неприязне місце на Землі, повністю непридатне для тривалого людського перебування. Однак з того моменту, як перші дослідники побачили льодові шельфи на її узбережжі: її §Gтаємниці§!, §Bчудеса§! й §Rзагрози§! привертали найвідважніших до її внутрішніх районів. Від прибережних досліджень H.M.S. Erebus і Terror до полярних подорожей §RСкотта§!, §GАмундсена§! та §BШаклтона§!, останнє незвідане місце на Землі кликало безстрашних.\n\nМета цих експедицій завжди полягала в тому, щоб заявити про права на цю пустелю. Єдиний безспірний регіон планети був захоплений примхами геополітики. Перемога §Lсил Осі§! в §RДругій світовій війні§! лише прискорила завоювання §WАнтарктиди§!. Територіальні суперечки на протоці Бігля через острів Снайп між §uЧилі§! й §MАргентиною§! переросли в регіональний конфлікт, що започаткував першу §Rвійну§! в історії §WАнтарктиди§!, та §mперегони за Антарктиду§!.\n\nОскільки великі та малі держави розділяли узбережжя та робили великі заяви щодо внутрішніх територій, сцену було підготовлено для нових §Rконфліктів§! між націями. Американська місія ОВН, §DОперація "Лютий мороз"§!, започаткувала залучення наддержав. Тисячі черевиків ступили на невідомий сніг, за ними йшли ще тисячі з країни-суперників.\n\nІронія того, що держави борються за такий по суті безвартісний шматок землі, не випадає з уваги жодному з учасників, але ніхто не може залишити його, поки інші залишаються, інакше їх престиж буде знищено. Їхнє бажання перемогти одне одного перевищує лише індиферентність континенту до справ §Gлюдини§!. Сильні чи слабкі, багаті чи бідні, коли їжа закінчується і палива залишається мало, є лише §Bтиша§!, §Bхолод§! і §Rнеситний голод, що змушує людей робити неймовірні речі§!.\n\n§WАнтарктида§! чекає..."
-
+# Icon tooltip
+TNO_ugly_american_icon_tt: "§FTHE§! §QCROW§! §FAND THE§! §hBULL§!"
+TNO_ugly_american_icon_tt_delayed: "§F"Suddenly the calm was turned to wind\nThat blew out the last flame in the eyes\nAnd passion was turned to foreboding\nAnd the frozen moment was turned to drama."\n - Vinicius de Moraes\n\n§QCarlos Lacerda§! §Fand§! §hAdhemar de Barros.§! §FThe§! §QCrow§!§F and the§! §hBull.§! Two implacable, determined men diametrically opposed to each other in every sense of the word. The former a right-wing journalist known for his opposition to §VGetúlio Vargas§! and his legacy, and the latter a morally unscrupulous politician who practically rules São Paulo.\n\n§KBrazil§! §Ffinds itself in a turbulent position as 1962 begins - locked in an unending game of chess with neighboring§! §MArgentina,§! §Fthe rest of§! §nSouth America§! §Ffinds itself being forced to pick a side. Should democracy survive the beginning of the decade, then both§! §hAdhemar§! and §QLacerda§! §Fhave the chance to mold the nation in their image.\n\nThe§! §QCrow§! §Fwill swoop down upon the moldering corpse of§! §VVarguism.§! §FHe will peck away at the status quo of the last decade, picking the bones clean and carrying them away to build a new nest - one its chicks can prosper in free from the chains of the past. But fly carefully, bird, and try not to stray too close to the sun -§! §Qeven the greatest of highs§! §xare nothing compared to the lowest of lows.§!\n\n§FThe§! §hBull,§! §Fon the other hand, will charge recklessly onwards. Man, woman, child - nothing and nobody will obstruct his onslaught. He aims to sire a legacy that will last for generations, flattening all who oppose him beneath his hooves. But a§! §Ishadow§! §Ffollows him. One that will force him to play a deadly game, with stakes high enough to make or break everything he has worked for.\n\nThe earth shakes and the sky screams.§! §nSouth America§! §Fwatches and waits, as the§! §QCrow§! §Fand the§! §hBull§! §Ffight for the future.§!"
 ####=== The tooltips that are shown when hovering over the menu pictures ===####
-###- TNO v1.5.0 - The Ruin, September 29th 2023
+###- TNO v1.5.0 - The Crow and the Bull, September 29th 2025
 
-## SINGLE PLAYER - Roald Amundsen 
-TNO_menupic_tooltip_1: "§F§GПеремога§! очікує на того, хто тримає все в §Bпорядку§! - люди кличуть це §Rудачею§!.§!"
+## Argentina Azul Colorado War Planes - SINGLE PLAYER
+TNO_menupic_tooltip_1: "§FThe nation strong enough to defeat external enemies may be brought down by those§! §xwithin.§!"
 
-## MULTIPLAYER - Sir Ernest Shackleton
-TNO_menupic_tooltip_2: "§F§RТруднощі§!, зрештою, - лише те, що потрібно §Gподолати§!.§!" 
+## JFK Frondizi Meeting - MULTIPLAYER
+TNO_menupic_tooltip_2: "§FThough they dream of prosperity, the nations of the world are forced to adhere to the diktats of §sthose§! §Vmore§! §Qpowerful.§!"
 
-## QUIT - Robert Falcon Scott
-TNO_menupic_tooltip_3: "§F§GВічна тиша§! §Wвеликої білої пустелі§!. Хмарні стовпці §Wснігу§! насуваються з півдня блідими §Yжовтими§! примарами, передвіщаючи §Bнаближення бурі§!, §Rрозмиваючи§! гостро виражені межі землі одна за одною.§!"
+## Anti Adhemar Posters - QUIT
+TNO_menupic_tooltip_3: "§FEverything comes to an end; ...not everything that lasts,§! §mlasts for long.§!"

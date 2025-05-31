@@ -1,13 +1,13 @@
 ﻿l_english:
  ### Country Names ###
- NGR: "Нігер"
- NGR_DEF: "Республіка Нігер"
- NGR_ADJ: "Нігерськ"
+ NGR: "Ніжер"
+ NGR_DEF: "Республіка Ніжер"
+ NGR_ADJ: "Ніжерськ"
 
  ## Cosmetic Tags ##
- NGR_FFRPuppet: "Нігер"
- NGR_FFRPuppet_DEF: "Республіка Нігер"
- NGR_FFRPuppet_ADJ: "Нігерськ"
+ NGR_FFRPuppet: "Ніжер"
+ NGR_FFRPuppet_DEF: "Республіка Ніжер"
+ NGR_FFRPuppet_ADJ: "Ніжерськ"
 
  ### Parties ###
  NGR_communist_party: "-"
@@ -15,15 +15,15 @@
  NGR_socialist_party: "АСР-Сауава"
  NGR_socialist_party_long: "Африканський соціалістичний рух - Сауава"
  NGR_progressivism_party: "ППН-ДАО"
- NGR_progressivism_party_long: "Прогресивна партія Нігеру - Демократичне африканське об'єднання"
+ NGR_progressivism_party_long: "Прогресивна партія Ніжеру - Демократичне африканське об'єднання"
  NGR_liberalism_party: "ППН-ДАО"
- NGR_liberalism_party_long: "Прогресивна партія Нігеру - Демократичне африканське об'єднання"
+ NGR_liberalism_party_long: "Прогресивна партія Ніжеру - Демократичне африканське об'єднання"
  NGR_conservatism_party: "ДСН"
- NGR_conservatism_party_long: "Демократичний союз Нігеру"
+ NGR_conservatism_party_long: "Демократичний союз Ніжеру"
  NGR_paternalism_party: "ЗСН"
- NGR_paternalism_party_long: "Збройні сили Нігеру"
+ NGR_paternalism_party_long: "Збройні сили Ніжеру"
  NGR_despotism_party: "ППН-ДАО"
- NGR_despotism_party_long: "Прогресивна партія Нігеру - Демократичне африканське об'єднання"
+ NGR_despotism_party_long: "Прогресивна партія Ніжеру - Демократичне африканське об'єднання"
  NGR_fascism_party: "Лоялісти Кунче"
  NGR_fascism_party_long: "Лоялісти Кунче"
  NGR_national_socialism_party: "-"
