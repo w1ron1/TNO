@@ -4,114 +4,114 @@
 
 #Infobox stuff
 
-SGR_igfarben_leader:0 "Hermann Josef Abs\n§LIG FARBEN§!"
-SGR_igfarben_expository_text:0 "From the stock exchanges in Milan and banks of Bordeaux to the institutes of Oslo and slave pens of Moskau stretches an economic empire unlike any other. §WHermann Josef Abs§! sits on its throne, controlling it from the shadows and in the light, under one clear objective - power. His power, and no one else's.\n\n§LIG Farben§! is the largest asset of an empire that spans the §LDeutsche Bank and many dozen more companies§!. Abs is not a member of the NSDAP; in fact, he was always distanced towards Hitler and his clique. Despite this he was a major architect of the war economy and carved his empire out of the spoils of the World War, even indulging in and financing the slave business to the point of forging §LIG Farben§! into the largest slaveholding corporation in Germany.\n\nHis obsession with power and refusal to cooperate cannot be ignored any longer. Abs and his empire must be destroyed."
+SGR_igfarben_leader:0 "Герман Йозеф Абс\n§LІҐ ФАБЕН§!"
+SGR_igfarben_expository_text:0 "Від бірж у Мілані та банків у Бордо до інститутів в Осло та рабських таборів у Москві простягається економічна імперія, непорівнянна ні з чим іншим. §WHermann Josef Abs§! сидить на її троні, контролюючи її з тіней і на світлі, під одним ясним завданням - владою. Його влада, і нічиєї більше.\n\n§LІҐ ФАБЕН§! є найбільшим активом імперії, яка охоплює §LDeutsche Bank та багато десятків інших компаній§!. Абс не є членом НСДАП; фактично, він завжди дистанціювався від Гітлера та його кліки. Незважаючи на це, він був великим архітектором воєнної економіки та сформував свою імперію зі здобутків Першої світової війни, навіть indulging у фінансуванні рабства до того, як зробив §LІҐ Фабен§! найбільшою корпорацією, що володіла рабами в Німеччині.\n\nЙого одержимість владою та небажання співпрацювати не можна більше ігнорувати. Абс та його імперія повинні бути знищені."
 
-SGR_reichswerke_leader:0 "Edmund Geilenberg\n§jREICHSWERKE§!"
-SGR_reichswerke_expository_text:0 "§WEdmund Geilenberg§! presides over the Frankenstein's monster known as the §jReichswerke§!, one of the largest industrial conglomerates on Earth. His placement as its new Wehrwirtschaftsführer was an easy decision - Geilenberg's connection to the conglomerate goes back to even before the Second World War had started.\n\n§jReichswerke§!'s reach across Europe bases on the plethora of industry it swallowed from the territories annexed by the Reich during its ascendancy. Although surpassed by IG Farben, it remains one of the largest cartels and slave holders in Germany.\n\nStill, the fight against the conglomerate is not a lost cause. Being legally state-owned, direct action against Geilenberg's abomination is easier to justify to the ideologues and industrialists in the NSDAP. Geilenberg will fall, and Germany will finally move on from its barbary."
+SGR_reichswerke_leader:0 "Едмунд Гайленберг\n§jРАЙХСВЕКЕ§!"
+SGR_reichswerke_expository_text:0 "§WЕдмунд Гайленберг§! керує чудовиськом на ім'я §jReichswerke§!, однією з найбільших індустріальних конгломератів на Землі. Його призначення на посаду нового Wehrwirtschaftsführer було легким рішенням - зв'язок Гайленберга з конгломератом простягався ще до початку Другої світової війни.\n\n§jReichswerke§!'s reach across Europe базується на численних індустріях, які він поглинав із територій, анексованих Третім Райхом під час його злету. Незважаючи на те, що від ІҐ Фабен, він залишився однією з найбільших картелей та рабовласників у Німеччині.\n\nПроте боротьба проти конгломерату ще не втрачена. Оскільки він офіційно є державним, прямі дії проти Гайленберга значно легше обґрунтувати перед ідеологами та індустріалістами НСДАП. Гайленберг впаде, і Німеччина нарешті зможе піти від цієї варварської практики."
 
-SGR_daimler_leader:0 "Friedrich Flick\n§gDAIMLER-BENZ§!"
-SGR_daimler_expository_text:0 "§gVereinigte Stahlwerke§! was only the first milestone in a lifelong career in ruthless industry and lobbyism for §WFriedrich Flick§!. Politically active since the days of Weimar, he became a generous sponsor of the NSDAP, going as far as joining the §PCircle of Friends of Heinrich Himmler§! and providing hundreds of thousands in funds to the SS.\n\n§gDaimler-Benz§!, his domain, may be less expansive than those of his fellow Wehrwirtschaftsführer, but Flick's knack in stock affairs and all kinds of economics keep him a strong competitor regardless. A notorious user and abuser of the slavery system, Flick has burned through countless slaves already in his pursuit of maximizing profits, showing not even a sliver of repentance for his actions.\n\nFlick is the best example of a ruthless industrialist who capitalized on the NSDAP's rise to power and all the atrocities it brought. He must be removed."
+SGR_daimler_leader:0 "Фрідріх Флік\n§gДАЙМЛЕР-БЕНЦ§!"
+SGR_daimler_expository_text:0 "§gVereinigte Stahlwerke§! була лише першим етапом у довічній кар'єрі у жорстокій індустрії та лобіюванні §WFriedrich Flick§!. Політично активний з часів Веймарської республіки, він став щедрим спонсором НСДАП, аж до того, що приєднався до §PКоло друзів Генріха Гіммлера§! та надав сотні тисяч на фонди для СС.\n\n§gDaimler-Benz§!, його володіння, може бути менш розширеним, ніж у його колег Wehrwirtschaftsführer, але Флік його здібності на ринкових справах та різних економіках залишають його сильним конкурентом попри все. Відомий як системний користувач і зловживач рабства, Флік витратив вже тисячі рабів у своєму прагненні до максимізації прибутків, не показуючи жодної краплини каяття за свої дії.\n\nФлік є найкращим прикладом безжального індустріаліста, який скористався підйомом НСДАП до влади та всіма жахами, що це принесло. Його слід видалити."
 
-SGR_siemens_leader:0 "Ernst von Siemens\n§BSIEMENS§!"
-SGR_siemens_expository_text:0 "§WErnst von Siemens§! stands out as somewhat of an anomaly compared to his peers. Under him, §BSiemens§! has increased its profits ten-fold, while avoiding reaching the levels of slavery other companies display. His company stands out as one of the few in Germany still carrying a respectable international reputation.\n\nMost importantly, von Siemen's fledgling empire of electronics and machines has shown sympathy towards the reformist cause; at least when it comes to programs from which §BSiemens§! would profit. No matter if this is out of genuine conviction or mere pragmatism at the inevitable demise of slavery in the new Germany, von Siemens and his family enterprise carry a significant amount of potential both economically and in the struggle against slavery.\n\nUnlikely ally or not, §BSiemens§!' nature as a cartel interferes with Germany's economic potential. Whilst the company and its proprietor may be kept, its power must diminish."
+SGR_siemens_leader:0 "Ернст фон Сіменс\n§BСІМЕНС§!"
+SGR_siemens_expository_text:0 "§WErnst von Siemens§! виділяється як дещо аномалія серед своїх колег. Під його керівництвом, §BSiemens§! збільшило свої прибутки у десять разів, уникнувши досягнення рівнів рабства, які демонструють інші компанії. Його компанія виділяється як одна з небагатьох у Німеччині, що зберігає поважну міжнародну репутацію.\n\nЩо найважливіше, паросток імперії електроніки та машинобудування, яку він очолює, виявляє симпатію до реформістської справи; принаймні, коли справа стосується програм, від яких §BSiemens§! виграє. Незалежно від того, чи це з реальної переконаності, чи лише прагматизму перед неминучим падінням рабства у новій Німеччині, фон Сіменс і його родинне підприємство мають значний потенціал як економічно, так і в боротьбі проти рабства.\n\nНезважаючи на те, що він малоймовірний союзник, природа §BSiemens§! як картеля заважає економічному потенціалу Німеччини. Хоча компанія та її власник можуть залишитися, їхня влада повинна зменшитися."
 
 
 #Frontscreen Metrics
 
-SGR_GDP_entry_1:0 "Zollverein GDP: §W$$§![?reich_GDP|2|W]§WB§! | [?zollvereinGDP_growth|%W2]"
+SGR_GDP_entry_1:0 "Цолльферайн ВВП: §W$$§![?reich_GDP|2|W]§WB§! | [?zollvereinGDP_growth|%W2]"
 SGR_slave_entry_scripted_loc:0 "[getSGRSlaveryStatus]"
-SGR_slave_entry_1:0 "Slaves: [?Reich_SlavesNum_m|3|R] §RMillion§!"
-SGR_slavery_abolished_entry:0 "§GSLAVERY ABOLISHED§!"
-SGR_workforce_entry_1:0 "Skilled Workforce: [?displayCurrentWorkforce|4|W] §WMillion§! | [?displayCivPercentage|%W2]"
+SGR_slave_entry_1:0 "Раби: [?Reich_SlavesNum_m|3|R] §RМільйон§!"
+SGR_slavery_abolished_entry:0 "§GРАБСТВО СКАСОВАНЕ§!"
+SGR_workforce_entry_1:0 "Кваліфікована робоча сила: [?displayCurrentWorkforce|4|W] §WМільйон§! | [?displayCivPercentage|%W2]"
 
 #Overview scripted loc
 
 SGR_ranking_gdp_entry:0 "§G$[?econRankingGDP^i|G]B§!"
 SGR_ranking_gdp_entry_ZV:0 "§G$[?ZV_members^i.GDP_billion|G]B§!"
-SGR_econgui_economic_overview:0 "ECONOMIC OVERVIEW"
-SGR_econgui_member_overview:0 "MEMBER OVERVIEW"
+SGR_econgui_economic_overview:0 "ЕКОНОМІЧНИЙ ОГЛЯД"
+SGR_econgui_member_overview:0 "ОГЛЯД ЧЛЕНІВ"
 
 SGR_ZVmembers_GDP:0 "§G$[THIS.Get_GDP_topbar]§!"
-SGR_ZVMembers_text:0 "Members: [?ZV_Members^num|Y0]"
+SGR_ZVMembers_text:0 "Члени: [?ZV_Members^num|Y0]"
 
-SGR_econ_overview:0 "The §QZollverein§! is formally a common market between most nations and territories comprising the §gEinheitspakt§!. De facto, it is §gGermany§!'s economic sphere, with practically all Eastern European industry being owned by Germans, owing to the sheer fact that the eastern Reichskommissariats were nothing more than German colonial administrations until recently. §RGeneralplan Ost§! and other foolish plans destroyed much of the east's economy; however, the sheer potential in resources and workforce remains. By abolishing slavery and massive investment into the east, the §QZollverein§! could turn into one of the largest economic blocs on Earth.\n\nFor §gGermany§! to have a future, it must."
+SGR_econ_overview:0 "Цолльферайн офіційно є спільним ринком між більшістю націй і територій, що входять до §gАйнхайтспакт§!. Дефакто, це економічна сфера §gНімеччини§!, оскільки практично вся східноєвропейська промисловість належить німцям, через те, що східні райхскомісаріати були нічим іншим як колоніальними адміністраціями Німеччини до недавнього часу. §RGeneralplan Ost§! та інші дурні плани зруйнували економіку сходу; однак, потенціал у ресурсах і робочій силі залишається. З скасуванням рабства і величезними інвестиціями на сході, §QЦолльферайн§! може стати однією з найбільших економічних блоків у світі.\n\nДля §gНімеччини§! мати майбутнє, вона повинна."
 
 #Zollverein Decision Category things
 
-SGR_Zollverein_members_investment_category:0 "Der Zollverein"
-SGR_Zollverein_members_investment_category_desc:0 "\n\n\n\n\n\n§QTOTAL BUDGET: [?GER.ZollvereinBudget|+3]§GB USD§!§!\n\n§YALLOTMENT:§! [?THIS.MemberZVBudget|+3]§GB USD§!\n\n§OAVAILABLE BUDGET:§! [?THIS.MemberSpentBudget|W3]§WB USD§! / [?THIS.MemberZVBudget|+3]§GB USD§!\n\nThe §QZollverein§! is a grand new project of economic cooperation between many nations of Europe. Spearheaded by §gGermany's§! §GGang of Four§!, it seeks to unite the continent under a common, single market, ensuring economic cooperation and mutual stability in the process."
+SGR_Zollverein_members_investment_category:0 "Цолльферайні"
+SGR_Zollverein_members_investment_category_desc:0 "\n\n\n\n\n\n§QTOTAL BUDGET: [?GER.ZollvereinBudget|+3]§GB USD§!§!\n\n§YALLOTMENT:§! [?THIS.MemberZVBudget|+3]§GB USD§!\n\n§OAVAILABLE BUDGET:§! [?THIS.MemberSpentBudget|W3]§WB USD§! / [?THIS.MemberZVBudget|+3]§GB USD§!\n\nЦолльферайн – це новий грандіозний проект економічного співробітництва між багатьма націями Європи. Ініційований §gНімеччиною§! §GGang of Four§!, він прагне об'єднати континент під єдиним, спільним ринком, забезпечуючи економічне співробітництво та взаємну стабільність у процесі."
 
-zv_quarterly_budget_tt:0 "The §QTotal Budget§! and §YAllotment§! will be updated."
+zv_quarterly_budget_tt:0 "§QTotal Budget§! і §YAllotment§! будуть оновлені."
 
 # Oil Crisis #
 
-SGR_ZV_debt_reduction:0 "Pay Off Debt"
-SGR_ZV_debt_reduction_desc:0 "Although not exactly the most elegant solution to our mounting debt problem, the Zollverein's budget can and will nonetheless serve as a source for money to pay off our state debt."
+SGR_ZV_debt_reduction:0 "Виплата боргу"
+SGR_ZV_debt_reduction_desc:0 "Хоча це не найелегантніше рішення для нашої зростаючої проблеми з боргом, бюджет Цолльферайн все одно може стати джерелом грошей для виплати державного боргу."
 SGR_ZV_debt_reduction_cost:0 "§Y150M§! £GFX_dollar_sign"
 SGR_ZV_debt_reduction_cost_blocked:0 "§R150M§! £GFX_dollar_sign"
-SGR_ZV_debt_reduction_tt:0 "§W§RDebt§! and §RInterest Rates§! will decrease by §Y200M USD§! and §Y1.5%§! respectively.§!"
+SGR_ZV_debt_reduction_tt:0 "§W§RБорги§! і §Rпроцентні ставки§! знизяться на §Y200M USD§! і §Y1.5%§! відповідно."
 
-SGR_ZV_oil_exploration:0 "Invest in Alternative Energy"
-SGR_ZV_oil_exploration_desc:0 "Oil has become the lifeblood of modern civilization, and it is this crisis that is showing us just how valuable that lifeblood really is. It is time to invest into alternative sources of energy."
+SGR_ZV_oil_exploration:0 "Інвестуйте в альтернативну енергетику"
+SGR_ZV_oil_exploration_desc:0 "Нафта стала кров'ю сучасної цивілізації, і саме ця криза показала нам, наскільки цінною є ця кров. Час інвестувати в альтернативні джерела енергії."
 
-SGR_ZV_introduce_rationing:0 "Introduce Rationing"
-SGR_ZV_introduce_rationing_desc:0 "Easy although painful for society, oil and gas rationing is the most rational countermeasure against the Oil Crisis. By declaring these limits, we save ourselves valuable time and money, even if our citizens don't like it."
+SGR_ZV_introduce_rationing:0 "Ввести нормування"
+SGR_ZV_introduce_rationing_desc:0 "Легке, хоча й болісне для суспільства, нормування нафти і газу є найбільш розумним заходом проти нафтової кризи. Вводячи ці обмеження, ми економимо цінний час і гроші, навіть якщо нашим громадянам це не подобається."
 
-SGR_ZV_fight_systematic_issues:0 "§YFight Systematic Issues§!"
-SGR_ZV_fight_systematic_issues_desc:0 "No matter the geopolitical events that launched the Oil Crisis, the very fact that it could have come to this situation in our country shows the necessity for economic reform. Hindsight is always accurate."
+SGR_ZV_fight_systematic_issues:0 "§YБоротьба з системними проблемами§!"
+SGR_ZV_fight_systematic_issues_desc:0 "Незалежно від геополітичних подій, які запустили нафтову кризу, сама можливість, що це прийшло до такої ситуації у нашій країні, показує необхідність економічних реформ. Відкати завжди точні."
 
 # Projects
 
-SGR_RSFSTP_Extend_Railway:0 "Extend the §gReichsschnellfahrstreckenprogramm§!"
-SGR_RSFSTP_Extend_Railway_desc:0 "The Reichsschnellfahrstreckenprogramm has progressed far enough for us to cut costs and increase efficiency of our construction of railway lines. Now that a direct line of high-speed rail exists from Prag to Germania, an opportunity has presented itself.\n\nKrakau, a city with a decent existing rail infrastructure and great opportunities for expansion, now lie as a viable target of expansion. Should we extend the line, we will greatly boost the connection of Poland to the Reich."
-SGR_RSFSTP_Krakau_Trigger:0 "§WHas §Gcompleted§! the §YPrag-Germania§! line.\n    Has §Rnot§! completed the §!§gReichsschnellfahrstreckenprogramm§!."
+SGR_RSFSTP_Extend_Railway:0 "Розширити програму швидкісних залізничних трас Reichsschnellfahrstreckenprogramm"
+SGR_RSFSTP_Extend_Railway_desc:0 "Програма райхшвидкісних залізничних ліній (Reichsschnellfahrstreckenprogramm) досягла такого прогресу, що ми можемо зменшити витрати та підвищити ефективність будівництва залізничних ліній. Тепер, коли існує пряма лінія високошвидкісної залізниці з Праги до Ґерманії, перед нами відкрилася нова можливість. Краків, місто з гідною існуючою залізничною інфраструктурою та великими можливостями для розширення, тепер постає як досяжна мета для розширення. Якщо ми продовжимо лінію, це значно посилить зв’язок Польщі з Райхом."
+SGR_RSFSTP_Krakau_Trigger:0 "§WЗавершено §Gбудівництво§! §Yлінії Прага-Ґерманія§!. Не §Rзавершено§! §!§gReichsschnellfahrstreckenprogramm§!."
 
 # Standards #
 
-SGR_ZV_open_investments:0 "§YShow Generic Investment Decisions§!"
-SGR_ZV_open_investments_desc:0 "Click to show the generic investment decisions available."
+SGR_ZV_open_investments:0 "§YПоказати загальні інвестиційні рішення§!"
+SGR_ZV_open_investments_desc:0 "Натисніть, щоб показати доступні загальні інвестиційні рішення."
 
-SGR_ZV_close_investments:0 "§YHide Generic Investment Decisions§!"
-SGR_ZV_close_investments_desc:0 "Click to hide the generic investment decisions available."
+SGR_ZV_close_investments:0 "§YПриховати загальні інвестиційні рішення§!"
+SGR_ZV_close_investments_desc:0 "Натисніть, щоб приховати доступні загальні інвестиційні рішення."
 
-SGR_ZV_open_special_investments:0 "§BShow Special Projects Decisions§!"
-SGR_ZV_open_special_investments_desc:0 "Click to show the special project decisions available."
+SGR_ZV_open_special_investments:0 "§BПоказати рішення спеціальних проєктів§!"
+SGR_ZV_open_special_investments_desc:0 "Натисніть, щоб показати доступні рішення спеціальних проєктів."
 
-SGR_ZV_close_special_investments:0 "§BHide Special Projects Decisions§!"
-SGR_ZV_close_special_investments_desc:0 "Click to hide the special project decisions available."
+SGR_ZV_close_special_investments:0 "§BПриховати рішення спеціальних проєктів§!"
+SGR_ZV_close_special_investments_desc:0 "Натисніть, щоб приховати доступні рішення спеціальних проєктів."
 
-SGR_ZV_civilian_investment:0 "Civilian Investment"
-SGR_ZV_civilian_investment_desc:0 "Using the budget of Europe's new economic union, the Zollverein, we will transfer some of the surplus funding into our own industry, focusing on replenishing the state of our civilian goods and making sure that our economy can satisfy its populace."
+SGR_ZV_civilian_investment:0 "Інвестиції в цивільну сферу"
+SGR_ZV_civilian_investment_desc:0 "Використовуючи бюджет нового економічного союзу Європи - Цолльферайні, ми перенаправимо частину надлишкових коштів у власну промисловість, зосереджуючи увагу на відновленні цивільних товарів і забезпеченні економіки, здатної задовольняти населення."
 SGR_ZV_civilian_investment_cost:0 "§Y150M§! £GFX_dollar_sign"
 SGR_ZV_civilian_investment_cost_blocked:0 "§R150M§! £GFX_dollar_sign"
 
-SGR_ZV_military_investment:0 "Military Investment"
-SGR_ZV_military_investment_desc:0 "Even under the protection of the many Zollverein nations, we still need a capable army of our own. With that in mind, a further investment into increasing our military capacity will prove itself a useful side effect of the Zollverein."
+SGR_ZV_military_investment:0 "Інвестиції у військову сферу"
+SGR_ZV_military_investment_desc:0 "Навіть під захистом багатьох держав Цолльферайні, ми все ще потребуємо боєздатної армії. З огляду на це, подальші інвестиції у збільшення нашого військового потенціалу виявляться корисним побічним ефектом Цолльферайні."
 
-SGR_ZV_infrastructure_investment:0 "Infrastructure Investment"
-SGR_ZV_infrastructure_investment_desc:0 "The heart of any nation beats as strong as the links of its railroads and the concrete of its roads. With a new investment programme pushed by the Zollverein, we will make sure that our nation's infrastructure will be strengthened."
+SGR_ZV_infrastructure_investment:0 "Інвестиції в інфраструктуру"
+SGR_ZV_infrastructure_investment_desc:0 "Серце будь-якої нації б’ється так сильно, як міцні її залізничні лінії та бетон її доріг. Завдяки новій інвестиційній програмі, ініційованій Цолльферайні, ми забезпечимо зміцнення інфраструктури нашої країни."
 SGR_ZV_infrastructure_investment_cost:0 "§Y100M§! £GFX_dollar_sign"
 SGR_ZV_infrastructure_investment_cost_blocked:0 "§R100M§! £GFX_dollar_sign"
 
-SGR_ZV_synthoil_investment:0 "Synthetic Oil Investment"
-SGR_ZV_synthoil_investment_desc:0 "We cannot rely wholly on the world outside of Europe - therefore, it is a wise idea to invest into expanding the supply of synthetic oils that we have with funds from the Zollverein, and look towards further refining the process. While autarky is a difficult thing to achieve, it will still ease whatever future troubles we may have with oil."
+SGR_ZV_synthoil_investment:0 "Інвестиції в синтетичну нафту"
+SGR_ZV_synthoil_investment_desc:0 "Ми не можемо повністю покладатися на світ за межами Європи - тому доцільно інвестувати у розширення запасів синтетичної нафти за рахунок коштів Цолльферайні та подальше вдосконалення процесу. Хоча автократія є складною метою, це полегшить можливі майбутні проблеми з нафтою."
 SGR_ZV_synthoil_investment_desc_cost:0 "§Y250M§! £GFX_dollar_sign"
 SGR_ZV_synthoil_investment_desc_cost_blocked:0 "§R250M§! £GFX_dollar_sign"
 
-SGR_ZV_education_investment:0 "Education Investment"
-SGR_ZV_education_investment_desc:0 "If there's anything that's important to the foundation of a nation, it is how literate and how intelligent its people are. Though it is important to focus education, the Zollverein has made this process easier to push the refurbishing of schools and the examination of the national curriculum, among other educational reforms."
+SGR_ZV_education_investment:0 "Інвестиції в освіту"
+SGR_ZV_education_investment_desc:0 "Якщо щось і є важливим для основи нації, то це рівень грамотності та інтелект її народу. Незважаючи на важливість зосередження на освіті, Цолльферайні полегшив цей процес, сприяючи відновленню шкіл і перегляду національної навчальної програми, серед інших освітніх реформ."
 SGR_ZV_education_investment_cost:0 "§Y50M§! £GFX_dollar_sign"
 SGR_ZV_education_investment_cost_blocked:0 "§R50M§! £GFX_dollar_sign"
 
-SGR_ZV_poverty_investment:0 "Poverty-Reducing Initiatives"
-SGR_ZV_poverty_investment_desc:0 "People who can barely get by with their paycheck, or people who are simply out on the street and asking for spare change so that they can survive - they are the most vulnerable, yet most available to pick up and put back into society. With the help of the Zollverein, we will make a significant attempt to clear the streets and make sure that more people can keep their lights on more often than not."
+SGR_ZV_poverty_investment:0 "Ініціативи зі зменшення бідності"
+SGR_ZV_poverty_investment_desc:0 "Люди, які ледве зводять кінці з кінцями, або ті, хто просто опинився на вулиці й просить дріб’язок, щоб вижити - це найбільш вразливі верстви, але й ті, які найпростіше повернути до суспільства. Завдяки підтримці Цолльферайні ми докладемо значних зусиль, щоб очистити вулиці й забезпечити більше людей можливістю частіше вмикати світло у своїх домівках."
 
-SGR_ZV_workers_investment:0 "Tradesmanships Initiatives"
-SGR_ZV_workers_investment_desc:0 "Our industry must be versatile, and there is no better way to make sure that the foundations of such an industry are set up than by approaching the youth of the nation. The Zollverein is a useful tool in this - by diverting some funds from it, we can set-up programs to push bright new minds into fields not commonly explored, thus diversifying and strengthening our economy."
+SGR_ZV_workers_investment:0 "Ініціативи для ремісництва"
+SGR_ZV_workers_investment_desc:0 "Наша промисловість має бути універсальною, і немає кращого способу закласти основи такої промисловості, ніж звернути увагу на молодь країни. Цолльферайні є корисним інструментом у цьому - перенаправляючи частину коштів, ми можемо створити програми, які заохочуватимуть нові яскраві уми до малоосвоєних сфер, тим самим урізноманітнюючи й зміцнюючи нашу економіку."
 
-SGR_Zollverein_Quarterly_Update:0 "Quarterly Budget Update"
-SGR_Zollverein_Quarterly_Update_desc:0 "The Zollverein's budget and allotment per nation is updated every quarter, allowing for new investments."
+SGR_Zollverein_Quarterly_Update:0 "Квартальне оновлення бюджету"
+SGR_Zollverein_Quarterly_Update_desc:0 "Бюджет і розподіл коштів Цолльферайні між країнами оновлюється щоквартально, що дозволяє робити нові інвестиції."
 
 
 #Economic GUI Costs & Tasks
@@ -119,18 +119,18 @@ SGR_Zollverein_Quarterly_Update_desc:0 "The Zollverein's budget and allotment pe
 SGR_tasks_scriploc_tt1:0 "[getSGRStatesTooltip1]"
 SGR_tasks_scriploc_tt2:0 "[getSGRStatesTooltip2]"
 SGR_tasks_scriploc_tt3:0 "[getSGRStatesTooltip3]"
-SGR_tasks_unavailable_tt:0 "§YThe Wehrwirtschaftsführer can only be fought once Speer has solidifed his reign.§!"
+SGR_tasks_unavailable_tt:0 "§YБоротьба з Wehrwirtschaftsführer можлива лише після того, як Шпеєр зміцнить своє правління.§!"
 
-SGR_task_invest:0 "§YMiddle Class Investment§!"
-SGR_task_invest_tt:0 "§GInvestment§! into the fledgling local middle class will weaken the grasp the §YWehrwirtschaftsführer§! hold over it. The less §Rslaves§! are present in the region, the more efficient this action becomes.\n\n§WTWO WEEKS COOLDOWN§!"
+SGR_task_invest:0 "§YІнвестиції в середній клас§!"
+SGR_task_invest_tt:0 "§GІнвестиції§! в зародковий місцевий середній клас послаблять контроль §YWehrwirtschaftsführer§! над ним. Чим менше §Rрабів§! у регіоні, тим ефективнішою стає ця дія.\n\n§WПЕРЕРВА ДВА ТИЖНІ§!"
 
-SGR_task_weaken:0 "§YSeize Corporate Assets§!"
-SGR_task_weaken_tt:0 "§RSeizing corporate assets§! from the §YWehrwirtschaftsführer§! with the help of the Wehrmacht is an efficient, albeit brutal, way to lessen their influence.\n\n§WONE MONTH COOLDOWN§!"
+SGR_task_weaken:0 "§YВилучення корпоративних активів§!"
+SGR_task_weaken_tt:0 "§RВилучення корпоративних активів§! у §YWehrwirtschaftsführer§! за допомогою вермахту є ефективним, хоча й жорстоким, способом зменшити їхній вплив.\n\n§WПЕРЕРВА ОДИН МІСЯЦЬ§!"
 
-SGR_task_antitrust:0 "§YAnti-Trust Directive§!"
-SGR_task_antitrust_tt:0 "Once the §YWehrwirtschaftsführer power§!£GFX_megacorp! over the region reaches §Y0%§!, the §Ggovernment§! can pass a directive to oust them from economic control over the region.\nOusting the §YWehrwirtschaftsführer§! from control over this region grants the following bonus:\n\n[getSGRStatesBonusTooltip]"
-SGR_task_antitrust_ger_tt:0 "§YLeader of the Zollverein Commission§!:\nConsumer Goods Use Modifier: §G-2.00%§!"
-SGR_task_antitrust_notger_tt:0 "§Y66%§! §BChance of§!:\n    §Y2§! §GNational £tt_prod_unit Production Units§!\n    §Y+5%§! §GAdditional GDP Growth in a Random State§!\n\n§Y34%§! §BChance of§!:\n    §Y4§! §GAdditional Building Slots in a Random State§!\n    §Y+5%§! §GAdditional GDP Growth in a Random State§!" 
+SGR_task_antitrust:0 "§YАнтитрестовий директив§!"
+SGR_task_antitrust_tt:0 "Щойно §Yвлада Wehrwirtschaftsführer§!£GFX_megacorp! у регіоні досягне §Y0%§!, §Gуряд§! зможе видати директиву, щоб усунути їх із економічного контролю над регіоном.\nУсунення §YWehrwirtschaftsführer§! із контролю над цим регіоном надає наступний бонус:\n\n[getSGRStatesBonusTooltip]"
+SGR_task_antitrust_ger_tt:0 "§YЛідер Комісії Цолльферайні§!:\nМодифікатор використання споживчих товарів: §G-2.00%§!"
+SGR_task_antitrust_notger_tt:0 "§Y66%§! §BШанс на§!:\n    §Y2§! §GНаціональних £tt_prod_unit одиниць виробництва§!\n    §Y+5%§! §GДодаткового зростання ВВП у випадковій області§!\n\n§Y34%§! §BШанс на§!:\n    §Y4§! §GДодаткових будівельних слотів у випадковій області§!\n    §Y+5%§! §GДодаткового зростання ВВП у випадковій області§!"
 
 SGR_task_cost1:0 "§Y5§!£political_power_texticon  | §Y10M§!£GFX_dollar_sign"
 SGR_task_cost2:0 "§Y10§!£political_power_texticon  | §Y30§!£command_power"
@@ -138,191 +138,191 @@ SGR_task_cost3:0 "§Y25§!£political_power_texticon  | §Y0%§!£GFX_megacorp!"
 
 #Frontscreen Tolltips
 
-SGR_GDP_entry_1_tt:0 "The §QZollverein's GDP§! corresponds to its economic wealth and currently lies at §Y$§![?reich_GDP|2|Y]§YB§!, with §gGermany's§! share being §Y$§![?displayGermanyGDP|2|Y]§YB§!. Its mean growth rate lies at [?zollvereinGDP_growth|%Y2].\n\nIn international negotiations, a high §QZollverein GDP§! will make the §gReich§! more attractive to investors and businesspartners. The GDP's growth is directly impacted by an increasing §GSkilled Workforce§! ratio, currently at [?displayCivPercentage|%G2], and the reduction and eventual abolition of §Rslavery§!."
-SGR_slave_entry_1_tt:0 "§RSlavery§! is the §gReich's§! cancer and encompasses [?Reich_SlavesNum_m|3|R] §Rmillion§! enslaved people.\n\nA travesty of a system originally introduced to win the Second World War and pursue the insane dreams of the elite, only to finally be usurped by the §HWehrwirtschaftsführer§! to line their own pockets. From international relations to the economy, the abolition of §Rslavery§! can only benefit §gGermany§! and the §QZollverein§! as a whole."
-SGR_workforce_entry_1_tt:0 "The §GSkilled Workforce§! is the civilian workforce of skilled labourers in §gGermany§! and currently lies at [?displayCurrentWorkforce|4|G] §Gmillion§!, or [?displayCivPercentage|%G] of the theoretically available workforce of [?displayTheoreticalWorkforce|4|G] §Gmillion§!.\n\nThe §GSkilled Workforce§! is increased by sponsoring tradesmanships initiatives in the §gReich§! while reducing the amount of §Rslave labour§! in the §QZollverein§!."
+SGR_GDP_entry_1_tt:0 "§QВВП Цолльферайну§! відповідає його економічному багатству та наразі становить §Y$§![?reich_GDP|2|Y]§YB§!, частка §gНімеччини§! складає §Y$§![?displayGermanyGDP|2|Y]§YB§!. Середній темп зростання становить [?zollvereinGDP_growth|%Y2].\n\nУ міжнародних переговорах високий §QВВП Цолльферайну§! зробить §gРайх§! більш привабливим для інвесторів і бізнес-партнерів. Зростання ВВП безпосередньо залежить від збільшення частки §GКваліфікованої робочої сили§!, яка наразі становить [?displayCivPercentage|%G2], та від скорочення і врешті-решт ліквідації §Rрабства§!."
+SGR_slave_entry_1_tt:0 "§RРабство§! - це §gРайху§! рак, і воно охоплює [?Reich_SlavesNum_m|3|R] §Rмільйонів§! поневолених людей.\n\nЦя ганебна система, спочатку запроваджена для перемоги у Другій світовій війні та реалізації божевільних мрій еліти, зрештою була узурпована §HWehrwirtschaftsführer§! для наповнення їхніх власних кишень. Від міжнародних відносин до економіки, ліквідація §Rрабства§! може принести користь лише §gНімеччині§! та §QЦолльферайну§! загалом."
+SGR_workforce_entry_1_tt:0 "§GКваліфікована робоча сила§! - це цивільна робоча сила кваліфікованих працівників у §gНімеччині§!, яка наразі становить [?displayCurrentWorkforce|4|G] §Gмільйонів§!, або [?displayCivPercentage|%G] від теоретично доступної робочої сили, яка становить [?displayTheoreticalWorkforce|4|G] §Gмільйонів§!.\n\n§GКваліфікована робоча сила§! збільшується за рахунок підтримки ініціатив для ремісників у §gРайху§! та скорочення кількості §Rрабської праці§! у §QЦолльферайні§!."
 
 
 #Decision category stuff
 
-SGR_Konjunkturpaket:0 "Enact the §WKonjunkturpaket§!"
-SGR_Konjunkturpaket_desc:0 "The German people have grown complacent on the backs of slaves, and as a result have failed to develop a reliable self-sufficient economy. In order to ensure the survival of the Reich, plans must be put in place in order to create a sustainable economic environment within Europe. Slaves will no longer be seen as a necessity, but rather as an outdated practice which will be eventually phased out by the incorporation of hardworking German people into the industrial workplace."
+SGR_Konjunkturpaket:0 "Запровадити §WKonjunkturpaket§!"
+SGR_Konjunkturpaket_desc:0 "Німецький народ став надто залежним від рабської праці, через що не зміг створити надійну самодостатню економіку. Для забезпечення виживання Райху необхідно розробити плани для створення сталого економічного середовища в Європі. Раби більше не будуть розглядатися як необхідність, а як застаріла практика, яка поступово буде замінена працею сумлінних німців в індустріальному секторі."
 
-SGR_Poland_investment:0 "Investment into Poland"
-SGR_Poland_investment_desc:0 "There is a large unstated need for economic investment and infrastructure within Poland. The erroneous and short-sighted Generalplan Ost, along with the mass enslavement of the Polish people, has turned Poland into a backwards hellscape. If we are to bring about a new era of peace and stability in the east, we must first look into improving and developing new infrastructure to further financial growth within the region."
+SGR_Poland_investment:0 "Інвестиції в Польщу"
+SGR_Poland_investment_desc:0 "Економіка та інфраструктура Польщі потребують значних інвестицій. Помилковий і короткозорий Генеральний план Ост, а також масове поневолення польського народу перетворили Польщу на відсталу територію. Якщо ми хочемо принести нову еру миру та стабільності на сході, ми повинні спершу зосередитися на покращенні й розвитку інфраструктури для стимулювання фінансового зростання в цьому регіоні."
 
-SGR_Ukraine_investment:0 "Investment into Ukraine"
-SGR_Ukraine_investment_desc:0 "German mismanagement and slavery has severely damaged the economic and political stability of Ukraine and the surrounding areas. Much of the Ukrainan industry is outdated and is built on forced labor camps, an unsustainable economic practice which must be righted if we are to ensure that Ukraine will prosper and flourish in the future."
+SGR_Ukraine_investment:0 "Інвестиції в Україну"
+SGR_Ukraine_investment_desc:0 "Німецьке недбале управління та рабство серйозно підірвали економічну та політичну стабільність України та прилеглих територій. Багато галузей української промисловості застарілі й базуються на трудових таборах, що є нежиттєздатною економічною практикою. Це необхідно виправити, якщо ми хочемо забезпечити процвітання України в майбутньому."
 
-SGR_Ostland_investment:0 "Investment into Ostland"
-SGR_Ostland_investment_desc:0 "While the past decades have seen considerable success with the Germanization of Ostland, much of the region's industry is either non-operational or completely obsolete. In particular, the Belorussian state is in a state of disrepair and ruin, with much of the previous Ostland administration neglecting to cultivate any means of foreign investment or economic opportunity within the region. We must right the wrongs of our forefathers if we are to reassert German economic influence in Europe."
+SGR_Ostland_investment:0 "Інвестиції в Остланд"
+SGR_Ostland_investment_desc:0 "Хоча останні десятиліття стали свідками значного успіху в ґерманізації Остланду, значна частина промисловості регіону або не працює, або є застарілою. Зокрема, Білорусь перебуває в стані занепаду, а попередня адміністрація Остланду не змогла розвинути жодних засобів залучення іноземних інвестицій чи економічних можливостей у регіоні. Ми повинні виправити помилки наших предків, якщо хочемо відновити економічний вплив Німеччини в Європі."
 
-SGR_Kaukasien_investment:0 "Investment into Kaukasien"
-SGR_Kaukasien_investment_desc:0 "The rich natural resources and cheap labor within the Kaukasus region has led to a rather unhealthy relationship between Kaukasien and Germany. Working conditions in RK Kaukasien are notoriously atrocious, with German overlord exploiting a cheap and inexperienced labor pool. We must address these horrendous working conditions in Kaukasien if we are to foster any concrete economic growth."
+SGR_Kaukasien_investment:0 "Інвестиції в Кавказ"
+SGR_Kaukasien_investment_desc:0 "Багаті природні ресурси та дешева робоча сила в регіоні Кавказу створили нездорові відносини між Кавказом і Німеччиною. Робочі умови в РК Кавказу відомі своєю жахливістю, оскільки німецькі управителі експлуатують дешеву й недосвідчену робочу силу. Ми повинні вирішити ці жахливі умови праці на Кавказі, якщо хочемо сприяти економічному зростанню."
 
-SGR_Volga_investment:0 "Investment into Moskowien"
-SGR_Volga_investment_desc:0 "While many may see our subjects to the east as an unruly and lawless bunch, cooperative measures have frequently occurred between the Germans and native Russians within the region. If we are to create any semblance of long-term economic prosperity, we must foster this relationship between Germans and Russians in order to benefit the Reich."
+SGR_Volga_investment:0 "Інвестиції в Москвію"
+SGR_Volga_investment_desc:0 "Хоча багато хто може вважати наших східних підданих бунтівними й беззаконними, співпраця між німцями й місцевими росіянами в регіоні часто відбувалася. Якщо ми хочемо створити будь-які ознаки довгострокового економічного процвітання, ми повинні розвивати ці відносини для блага Райху."
 
-SGR_konjunkturpaket_cost:0 "§WThe Konjunkturpaket will cost us §R100,000,000 USD every month§!.§!"
-SGR_konjunkturpaket2_cost:0 "§WContinuing the Konjunkturpaket will cost us §R750,000,000 USD every month§! and §R500,000,000 USD in miscellaneous costs§!.§!"
-SGR_konjunkturpaket2_cost_inf:0 "§WThe Konjunkturpaket will increase our §Vinflation§! by §R0.25% every month§!.§!"
-SGR_eastern_investment_cost:0 "§WEastern investment will cost us §R25,000,000 USD every month.§!§!"
-SGR_eastern_investment2_cost:0 "§WEastern investment will cost us §R100,000,000 USD every month.§!§!"
+SGR_konjunkturpaket_cost:0 "§WKonjunkturpaket коштуватиме нам §R100 000 000 USD щомісяця§!.§!"
+SGR_konjunkturpaket2_cost:0 "§WПродовження Konjunkturpaket коштуватиме нам §R750 000 000 USD щомісяця§! та §R500 000 000 USD на додаткові витрати§!.§!"
+SGR_konjunkturpaket2_cost_inf:0 "§WKonjunkturpaket збільшить нашу §Vінфляцію§! на §R0,25% щомісяця§!.§!"
+SGR_eastern_investment_cost:0 "§WІнвестиції у східні регіони коштуватимуть нам §R25 000 000 USD щомісяця.§!§!"
+SGR_eastern_investment2_cost:0 "§WІнвестиції у східні регіони коштуватимуть нам §R100 000 000 USD щомісяця.§!§!"
 
-SGR_oilsteelchrome_reward:0 "§WResource deposits including §Yoil§!, §Ysteel§! and §Ychromium§! will be made accessible.§!"
-SGR_oilsteel_reward:0 "§WResource deposits including §Yoil§! and §Ysteel§! will be made accessible.§!"
+SGR_oilsteelchrome_reward:0 "§WРесурсні родовища, включаючи §Yнафту§!, §Yсталь§! та §Yхром§!, стануть доступними.§!"
+SGR_oilsteel_reward:0 "§WРесурсні родовища, включаючи §Yнафту§! та §Yсталь§!, стануть доступними.§!"
 
 #Econ tree stuff
 
-SGR_econ_decisions_available:0 "§WA new decision category is enabled. The §QEconomic GUI§!'s actions against corporations become activated!§!"
-SGR_decisions_available:0 "§WNew decisions will be available.§!"
+SGR_econ_decisions_available:0 "§WНова категорія рішень активована. Дії §QЕкономічного інтерфейсу§! проти корпорацій стають доступними!§!"
+SGR_decisions_available:0 "§WНові рішення стануть доступними.§!"
 
-SGR_trigger_allinvestments:0 "§WWe need to have invested into §Gall§! the eastern regimes before we can make this decision.§!"
-SGR_trigger_konjunkturpaket:0 "§WThe Konjunkturpaket needs to be §Gfinished§! before we can make this decision.§!"
+SGR_trigger_allinvestments:0 "§WМи повинні вкласти інвестиції в §Gall§! східні режими, перш ніж зможемо ухвалити це рішення.§!"
+SGR_trigger_konjunkturpaket:0 "§WПлан кон'юнктури повинен бути §Gзавершеним§!, перш ніж ми зможемо ухвалити це рішення.§!"
 
-SGR_trigger_igfarben:0 "§W§LIG FARBEN§! must be §BWANING§! for us to take action.§!"
-SGR_trigger_reichswerke:0 "§W§jREICHSWERKE§! must be §BWANING§! for us to take action.§!"
-SGR_trigger_daimler:0 "§W§gDAIMLER-BENZ§! must be §BWANING§! for us to take action.§!"
-SGR_trigger_siemens:0 "§W§BSIEMENS§! must be §BWANING§! for us to take action.§!"
+SGR_trigger_igfarben:0 "§W§LІҐ ФАБЕН§! має бути в стані §BЗАНЕПАДУ§!, щоб ми могли діяти.§!"
+SGR_trigger_reichswerke:0 "§W§jРАЙХСВЕКЕ§! має бути в стані §BЗАНЕПАДУ§!, щоб ми могли діяти.§!"
+SGR_trigger_daimler:0 "§W§gДАЙМЛЕР-БЕНЦ§! має бути в стані §BЗАНЕПАДУ§!, щоб ми могли діяти.§!"
+SGR_trigger_siemens:0 "§W§BСІМЕНС§! має бути в стані §BЗАНЕПАДУ§!, щоб ми могли діяти.§!"
 
-SGR_all_resources:0 "§WWe will be granted access to §Gall resources§! uncovered in the eastern regimes, at the cost of §RGDP growth§!.§!"
-SGR_some_resources:0 "§WWe will be granted access to only §Rsome§! resources uncovered in the eastern regimes, at the benefit of §GGDP growth§!.§!"
+SGR_all_resources:0 "§WМи отримаємо доступ до §Gвсіх ресурсів§!, знайдених у східних режимах, ціною §Rзростання ВВП§!.§!"
+SGR_some_resources:0 "§WМи отримаємо доступ лише до §Rчастини§! ресурсів, знайдених у східних режимах, з вигодою для §Gзростання ВВП§!.§!"
 
-SGR_wealth_for_all:0 "§WThe surplus wealth we have gained in the course of Erhard's reforms will be invested back into the §QZollverein§!, §Gincreasing GDP growth across the board.§!§!"
-SGR_wealth_for_us:0 "§WThe surplus wealth we have gained in the course of Erhard's reforms will be invested back into §gGermany§!, §Gincreasing the Reich's GDP growth.§!§!"
+SGR_wealth_for_all:0 "§WНакопичене багатство внаслідок реформ Ерхарда буде вкладено у §QЦолльферайн§!, §Gпідвищуючи зростання ВВП по всьому регіону.§!§!"
+SGR_wealth_for_us:0 "§WНакопичене багатство внаслідок реформ Ерхарда буде вкладено у §gНімеччину§!, §Gпідвищуючи зростання ВВП Райху.§!§!"
 
 #Ideas
 
-SGR_join_zollverein_tt:0 "§W§Y[THIS.GetName]§! joins the §QZollverein§!.\n"
+SGR_join_zollverein_tt:0 "§W§Y[THIS.GetName]§! вступає до §QЦолльферайну§!.\n"
 
-SGR_zollverein_members_scriptedloc_bloc:0 "\nZollverein Budget Allotment: §G$§![?FROM.MemberZVBudget|+]§GB USD§!"
+SGR_zollverein_members_scriptedloc_bloc:0 "\nБюджетний внесок до Цолльферайну: §G$§![?FROM.MemberZVBudget|+]§GB USD§!"
 
-SGR_zollverein_scriptedloc_bloc:0 "\nTotal Zollverein Budget: §G$§![?ZollvereinBudget|+]§GB USD§!\nZollverein Budget Payments: [?ZollvereinPayments|0Y%] of Annual Revenue\nZollverein Budget Payout: [?GER.SGRZVfactor|0+%]"
+SGR_zollverein_scriptedloc_bloc:0 "\nЗагальний бюджет Цолльферайну: §G$§![?ZollvereinBudget|+]§GB USD§!\nПлатежі до бюджету Цолльферайну: [?ZollvereinPayments|0Y%] річного доходу\nВиплати з бюджету Цолльферайну: [?GER.SGRZVfactor|0+%]"
 
-SGR_zollverein_germany:0 "Leader of the Zollverein"
-SGR_zollverein_germany_desc:0 "Consumer Goods Use Modifier: [?SGR_consumer_goods|1Y%][getZollvereinIdeaBlock]\n--------------\n§!The Zollverein is a common market and customs union between its members. A replacement for the clearly obsolete and dysfunctional Großraum Kontinentaleuropa concept, it is a means for Germany to continue being the hegemon of Europe - albeit now, hopefully, in a less bloody manner."
-GER_SGR_ZV_member_dynamic_modifier:0 "Der Zollverein"
-SGR_zollverein_basic:0 "Member of the Zollverein"
-SGR_zollverein_basic_desc:0 "§DPolitical Power Gain Factor: [?THIS.ZV_pp_gain|0+%]\nConsumer Goods Use Modifier: [?THIS.ZV_consumer_goods|1Y%]\nProduction Efficiency Gain Factor: [?THIS.ZV_production_gain|1+%][getZollvereinMembersIdeaBlock]\n--------------\n§!The Zollverein is a common market and customs union between its members. A replacement for the clearly obsolete and dysfunctional Großraum Kontinentaleuropa concept, it is a means for Germany to continue being the hegemon of Europe - albeit now, hopefully, in a less bloody manner."
+SGR_zollverein_germany:0 "Лідер Цолльферайну"
+SGR_zollverein_germany_desc:0 "Модифікатор використання товарів широкого вжитку: [?SGR_consumer_goods|1Y%][getZollvereinIdeaBlock]\n--------------\n§!Цолльферайн - це спільний ринок і митний союз між його членами. Він замінює застарілу та неефективну концепцію Großraum Kontinentaleuropa, пропонуючи Німеччині залишатися гегемоном Європи - тепер, можливо, менш кривавим способом."
+GER_SGR_ZV_member_dynamic_modifier:0 "Цолльферайн"
+SGR_zollverein_basic:0 "Член Цолльферайну"
+SGR_zollverein_basic_desc:0 "§DФактор приросту політичної влади: [?THIS.ZV_pp_gain|0+%]\nМодифікатор використання товарів широкого вжитку: [?THIS.ZV_consumer_goods|1Y%]\nФактор приросту ефективності виробництва: [?THIS.ZV_production_gain|1+%][getZollvereinMembersIdeaBlock]\n--------------\n§!Цолльферайн - це спільний ринок і митний союз між його членами. Він замінює застарілу та неефективну концепцію Großraum Kontinentaleuropa, пропонуючи Німеччині залишатися гегемоном Європи - тепер, можливо, менш кривавим способом."
 
-SGR_zollverein_reich:0 "A German Zollverein"
-SGR_zollverein_reich_desc:0 "The Zollverein's German-centric bureaucracy has been largely kept, in some regards even reinforced. Thus, there will continue to be little to no distinguishing between a German economy and an eastern European economy. Same old, same old."
+SGR_zollverein_reich:0 "Німецький Цолльферайн"
+SGR_zollverein_reich_desc:0 "Німецькоцентрична бюрократія Цолльферайну здебільшого збереглася, а в деяких аспектах навіть посилилася. Тому між німецькою економікою та економіками Східної Європи залишається мало відмінностей. Як і раніше."
 
-SGR_zollverein_common:0 "A European Zollverein"
-SGR_zollverein_common_desc:0 "The Zollverein's German-centric bureaucracy has been significantly relaxed. Nazi economic directionism has tenuously given way to grassroots cooperation headed by the Reformist faction and eastern economies, resulting in flourishing local trade."
+SGR_zollverein_common:0 "Європейський Цолльферайн"
+SGR_zollverein_common_desc:0 "Німецькоцентрична бюрократія Цолльферайну була значно послаблена. Економічний директивізм нацистів поступився місцем співпраці, очолюваній реформістською фракцією та східними економіками, що сприяло розвитку місцевої торгівлі."
 
-SGR_siemenswelt:0 "Siemenswelt"
-SGR_siemenswelt_desc:0 "Siemens is Germany's leading tech company and simultaneously one of the few with significant international standing. Their presence on our side is a boon for our research and development efforts."
+SGR_siemenswelt:0 "Світ Сіменса"
+SGR_siemenswelt_desc:0 "Сіменс - провідна технологічна компанія Німеччини та одна з небагатьох із значним міжнародним впливом. Її присутність на нашому боці - це перевага для наших досліджень і розробок."
 
-SGR_reichswerke_mass_privatisation:0 "Reichswerke Privatisation"
-SGR_reichswerke_mass_privatisation_desc:0 "Reichswerke is in the process of largely being privatized, with middleclass corporations profiting the most off of this."
+SGR_reichswerke_mass_privatisation:0 "Приватизація Reichswerke"
+SGR_reichswerke_mass_privatisation_desc:0 "Reichswerke перебуває в процесі масштабної приватизації, від якої найбільше виграють середні корпорації."
 
-SGR_reichswerke_limited_privatisation:0 "Reichswerke Limited Privatisation"
-SGR_reichswerke_limited_privatisation_desc:0 "Reichswerke is partly being privatized. The Reich will nonetheless hold on to the most important aspects of the company, namely arms production."
+SGR_reichswerke_limited_privatisation:0 "Обмежена приватизація Reichswerke"
+SGR_reichswerke_limited_privatisation_desc:0 "Reichswerke частково приватизується. Тим не менш, Райх збереже контроль над найважливішими аспектами компанії, а саме виробництвом зброї."
 
-SGR_daimler_slashed:0 "Daimler-Benz Slashed"
-SGR_daimler_slashed_desc:0 "Daimler-Benz's assets are being seized wholesale and sold off to our growing middle class corporations at low prices."
+SGR_daimler_slashed:0 "Розпродаж активів Daimler-Benz"
+SGR_daimler_slashed_desc:0 "Активи Daimler-Benz конфіскуються оптом і продаються нашим зростаючим середнім класом корпорацій за низькими цінами."
 
-SGR_made_in_germany_reformist_tt:0 "Foreign Trade Payments: §G+15%§!"
-SGR_made_in_germany_conservative_tt:0 "Foreign Trade Payments: §G+10%§!"
-SGR_zollverein_common_tt:0 "Zollverein GDP Gain: §G+20%§!"
-SGR_zollverein_reich_tt:0 "Zollverein GDP Gain: §G+10%§!"
-SGR_zollverein_basic_tt:0 "GDP Growth: §G+1.5%§!\nZollverein Budget Payments: §R10%§! of Annual Revenue"
+SGR_made_in_germany_reformist_tt:0 "Імпортні торгові платежі: §G+15%§!"
+SGR_made_in_germany_conservative_tt:0 "Імпортні торгові платежі: §G+10%§!"
+SGR_zollverein_common_tt:0 "Зростання ВВП Цолльферайну: §G+20%§!"
+SGR_zollverein_reich_tt:0 "Зростання ВВП Цолльферайну: §G+10%§!"
+SGR_zollverein_basic_tt:0 "Приріст ВВП: §G+1.5%§!\nПлатежі до бюджету Цолльферайну: §R10%§! річного доходу"
 
-SGR_made_in_germany_reformist:0 "Made in Germany"
-SGR_made_in_germany_reformist_desc:0 "Through hard work and millions spent, Germany finally has a foundation to build an economy on. Our current measures are still far from what the economic potential of the Reich truly is - but they are a start. A second chance Germany desperately needed. Still, with our name recovering, the money foreigners are willing to pay for our goods will slowly but surely increase."
+SGR_made_in_germany_reformist:0 "Зроблено в Німеччині"
+SGR_made_in_germany_reformist_desc:0 "За тяжку працю та мільйони витрачених грошей Німеччина нарешті має фундамент для побудови економіки. Наша поточна політика все ще далекий від того, який економічний потенціал насправді має Райх - але це початок. Другий шанс, який Німеччина так потребувала. Проте, з відновленням нашої репутації, гроші, які іноземці готові платити за наші товари, будуть поступово зростати."
 
-SGR_made_in_germany_conservative:0 "Made in Germany"
-SGR_made_in_germany_conservative_desc:0 "Through hard work and millions spent, Germany finally has a foundation to build an economy on. Our current measures are still far from what the economic potential of the Reich truly is - but they are a start. A second chance Germany desperately needed. Still, with our name recovering, the money foreigners are willing to pay for our goods will slowly but surely increase."
+SGR_made_in_germany_conservative:0 "Зроблено в Німеччині"
+SGR_made_in_germany_conservative_desc:0 "За тяжку працю та мільйони витрачених грошей Німеччина нарешті має фундамент для побудови економіки. Наша поточна політика все ще далекий від того, який економічний потенціал насправді має Райх - але це початок. Другий шанс, який Німеччина так потребувала. Проте, з відновленням нашої репутації, гроші, які іноземці готові платити за наші товари, будуть поступово зростати."
 
 #GUI Tooltips
 
-SGR_igfarben_button_tt:0 "Available once company power is at §G0%§! and focus §YFührererlass§! has been taken."
-SGR_reichswerke_button_tt:0 "Available once company power is at §G0%§! and focus §YPast is Past§! has been taken."
-SGR_siemens_button_tt:0 "Available once company power is at §G0%§! and focus §YZukunftsmusik§! has been taken."
-SGR_daimler_button_tt:0 "Available once company power is at §G0%§! and focus §YBuyout§! has been taken."
+SGR_igfarben_button_tt:0 "Доступно, коли сила компанії становить §G0%§! і сфокусований §YFührererlass§! був прийнятий."
+SGR_reichswerke_button_tt:0 "Доступно, коли сила компанії становить §G0%§! і сфокусований §YPast is Past§! був прийнятий."
+SGR_siemens_button_tt:0 "Доступно, коли сила компанії становить §G0%§! і сфокусований §YZukunftsmusik§! був прийнятий."
+SGR_daimler_button_tt:0 "Доступно, коли сила компанії становить §G0%§! і сфокусований §YBuyout§! був прийнятий."
 
 
 
 #Scripted Effects Tooltips
 
-SGR_europes_dreams_tt:0 "§YThe payments to the Zollverein's budget will increase by §G5%§!, while Germany's budget payout decreases by §R10%§!§!."
-SGR_reichs_needs_tt:0 "§YThe payments to the Zollverein's budget will increase by §G5%§!, while Germany's budget payout increases by §G5%§!§!."
+SGR_europes_dreams_tt:0 "§YПлатежі до бюджету Цолльферайну зростуть на §G5%§!, а виплати до бюджету Німеччини зменшаться на §R10%§!§!"
+SGR_reichs_needs_tt:0 "§YПлатежі до бюджету Цолльферайну зростуть на §G5%§!, а виплати до бюджету Німеччини зростуть на §G5%§!§!"
 
-SGR_erhard_plan_tt:0 "§GErhard's plan must be started as early and followed as closely as possible to work best.§!\n"
-SGR_skilled_labour_increase_small_tt:0 "§GThe Skilled Workforce will slightly benefit from this.§!\n"
-SGR_skilled_labour_increase_mid_tt:0 "§GThe Skilled Workforce will benefit from this.§!\n"
-SGR_skilled_labour_increase_big_tt:0 "§GThe Skilled Workforce will significantly benefit from this!§!\n"
+SGR_erhard_plan_tt:0 "§GПлан Ерхарда необхідно запустити якомога раніше та дотримуватися якомога ближче для досягнення найкращих результатів.§!"
+SGR_skilled_labour_increase_small_tt:0 "§GКваліфікована робоча сила трохи виграє від цього.§!"
+SGR_skilled_labour_increase_mid_tt:0 "§GКваліфікована робоча сила виграє від цього.§!"
+SGR_skilled_labour_increase_big_tt:0 "§GКваліфікована робоча сила значно виграє від цього!§!"
 
-SGR_repatriation_started_tt:0 "§YIt is time to act upon our promises.§!"
-SGR_repatriation_increase_small:0 "§WRepatriation efforts will be §Gsomewhat enhanced§!.§!"
-SGR_repatriation_increase_mid:0 "§WRepatriation efforts will be §Genhanced§!.§!"
-SGR_repatriation_increase_big:0 "§WRepatriation efforts will be §Gsignificantly enhanced§!!§!"
+SGR_repatriation_started_tt:0 "§YЧас діяти за нашими обіцянками.§!"
+SGR_repatriation_increase_small:0 "§WЗусилля з репатріації будуть §Gдещо посилені§!.§!"
+SGR_repatriation_increase_mid:0 "§WЗусилля з репатріації будуть §Gпосилені§!.§!"
+SGR_repatriation_increase_big:0 "§WЗусилля з репатріації будуть §Gзначно посилені§!§!"
 
-SGR_igfarben_attack_tt:0 "§WEfforts against §LIG FARBEN§! will §Gincrease in strength§!.§!"
-SGR_igfarben_defend_tt:0 "§WEfforts against §LIG FARBEN§! will §Rdecrease in strength§!.§!"
-SGR_reichswerke_attack_tt:0 "§WEfforts against §jREICHSWERKE§! will §Gincrease in strength§!.§!"
-SGR_daimler_attack_tt:0 "§WEfforts against §gDAIMLER-BENZ§! will §Gincrease in strength§!.§!"
-SGR_siemens_attack_tt:0 "§WEfforts against §BSIEMENS§! will §Gincrease in strength§!.§!"
+SGR_igfarben_attack_tt:0 "§WEfforts against §LІҐ ФАБЕН§! will §Gincrease in strength§!.§!"
+SGR_igfarben_defend_tt:0 "§WEfforts against §LІҐ ФАБЕН§! will §Rdecrease in strength§!.§!"
+SGR_reichswerke_attack_tt:0 "§WEfforts against §jРАЙХСВЕКЕ§! will §Gincrease in strength§!.§!"
+SGR_daimler_attack_tt:0 "§WEfforts against §gДАЙМЛЕР-БЕНЦ§! will §Gincrease in strength§!.§!"
+SGR_siemens_attack_tt:0 "§WEfforts against §BСІМЕНС§! will §Gincrease in strength§!.§!"
 
 #Scripted Loc Stuff
 
-SGR_IGFarben_bar_tt:0 "§LIG FARBEN§!'s power is at [?IGFarbenPower|%W]."
-SGR_Reichswerke_bar_tt:0 "§jREICHSWERKE§!'s power is at [?ReichswerkePower|%W]."
-SGR_Daimler_bar_tt:0 "§gDAIMLER-BENZ§!'s power is at [?DaimlerPower|%W]."
-SGR_Siemens_bar_tt:0 "§BSIEMENS§!'s power is at [?SiemensPower|%W]."
+SGR_IGFarben_bar_tt:0 "Влада §LIG FARBEN§! становить [?IGFarbenPower|%W]."
+SGR_Reichswerke_bar_tt:0 "Влада §jРАЙХСВЕКЕ§! становить [?ReichswerkePower|%W]."
+SGR_Daimler_bar_tt:0 "§gДАЙМЛЕР-БЕНЦ§!'s power is at [?DaimlerPower|%W]."
+SGR_Siemens_bar_tt:0 "§BСІМЕНС§!'s power is at [?SiemensPower|%W]."
 
 SGR_IGFarben_power:0 "[GetIGFarbenPower]\n"
 SGR_Reichswerke_power:0 "[GetReichswerkePower]\n"
 SGR_Daimler_power:0 "[GetDaimlerPower]\n"
 SGR_Siemens_power:0 "[GetSiemensPower]\n"
 
-SGR_untouched:0 "§RUNTOUCHED§!"
-SGR_powerful:0 "§OPOWERFUL§!"
-SGR_influential:0 "§YINFLUENTIAL§!"
-SGR_middling:0 "§gMIDDLING§!"
-SGR_waning:0 "§BWANING§!"
-SGR_vulnerable:0 "§GVULNERABLE§!"
-SGR_dismantled:0 "§WDISMANTLED§!"
+SGR_untouched:0 "§RНЕПОДІБНІ§!"
+SGR_powerful:0 "§OПОТУЖНИЙ§!"
+SGR_influential:0 "§YВПЛИВОВИЙ§!"
+SGR_middling:0 "§gПОСЕРЕДНІЙ§!"
+SGR_waning:0 "§BПАДАЮЧИЙ§!"
+SGR_vulnerable:0 "§GВРАЗЛИВИЙ§!"
+SGR_dismantled:0 "§WРозібраний§!"
 
-SGR_balanced:0 "§QNO CARTEL§!"
-SGR_ig_farben:0 "§LIG FARBEN§!"
-SGR_reichswerke:0 "§jREICHSWERKE§!"
-SGR_daimler_benz:0 "§gDAIMLER-BENZ§!"
-SGR_siemens:0 "§BSIEMENS§!"
+SGR_balanced:0 "§QНЕМА КАРТЕЛЮ§!"
+SGR_ig_farben:0 "§LІҐ ФАБЕН§!"
+SGR_reichswerke:0 "§jРАЙХСВЕКЕ§!"
+SGR_daimler_benz:0 "§gДАЙМЛЕР-БЕНЦ§!"
+SGR_siemens:0 "§BСІМЕНС§!"
 
 SGR_controlled_by:0 "[getSGRControllingCompany]"
 SGR_powerlevel:0 "£GFX_megacorp [getSGRCompanyPower]"
 
-SGR_no_slaves:0 "§Gno slaves§!"
+SGR_no_slaves:0 "§GНемає рабів§!"
 
-SGR_rhineland_slaves:0 "[?SGR_WWS_Mil_Regions^0|R3] §Rmillion slaves§!"
-SGR_northgermany_slaves:0 "[?SGR_WWS_Mil_Regions^1|R3] §Rmillion slaves§!"
-SGR_centralgermany_slaves:0 "[?SGR_WWS_Mil_Regions^2|R3] §Rmillion slaves§!"
-SGR_sachsenanhalt_slaves:0 "[?SGR_WWS_Mil_Regions^3|R3] §Rmillion slaves§!"
-SGR_prussia_slaves:0 "[?SGR_WWS_Mil_Regions^4|R3] §Rmillion slaves§!"
-SGR_bohemia_slaves:0 "[?SGR_WWS_Mil_Regions^5|R3] §Rmillion slaves§!"
-SGR_southgermany_slaves:0 "[?SGR_WWS_Mil_Regions^6|R3] §Rmillion slaves§!"
-SGR_austria_slaves:0 "[?SGR_WWS_Mil_Regions^7|R3] §Rmillion slaves§!"
-SGR_poland_slaves:0 "[?SGR_WWS_Mil_Regions^8|R3] §Rmillion slaves§!"
-SGR_belarus_slaves:0 "[?SGR_WWS_Mil_Regions^9|R3] §Rmillion slaves§!"
-SGR_lithuania_slaves:0 "[?SGR_WWS_Mil_Regions^10|R3] §Rmillion slaves§!"
-SGR_estonia_slaves:0 "[?SGR_WWS_Mil_Regions^11|R3] §Rmillion slaves§!"
-SGR_kyiv_slaves:0 "[?SGR_WWS_Mil_Regions^12|R3] §Rmillion slaves§!"
-SGR_southukraine_slaves:0 "[?SGR_WWS_Mil_Regions^13|R3] §Rmillion slaves§!"
-SGR_eastukraine_slaves:0 "[?SGR_WWS_Mil_Regions^14|R3] §Rmillion slaves§!"
-SGR_azerbaijan_slaves:0 "[?SGR_WWS_Mil_Regions^15|R3] §Rmillion slaves§!"
-SGR_georgia_slaves:0 "[?SGR_WWS_Mil_Regions^16|R3] §Rmillion slaves§!"
-SGR_katharinastadt_slaves:0 "[?SGR_WWS_Mil_Regions^17|R3] §Rmillion slaves§!"
-SGR_leningrad_slaves:0 "[?SGR_WWS_Mil_Regions^18|R3] §Rmillion slaves§!"
-SGR_holland_slaves:0 "[?SGR_WWS_Mil_Regions^19|R3] §Rmillion slaves§!"
-SGR_denmark_slaves:0 "[?SGR_WWS_Mil_Regions^20|R3] §Rmillion slaves§!"
-SGR_oslo_slaves:0 "[?SGR_WWS_Mil_Regions^21|R3] §Rmillion slaves§!"
-SGR_westnorway_slaves:0 "[?SGR_WWS_Mil_Regions^22|R3] §Rmillion slaves§!"
-SGR_crimea_slaves:0 "[?SGR_WWS_Mil_Regions^23|R3] §Rmillion slaves§!"
-SGR_uppervolga_slaves:0 "[?SGR_WWS_Mil_Regions^24|R3] §Rmillion slaves§!"
-SGR_lowervolga_slaves:0 "[?SGR_WWS_Mil_Regions^25|R3] §Rmillion slaves§!"
-SGR_bessarabia_slaves:0 "[?SGR_WWS_Mil_Regions^26|R3] §Rmillion slaves§!"
+SGR_rhineland_slaves:0 "[?SGR_WWS_Mil_Regions^0|R3] §Rмільйонів рабів§!"
+SGR_northgermany_slaves:0 "[?SGR_WWS_Mil_Regions^1|R3] §Rмільйонів рабів§!"
+SGR_centralgermany_slaves:0 "[?SGR_WWS_Mil_Regions^2|R3] §Rмільйонів рабів§!"
+SGR_sachsenanhalt_slaves:0 "[?SGR_WWS_Mil_Regions^3|R3] §Rмільйонів рабів§!"
+SGR_prussia_slaves:0 "[?SGR_WWS_Mil_Regions^4|R3] §Rмільйонів рабів§!"
+SGR_bohemia_slaves:0 "[?SGR_WWS_Mil_Regions^5|R3] §Rмільйонів рабів§!"
+SGR_southgermany_slaves:0 "[?SGR_WWS_Mil_Regions^6|R3] §Rмільйонів рабів§!"
+SGR_austria_slaves:0 "[?SGR_WWS_Mil_Regions^7|R3] §Rмільйонів рабів§!"
+SGR_poland_slaves:0 "[?SGR_WWS_Mil_Regions^8|R3] §Rмільйонів рабів§!"
+SGR_belarus_slaves:0 "[?SGR_WWS_Mil_Regions^9|R3] §Rмільйонів рабів§!"
+SGR_lithuania_slaves:0 "[?SGR_WWS_Mil_Regions^10|R3] §Rмільйонів рабів§!"
+SGR_estonia_slaves:0 "[?SGR_WWS_Mil_Regions^11|R3] §Rмільйонів рабів§!"
+SGR_kyiv_slaves:0 "[?SGR_WWS_Mil_Regions^12|R3] §Rмільйонів рабів§!"
+SGR_southukraine_slaves:0 "[?SGR_WWS_Mil_Regions^13|R3] §Rмільйонів рабів§!"
+SGR_eastukraine_slaves:0 "[?SGR_WWS_Mil_Regions^14|R3] §Rмільйонів рабів§!"
+SGR_azerbaijan_slaves:0 "[?SGR_WWS_Mil_Regions^15|R3] §Rмільйонів рабів§!"
+SGR_georgia_slaves:0 "[?SGR_WWS_Mil_Regions^16|R3] §Rмільйонів рабів§!"
+SGR_katharinastadt_slaves:0 "[?SGR_WWS_Mil_Regions^17|R3] §Rмільйонів рабів§!"
+SGR_leningrad_slaves:0 "[?SGR_WWS_Mil_Regions^18|R3] §Rмільйонів рабів§!"
+SGR_holland_slaves:0 "[?SGR_WWS_Mil_Regions^19|R3] §Rмільйонів рабів§!"
+SGR_denmark_slaves:0 "[?SGR_WWS_Mil_Regions^20|R3] §Rмільйонів рабів§!"
+SGR_oslo_slaves:0 "[?SGR_WWS_Mil_Regions^21|R3] §Rмільйонів рабів§!"
+SGR_westnorway_slaves:0 "[?SGR_WWS_Mil_Regions^22|R3] §Rмільйонів рабів§!"
+SGR_crimea_slaves:0 "[?SGR_WWS_Mil_Regions^23|R3] §Rмільйонів рабів§!"
+SGR_uppervolga_slaves:0 "[?SGR_WWS_Mil_Regions^24|R3] §Rмільйонів рабів§!"
+SGR_lowervolga_slaves:0 "[?SGR_WWS_Mil_Regions^25|R3] §Rмільйонів рабів§!"
+SGR_bessarabia_slaves:0 "[?SGR_WWS_Mil_Regions^26|R3] §Rмільйонів рабів§!"
 
 
 
@@ -330,102 +330,102 @@ SGR_bessarabia_slaves:0 "[?SGR_WWS_Mil_Regions^26|R3] §Rmillion slaves§!"
 
 #Germany
 
-SGR_economic_rhineland_tt:0 "§YRHEINLAND§!\n\nThere are currently [getRhinelandSlaves] in this economic region.\n\nThis region is dominated by [GetRheinlandMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_northgermany_tt:0 "§YNORDDEUTSCHLAND§!\n\nThere are currently [getNorthgermanySlaves] in this economic region.\n\nThis region is dominated by [GetNorthgermanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_centralgermany_tt:0 "§YMITTELDEUTSCHLAND§!\n\nThere are currently [getCentralgermanySlaves] in this economic region.\n\nThis region is dominated by [GetCentralgermanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_sachsenanhalt_tt:0 "§YSACHSEN-ANHALT§!\n\nThere are currently [getSachsenanhaltSlaves] in this economic region.\n\nThis region is dominated by [GetSachsenanhaltMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_prussia_tt:0 "§YPREUßEN§!\n\nThere are currently [getPrussiaSlaves] in this economic region.\n\nThis region is dominated by [GetPrussiaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_bohemia_tt:0 "§YBÖHMEN-MÄHREN§!\n\nThere are currently [getBohemiaSlaves] in this economic region.\n\nThis region is dominated by [GetBohemiaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_southgermany_tt:0 "§YSÜDDEUTSCHLAND§!\n\nThere are currently [getSouthgermanySlaves] in this economic region.\n\nThis region is dominated by [GetSouthgermanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_austria_tt:0 "§YOSTMARK§!\n\nThere are currently [getAustriaSlaves] in this economic region.\n\nThis region is dominated by [GetAustrianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_rhineland_tt:0 "§YРЕЙНЛАНД§!\n\nЗараз у цьому економічному регіоні перебувають [getRhinelandSlaves] рабів.\n\nЦей регіон контролюється [GetRheinlandMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_northgermany_tt:0 "§YПІВНІЧНА НІМЕЧЧИНА§!\n\nЗараз у цьому економічному регіоні перебувають [getNorthgermanySlaves] рабів.\n\nЦей регіон контролюється [GetNorthgermanMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_centralgermany_tt:0 "§YЦЕНТРАЛЬНА НІМЕЧЧИНА§!\n\nЗараз у цьому економічному регіоні перебувають [getCentralgermanySlaves] рабів.\n\nЦей регіон контролюється [GetCentralgermanMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_sachsenanhalt_tt:0 "§YСАКСОНІЯ-АНХАЛЬТ§!\n\nЗараз у цьому економічному регіоні перебувають [getSachsenanhaltSlaves] рабів.\n\nЦей регіон контролюється [GetSachsenanhaltMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_prussia_tt:0 "§YПРУСІЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getPrussiaSlaves] рабів.\n\nЦей регіон контролюється [GetPrussiaMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_bohemia_tt:0 "§YБОГЕМІЯ-МОРАВІЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getBohemiaSlaves] рабів.\n\nЦей регіон контролюється [GetBohemiaMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_southgermany_tt:0 "§YПІВДЕННА НІМЕЧЧИНА§!\n\nЗараз у цьому економічному регіоні перебувають [getSouthgermanySlaves] рабів.\n\nЦей регіон контролюється [GetSouthgermanMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_austria_tt:0 "§YОСТМАРК§!\n\nЗараз у цьому економічному регіоні перебувають [getAustriaSlaves] рабів.\n\nЦей регіон контролюється [GetAustrianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Poland
 
-SGR_economic_poland_tt:0 "§YPOLEN§!\n\nThere are currently [getPolandSlaves] in this economic region.\n\nThis region is dominated by [GetPolishMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_poland_tt:0 "§YПОЛЬЩА§!\n\nЗараз у цьому економічному регіоні перебувають [getPolandSlaves] рабів.\n\nЦей регіон контролюється [GetPolishMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Ostland
 
-SGR_economic_belarus_tt:0 "§YWEIßRUTHENIEN§!\n\nThere are currently [getBelarusSlaves] in this economic region.\n\nThis region is dominated by [GetBelarusianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_lithuania_tt:0 "§YLITTAUEN§!\n\nThere are currently [getLithuaniaSlaves] in this economic region.\n\nThis region is dominated by [GetLithuanianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_estonia_tt:0 "§YESTLAND-RIGA§!\n\nThere are currently [getEstoniaSlaves] in this economic region.\n\nThis region is dominated by [GetEstonianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_belarus_tt:0 "§YВАЙСРУТЕНІЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getBelarusSlaves] рабів.\n\nЦей регіон контролюється [GetBelarusianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_lithuania_tt:0 "§YЛИТВА§!\n\nЗараз у цьому економічному регіоні перебувають [getLithuaniaSlaves] рабів.\n\nЦей регіон контролюється [GetLithuanianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_estonia_tt:0 "§YЕСТЛЯНД-РИГА§!\n\nЗараз у цьому економічному регіоні перебувають [getEstoniaSlaves] рабів.\n\nЦей регіон контролюється [GetEstonianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Ukraine
 
-SGR_economic_kyiv_tt:0 "§YWOLHYNIEN-PODOLIEN§!\n\nThere are currently [getKyivSlaves] in this economic region.\n\nThis region is dominated by [GetWolhynianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_southukraine_tt:0 "§YSAPORISCHSCHJA§!\n\nThere are currently [getSouthukraineSlaves] in this economic region.\n\nThis region is dominated by [GetZaporizhianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_eastukraine_tt:0 "§YSEWERIEN§!\n\nThere are currently [getEastukraineSlaves] in this economic region.\n\nThis region is dominated by [GetSewerianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_kyiv_tt:0 "§YВОЛИНЬ-ПОДІЛЛЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getKyivSlaves] рабів.\n\nЦей регіон контролюється [GetWolhynianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_southukraine_tt:0 "§YЗАПОРІЖЖЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getSouthukraineSlaves] рабів.\n\nЦей регіон контролюється [GetZaporizhianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_eastukraine_tt:0 "§YСІВЕРЩИНА§!\n\nЗараз у цьому економічному регіоні перебувають [getEastukraineSlaves] рабів.\n\nЦей регіон контролюється [GetSewerianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Kaukasia
 
-SGR_economic_azerbaijan_tt:0 "§YASERBAIDSCHAN§!\n\nThere are currently [getAzerbaijanSlaves] in this economic region.\n\nThis region is dominated by [GetAzerbaijanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_georgia_tt:0 "§YGEORGIEN§!\n\nThere are currently [getGeorgiaSlaves] in this economic region.\n\nThis region is dominated by [GetGeorgianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_katharinastadt_tt:0 "§YKATHARINASTADT§!\n\nThere are currently [getKatharinastadtSlaves] in this economic region.\n\nThis region is dominated by [GetKatharinastadtMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_azerbaijan_tt:0 "§YАЗЕЙБАРДЖАН§!\n\nЗараз у цьому економічному регіоні перебувають [getAzerbaijanSlaves] рабів.\n\nЦей регіон контролюється [GetAzerbaijanMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_georgia_tt:0 "§YГРУЗІЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getGeorgiaSlaves] рабів.\n\nЦей регіон контролюється [GetGeorgianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_katharinastadt_tt:0 "§YКАТАРИНОШТАДТ§!\n\nЗараз у цьому економічному регіоні перебувають [getKatharinastadtSlaves] рабів.\n\nЦей регіон контролюється [GetKatharinastadtMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Leningrad
 
-SGR_economic_leningrad_tt:0 "§YSankt Petersburg§!\n\nThere are currently [getLeningradSlaves] in this economic region.\n\nThis region is dominated by [GetLeningradMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_leningrad_tt:0 "§YСАНКТ-ПЕТЕРБУРГ§!\n\nЗараз у цьому економічному регіоні перебувають [getLeningradSlaves] рабів.\n\nЦей регіон контролюється [GetLeningradMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Holland
 
-SGR_economic_holland_tt:0 "§YNIEDERLANDE§!\n\nThere are currently [getHollandSlaves] in this economic region.\n\nThis region is dominated by [GetHollandMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_holland_tt:0 "§YНІДЕРЛАНДИ§!\n\nЗараз у цьому економічному регіоні перебувають [getHollandSlaves] рабів.\n\nЦей регіон контролюється [GetHollandMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Denmark
 
-SGR_economic_denmark_tt:0 "§YDÄNEMARK§!\n\nThere are currently [getDenmarkSlaves] in this economic region.\n\nThis region is dominated by [GetDanishMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_denmark_tt:0 "§YДАНІЯ§!\n\nЗараз у цьому економічному регіоні перебувають [getDenmarkSlaves] рабів.\n\nЦей регіон контролюється [GetDanishMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Norway
 
-SGR_economic_oslo_tt:0 "§YØSTLANDET§!\n\nThere are currently [getOsloSlaves] in this economic region.\n\nThis region is dominated by [GetOsloMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_westnorway_tt:0 "§YVESTLANDET§!\n\nThere are currently [getWestnorwaySlaves] in this economic region.\n\nThis region is dominated by [GetWestnorwegianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_oslo_tt:0 "§YОЛСО§!\n\nЗараз у цьому економічному регіоні перебувають [getOsloSlaves] рабів.\n\nЦей регіон контролюється [GetOsloMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_westnorway_tt:0 "§YВЕСТЛАДЕТ§!\n\nЗараз у цьому економічному регіоні перебувають [getWestnorwaySlaves] рабів.\n\nЦей регіон контролюється [GetWestnorwegianMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Crimea
 
-SGR_economic_crimea_tt:0 "§YGOTENLAND§!\n\nThere are currently [getCrimeaSlaves] in this economic region.\n\nThis region is dominated by [GetCrimeanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_crimea_tt:0 "§YГОТЕНЛАНД§!\n\nЗараз у цьому економічному регіоні перебувають [getCrimeaSlaves] рабів.\n\nЦей регіон контролюється [GetCrimeanMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Volga
 
-SGR_economic_uppervolga_tt:0 "§YOBERWOLGA§!\n\nThere are currently [getUppervolgaSlaves] in this economic region.\n\nThis region is dominated by [GetUppervolgaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
-SGR_economic_lowervolga_tt:0 "§YNIEDERWOLGA§!\n\nThere are currently [getLowervolgaSlaves] in this economic region.\n\nThis region is dominated by [GetLowervolgaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_uppervolga_tt:0 "§YОБЕРВОЛГА§!\n\nЗараз у цьому економічному регіоні перебувають [getUppervolgaSlaves] рабів.\n\nЦей регіон контролюється [GetUppervolgaMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
+SGR_economic_lowervolga_tt:0 "§YНІДЕРВОЛГА§!\n\nЗараз у цьому економічному регіоні перебувають [getLowervolgaSlaves] рабів.\n\nЦей регіон контролюється [GetLowervolgaMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #Bessarabia
 
-SGR_economic_bessarabia_tt:0 "§YTRANSNISTRIEN§!\n\nThere are currently [getBessarabiaSlaves] in this economic region.\n\nThis region is dominated by [GetBessarabiaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_bessarabia_tt:0 "§YTRANSNISTRIEN§!\n\nЗараз у цьому економічному регіоні перебувають [getBessarabiaSlaves] рабів.\n\nЦей регіон контролюється [GetBessarabiaMegacorp].\n\n§YКЛАЦНІТЬ ДЛЯ ПОДАЛЬШОЇ ВЗАЄМОДІЇ§!"
 
 #States Windows#
 
 #More tts
 
-SGR_2weeks:0 "Available every two weeks"
-SGR_1month:0 "Available every month"
+SGR_2weeks:0 "Доступно кожні два тижні"
+SGR_1month:0 "Доступно кожного місяці"
 
 #State names
 
-SGR_rhineland:0 "§YRHEINLAND§!"
-SGR_northgermany:0 "§YNORDDEUTSCHLAND§!"
-SGR_centralgermany:0 "§YMITTELDEUTSCHLAND§!"
-SGR_sachsenanhalt:0 "§YSACHSEN-ANHALT§!"
-SGR_prussia:0 "§YPREUßEN§!"
-SGR_bohemia:0 "§YBÖHMEN-MÄHREN§!"
-SGR_southgermany:0 "§YSÜDDEUTSCHLAND§!"
-SGR_austria:0 "§YOSTMARK§!"
-SGR_poland:0 "§YPOLEN§!"
-SGR_belarus:0 "§YWEIßRUTHENIEN§!"
-SGR_lithuania:0 "§YLITTAUEN§!"
-SGR_estonia:0 "§YESTLAND§!"
-SGR_kyiv:0 "§YWOLHYNIEN-PODOLIEN§!"
-SGR_southukraine:0 "§YSAPORISCHSCHJA§!"
-SGR_eastukraine:0 "§YSEWERIEN§!"
-SGR_azerbaijan:0 "§YASERBAIDSCHAN§!"
-SGR_georgia:0 "§YGEORGIEN§!"
-SGR_katharinastadt:0 "§YKATHARINASTADT§!"
-SGR_leningrad:0 "§YSankt Petersburg§!"
-SGR_holland:0 "§YNIEDERLANDE§!"
-SGR_denmark:0 "§YDÄNEMARK§!"
-SGR_oslo:0 "§YØSTLANDET§!"
-SGR_westnorway:0 "§YVESTLANDET§!"
-SGR_crimea:0 "§YGOTENLAND§!"
-SGR_uppervolga:0 "§YOBERWOLGA§!"
-SGR_lowervolga:0 "§YNIEDERWOLGA§!"
+SGR_rhineland:0 "§YРЕЙНЛАНД§!"
+SGR_northgermany:0 "§YПІВНІЧНА НІМЕЧЧИНА§!"
+SGR_centralgermany:0 "§YЦЕНТРАЛЬНА НІМЕЧЧИНА§!"
+SGR_sachsenanhalt:0 "§YСАКСОНІЯ-АНХАЛЬТ§!"
+SGR_prussia:0 "§YПРУСІЯ§!"
+SGR_bohemia:0 "§YБОГЕМІЯ-МОРАВІЯ§!"
+SGR_southgermany:0 "§YПІВДЕННА НІМЕЧЧИНА§!"
+SGR_austria:0 "§YОСТРОМАРК§!"
+SGR_poland:0 "§YПОЛЬЩА§!"
+SGR_belarus:0 "§YВАЙСРУТЕНІЯ§!"
+SGR_lithuania:0 "§YЛИТВА§!"
+SGR_estonia:0 "§YЕСТОНІЯ§!"
+SGR_kyiv:0 "§YВОЛИНЬ-ПОДІЛЛЯ§!"
+SGR_southukraine:0 "§YЗАПОРІЖЖЯ§!"
+SGR_eastukraine:0 "§YСІВЕРЩИНА§!"
+SGR_azerbaijan:0 "§YАЗЕРБАЙДЖАН§!"
+SGR_georgia:0 "§YГРУЗІЯ§!"
+SGR_katharinastadt:0 "§YКАТАРИНОШТАДТ§!"
+SGR_leningrad:0 "§YСАНКТ-ПЕТЕРБУРГ§!"
+SGR_holland:0 "§YНІДЕРЛАНДИ§!"
+SGR_denmark:0 "§YДАНІЯ§!"
+SGR_oslo:0 "§YОСЛО§!"
+SGR_westnorway:0 "§YВЕСТЛАНДЕТ§!"
+SGR_crimea:0 "§YГОТЕНЛАНД§!"
+SGR_uppervolga:0 "§YОБЕРВОЛГА§!"
+SGR_lowervolga:0 "§YНІДЕРВОЛГА§!"
 SGR_bessarabia:0 "§YTRANSNISTRIEN§!"
 
 #State powers
@@ -460,53 +460,52 @@ SGR_bessarabia_pw:0 "[?SGR_WWS_Megacorps_Power^26|%]"
 
 # RSFSTP
 
-SGR_RSFSTP_title:0 "§gREICHSSCHNELLFAHRSTRECKENPROGRAMM§!"
-SGR_RSFSTP_title_tt:0 "Following the infrastructural §Rcollapse§! of §gGermany§! during the §xGerman Civil War§!, alongside its overall §Rdecay§!, the government has initiated a project to begin building §Bhigh speed railway§! along the §gEinheitspakt§!.\n\nThese are expected to reap §Glarge§! economical rewards, §Yconnecting§! major cities and §Gdrastically§! shortening travel times for skilled workers.\n\nIt will also provide a §Gbenefit§! to the transportation of civilians, repatriated slaves, and goods. The project is §Rtime-consuming and expensive§!, but for the good of §gGermany§!, no expense is too much."
-SGR_RSFSTP_bottom_text:0 "The §WReichsschnellfahrstreckenprogramm§! is [?SGR_Project_Progress^RSFSTP|G1]% complete."
-SGR_RSFSTP_notification_text_tt:0 "Click on the states for further interactions"
+SGR_RSFSTP_title:0 "§gПРОГРАМА РАЙХШВИДКІСНИХ ЗАЛІЗНИЧНИХ ЛІНІЙ§!"
+SGR_RSFSTP_title_tt:0 "Після інфраструктурного §Rколапсу§! §gНімеччини§! під час §xНімецької громадянської війни§!, поряд із загальним §Rзанепадом§!, уряд ініціював проєкт для початку будівництва §Bшвидкісної залізниці§! вздовж §gАйнхайтспакту§!.\n\nОчікується, що це принесе §Gвеликі§! економічні вигоди, §Yз'єднуючи§! великі міста та §Gрізко§! скорочуючи час у дорозі для кваліфікованих робітників.\n\nЦе також надасть §Gпереваги§! для перевезення цивільних осіб, репатрійованих рабів та товарів. Проєкт §Rвитратний за часом та коштами§!, але заради блага §gНімеччини§!, жодні витрати не є завеликими."
+SGR_RSFSTP_bottom_text:0 "§WПрограма райхшвидкісних залізничних ліній§! завершена на [?SGR_Project_Progress^RSFSTP|G1]%."
 SGR_RSFSTP_PU:0 "[?SGR_Project_PU_Investment^RSFSTP|G0] £GFX_tt_prod_unit_big"
-SGR_RSFSTP_add_tt:0 "Allocate §G+2§!£tt_prod_unit to the §gReichsschnellfahrstreckenprogramm§!, increasing monthly construction speed by §G0.2%§!, cost by §R+125M USD§!, and §R-0.05§! daily political power.\n--------------\n§BIt costs§! £political_power_texticon §Y20§! §Bto make this change.§!"
-SGR_RSFSTP_sub_tt:0 "Allocate §R-2§!£tt_prod_unit to the §gReichsschnellfahrstreckenprogramm§!, decreasing monthly construction speed by §R-0.2%§!, cost by §G-125M USD§!, and §G0.05§! daily political power.\n--------------\n§BIt costs§! £political_power_texticon §Y20§! §Bto make this change.§!"
-SGR_RSFSTP_add_locked:0 "We have allocted the maximum possible resources to this project."
-SGR_RSFSTP_sub_locked:0 "We have allocted the fewest possible resources to this project."
-SGR_RSFSTP_OC_tt:0 "The ability to modify our investment is §Rlocked§! due to the current §Rglobal economic meltdown§!."
+SGR_RSFSTP_add_tt:0 "Виділити §G+2§!£tt_prod_unit на §gПрограму райхшвидкісних залізничних ліній§!, збільшивши щомісячну швидкість будівництва на §G0.2%§!, вартість на §R+125M USD§!, та §R-0.05§! щоденної політичної влади.\n--------------\n§BЦе коштує§! £political_power_texticon §Y20§! §Bдля внесення цієї зміни.§!"
+SGR_RSFSTP_sub_tt:0 "Виділити §R-2§!£tt_prod_unit на §gПрограму райхшвидкісних залізничних ліній§!, зменшивши щомісячну швидкість будівництва на §R-0.2%§!, вартість на §G-125M USD§!, та §G0.05§! щоденної політичної влади.\n--------------\n§BЦе коштує§! £political_power_texticon §Y20§! §Bдля внесення цієї зміни.§!"
+SGR_RSFSTP_add_locked:0 "Ми виділили максимально можливу кількість ресурсів на цей проєкт."
+SGR_RSFSTP_sub_locked:0 "Ми виділили мінімально можливу кількість ресурсів на цей проєкт."
+SGR_RSFSTP_OC_tt:0 "Можливість змінювати наші інвестиції §Rзаблокована§! через поточний §Rглобальний економічний колапс§!."
 SGR_RSFSTP_add:0 "[getSGRRSFSTPIncrease]"
 SGR_RSFSTP_sub:0 "[getSGRRSFSTPDecrease]"
 
-SGR_RSFSTP_investment_count_tt:0 "This level of resource allocation for the §gReichsschnellfahrstreckenprogramm§! §Fcurrently affects:\n - Monthly Progress: §G+[?SGR_Project_Progress_Monthly^RSFSTP|2]%§!\n - Daily Political Power Gain: [?SGR_Project_PP_Cost^RSFSTP|=+]\n - Miscellaneous Costs: §Y[?SGR_Project_Actual_Cost^RSFSTP|2]B USD§!§!\n - Original Miscellaneous Costs: §Y[?SGR_Project_Cost_Temp^RSFSTP|2]B USD§!, which is multiplied by:\n  - Our administrative efficiency ("§Y[GetSocietyDevelopment_AdminEfficiency]§!"): [?SGR_project_cost_mult_disp|Y%]\n  - Our bureaucracy funding (§Y[?econ_admin_bureaucracy_slider_pct]%§!): §Y-[?SGR_Project_Bureaucracy_Display^RSFSTP|2%]§! from [?SGR_project_cost_mult_disp|Y%]\n[getSGRRSFSTPMult]"
-GER_SGR_RSFSTP_dynamic_modifier:0 "Reichsschnellfahrstreckenprogramm"
-SGR_RSFSTP_modifier:0 "Reichsschnellfahrstreckenprogramm"
-GER_SGR_RSFSTP_Dummy:0 "Reichsschnellfahrstreckenprogramm"
-SGR_RSFSTP_add_debug:0 "§WAdd 10% progress to RSFSTP§!."
-SGR_RSFSTP_mult_OC:0 "  - Oil Crisis: §R250%§! onto §YOriginal Miscellaneous Costs§!"
+SGR_RSFSTP_investment_count_tt:0 "Цей рівень виділення ресурсів для §gПрограми райхшвидкісних залізничних ліній§! §Fнаразі впливає на:\n - Місячний прогрес: §G+[?SGR_Project_Progress_Monthly^RSFSTP|2]%§!\n - Щоденний приріст політичної влади: [?SGR_Project_PP_Cost^RSFSTP|=+]\n - Різні витрати: §Y[?SGR_Project_Actual_Cost^RSFSTP|2]B USD§!§!\n - Початкові різні витрати: §Y[?SGR_Project_Cost_Temp^RSFSTP|2]B USD§!, що множиться на:\n  - Нашу адміністративну ефективність ("§Y[GetSocietyDevelopment_AdminEfficiency]§!"): [?SGR_project_cost_mult_disp|Y%]\n  - Наше фінансування бюрократії (§Y[?econ_admin_bureaucracy_slider_pct]%§!): §Y-[?SGR_Project_Bureaucracy_Display^RSFSTP|2%]§! від [?SGR_project_cost_mult_disp|Y%]\n[getSGRRSFSTPMult]"
+GER_SGR_RSFSTP_dynamic_modifier:0 "Райхшвидкісна програма"
+SGR_RSFSTP_modifier:0 "Райхсшнельфарштрекенпрограм"
+GER_SGR_RSFSTP_Dummy:0 "Райхсшнельфарштрекенпрограм"
+SGR_RSFSTP_add_debug:0 "§WДодати 10% прогресу до проєкту§!."
+SGR_RSFSTP_mult_OC:0 "  - Нафтова криза: §R250%§! до §Yоригінальної вартості програми§!"
 
 #project names
 
-SGR_project_name_RSFSTP:0 "§gReichsschnellfahrstreckenprogramm§!"
-SGR_project_name_RUSSIAN_WALL:0 "§ORusslandwall§!"
+SGR_project_name_RSFSTP:0 "§gПрограма райхшвидкісних залізничних ліній§!"
+SGR_project_name_RUSSIAN_WALL:0 "§OРуський вал§!"
 
 SGR_project_colour_green:0 "§Gin"
 SGR_project_colour_red:0 "§Rde"
 SGR_project_colour_green_no_text:0 "§G"
 SGR_project_colour_red_no_text:0 "§R"
 
-GER_SGR_RSFSTP_begin_tt:0 "§WThe §gReichsschnellfahrstreckenprogramm§! will §Ybegin§! its construction.\n\nEach month, more §Rslaves§! will be repatriated and §Gskilled workforce§! growth will increase with the construction of the §gReichsschnellfahrstreckenprogramm§!.§!"
-GER_SGR_RSFSTP_abs_tt:0 "§WEnlisting the help of IG Farben and Deutsche Bank into §gReichsschnellfahrstreckenprogramm§! will force us to make some concessions.§!\n"
-GER_SGR_RSFSTP_halt_tt:0 "§WThe construction of the §gReichsschnellfahrstreckenprogramm§! will §Rhalt§!, and the cost of maintaining existing infrastructure will increase by §R250%§!.\nThe ability to change our §Yinvestment§! into the §gReichsschnellfahrstreckenprogramm§! will be §Rlocked§!.§!"
-GER_SGR_RSFSTP_liberate_tt:0 "§WThe progress of the §gReichsschnellfahrstreckenprogramm§!'s construction will §Rdecrease§! by §R5%§!.\n§R25,000§! §Rslaves§! has been §Gliberated§! in regions where construction was happening.§!"
-SGR_RSFSTP_krakau_unlock_tt:0 "\n§WWill §Yunlock§! the option to §Gextend§! the §gReichsschnellfahrstreckenprogramm§! to §YKrakau§!.§!"
+GER_SGR_RSFSTP_begin_tt:0 "§WПрограма §gReichsschnellfahrstreckenprogramm§! почне будівництво.\n\nЩомісяця більше §Rрабів§! буде репатрійовано, і §Gзростання кваліфікованої робочої сили§! збільшиться разом з будівництвом §gReichsschnellfahrstreckenprogramm§!."
+GER_SGR_RSFSTP_abs_tt:0 "§WЗалучення допомоги ІҐ Фабен та Deutsche Bank до §gReichsschnellfahrstreckenprogramm§! змусить нас зробити деякі поступки.§!"
+GER_SGR_RSFSTP_halt_tt:0 "§WБудівництво §gReichsschnellfahrstreckenprogramm§! буде §Rпризупинено§!, і витрати на утримання існуючої інфраструктури збільшаться на §R250%§!. Зміна наших §Yінвестицій§! у §gReichsschnellfahrstreckenprogramm§! буде §Rзаблокована§!."
+GER_SGR_RSFSTP_liberate_tt:0 "§WПрогрес у будівництві §gReichsschnellfahrstreckenprogramm§! зменшиться на §R5%§!. §R25,000§! §Rрабів§! було §Gзвільнено§! у регіонах, де будівництво відбувалося.§!"
+SGR_RSFSTP_krakau_unlock_tt:0 "\n§WРозблоковує варіант §Gрозширити§! §gReichsschnellfahrstreckenprogramm§! до §YKrakau§!."
 
-SGR_RSFSTP_modifer_impact_tt:0 "§WEach province covered by the §gReichsschnellfahrstreckenprogramm§! will gain an §Gincrease§! in §Yrailway level§!, §Ostate GDP growth§!, and §Yinfrastructure level§!.§!"
+SGR_RSFSTP_modifer_impact_tt:0 "§WКожна провінція, покрита §gReichsschnellfahrstreckenprogramm§!, отримає §Gзбільшення§! в §Yрівень залізничної інфраструктури§!, §Oзростання ВВП штату§! і §Yрівень інфраструктури§!."
 
-SGR_project_monthly_change_tt:0 "§WThe monthly progress of the [GetSGRProjectName] will [GetSGRProjectColour]crease§! by [GetSGRProjectColourNoText][?SGR_Amount_Change_Mod_temp?0.1|=2]%§!, bringing it to §Y[?SGR_Amount_Change_Mod_temp_tt|2]%§!."
+SGR_project_monthly_change_tt:0 "§WЩомісячний прогрес [GetSGRProjectName] зміниться §GetSGRProjectColour%§! на [GetSGRProjectColourNoText][?SGR_Amount_Change_Mod_temp?0.1|=2]%§!, що принесе його до §Y[?SGR_Amount_Change_Mod_temp_tt|2]%§!."
 
-SGR_RSFSTP_repatriation_add_tt:0 "§WThe amount of slaves repatriated by the §gReichsschnellfahrstreckenprogramm§! monthly will be §Gincreased§! by §G[?RSFSTP_slave_repatriation_temp?0.1|=0]§!, bringing it to §Y[?SGR_RSFSTP_slave_repatriation_temp|0]§!."
-SGR_RSFSTP_repatriation_sub_tt:0 "§WThe amount of slaves repatriated by the §gReichsschnellfahrstreckenprogramm§! monthly will be §Rdecreased§! by §R[?RSFSTP_slave_repatriation_temp?0.1|=0]§!, bringing it to §Y[?SGR_RSFSTP_slave_repatriation_temp|0]§!."
+SGR_RSFSTP_repatriation_add_tt:0 "§WКількість рабів, репатрійованих щомісяця §gReichsschnellfahrstreckenprogramm§!, збільшиться на §Gincreased§! §G[?RSFSTP_slave_repatriation_temp?0.1|=0]§!, що принесе його до §Y[?SGR_RSFSTP_slave_repatriation_temp|0]§!."
+SGR_RSFSTP_repatriation_sub_tt:0 "§WКількість рабів, репатрійованих щомісяця §gReichsschnellfahrstreckenprogramm§!, зменшиться на §Rdecreased§! §R[?RSFSTP_slave_repatriation_temp?0.1|=0]§!, що принесе його до §Y[?SGR_RSFSTP_slave_repatriation_temp|0]§!."
 
-SGR_RSFSTP_workforce_add_tt:0 "§WThe skilled workforce growth provided by the §gReichsschnellfahrstreckenprogramm§! will increase by §G[?RSFSTP_workforce_temp]§!!§!"
-SGR_RSFSTP_workforce_sub_tt:0 "§WThe skilled workforce growth provided by the §gReichsschnellfahrstreckenprogramm§! will decrease by §R[?RSFSTP_workforce_temp]§!!§!"
+SGR_RSFSTP_workforce_add_tt:0 "§WЗростання кваліфікованої робочої сили, забезпечене §gReichsschnellfahrstreckenprogramm§!, збільшиться на §G[?RSFSTP_workforce_temp]§!!§!"
+SGR_RSFSTP_workforce_sub_tt:0 "§WЗростання кваліфікованої робочої сили, забезпечене §gReichsschnellfahrstreckenprogramm§!, зменшиться на §R[?RSFSTP_workforce_temp]§!!§!"
 
 # Russian Wall
 
-SGR_russian_wall_bottom_text:0 "The §ORusslandwall§! is [?SGR_Project_Progress^RUSSIAN_WALL|G1]% complete."
+SGR_russian_wall_bottom_text:0 "Проект §OРуссландволл§! на [%SGR_Project_Progress^RUSSIAN_WALL|G1]% завершено."
 GER_SGR_russian_wall_dynamic_modifier:0 "Russlandwall"
