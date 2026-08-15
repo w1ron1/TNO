@@ -1,0 +1,61 @@
+﻿l_english:
+ ### Country Names ###
+ CPV: "Cabo Verde"
+ CPV_DEF: "the Republic of Cabo Verde"
+ CPV_despotism: "Cabo Verde"
+ CPV_despotism_DEF: "the Colony of Cabo Verde"
+ CPV_ADJ: "BaBemba"
+ 
+ ### Parties ###
+ CPV_despotism_party: "CGCV"
+ CPV_despotism_party_long: "Conselho do Governo de Cabo Verde"
+
+ CPV_socialist_party: "PAIGC"
+ CPV_socialist_party_long: "Partido Africano para a Independência da Guiné e Cabo Verde"
+ CPV_socialist_2_party: "UPICV"
+ CPV_socialist_2_party_long: "União do Povo das Ilhas de Cabo Verde"
+ CPV_conservatism_party: "UDCV"
+ CPV_conservatism_party_long: "União Democrática de Cabo Verde"
+
+ ### Characters ###
+ CPV_Tito_Livio_Maria_Feijoo: "Tito Livio Maria Feijoo"
+ CPV_Jose_Andre_Leitao_da_Graca: "José André Leitão da Graça"
+ CPV_Aristides_Pereira: "Aristides Maria Pereira"
+ CPV_Aguinaldo_de_Carvalho_Veiga: "Aguinaldo de Carvalho Veiga"
+
+ #Events
+ CPV_POR.1.t: "Emergency Report on Colonial Holdings"
+ CPV_POR.1.d: "Cabo Verde is not doing well. Unrest in the native population will soon lead to a collapse of the Portuguese administration that still clings to the region. You can prevent it by winning the war quickly."
+ CPV_POR.1.a: "Oh no...anyway"
+
+ CPV_POR.2.t: "Collapse of Portuguese Cabo Verde"
+ CPV_POR.2.d: "Time has expired. The remmants of the Portuguese administration have stepped down. In their place, equally Portuguese-loving natives have been brought to power. Hurry up and win the war before anyone makes things worse."
+ CPV_POR.2.a: "Better them than the socialists"
+
+ CPV_POR.3.t: "Cabo Verde Returns Home"
+ CPV_POR.3.d: "With the Civil War over, the lifeline between Cabo Verde and Lisbon has been reopened. The colony is back under our control, though we'll keep it more autonomous than before."
+ CPV_POR.3.a: "Hooray"
+
+ CPV_POR.4.t: "Cabo Verde Returns Home"
+ CPV_POR.4.d: "With the Civil War over, the lifeline between Cabo Verde and Lisbon has been reopened. The native-run regime has aligned itself with us."
+ CPV_POR.4.a: "Hooray"
+
+ CPV_POR.5.t: ""
+ CPV_POR.5.d: ""
+ CPV_POR.5.a: ""
+
+ #Ideas
+ CPV_Tarrafal_Shocks: "Tarrafal Shocks"
+ CPV_Tarrafal_Shocks_desc: "The instability that arose in the Portuguese Civil War was not exclusive to frontlines or in the streets, as the seizing up of Portugal's supply structure has triggered supply shortages affecting just about everyone, even including those incarcerated. The prison colony at Tarrafal, long used for incarceration of political prisoners from the Portuguese mainland has been hit particularly hard by this, made even worse by Cabo Verde's isolation.\n\nThe pressing need for provisions for the civilian population has left Tarrafal with reduced rations for the inmates imprisoned there, resulting in wide-spread rioting across the prison complex. With the government in Cabo Verde already hard-pressed to handle the ongoing fallout from the war on the mainland, the fires over Tarrafal are a grim symbol of the ongoing chaos currently gripping the island."
+
+ EQG_Towards_Federation: "Towards Federation"
+ EQG_Towards_Federation_desc: "A rare ray of hope has been found following the institutional anarchy of the Portuguese Civil War, where the rise of the PAIGC on Cabo Verde was able to slip away from Portuguese control and towards her own independence. A welcome alley in this endeavor has been the victory of PAIGC's sister party in her nearby Luso-colonial neighbor Guinea-Bissau, who similarly liberated themselves from Portuguese control.\n\nWith their shared political and regional heritage combined with regional proximity in mind, the governments of both Cabo Verde and Guinea-Bissau have begun the processes to bring two nations into a united federation, the former colonies hopeful to be united in the name of national self-determination."
+
+ CPV_Loans_Lawyers: "Loans and Lawyers"
+ CPV_Loans_Lawyers_desc: "The race to establish a free and independent Cabo Verde has culminated in the rise of the UDCV, who have since been securing the island's freedom while Portugal continues to lick their wounds from the Civil War. This process has been complicated by the fact that, while largely represented by island-born lawyers from Cabo Verde, a portion of the UDCV are made up of returning diaspora from the United States of America, framing their rule as a partially foreign construct.\n\nThe Pro-OFN slant of UDCV has not helped in obfuscating this image, but the ongoing party programs of industrialization seem to be working in mollifying this concern. The UDCV government has opted for taking out loans, mostly from OFN-allied nations, to aid in building up the island's industry as a means to catch up economically after centuries of colonial rule."
+
+ CPV_Archipelagic_Neutrality: "Archipelagic Neutrality"
+ CPV_Archipelagic_Neutrality_desc: "Faced with the prospect of Capo Verde being dragged into the innumerable conflicts ravaging mainland Africa, the recently-installed regime of the UPICV have, at the behest of their West African allies, formally adopted a policy of neutrality where it relates to affairs on the continent. Having only recently gained their independence from Portugal, it was decided by the aligned  governments along the Gulf of Guinea that the island chain should be protected by remaining isolated by tensions on the mainland.\n\nHaving already witnessed the violence of the Iberian Collapse, it is unlikely that the tenuous situation in Africa should be any less volatile should another shooting war break out in West Africa. This diplomatic isolation from future conflict in the region may spare the island populations from further bloodshed, but it makes it difficult for them to align with any regional or global power. So long as Cabo Verde is able to maintain the balance of neutrality and keep distance with West Africa's enemies, her people should be able to breathe easy."
+
+ CPV_New_Old_Colony: "The New Old Colony"
+ CPV_New_Old_Colony_desc: "By the grace of God, the small island archipelago of Cabo Verde has been returned to the control of her rightful rulers in Lisbon. Despite the carnage of the Civil War and the losses of the Portuguese colonial collapse, the repossession of the islands marks a step forward in Portugal's mission to reassert its national sovereignty.\n\nYet neither Portugal or Cabo Verde are as they were before the Civil War, even if on-the-ground opposition to the return of Portuguese rule is comfortably low. Lisbon has succeeded relatively quickly in reasserting their authority over the islands, but new reforms are already being drafted to work out the kinks in this renewed relationship with Cabo Verde and her place in the Portuguese empire."

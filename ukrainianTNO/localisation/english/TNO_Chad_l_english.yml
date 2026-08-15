@@ -1,0 +1,93 @@
+﻿l_english:
+ ### Country Names ###
+ CHR: "Chadian Republic"
+ CHR_DEF: "the Chadian Republic"
+ CHR_ADJ: "Chad"
+
+ CHD: "Republic of Chad"
+ CHD_DEF: "the Republic of Chad"
+ CHD_ADJ: "Chadian"
+
+ CHF: "African Republic of Chad"
+ CHF_DEF: "the African Republic of Chad"
+ CHF_ADJ: "Chadian"
+
+ ### Parties ###
+ CHD_communist_party: "MNRCS"
+ CHD_communist_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+ CHD_socialist_party: "MNRCS"
+ CHD_socialist_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+ CHD_progressivism_party: "MNRCS"
+ CHD_progressivism_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+
+ CHD_conservatism_party: "PPT"
+ CHD_conservatism_party_long: "Parti Progressiste Tchadien"
+ CHD_paternalism_party: "PPT"
+ CHD_paternalism_party_long: "Parti Progressiste Tchadien"
+ CHD_despotism_party: "UDT"
+ CHD_despotism_party_long: "Union Démocratique Tchadienne"
+
+ #
+ CHR_communist_party: "MNRCS"
+ CHR_communist_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+ CHR_socialist_party: "MNRCS"
+ CHR_socialist_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+ CHR_progressivism_party: "MNRCS"
+ CHR_progressivism_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+
+ CHR_conservatism_party: "UDT"
+ CHR_conservatism_party_long: "Union Démocratique Tchadienne"
+ CHR_despotism_party: "UDT"
+ CHR_despotism_party_long: "Union Démocratique Tchadienne"
+ CHR_paternalism_party: "PPT"
+ CHR_paternalism_party_long: "Parti Progressiste Tchadien"
+
+ #
+ CHF_communist_party: "MNRCS"
+ CHF_communist_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+ CHF_socialist_party: "MNRCS"
+ CHF_socialist_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+ CHF_progressivism_party: "MNRCS"
+ CHF_progressivism_party_long: "Mouvement National pour la Révolution Culturelle et Sociale"
+
+ CHF_conservatism_party: "PPT"
+ CHF_conservatism_party_long: "Parti Progressiste Tchadien"
+ CHF_paternalism_party: "PPT"
+ CHF_paternalism_party_long: "Parti Progressiste Tchadien"
+ CHF_despotism_party: "UDT"
+ CHF_despotism_party_long: "Union Démocratique Tchadienne"
+
+ #
+ CHD_fascism_party: "PPT"
+ CHD_fascism_party_long: "Parti Progressiste Tchadien"
+ CHR_fascism_party: "PPT"
+ CHR_fascism_party_long: "Parti Progressiste Tchadien"
+ CHF_fascism_party: "PPT"
+ CHF_fascism_party_long: "Parti Progressiste Tchadien"
+
+ ### Characters ###
+ CHD_Ahmed_Koulamallah: "Ahmed Koulamallah"
+ CHD_Hissene_Habre: "Hissène Habré"
+ CHD_Bernard_Fonlon: "Bernard Fonlon"
+ CHD_Alhadj_Adam_Adji_Hassan: "Alhadj Adam Adji Hassan"
+ CHD_Omar_III_ibn_Muhammad_al_Amin_Kiyari: "Omar III ibn Muhammad al-Amin Kiyari"
+ CHD_Abrahim_Abatcha: "Ibrahim Abatcha"
+ #
+ CHR_Felix_Malloum: "Félix Malloum"
+ #
+ CHF_Francois_Tombalbye: "François Tombalbye"
+
+ ## Leader Descs ##
+ POLITICS_HISSENE_HABRE_DESC: "In the deserts of what was once called Chad by the French, a new power comes into play. A nation and a people, bombed into dust for years, now rises anew, and led by one of their own men. This man is Hissène Habré, and he has many stories to tell.\n\nWhen one looks at it rationally, it makes almost no sense that one 20 year old man can, with little funding and no outside help, come to depose and destroy the sultans and kings that have ruled Chad for centuries. A closer look, however, reveals how he managed it. A low ranking officer trained in the Sao militias, Hissène split from the group to lead his own movement. Promising centralization, change, and a death to the old ways and systems, Habré quickly gathered strength and momentum as he became the face of the Kanem Revolution. With nobody organized or powerful enough to stop him, Habré's armies quickly swept through northern Chad and seized control, placing Habré in sole command of Kanem.\n\nThe people of Kanem have swapped their system of dictators for one dictator instead, and Habré has wasted no time in solidifying his rule. Already, those who speak out against his regime disappear, and rumors of wild debauchery and torture occasionally slip out among the populace. Torture, murder, and human rights violations are all regular occurences in the name of stability and order. Though the people of Kanem are slowly beginning to regret their choice, a feeling of resignation rather than revolution has become common among them.\n\nAfter all, Habré is not a sultan, and anything is better than a sultan. Right?"
+
+ ## Minister Descs ##
+ CHD_Hissene_Habre_hog_desc: "§YHead of Government\nDespotism§!"
+ CHD_Bernard_Fonlon_for_desc: "§YForeign Minister\nDespotism§!"
+ CHD_Alhadj_Adam_Adji_Hassan_eco_desc: "§YEconomy Minister\nDespotism§!"
+ CHD_Hissene_Habre_sec_desc: "§YSecurity Minister\nDespotism§!"
+
+ ### Ideas ###
+ CHD_idea_inhospitable_conditions: "Inhospitable Conditions"
+ CHD_idea_inhospitable_conditions_desc: "The territory of Chad is primarily uninhabited deserts and arid grasslands. With access to water a scarcity, large-scale farming is essentially impossible, and most people live in small settlements or among nomadic tribes. Transforming this place into a prospering, modern state would take extreme amounts of investment and funding, something Chad has essentially no access to."
+ CHD_idea_legacy_kanem_bornu_kingdoms: "Legacy of the Kingdoms"
+ CHD_idea_legacy_kanem_bornu_kingdoms_desc: "The kingdoms of Kanem and Bornu were once some of the most powerful empires in Africa, controlling huge stretches of territory from Nigeria to the Sahara. Later in history the kingdom of Bornu was one of the last independent states in Africa, only capitulating to the French in 1900. The legacy of the kingdoms looms large in the minds of the people, and the new government must move quickly if it is to have any chance of measuring up to the memory of its predecessors."

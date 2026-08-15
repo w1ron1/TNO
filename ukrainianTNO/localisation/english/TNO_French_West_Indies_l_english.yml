@@ -1,0 +1,162 @@
+﻿l_english:
+ ## French West Indies Referendum
+
+ TNO_fwi_referendum_category_desc_usa: "§RUnrest and anti-Americanism§! has built in the [FWI.GetFlag] §WAntilles§! as [USA.GetFlag] §mour§! legal justification for occupying the islands sunsets. In response, §mHigh Commissioner Lemnitzer§! has drafted a path toward managed independence. To maintain §GCaribbean stability§!, we should ensure his §*Confederation Plan§! is legitimated through §Ypopular referendum§!.\n\nHowever, the referendum has drawn §Ropportunists§! seeking to §adisrupt§! our Caribbean presence. If [MEX.GetFlag] [IBR.GetFlag] §Ktheir§! §Ointerf§!§nerence§! drives matters out-of-hand, we could §Yignore the results...§!"
+ TNO_fwi_referendum_category_desc_mex: "Since the §,fascists§! occupied [FRA.GetFlag] §aFrance§!, [FWI.GetFlag] §WGuadeloupe and Martinique§! have been occupied as well. [USA.GetFlag] §mThe Gringos§! took on the role of the [FWI.GetFlag] §WAntilles'§! colonial power, §Roverriding local governance§!. Now they seek to change the guise of this imperialism, exchanging open control for a puppet §*Confederation§! via §Ypopular referendum§!.\n\nBut this opening allows [MEX.GetFlag] §Kus§!, and [IBR.GetFlag] §Ocertain op§!§nportunists§!, to support the natural desire of America's peoples for §Gindependence§! and §Gself-determination§!. The Veracruz Pact shall break all yokes!"
+ TNO_fwi_referendum_category_desc_ibr: "[IBR.GetFlag] §OIbe§!§nrian§! fleets once sailed the Caribbean, bringing troves of §fluxuries§! to Sevilla. The sea's opportunity remains, but our §GHegemony§! has passed into §Ranother's hands§!. Its modern colossus, the [USA.GetFlag] §mU.S.§!, has occupied the [FWI.GetFlag] §WAntilles§! for two decades. Chafing under open Anglo-rule, a §Yreferendum§! now aims to install an §mAmerican-controlled§! §*Confederation§! instead.\n\nIf our fellow §aLatins§! are convinced to §Rreject§! this, modern [IBR.GetFlag] §OConqui§!§nstadors§! could gain a foothold to pursue the §frich commerce§! of their forefathers."
+
+ TNO_french_west_indies_referendum_chance:0 "Current Estimated Result:\n[GetFWIReferendumEstimatedResult].\n[GetFWIReferendumActionCounter]"
+
+ TNO_FWI_Referendum_Estimated_Result_1: "§YClear §BAutonomy Plan§! Victory§!"
+ TNO_FWI_Referendum_Estimated_Result_2: "§BSlight§! §QAutonomy Plan§! §YVictory§!"
+ TNO_FWI_Referendum_Estimated_Result_3: "§RTie§!"
+ TNO_FWI_Referendum_Estimated_Result_4: "§BSlight§! §mConfederation Plan§! §YVictory§!"
+ TNO_FWI_Referendum_Estimated_Result_5: "§YClear §mConfederation Plan§! Victory§!"
+
+
+ TNO_french_west_indies_referendum_mendesist: "§mConfederation Plan§!"
+ TNO_french_west_indies_referendum_gaullist: "§QAutonomy Plan§!"
+
+ TNO_french_west_indies_referendum_vote_split: "§m[?FWI.FWI_referendum_favor|%%]§!\n§B[?FWI.FWI_referendum_anti_favor|%%]§!"
+
+ USA_FWI_referendum_FakeMission_1_Title: "§YThe Referendum Is Held...§!"
+ USA_FWI_referendum_FakeMission_1_Duration: "§Y[?ZZZ.days_mission_timeout@ZZZ_FWI_Referendum_Deadline|0] Days§!"
+ USA_FWI_referendum_FakeMission_1_tt: ""
+ USA_FWI_referendum_empty_space: "$USA_FWI_referendum_FakeMission_1_Title$"
+ MEX_FWI_referendum_empty_space: "$USA_FWI_referendum_FakeMission_1_Title$"
+ IBR_FWI_referendum_empty_space: "$USA_FWI_referendum_FakeMission_1_Title$"
+
+ TNO_FWI_referendum_mendesist_increase_low: "This will result in a slight increase of support for the §mConfederation Plan§!."
+ TNO_FWI_referendum_mendesist_increase_med: "This will result in an increase of support for the §mConfederation Plan§!."
+ TNO_FWI_referendum_mendesist_increase_high: "This will result in a significant increase of support for the §mConfederation Plan§!."
+
+ TNO_FWI_referendum_gaullist_increase_low: "This will result in a slight increase of support for the §BAutonomy Plan§!."
+ TNO_FWI_referendum_gaullist_increase_med: "This will result in an increase of support for the §BAutonomy Plan§!."
+ TNO_FWI_referendum_gaullist_increase_high: "This will result in a significant increase of support for the §BAutonomy Plan§!."
+
+# USA Decisions
+ USA_FWI_FUBAR: "We are at risk of losing the Referendum"
+ FWI_Referendum_USA_VETO: "The United States no longer considers the Referendum relevant"
+ USA_FWI_referendum_veto: "Prepare to Issue a Presidential Veto"
+ USA_FWI_referendum_veto_desc: "We may opt to reiterate that the vote is non-binding and veto the results if the referendum is not going in our favor."
+ USA_FWI_referendum_veto_tt: "§RThis decision will undoubtedly not be received well by our partners in the Caribbean.§!"
+
+ USA_FWI_referendum_make_valentino_the_figurehead: "Make Valentino the Figurehead"
+ USA_FWI_referendum_make_valentino_the_figurehead_desc: "Lemnitzer is the mind behind the Confederation Plan, but its face cannot be that of an elderly American general. Trusted local politician Paul Valentino could be positioned to lead the campaign..."
+
+ USA_FWI_referendum_paint_a_brighter_future: "Paint A Brighter Future"
+ USA_FWI_referendum_paint_a_brighter_future_desc: "Valentino's Parti Socialiste are reminding Fort-de-France and Pointe-à-Pitre that a vote for Confederation is a vote for independence. On clear terms, with renewed friendship and prosperity. Let's make sure that message travels across the islands!"
+
+ USA_FWI_referendum_professionalize_the_campaign: "Professionalize the Campaign"
+ USA_FWI_referendum_professionalize_the_campaign_desc: "This is an off-year for U.S. elections, scoop up some of our party's usual organizers, hire 'em a French translator, and get this Referendum passed."
+
+ USA_FWI_referendum_promote_safety_in_the_confederation: "Promise Safety in Confederation"
+ USA_FWI_referendum_promote_safety_in_the_confederation_desc: "Fascists and Castrists stalk the Caribbean. Alone Guadeloupe and Martinique are easy prey, but united they stand! Vote 'Yes' to protect your community."
+
+ USA_FWI_referendum_increase_development_subsides: "Increase Development Subsidies"
+ USA_FWI_referendum_increase_development_subsides_desc: "Operation Uplift backfired, but previous U.S. aid helped build harmonious ties amongst the Antilles' businesses, unions, and government. Another burst of funding should perk up the economy and our allies in time for the referendum."
+
+ USA_FWI_referendum_encouragement_at_the_polls: "Encouragement Directly at the Polls"
+ USA_FWI_referendum_encouragement_at_the_polls_desc: "U.S. soldiers have protected the Antilles for two decades. Guarding the polls will prevent any mischief... and discourage the wrong sort from expressing their wrong opinions."
+
+ USA_FWI_referendum_discredit_autonomist_zealots: "Discredit Autonomist Zealots"
+ USA_FWI_referendum_discredit_autonomist_zealots_desc: "Look at who opposes the Confederation - Communists and Europhiles! Put out a news story investigating just who backs autonomy, and right-minded voters will stay away."
+ USA_FWI_referendum_discredit_autonomist_zealots_tt: "\nThis decision will become more powerful if the §Bautonomists§! hold a polling advantage."
+
+ USA_FWI_referendum_interrupt_the_instigators: "Interrupt the Instigators"
+ USA_FWI_referendum_interrupt_the_instigators_desc: "The High Commissioner's office has reported Mexicans and Iberians arriving on the islands in advance of the vote. Drag in the agents for questioning and the diplomats to some useless meetings to undermine their sabotage."
+
+ USA_FWI_referendum_involve_our_dominican_allies: "Involve Our Allies in the Dominican Republic"
+ USA_FWI_referendum_involve_our_dominican_allies_desc: "Our Dominican allies will lend their voices to the referendum campaign, tilting another Caribbean domino in our direction."
+
+ # MEX Decisions
+ MEX_FWI_referendum_invite_archimede: "Invite Archimède to Veracruz Forum"
+ MEX_FWI_referendum_invite_archimede_desc: "Inviting the black Guadeloupe Communist to the Forum will be controversial at home and abroad, but will raise her profile in the struggle for independence. Her speech will be in French anyway, so the risk of communist contagion is low."
+
+ MEX_FWI_referendum_fund_pcg_protests: "Fund PCG Protests"
+ MEX_FWI_referendum_fund_pcg_protests_desc: "The Guadeloupe Communist Party is among the most effective advocates against the U.S. Confederation Plan. Backed by pesos, they can turn out opponents in Les Abymes."
+
+ MEX_FWI_referendum_publish_discourse_on_colonialism: "Publish 'Discourse on Colonialism'"
+ MEX_FWI_referendum_publish_discourse_on_colonialism_desc: "Poet and politician Aimé Césaire has condemned U.S. colonialism with the same vehemence as he did the French. A book deal with the Fondo de Cultura Económica would fund his advocacy against the Confederation."
+
+ MEX_FWI_referendum_agitate_in_fort_de_france: "Agitate in Fort-de-France"
+ MEX_FWI_referendum_agitate_in_fort_de_france_desc: "The shantytowns of Martinique hold those most harmed by the Civil Administration's failures. We only need to remind them of this, and get them to the polls."
+
+ MEX_FWI_referendum_soothe_tempers: "Soothe Tempers in Washington"
+ MEX_FWI_referendum_soothe_tempers_desc: "A few pulled punches in the Caribbean and conversations with Fulton and Scott in the Federal District will remind the gringos that our 'involvement' in the Antilles is nothing but a show for domestic consumption."
+
+ MEX_FWI_referendum_critique_operation_uplift: "Critique Operation Uplift"
+ MEX_FWI_referendum_critique_operation_uplift_desc: "The North Americans' botched development planning has mired Guadeloupe and Martinique in poverty. Get a scathing report to businessmen and bureaucrats on the islands, and they'll see the need to chart their own course."
+
+ MEX_FWI_referendum_decry_the_occupation: "Decry the Occupation"
+ MEX_FWI_referendum_decry_the_occupation_desc: "President Madrazo himself will speak on the injustice of ongoing U.S. interference in Antilles affairs. The speech may be in Spanish, but the righteous thunder is universal."
+
+ MEX_FWI_referendum_send_ctm_envoys: "Send CTM Envoys"
+ MEX_FWI_referendum_send_ctm_envoys_desc: "The New Deal policies the U.S. foisted on the Antilles have led to strong unions on the islands. Perhaps our own workers can tempt them away by showing them the fruits of Mexican labor."
+ MEX_FWI_referendum_send_ctm_envoys_tt: "\n§VWorkers§! enjoying high §Ypower§! in the §nP§!§dR§!§VI§! will increase the effectiveness of this decision."
+
+ MEX_FWI_referendum_rush_in_francophone_diplomats: "Rush in Francophone Diplomats"
+ MEX_FWI_referendum_rush_in_francophone_diplomats_desc: "We lack any substantial diplomatic facilities in the Guadeloupe and Martinique. If we want to properly manage this opportunity, we need French-speakers like Pepe Gallástegui there yesterday."
+
+ MEX_FWI_referendum_train_in_election_techniques: "Train in Election 'Techniques'"
+ MEX_FWI_referendum_train_in_election_techniques_desc: "Certain Antilles community leaders are known opponents of U.S. dominance. With a little instruction in voting carousels and pre-filled ballot boxes, they'll be even more effective ones."
+
+ MEX_FWI_referendum_highlight_us_interference: "Highlight US Interference"
+ MEX_FWI_referendum_highlight_us_interference_desc: "Of course the gringos will prevent the realization of national self-determination - they've done it in the Antilles for two decades now! But to truly rile up their foes, we'll need a few concrete examples... "
+ MEX_FWI_referendum_highlight_us_interference_tt: "\nThis decision will become more powerful if the §mconfederationists§! hold a polling advantage."
+
+ MEX_FWI_referendum_involve_our_dominican_allies: "Involve Our Allies in the Dominican Republic"
+ MEX_FWI_referendum_involve_our_dominican_allies_desc: "Our Dominican allies will lend their voices to the referendum campaign, tilting another Caribbean domino in our direction."
+
+ # IBR Decisions
+ IBR_FWI_referendum_acquire_albrand_backing: "Acquire Albrand's Backing"
+ IBR_FWI_referendum_acquire_albrand_backing_desc: "Médard Albrand is a political power of the Guadeloupe plantocracy, friendly with the Americans but devoted first and foremost to his class' interests. If we can sway him against the Confederation, we will deal it a mighty blow."
+
+ IBR_FWI_referendum_faciliate_the_fraud: "Facilitate the Fraud"
+ IBR_FWI_referendum_faciliate_the_fraud_desc: "Albrand's connections have allowed us to isolate and work isolated plantations where some 99% of the vote can be secured against the Confederation."
+ IBR_FWI_referendum_faciliate_the_fraud_tt: "Our relations with §YAlbrand§! will greatly influence the effect of this decision."
+
+ IBR_FWI_referendum_collaborate_with_guilliod: "Collaborate with Guilliod"
+ IBR_FWI_referendum_collaborate_with_guilliod_desc: "A vehement anti-American populist on Guadeloupe, Raymond Guilliod could assemble a powerful anti-Confederation coalition. A multi-racial and cross-class one that might alienate some of our more natural allies on the islands..."
+
+ IBR_FWI_referendum_court_martinique_conservatives: "Court Martinique Conservatives"
+ IBR_FWI_referendum_court_martinique_conservatives_desc: "The various leftist currents on Martinique have respectable citizens considering the Confederation as a possible defense. By propping up Edmond Valcin as an alternative, we can secure new backing."
+
+ IBR_FWI_referendum_recycle_separatist_propaganda: "Recycle Separatist Propaganda"
+ IBR_FWI_referendum_recycle_separatist_propaganda_desc: "With less than two months before the referendum, we do not have the luxury of nuance. Grab some of the separatist garbage in the archives, translate it to French, and slap Guadeloupe or Martinique on it somewhere."
+ 
+ IBR_FWI_referendum_guide_the_flock: "Guide the Flock"
+ IBR_FWI_referendum_guide_the_flock_desc: "Priests across the Antilles have good reason to be suspect of the godless Americans. A few missives and they will steer their parish against the Confederation."
+
+ IBR_FWI_referendum_convince_the_planteurs: "Convince the Planteurs"
+ IBR_FWI_referendum_convince_the_planteurs_desc: "The Antilles is dominated by planters, many of whom are rightfully outraged by the American's failed urbanization initiatives. Hold a few dinner parties and their natural opposition to the Confederation will bloom."
+
+ IBR_FWI_referendum_frighten_the_beke: "Frighten the Béké"
+ IBR_FWI_referendum_frighten_the_beke_desc: "The few white denizens of the Antilles are pillars of their communities. A few acts of sabotage will convince them that the Confederation cannot keep them safe from the black communists that surround them."
+ IBR_FWI_referendum_frighten_the_beke_tt: "\nThis decision will become more powerful if the §aFrench West Indies§! are §Runstable§!."
+
+ IBR_FWI_referendum_the_tried_and_true: "The Tried and True"
+ IBR_FWI_referendum_the_tried_and_true_desc: "There is a world of commerce for the Antilles once they break the Americans' hold. We'll offer a few prominent planters a taste of what awaits."
+
+ IBR_FWI_referendum_involve_our_french_allies: "Involve Our French Allies"
+ IBR_FWI_referendum_involve_our_french_allies_desc: "The Free French offer a valuable counterpoint to U.S. dominance and look to grow their own influence in the Antilles. We'll offer transportation to Basse-Terre."
+
+ IBR_FWI_referendum_involve_our_dominican_allies: "Involve Our Allies in the Dominican Republic"
+ IBR_FWI_referendum_involve_our_dominican_allies_desc: "Our Dominican allies will lend their voices to the referendum campaign, tilting another Caribbean domino in our direction."
+
+ # Tooltips 
+ fwi_referendum_can_act_tt: "Fewer than 3 actions are active"
+
+ fwi_referendum_active_decisions_text: "[GetFWIReferendumActionCounter]"
+ fwi_referendum_active_decisions_text_USA: "§Y[?USA.fwi_referendum_USA_actions_counter]/3 actions active§!"
+ fwi_referendum_active_decisions_text_MEX: "§Y[?MEX.fwi_referendum_MEX_actions_counter]/3 actions active§!"
+ fwi_referendum_active_decisions_text_IBR: "§Y[?IBR.fwi_referendum_IBR_actions_counter]/3 actions active§!"
+
+ IBR_FWI_referendum_increase_albrand_backing_tt: "This will §Gclosen§! our relations with §YAlbrand§!"
+ IBR_FWI_referendum_decrease_albrand_backing_tt: "This will §Rstrain§! our relations with §YAlbrand§!"
+
+ USA_FWI_referendum_not_interfered_tt: "Our opponents haven't infiltrated the island yet"
+
+ TNO_FWI_referendum_gaullist_modifier_increase_tt: "This will §*permanently§! §Gincrease§! the effectiveness of all §BAutonomy Plan§! decisions."
+ TNO_FWI_referendum_gaullist_modifier_decrease_tt: "This will §*temporarily§! §Rdecrease§! the effectiveness of all §BAutonomy Plan§! decisions."
+ TNO_FWI_referendum_mendesist_modifier_tt: "This will §*permanently§! §Gincrease§! the effectiveness of all §mConfederation Plan§! decisions."

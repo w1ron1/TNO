@@ -1,0 +1,6 @@
+﻿l_english:
+  
+ TNO_exonym_button: "§YEndonym/Exonym Toggle§!\nCurrent Setting: §DExonyms/English names§!"
+ TNO_endonym_button: "§YEndonym/Exonym Toggle§!\nCurrent Setting: §DEndonyms/Native names§!"
+ TNO_default_button: "§YEndonym/Exonym Toggle§!\nCurrent Setting: §DDefault§!"
+ TNO_endo_exo_info: "§YEndonym-Exonym§!, or §YEndo-Exo§! for short, is a feature that allows the player to customize the language(s) used to display the names of §Dlocations§! across the entire world map. The feature also dynamically changes the name of a location depending on its' current owner or if a certain scenario occurs.\n\nThe §YEndo-Exo§! system is also fully compatible with the §YAdministrative Title§! system, which can be found on the right-hand side of a selected state's interface."
