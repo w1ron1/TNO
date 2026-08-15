@@ -1,12 +1,12 @@
-﻿l_english:
+l_english:
  
- POLITICS_MA_JIYUAN_DESC:0 "The Northwest is a bloody place. Many fathers lay dead in the austere, spartan landscape that the region is known for, some buried, most not. Those fathers have left behind countless sons, some bearing arms, others bearing pitchforks, to mourn and to nurse anger and resentment in their hearts. And yet, it is the grave of one father, and the rage of a single son that will come to define this corner of China. Ma Bufang perished against the Northwestern Area Army, and his son, Ma Jiyuan, will avenge him.\n\nWith the previous leader of the Ma Clique, his father, dead in the wake of a campaign against the Northwestern Area Army, control of the Ma Family and its armies fell to the young and ambitious Ma Jiyuan. Ma Jiyuan has been forced to watch as Tsuji and his band of rapacious bandits tear through the Northwest, and left just as helpless as the perfidious Tibetans tested their southern border in their moment of weakness. Though his enemies may wish it, Ma Jiyuan has not forgotten these crimes.\n\nThe air is still once again, a calm before the storm breaks. Plans are drawn up, and the preparations will be complete soon. Ma Jiyuan will pay back blood for blood, he will right the wrongs that have been committed against his family, against his lands. They have been battered and bruised, but the Ma are not beaten. Ma Jiyuan knows this, and soon, all of China will as well."
+ POLITICS_MA_JIYUAN_DESC:0 "Кривавою місциною є північний захід. Чимало батьків дали дуба на цій жорстокій і спартанській землі, якою знаний цей регіон. Деяким із них пощастило бути похованими - тоді як більшість спочили, віддавши своє тіло на поталу природі. Вони покинули за собою безліч синів: одні живуть рушницею, інші вилами. Ці сини плекають в собі злобу та ненависть, закарбовуючи їх у своїх сердцях. Та все ж саме могилі загиблого батька й люті живого сина належить визначити долю цього китайського краю. Ма Буфан віддав душу в бою проти Північно-західної армії - його син, Ма Цзіюань, здійснить помсту за нього.\n\nІз втратою в кампанії проти Північно-західної армії минулого лідера Кліки Ма, його тата, контроль сім'ї Ма й її війська перейшов до юного й амбіційного Ма Цзіюаня. Він був змушений спостерігати, як Тсуцзі та його ватага спраглих до багатств розбійників спустошують північно-західні землі. Перед ними той був залишений безпорадним, як і коли тибетці здійснили розвідку боєм на південному кордоні, за періоду їхньої вразливості. І якою б не була думка його ворогів, Ма Цзіюань не забув їх кривди.\n\nУ повітрі знову затишшя - затишшя перед бурею. Плани було складено, і скоро завершаться приготування. Кров'ю за кров віддасть Ма Цзіюань; він виправить несправедливість, що була здійснена проти його батьків і проти його земель. Їх побито та поморено, та не переможено. Ма Цзіюань знає це, і скоро про це дізнається весь Китай."
 
- QIN_despotism_party:0 "Ma Jiajun"
- QIN_despotism_party_long:0 "Ma Jiajun"
- QIN_paternalism_party:0 "Guomindang Officers"
- QIN_paternalism_party_long:0 "Guomindang Officers"
- QIN_conservatism_party:0 "Guomindang Civilian Administrators"
- QIN_conservatism_party_long:0 "Guomindang Civilian Administrators"
+ QIN_despotism_party:0 "Ма Цзяцзюнь"
+ QIN_despotism_party_long:0 "Ма Цзяцзюнь"
+ QIN_paternalism_party:0 "Офіцери Ґоміньдану"
+ QIN_paternalism_party_long:0 "Офіцери Ґоміньдану"
+ QIN_conservatism_party:0 "Громадянські управлінці Ґоміньдану"
+ QIN_conservatism_party_long:0 "Громадянські управлінці Ґоміньдану"
 
- QIN_ma_jiyuan:0 "Ma Jiyuan"
+ QIN_ma_jiyuan:0 "Ма Цзіюань"
