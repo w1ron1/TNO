@@ -1,62 +1,62 @@
 ﻿l_english:
- ### Country Names ###
- TRZ: "Mauritania"
- TRZ_DEF: "the Islamic Republic of Mauritania"
- TRZ_ADJ: "Mauritanian"
+ ### Назви країн ###
+ TRZ: "Мавританія"
+ TRZ_DEF: "Ісламська Республіка Мавританія"
+ TRZ_ADJ: "Мавританськ"
 
- ## Cosmetic Tags ##
- TRZ_iberian_war: "Mauritania"
- TRZ_iberian_war_DEF: "the Islamic Republic of Mauritania"
- TRZ_iberian_war_ADJ: "Mauritanian"
+ ## Косметичні мітки ##
+ TRZ_iberian_war: "Мавританія"
+ TRZ_iberian_war_DEF: "Ісламська Республіка Мавританія"
+ TRZ_iberian_war_ADJ: "Мавританськ"
 
- ### Parties ###
+ ### Партії ###
  TRZ_communist_party: "-"
  TRZ_communist_party_long: "-"
- TRZ_socialist_party: "USMM"
- TRZ_socialist_party_long: "Union Socialiste des Musulmans Mauritaniens"
+ TRZ_socialist_party: "ССММ"
+ TRZ_socialist_party_long: "Союз Соціалістів Мусульман Мавританії"
  TRZ_progressivism_party: "-"
  TRZ_progressivism_party_long: "-"
- TRZ_liberalism_party: "UNM"
- TRZ_liberalism_party_long: "Union Nationale Mauritanienne"
- TRZ_conservatism_party: "UNM"
- TRZ_conservatism_party_long: "Union Nationale Mauritanienne"
- TRZ_paternalism_party: "CMRN"
- TRZ_paternalism_party_long: "Comité Militaire de Redressement National"
- TRZ_despotism_party: "CMRN"
- TRZ_despotism_party_long: "Comité Militaire de Redressement National"
- TRZ_fascism_party: "CMRN"
- TRZ_fascism_party_long: "Comité Militaire de Redressement National"
+ TRZ_liberalism_party: "НСМ"
+ TRZ_liberalism_party_long: "Національний Союз Мавританії"
+ TRZ_conservatism_party: "НСМ"
+ TRZ_conservatism_party_long: "Національний Союз Мавританії"
+ TRZ_paternalism_party: "ВКНВ"
+ TRZ_paternalism_party_long: "Військовий Комітет національного відновлення"
+ TRZ_despotism_party: "ВКНВ"
+ TRZ_despotism_party_long: "Військовий Комітет національного відновлення"
+ TRZ_fascism_party: "ВКНВ"
+ TRZ_fascism_party_long: "Військовий Комітет національного відновлення"
  TRZ_national_socialism_party: "-"
  TRZ_national_socialism_party_long: "-"
- TRZ_ultranationalism_party: "PRM"
- TRZ_ultranationalism_party_long: "Parti de la Renaissance Nationale"
+ TRZ_ultranationalism_party: "ПНВ"
+ TRZ_ultranationalism_party_long: "Партія національного відродження"
 
- ### Characters ###
- TRZ_Moustapha_Ould_Mohamed_Saleck: "Moustapha Ould Mohamed Saleck"
- TRZ_Ahmed_Baba_Miske: "Ahmed Baba Miské"
- TRZ_Ahmed_Ould_Mohamed_Saleh: "Ahmed Ould Mohamed Saleh"
- TRZ_Athie_Hamath: "Athié Hamath"
- TRZ_Achmed_Ould_Kerkoub: "Achmed Ould Kerkoub"
- TRZ_Hadrami_Ould_Khattri: "Hadrami Ould Khattri"
- TRZ_Ahmed_Salim_Ould_Sidi: "Ahmed Salim Ould Sidi"
- TRZ_Ahmed_Ould_Bouceif: "Ahmed Ould Bouceif"
- TRZ_Cimper_Gabriel: "Cimper Gabriel"
- TRZ_Mohamed_Khouna_Ould_Haidalla: "Mohamed Khouna Ould Haidalla"
- TRZ_Maaouya_Ould_Sid_Ahmed_Taya: "Maaouya Ould Sid'Ahmed Taya"
- TRZ_Mohamed_Mahmoud_Ould_Ahmed_Louly: "Mohamed Mahmoud Ould Ahmed Louly"
+ ### Персонажі ###
+ TRZ_Moustapha_Ould_Mohamed_Saleck: "Мустапха Ульд Мохамед Салек"
+ TRZ_Ahmed_Baba_Miske: "Ахмед Баба Міске"
+ TRZ_Ahmed_Ould_Mohamed_Saleh: "Ахмед Ульд Мохамед Салех"
+ TRZ_Athie_Hamath: "Ат'ї Хамат"
+ TRZ_Achmed_Ould_Kerkoub: "Ахмед Ульд Керкоб"
+ TRZ_Hadrami_Ould_Khattri: "Хадрамі Ульд Хаттрі"
+ TRZ_Ahmed_Salim_Ould_Sidi: "Ахмед Салім Ульд Сиді"
+ TRZ_Ahmed_Ould_Bouceif: "Ахмед Ульд Бусейф"
+ TRZ_Cimper_Gabriel: "Сімпер Габріель"
+ TRZ_Mohamed_Khouna_Ould_Haidalla: "Мохамед Хоуна Ульд Хайдалла"
+ TRZ_Maaouya_Ould_Sid_Ahmed_Taya: "Маоуя Ульд Сид'Ахмед Тая"
+ TRZ_Mohamed_Mahmoud_Ould_Ahmed_Louly: "Мохамед Махмуд Ульд Ахмед Лулі"
 
- ## Leader Descs ##
- POLITICS_MOUSTAPHA_OULD_MOHAMED_SALECK_DESC: "Moustapha Ould Mohamed Saleck was three when the war broke out in Europe. Born in the city of Kiffa, he was fourteen when the bombs started dropping upon West Africa. But Saleck's youth does not nullify his willpower, and now, he will bring in the new dawn of Mauritania, and unite the forgotten peoples of West Africa into a strong and free state, free of Iberian and French influence altogether.\n\nSaleck was a mere teenager when he joined the party of Moktar Ould Daddah, The Mauritanian People's Movement, as the French were pushed to the Ivory Coast and the Iberians secured their land with a pistol grip. Honing his skills, he rose up the ranks in five years until he was one of Daddah's most trusted generals. Whispers about how this young man personally beat back an entire Iberian regiment became an inspiration to the freedom fighters of Mauritania.\n\nBut Saleck had issue with Daddah, as did many. He saw nothing but weakness in the man, a socialist who held Islamic values about as closely as any other betrayer of the faith, a man who refused to make any sort of definitive large-scale move against the Iberian scum who were occupying Mauritanian lands. Eventually, plots were created, ideas were drawn up, and the military's scheme was put into action. Moktar Ould Daddah was asked to step down from the leadership of the party with a gun to his back, as to cause as little alarm as possible, and the Mauritanian People's Movement was reorganised into the Military Committee for National Recovery, a group of generals who were dedicated to the formation of the true Mauritanian nation.\n\nBut Saleck still faces opposition within Mauritania, from both the more socialistic members of the population who wish for Daddah to return, to the rest of the generals in his clique, and of course, there's always the threat of the Iberian people occupying their rightful land, he assumes waiting to strike at any moment..."
+ ## Опис лідерів ##
+ POLITICS_MOUSTAPHA_OULD_MOHAMED_SALECK_DESC: "Мустапха Ульд Мохамед Салек був трирічним, коли війна спалахнула в Європі. Народжений у місті Кіффа, він був чотирнадцятирічним, коли бомби почали падати на Західну Африку. Але юність Салека не зменшує його рішучості, і тепер він принесе новий світанок для Мавританії, об'єднавши забуті народи Західної Африки в сильну і вільну державу, вільну від іберійського та французького впливу.\n\nСалек був лише підлітком, коли він приєднався до партії Моктара Ульд Дада, Руху Мавританського Народу, коли французи були змушені покинути Береговий Коста і Іберійці утримували свої землі за допомогою пістолетів. Відточивши свої навички, він піднявся по сходах і за п'ять років став одним з найбільш довірених генералів Дада. Шепоти про те, як цей молодий чоловік особисто відбив цілий полк іберійців, стали натхненням для борців за свободу Мавританії.\n\nАле Салек мав проблеми з Дадою, як і багато хто. Він бачив у ньому лише слабкість, соціаліста, який не підтримував ісламські цінності, як і будь-який інший зрадник віри, людину, яка відмовлялася зробити які-небудь великі кроки проти іберійських загарбників, що окупували землі Мавританії. З часом були створені змови, розроблені ідеї, і військовий план був втілений. Моктар Ульд Дада був змушений піти з поста лідера партії під дулом пістолета, щоб це не викликало тривоги, і Рух Мавританського Народу був реорганізований у Військовий Комітет національного відновлення, групу генералів, які були віддані створенню справжньої мавританської нації.\n\nАле Салек досі стикається з опором усередині Мавританії, як з більш соціалістичними членами населення, які бажають повернення Дади, так і з іншими генералами з його угруповання, а також завжди є загроза з боку іберійців, які, як він вважає, чекають моменту для удару..."
 
- ## Minister Descs ##
- TRZ_Moustapha_Ould_Mohamed_Saleck_hog_desc: "§YHead of Government\nFascism§!\n--------------\n"
- TRZ_Ahmed_Baba_Miske_for_desc: "§YForeign Minister\nFascism§!\n--------------\n"
- TRZ_Ahmed_Ould_Mohamed_Saleh_eco_desc: "§YEconomy Minister\nFascism§!\n--------------\n"
- TRZ_Athie_Hamath_sec_desc: "§YSecurity Minister\nFascism§!\n--------------\n"
+ ## Опис міністрів ##
+ TRZ_Moustapha_Ould_Mohamed_Saleck_hog_desc: "§YГлава уряду\nФашизм§!\n--------------\n"
+ TRZ_Ahmed_Baba_Miske_for_desc: "§YМіністр закордонних справ\nФашизм§!\n--------------\n"
+ TRZ_Ahmed_Ould_Mohamed_Saleh_eco_desc: "§YМіністр економіки\nФашизм§!\n--------------\n"
+ TRZ_Athie_Hamath_sec_desc: "§YМіністр безпеки\nФашизм§!\n--------------\n"
 
- ### Ideas ###
- TRZ_idea_mauritanian_claims: "Mauritanian Claims"
- TRZ_idea_mauritanian_claims_desc: "Moustapha Ould Mohamed Saleck and the Military Committee for National Recovery claim to be the legitimate rulers of the former French colony of Mauritania. These claims include vast regions currently controlled by Iberia. While few in the international community take Mauritania's ambitions seriously, within the country they are vital to maintaining political stability. Without the claims, the ruling Military Committee for National Recovery would lose all reason to exist. It remains to be seen if they will even have an opportunity to press them."
- TRZ_idea_mauritanian_claims_tt: "§YIf the opportunity presents itself, the CMRN shall push their claim.§!"
- TRZ_idea_military_committee_national_recovery: "The Military Committee for National Recovery"
- TRZ_idea_military_committee_national_recovery_desc: "In order to secure the stability and unity of the nation, and prepare for the reclamation of the rest of Mauritania, the military leaders of Mauritania have formed a junta and outlawed other political organizations, doing away with all forms of democracy in the name of eliminating political division and uniting the people. Mauritania is a nation without politics, for the moment at least."
+ ### Ідеї ###
+ TRZ_idea_mauritanian_claims: "Мавританські претензії"
+ TRZ_idea_mauritanian_claims_desc: "Мустапха Ульд Мохамед Салек і Військовий Комітет національного відновлення заявляють про себе як про легітимних правителів колишньої французької колонії Мавританії. Ці претензії включають великі території, які наразі контролює Іберія. Хоча мало хто в міжнародному співтоваристві серйозно сприймає амбіції Мавританії, всередині країни вони є важливими для підтримки політичної стабільності. Без цих претензій правлячий Військовий Комітет національного відновлення втратив би всі підстави для існування. Залишається побачити, чи буде у них навіть можливість реалізувати ці претензії."
+ TRZ_idea_mauritanian_claims_tt: "§YЯкщо з'явиться можливість, CMRN висуне свої претензії.§!"
+ TRZ_idea_military_committee_national_recovery: "Військовий Комітет національного відновлення"
+ TRZ_idea_military_committee_national_recovery_desc: "Для забезпечення стабільності та єдності нації та підготовки до відновлення решти Мавританії, військові лідери Мавританії утворили хунту і заборонили інші політичні організації, ліквідувавши всі форми демократії на ім'я усунення політичних розколів і об'єднання людей. Мавританія — це нація без політики, принаймні на даний момент."

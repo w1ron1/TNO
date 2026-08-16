@@ -1,27 +1,28 @@
 ﻿l_english:
- ### Country Names ###
- KLT: "Khanate of Kalat"
- KLT_DEF: "the Khanate of Kalat"
- KLT_ADJ: "Balochi"
+ ### Назви країн ###
+ KLT: "Союз Балочських Держав"
+ KLT_DEF: "Союз Балочських Держав"
+ KLT_ADJ: "Балочська"
 
- ### Parties ###
- KLT_communist_party: "Parrari Movement"
- KLT_communist_party_long: "Parrari Movement"
- KLT_socialist_party: "Balochistan Awami Movement"
- KLT_socialist_party_long: "Balochistan Awami Movement"
- KLT_conservatism_party: "KSNP"
- KLT_conservatism_party_long: "Kalat State National Party"
- KLT_paternalism_party: "Ahmadzai Dynasty"
- KLT_paternalism_party_long: "Ahmadzai Dynasty"
- KLT_despotism_party: "Balochistan Central Corps"
- KLT_despotism_party_long: "Balochistan Central Corps"
+ ### Партії ###
+ KLT_despotism_party: "Шахі Джирга - Н"
+ KLT_despotism_party_long: "Лоя Джирга - Націоналісти"
+ KLT_despotism_1_party: "Шахі Джирга - РП"
+ KLT_despotism_1_party_long: "Шахі Джирга - Рух за Пакистан"
 
- ### Characters ###
- KLT_Mir_Ahmad_Yar_Khan: "Mir Ahmad Yar Khan"
- KLT_Sher_Mohammed_Marri: "Sher Mohammed Marri"
- KLT_Mir_Gul_Khan_Nasseer: "Mir Gul Khan Nasseer"
- KLT_Khair_Bakhsh_Marri: "Khair Bakhsh Marri"
- KLT_Abdul_Wali: "Abdul Wali"
+ ### Персонажі ###
+ KLT_Mir_Ahmad_Yar_Khan: "Мір Ахмад Яр Хан"
+ KLT_Sher_Mohammed_Marri: "Шер Мохаммед Маррі"
+ KLT_Mir_Gul_Khan_Nasseer: "Мір Гул Хан Нассер"
+ KLT_Khair_Bakhsh_Marri: "Хайр Бахш Маррі"
+ KLT_Abdul_Wali: "Абдул Валі"
 
- ## Leader Bios ##
- POLITICS_MIR_AHMAD_YAR_KHAN_DESC: "Mir Ahmad Yar Khan Ahmedzai, Khan of Kalat, has had a long and comparatively conventional life, as the lives of Baloch khans go. When he came into the world in 1902, India from Kalat to Kachin was dominated by the British, and it was in this context that Mir Ahmad Yar grew up. In the 1920s he was a loyal agent of British intelligence, reporting on the growing Russian influence and the spread of Marxist sympathies among his poorer subjects. In the 1930s, after he became Khan of Kalat, the British rewarded his loyalty with a high decoration - the Order of the Indian Empire.\n\nThings went to hell as the British rule over India collapsed. At this time, Muhammad Ali Jinnah, until recently the Khan's legal advisor, urged Mir Ahmad Yar Khan to back the concept of an independent Islamic state in the Indus Valley. He offered his support, most eagerly in fact despite the objections of his more independent-minded brothers, and watched with cautious optimism at first during the Western Emergency in its chaotic attempt to establish a Pakistani nation.\n\nAlas, the ramshackle movement was unable to hold up completely against the enemy governments to its east, and Jinnah managed as an emergency measure to secure the Afghans' support in an intervention in order to prevent a total loss of their potential influence in the area. Years have passed and the Khan of Kalat has at last come to a full appreciation of his situation.\n\nThe Khan knows quite well that his government is propped up by the Afghans. If the Afghan support was to evaporate tomorrow, it would all come to an end very rapidly. He also knows that his separatist brothers are untrustworthy; they and their damn fool dreams of a 'free Balochistan' would lead only to ruin. Above all he is fully aware that though his friend Jinnah, the Quaid-e-Azam, is no more, the Pakistan movement persists, and would more than welcome his support, if not his outright joining to Pakistan.\n\nBut the Khan will bide his time before doing something like that. The time is not yet ripe, and the Pakistanis simply don't have enough support yet. But he has time. If there is one thing Mir Ahmad Yar Khan is good at, it is waiting and seeing. When the Indians in their folly slip and fall, the Khan will seize his opportunity."
+ ### Ідеї ###
+ KLT_sandemans_spectre: "Привид Сандемана"
+ KLT_sandemans_spectre_desc: "Вплив британського колоніального чиновника Роберта Гроувса Сандемана, найбільш відомого своїм втручанням у справи Белуджистану, відчутний і сьогодні. Союз Балочських Держав досі керується за системою «племінного умиротворення» Сандемана, згідно з якою субсидії спрямовуються від трону Калату до лояльних кланів, а до нелояльних застосовується жорстокість.\n\nБалочське суспільство за цією системою ґрунтується на родинних зв’язках і фракційності. Міжкланове насильство активно заохочується правлячими князями Союзу, що дозволяє їм утримувати свої трони."
+
+ KLT_not_a_nation_but_an_alliance: "Не нація, а союз"
+ KLT_not_a_nation_but_an_alliance_desc: "Союз Балочських Держав не є нацією у традиційному розумінні, оскільки не має жодної централізації, окрім питань зовнішньої політики, які визначає хан Калату або його посланець. Навіть такі питання, як валюта та оборона, що зазвичай залишаються централізованими в конфедеративних або федеративних утвореннях, тут повністю передані на рівень складових держав Союзу.\n\nФактично, Союз – це об'єднання князівств Белуджистану. Вони гуртуються навколо хана Калату задля власного виживання та збереження традицій і старих порядків, якими б реакційними вони не були – зокрема, таких, як узаконене рабство. Очевидно, що таке державне утворення також не має ані демократії, ані підзвітності, а являє собою лише групу дрібних тиранів, які вже давно втратили актуальність, але вперто чіпляються за владу."
+
+ ## Біографії лідерів ##
+ POLITICS_MIR_AHMAD_YAR_KHAN_DESC: "Дехто може вважати, що Союз Балочських Держав, або Ханство Калат, – це не більше ніж група дрібних тиранів, які давно втратили свою значущість і відчайдушно тримаються за владу та «традиції». Мір Ахмад Яр Хан, хан Калату та президент Союзу, лише сміється їм в обличчя й продовжує правити, як і раніше.\n\nБудучи абсолютним правителем на своїх землях, він керує залізною рукою, втручаючись лише тоді, коли це вигідно, наприклад, коли йдеться про міжкланові конфлікти. Як перший серед рівних серед інших князів, він бере на себе відповідальність лише за зовнішню політику.\n\nОдна з його ключових позицій, у якій він є непохитним, – це питання Руху за Пакистан. Дехто серед князів симпатизує цьому руху, але Мір Ахмад Яр Хан ставиться до нього стримано. Хоча він і не є відкрито ворожим, хан вважає, що його власний суверенітет набагато цінніший за мрію про ісламську державу, яку довелося б ділити з синдхами та панджабцями. Тому він, імовірно, чинитиме опір будь-яким спробам більш прихильних до Пакистану князів домогтися приєднання Калату."  
