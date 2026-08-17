@@ -1,0 +1,28 @@
+﻿l_english:
+ ### Country Names ###
+ NGS: "Sawaba"
+ NGS_DEF: "Sawaba"
+ NGS_ADJ: "Sawaba"
+
+ ## Cosmetic Tags ##
+ NGS_unified: "Niger"
+ NGS_unified_DEF: "the Socialist Republic of the Niger River"
+ NGS_unified_ADJ: "Nigerien"
+
+ ### Parties ###
+ NGS_communist_party: "MSA-Sawaba"
+ NGS_communist_party_long: "Mouvement Socialiste Africain - Sawaba"
+ NGS_socialist_party: "MSA-Sawaba"
+ NGS_socialist_party_long: "Mouvement Socialiste Africain - Sawaba"
+ NGS_progressivism_party: "PPN"
+ NGS_progressivism_party_long: "Parti Progressiste Nigérien"
+ NGS_conservatism_party: "UDN"
+ NGS_conservatism_party_long: "Union Démocratique Nigérienne"
+ NGS_paternalism_party: "FDN"
+ NGS_paternalism_party_long: "Forces de Défense Nigériennes"
+ NGS_despotism_party: "PID"
+ NGS_despotism_party_long: "Parti Indépendant du Niger"
+ NGS_fascism_party: "Kountche Loyalists"
+ NGS_fascism_party_long: "Kountche Loyalists"
+
+ NGS_Djibo_Bakary: "Djibo Bakary"

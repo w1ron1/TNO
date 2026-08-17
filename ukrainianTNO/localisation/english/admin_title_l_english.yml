@@ -1,0 +1,1420 @@
+﻿l_english:
+# Textbox 
+admin_title_textbox_tt: "[AdminTitle_Textbox_AssocRegion_Filter][AdminTitle_Textbox_AssocRegion_Desc_Filter][AdminTitle_Textbox_AssocRegion_2_Desc_Filter][AdminTitle_Textbox_Divider][AdminTitle_Textbox_AdminTitle_Filter][AdminTitle_Textbox_AdminTitle_Desc_Filter][AdminTitle_Textbox_Divider_2][AdminTitle_Textbox_SubAdminTitle_Filter][AdminTitle_Textbox_SubAdminTitle_Desc_Filter][AdminTitle_Textbox_Divider_3][AdminTitle_Textbox_State_Desc_Filter]"
+admin_title_textbox_divider: "\n\n"
+admin_title_textbox_state_name_tt: "§Y[THIS.GetName]§!"
+admin_title_textbox_no_state_name_tt: "It"
+admin_title_textbox_state_possessive_1_tt: "s"
+admin_title_textbox_state_possessive_2_tt: "'s"
+admin_title_textbox_mapmode_tt: "§GLeft-Click§! to select this state for comparison in the §YAdmin. Title§! map mode\n§GRight-Click§! to limit comparison to other states within the same country only\n----------\n§YAdministrative Title§!, or §YAdmin. Title§! for short, is a feature that provides an in-depth view on a selected state's administrative division(s) (spanning from first to third-level divisions). Players can also compare a state's Admin. Title(s) with another state's Admin. Title(s) via the corresponding map mode.\n\nThe §YAdmin. Title§! system is also fully compatible with the §YEndonym-Exonym§! system, which can be accessed via the "§DE§!" shaped button beside the Army overview button on the top right of the player interface."
+
+admin_title_textbox_admin_title_tt: "§F[AdminTitle_Textbox_Show_State_Name_AdminTitle][AdminTitle_Textbox_Get_State_Possessive] administrative title is §Y[AdminTitle_Textbox_Get_AdminTitle]§!.§!§F"
+admin_title_textbox_admin_title_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_AdminTitle_Desc]§!"
+
+admin_title_textbox_1_assoc_region_tt: "§F§Y[THIS.GetName]§! is part of the §Y[AdminTitle_Textbox_Get_AssocRegion]§! region.§!§F"
+admin_title_textbox_2_assoc_region_tt: "§F§Y[THIS.GetName]§! is part of the §Y[AdminTitle_Textbox_Get_AssocRegion]§! region and the §Y[AdminTitle_Textbox_Get_AssocRegion_2]§! region.§!§F"
+admin_title_textbox_1_admin_region_tt: "§F§Y[THIS.GetName]§! is part of the §Y[AdminTitle_Textbox_Get_AssocRegion]§!.§!§F"
+admin_title_textbox_2_admin_region_tt: "§F§Y[THIS.GetName]§! is part of the §Y[AdminTitle_Textbox_Get_AssocRegion]§! and the §Y[AdminTitle_Textbox_Get_AssocRegion_2]§!.§!§F"
+admin_title_textbox_1_assoc_region_1_admin_region_tt: "§F§Y[THIS.GetName]§! is part of the §Y[AdminTitle_Textbox_Get_AssocRegion]§! and the §Y[AdminTitle_Textbox_Get_AssocRegion_2]§! region.§!§F"
+admin_title_textbox_assoc_region_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_AssocRegion_Desc]§!"
+admin_title_textbox_assoc_region_2_desc: "\n---------------------\n§L[AdminTitle_Textbox_Get_AssocRegion_2_Desc]§!"
+
+admin_title_textbox_sub_admin_title_tt: "§F[AdminTitle_Textbox_Show_State_Name_SubAdminTitle] is composed of smaller administrative divisions called §Y[AdminTitle_Textbox_Get_SubAdminTitle]§!.§!§F"
+admin_title_textbox_sub_admin_title_no_subdivisions_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_SubAdminTitle_Desc]§!"
+admin_title_textbox_sub_admin_title_and_subdivisions_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_SubDivisions]\n\n[AdminTitle_Textbox_Get_SubAdminTitle_Desc]§!"
+admin_title_textbox_sub_admin_title_only_subdivisions_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_SubDivisions]§!"
+sub_admin_title_text_box_2_subdivisions_tt: "§Y[THIS.GetName]§! contains the [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] of §Y[AdminTitle_Textbox_Get_SubDivision_1]§! and §Y[AdminTitle_Textbox_Get_SubDivision_2]§!."
+sub_admin_title_text_box_3_subdivisions_tt: "§Y[THIS.GetName]§! contains the [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] of §Y[AdminTitle_Textbox_Get_SubDivision_1]§!, §Y[AdminTitle_Textbox_Get_SubDivision_2]§! and §Y[AdminTitle_Textbox_Get_SubDivision_3]§!."
+sub_admin_title_text_box_4_subdivisions_tt: "§Y[THIS.GetName]§! contains the [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] of §Y[AdminTitle_Textbox_Get_SubDivision_1]§!, §Y[AdminTitle_Textbox_Get_SubDivision_2]§!, §Y[AdminTitle_Textbox_Get_SubDivision_3]§! and §Y[AdminTitle_Textbox_Get_SubDivision_4]§!."
+
+adjust_admin_title_tt: "Changes its administrative title to §Y[AdminTitle_Get_Temp_AdminTitle]§!"
+adjust_assoc_region_tt: "Changes its primary associated region to §Y[AdminTitle_Get_Temp_AssocRegion]§!"
+adjust_assoc_region_2_tt: "Changes its secondary associated region to §Y[AdminTitle_Get_Temp_AssocRegion_2]§!"
+adjust_sub_admin_title_tt: "Changes its sub-administrative title to §Y[AdminTitle_Get_Temp_SubAdminTitle]§!"
+
+clear_admin_title_tt: "Will no longer have the §Y[AdminTitle_Textbox_Get_AdminTitle]§! administrative title"
+clear_assoc_region_tt: "Will no longer be associated with the §Y[AdminTitle_Textbox_Get_AssocRegion]§! [AdminTitle_Get_Temp_AssocRegion_Type]"
+clear_assoc_region_2_tt: "Will no longer be associated with the §Y[AdminTitle_Textbox_Get_AssocRegion_2]§! [AdminTitle_Get_Temp_AssocRegion_2_Type]"
+clear_sub_admin_title_tt: "Will no longer have the §Y[AdminTitle_Textbox_Get_SubAdminTitle]§! sub-administrative title"
+
+admin_title_textbox_region_tt: "region"
+
+admin_title_textbox_state_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_State_Desc]§!"
+
+###Admin Titles###
+
+Admin_Title_Reichsgau: "Reichsgau"
+
+Admin_Title_State: "State"
+Admin_Title_State_bur: "Pranynai"
+Admin_Title_State_spa: "Estado"
+Admin_Title_State_por: "Estado"
+Admin_Title_State_arb: "Wilāya"
+Admin_Title_State_ind: "Rājya"
+
+Admin_Title_Province: "Province"
+Admin_Title_Province_tha: "Changwat"
+Admin_Title_Province_ita: "Provincia"
+Admin_Title_Province_spa: "Provincia"
+Admin_Title_Province_por: "Província"
+Admin_Title_Province_arb: "Mudīriyya"
+Admin_Title_Province_tur: "İl"
+Admin_Title_Province_fin: "Lääni"
+Admin_Title_Province_bul: "Oblast"
+
+Admin_Title_Federal_District: "Federal District"
+Admin_Title_Federal_District_spa: "Distrito Federal"
+Admin_Title_Federal_District_por: "Distrito Federal"
+
+Admin_Title_Municipality: "Municipality"
+Admin_Title_Municipality_ita: "Comune"
+Admin_Title_Municipality_chi: "Tèbiéshì"
+Admin_Title_Municipality_spa: "Municipio"
+Admin_Title_Municipality_por: "Município"
+Admin_Title_Municipality_arb: "Baladiyah"
+Admin_Title_Municipality_swe: "Kommun"
+Admin_Title_Municipality_fin: "Kunta"
+Admin_Title_Municipality_rom: "Municipiu"
+
+Admin_Title_City: "City"
+Admin_Title_City_swe: "Stad"
+Admin_Title_City_fin: "Kaupunki"
+
+Admin_Title_Division: "Division"
+Admin_Title_Division_bur: "Tuing"
+Admin_Title_Division_ind: "Mandal"
+Admin_Title_Division_pun_ind: "Divīzan"
+Admin_Title_Division_kas_ind: "Divīzhan"
+Admin_Title_Division_pak_ind: "Divīzhan"
+Admin_Title_Division_guj_ind: "Vibhāg"
+Admin_Title_Division_mar_ind: "Vibhāg"
+Admin_Title_Division_kan_ind: "Vibhāga"
+Admin_Title_Division_tam_ind: "Vibhāgāla"
+Admin_Title_Division_tel_ind: "Vibhāgam"
+Admin_Title_Division_ori_ind: "Bibhāga"
+Admin_Title_Division_ben_ind: "Bibhāg"
+Admin_Title_Division_ass_ind: "Bibhāg"
+Admin_Title_Division_mal_ind: "Vibhāgam"
+
+
+Admin_Title_Special_Division: "Special Division"
+Admin_Title_Special_Division_bur: "Ahtu Tuing"
+
+Admin_Title_Department: "Department"
+Admin_Title_Department_fra: "Département"
+Admin_Title_Department_spa: "Departamento"
+Admin_Title_Department_gre: "Diamerísmata"
+
+Admin_Title_Territory: "Territory"
+Admin_Title_Territory_spa: "Territorio"
+Admin_Title_Territory_jap: "Ryōdo"
+
+Admin_Title_Metropolis: "Metropolis"
+Admin_Title_Metropolis_jap: "Tō"
+
+Admin_Title_Governorate: "Governorate"
+Admin_Title_Governorate_ita: "Governatorato"
+Admin_Title_Governorate_arb: "Muhāfazah"
+Admin_Title_Governorate_hun: "Kormányzóság"
+
+Admin_Title_Concession: "Concession"
+
+Admin_Title_Federal_Territory: "Federal Territory"
+Admin_Title_Federal_Territory_spa: "Territorio Federal"
+Admin_Title_Federal_Territory_por: "Território Federal"
+
+Admin_Title_County: "County"
+Admin_Title_County_spa: "Comarca"
+Admin_Title_County_swe: "Län"
+Admin_Title_County_rom: "Județ"
+Admin_Title_County_cro: "Županija"
+
+Admin_Title_Shrieval_County: "Shrieval County"
+
+Admin_Title_Crown_Dependency: "Crown Dependency"
+
+Admin_Title_Overseas_Territory: "Overseas Territory"
+
+Admin_Title_Treaty_Port: "Treaty Port"
+Admin_Title_Treaty_Port_jap: "Jōyakukō"
+Admin_Title_Treaty_Port_ita: "Porto del Trattato"
+
+Admin_Title_Colonial_Province: "Colonial Province"
+Admin_Title_Colonial_Province_spa: "Provincia Colonial"
+
+Admin_Title_Colony: "Colony"
+Admin_Title_Colony_por: "Colónia"
+
+Admin_Title_Region: "Region"
+Admin_Title_Region_rus: "Oblast"
+
+Admin_Title_Special_Commissariat: "Special Commissariat"
+Admin_Title_Special_Commissariat_spa: "Comisaría Especial"
+
+Admin_Title_Special_District: "Special District"
+Admin_Title_Special_District_spa: "Distrito Especial"
+
+Admin_Title_Circuit: "Circuit"
+Admin_Title_Circuit_jap: "Dō"
+
+Admin_Title_Banner: "Banner"
+Admin_Title_Banner_arb: "Liwā'"
+
+Admin_Title_Urban_Prefecture: "Urban Prefecture"
+Admin_Title_Urban_Prefecture_jap: "Fu"
+
+Admin_Title_Prefecture: "Prefecture"
+Admin_Title_Prefecture_jap: "Ken"
+
+Admin_Title_Prefecture_Shu: "Prefecture"
+Admin_Title_Prefecture_Shu_jap: "Shū"
+
+Admin_Title_Prefecture_Cho: "Prefecture"
+Admin_Title_Prefecture_Cho_jap: "Chō"
+
+Admin_Title_Canal_Zone: "Canal Zone"
+Admin_Title_Canal_Zone_ita: "Zona del Canale"
+
+Admin_Title_Military_Territory: "Military Territory"
+Admin_Title_Military_Territory_ger: "Militärgebiet"
+Admin_Title_Military_Territory_por: "Território Militar"
+
+Admin_Title_Special_Zone: "Special Zone"
+Admin_Title_Special_Zone_tur: "Özel Bölge"
+
+Admin_Title_Civil_Administration: "Civil Administration"
+
+Admin_Title_Unc_Territory: "Unincorporated Territory" 
+Admin_Title_Unc_Territory_Short: "Unc. Territory"
+
+Admin_Title_Inc_Territory: "Incorporated Territory" 
+Admin_Title_Inc_Territory_Short: "Inc. Territory"
+
+Admin_Title_ASR: "Administrative Supervision District"
+Admin_Title_ASR_chi: "Xíngzhèng Dūchá Qū"
+
+Admin_Title_SAR: "Special Administrative Region"
+Admin_Title_SAR_chi: "Tèbié Xíngzhèngqū"
+
+Admin_Title_Commune: "Commune"
+Admin_Title_Commune_spa: "Comuna"
+
+Admin_Title_Judicial_Department: "Judicial Department"
+Admin_Title_Judicial_Department_spa: "Departamento Judicial"
+
+Admin_Title_National_Territory: "National Territory"
+Admin_Title_National_Territory_spa: "Territorio Nacional"
+
+Admin_Title_Port: "Port"
+Admin_Title_Port_arb: "Mīnā'"
+
+Admin_Title_Census_Area: "Census Area"
+
+Admin_Title_District: "District"
+Admin_Title_District_spa: "Distrito"
+Admin_Title_District_por: "Distrito"
+Admin_Title_District_fra: "Arrondissement"
+Admin_Title_District_ger: "Kreis"
+Admin_Title_District_ser: "Okrug"
+Admin_Title_District_bul: "Okoliia"
+
+Admin_Title_Self_Governing_Colony: "Self-Governing Colony"
+
+Admin_Title_Territorial_Council: "Territorial Council"
+Admin_Title_Territorial_Council_fra: "Conseil Territorial"
+
+Admin_Title_Constituent_Country: "Constituent Country"
+Admin_Title_Constituent_Country_hol: "Land"
+
+Admin_Title_Union_Territory: "Union Territory"
+Admin_Title_Union_Territory_ind: "Kendra Śāsit Pradeś"
+
+Admin_Title_Admin_Region: "Administrative Region"
+Admin_Title_Admin_Region_Short: "Admin. Region"
+Admin_Title_Admin_Region_ind: "Praśāsanik Ksetra"
+Admin_Title_Admin_Region_Short_ind: "Pra. Ks."
+
+Admin_Title_PMA: "Provincial Military Administration"
+Admin_Title_PMA_Short: "Prov. Mil. Admin."
+Admin_Title_PMA_ind: "Sūbāī Sainā Praśāsan"
+Admin_Title_PMA_Short_ind: "Sū. Sai. Pra."
+
+Admin_Title_Urban_District: "Urban District"
+Admin_Title_Urban_District_ger: "Stadtkreis"
+
+Admin_Title_District_Area: "District Area"
+Admin_Title_District_Area_ger: "Kreisgebiet"
+
+###Assoc Regions###
+
+#UKRAINE
+Assoc_Region_Kyiv: "Kyiv General District"
+Assoc_Region_Kyiv_Short: "Kyiv GD"
+Assoc_Region_Kyiv_ger: "Kiew Generalbezirk"
+Assoc_Region_Kyiv_Short_ger: "Kiew GB"
+Assoc_Region_Kyiv_ukr: "Kyiv Oblast"
+Assoc_Region_Kyiv_Short_ukr: "Kyiv Oblast"
+
+Assoc_Region_Yekaterinoslav: "Yekaterinoslav General District"
+Assoc_Region_Yekaterinoslav_Short: "Yekaterinoslav GD"
+Assoc_Region_Yekaterinoslav_ger: "Reichenaustadt Generalbezirk"
+Assoc_Region_Yekaterinoslav_Short_ger: "Reichenaustadt GB"
+Assoc_Region_Yekaterinoslav_ukr: "Yekaterinoslav Oblast"
+Assoc_Region_Yekaterinoslav_Short_ukr: "Yekaterinoslav Ob."
+
+Assoc_Region_Chernihiv: "Chernihiv General District"
+Assoc_Region_Chernihiv_Short: "Chernihiv GD"
+Assoc_Region_Chernihiv_ger: "Tschernigow Generalbezirk"
+Assoc_Region_Chernihiv_Short_ger: "Tschernigow GB"
+Assoc_Region_Chernihiv_ukr: "Chernihiv Oblast"
+Assoc_Region_Chernihiv_Short_ukr: "Chernihiv Oblast"
+
+Assoc_Region_Zhytomyr: "Zhytomyr General District"
+Assoc_Region_Zhytomyr_Short: "Zhytomyr GD"
+Assoc_Region_Zhytomyr_ger: "Shitomir Generalbezirk"
+Assoc_Region_Zhytomyr_Short_ger: "Shitomir GB"
+Assoc_Region_Zhytomyr_ukr: "Zhytomyr Oblast"
+Assoc_Region_Zhytomyr_Short_ukr: "Zhytomyr Oblast"
+
+Assoc_Region_Volyn: "Volyn General District"
+Assoc_Region_Volyn_Short: "Volyn GD"
+Assoc_Region_Volyn_ger: "Wolhynien Generalbezirk"
+Assoc_Region_Volyn_Short_ger: "Wolhynien GB"
+Assoc_Region_Volyn_ukr: "Volyn Oblast"
+Assoc_Region_Volyn_Short_ukr: "Volyn Oblast"
+
+Assoc_Region_Yuzivka: "Yuzivka General District"
+Assoc_Region_Yuzivka_Short: "Yuzivka GD"
+Assoc_Region_Yuzivka_ger: "Hughesdorf Generalbezirk"
+Assoc_Region_Yuzivka_Short_ger: "Hughesdorf GB"
+Assoc_Region_Yuzivka_ukr: "Yuzivka Oblast"
+Assoc_Region_Yuzivka_Short_ukr: "Yuzivka Oblast"
+
+Assoc_Region_Crimea: "Crimea General District"
+Assoc_Region_Crimea_Short: "Crimea GB"
+Assoc_Region_Crimea_ger: "Krim Generalbezirk"
+Assoc_Region_Crimea_Short_ger: "Krim GB"
+Assoc_Region_Crimea_ukr: "Krym Oblast"
+Assoc_Region_Crimea_Short_ukr: "Krym Oblast"
+
+Assoc_Region_Galicia_Ukraine: "Galicia General District"
+Assoc_Region_Galicia_Ukraine_Short: "Galicia GD"
+Assoc_Region_Galicia_Ukraine_ger: "Galizien Generalbezirk"
+Assoc_Region_Galicia_Ukraine_Short_ger: "Galizien GB"
+Assoc_Region_Galicia_Ukraine_ukr: "Halychyna Oblast"
+Assoc_Region_Galicia_Ukraine_Short_ukr: "Halychyna Oblast"
+
+#TURKEY + PUPPETS
+Assoc_Region_Aegean: "Aegean"
+Assoc_Region_Aegean_tur: "Ege"
+
+Assoc_Region_Black_Sea: "Black Sea"
+Assoc_Region_Black_Sea_tur: "Karadeniz"
+
+Assoc_Region_Central_Anatolia: "Central Anatolia"
+Assoc_Region_Central_Anatolia_tur: "İç Anadolu"
+
+Assoc_Region_East_Anatolia: "Eastern Anatolia"
+Assoc_Region_East_Anatolia_tur: "Doğu Anadolu"
+
+Assoc_Region_Marmara: "Marmara"
+
+Assoc_Region_Mediterranean: "Mediterranean"
+Assoc_Region_Mediterranean_tur: "Akdeniz"
+
+Assoc_Region_Southeast_Anatolia: "Southeastern Anatolia"
+Assoc_Region_Southeast_Anatolia_tur: "Güneydoğu Anadolu"
+
+#GREECE
+Assoc_Region_Cyprus_Dept: "Cyprus Department"
+Assoc_Region_Cyprus_Dept_gre: "Diamerísmata Kýpros"
+
+Assoc_Region_Cyprus_Province: "Cyprus Province"
+Assoc_Region_Cyprus_Province_tur: "Kıbrıs İli"
+
+#CHINA
+Assoc_Region_Nanjing_Municipality: "Nanjing Municipality"
+Assoc_Region_Nanjing_Municipality_chi: "Nánjīng Zhíxiáshì"
+
+Assoc_Region_Shanghai_Municipality: "Shanghai Municipality"
+Assoc_Region_Shanghai_Municipality_chi: "Shànghǎi Zhíxiáshì"
+
+Assoc_Region_Jiangsu_Province: "Jiangsu Province"
+Assoc_Region_Jiangsu_Province_chi: "Jiāngsū Shěng"
+
+Assoc_Region_Huaihai_Province: "Huaihai Province"
+Assoc_Region_Huaihai_Province_chi: "Huáihǎi Shěng"
+
+Assoc_Region_Zhejiang_Province: "Zhejiang Province"
+Assoc_Region_Zhejiang_Province_chi: "Zhèjiāng Shěng"
+
+Assoc_Region_Ouhai_Province: "Ouhai Province"
+Assoc_Region_Ouhai_Province_chi: "Ōuhǎi Shěng"
+
+Assoc_Region_Anhui_Province: "Anhui Province"
+Assoc_Region_Anhui_Province_chi: "Ānhuī Shěng"
+
+Assoc_Region_Beijing_Municipality: "Beijing Municipality"
+Assoc_Region_Beijing_Municipality_chi: "Běijīng Zhíxiáshì"
+
+Assoc_Region_Tianjin_Municipality: "Tianjin Municipality"
+Assoc_Region_Tianjin_Municipality_chi: "Tiānjīn Zhíxiáshì"
+
+Assoc_Region_Qingdao_Municipality: "Qingdao Municipality"
+Assoc_Region_Qingdao_Municipality_chi: "Qīngdǎo Zhíxiáshì"
+
+Assoc_Region_Zhili_Province: "Zhili Province"
+Assoc_Region_Zhili_Province_chi: "Zhílì Shěng"
+
+Assoc_Region_Hebei_Province: "Hebei Province"
+Assoc_Region_Hebei_Province_chi: "Héběi Shěng"
+
+Assoc_Region_Taiyue_Province: "Taiyue Province"
+Assoc_Region_Taiyue_Province_chi: "Tàiyuè Shěng"
+
+Assoc_Region_Shandong_Province: "Shandong Province"
+Assoc_Region_Shandong_Province_chi: "Shāndōng Shěng"
+
+Assoc_Region_Shanxi_Province: "Shanxi Province"
+Assoc_Region_Shanxi_Province_chi: "Shānxī Shěng"
+
+Assoc_Region_Chongqing_SAR: "Chongqing Special Administrative Region"
+Assoc_Region_Chongqing_SAR_Short: "Chongqing SAR"
+Assoc_Region_Chongqing_SAR_chi: "Chóngqìng Tèbiéxíngzhèngqū"
+Assoc_Region_Chongqing_SAR_Short_chi: "Chóngqìng Tèbiéqū"
+
+Assoc_Region_Chuandong_Province: "Chuandong Province"
+Assoc_Region_Chuandong_Province_chi: "Chuāndōng Shěng"
+
+Assoc_Region_Chuanxi_Province: "Chuanxi Province"
+Assoc_Region_Chuanxi_Province_chi: "Chuānxī Shěng"
+
+Assoc_Region_Guizhou_Province: "Guizhou Province"
+Assoc_Region_Guizhou_Province_chi: "Guìzhōu Shěng"
+
+Assoc_Region_Guangxi_Province: "Guangxi Province"
+Assoc_Region_Guangxi_Province_chi: "Guǎngxī Shěng"
+
+Assoc_Region_Yunnan_Province: "Yunnan Province"
+Assoc_Region_Yunnan_Province_chi: "Yúnnán Shěng"
+
+Assoc_Region_Xikang_Province: "Xikang Province"
+Assoc_Region_Xikang_Province_chi: "Xīkāng Shěng"
+
+Assoc_Region_Tibet_Area: "Tibet Area"
+Assoc_Region_Tibet_Area_chi: "Xīzàng Dìfāng"
+
+Assoc_Region_Wuhan_Municipality: "Wuhan Municipality"
+Assoc_Region_Wuhan_Municipality_chi: "Wǔhàn Zhíxiáshì"
+
+Assoc_Region_Jiangxi_Province: "Jiangxi Province"
+Assoc_Region_Jiangxi_Province_chi: "Jiāngxī Shěng"
+
+Assoc_Region_Ganjiang_Province: "Ganjiang Province"
+Assoc_Region_Ganjiang_Province_chi: "Gànjiāng Shěng"
+
+Assoc_Region_Hubei_Province: "Hubei Province"
+Assoc_Region_Hubei_Province_chi: "Húběi Shěng"
+
+Assoc_Region_Hunan_Province: "Hunan Province"
+Assoc_Region_Hunan_Province_chi: "Húnán Shěng"
+
+Assoc_Region_Hengnan_Province: "Hengnan Province"
+Assoc_Region_Hengnan_Province_chi: "Héngnán Shěng"
+
+Assoc_Region_Henan_Province: "Henan Province"
+Assoc_Region_Henan_Province_chi: "Hénán Shěng"
+
+Assoc_Region_Zhongyuan_Province: "Zhongyuan Province"
+Assoc_Region_Zhongyuan_Province_chi: "Zhōngyuán Shěng"
+
+Assoc_Region_Xiamen_Municipality: "Xiamen Municipality"
+Assoc_Region_Xiamen_Municipality_chi: "Xiàmén Zhíxiáshì"
+
+Assoc_Region_PRD_SAR: "Pearl River Delta Special Administrative Region"
+Assoc_Region_PRD_SAR_Short: "Pearl Delta SAR"
+Assoc_Region_PRD_SAR_chi: "Zhūjiāng Sānjiǎozhōu Tèbiéxíngzhèngqū"
+Assoc_Region_PRD_SAR_Short_chi: "Zhūsānjiǎo Tèbiéqū"
+
+Assoc_Region_Fujian_Province: "Fujian Province"
+Assoc_Region_Fujian_Province_chi: "Fújiàn Shěng"
+
+Assoc_Region_Xingquan_Province: "Xingquan Province"
+Assoc_Region_Xingquan_Province_chi: "Xīngquán Shěng"
+
+Assoc_Region_Guangdong_Province: "Guangdong Province"
+Assoc_Region_Guangdong_Province_chi: "Guǎngdōng Shěng"
+
+Assoc_Region_Qiongya_SAR: "Qiongya Special Administrative Region"
+Assoc_Region_Qiongya_SAR_Short: "Qiongya SAR"
+Assoc_Region_Qiongya_SAR_chi: "Qióngyá Tèbiéxíngzhèngqū"
+Assoc_Region_Qiongya_SAR_Short_chi: "Qióngyá Tèbiéqū"
+
+Assoc_Region_Taiwan_SAR: "Taiwan Special Administrative Region"
+Assoc_Region_Taiwan_SAR_Short: "Taiwan SAR"
+Assoc_Region_Taiwan_SAR_chi: "Táiwān Tèbiéxíngzhèngqū"
+Assoc_Region_Taiwan_SAR_Short_chi: "Táiwān Tèbiéqū"
+
+Assoc_Region_Shaanxi_Province: "Shaanxi Province"
+Assoc_Region_Shaanxi_Province_chi: "Shǎnxī Shěng"
+
+Assoc_Region_Hanzhong_Province: "Hanzhong Province"
+Assoc_Region_Hanzhong_Province_chi: "Hànzhōng Shěng"
+
+Assoc_Region_Longxi_Province: "Longxi Province"
+Assoc_Region_Longxi_Province_chi: "Lǒngxī Shěng"
+
+Assoc_Region_Gansu_Province: "Gansu Province"
+Assoc_Region_Gansu_Province_chi: "Gānsù Shěng"
+
+Assoc_Region_Qinghai_Province: "Qinghai Province"
+Assoc_Region_Qinghai_Province_chi: "Qīnghǎi Shěng"
+
+Assoc_Region_Xinjiang_Province: "Xinjiang Province"
+Assoc_Region_Xinjiang_Province_chi: "Xīnjiāng Shěng"
+
+Assoc_Region_Mukden_Municipality: "Mukden Municipality"
+Assoc_Region_Mukden_Municipality_chi: "Shěnyáng Zhíxiáshì"
+
+Assoc_Region_Changchun_Municipality: "Changchun Municipality"
+Assoc_Region_Changchun_Municipality_chi: "Zhǎngchūn Zhíxiáshì"
+
+Assoc_Region_Harbin_Municipality: "Harbin Municipality"
+Assoc_Region_Harbin_Municipality_chi: "Hā'ěrbīn Zhíxiáshì"
+
+Assoc_Region_Dalian_Municipality: "Dalian Municipality"
+Assoc_Region_Dalian_Municipality_chi: "Dàlián Zhíxiáshì"
+
+Assoc_Region_Liaoning_Province: "Liaoning Province"
+Assoc_Region_Liaoning_Province_chi: "Liáoníng Shěng"
+
+Assoc_Region_Jilin_Province: "Jilin Province"
+Assoc_Region_Jilin_Province_chi: "Jílín Shěng"
+
+Assoc_Region_Heilongjiang_Province: "Heilongjiang Province"
+Assoc_Region_Heilongjiang_Province_chi: "Hēilóngjiāng Shěng"
+
+Assoc_Region_Jinghai_Province: "Jinghai Province"
+Assoc_Region_Jinghai_Province_chi: "Jīnghǎi Shěng"
+
+Assoc_Region_Beihai_Province: "Beihai Province"
+Assoc_Region_Beihai_Province_chi: "Běihǎi Shěng"
+
+Assoc_Region_Kuye_SAR: "Kuye SAR"
+Assoc_Region_Kuye_SAR_Short: "Kuye Special Administrative Region"
+Assoc_Region_Kuye_SAR_chi: "Kùyè Tèbiéqū"
+Assoc_Region_Kuye_SAR_chi_Short: "Kùyè Tèbiéxíngzhèngqū"
+
+Assoc_Region_Chahar_Province: "Chahar Province"
+Assoc_Region_Chahar_Province_chi: "Cháhā'ěr Shěng"
+
+Assoc_Region_Suiyuan_Province: "Suiyuan Province"
+Assoc_Region_Suiyuan_Province_chi: "Suīyuǎn Shěng"
+
+Assoc_Region_Rehe_Province: "Rehe Province"
+Assoc_Region_Rehe_Province_chi: "Rèhé Shěng"
+
+Assoc_Region_Mongolia_Area: "Mongolia Area"
+Assoc_Region_Mongolia_Area_chi: "Měnggǔ Dìfāng"
+
+Assoc_Region_East_China: "East China"
+Assoc_Region_East_China_chi: "Huádōng"
+
+Assoc_Region_North_China: "North China"
+Assoc_Region_North_China_chi: "Huáběi"
+
+Assoc_Region_Southwest_China: "Southwest China"
+Assoc_Region_Southwest_China_chi: "Xīnán"
+
+Assoc_Region_South_Central_China: "South Central China"
+Assoc_Region_South_Central_China_chi: "Zhōngnán"
+
+Assoc_Region_South_China: "South China"
+Assoc_Region_South_China_chi: "Huá'nán"
+
+Assoc_Region_Northwest_China: "Northwest China"
+Assoc_Region_Northwest_China_chi: "Xīběi"
+
+Assoc_Region_Northeast_China: "Northeast China"
+Assoc_Region_Northeast_China_chi: "Dōngběi"
+
+Assoc_Region_Frontier: "Frontier"
+Assoc_Region_Frontier_chi: "Sàiběi"
+
+#URUGUAY
+Assoc_Region_Interior: "Interior"
+Assoc_Region_Montevideo: "Montevideo"
+
+#CHILE
+Assoc_Region_Far_North: "Far North"
+Assoc_Region_Far_North_spa: "Norte Grande"
+
+Assoc_Region_Near_North: "Near North"
+Assoc_Region_Near_North_spa: "Norte Chico"
+
+Assoc_Region_Central_Core: "Central Core"
+Assoc_Region_Central_Core_spa: "Núcleo Central"
+
+Assoc_Region_CCP_TB: "Concepción and La Frontera"
+Assoc_Region_CCP_TB_spa: "Concepción y La Frontera"
+Assoc_Region_CCP_TB_eng: "Concepción and The Border"
+Assoc_Region_CCP_TB_Short: "CCP & LF" 
+Assoc_Region_CCP_TB_Short_spa: "CCP y LF"
+Assoc_Region_CCP_TB_Short_eng: "CCP & TB"
+
+Assoc_Region_Lakes: "Lakes"
+Assoc_Region_Lakes_spa: "Los Lagos"
+
+Assoc_Region_Canals: "Canals"
+Assoc_Region_Canals_spa: "Los Canales"
+
+#OSTLAND
+Assoc_Region_Estonia: "Estonia General District"
+Assoc_Region_Estonia_Short: "Estonia GD"
+Assoc_Region_Estonia_ger: "Estland Generalbezirk"
+Assoc_Region_Estonia_Short_ger: "Estland GB"
+Assoc_Region_Estonia_est: "Eesti"
+
+Assoc_Region_Latvia: "Latvia General District"
+Assoc_Region_Latvia_Short: "Latvia GD"
+Assoc_Region_Latvia_ger: "Lettland Generalbezirk"
+Assoc_Region_Latvia_Short_ger: "Lettland GB"
+Assoc_Region_Latvia_lat: "Latvija"
+
+Assoc_Region_Lithuania: "Lithuania General District"
+Assoc_Region_Lithuania_Short: "Lithuania GD"
+Assoc_Region_Lithuania_ger: "Litauen Generalbezirk"
+Assoc_Region_Lithuania_Short_ger: "Litauen GB"
+Assoc_Region_Lithuania_lit: "Lietuva"
+
+Assoc_Region_Belarus: "Belarus General District"
+Assoc_Region_Belarus_Short: "Belarus GD"
+Assoc_Region_Belarus_ger: "Weißruthenien Generalbezirk"
+Assoc_Region_Belarus_Short_ger: "Weißruthenien GB"
+Assoc_Region_Belarus_blr: "Bjelarús'"
+
+#MOSCOWIEN
+Assoc_Region_Tula: "Tula General District"
+Assoc_Region_Tula_Short: "Tula General District"
+Assoc_Region_Tula_ger: "Goebbels Generalbezirk"
+Assoc_Region_Tula_Short_ger: "Goebbels GB"
+
+Assoc_Region_Penza: "Penza General District"
+Assoc_Region_Penza_ger: "Pensa Generalbezirk"
+
+Assoc_Region_Kursk: "Kursk General District"
+Assoc_Region_Kursk_ger: "Kursk Generalbezirk"
+
+Assoc_Region_Moscow: "Moscow General District"
+Assoc_Region_Moscow_ger: "Moskau Generalbezirk"
+
+Assoc_Region_Volgograd: "Volgograd General District"
+Assoc_Region_Volgograd_Short: "Volgograd GD"
+Assoc_Region_Volgograd_ger: "Paulusburg Generalbezirk"
+Assoc_Region_Volgograd_Short_ger: "Paulusburg GB"
+
+Assoc_Region_Saratov: "Saratov General District"
+Assoc_Region_Saratov_Short: "Saratov GD"
+Assoc_Region_Saratov_ger: "Platenfurt Generalbezirk"
+Assoc_Region_Saratov_Short_ger: "Platenfurt GB"
+
+Assoc_Region_Saint_Petersburg: "Saint Petersburg General District"
+Assoc_Region_Saint_Petersburg_Short: "St. Petersburg GD"
+Assoc_Region_Saint_Petersburg_ger: "Sankt Petersburg Generalbezirk"
+Assoc_Region_Saint_Petersburg_Short_ger: "St. Petersburg GB"
+
+Assoc_Region_Voronezh: "Voronezh General District"
+Assoc_Region_Voronezh_Short: "Voronezh GD"
+Assoc_Region_Voronezh_ger: "Woronesch Generalbezirk"
+Assoc_Region_Voronezh_Short_ger: "Woronesch GB"
+
+#KAUKASIEN
+Assoc_Region_Azerbaijan: "Azerbaijan General District"
+Assoc_Region_Azerbaijan_Short: "Azerbaijan GD"
+Assoc_Region_Azerbaijan_ger: "Aserbaidschan Generalbezirk"
+Assoc_Region_Azerbaijan_Short_ger: "Aserbaidschan GB"
+
+Assoc_Region_Caucasus_Mountain: "Caucasus Mountain General District"
+Assoc_Region_Caucasus_Mountain_Short: "Caucasus Mt. GD"
+Assoc_Region_Caucasus_Mountain_ger: "Berg-Kaukasien Generalbezirk"
+Assoc_Region_Caucasus_Mountain_Short_ger: "Berg-Kaukasien GB"
+
+Assoc_Region_Georgia: "Georgia General District"
+Assoc_Region_Georgia_Short: "Georgia GD"
+Assoc_Region_Georgia_ger: "Georgien Generalbezirk"
+Assoc_Region_Georgia_Short_ger: "Georgien GB"
+
+Assoc_Region_Kalmykia: "Kalmykia General District"
+Assoc_Region_Kalmykia_Short: "Kalmykia GD"
+Assoc_Region_Kalmykia_ger: "Kalmückien Generalbezirk"
+Assoc_Region_Kalmykia_Short_ger: "Kalmückien GB"
+
+Assoc_Region_Kuban: "Kuban General District"
+Assoc_Region_Kuban_ger: "Kuban Generalbezirk"
+
+Assoc_Region_Stavropol: "Stavropol General District"
+Assoc_Region_Stavropol_Short: "Stravropol GD"
+Assoc_Region_Stavropol_ger: "Stawropol Generalbezirk"
+Assoc_Region_Stavropol_Short_ger: "Stawropol GB"
+
+#PARAGUAY
+Assoc_Region_Chaco: "Chaco"
+Assoc_Region_Chaco_spa: "Paraguay Occidental"
+Assoc_Region_Chaco_eng: "Western Paraguay"
+
+Assoc_Region_Paranena: "Paraneña"
+Assoc_Region_Paranena_spa: "Paraguay Oriental"
+Assoc_Region_Paranena_eng: "Eastern Paraguay"
+
+#IBERIA
+##SPAIN
+Assoc_Region_Galicia_Iberia: "Galicia"
+Assoc_Region_Galicia_Iberia_gal: "Galizia"
+Assoc_Region_Galicia_Iberia_por: "Galiza"
+
+Assoc_Region_Asturias: "Asturias"
+Assoc_Region_Asturias_tba: "Asturies" 
+
+Assoc_Region_Leon: "León"
+
+Assoc_Region_Old_Castile: "Old Castile"
+Assoc_Region_Old_Castile_spa: "Castilla la Vieja"
+
+Assoc_Region_Basque_Country: "Basque Country"
+Assoc_Region_Basque_Country_spa: "País Vasco"
+Assoc_Region_Basque_Country_bsq: "Euskal Herria"
+
+Assoc_Region_Navarre: "Navarre"
+Assoc_Region_Navarre_spa: "Navarra"
+Assoc_Region_Navarre_bsq: "Nafarroa"
+
+Assoc_Region_Aragon: "Aragon"
+Assoc_Region_Aragon_spa: "Aragón"
+Assoc_Region_Aragon_cat: "Aragó"
+
+Assoc_Region_Catalonia: "Catalonia"
+Assoc_Region_Catalonia_spa: "Cataluña"
+Assoc_Region_Catalonia_cat: "Catalunya"
+
+Assoc_Region_Valencia: "Valencia"
+Assoc_Region_Valencia_spa_cat: "València" 
+
+Assoc_Region_Balearic_Islands: "Balearic Islands"
+Assoc_Region_Balearic_Islands_spa: "Islas Baleares"
+Assoc_Region_Balearic_Islands_ita: "Isole Baleari"
+
+Assoc_Region_Murcia: "Murcia"
+Assoc_Region_Murcia_cat: "Múrcia"
+
+Assoc_Region_New_Castile: "New Castile"
+Assoc_Region_New_Castile_spa: "Castilla la Nueva"
+
+Assoc_Region_Andalusia: "Andalusia"
+Assoc_Region_Andalusia_spa: "Andalucía"
+
+Assoc_Region_Extremadura: "Extremadura"
+Assoc_Region_Extremadura_por: "Estremadura"
+
+##PORTUGAL
+Assoc_Region_North: "North"
+Assoc_Region_North_por: "Norte"
+Assoc_Region_North_spa: "Norte" #Redundant but needed because I recycled the code for the other Portuguese regions and I don't want to make another if statement specifically for this one
+
+Assoc_Region_Center: "Center"
+Assoc_Region_Center_por: "Centro" 
+Assoc_Region_Center_spa: "Centro" #Same case as above
+
+Assoc_Region_West_Tagus_Valley: "West and Tagus Valley"
+Assoc_Region_West_Tagus_Valley_por: "Oeste e Vale do Tejo" 
+Assoc_Region_West_Tagus_Valley_spa: "Oeste y Valle del Tajo"
+
+Assoc_Region_Greater_Lisbon: "Greater Lisbon"
+Assoc_Region_Greater_Lisbon_por: "Grande Lisboa"
+Assoc_Region_Greater_Lisbon_spa: "Gran Lisboa"
+
+Assoc_Region_Alentejo: "Alentejo"
+
+Assoc_Region_Algarve: "Algarve"
+Assoc_Region_Algarve_spa: "Algarbe"
+
+#JAPAN
+Assoc_Region_Kanto: "Kantō"
+
+Assoc_Region_Tohoku: "Tōhoku"
+
+Assoc_Region_Hokkaido: "Hokkaidō"
+
+Assoc_Region_Koshin: "Kōshin"
+
+Assoc_Region_Hokuriku: "Hokuriku"
+
+Assoc_Region_Tokai: "Tōkai"
+
+Assoc_Region_Kinki: "Kinki"
+
+Assoc_Region_Sanyo: "San'yō"
+
+Assoc_Region_Sanin: "San'in"
+
+Assoc_Region_Shikoku: "Shikoku"
+
+Assoc_Region_Kyushu: "Kyūshū"
+
+Assoc_Region_Okinawa: "Okinawa"
+
+Assoc_Region_Nanyo: "Nan'yō"
+Assoc_Region_Nanyo_eng: "South Seas"
+
+Assoc_Region_Taiwan_Jap: "Taiwan"
+
+Assoc_Region_Korea: "Korea"
+Assoc_Region_Korea_jap: "Chosen"
+
+Assoc_Region_Sakhalin: "Sakhalin"
+Assoc_Region_Sakhalin_jap: "Karafuto"
+
+Assoc_Region_New_Guinea: "New Guinea"
+Assoc_Region_New_Guinea_jap: "Nyū Ginia"
+
+Assoc_Region_Ogasawara_Subprefecture: "Ogasawara Subprefecture"
+Assoc_Region_Ogasawara_Subprefecture_Short: "Ogasawara Subpref."
+Assoc_Region_Ogasawara_Subprefecture_jap: "Ogasawara-shichō"
+Assoc_Region_Ogasawara_Subprefecture_Short_jap: "Ogasawara-shichō"
+
+#BOLIVIA AND SANTA CRUZ
+Assoc_Region_Beni_Dept: "Beni Department"
+Assoc_Region_Beni_Dept_Short: "Beni Dept."
+Assoc_Region_Beni_Dept_spa: "Departamento de Beni"
+Assoc_Region_Beni_Dept_Short_spa: "Dept. de Beni"
+
+Assoc_Region_La_Paz_Dept: "La Paz Department"
+Assoc_Region_La_Paz_Dept_Short: "La Paz Dept."
+Assoc_Region_La_Paz_Dept_spa: "Departamento de La Paz"
+Assoc_Region_La_Paz_Dept_Short_spa: "Dept. de La Paz"
+
+Assoc_Region_Santa_Cruz_Dept: "Santa Cruz Department"
+Assoc_Region_Santa_Cruz_Dept_Short: "Santa Cruz Dept."
+Assoc_Region_Santa_Cruz_Dept_spa: "Departamento de Santa Cruz"
+Assoc_Region_Santa_Cruz_Dept_Short_spa: "Dept. de Santa Cruz"
+
+#GERMANY
+Assoc_Region_RG_Netherlands: "Reichsgau Netherlands"
+Assoc_Region_RG_Netherlands_ger: "Reichsgau Niederlande"
+
+#FINLAND
+Assoc_Region_White_Karelia_Province: "White Karelia Province"
+Assoc_Region_White_Karelia_Province_Short: "White Karelia Prov."
+Assoc_Region_White_Karelia_Province_fin: "Vienan Karjala Lääni"
+Assoc_Region_White_Karelia_Province_Short_fin: "Vienan Karjala Lääni"
+
+#WEST INDIES
+Assoc_Region_British_West_Indies: "British West Indies"
+Assoc_Region_French_West_Indies: "French West Indies"
+Assoc_Region_French_West_Indies_fra: "Antilles Françaises"
+Assoc_Region_Netherlands_Antilles: "Netherlands Antilles"
+Assoc_Region_Netherlands_Antilles_hol: "Nederlandse Antillen"
+Assoc_Region_Lesser_Antilles: "Lesser Antilles"
+Assoc_Region_Lesser_Antilles_fra: "Petites Antilles"
+Assoc_Region_Lesser_Antilles_hol: "Kleine Antillen"
+Assoc_Region_Greater_Antilles: "Greater Antilles"
+Assoc_Region_Greater_Antilles_fra: "Grandes Antilles"
+Assoc_Region_Greater_Antilles_spa: "Antillas Mayores"
+Assoc_Region_Lucayan_Archipelago: "Lucayan Archipelago"
+
+#DR
+Assoc_Region_Cibao: "Cibao"
+Assoc_Region_East: "East"
+Assoc_Region_East_spa: "Este"
+Assoc_Region_South: "South"
+Assoc_Region_South_spa: "Sur"
+
+#INDIA
+Assoc_Region_Punjab_State: "Punjab State"
+Assoc_Region_Punjab_State_ind: "Pañjāb Rāj"
+
+Assoc_Region_Punjab_PMA: "Punjab Provincial Military Administration"
+Assoc_Region_Punjab_PMA_Short: "Punjab PMA"
+Assoc_Region_Punjab_PMA_ind: "Pañjāb Sūbāī Sainā Praśāsan"
+Assoc_Region_Punjab_PMA_Short_ind: "Pañjāb SSP"
+
+Assoc_Region_Punjab_AR: "Punjab Administrative Region"
+Assoc_Region_Punjab_AR_Short: "Punjab AR"
+Assoc_Region_Punjab_AR_ind: "Pañjāb Praśāskī Khetr"
+Assoc_Region_Punjab_AR_Short_ind: "Pañjāb PK"
+
+Assoc_Region_Himachal_Pradesh_UT: "Himachal Pradesh Union Territory"
+Assoc_Region_Himachal_Pradesh_UT_Short: "Hima. Pra. UT"
+Assoc_Region_Himachal_Pradesh_UT_ind: "Himāchal Pradeś Kendra Śāsit Pradeś"
+Assoc_Region_Himachal_Pradesh_UT_Short_ind: "Himā. Pra. KŚP"
+
+Assoc_Region_Himachal_Pradesh_State: "Himachal Pradesh State"
+Assoc_Region_Himachal_Pradesh_State_Short: "Hima. Pra. S."
+Assoc_Region_Himachal_Pradesh_State_ind: "Himāchal Pradeś Rājya"
+Assoc_Region_Himachal_Pradesh_State_Short_ind: "Himā. Pra. R."
+
+Assoc_Region_Himachal_Pradesh_PMA: "Himachal Pradesh Provincial Military Administration"
+Assoc_Region_Himachal_Pradesh_PMA_Short: "Hima. Pra. PMA"
+Assoc_Region_Himachal_Pradesh_PMA_ind: "Himāchal Pradeś Prāntīya Sainya Praśāsan"
+Assoc_Region_Himachal_Pradesh_PMA_Short_ind: "Himā. Pra. PSP"
+
+Assoc_Region_Himachal_Pradesh_AR: "Himachal Pradesh Administrative Region"
+Assoc_Region_Himachal_Pradesh_AR_Short: "Hima. Pra. AR"
+Assoc_Region_Himachal_Pradesh_AR_ind: "Himāchal Pradeś Praśāsanik Ksetra"
+Assoc_Region_Himachal_Pradesh_AR_Short_ind: "Himā. Pra. PK"
+
+Assoc_Region_Jammu_Kashmir_State: "Jammu and Kashmir State"
+Assoc_Region_Jammu_Kashmir_State_Short: "Jam. and Kash. S."
+Assoc_Region_Jammu_Kashmir_State_ind: "Jammu te Kaśīr Rāj"
+Assoc_Region_Jammu_Kashmir_State_Short_ind: "Jammu te Kaśīr R."
+
+Assoc_Region_Jammu_Kashmir_PMA: "Jammu and Kashmir Provincial Military Administration"
+Assoc_Region_Jammu_Kashmir_PMA_Short: "Jam. and Kash. PMA"
+Assoc_Region_Jammu_Kashmir_PMA_ind: "Jammu te Kaśīr Wilāyatī Faujī Intizām"
+Assoc_Region_Jammu_Kashmir_PMA_Short_ind: "Jammu te Kaśīr WFI"
+
+Assoc_Region_Jammu_Kashmir_AR: "Jammu and Kashmir Administrative Region"
+Assoc_Region_Jammu_Kashmir_AR_Short: "Jamu. and Kash. AR"
+Assoc_Region_Jammu_Kashmir_AR_ind: "Jammu te Kaśīr Idārī Ilāqah"
+Assoc_Region_Jammu_Kashmir_AR_Short_ind: "Jammu te Kaśīr II"
+
+Assoc_Region_Sindh_State: "Sindh State"
+Assoc_Region_Sindh_State_ind: "Sūbah Sindh"
+
+Assoc_Region_Sindh_PMA: "Sindh Provincial Military Administration"
+Assoc_Region_Sindh_PMA_Short: "Sindh PMA"
+Assoc_Region_Sindh_PMA_ind: "Sūbah Sindh Faujī Intizāmiyah"
+Assoc_Region_Sindh_PMA_Short_ind: "Sūbah Sindh FI"
+
+Assoc_Region_Sindh_AR: "Sindh Administrative Region"
+Assoc_Region_Sindh_AR_Short: "Sindh AR"
+Assoc_Region_Sindh_AR_ind: "Sindh Intizāmī Khattah"
+Assoc_Region_Sindh_AR_Short_ind: "Sindh IK"
+
+Assoc_Region_Rajasthan_State: "Rajasthan State"
+Assoc_Region_Rajasthan_State_ind: "Rājasthān Rājya"
+
+Assoc_Region_Rajasthan_PMA: "Rajasthan Provincial Military Administration"
+Assoc_Region_Rajasthan_PMA_Short: "Rajasthan PMA"
+Assoc_Region_Rajasthan_PMA_ind: "Rājasthān Prāntīya Sainya Praśāsan"
+Assoc_Region_Rajasthan_PMA_Short_ind: "Rājasthān PSP"
+
+Assoc_Region_Rajasthan_AR: "Rajasthan Administrative Region"
+Assoc_Region_Rajasthan_AR_Short: "Rajasthan AR"
+Assoc_Region_Rajasthan_AR_ind: "Rājasthān Praśāsanik Ksetra"
+Assoc_Region_Rajasthan_AR_Short_ind: "Rājasthān PK"
+
+Assoc_Region_Uttar_Pradesh_State: "Uttar Pradesh State"
+Assoc_Region_Uttar_Pradesh_State_ind: "Uttar Pradēś Rājya"
+
+Assoc_Region_Uttar_Pradesh_PMA: "Uttar Pradesh Provincial Military Administration"
+Assoc_Region_Uttar_Pradesh_PMA_Short: "Uttar Pradesh PMA"
+Assoc_Region_Uttar_Pradesh_PMA_ind: "Uttar Pradēś Prāntīya Sainya Praśāsan"
+Assoc_Region_Uttar_Pradesh_PMA_Short_ind: "Uttar Pradēś PSP"
+
+Assoc_Region_Uttar_Pradesh_AR: "Uttar Pradesh Administrative Region"
+Assoc_Region_Uttar_Pradesh_AR_Short: "Uttar Pradesh AR"
+Assoc_Region_Uttar_Pradesh_AR_ind: "Uttar Pradēś Praśāsanik Ksetra"
+Assoc_Region_Uttar_Pradesh_AR_Short_ind: "Uttar Pradēś PK"
+
+Assoc_Region_Madhya_Pradesh_State: "Madhya Pradesh State"
+Assoc_Region_Madhya_Pradesh_State_Short: "Madhya Pradesh S."
+Assoc_Region_Madhya_Pradesh_State_ind: "Madhya Pradēś Rājya"
+Assoc_Region_Madhya_Pradesh_State_Short_ind: "Madhya Pradēś R."
+
+Assoc_Region_Madhya_Pradesh_PMA: "Madhya Pradesh Provincial Military Administration"
+Assoc_Region_Madhya_Pradesh_PMA_Short: "Madhya Pradesh PMA"
+Assoc_Region_Madhya_Pradesh_PMA_ind: "Madhya Pradēś Prāntīya Sainya Praśāsan"
+Assoc_Region_Madhya_Pradesh_PMA_Short_ind: "Madhya Pradēś PSP"
+
+Assoc_Region_Madhya_Pradesh_AR: "Madhya Pradesh Administrative Region"
+Assoc_Region_Madhya_Pradesh_AR_Short: "Madhya Pradesh AR"
+Assoc_Region_Madhya_Pradesh_AR_ind: "Madhya Pradēś Praśāsanik Ksetra"
+Assoc_Region_Madhya_Pradesh_AR_Short_ind: "Madhya Pradēś PK"
+
+Assoc_Region_Gujarat_State: "Gujarat State"
+Assoc_Region_Gujarat_State_ind: "Gujarāt Rājya"
+
+Assoc_Region_Gujarat_PMA: "Gujarat Provincial Military Administration"
+Assoc_Region_Gujarat_PMA_Short: "Gujarat PMA"
+Assoc_Region_Gujarat_PMA_ind: "Gujarāt Prāntīya Sainya Vahīvāt"
+Assoc_Region_Gujarat_PMA_Short_ind: "Gujarāt PSV"
+
+Assoc_Region_Gujarat_AR: "Gujarat Administrative Region"
+Assoc_Region_Gujarat_AR_Short: "Gujarat AR"
+Assoc_Region_Gujarat_AR_ind: "Gujarāt Vahīvātī Vistār"
+Assoc_Region_Gujarat_AR_Short_ind: "Gujarāt VV"
+
+Assoc_Region_Maharashtra_State: "Maharashtra State"
+Assoc_Region_Maharashtra_State_ind: "Mahārāstra Rājya"
+
+Assoc_Region_Maharashtra_PMA: "Maharashtra Provincial Military Administration"
+Assoc_Region_Maharashtra_PMA_Short: "Maharashtra PMA"
+Assoc_Region_Maharashtra_PMA_ind: "Mahārāstra Prāntīya Laskarī Praśāsant"
+Assoc_Region_Maharashtra_PMA_Short_ind: "Mahārāstra PLP"
+
+Assoc_Region_Maharashtra_AR: "Maharashtra Administrative Region"
+Assoc_Region_Maharashtra_AR_Short: "Maharashtra AR"
+Assoc_Region_Maharashtra_AR_ind: "Mahārāstra Praśāsakīya Ksetra"
+Assoc_Region_Maharashtra_AR_Short_ind: "Mahārāstra PK"
+
+Assoc_Region_Mysore_State: "Mysore State"
+Assoc_Region_Mysore_State_ind: "Mysūru Rājya"
+Assoc_Region_Mysore_State_1973: "Karnataka State"
+Assoc_Region_Mysore_State_1973_ind: "Karnātaka Rājya"
+
+Assoc_Region_Mysore_PMA: "Mysuru Provincial Military Administration"
+Assoc_Region_Mysore_PMA_Short: "Mysuru PMA"
+Assoc_Region_Mysore_PMA_ind: "Mysūru Prāntīya Sainika Ādalita"
+Assoc_Region_Mysore_PMA_Short_ind: "Mysūru PSĀ"
+
+Assoc_Region_Mysore_AR: "Mysuru Administrative Region"
+Assoc_Region_Mysore_AR_Short: "Mysuru AR"
+Assoc_Region_Mysore_AR_ind: "Mysūru Ādalita Pradeśa"
+Assoc_Region_Mysore_AR_Short_ind: "Mysūru ĀP"
+
+Assoc_Region_Madras_State: "Madras State"
+Assoc_Region_Madras_State_ind: "Matrās Mānilam"
+Assoc_Region_Madras_State_1969: "Tamil Nadu"
+Assoc_Region_Madras_State_1969_ind: "Tamilnātu"
+
+Assoc_Region_Madras_PMA: "Madras Provincial Military Administration"
+Assoc_Region_Madras_PMA_Short: "Madras PMA"
+Assoc_Region_Madras_PMA_ind: "Matrās Mānila Sainika Nirvākam"
+Assoc_Region_Madras_PMA_Short_ind: "Matrās PMN"
+
+Assoc_Region_Madras_AR: "Madras Administrative Region"
+Assoc_Region_Madras_AR_Short: "Madras AR"
+Assoc_Region_Madras_AR_ind: "Matrās Nirvāka Vattaram"
+Assoc_Region_Madras_AR_Short_ind: "Matrās NV"
+
+Assoc_Region_Andhra_Pradesh_State: "Andhra Pradesh State"
+Assoc_Region_Andhra_Pradesh_State_Short: "Andhra Pradesh S."
+Assoc_Region_Andhra_Pradesh_State_ind: "Āndhra Pradeś Rāstram"
+Assoc_Region_Andhra_Pradesh_State_Short_ind: "Āndhra Pradeś R."
+
+Assoc_Region_Andhra_Pradesh_PMA: "Andhra Pradesh Provincial Military Administration"
+Assoc_Region_Andhra_Pradesh_PMA_Short: "Andhra Pradesh PMA"
+Assoc_Region_Andhra_Pradesh_PMA_ind: "Āndhra Pradeś Prāntīya Sainika Pālana"
+Assoc_Region_Andhra_Pradesh_PMA_Short_ind: "Āndhra Pradeś PSP"
+
+Assoc_Region_Andhra_Pradesh_AR: "Andhra Pradesh Administrative Region"
+Assoc_Region_Andhra_Pradesh_AR_Short: "Andhra Pradesh AR"
+Assoc_Region_Andhra_Pradesh_AR_ind: "Āndhra Pradeś Prāśāsanika Prāntam"
+Assoc_Region_Andhra_Pradesh_AR_Short_ind: "Āndhra Pradeś PP"
+
+Assoc_Region_Orissa_State: "Orissa State"
+Assoc_Region_Orissa_State_ind: "Odiśā Rājya"
+
+Assoc_Region_Orissa_UT: "Orissa Union Territory"
+Assoc_Region_Orissa_UT_Short: "Orissa UT"
+Assoc_Region_Orissa_UT_ind: "Odiśā Kendra Śāsita Pradeśa"
+Assoc_Region_Orissa_UT_Short_ind: "Odiśā KŚP"
+
+Assoc_Region_Orissa_PMA: "Odisha Provincial Military Administration"
+Assoc_Region_Orissa_PMA_Short: "Odisha PMA"
+Assoc_Region_Orissa_PMA_ind: "Odiśā Prāntīya Sainika Śāsana"
+Assoc_Region_Orissa_PMA_Short_ind: "Odiśā PSŚ"
+
+Assoc_Region_Orissa_AR: "Odisha Administrative Region"
+Assoc_Region_Orissa_AR_Short: "Odisha AR"
+Assoc_Region_Orissa_AR_ind: "Odiśā Prāśāsanika Ksetra"
+Assoc_Region_Orissa_AR_Short_ind: "Odiśā PK"
+
+Assoc_Region_Bihar_UT: "Bihar Union Territory"
+Assoc_Region_Bihar_UT_ind: "Bihār Kendra Śāsit Pradeś"
+
+Assoc_Region_Bihar_State: "Bihar State"
+Assoc_Region_Bihar_State_ind: "Bihār Rājya"
+
+Assoc_Region_Bihar_PMA: "Bihar Provincial Military Administration"
+Assoc_Region_Bihar_PMA_Short: "Bihar PMA"
+Assoc_Region_Bihar_PMA_ind: "Bihār Prāntīya Sainik Prashāsan"
+Assoc_Region_Bihar_PMA_Short_ind: "Bihār PSP"
+
+Assoc_Region_Bihar_AR: "Bihar Administrative Region"
+Assoc_Region_Bihar_AR_Short: "Bihar AR"
+Assoc_Region_Bihar_AR_ind: "Bihār Prashāsanik Ksetra"
+Assoc_Region_Bihar_AR_Short_ind: "Bihār PK"
+
+Assoc_Region_Bengal_UT: "Bengal Union Territory"
+Assoc_Region_Bengal_UT_Short: "Bengal UT"
+Assoc_Region_Bengal_UT_ind: "Banga Kendra Śāsita Pradeś"
+Assoc_Region_Bengal_UT_Short_ind: "Banga KŚP"
+
+Assoc_Region_Bengal_State: "Bengal State"
+Assoc_Region_Bengal_State_ind: "Banga Rājya"
+
+Assoc_Region_Bengal_PMA: "Bengal Provincial Military Administration"
+Assoc_Region_Bengal_PMA_Short: "Bengal PMA"
+Assoc_Region_Bengal_PMA_ind: "Banga Prāntīya Sainya Prashāsan"
+Assoc_Region_Bengal_PMA_Short_ind: "Banga PSP"
+
+Assoc_Region_Bengal_AR: "Bengal Administrative Region"
+Assoc_Region_Bengal_AR_Short: "Bengal AR"
+Assoc_Region_Bengal_AR_ind: "Banga Prashāsanik Anchal"
+Assoc_Region_Bengal_AR_Short_ind: "Banga PA"
+
+Assoc_Region_Assam_UT: "Assam Union Territory"
+Assoc_Region_Assam_UT_Short: "Assam UT"
+Assoc_Region_Assam_UT_ind: "Ôxôm Kendriya Śāsit Pradeś"
+Assoc_Region_Assam_UT_Short_ind: "Ôxôm KŚP"
+
+Assoc_Region_Assam_State: "Assam State"
+Assoc_Region_Assam_State_ind: "Ôxôm Rājya"
+
+Assoc_Region_Assam_PMA: "Assam Provincial Military Administration"
+Assoc_Region_Assam_PMA_Short: "Assam PMA"
+Assoc_Region_Assam_PMA_ind: "Ôxôm Prāntīya Sainik Prashāsan"
+Assoc_Region_Assam_PMA_Short_ind: "Ôxôm PSP"
+
+Assoc_Region_Assam_AR: "Assam Administrative Region"
+Assoc_Region_Assam_AR_Short: "Assam AR"
+Assoc_Region_Assam_AR_ind: "Ôxôm Prashāsanik Anchol"
+Assoc_Region_Assam_AR_Short_ind: "Ôxôm PA"
+
+Assoc_Region_Haryana_State: "Haryana State"
+Assoc_Region_Haryana_State_ind: "Hariyānā Rājya"
+
+Assoc_Region_Haryana_PMA: "Haryana Provincial Military Administration"
+Assoc_Region_Haryana_PMA_Short: "Hariyānā PMA"
+Assoc_Region_Haryana_PMA_ind: "Hariyānā Prāntīya Sainya Praśāsan"
+Assoc_Region_Haryana_PMA_Short_ind: "Hariyānā PSP"
+
+Assoc_Region_Haryana_AR: "Haryana Administrative Region"
+Assoc_Region_Haryana_AR_Short: "Haryana AR"
+Assoc_Region_Haryana_AR_ind: "Hariyānā Praśāsanik Ksetra"
+Assoc_Region_Haryana_AR_Short_ind: "Hariyānā PK"
+
+Assoc_Region_NWFP: "North-West Frontier Province"
+Assoc_Region_NWFP_Short: "N-W Frontier Prov."
+Assoc_Region_NWFP_ind: "Śamāl Magribī Sarhadī Sūbāh"
+Assoc_Region_NWFP_Short_ind: "Sarhad"
+
+Assoc_Region_Jammu_Kashmir_Province: "Jammu and Kashmir Province"
+Assoc_Region_Jammu_Kashmir_Province_Short: "Jam. and Kash. P."
+Assoc_Region_Jammu_Kashmir_Province_ind: "Sūbah Jamū wa Kashmīr"
+Assoc_Region_Jammu_Kashmir_Province_Short_ind: "S. Jamū wa Kashmīr"
+
+Assoc_Region_Punjab_Province: "Punjab Province"
+Assoc_Region_Punjab_Province_ind: "Sūbah Panjāb"
+
+Assoc_Region_Sindh_Province: "Sindh Province"
+Assoc_Region_Sindh_Province_ind: "Sūbah Sindh"
+
+Assoc_Region_Balochistan_Province: "Balochistan Province"
+Assoc_Region_Balochistan_Province_Short: "Balochistan Prov."
+Assoc_Region_Balochistan_Province_ind: "Sūbah Balōchistān"
+Assoc_Region_Balochistan_Province_Short_ind: "S. Balōchistān"
+
+Assoc_Region_Balochistan_State: "Balochistan State"
+Assoc_Region_Balochistan_State_ind: "Sūbah Balōchistān"
+
+Assoc_Region_Balochistan_AR: "Balochistan Administrative Region"
+Assoc_Region_Balochistan_AR_Short: "Balochistan AR"
+Assoc_Region_Balochistan_AR_ind: "Balōchistān Intizāmī Khattah"
+Assoc_Region_Balochistan_AR_Short_ind: "Balōchistān IK"
+
+Assoc_Region_Gandhara_State: "Gandhara State" #Based on a neutral name proposed for the North-West Frontier Province in 2010
+Assoc_Region_Gandhara_State_ind: "Sūbah Gandhāra"
+
+Assoc_Region_Gandhara_AR: "Gandhara Administrative Region"
+Assoc_Region_Gandhara_AR_Short: "Gandhara AR"
+Assoc_Region_Gandhara_AR_ind: "Gandhāra Intizāmī Khattah"
+Assoc_Region_Gandhara_AR_Short_ind: "Gandhāra IK"
+
+Assoc_Region_Yaroslavl: "Yaroslavl District"
+Assoc_Region_Yaroslavl_ger: "Jaroslawl Generalbezirk"
+Assoc_Region_Yaroslavl_Short: "Yaroslavl District"
+Assoc_Region_Yaroslavl_Short_ger: "Jaroslawl GB"
+
+#ITALY
+
+Assoc_Region_North_Italy: "Northern Italy"
+Assoc_Region_North_Italy_ita: "Italia Settentrionale"
+
+Assoc_Region_Central_Italy: "Central Italy"
+Assoc_Region_Central_Italy_ita: "Italia Centrale"
+
+Assoc_Region_South_Italy: "Southern Italy"
+Assoc_Region_South_Italy_ita: "Mezzogiorno"
+
+#ROMANIA
+
+Assoc_Region_Muntenia_Province: "Muntenia Province"
+Assoc_Region_Muntenia_Province_rom: "Provincie Muntenia"
+
+Assoc_Region_Moldavia_Province: "Moldavia Province"
+Assoc_Region_Moldavia_Province_rom: "Provincie Moldova"
+
+Assoc_Region_Translyvania_Province: "Translyvania Province"
+Assoc_Region_Translyvania_Province_rom: "Provincie Transilvania"
+
+Assoc_Region_Translyvania: "Translyvania"
+Assoc_Region_Translyvania_rom: "Transilvania"
+Assoc_Region_Translyvania_hun: "Erdély"
+
+###Sub Admin Titles###
+
+Admin_Title_Province_Sub_Admin: "Provinces"
+Admin_Title_Province_Sub_Admin_Lowercase: "provinces"
+Admin_Title_Province_Sub_Admin_ita: "Province"
+Admin_Title_Province_Sub_Admin_Lowercase_ita: "province"
+Admin_Title_Province_Sub_Admin_spa: "Provincias"
+Admin_Title_Province_Sub_Admin_Lowercase_spa: "provincias"
+Admin_Title_Province_Sub_Admin_por: "Províncias"
+Admin_Title_Province_Sub_Admin_Lowercase_por: "províncias"
+Admin_Title_Province_Sub_Admin_tur: "İller"
+Admin_Title_Province_Sub_Admin_Lowercase_tur: "iller"
+Admin_Title_Province_Sub_Admin_ger: "Regierungsbezirk"
+Admin_Title_Province_Sub_Admin_Lowercase_ger: "regierungsbezirk"
+
+Admin_Title_Municipality_Sub_Admin: "Municipalities"
+Admin_Title_Municipality_Sub_Admin_Lowercase: "municipalities"
+Admin_Title_Municipality_Sub_Admin_ita: "Comuni"
+Admin_Title_Municipality_Sub_Admin_Lowercase_ita: "comuni"
+Admin_Title_Municipality_Sub_Admin_arb: "Baladiyat"
+Admin_Title_Municipality_Sub_Admin_Lowercase_arb: "baladiyat"
+Admin_Title_Municipality_Sub_Admin_swe: "Kommuner"
+Admin_Title_Municipality_Sub_Admin_Lowercase_swe: "kommuner"
+Admin_Title_Municipality_Sub_Admin_fin: "Kunnat"
+Admin_Title_Municipality_Sub_Admin_Lowercase_fin: "kunnat"
+Admin_Title_Municipality_Sub_Admin_ser: "Opštine"
+Admin_Title_Municipality_Sub_Admin_Lowercase_ser: "opštine"
+Admin_Title_Municipality_Sub_Admin_bul: "Obshtini"
+Admin_Title_Municipality_Sub_Admin_Lowercase_bul: "obshtini"
+Admin_Title_Municipality_Sub_Admin_spa: "Municipios"
+Admin_Title_Municipality_Sub_Admin_Lowercase_spa: "municipios"
+
+Admin_Title_Department_Sub_Admin: "Departments"
+Admin_Title_Department_Sub_Admin_Lowercase: "departments"
+Admin_Title_Department_Sub_Admin_spa: "Departamentos"
+Admin_Title_Department_Sub_Admin_Lowercase_spa: "departamentos"
+
+Admin_Title_Subprefecture_Sub_Admin: "Subprefectures"
+Admin_Title_Subprefecture_Sub_Admin_Lowercase: "subprefectures"
+Admin_Title_Subprefecture_Sub_Admin_jap: "Shichō"
+Admin_Title_Subprefecture_Sub_Admin_Lowercase_jap: "shichō"
+
+Admin_Title_County_Sub_Admin: "Counties"
+Admin_Title_County_Sub_Admin_Lowercase: "counties"
+Admin_Title_County_Sub_Admin_chi: "Xiàn"
+Admin_Title_County_Sub_Admin_Lowercase_chi: "xiàn"
+Admin_Title_County_Sub_Admin_rom: "Județe"
+Admin_Title_County_Sub_Admin_Lowercase_rom: "județe"
+Admin_Title_County_Sub_Admin_hun: "Vármegyék"
+Admin_Title_County_Sub_Admin_Lowercase_hun: "vármegyék"
+Admin_Title_County_Sub_Admin_cro: "Županije"
+Admin_Title_County_Sub_Admin_Lowercase_cro: "županije"
+
+Admin_Title_Prefecture_Sub_Admin: "Prefectures"
+Admin_Title_Prefecture_Sub_Admin_Lowercase: "prefectures"
+Admin_Title_Prefecture_Sub_Admin_gre: "Nomoi"
+Admin_Title_Prefecture_Sub_Admin_Lowercase_gre: "nomoi"
+
+Admin_Title_Commune_Sub_Admin: "Communes"
+Admin_Title_Commune_Sub_Admin_Lowercase: "communes"
+Admin_Title_Commune_Sub_Admin_spa: "Comunas"
+Admin_Title_Commune_Sub_Admin_Lowercase_spa: "comunas"
+Admin_Title_Commune_Sub_Admin_rom: "Comună"
+Admin_Title_Commune_Sub_Admin_Lowercase_rom: "comună"
+
+Admin_Title_Dzong_Sub_Admin: "Dzong"
+Admin_Title_Dzong_Sub_Admin_Lowercase: "dzong"
+Admin_Title_Dzong_Sub_Admin_chi: "Zōng"
+Admin_Title_Dzong_Sub_Admin_Lowercase_chi: "zōng"
+
+Admin_Title_Leagues_Banners_Sub_Admin: "Leagues §Fand§! Banners"
+Admin_Title_Leagues_Banners_Sub_Admin_Lowercase: "leagues §Fand§! banners"
+Admin_Title_Leagues_Banners_Sub_Admin_chi: "Méngqí"
+Admin_Title_Leagues_Banners_Sub_Admin_Lowercase_chi: "méngqí"
+
+Admin_Title_Counties_Leagues_Banners_Sub_Admin: "Counties§F,§! Leagues §Fand§! Banners"
+Admin_Title_Counties_Leagues_Banners_Sub_Admin_Lowercase: "counties§F,§! leagues §Fand§! banners"
+Admin_Title_Counties_Leagues_Banners_Sub_Admin_chi: "Xiàn §Fand§! Méngqí"
+Admin_Title_Counties_Leagues_Banners_Sub_Admin_Lowercase_chi: "xiàn §Fand§! méngqí"
+
+Admin_Title_District_Sub_Admin: "Districts"
+Admin_Title_District_Sub_Admin_Lowercase: "districts"
+Admin_Title_District_Sub_Admin_ger: "Kreise"
+Admin_Title_District_Sub_Admin_Lowercase_ger: "kreise"
+Admin_Title_District_Sub_Admin_por: "Distritos"
+Admin_Title_District_Sub_Admin_Lowercase_por: "distritos"
+Admin_Title_District_Sub_Admin_tur: "İlçeler"
+Admin_Title_District_Sub_Admin_Lowercase_tur: "ilçeler"
+Admin_Title_District_Sub_Admin_chi: "Qū"
+Admin_Title_District_Sub_Admin_Lowercase_chi: "qū"
+Admin_Title_District_Sub_Admin_fra: "Arrondissements"
+Admin_Title_District_Sub_Admin_Lowercase_fra: "arrondissements"
+Admin_Title_District_Sub_Admin_hol: "Districten"
+Admin_Title_District_Sub_Admin_Lowercase_hol: "districten"
+Admin_Title_District_Sub_Admin_ind: "Jilā"
+Admin_Title_District_Sub_Admin_Lowercase_ind: "jilā"
+Admin_Title_District_Sub_Admin_pun_ind: "Zilhā"
+Admin_Title_District_Sub_Admin_Lowercase_pun_ind: "zilhā"
+Admin_Title_District_Sub_Admin_kas_ind: "Zilah"
+Admin_Title_District_Sub_Admin_Lowercase_kas_ind: "zilah"
+Admin_Title_District_Sub_Admin_pak_ind: "Zila'"
+Admin_Title_District_Sub_Admin_Lowercase_pak_ind: "zila'"
+Admin_Title_District_Sub_Admin_guj_ind: "Jillo"
+Admin_Title_District_Sub_Admin_Lowercase_guj_ind: "jillo"
+Admin_Title_District_Sub_Admin_mar_ind: "Jilhā"
+Admin_Title_District_Sub_Admin_Lowercase_mar_ind: "jilhā"
+Admin_Title_District_Sub_Admin_kan_ind: "Jillē"
+Admin_Title_District_Sub_Admin_Lowercase_kan_ind: "jillē"
+Admin_Title_District_Sub_Admin_tam_ind: "Māvattam"
+Admin_Title_District_Sub_Admin_Lowercase_tam_ind: "māvattam"
+Admin_Title_District_Sub_Admin_tel_ind: "Jillā"
+Admin_Title_District_Sub_Admin_Lowercase_tel_ind: "jillā"
+Admin_Title_District_Sub_Admin_ori_ind: "Jillā"
+Admin_Title_District_Sub_Admin_Lowercase_ori_ind: "jillā"
+Admin_Title_District_Sub_Admin_ben_ind: "Jelā"
+Admin_Title_District_Sub_Admin_Lowercase_ben_ind: "Jelā"
+Admin_Title_District_Sub_Admin_ass_ind: "Jilā"
+Admin_Title_District_Sub_Admin_Lowercase_ass_ind: "Jilā"
+Admin_Title_District_Sub_Admin_mal_ind: "Jilla"
+Admin_Title_District_Sub_Admin_Lowercase_mal_ind: "jilla"
+Admin_Title_District_Sub_Admin_ser: "Okruzi"
+Admin_Title_District_Sub_Admin_Lowercase_ser: "okruzi"
+Admin_Title_District_Sub_Admin_cro: "Kotari"
+Admin_Title_District_Sub_Admin_Lowercase_cro: "kotari"
+Admin_Title_District_Sub_Admin_bul: "Okolii"
+Admin_Title_District_Sub_Admin_Lowercase_bul: "okolii"
+
+Admin_Title_Borough_Sub_Admin: "Boroughs"
+Admin_Title_Borough_Sub_Admin_Lowercase: "boroughs"
+
+Admin_Title_Boroughs_Census_Areas_Sub_Admin: "Boroughs §Fand§! Census Areas"
+Admin_Title_Boroughs_Census_Areas_Sub_Admin_Lowercase: "boroughs §Fand§! census areas"
+
+Admin_Title_Parish_Sub_Admin: "Parishes"
+Admin_Title_Parish_Sub_Admin_Lowercase: "parishes"
+
+Admin_Title_COG_Sub_Admin: "Council of Governments"
+Admin_Title_COG_Sub_Admin_Lowercase: "council of governments"
+
+Admin_Title_Districts_Unorganized_Atolls_Sub_Admin: "Districts §Fand§! Unorganized Atolls"
+Admin_Title_Districts_Unorganized_Atolls_Sub_Admin_Lowercase: "districts §Fand§! unorganized atolls"
+
+Admin_Title_Parishes_Municipalities_Sub_Admin: "Parishes §Fand§! Municipalities"
+Admin_Title_Parishes_Municipalities_Sub_Admin_Lowercase: "parishes §Fand§! municipalities"
+
+Admin_Title_Parishes_Dependencies_Sub_Admin: "Parishes §Fand§! Dependencies"
+Admin_Title_Parishes_Dependencies_Sub_Admin_Lowercase: "parishes §Fand§! dependencies"
+
+Admin_Title_Region_Sub_Admin: "Regions"
+Admin_Title_Region_Sub_Admin_Lowercase: "regions"
+Admin_Title_Region_Sub_Admin_spa: "Regiones"
+Admin_Title_Region_Sub_Admin_Lowercase_spa: "regiones"
+
+Admin_Title_Division_Sub_Admin: "Divisions"
+Admin_Title_Division_Sub_Admin_Lowercase: "divisions"
+Admin_Title_Division_Sub_Admin_ind: "Mandal"
+Admin_Title_Division_Sub_Admin_Lowercase_ind: "mandal"
+
+Admin_Title_District_Area_Sub_Admin: "District Areas"
+Admin_Title_District_Area_Sub_Admin_Lowercase: "district areas"
+Admin_Title_District_Area_Sub_Admin_ger: "Kreisgebiete"
+Admin_Title_District_Area_Sub_Admin_Lowercase_ger: "kreisgebiete"
+
+Admin_Title_Governorate_Sub_Admin: "Governorates"
+Admin_Title_Governorate_Sub_Admin_Lowercase: "governorates"
+Admin_Title_Governorate_Sub_Admin_ita: "Governatorati"
+Admin_Title_District_Area_Sub_Admin_Lowercase_ita: "governatorati"
+
+Admin_Title_Castles_Sub_Admin: "Castles"
+Admin_Title_Castles_Sub_Admin_Lowercase: "castles"
+Admin_Title_Castles_Sub_Admin_ita: "Castelli"
+Admin_Title_Castles_Sub_Admin_Lowercase_ita: "castelli"
+
+Admin_Title_Admin_Delegations_Sub_Admin: "Administrative Delegations"
+Admin_Title_Admin_Delegations_Sub_Admin_Lowercase: "administrative delegations"
+Admin_Title_Admin_Delegations_Sub_Admin_hun: "Közigazgatási Kirendeltség"
+Admin_Title_Admin_Delegations_Sub_Admin_Lowercase_hun: "közigazgatási kirendeltség"
+
+## Sub Divisions ## 
+# Sorted in ascending order per country and per state
+
+#Paraguay
+SubDivision1_301: "[301.GetName]"
+SubDivision2_301: "Paraguarí"
+
+SubDivision1_1616: "Distrito Capital"
+SubDivision2_1616: "Central"
+
+SubDivision1_1617: "[1617.GetName]"
+SubDivision2_1617: "Ñeembucú"
+
+SubDivision1_1620: "[1620.GetName]"
+SubDivision2_1620: "Canindeyú"
+
+SubDivision1_1618: "[1618.GetName]"
+SubDivision2_1618: "Caazapá"
+
+SubDivision1_1619: "[1619.GetName]"
+SubDivision2_1619: "San Pedro"
+SubDivision2_1619_por: "São Pedro"
+SubDivision3_1619: "Amambay"
+
+SubDivision1_2100: "[2100.GetName]"
+SubDivision2_2100: "Guairá"
+
+#Iberia
+SubDivision1_166: "Zaragoza"
+SubDivision2_166: "Teruel"
+
+SubDivision1_167: "Valencia"
+SubDivision2_167: "Alicante"
+
+SubDivision1_169: "Huelva"
+SubDivision2_169: "Sevilla"
+SubDivision3_169: "Cádiz"
+
+SubDivision1_171: "Orense"
+SubDivision2_171: "Pontevedra"
+
+SubDivision1_173: "Málaga"
+SubDivision2_173: "Granada"
+
+SubDivision1_174: "Zamora"
+SubDivision2_174: "León"
+
+SubDivision1_178: "Santa Cruz de Tenerife"
+SubDivision2_178: "Las Palmas de Gran Canaria"
+
+SubDivision1_982: "[982.GetName]"
+SubDivision2_982: "Lugo"
+
+SubDivision1_986: "[986.GetName]"
+SubDivision2_986: "Gerona"
+
+SubDivision1_988: "[988.GetName]"
+SubDivision2_988: "Jaén"
+
+SubDivision1_993: "Guipúzcoa"
+SubDivision2_993: "Álava"
+SubDivision3_993: "Vizcaya"
+
+SubDivision1_995: "Segovia"
+SubDivision2_995: "Valladolid"
+SubDivision3_995: "Palencia"
+SubDivision4_995: "Burgos"
+
+SubDivision1_996: "Salamanca"
+SubDivision2_996: "Ávila"
+
+#Cuba
+
+SubDivision1_315: "Pinar del Río"
+SubDivision2_315: "La Habana"
+
+SubDivision1_1236: "Matanzas"
+SubDivision2_1236: "Las Villas"
+
+#Haiti
+
+SubDivision1_1728: "Nord-Ouest"
+SubDivision2_1728: "Artibonite"
+
+#Misc
+
+admin_title_us_state_info_text: "Current Governor:\n- [THIS.GetGovernorUSA]\n--------------\nCurrent Senators:\n- [THIS.GetSenator_1] | - [THIS.GetSenator_2]\n"

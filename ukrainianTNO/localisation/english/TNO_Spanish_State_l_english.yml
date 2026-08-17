@@ -1,0 +1,39 @@
+﻿l_english: 
+ ### Country Names ###
+ SPA: "Spanish State"
+ SPA_DEF: "the Spanish State"
+ SPA_ADJ: "Spanish"
+
+ ### Parties ###
+ SPA_communist_party: "PCE"
+ SPA_communist_party_long: "Partido Comunista de España"
+ SPA_socialist_party: "PSOE (H)"
+ SPA_socialist_party_long: "Partido Socialista Obrero Español (Histórico)"
+ SPA_progressivism_party: "PSOE (R)"
+ SPA_progressivism_party_long: "Partido Socialista Obrero Español (Renovado)"
+ SPA_liberalism_party: "Various Liberals"
+ SPA_liberalism_party_long: "Various Liberals"
+ SPA_conservatism_party: "Various Conservatives"
+ SPA_conservatism_party_long: "Various Conservatives"
+ SPA_paternalism_party: "FET y de las JONS (A)"
+ SPA_paternalism_party_long: "Falange Española Tradicionalista y de las Juntas de Ofensiva Nacional Sindicalista (Aperturistas)"
+ SPA_despotism_party: "FET y de las JONS (O)"
+ SPA_despotism_party_long: "Falange Española Tradicionalista y de las Juntas de Ofensiva Nacional Sindicalista (Ortodoxos)"
+ SPA_fascism_party: "Camisas Viejas"
+ SPA_fascism_party_long: "Camisas Viejas"
+
+ ### Characters ###
+ SPA_Francisco_Franco: "Francisco Franco"
+ SPA_Francisco_Franco_hog_desc: "§YCaudillo of Spain\nDespotism§!"
+
+ SPA_Alejandro_Valcarcel: "Alejandro Rodríguez de Valcárcel" 
+ SPA_Alejandro_Valcarcel_hog_desc: "§YPresident of the Government\nDespotism§!"
+
+ SPA_Agustin_Munoz: "Agustín Muñoz Grandes" 
+ SPA_Agustin_Munoz_sec_desc: "§YMinister of the Army\nDespotism§!"
+ 
+ SPA_Pedro_Cortina: "Pedro Cortina Mauri"
+ SPA_Pedro_Cortina_for_desc: "§YMinister of Foreign Affairs\nDespotism§!"
+
+ SPA_Mariano_Rubio: "Mariano Navarro Rubio" 
+ SPA_Mariano_Rubio_eco_desc: "§YMinister of Economic Affairs\nPaternalism§!"

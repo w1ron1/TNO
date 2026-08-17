@@ -1,0 +1,43 @@
+﻿l_english:
+ 
+####PARTY NAMES#####
+ FML_despotism_party:0 "CNA"
+ FML_despotism_party_long:0 "Comando Naval do Atlântico"
+ FML_paternalism_party:0 "CNA"
+ FML_paternalism_party_long:0 "Comando Naval do Atlântico"
+
+#Country names
+
+ FML:0 "Atlantic Naval Command"
+ FML_DEF:0 "the Atlantic Naval Command"
+ FML_ADJ:0 "Portuguese"
+ 
+ ### Leaders ###
+ FML_Alvaro_Pereira_Monjardino:0 "Álvaro Monjardino"
+ POLITICS_FML_ALVARO_PEREIRA_MOJARDINO_DESC: "Álvaro Pereira Monjardino had dedicated much of his life to the practice of law ever since concluding his studies in Lisbon in 1954. Returning to the Azores, he had entered into a business career, making ties with American enterprises and businessmen through his work as a representative of Mobil Oil within the Azores.\n\nMonjardino eventually took a step into the world of politics, working with the Iberian government as part of the Azores planning commission. The original intent of the planning commission had been the establishment of an autonomous Azores, the reports Monjardino helped create having been merely the first step towards such a goal. Now, however, it has far exceeded such ambitions, and the islands are now fully independent from Iberia, and under the OFN's protection. Monjardino has not allowed his ties with America go to waste. Through both his connections with American businessmen and the natural geography of the two island republics, Monjardino has ensured that the Azores, rather than Madeira, have received the majority of the OFN funding dedicated towards their small archipelagos.\n\nA reformist, Monjardino's PPDA is a centrist party that receives widespread support from the populace for the party's focus on improving the living conditions on the islands. When Monjardino affirms himself to be the most successful lawyer in the Azores, one would be hard-pressed to find anyone that disagrees."
+ 
+
+### Ideas ### 
+FML_peaceful_island_sea_war:0 "A Peaceful Island in a Sea of War"
+FML_peaceful_island_sea_war_desc:0 "Continental Portugal is in flames, torn between different warring factions vying for power. Cities like Lisbon are to be embroiled in brutal urban warfare, fields in the countryside will be trampled underfoot, and countless lives will be lost.\n\nThe archipelagos, by contrast, remain firmly neutral under the control of the Atlantic Naval Command. The peaceful islands of the archipelagos offer a friendly port amidst a brutal storm, and so many of the foreign businesses in Portugal have made the decision to relocate. Even if it's only temporary, the new arrivals have brought a much-needed kick to the islands' economies."
+FML_american_boogeyman:0 "The American Boogeyman"
+FML_american_boogeyman_desc:0 "While for now the archipelagos may be a bastion of peace under the Atlantic Naval Command's protection, nobody believes that they alone could truly defend the islands from whoever emerges victorious in continental Portugal. The ANC would have to strike a deal in order to survive, leveraging the value of the archipelagos' military and naval bases.\n\nFortunately for the ANC, Uncle Sam possessed strategic interests in the region, and the OFN offered to help in defense duties in exchange for access to those bases. The OFN, however, hold little sympathy for the ANC, and are more than willing to offer the archipelagos' on a silver platter to whoever demands them if they are sufficiently cooperative."
+
+### Azores Loc ###
+FML_azores:0 "Republic of the Azores"
+FML_azores_DEF:0 "the Republic of the Azores"
+FML_azores_ADJ:0 "Azorean"
+
+FML_american_interests:0 "American Interests"
+FML_american_interests_desc:0 "The Azores occupies a strategic location within the Atlantic, a position that the OFN would quite like to hold onto. As such, compared to Madeira, the Azores boast a significantly larger OFN presence, and receive a generous helping of aid and economic stimulus.\n\nCertainly the Azores enjoys the wealth this increased presence brings to the islands, but not all that glitters is gold. Washington keeps a careful eye on the islands' government. Any hint that the Azores is attempting to distance itself from the OFN is heavily discouraged, regardless of whether those hints are real or imagined."
+FML_little_piece_paradise:0 "A Little Piece of Paradise"
+FML_little_piece_paradise_desc:0 "While the Azores have not exactly had a shining past few years, and none wished for Portugal to descend into violent civil war, there is one upside to recent events that has made life a bit easier: the OFN is very wealthy, and more than willing to throw a small portion of that vast wealth at the Azores to keep them safely in OFN hands.\n\nWhile before the government of the Azores might have been constrained by Iberian debts or overstretched budgets, now they have an abundance of OFN money flowing into their treasury. As such, the government has begun a series of infrastructure and welfare projects in order to improve the lives of the Azorian people. As long as that money keeps flowing, the Azores will prosper."
+
+FML_azores_paternalism_party:0 "FLA"
+FML_azores_paternalism_party_long:0 "Frente de Liberação dos Açores"
+FML_azores_liberal_conservatism_party:0 "PPDA"
+FML_azores_liberal_conservatism_party_long:0 "Partido Popular Democrático dos Açores"
+FML_azores_socialist_party:0 "ASA"
+FML_azores_socialist_party_long:0 "Acção Socialista dos Açores"
+FML_azores_communist_party:0 "PCA"
+FML_azores_communist_party_long:0 "Partido Comunista dos Açores"

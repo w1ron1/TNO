@@ -1,0 +1,25 @@
+﻿l_english:
+  ESQ: "Essequibo Free State"
+  ESQ_DEF: "the Essequibo Free State"
+  ESQ_ADJ: "Essequibo"
+
+
+  ## Parties ##
+  ESQ_despotism_party: "GAP"
+  ESQ_despotism_party_long: "GAP"
+  ESQ_paternalism_party: "GAP"
+  ESQ_paternalism_party_long: "GAP"
+  ## Characters ##
+  ESQ_Valerie_Hart: "Valerie Hart"
+
+  ## Leader Bios ##
+  POLITICS_VALERIE_HART_DESC: ""
+  ## Minister Bios ##
+
+  ### National Spirits ###
+
+  ### Events ###
+  ESQ_scripted.1.t: ""
+  ESQ_scripted.1.d: ""
+  ESQ_scripted.1.a: ""
+  ESQ_scripted.1.b: ""

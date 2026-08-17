@@ -55,6 +55,7 @@
  GRE_Kingdom_DEF: "Королівство Греція"
  GRE_Kingdom_ADJ: "Грецьк"
 
+
  EGY_ITA_despotism_autonomy_italy_reliant: "Королівство Єгипет"
  EGY_ITA_despotism_autonomy_italy_reliant_DEF: "Королівство Єгипет"
  EGY_ITA_paternalism_autonomy_italy_reliant: "Королівство Єгипет"
@@ -277,13 +278,6 @@
  JOR_PARTI_DEF: "Королівство Йорданія"
  JOR_PARTI_ADJ: "Йорданськ"
 
- SPS_MILITARYCOUP: "Іберійський військовий режим"
- SPS_MILITARYCOUP_DEF: "Іберійський військовий режим"
- SPS_MILITARYCOUP_ADJ: "Іберійськ"
-
- IBR_MILITARYCOUP: "Іберійська держава"
- IBR_MILITARYCOUP_DEF: "Іберійська держава"
-
  ### Speer Cosmetic Tags ###
  
  SGR_HOL_provisional_government: "Перехідний уряд Голландії"
@@ -341,170 +335,6 @@
  ILG_VICTORY_GOV: "Тимчасовий Алжирський уряд"
  ILG_VICTORY_GOV_ADJ: "Алжирськ"
  ILG_VICTORY_GOV_DEF: "Тимчасовий Алжирський уряд"
- 
- ###Iberian Wars Postwar###
- FSR_POSTWAR: "Священна Іберійська регентство"
- FSR_POSTWAR_ADJ: "Іберійськ"
- FSR_POSTWAR_DEF: "Священна Іберійська регентство"
- 
- GNS_POSTWAR: "Португальська Народна Республіка"
- GNS_POSTWAR_DEF: "Португальська Народна Республіка"
- GNS_POSTWAR_ADJ: "Португальськ"
- 
- CNT_POSTWAR: "Вільна територія Каталонії"
- CNT_AUTHSOC: "Вільно-Каталонськ"
- 
- SPS_unified: "Еспанська Держава"
- SPS_unified_DEF: "Еспанська Держава"
- 
- POR_puppet: "Португалія"
- POR_puppet_DEF: "Португалія"
- 
- SPR_puppet: "Еспанська Республіка"
- SPR_puppet_DEF: "Еспанська Республіка"
- 
- PPR_unified: "Португальська Народна Республіка"
- PPR_unified_DEF: "Португальська Народна Республіка"
- 
- ###Iberian Wars Governates
- GAL_GNS_autonomy_ibrgovernate: "Губернаторство Галісія"
- TBA_GNS_autonomy_ibrgovernate: "Губернаторство Астурія"
- SPA_GNS_autonomy_ibrgovernate: "Губернаторство Андалусія"
- SPR_GNS_autonomy_ibrgovernate: "Губернаторство Кастилія"
- SPS_GNS_autonomy_ibrgovernate: "Губернаторство Кастилія"
- FSR_GNS_autonomy_ibrgovernate: "Губернаторство Кастилія"
- MOR_GNS_autonomy_ibrgovernate: "Губернаторство Марокко"
- CTL_GNS_autonomy_ibrgovernate: "Губернаторство Каталонія"
- CNT_GNS_autonomy_ibrgovernate: "Губернаторство Каталонія"
- BSQ_GNS_autonomy_ibrgovernate: "Губернаторство Баскія"
- PPR_GNS_autonomy_ibrgovernate: "Губернаторство Португалія"
- POR_GNS_autonomy_ibrgovernate: "Губернаторство Португалія"
- RPP_GNS_autonomy_ibrgovernate: "Губернаторство Португалія"
- GNS_GNS_autonomy_ibrgovernate: "Губернаторство Португалія"
- 
- GAL_SPR_autonomy_ibrgovernate: "Генералітет Галісія"
- TBA_SPR_autonomy_ibrgovernate: "Генералітет Астурія"
- SPA_SPR_autonomy_ibrgovernate: "Генералітет Андалусія"
- SPR_SPR_autonomy_ibrgovernate: "Генералітет Кастилія"
- SPS_SPR_autonomy_ibrgovernate: "Генералітет Кастилія"
- FSR_SPR_autonomy_ibrgovernate: "Генералітет Кастилія"
- MOR_SPR_autonomy_ibrgovernate: "Генералітет Марокко"
- CTL_SPR_autonomy_ibrgovernate: "Генералітет Каталонія"
- CNT_SPR_autonomy_ibrgovernate: "Генералітет Каталонія"
- BSQ_SPR_autonomy_ibrgovernate: "Генералітет Баскія"
- PPR_SPR_autonomy_ibrgovernate: "Генералітет Португалія"
- POR_SPR_autonomy_ibrgovernate: "Генералітет Португалія"
- RPP_SPR_autonomy_ibrgovernate: "Генералітет Португалія"
- GNS_SPR_autonomy_ibrgovernate: "Генералітет Португалія"
- 
- GAL_SPS_autonomy_ibrgovernate: "Губернаторство Галісія"
- TBA_SPS_autonomy_ibrgovernate: "Губернаторство Астурія"
- SPA_SPS_autonomy_ibrgovernate: "Губернаторство Андалусія"
- SPR_SPS_autonomy_ibrgovernate: "Губернаторство Кастилія"
- SPS_SPS_autonomy_ibrgovernate: "Губернаторство Кастилія"
- FSR_SPS_autonomy_ibrgovernate: "Губернаторство Кастилія"
- MOR_SPS_autonomy_ibrgovernate: "Губернаторство Марокко"
- CTL_SPS_autonomy_ibrgovernate: "Губернаторство Каталонія"
- CNT_SPS_autonomy_ibrgovernate: "Губернаторство Каталонія"
- BSQ_SPS_autonomy_ibrgovernate: "Губернаторство Баскія"
- PPR_SPS_autonomy_ibrgovernate: "Губернаторство Португалія"
- POR_SPS_autonomy_ibrgovernate: "Губернаторство Португалія"
- RPP_SPS_autonomy_ibrgovernate: "Губернаторство Португалія"
- GNS_SPS_autonomy_ibrgovernate: "Губернаторство Португалія"
- 
- GAL_SPA_autonomy_ibrgovernate: "Губернаторство Галісія"
- TBA_SPA_autonomy_ibrgovernate: "Губернаторство Астурія"
- SPA_SPA_autonomy_ibrgovernate: "Губернаторство Андалусія"
- SPR_SPA_autonomy_ibrgovernate: "Губернаторство Кастилія"
- SPS_SPA_autonomy_ibrgovernate: "Губернаторство Кастилія"
- FSR_SPA_autonomy_ibrgovernate: "Губернаторство Кастилія"
- MOR_SPA_autonomy_ibrgovernate: "Губернаторство Марокко"
- CTL_SPA_autonomy_ibrgovernate: "Губернаторство Каталонія"
- CNT_SPA_autonomy_ibrgovernate: "Губернаторство Каталонія"
- BSQ_SPA_autonomy_ibrgovernate: "Губернаторство Баскія"
- PPR_SPA_autonomy_ibrgovernate: "Губернаторство Португалія"
- POR_SPA_autonomy_ibrgovernate: "Губернаторство Португалія"
- RPP_SPA_autonomy_ibrgovernate: "Губернаторство Португалія"
- GNS_SPA_autonomy_ibrgovernate: "Губернаторство Португалія"
- 
- GAL_CTL_autonomy_ibrgovernate: "Генералітет Галісія"
- TBA_CTL_autonomy_ibrgovernate: "Генералітет Астурія"
- SPA_CTL_autonomy_ibrgovernate: "Генералітет Андалусія"
- SPR_CTL_autonomy_ibrgovernate: "Генералітет Кастилія"
- SPS_CTL_autonomy_ibrgovernate: "Генералітет Кастилія"
- FSR_CTL_autonomy_ibrgovernate: "Генералітет Кастилія"
- MOR_CTL_autonomy_ibrgovernate: "Генералітет Марокко"
- CTL_CTL_autonomy_ibrgovernate: "Генералітет Каталонія"
- CNT_CTL_autonomy_ibrgovernate: "Генералітет Каталонія"
- BSQ_CTL_autonomy_ibrgovernate: "Генералітет Баскія"
- PPR_CTL_autonomy_ibrgovernate: "Генералітет Португалія"
- POR_CTL_autonomy_ibrgovernate: "Генералітет Португалія"
- RPP_CTL_autonomy_ibrgovernate: "Генералітет Португалія"
- GNS_CTL_autonomy_ibrgovernate: "Генералітет Португалія"
- 
- GAL_CNT_autonomy_ibrgovernate: "Вільна територія Галісія"
- TBA_CNT_autonomy_ibrgovernate: "Вільна територія Астурія"
- SPA_CNT_autonomy_ibrgovernate: "Вільна територія Андалусія"
- SPR_CNT_autonomy_ibrgovernate: "Вільна територія Кастилія"
- SPS_CNT_autonomy_ibrgovernate: "Вільна територія Кастилія"
- FSR_CNT_autonomy_ibrgovernate: "Вільна територія Кастилія"
- MOR_CNT_autonomy_ibrgovernate: "Вільна територія Марокко"
- CTL_CNT_autonomy_ibrgovernate: "Вільна територія Каталонія"
- CNT_CNT_autonomy_ibrgovernate: "Вільна територія Каталонія"
- BSQ_CNT_autonomy_ibrgovernate: "Вільна територія Баскія"
- PPR_CNT_autonomy_ibrgovernate: "Вільна територія Португалія"
- POR_CNT_autonomy_ibrgovernate: "Вільна територія Португалія"
- RPP_CNT_autonomy_ibrgovernate: "Вільна територія Португалія"
- GNS_CNT_autonomy_ibrgovernate: "Вільна територія Португалія"
- 
- GAL_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Галісія"
- TBA_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Астурія"
- SPA_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Андалусія"
- SPR_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Кастилія"
- SPS_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Кастилія"
- FSR_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Кастилія"
- MOR_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Марокко"
- CTL_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Каталонія"
- CNT_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Каталонія"
- BSQ_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Баскія"
- PPR_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- POR_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- RPP_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- GNS_TBA_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- 
- GAL_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Галісія"
- TBA_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Астурія"
- SPA_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Андалусія"
- SPR_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Кастилія"
- SPS_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Кастилія"
- FSR_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Кастилія"
- MOR_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Марокко"
- CTL_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Каталонія"
- CNT_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Каталонія"
- BSQ_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Баскія"
- PPR_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- POR_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- RPP_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- GNS_PPR_autonomy_ibrgovernate: "Соціалістична Республіка Португалія"
- 
- GAL_RPP_autonomy_ibrgovernate: "Губернаторство Галісія"
- TBA_RPP_autonomy_ibrgovernate: "Губернаторство Астурія"
- SPA_RPP_autonomy_ibrgovernate: "Губернаторство Андалусія"
- SPR_RPP_autonomy_ibrgovernate: "Губернаторство Кастилія"
- SPS_RPP_autonomy_ibrgovernate: "Губернаторство Кастилія"
- FSR_RPP_autonomy_ibrgovernate: "Губернаторство Кастилія"
- MOR_RPP_autonomy_ibrgovernate: "Губернаторство Марокко"
- CTL_RPP_autonomy_ibrgovernate: "Губернаторство Каталонія"
- CNT_RPP_autonomy_ibrgovernate: "Губернаторство Каталонія"
- BSQ_RPP_autonomy_ibrgovernate: "Губернаторство Баскія"
- PPR_RPP_autonomy_ibrgovernate: "Губернаторство Португалія"
- POR_RPP_autonomy_ibrgovernate: "Губернаторство Португалія"
- RPP_RPP_autonomy_ibrgovernate: "Губернаторство Португалія"
- GNS_RPP_autonomy_ibrgovernate: "Губернаторство Португалія"
-
- IBR_greater_spain: "Велика Еспанія"
- IBR_greater_spain_DEF: "Велика Еспанія"
- IBR_greater_spain_ADJ: "Еспаньськ"
  
  #SSRs
  PAU_ssr: "Німецька ССР"
@@ -564,13 +394,11 @@
 
  Speer_UKR_rejoined_peacefully: "Перехідний уряд в Україні"
  Speer_UKR_rejoined_peacefully_DEF: "Перехідний уряд в Україні"
- Speer_UKR_rejoined_peacefully_ADJ: "Українськ"
  
  #East African Cosmetic Tags#
  ETH_AMHARA: "Амхара"
  ETH_AMHARA_DEF: "Амхара"
  ETH_AMHARA_ADJ: "Амхарьськ"
-
  ORM_LIBERATIONFRONT: "Фронт звільнення Оромо"
  ORM_LIBERATIONFRONT_DEF: "Фронт звільнення Оромо"
  ORM_LIBERATIONFRONT_ADJ: "Оромськ"
@@ -581,7 +409,11 @@
  MCW_SGR_ADJ: "Руссландьськ"
  MCW_SGR_despotism: "Пакт комісія Руссланд"
  MCW_SGR_despotism_DEF: "Пакт комісія Руссланд"
- MCW_SGR_despotism_ADJ: "Руссландьськ"
+
+ #SPEER KAUKASIA
+ SGR_AZR_industry_UKR_speer_prov_government_national_socialism: "Адміністративний округ Баку"
+ SGR_AZR_industry_UKR_speer_prov_government_national_socialism_ADJ: "Бакуський адміністративний округ"
+ SGR_AZR_industry_UKR_speer_prov_government_national_socialism_DEF: "Бакуський адміністративний округ"
 
  #SPEER OSTLAND
  ostland_occupation_authority: "Рада з питань Остланду"
@@ -589,24 +421,17 @@
  ostland_occupation_authority_ADJ: "Остландьськ"
 
  #PETROGRAD OKB
- OKB_OKB: "Оберкомандо Санкт-Петербург"
- OKB_OKB_DEF: "Оберкомандо Санкт-Петербург"
- OKB_OKB_ADJ: "Санкт-Петербургськ"
- 
- #Bormann Moskowien provisional military authority
- MCW_BOR: "Військовий уряд Московієн"
- MCW_BOR_DEF: "Військовий уряд Московієн"
- MCW_BOR_ADJ: "Московієнськ"
-
- #Bormann Moskowien permanent military authority
- MCW_BOR2: "Військовий округ Московієн"
- MCW_BOR2_DEF: "Військовий округ Московієн"
- MCW_BOR2_ADJ: "Московієнськ"
+ OKB_OKB_fascism: "Верховне командування Санкт-Петербурга"
+ OKB_OKB_fascism_ADJ: "Санкт-Петербурзьке верховне командування"
+ OKB_OKB_fascism_DEF: "Санкт-Петербурзьк"
+ OKB_OKB_national_socialism: "Верховне командування Санкт-Петербурга"
+ OKB_OKB_national_socialism_ADJ: "Санкт-Петербурзьке верховне командування"
+ OKB_OKB_national_socialism_DEF: "Санкт-Петербурзьк"
 
  #Bormann Kaukasien provisional military authority
- CAU_BOR: "Військовий уряд Кауказуєну"
- CAU_BOR_DEF: "Військовий уряд Кауказуєну"
- CAU_BOR_ADJ: "Кауказієн"
+ CAU_BOR: "Військова адміністрація Кавказу"
+ CAU_BOR_DEF: "Військова адміністрація Кавказу"
+ CAU_BOR_ADJ: "кавказьк"
 
  #United Kingdom
  ENG_transitional_govt: "Вільна Британія"
@@ -679,10 +504,110 @@
  WIN_federated_conservatism: "Вест-Індська Співдружність"
  WIN_federated_conservatism_DEF: "Вест-Індська Співдружність"
 
- TRI_grenada: "Тринідад, Тобаго, та Гренада"
- TRI_grenada_DEF: "Тринідад, Тобаго, та Гренада"
+ TRI_ECU_unitary: "Східнокарибський Союз"
+ TRI_ECU_unitary_DEF: "Східнокарибський Союз"
+ TRI_ECU_unitary_ADJ: "східнокарибськ"
+
+ TRI_ECU_federated: "Східнокарибська Федерація"
+ TRI_ECU_federated_DEF: "Східнокарибська Федерація"
+ TRI_ECU_federated_ADJ: "східнокарибськ"
+
+ JAM_rep: "Ямайка"
+ JAM_rep_DEF: "Республіка Ямайка"
+ JAM_busta: "Ямайка"
+ JAM_busta_DEF: "Республіка Ямайка"
+
+ JAM_rev: "Тимчасовий революційний комітет Ямайки"
+ JAM_rev_DEF: "Тимчасовий революційний комітет Ямайки"
+ JAM_poprep: "Ямайська Народна Республіка"
+ JAM_poprep_DEF: "Ямайська Народна Республіка"
+
+ FWI_commission: "Цивільна адміністрація США на Антильських островах"
+ FWI_commission_DEF: "Цивільна адміністрація Сполучених Штатів на Антильських островах"
+
+ FWI_commission_despotism_interim_government_subtype: "Перехідний уряд Антильських островів"
+ FWI_commission_despotism_interim_government_subtype_DEF: "Перехідний уряд Антильських островів"
+
+ FWI_union: "Антильський Союз"
+ FWI_union_DEF: "Антильський Союз"
+
+ FWI_fed: "Антильська Федерація"
+ FWI_fed_DEF: "Антильська Федерація"
+
+ FWI_rep: "Антильська Республіка"
+ FWI_rep_DEF: "Антильська Республіка"
+
+ MRT_soc: "Народна Республіка Мартиніка"
+ MRT_soc_DEF: "Народна Республіка Мартиніка"
+
+ JAM_colonial: "Ямайка"
+ JAM_colonial_DEF: "Коронна колонія Ямайка"
+ JAM_colonial_ADJ: "британсько-карибськ"
+
+ TRI_colonial: "Тринідад і Тобаго"
+ TRI_colonial_DEF: "Коронна колонія Тринідад і Тобаго"
+ TRI_colonial_ADJ: "британсько-карибськ"
+
+ BRB_colonial: "Барбадос"
+ BRB_colonial_DEF: "Коронна колонія Барбадос"
+ BRB_colonial_ADJ: "британсько-карибськ"
+
+ BAH_colonial: "Багамські Острови"
+ BAH_colonial_DEF: "Коронна колонія Багамських Островів"
+ BAH_colonial_ADJ: "британсько-карибськ"
+
+ SKN_colonial: "Підвітряні острови"
+ SKN_colonial_DEF: "Коронна колонія Підвітряних островів"
+ SKN_colonial_ADJ: "британсько-карибськ"
+
+ SKN_trio: "Сент-Кітс, Невіс та Ангілья"
+ SKN_trio_DEF: "Коронна колонія Сент-Кітсу, Невісу та Ангільї"
+ SKN_trio_ADJ: "британсько-карибськ"
+
+ SKN_colony: "Сент-Кітс і Невіс"
+ SKN_colony_DEF: "Коронна колонія Сент-Кітс і Невіс"
+ SKN_colony_ADJ: "британсько-карибськ"
+
+ SKN_federal: "Федерація Підвітряних островів"
+ SKN_federal_DEF: "Федерація Підвітряних островів"
+ SKN_federal_ADJ: "британсько-карибськ"
+
+ AGL_colonial: "Ангілья" #Республіка Дельфінів!
+ AGL_colonial_DEF: "Коронна колонія Ангілья"
+ AGL_colonial_ADJ: "британсько-карибський"
+
+ ANT_colonial: "Антигуа і Барбуда"
+ ANT_colonial_DEF: "Коронна колонія Антигуа і Барбуди"
+ ANT_colonial_ADJ: "британсько-карибськ"
+
+ SVI_colonial: "Навітряні острови"
+ SVI_colonial_DEF: "Коронна колонія Навітряних островів"
+ SVI_colonial_ADJ: "британсько-карибськ"
+
+ SVI_colony: "Сент-Вінсент"
+ SVI_colony_DEF: "Коронна колонія Сент-Вінсенту"
+ SVI_colony_ADJ: "британсько-карибськ"
+
+ SLU_colonial: "Сент-Люсія"
+ SLU_colonial_DEF: "Коронна колонія Сент-Люсії"
+ SLU_colonial_ADJ: "британсько-карибськ"
+
+ DMI_colonial: "Домініка"
+ DMI_colonial_DEF: "Коронна колонія Домініки"
+ DMI_colonial_ADJ: "британсько-карибський"
+
+ GND_colonial: "Гренада"
+ GND_colonial_DEF: "Коронна колонія Гренади"
+ GND_colonial_ADJ: "британсько-карибськ"
+
+ GUY_col: "Британська Гвіана"
+ GUY_col_DEF: "Коронна колонія Британська Гвіана"
+ GUY_col_ADJ: "гвіанськ"
  
  ###PHILIPPINES
+ FGB_PHI: "Третя Філіппінська Республіка"
+ FGB_PHI_DEF: "Третя Республіка Філіппін"
+ FGB_PHI_ADJ: "Філіппінськ"
  
  PHI_JAP_Administration: "Сейфу Фіріпін Шото Рінджі"
  PHI_JAP_Administration_DEF: "Сейфу Фіріпін Шото Рінджі"
@@ -778,9 +703,18 @@ CHL_fascist_ADJ: "Чилійськ"
 
 STC_banzer_war: "Східна армія"
 STC_banzer_war_DEF: "Болівійська східна армія"
-STC_banzer_peace_DEF: "Східно-армійськ"
+STC_banzer_peace: "Болівійський союз"
+STC_banzer_peace_DEF: "Болівійський союз"
 
-STC_oriental_republic_DEF: "Східна Республіка Санта-Круз"
+STC_oriental_republic: "Східна Республіка Санта-Крус"
+STC_oriental_republic_DEF: "Східна Республіка Санта-Крус"
+
+GUN_Revolution: "Бразильська рятівна хунта"
+GUN_Revolution_DEF: "Бразильська рятівна хунта"
+GUN_Revolution_ADJ: "бразильськ"
+
+BRP_civil_war: "" # Амазонська анархія
+BRP_civil_war_DEF: "" # Амазонська анархія
 
 # France
  FRA_republic: "Французька Республіка"
@@ -866,3 +800,15 @@ STC_oriental_republic_DEF: "Східна Республіка Санта-Кру�
  CME_PACIFICA_DEF: "Конфедеративні штати Бретань та Північна Кароліна"
  CME_PACIFICA_ADJ: "Бретаньськ-Каролінськ"
  CME_PACIFICA_party: "Головний комп'ютер Блок керування"
+ 
+ PAK_NWFP: "Північно-Західна прикордонна провінція"
+ PAK_NWFP_DEF: "Північно-Західна прикордонна провінція"
+ PAK_NWFP_ADJ: "пуштунськ"
+
+ PAK_PM: "Північно-Західна прикордонна провінція"
+ PAK_PM_DEF: "Північно-Західна прикордонна провінція"
+ PAK_PM_ADJ: "пуштунськ"
+
+ PAK_DOMINION: "Домініон Пакистан"
+ PAK_DOMINION_DEF: "Домініон Пакистан"
+ PAK_DOMINION_ADJ: "пакистанськ"

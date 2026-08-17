@@ -1,33 +1,33 @@
 ﻿l_english:
  ### Country Names ###
- GNB: "Guinea-Bissau"
- GNB_DEF: "the Republic of Guinea-Bissau"
- GNB_ADJ: "Bissau-Guinean"
+ GNB: "Гвінея-Бісау"
+ GNB_DEF: "Республіка Гвінея-Бісау"
+ GNB_ADJ: "гінеє-бісауанськ"
 
  ### Parties ###
  GNB_communist_party: "PAIGC"
- GNB_communist_party_long: "African Party for the Independence of Guinea and Cape Verde"
+ GNB_communist_party_long: "Африканська партія незалежності Гвінеї та Кабо-Верде"
  GNB_socialist_party: "PAIGC"
- GNB_socialist_party_long: "African Party for the Independence of Guinea and Cape Verde"
+ GNB_socialist_party_long: "Африканська партія незалежності Гвінеї та Кабо-Верде"
  GNB_progressivism_party: "PAIGC"
- GNB_progressivism_party_long: "African Party for the Independence of Guinea and Cape Verde"
- GNB_liberalism_party: "Disorganized Liberal Opposition"
- GNB_liberalism_party_long: "Disorganized Liberal Opposition"
+ GNB_progressivism_party_long: "Африканська партія незалежності Гвінеї та Кабо-Верде"
+ GNB_liberalism_party: "Неорганізована ліберальна опозиція"
+ GNB_liberalism_party_long: "Неорганізована ліберальна опозиція"
 
  ### Characters ###
- GNB_Amilcar_Cabral: "Amílcar Cabral"
- GNB_Francisco_Mendes: "Francisco Mendes"
- GNB_Victor_Saude_Maria: "Victor Saúde Maria"
- GNB_Constantino_Teixeira: "Constantino Teixeira"
+ GNB_Amilcar_Cabral: "Амілкар Кабрал"
+ GNB_Francisco_Mendes: "Франсішку Мендеш"
+ GNB_Victor_Saude_Maria: "Віктор Сауде Марія"
+ GNB_Constantino_Teixeira: "Константіно Тейшейра"
 
  ## Minister Descs ##
- GNB_Francisco_Mendes_hog_desc: "§YHead of Government\nSocialism§!\n--------------\n"
- GNB_Victor_Saude_for_desc: "§YForeign Minister\nSocialism§!\n--------------\n"
- GNB_Constantino_Teixeira_eco_desc: "§YEconomy Minister\nSocialism§!\n--------------\n"
- GNB_Francisco_Mendes_sec_desc: "§YSecurity Minister\nSocialism§!\n--------------\n"
+ GNB_Francisco_Mendes_hog_desc: "§YГолова уряду\nСоціалізм§!\n--------------\n"
+ GNB_Victor_Saude_for_desc: "§YМіністр закордонних справ\nСоціалізм§!\n--------------\n"
+ GNB_Constantino_Teixeira_eco_desc: "§YМіністр економіки\nСоціалізм§!\n--------------\n"
+ GNB_Francisco_Mendes_sec_desc: "§YМіністр безпеки\nСоціалізм§!\n--------------\n"
 
  ### Ideas ###
- GNB_Denied_Refuge: "Denied Refuge"
+ GNB_Denied_Refuge: "Відмова в притулку"
  GNB_Denied_Refuge_desc: ""
- GNB_Arriaga_Bombing: "Arriaga's Carpet Bombing"
+ GNB_Arriaga_Bombing: "Килимове бомбардування Арріаги"
  GNB_Arriaga_Bombing_desc: ""

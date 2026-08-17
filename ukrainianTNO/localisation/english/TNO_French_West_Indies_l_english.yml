@@ -1,0 +1,162 @@
+﻿l_english:
+ ## Референдум у Французькій Вест-Індії
+
+ TNO_fwi_referendum_category_desc_usa: "§RЗаворушення та антиамериканізм§! набирають сили на [FWI.GetFlag] §WАнтильських островах§!, оскільки [USA.GetFlag] §mнаше§! юридичне обґрунтування окупації островів добігає кінця. У відповідь §mВерховний комісар Лемніцер§! розробив план поступового переходу до керованої незалежності. Щоб зберегти §Gстабільність у Карибському басейні§!, ми маємо забезпечити легітимізацію його §*Плану Конфедерації§! через §Yнародний референдум§!.\n\nОднак референдум привернув §Rопортуністів§!, які прагнуть §aперешкодити§! нашій присутності в Карибському басейні. Якщо втручання [MEX.GetFlag] [IBR.GetFlag] §Kїхніх§! §Oінтерф§!§nеренцій§! вийде з-під контролю, ми завжди можемо §Yпроігнорувати результати...§!"
+ TNO_fwi_referendum_category_desc_mex: "Відтоді як §,фашисти§! окупували [FRA.GetFlag] §aФранцію§!, [FWI.GetFlag] §WГваделупа та Мартиніка§! також перебувають під окупацією. [USA.GetFlag] §mГрінґо§! перебрали на себе роль колоніальної держави на [FWI.GetFlag] §WАнтильських островах§!, §Rігноруючи місцеве самоврядування§!. Тепер вони прагнуть змінити фасад цього імперіалізму, замінивши відкрите правління маріонетковою §*Конфедерацією§! через §Yнародний референдум§!.\n\nАле ця можливість дозволяє [MEX.GetFlag] §Kнам§! та [IBR.GetFlag] §Oпевним опорт§!§nуністам§! підтримати природне прагнення народів Америки до §Gнезалежності§! та §Gсамовизначення§!. Веракруський пакт розірве всі кайдани!"
+ TNO_fwi_referendum_category_desc_ibr: "[IBR.GetFlag] §OІбе§!§nрійські§! флоти колись борознили Карибське море, доставляючи до Севільї цілі кораблі §fрозкошів§!. Можливості моря нікуди не зникли, але наша §Gгегемонія§! перейшла до §Rінших рук§!. Її сучасний колос, [USA.GetFlag] §mСША§!, вже два десятиліття окупує [FWI.GetFlag] §WАнтильські острови§!. Знемагаючи під відкритим англосаксонським правлінням, острови тепер готуються до §Yреферендуму§!, який має встановити §*Конфедерацію§! під §mамериканським контролем§!.\n\nЯкщо наших братів-§aлатинів§! переконати §Rвідкинути§! це, сучасні [IBR.GetFlag] §Oконкі§!§nстадори§! зможуть закріпитися тут і відкрити шлях до §fприбуткової торгівлі§! їхніх предків."
+
+ TNO_french_west_indies_referendum_chance:0 "Поточний прогнозований результат:\n[GetFWIReferendumEstimatedResult].\n[GetFWIReferendumActionCounter]"
+
+ TNO_FWI_Referendum_Estimated_Result_1: "§YБеззаперечна перемога §BAвтономного плану§!§!"
+ TNO_FWI_Referendum_Estimated_Result_2: "§BНезначна§! §Yперемога §BAвтономного плану§!§!"
+ TNO_FWI_Referendum_Estimated_Result_3: "§RНічия§!"
+ TNO_FWI_Referendum_Estimated_Result_4: "§BНезначна§! §Yперемога §mПлану Конфедерації§!§!"
+ TNO_FWI_Referendum_Estimated_Result_5: "§YБеззаперечна перемога §mПлану Конфедерації§!§!"
+
+
+ TNO_french_west_indies_referendum_mendesist: "§mПлан Конфедерації§!"
+ TNO_french_west_indies_referendum_gaullist: "§QПлан автономії§!"
+
+ TNO_french_west_indies_referendum_vote_split: "§m[?FWI.FWI_referendum_favor|%%]§!\n§B[?FWI.FWI_referendum_anti_favor|%%]§!"
+
+ USA_FWI_referendum_FakeMission_1_Title: "§YРеферендум проведено...§!"
+ USA_FWI_referendum_FakeMission_1_Duration: "§Y[?ZZZ.days_mission_timeout@ZZZ_FWI_Referendum_Deadline|0] днів§!"
+ USA_FWI_referendum_FakeMission_1_tt: ""
+ USA_FWI_referendum_empty_space: "$USA_FWI_referendum_FakeMission_1_Title$"
+ MEX_FWI_referendum_empty_space: "$USA_FWI_referendum_FakeMission_1_Title$"
+ IBR_FWI_referendum_empty_space: "$USA_FWI_referendum_FakeMission_1_Title$"
+
+ TNO_FWI_referendum_mendesist_increase_low: "Це дещо збільшить підтримку §mПлану Конфедерації§!."
+ TNO_FWI_referendum_mendesist_increase_med: "Це збільшить підтримку §mПлану Конфедерації§!."
+ TNO_FWI_referendum_mendesist_increase_high: "Це значно збільшить підтримку §mПлану Конфедерації§!."
+
+ TNO_FWI_referendum_gaullist_increase_low: "Це дещо збільшить підтримку §BAвтономного плану§!."
+ TNO_FWI_referendum_gaullist_increase_med: "Це збільшить підтримку §BAвтономного плану§!."
+ TNO_FWI_referendum_gaullist_increase_high: "Це значно збільшить підтримку §BAвтономного плану§!."
+
+# Рішення США
+ USA_FWI_FUBAR: "Ми ризикуємо програти референдум"
+ FWI_Referendum_USA_VETO: "Сполучені Штати більше не вважають референдум важливим"
+ USA_FWI_referendum_veto: "Підготувати президентське вето"
+ USA_FWI_referendum_veto_desc: "Ми можемо ще раз наголосити, що голосування не має обов'язкової сили, та накласти вето на результати, якщо референдум іде не на нашу користь."
+ USA_FWI_referendum_veto_tt: "§RЦе рішення, безперечно, буде погано сприйняте нашими партнерами в Карибському басейні.§!"
+
+ USA_FWI_referendum_make_valentino_the_figurehead: "Зробити Валентіно публічним обличчям"
+ USA_FWI_referendum_make_valentino_the_figurehead_desc: "Лемніцер є автором Плану Конфедерації, але його обличчям не може бути літній американський генерал. Надійного місцевого політика Поля Валентіно можна висунути очільником кампанії..."
+
+ USA_FWI_referendum_paint_a_brighter_future: "Намалювати світле майбутнє"
+ USA_FWI_referendum_paint_a_brighter_future_desc: "Parti Socialiste Валентіно нагадує мешканцям Фор-де-Франса та Пуент-а-Пітра, що голос за Конфедерацію — це голос за незалежність. На зрозумілих умовах, із відновленою дружбою та процвітанням. Переконаймося, що це послання дійде до всіх островів!"
+
+ USA_FWI_referendum_professionalize_the_campaign: "Професіоналізувати кампанію"
+ USA_FWI_referendum_professionalize_the_campaign_desc: "Цього року в США немає виборів. Заберімо кількох звичних організаторів нашої партії, наймімо їм перекладача французької — і проведімо цей референдум."
+
+ USA_FWI_referendum_promote_safety_in_the_confederation: "Пообіцяти безпеку в Конфедерації"
+ USA_FWI_referendum_promote_safety_in_the_confederation_desc: "Фашисти та кастристи нишпорять Карибським басейном. Гваделупа та Мартиніка поодинці є легкою здобиччю, але разом вони вистоять! Голосуйте «Так», щоб захистити свою громаду."
+
+ USA_FWI_referendum_increase_development_subsides: "Збільшити субсидії на розвиток"
+ USA_FWI_referendum_increase_development_subsides_desc: "Операція «Підйом» дала зворотний ефект, але попередня американська допомога допомогла налагодити гармонійні зв'язки між бізнесом, профспілками та урядом Антильських островів. Новий фінансовий поштовх має пожвавити економіку й підтримати наших союзників якраз до референдуму."
+
+ USA_FWI_referendum_encouragement_at_the_polls: "Заохочення безпосередньо на дільницях"
+ USA_FWI_referendum_encouragement_at_the_polls_desc: "Американські солдати захищали Антильські острови протягом двох десятиліть. Охорона дільниць запобігатиме будь-яким витівкам... і відбиватиме бажання у неправильних людей висловлювати свої неправильні думки."
+
+ USA_FWI_referendum_discredit_autonomist_zealots: "Дискредитувати автономістських фанатиків"
+ USA_FWI_referendum_discredit_autonomist_zealots_desc: "Подивіться, хто виступає проти Конфедерації — комуністи та єврофіли! Опублікуймо матеріал із розслідуванням того, хто саме підтримує автономію, і свідомі виборці триматимуться подалі."
+ USA_FWI_referendum_discredit_autonomist_zealots_tt: "\nЦе рішення стане ефективнішим, якщо §Bавтономісти§! матимуть перевагу в опитуваннях."
+
+ USA_FWI_referendum_interrupt_the_instigators: "Перервати діяльність підбурювачів"
+ USA_FWI_referendum_interrupt_the_instigators_desc: "Канцелярія Верховного комісара повідомляє, що мексиканці та іберійці прибувають на острови напередодні голосування. Тягнімо агентів на допити, а дипломатів — на якісь безглузді зустрічі, щоб підірвати їхній саботаж."
+
+ USA_FWI_referendum_involve_our_dominican_allies: "Залучити наших союзників у Домініканській Республіці"
+ USA_FWI_referendum_involve_our_dominican_allies_desc: "Наші домініканські союзники долучаться до кампанії за референдум, схиливши ще одну карибську кістку доміно на наш бік."
+
+ # Рішення Мексики
+ MEX_FWI_referendum_invite_archimede: "Запросити Архімеда на Веракруський форум"
+ MEX_FWI_referendum_invite_archimede_desc: "Запрошення чорношкірої гваделупської комуністки на Форум буде суперечливим як усередині країни, так і за кордоном, але підвищить її авторитет у боротьбі за незалежність. Її промова все одно буде французькою, тож ризик комуністичного зараження невеликий."
+
+ MEX_FWI_referendum_fund_pcg_protests: "Фінансувати протести PCG"
+ MEX_FWI_referendum_fund_pcg_protests_desc: "Комуністична партія Гваделупи є одним із найефективніших противників американського Плану Конфедерації. Підкріплені песо, вони зможуть вивести противників на вулиці Ле-Абім."
+
+ MEX_FWI_referendum_publish_discourse_on_colonialism: "Опублікувати «Роздуми про колоніалізм»"
+ MEX_FWI_referendum_publish_discourse_on_colonialism_desc: "Поет і політик Еме Сезер засуджував американський колоніалізм із такою ж люттю, з якою колись засуджував французький. Книжковий контракт із Fondo de Cultura Económica профінансує його кампанію проти Конфедерації."
+
+ MEX_FWI_referendum_agitate_in_fort_de_france: "Провести агітацію у Фор-де-Франсі"
+ MEX_FWI_referendum_agitate_in_fort_de_france_desc: "У нетрях Мартиніки живуть ті, хто найбільше постраждав від провалів Цивільної адміністрації. Нам залишається лише нагадати їм про це та довести до виборчих дільниць."
+
+ MEX_FWI_referendum_soothe_tempers: "Заспокоїти Вашингтон"
+ MEX_FWI_referendum_soothe_tempers_desc: "Кілька навмисно слабких ударів у Карибському басейні та розмови з Фултоном і Скоттом у Федеральному окрузі нагадають грінґо, що наше «втручання» в справи Антильських островів — лише вистава для внутрішнього споживання."
+
+ MEX_FWI_referendum_critique_operation_uplift: "Розкритикувати операцію «Підйом»"
+ MEX_FWI_referendum_critique_operation_uplift_desc: "Невдала програма розвитку північноамериканців загрузила Гваделупу та Мартиніку в бідності. Передаймо бізнесменам і бюрократам на островах нищівний звіт — і вони зрозуміють необхідність обрати власний шлях."
+
+ MEX_FWI_referendum_decry_the_occupation: "Засудити окупацію"
+ MEX_FWI_referendum_decry_the_occupation_desc: "Сам президент Мадрасо виступить із промовою про несправедливість триваючого втручання США у справи Антильських островів. Промова може бути іспанською, але праведний грім зрозумілий усім."
+
+ MEX_FWI_referendum_send_ctm_envoys: "Надіслати представників CTM"
+ MEX_FWI_referendum_send_ctm_envoys_desc: "Політика «Нового курсу», нав'язана США Антильським островам, призвела до появи сильних профспілок на островах. Можливо, наші власні робітники зможуть переманити їх, показавши плоди мексиканської праці."
+ MEX_FWI_referendum_send_ctm_envoys_tt: "\n§VРобітники§!, які мають високий §Yвплив§! у §nP§!§dR§!§VI§!, підвищать ефективність цього рішення."
+
+ MEX_FWI_referendum_rush_in_francophone_diplomats: "Терміново відправити франкомовних дипломатів"
+ MEX_FWI_referendum_rush_in_francophone_diplomats_desc: "У нас немає жодних значних дипломатичних представництв на Гваделупі та Мартиніці. Якщо ми хочемо належно скористатися цією можливістю, нам потрібні такі франкомовні люди, як Пепе Гальястегі, — ще вчора."
+
+ MEX_FWI_referendum_train_in_election_techniques: "Навчити виборчих «технік»"
+ MEX_FWI_referendum_train_in_election_techniques_desc: "Деякі лідери громад Антильських островів відомі як противники американського панування. Трохи навчання каруселям із вкидання бюлетенів та заздалегідь заповненим урнам зробить їх ще ефективнішими."
+
+ MEX_FWI_referendum_highlight_us_interference: "Викрити втручання США"
+ MEX_FWI_referendum_highlight_us_interference_desc: "Звісно, грінґо перешкоджатимуть реалізації національного самовизначення — вони роблять це на Антильських островах уже два десятиліття! Але щоб по-справжньому розлютити їхніх противників, нам знадобиться кілька конкретних прикладів... "
+ MEX_FWI_referendum_highlight_us_interference_tt: "\nЦе рішення стане ефективнішим, якщо §mконфедераціоністи§! матимуть перевагу в опитуваннях."
+
+ MEX_FWI_referendum_involve_our_dominican_allies: "Залучити наших союзників у Домініканській Республіці"
+ MEX_FWI_referendum_involve_our_dominican_allies_desc: "Наші домініканські союзники долучаться до кампанії за референдум, схиливши ще одну карибську кістку доміно на наш бік."
+
+ # Рішення Іберії
+ IBR_FWI_referendum_acquire_albrand_backing: "Заручитися підтримкою Альбранда"
+ IBR_FWI_referendum_acquire_albrand_backing_desc: "Медар Альбранд — політична сила плантаційної еліти Гваделупи, дружня до американців, але насамперед віддана інтересам власного класу. Якщо нам вдасться схилити його проти Конфедерації, ми завдамо їй нищівного удару."
+
+ IBR_FWI_referendum_faciliate_the_fraud: "Сприяти фальсифікації"
+ IBR_FWI_referendum_faciliate_the_fraud_desc: "Зв'язки Альбранда дозволили нам ізолювати окремі плантації та працювати з ними так, щоб близько 99% голосів можна було забезпечити проти Конфедерації."
+ IBR_FWI_referendum_faciliate_the_fraud_tt: "Наші відносини з §YАльбрандом§! значною мірою впливатимуть на ефект цього рішення."
+
+ IBR_FWI_referendum_collaborate_with_guilliod: "Співпрацювати з Гійо"
+ IBR_FWI_referendum_collaborate_with_guilliod_desc: "Реймонд Гійо — палкий антиамериканський популіст на Гваделупі, здатний зібрати потужну антиконфедераційну коаліцію. Багаторасову та надкласову — таку, що може відштовхнути деяких наших природних союзників на островах..."
+
+ IBR_FWI_referendum_court_martinique_conservatives: "Залучити консерваторів Мартиніки"
+ IBR_FWI_referendum_court_martinique_conservatives_desc: "Різні ліві течії на Мартиніці змушують респектабельних громадян розглядати Конфедерацію як можливий захист. Висунувши Едмона Вальсена як альтернативу, ми зможемо здобути нову підтримку."
+
+ IBR_FWI_referendum_recycle_separatist_propaganda: "Повторно використати сепаратистську пропаганду"
+ IBR_FWI_referendum_recycle_separatist_propaganda_desc: "До референдуму залишилося менше двох місяців, тож розкіш тонкощів нам недоступна. Витягнімо з архівів трохи сепаратистського мотлоху, перекладемо французькою та десь приліпимо назву Гваделупи чи Мартиніки."
+ 
+ IBR_FWI_referendum_guide_the_flock: "Спрямувати паству"
+ IBR_FWI_referendum_guide_the_flock_desc: "Священики по всіх Антильських островах мають вагомі причини з підозрою ставитися до безбожних американців. Кілька послань — і вони спрямують своїх парафіян проти Конфедерації."
+
+ IBR_FWI_referendum_convince_the_planteurs: "Переконати плантаторів"
+ IBR_FWI_referendum_convince_the_planteurs_desc: "На Антильських островах панують плантатори, багато з яких цілком справедливо обурені проваленими американськими програмами урбанізації. Влаштуймо кілька вечерь — і їхня природна опозиція до Конфедерації розквітне."
+
+ IBR_FWI_referendum_frighten_the_beke: "Налякати бекé"
+ IBR_FWI_referendum_frighten_the_beke_desc: "Нечисленні білі мешканці Антильських островів є опорою своїх громад. Кілька актів саботажу переконають їх, що Конфедерація не здатна захистити їх від чорношкірих комуністів, які їх оточують."
+ IBR_FWI_referendum_frighten_the_beke_tt: "\nЦе рішення стане ефективнішим, якщо §aФранцузькі Вест-Індії§! будуть §Rнестабільними§!."
+
+ IBR_FWI_referendum_the_tried_and_true: "Перевірений часом метод"
+ IBR_FWI_referendum_the_tried_and_true_desc: "Після того як Антильські острови вирвуться з американських обіймів, перед ними відкриється цілий світ торгівлі. Ми дамо кільком впливовим плантаторам скуштувати того, що на них чекає."
+
+ IBR_FWI_referendum_involve_our_french_allies: "Залучити наших французьких союзників"
+ IBR_FWI_referendum_involve_our_french_allies_desc: "Вільні французи пропонують цінну альтернативу американському пануванню та прагнуть розширити власний вплив на Антильських островах. Ми запропонуємо їм транспорт до Бас-Тера."
+
+ IBR_FWI_referendum_involve_our_dominican_allies: "Залучити наших союзників у Домініканській Республіці"
+ IBR_FWI_referendum_involve_our_dominican_allies_desc: "Наші домініканські союзники долучаться до кампанії за референдум, схиливши ще одну карибську кістку доміно на наш бік."
+
+ # Підказки
+ fwi_referendum_can_act_tt: "Активні менше 3 дій"
+
+ fwi_referendum_active_decisions_text: "[GetFWIReferendumActionCounter]"
+ fwi_referendum_active_decisions_text_USA: "§Y[?USA.fwi_referendum_USA_actions_counter]/3 активних дій§!"
+ fwi_referendum_active_decisions_text_MEX: "§Y[?MEX.fwi_referendum_MEX_actions_counter]/3 активних дій§!"
+ fwi_referendum_active_decisions_text_IBR: "§Y[?IBR.fwi_referendum_IBR_actions_counter]/3 активних дій§!"
+
+ IBR_FWI_referendum_increase_albrand_backing_tt: "Це §Gпокращить§! наші відносини з §YАльбрандом§!"
+ IBR_FWI_referendum_decrease_albrand_backing_tt: "Це §Rпогіршить§! наші відносини з §YАльбрандом§!"
+
+ USA_FWI_referendum_not_interfered_tt: "Наші противники ще не проникли на острови"
+
+ TNO_FWI_referendum_gaullist_modifier_increase_tt: "Це §*назавжди§! §Gпідвищить§! ефективність усіх рішень §BAвтономного плану§!."
+ TNO_FWI_referendum_gaullist_modifier_decrease_tt: "Це §*тимчасово§! §Rзнизить§! ефективність усіх рішень §BAвтономного плану§!."
+ TNO_FWI_referendum_mendesist_modifier_tt: "Це §*назавжди§! §Gпідвищить§! ефективність усіх рішень §mПлану Конфедерації§!."
