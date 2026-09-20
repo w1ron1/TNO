@@ -1,13 +1,13 @@
 ﻿l_english:
  #Country Names
- PAP:0 "Republic of Papua"
- PAP_DEF:0 "Republic of Papua"
- PAP_ADJ:0 "Papuan"
+ PAP:0 "Республіка Папуа"
+ PAP_DEF:0 "Республіка Папуа"
+ PAP_ADJ:0 "папуаськ."
 
  #cosmetic tag
- PAP_AST_paternalism:0 "OFN Mandate Papua"
- PAP_AST_paternalism_DEF:0 "the OFN Mandate of Papua"
- PAP_AST_paternalism_ADJ:0 "Papuan"
+ PAP_AST_paternalism:0 "Мандат ОВН над Папуа"
+ PAP_AST_paternalism_DEF:0 "Папуа під мандатом ОВН"
+ PAP_AST_paternalism_ADJ:0 "папуаськ."
  #Parties
- PAP_paternalism_party:0 "OFN Administration"
- PAP_paternalism_long:0 "Organization of Free Nations Administration"
+ PAP_paternalism_party:0 "Адміністрація ОВН"
+ PAP_paternalism_long:0 "Адміністрація Організації вільних націй"
