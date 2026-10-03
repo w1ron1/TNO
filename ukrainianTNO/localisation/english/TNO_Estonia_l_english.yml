@@ -3,14 +3,14 @@
 ####PARTY NAMES#####
  EST_fascism_party:0 ""
  EST_fascism_party_long:0 ""
- EST_national_socialism_party:0 "NSDAP"
- EST_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ EST_national_socialism_party:0 "НСДАП"
+ EST_national_socialism_party_long:0 "Націонал-соціялістична німецька робітнича партія"
  EST_ultranationalism_party:0 ""
  EST_ultranationalism_party_long:0 ""
  EST_despotism_party:0 ""
  EST_despotism_party_long:0 ""
- EST_paternalism_party:0 "Einheitspartei"
- EST_paternalism_party_long:0 "Einheitspartei"
+ EST_paternalism_party:0 "Партія єдності"
+ EST_paternalism_party_long:0 "Партія єдності"
  EST_conservatism_party:0 ""
  EST_conservatism_party_long:0 ""
  EST_liberalism_party:0 ""
@@ -23,6 +23,7 @@
  EST_communist_party_long:0 ""
  
  ### Leaders ###
- EST_Alfons_Rebane:0 "Alfons Rebane"
- POLITICS_ALFONS_REBANE_DESC: "Alfons Rebane is very disappointed. He would have thought that the Greater German Reich, the masters of Europe, would at least be able to keep their own country stable. Now Rebane has to deal with the mess they left in Estonia. And leave a mess, they did. There's mass unrest across the country, open hostility between Estonians, even German groups sacking the place like the world is ending.\n\nRebane didn't always have to do this. He was a dedicated Estonian, loyal to his country. That's why it was so devastating when the Soviets conquered it. Rebane hid in the forests, hiding from the Russian dogs who would deport him. Then the Germans invaded. Rebane quickly joined the Wehrmacht, believing the Germans would liberate Estonia after the war. The Germans won, and it seemed the Baltic's freedom was guaranteed. All Rebane had to do was collaborate and wait. And wait. And wait. And wait some more.\n\nIt became clear that an independent Estonia was not going to happen. Rebane couldn't do anything about it, and being under German control was better than being under Russian control, after all, so he stuck around with the Germans. And then the Germans collapsed. Rebane knew his time was now. He launched a coup in Estonia, and declared the independence of the new country. Well, temporarily, until the Germans come back. His main goal is to "secure the area" while the Germans are in chaos. Considering the fact that he has already set up new government buildings and is purging the former German administration from all affairs of state, this seems unlikely, but only time will tell what happens with Estonia."
+ EST_Alfons_Rebane:0 "Альфонс Ребане"
+ POLITICS_ALFONS_REBANE_DESC: "Альфонс Ребане дуже розчарований. Він гадав, що Великоґерманський Райх, господарі Європи, принаймні спроможні втримати стабільність у власній країні. Тепер Ребане доводиться мати справу з безладом, який вони залишили в Естонії. А безладу вони залишили чимало. По всій країні панують масові заворушення, естонці відкрито ворогують між собою, а навіть німецькі угруповання грабують усе навколо так, наче настає кінець світу.\n\nРебане не завжди мусив займатися цим. Він був відданим естонцем, вірним своїй країні. Саме тому радянське завоювання стало для нього таким нищівним. Ребане переховувався в лісах, ховаючись від російських псів, які могли депортувати його. Потім вторглися німці. Ребане швидко вступив до Вермахту, вірячи, що після війни німці визволять Естонію. Німці перемогли, і здавалося, що свобода Балтії гарантована. Ребане залишалося лише співпрацювати й чекати. І чекати. І чекати. І чекати ще трохи.\n\nСтало зрозуміло, що незалежній Естонії не судилося постати. Ребане нічого не міг із цим вдіяти, а перебувати під німецьким контролем зрештою було краще, ніж під російським, тож він залишився з німцями. А потім німці впали. Ребане знав, що його час настав. Він здійснив переворот в Естонії та проголосив незалежність нової країни. Щоправда, тимчасово — доки німці не повернуться. Його головна мета — «забезпечити безпеку в регіоні», поки німці перебувають у хаосі. Зважаючи на те, що він уже створив нові урядові будівлі та усуває колишню німецьку адміністрацію від усіх державних справ, це видається малоймовірним, але лише час покаже, що станеться з Естонією."
+ 
  

@@ -1,21 +1,21 @@
 ﻿l_english:
- ### Country Names ###
- AZD: "Azandeland"
- AZD_DEF: "Azandeland"
- AZD_ADJ: "Azandi"
+ ### Назви країн ###
+ AZD: "Азанделанд"
+ AZD_DEF: "Азанделанд"
+ AZD_ADJ: "Азандійськ."
 
- ## Cosmetic Tags ##
- AZD_Zaire: "Republic of Zaire"
- AZD_Zaire_DEF: "the Republic of Zaire"
- AZD_Zaire_ADJ: "Zairian"
+ ## Косметичні теги ##
+ AZD_Zaire: "Республіка Заїр"
+ AZD_Zaire_DEF: "Республіка Заїр"
+ AZD_Zaire_ADJ: "Заїрськ."
 
- ### Parties ###
- AZD_paternalism_party: "CMR - Intérêts Commerciaux"
- AZD_paternalism_party_long: "Conseil Militaire de la Révolution - Intérêts Commerciaux"
- AZD_despotism_party: "CMR - Militaristes"
- AZD_despotism_party_long: "Conseil Militaire de la Révolution - Militaristes"
- AZD_fascism_party: "CMR - Authenticité"
- AZD_fascism_party_long: "Conseil Militaire de la Révolution - Authenticité"
+ ### Партії ###
+ AZD_paternalism_party: "РВР - Комерційні інтереси"
+ AZD_paternalism_party_long: "Революційна військова рада - Комерційні інтереси"
+ AZD_despotism_party: "РВР - Мілітаристи"
+ AZD_despotism_party_long: "Революційна військова рада - Мілітаристи"
+ AZD_fascism_party: "РВР - Аутентичність"
+ AZD_fascism_party_long: "Революційна військова рада - Аутентичність"
 
- ### Characters ###
- AZD_Mobutu_Sese_Soko: "Mobutu Sese Seko"
+ ### Персонажі ###
+ AZD_Mobutu_Sese_Soko: "Мобуту Сесе Секо"

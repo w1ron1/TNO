@@ -1,52 +1,99 @@
 ﻿l_english:
- TUN_fascism:0 "Tunisin State"
- TUN_fascism_DEF:0 "the Tunisia State"
- TUN_liberalism:0 "Kingdom of Tunisia"
- TUN_liberalism_DEF:0 "the Kingdom of Tunisia"
- TUN_conservatism:0 "Kingdom of Tunisia"
- TUN_conservatism_DEF:0 "the Kingdom of Tunisia"
- TUN_paternalism:0 "Kingdom of Tunisia"
- TUN_paternalism_DEF:0 "the Kingdom of Tunisia"
- TUN_despotism:0 "Kingdom of Tunisia"
- TUN_despotism_DEF:0 "the Kingdom of Tunisia"
- TUN_communist:0 "Tunisian Federation"
- TUN_communist_DEF:0 "Tunisian"
- TUN_socialist:0 "Tunisian Federation"
- TUN_socialist_DEF:0 "Tunisian"
- TUN_national_socialism:0 "Tunisian Republic"
- TUN_national_socialism_DEF:0 "the Republic of Tunisia"
- TUN_ultranationalism:0 "Tunisian State"
- TUN_ultranationalism_DEF:0 "the Tunisian State"
- TUN_fascism_ADJ:0 "Tunisian"
- TUN_liberalism_ADJ:0 "Tunisian"
- TUN_conservatism_ADJ:0 "Tunisian"
- TUN_paternalism_ADJ:0 "Tunisian"
- TUN_communist_ADJ:0 "Tunisian"
- TUN_despotism_ADJ:0 "Tunisian"
- TUN_socialist_ADJ:0 "Tunisian"
- TUN_ultranationalism_ADJ:0 "Tunisian"
- TUN_national_socialism_ADJ:0 "Tunisian"
+  ### Country Names ###
+  TUN_communist:0 "Туніська федерація"
+  TUN_communist_DEF:0 "Туніська федерація"
+  TUN_liberalism:0 "Туніс"
+  TUN_liberalism_DEF:0 "Туніс"
+  TUN_conservatism:0 "Королівство Туніс"
+  TUN_conservatism_DEF:0 "Королівство Туніс"
+  TUN_paternalism:0 "Королівство Туніс"
+  TUN_paternalism_DEF:0 "Королівство Туніс"
+  TUN_progressivism:0 "Туніс"
+  TUN_progressivism_DEF:0 "Туніс"
+  
+  TUN_ITA:0 "Королівство Туніс"
+  TUN_ITA_DEF:0 "Королівство Туніс"
+  TUN_ITA_ADJ:0 "туніський"
 
-##Parties##
-TUN_communist_party:0 "PC"
-TUN_communist_party_long:0 "Partito Comunista"
-TUN_socialist_party:0 "PSI"
-TUN_socialist_party_long:0 "Partito Socialista Italiano"
-TUN_progressivism_party:0 "PSDI"
-TUN_progressivism_party_long:0 "Partito Socialista Democratico Italiano"
-TUN_liberalism_party:0 "PI"
-TUN_liberalism_party_long:0 "Partito Italiano"
-TUN_conservatism_party:0 "GR-C"
-TUN_conservatism_party_long:0 "Gaddafi Regime-Conservative"
-TUN_paternalism_party:0 "GR-G"
-TUN_paternalism_party_long:0 "Gaddafi Regime-Gaddafi"
-TUN_despotism_party:0 "GR-U"
-TUN_despotism_party_long:0 "Gaddafi Regime-Umberto"
-TUN_fascism_party:0 "GR-F"
-TUN_fascism_party_long:0 "Gaddafi Regime-Fascist"
-TUN_national_socialism_party:0 "ASBP-TUN"
-TUN_national_socialism_party_long:0 "Arab Socialist Ba'ath Party-Tunisia"
-TUN_ultranationalism_party:0 "GLP"
-TUN_ultranationalism_party_long:0 "Green Libya Party"
-#Characters
-TUN_Husain_Bey:0 "Husain Bey"
+  TUN_despotism:0 "Королівство Туніс"
+  TUN_despotism_DEF:0 "Королівство Туніс"
+  TUN_fascism:0 "Королівство Туніс"
+  TUN_fascism_DEF:0 "Королівство Туніс"
+  TUN_national_socialism:0 "Туніська держава"
+  TUN_national_socialism_DEF:0 "Туніська держава"
+  TUN_ultranationalism:0 "Туніська держава"
+  TUN_ultranationalism_DEF:0 "Туніська держава"
+ 
+  TUN_ADJ:0 "туніський"
+ 
+  ##Parties##
+  TUN_communist_party:0 "ПК"
+  TUN_communist_party_long:0 "Комуністична партія"
+  TUN_socialist_party:0 "ІСП"
+  TUN_socialist_party_long:0 "Італійська соціялістична партія"
+  #TUN_progressivism_party:0 "PSDI"
+  #TUN_progressivism_party_long:0 "Partito Socialista Democratico Italiano"
+  TUN_progressivism_party:0 "Нео-Дестур"
+  TUN_progressivism_party_long:0 "Вільна конституційна партія"
+  #TUN_liberalism_party:0 "PI"
+  #TUN_liberalism_party_long:0 "Partito Italiano"
+  #TUN_conservatism_party:0 "GR-C"
+  #TUN_conservatism_party_long:0 "Gaddafi Regime-Conservative"
+  #TUN_paternalism_party:0 "GR-G"
+  #TUN_paternalism_party_long:0 "Gaddafi Regime-Gaddafi"
+  TUN_paternalism_party:0 "Двір бея"
+  TUN_paternalism_party_long:0 "Двір бея"
+  TUN_despotism_party:0 "Ед-Дустур"
+  TUN_despotism_party_long:0 "Партія вільної конституції"
+  #TUN_fascism_party:0 "GR-F"
+  #TUN_fascism_party_long:0 "Gaddafi Regime-Fascist"
+  TUN_fascism_party:0 "НФП"
+  TUN_fascism_party_long:0 "Національна фашистська партія"
+  TUN_national_socialism_party:0 "ПАСБ-ТУН"
+  TUN_national_socialism_party_long:0 "Арабська соціялістична партія Баас — Туніс"
+  TUN_ultranationalism_party:0 "ПЗЛ"
+  TUN_ultranationalism_party_long:0 "Партія зеленої Лівії"
+
+  TUN_liberalism_party:0 "Дестур"
+  TUN_liberalism_party_long:0 "Партія вільної конституції"
+  TUN_conservatism_party:0 "Дестур"
+  TUN_conservatism_party_long:0 "Партія вільної конституції"
+
+  ### Characters ###
+  TUN_Husain_Bey:0 "Хусейн Бей"
+  TUN_Muhammad_VIII:0 "Мухаммад VIII"
+  TUN_Mohamed_Ennafaa:0 "Мохамед Еннафаа"
+  TUN_Habib_Bourguiba:0 "Хабіб Бурґіба"
+  TUN_Georges_Adda:0 "Жорж Адда"
+  TUN_Habib_Thameur:0 "Хабіб Тамер"
+  TUN_Mustapha_Kaak:0 "Мустафа Каак"
+  TUN_Mohamed_Chenik:0 "Мохамед Шенік"
+  TUN_Mohamed_Habib_Essoussi:0 "Мохамед Хабіб Ессуссі"
+  TUN_Hedi_Nouira:0 "Хеді Нуїра"
+  TUN_Salah_Farhat:0 "Салах Фархат"
+  TUN_Enrico_Bombieri:0 "Енріко Бомб'єрі"
+
+ ### Leader Bios ###
+ POLITICS_MUHAMMAD_VIII_DESC:0 "Як то кажуть, Туніс ухилився від краплі дощу лише для того, щоб сховатися в канаві. Він із запалом скинув французьке ярмо, коли війська Осі пройшли через Північну Африку, лише для того, щоб замінити його суворішим правлінням Риму. Весь європейський порядок за останні тридцять років був розтрощений і перебудований у форму, яку ледве можна впізнати; попри все це, деякі речі в Тунісі залишаються такими самими, як завжди. Ця застиглість посеред потрясінь проявляється в особі Мухаммеда VII аль-Аміна, останнього бея династії Хусейнідів.\n\nБільш відомий як Ламін Бей, він опинився в центрі уваги у 1940-х роках як кузен і обраний спадкоємець Монсефа Бея. Його попередник, національний герой за свої зусилля зі звільнення від французької гегемонії під час війни, визначив післявоєнний Туніс, хоча його домовленості з італійцями спричинили значне невдоволення серед частини населення. Після того як погано спланована спроба італійців інтегрувати Лівію до своїх африканських володінь завершилася провалом, Рим обрав Ламіна Бея регентом у режимі протекторату, іронічно дуже схожому на той, який французи встановили багато років тому.\n\nТуніс був визволений і поневолений італійцями, а Ламін Бей є одночасно їхнім спільником і противником. Хоча юридично він править як представник короля в Римі, Ламін Бей поділяє амбіції свого кузена щодо вільного Тунісу, бажано здобутого шляхом переговорів з італійцями. Його зв'язки в партії Дестур, яка водночас є апаратом колаборації та справжньою націоналістичною силою, прагнуть обережного, законного шляху до вільної батьківщини. Однак Туніс є дуже поляризованим місцем, а бей старіє. Якщо він залишить політичну арену, ретельно вибудуваний баланс партії Дестур може раптово й кардинально розпастися."
+
+ ### Ministers ###
+
+ 
+ ### Ideas ###
+ TUN_the_second_treaty_of_bardo:0 "Другий Бардоський договір"
+ TUN_the_second_treaty_of_bardo_desc:0 "У 1881 році Бардоський договір, підписаний французами та беєм, цілковито вихолостив Туніс, повністю позбавивши його автономії. Можна було б наївно подумати, що повна поразка французів покращить ситуацію, але все, що сталося, — це нове приниження.\n\nІталійці перетворили бея на безвладного регента, а їхні економічні інтереси, чи то в промисловості, сільському господарстві або туризмі, виснажили Туніс, якими б мізерними не були прибутки.\n\nОднак чутки про туніську нафту можуть покращити грошові потоки..."
+
+ TUN_destour_hegemony:0 "Гегемонія Дестуру"
+ TUN_destour_hegemony_desc:0 "Партія Дестур зазнала доволі іронічної долі; спочатку задумана для організації арабів проти французького колоніялізму, вона стала мимовільним партнером італійського колоніялізму.\n\nЄдина легальна політична партія після того, як крах Нео-Дестуру змусив їх об'єднатися, Дестур дедалі більше дестабілізується політичним насильством і внутрішньою напруженістю, причому розрізнені крила розривають її зсередини, а інші сили, як-от комуністичний рух, тиснуть на неї ззовні."
+
+ TUN_the_italo_tunisians:0 "Італо-тунісці"
+ TUN_the_italo_tunisians_desc:0 "Століттями Туніс був привабливим притулком для італійців, яким не було куди йти та нічого втрачати. За французької колоніяльної адміністрації з італо-тунісцями поводилися жахливо, тому спочатку вони були зачаровані обіцянками фашизму щодо слави та зв'язку з батьківщиною.\n\nТепер, фактично перебуваючи під італійським правлінням, громада стала значно більш розділеною, оскільки антифашистські та ліві ідеї набирають популярности серед тих, для кого високі обіцянки фашизму залишаються цілковито невиконаними. Італійці Тунісу розділилися на два запекло протилежні табори, і лише боротьба визначить, хто переможе."
+  
+ ### Decisions ###
+ 
+ ### Tooltips ###
+ 
+ ### Focus Tree ###
+ 
+ ### Events ###
+

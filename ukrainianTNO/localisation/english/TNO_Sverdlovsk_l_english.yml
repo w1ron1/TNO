@@ -17,8 +17,8 @@
  SVR_conservatism_party_long: "Liga Preobrazovania Rossii"
  SVR_paternalism_party: "UKGS"
  SVR_paternalism_party_long: "Uralskiy Komitet Gosudarstvennogo Spaseniya"
- SVR_despotism_party: "Chernaya Liga"
- SVR_despotism_party_long: "Chernaya Liga"
+ SVR_despotism_party: "UKGS"
+ SVR_despotism_party_long: "Uralskiy Komitet Gosudarstvennogo Spaseniya"
  SVR_monarchy_party: "PIR"
  SVR_monarchy_party_long: "Pravitel'stvo Imperskogo Regenstva"
  SVR_fascism_party: "RFP"
@@ -71,25 +71,25 @@
  ### Ministers ###
 
  #Rokossovsky/Batov cabinet
- SVR_Pavel_Batov_hog_desc: "§YHead of Government\nStratocracy§!"
+ SVR_Pavel_Batov_hog_desc: "§YHead of Government\nMilitary Junta§!"
  
  SVR_Ivan_Bagramyan_hog: "Ivan Bagramyan"
- SVR_Ivan_Bagramyan_hog_desc: "§YHead of Government\nStratocracy§!\n--------------\n§LFew can boast having served so many countries in a lifetime: born in Yelisavetpol in the Caucasus Viceroyalty of Imperial Russia to Armenian parents, Ivan Bagramyam fought first during World War I in the Russian Caucasus Army, before serving in the Armenian army following Armenia's independence. Shortly after Armenia was annexed by the Soviet Union, he enlisted in the Red Army, serving admirably during the Great Patriotic War and, most notably, during Operation Suvorov. Fervently loyal to Rokossovky, Ivan followed the old Marshal when he split from the Western Siberian People's Republic. A compassionate man, Bagramyam is reluctant to send his troops in pointless bloodbaths, a particularity he shares with his counterpart, General Batov."
+ SVR_Ivan_Bagramyan_hog_desc: "§YHead of Government\nMilitary Junta§!\n--------------\n§LFew can boast having served so many countries in a lifetime: born in Yelisavetpol in the Caucasus Viceroyalty of Imperial Russia to Armenian parents, Ivan Bagramyam fought first during World War I in the Russian Caucasus Army, before serving in the Armenian army following Armenia's independence. Shortly after Armenia was annexed by the Soviet Union, he enlisted in the Red Army, serving admirably during the Great Patriotic War and, most notably, during Operation Suvorov. Fervently loyal to Rokossovky, Ivan followed the old Marshal when he split from the Western Siberian People's Republic. A compassionate man, Bagramyam is reluctant to send his troops in pointless bloodbaths, a particularity he shares with his counterpart, General Batov."
  
  SVR_Anatoly_Dobrynin: "Anatoly Dobrynin"
- SVR_Anatoly_Dobrynin_for_desc: "§YForeign Minister\nStratocracy§!"
+ SVR_Anatoly_Dobrynin_for_desc: "§YForeign Minister\nMilitary Junta§!"
  
  SVR_Yevgeny_Dragunov: "Yevgeny Dragunov"
  SVR_Yevgeny_Dragunov_for_desc: "§YForeign Minister\n$liberalism_classical_liberalism_subtype$§!"
  
  SVR_Farman_Salmanov: "Farman Salmanov"
- SVR_Farman_Salmanov_eco_desc: "§YEconomic Minister\nStratocracy§!"
+ SVR_Farman_Salmanov_eco_desc: "§YEconomic Minister\nMilitary Junta§!"
  
  SVR_Ivan_Bagramyan_sec: "Ivan Bagramyan"
- SVR_Ivan_Bagramyan_sec_desc: "§YSecurity Minister\nStratocracy§!\n--------------\n§LFew can boast having served so many countries in a lifetime: born in Yelisavetpol in the Caucasus Viceroyalty of Imperial Russia to Armenian parents, Ivan Bagramyam fought first during World War I in the Russian Caucasus Army, before serving in the Armenian army following Armenia's independence. Shortly after Armenia was annexed by the Soviet Union, he enlisted in the Red Army, serving admirably during the Great Patriotic War and, most notably, during Operation Suvorov. Fervently loyal to Rokossovky, Ivan followed the old Marshal when he split from the Western Siberian People's Republic. A compassionate man, Bagramyam is reluctant to send his troops in pointless bloodbaths, a particularity he shares with his counterpart, General Batov.§!"
+ SVR_Ivan_Bagramyan_sec_desc: "§YSecurity Minister\nMilitary Junta§!\n--------------\n§LFew can boast having served so many countries in a lifetime: born in Yelisavetpol in the Caucasus Viceroyalty of Imperial Russia to Armenian parents, Ivan Bagramyam fought first during World War I in the Russian Caucasus Army, before serving in the Armenian army following Armenia's independence. Shortly after Armenia was annexed by the Soviet Union, he enlisted in the Red Army, serving admirably during the Great Patriotic War and, most notably, during Operation Suvorov. Fervently loyal to Rokossovky, Ivan followed the old Marshal when he split from the Western Siberian People's Republic. A compassionate man, Bagramyam is reluctant to send his troops in pointless bloodbaths, a particularity he shares with his counterpart, General Batov.§!"
  
  SVR_Hamazasp_Babadzhanian: "Hamazasp Babadzhanian"
- SVR_Hamazasp_Babadzhanian_sec_desc: "§YSecurity Minister\nStratocracy§!"
+ SVR_Hamazasp_Babadzhanian_sec_desc: "§YSecurity Minister\nMilitary Junta§!"
 
  #Yeltsin cabinet
  SVR_Yevgeniy_Primakov: "Yevgeny Primakov"
@@ -101,14 +101,14 @@
  SVR_Alexander_Tizyakov: "Alexander Tizyakov"
  SVR_Alexander_Tizyakov_eco_desc: "§YEconomic Minister\nPaternalistic Conservatism§!"
  
- SVR_Pavel_Batov_sec_desc: "§YSecurity Minister\nStratocracy§!"
+ SVR_Pavel_Batov_sec_desc: "§YSecurity Minister\nMilitary Junta§!"
 
  #Post-Omsk collapse cabinet
  SVR_Yelena_Karbysheva: "Yelena Karbysheva"
- SVR_Yelena_Karbysheva_for_desc: "§YForeign Minister\nStratocracy§!"
+ SVR_Yelena_Karbysheva_for_desc: "§YForeign Minister\nMilitary Junta§!"
  
  SVR_Ernest_Voznesensky: "Ernest Voznesensky"
- SVR_Ernest_Voznesensky_eco_desc: "§YEconomic Minister\nStratocracy§!"
+ SVR_Ernest_Voznesensky_eco_desc: "§YEconomic Minister\nMilitary Junta§!"
 
  #Post-Zlatoust cabinet
  SVR_Anatoly_Krasnov_Levitin: "Anatoly Krasnov-Levitin"
@@ -127,7 +127,7 @@
  ##====| Generals |====##
  ########################
  
- GENERAL_YAKOV_KREIZER_DESC: "Of Jewish origins, Yakov Kreizer served as a general during the Great Patriotic War and, most notably, during Operation: Suvorov. Noted for an expertise in defensive warfare, his actions and the tenacity of his troops in holding their ground were instrumental in the survival of retreating Red Army units. When the Third Army split off from Kaganovich's republic, Kreizer joined, like many, Rokossovsky's side."
+ GENERAL_YAKOV_KREIZER_DESC: "§LOf Jewish origins, Yakov Kreizer served as a general during the Great Patriotic War and, most notably, during Operation: Suvorov. Noted for an expertise in defensive warfare, his actions and the tenacity of his troops in holding their ground were instrumental in the survival of retreating Red Army units. When the Third Army split off from Kaganovich's republic, Kreizer joined, like many, Rokossovsky's side.§!"
 
  #######################
  ##=====| Ideas |=====##
@@ -251,6 +251,7 @@
  SVR_price_controls_idea_desc: "In order to curb the growing inflation, the Council has decided to enact the policy of price control on several essential provisions and resources. While the decision leaves economists unhappy, it is necessary to keep the economy stable lest it were to spiral out of control."
  SVR_sweeping_privatization_idea: "Sweeping Privatization"
  SVR_sweeping_privatization_idea_desc: "With Yeltsin at the head of the ship, Russia begins its slow, halting march toward capitalism. What was once owned by the state is now being handed over to upstart entrepreneurs, world weary businessmen and everything in between. Only time will tell if this change to the entire economy of our nation will end in success or failure."
+ SVR_novosibirsk_harassment: "Harassment from Novosibirsk"
 
  ###########################
  ##=====| Decisions |=====##
@@ -1201,7 +1202,7 @@
 
  SVR.114.t: "New Cells"
  SVR.114.desc: ""Privates Fedorov, Meknikov, and Yurtayev: for your formation of an illegal Black League cell and dissemination of its propaganda in the 4th Pervouralsk Battalion, the court martial finds you guilty and sentences you to execution by firing squad!"\n\nCommissar Aleksey's verdict was final. The three privates, standing behind a table filled with pieces of Black League propaganda, nodded in acceptance of the sentence and were escorted by guards back to their cells.\n\nAs Aleksey left the courtroom, he was stopped by his superior, Divisional Commissar Kalashnik, who led him into an office.\n\n"Comrade Aleksey, there's something I need to show you," he said, gesturing to a map of the country. A rough circle of black pins surrounded Sverdlovsk itself like a ring of dark fire, edging ever closer to it.\n\n"Each pin is a known Black League Cell," Kalashnik explained. Seeing Aleksey's eyes widen, he continued, "I see you understand the problem with your little friends now."\n\nClosest to the Sverdlovsk, and pointed like a dagger at its heart, was the Pervouralsk Cell."
- SVR.114.a: "Attempt to inflitrate."
+ SVR.114.a: "Attempt to infiltrate."
  SVR.114.b: "Enforce martial law now."
 
  SVR.115.t: "Infiltration Efforts"

@@ -1,8 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- ZAR: "Zarmaganda"
- ZAR_DEF: "the Zarma Republic"
- ZAR_ADJ: "Zarma"
+ ZAR: "Зармаґанда"
+ ZAR_DEF: "Республіка Зарма"
+ ZAR_ADJ: "зарма"
 
  ### Parties ###
  ZAR_communist_party: "-"
@@ -11,37 +11,37 @@
  ZAR_socialist_party_long: "-"
  ZAR_progressivism_party: "-"
  ZAR_progressivism_party_long: "-"
- ZAR_liberalism_party: "OPC"
+ ZAR_liberalism_party: "ОПС"
  ZAR_liberalism_party_long: "-"
  ZAR_conservatism_party: "-"
  ZAR_conservatism_party_long: "-"
- ZAR_paternalism_party: "CMS - Pragmatics"
- ZAR_paternalism_party_long: "Conseil Militaire Suprême - Pragmatics"
- ZAR_despotism_party: "ALZ"
- ZAR_despotism_party_long: "Armée de Libération du Zarmaganda"
- ZAR_fascism_party: "ALZ"
- ZAR_fascism_party_long: "Armée de Libération du Zarmaganda"
+ ZAR_paternalism_party: "ВВР — прагматики"
+ ZAR_paternalism_party_long: "Верховна військова рада — прагматики"
+ ZAR_despotism_party: "АЗЗ"
+ ZAR_despotism_party_long: "Армія визволення Зармаґанди"
+ ZAR_fascism_party: "АЗЗ"
+ ZAR_fascism_party_long: "Армія визволення Зармаґанди"
  ZAR_national_socialism_party: "-"
  ZAR_national_socialism_party_long: "-"
- ZAR_ultranationalism_party: "CMS - Fundamentalists"
- ZAR_ultranationalism_party_long: "Conseil Militaire Suprême - Fundamentalists"
+ ZAR_ultranationalism_party: "ВВР — фундаменталісти"
+ ZAR_ultranationalism_party_long: "Верховна військова рада — фундаменталісти"
 
  ### Characters ###
- ZAR_Seyni_Kountche: "Seyni Kountché"
- ZAR_Ali_Saibou: "Ali Saibou"
- ZAR_Moumouni_Adamou_Djermakoye: "Moumouni Adamou Djermakoye"
+ ZAR_Seyni_Kountche: "Сейні Кунтче"
+ ZAR_Ali_Saibou: "Алі Саїбу"
+ ZAR_Moumouni_Adamou_Djermakoye: "Мумуні Адамоу Джермакойє"
 
  ## Leader Descs ##
- POLITICS_SEYNI_KOUNTCHE_DESC: "The Zarma people were once simply men surviving under the boot of the French, their nobles doing everything to survive their advances, making deals, avoiding trouble. But now, they are under a leader with the will and the way to lead the Zarma to freedom. Seyni Kountché is that man, a man with history connected to the Zarma, who brings the people of Zarmaganda the strength to face down those who are enemies to the Zarma, like Issa Korombé and his struggle against the Fulani. However, that's but a façade. Seyni Kountché was but a man in the right place at the right time. Born the heir to the Zarmakoy Tondikandie, the heavily stratified Zarma society always held Kountché and his family in high regard, and the young man entered into training in the West African branch of the French army quite early. He slowly rose through the ranks in the Free French army after the mainland fell.\n\nThen the bombs started falling. As the Free French were slowly beaten back, Kountché became aware of the fact that the Zarma were without a leader, and that this could be an easy way to get power. He took his opportunity quickly, leveraging his place as the nobility to rile the Zarma underneath him, establishing it as his domain in West Africa as the Luftwaffe destroyed all around them. This land, however, happened to be within the borders of the Sultanate of Sokoto, but what could they do about it? Hell was raining from the skies, there was no way to prevent this man from calling this land his own. One day, however, the bombings stopped. The Sokoto were weak, and more importantly, many of their army were Zarma. A speech here and there, and allies flocked to their side. Months after the bombing stopped, Kountché declared an independent Zarma state from Sokoto. But Kountché's control appears to be coming to an end. The people hate him and his deputies hate him even more. It seems that Kountché needs to make some difficult choices to remain in power..."
+ POLITICS_SEYNI_KOUNTCHE_DESC: "Колись народ зарма був лише простими людьми, які виживали під французьким чоботом, а їхня знать робила все можливе, щоб пережити їхнє просування, укладаючи угоди та уникаючи неприємностей. Але тепер вони мають лідера, який має волю та засоби вести зарма до свободи. Сейні Кунтче — саме така людина, людина, пов'язана із зарма історично, яка дає народу Зармаґанди силу протистояти тим, хто є ворогами зарма, як-от Ісса Коромбе та його боротьба з фулані. Однак це лише фасад. Сейні Кунтче був лише людиною, яка опинилася у правильному місці у правильний час. Народившись спадкоємцем Зармакоя Тондікандіє, у глибоко стратифікованому суспільстві зарма до Кунтче та його родини завжди ставилися з великою повагою, а юнак досить рано вступив до навчання у західноафриканській філії французької армії. Після падіння метрополії він поступово піднімався службовими щаблями у Вільній французькій армії.\n\nУ міру того як Вільні французи повільно відступали, Кунтче усвідомив, що зарма залишилися без лідера і що це може стати простим шляхом до здобуття влади. Він швидко скористався нагодою, використовуючи своє становище серед знаті, щоб підбурити зарма під своїм проводом, утвердивши цю територію як свої володіння в Західній Африці, поки Люфтваффе руйнувало все навколо. Однак ця земля випадково опинилася в межах Султанату Сокото, але що вони могли вдіяти? Пекло лилося з небес, і не було жодного способу перешкодити цій людині назвати цю землю своєю. Та одного дня бомбардування припинилися. Сокото були слабкими, а ще важливіше — значна частина їхньої армії складалася із зарма. Кілька промов тут і там — і союзники потягнулися до них. Через кілька місяців після припинення бомбардувань Кунтче проголосив незалежну державу зарма від Сокото. Але контроль Кунтче, схоже, добігає кінця. Народ його ненавидить, а його заступники ненавидять його ще більше. Схоже, Кунтче доведеться зробити кілька складних виборів, щоб утриматися при владі..."
 
  ## Minister Descs ##
- ZAR_Seyni_Kountche_hog_desc: "§YHead of Government\nWarlordism§!"
- ZAR_Seyni_Kountche_for_desc: "§YForeign Minister\nWarlordism§!"
- ZAR_Seyni_Kountche_eco_desc: "§YEconomy Minister\nWarlordism§!"
- ZAR_Ali_Saibou_sec_desc: "§YSecurity Minister\nWarlordism§!"
+ ZAR_Seyni_Kountche_hog_desc: "§YГолова уряду\nВоєначальництво§!"
+ ZAR_Seyni_Kountche_for_desc: "§YМіністр закордонних справ\nВоєначальництво§!"
+ ZAR_Seyni_Kountche_eco_desc: "§YМіністр економіки\nВоєначальництво§!"
+ ZAR_Ali_Saibou_sec_desc: "§YМіністр безпеки\nВоєначальництво§!"
 
  ### Ideas ###
- ZAR_idea_warlord_state: "Warlord State"
- ZAR_idea_warlord_state_desc: "The term "warlord state" has become ubiquitous. Used to describe countless statelets, it is a simple label that often conceals a more complicated situation. In Zarmaganda, this is not the case. Seyni Kountché and his army form the entirety of Zarmaganda's government, the land of Zarmaganda made up only of the territory they have seized. To many, it is a wonder that Kountché has achieved any success in his revolt against Sokoto, and few expect Zarmaganda will stick around any longer than he does."
- ZAR_idea_deficient_administration: "Deficient Administration"
- ZAR_idea_deficient_administration_desc: "To put it simply, the administration of Zarmaganda doesn't exist. Kountché's army exerts a brutal control over the country, suppressing any signs of unrest and stealing anything they fancy under the guise of taxation. Due to the hesitance of local officials to join such a violent and unstable government, and Kountché's distrust of all but a few of his closest officers, Zarmaganda's government seems destined to remain tiny and ineffective."
+ ZAR_idea_warlord_state: "Держава воєначальника"
+ ZAR_idea_warlord_state_desc: "Термін «держава воєначальника» став повсюдним. Його використовують для опису незліченних дрібних держав, але це просте визначення часто приховує складнішу ситуацію. У Зармаґанді це не так. Сейні Кунтче та його армія становлять весь уряд Зармаґанди, а сама Зармаґанда складається лише з територій, які вони захопили. Для багатьох дивно, що Кунтче взагалі досяг якихось успіхів у своєму повстанні проти Сокото, і мало хто очікує, що Зармаґанда проіснує довше за нього."
+ ZAR_idea_deficient_administration: "Недієздатна адміністрація"
+ ZAR_idea_deficient_administration_desc: "Якщо говорити просто, адміністрації Зармаґанди не існує. Армія Кунтче чинить жорстокий контроль над країною, придушуючи будь-які ознаки заворушень і забираючи все, що їй заманеться, під виглядом оподаткування. Через небажання місцевих чиновників приєднуватися до такого жорстокого та нестабільного уряду, а також через недовіру Кунтче до всіх, крім кількох найближчих офіцерів, уряду Зармаґанди, схоже, судилося залишатися малим і неефективним."

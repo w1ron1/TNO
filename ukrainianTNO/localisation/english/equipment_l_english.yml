@@ -11,14 +11,18 @@ l_english:
  EQUIPMENT_SCREEN:0 "Screen"
  EQUIPMENT_CONVOY:0 "Trade Convoy"
  EQUIPMENT_FIGHTER:0 "Fighter"
+ EQUIPMENT_SMALL_FIGHTER: "Fighter"
+ EQUIPMENT_HEAVY_FIGHTER: "Heavy Fighter"
  EQUIPMENT_CAS:0 "Close Air Support"
  EQUIPMENT_INTERCEPTOR:0 "Interceptor"
  EQUIPMENT_SUICIDE:1 "Suicide Craft"
  EQUIPMENT_SCOUT_PLANE:0 "Scout Plane"
  EQUIPMENT_TACTICAL_BOMBER:0 "Tactical Bomber"
  EQUIPMENT_STRATEGIC_BOMBER:0 "Strategic Bomber"
+ EQUIPMENT_MARITIME_PATROL_PLANE:0 "Naval Patrol Bomber"
  EQUIPMENT_NAVAL_BOMBER:0 "Naval Bomber"
  EQUIPMENT_TRANSPORT:0 "Transport"
+ EQUIPMENT_AIR_TRANSPORT:0 "Transport"
  EQUIPMENT_CARRIER:0 "Carrier"
  EQUIPMENT_PARACHUTE:0 "Parachute"
  EQUIPMENT_SUPPORT:0 "Support"
@@ -67,6 +71,9 @@ l_english:
  ARCHETYPE_DESC_ENTRY:0 "    - $COUNT|0$ $NAME|H$"
  OUTDATED_EQ:1 "Show §Houtdated equipment§!"
  EQUIPMENT_DESCRIPTION: "$NAME$"
+ EQUIPMENT_VERSION_0_SHIP: ""
+ EQUIPMENT_VERSION_0_TANK: ""
+ EQUIPMENT_VERSION_0_PLANE: ""
 
  ### Equipment Version Names (by Country) ###
   GER_EQUIPMENT_VERSION_1:0 "A"
@@ -364,6 +371,12 @@ l_english:
   destroyer_engine_upgrade:0 "Engine"
   destroyer_engine_upgrade_desc:0 "A ship with a more powerful engine can control distance to its opponents in battle"
 
+  frigate_engine_upgrade:0 "Engine"
+  frigate_engine_upgrade_desc:0 "A ship with a more powerful engine can control distance to its opponents in battle"
+  
+  corvette_engine_upgrade:0 "Engine"
+  corvette_engine_upgrade_desc:0 "A ship with a more powerful engine can control distance to its opponents in battle"
+
   sub_engine_upgrade:0 "Engine"
   sub_engine_upgrade_desc:0 "A ship with a more powerful engine can control distance to its opponents in battle"
 
@@ -509,7 +522,7 @@ l_english:
    anti_air_shoulder_equipment_2_desc:0 "An improved MANPADS incorporating design improvements to both the rocket and warhead to increase velocity and damage, respectively, along with aircraft signature tracing." 
 
    anti_air_shoulder_equipment_3:0 "Semi-Modern Anti-Air Equipment"
-   anti_air_shoulder_equipment_3_desc:0 "MANPADS with a recoilless blowback system, with built-in components that can attempt to detect and circumvent anti-MANPADS countermeasures, such as flares and electronic measures."  
+   anti_air_shoulder_equipment_3_desc:0 "MANPADS with a recoilless blowback system, with built-in components that can attempt to detect and circumvent anti-MANPADS countermeasures, such as flares and electronic measures."
 
    anti_air_shoulder_equipment_4:0 "Modern Anti-Air Equipment"
    anti_air_shoulder_equipment_4_desc:0 "A highly advanced MANPADS that incorporates electronic tracking with laser guidance along with lighter, composite materials, integrated digital systems, and multiple warhead variants." 
@@ -621,14 +634,14 @@ l_english:
   ## Light Self-Propelled ##
 
   ## Self-Propelled ##
-   MBT_artillery_chassis:0 "Heavy SPART"
-   MBT_artillery_chassis_desc:0 "Heavy Self-Propelled Artillery"
+   MBT_artillery_chassis:0 "SPART"
+   MBT_artillery_chassis_desc:0 "Self-Propelled Artillery"
    MBT_artillery_equipment:0 "Heavy SPART"
    MBT_artillery_equipment_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
    MBT_artillery_equipment_0:0 "Heavy SPART"
    MBT_artillery_equipment_0_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
    MBT_artillery_chassis_0:0 "Early Heavy SPART Chassis"
-  
+
    # 1950
    MBT_artillery_equipment_1:0 "Basic Heavy SPART"
    MBT_artillery_equipment_1_short:0 "Basic Heavy SPART"
@@ -659,6 +672,38 @@ l_english:
    MBT_artillery_equipment_5_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
    MBT_artillery_chassis_5:1 "Modern Heavy SPART Chassis"
   ## Self-Propelled ##
+   APC_artillery_equipment:0 "Heavy SPART"
+   APC_artillery_equipment_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
+   APC_artillery_chassis_0:0 "Early Heavy SPART Chassis"
+
+   APC_artillery_equipment_1:0 "Basic Heavy SPART"
+   APC_artillery_equipment_1_short:0 "Basic Heavy SPART"
+   APC_artillery_equipment_1_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
+   APC_artillery_chassis_1:0 "Basic Heavy SPART Chassis"
+
+   # 1960
+   APC_artillery_equipment_2:0 "Improved Heavy SPART"
+   APC_artillery_equipment_2_short:0 "Improved Heavy SPART"
+   APC_artillery_equipment_2_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
+   APC_artillery_chassis_2:1 "Improved Heavy SPART Chassis"
+
+   # 1970
+   APC_artillery_equipment_3:0 "Advanced Heavy SPART"
+   APC_artillery_equipment_3_short:0 "Advanced Heavy SPART"
+   APC_artillery_equipment_3_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
+   APC_artillery_chassis_3:1 "Advanced Heavy SPART Chassis"
+
+   # 1980
+   APC_artillery_equipment_4:0 "Semi-Modern Heavy SPART"
+   APC_artillery_equipment_4_short:0 "Semi-Modern Heavy SPART"
+   APC_artillery_equipment_4_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
+   APC_artillery_chassis_4:1 "Semi-Modern Heavy SPART Chassis"
+
+   # 1990
+   APC_artillery_equipment_5:0 "Modern Heavy SPART"
+   APC_artillery_equipment_5_short:0 "Modern Heavy SPART"
+   APC_artillery_equipment_5_desc:0 "A large artillery piece mounted on a heavy chassis, these self-propelled guns carry a lot of firepower."
+   APC_artillery_chassis_5:1 "Modern Heavy SPART Chassis"
 
   ## Deprecated ##
    rocket_artillery_equipment:0 "Towed Rocket Artillery"
@@ -678,24 +723,24 @@ l_english:
   ## Normal ##
    anti_air_equipment:0 "Towed Anti-Air"
    anti_air_equipment_short:0 "Anti-Air"
-   anti_air_equipment_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
-   anti_air_equipment_desc_old:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti-air made this possible."
+   anti_air_equipment_desc_old:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti-air made this possible."
 
    anti_air_equipment_1:0 "Early Anti-Air"
    anti_air_equipment_1_short:0 "Early Anti-Air"
-   anti_air_equipment_1_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_1_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti-air made this possible."
 
    anti_air_equipment_2:0 "Basic Anti-Air"
    anti_air_equipment_2_short:0 "Basic Anti-Air"
-   anti_air_equipment_2_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_2_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti-air made this possible."
 
    anti_air_equipment_3:0 "Advanced Anti-Air"
    anti_air_equipment_3_short:0 "Advanced Anti-Air"
-   anti_air_equipment_3_desc:1 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_3_desc:1 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti-air made this possible."
 
    anti_air_equipment_4:0 "Modern Anti-Air"
    anti_air_equipment_4_short:0 "Modern Anti-Air"
-   anti_air_equipment_4_desc:1 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_4_desc:1 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti-air made this possible."
   ## Normal ##
 
   ## Light Self-Propelled ##
@@ -779,7 +824,14 @@ l_english:
   ## Self-Propelled ##
 
 ### FLAME ###
+  IFV_flame_chassis:0 "Flame AFV Chassis"
   IFV_flame_chassis_desc:0 "Flame AFV Chassis"
+  IFV_flame_equipment_0:0 "Early Flame AFV"
+  IFV_flame_equipment_1:0 "Basic Flame AFV"
+  IFV_flame_equipment_2:0 "Improved Flame AFV"
+  IFV_flame_equipment_3:0 "Advanced Flame AFV"
+  IFV_flame_equipment_4:0 "Semi-Modern Flame AFV"
+  IFV_flame_equipment_5:0 "Modern Flame AFV"
   IFV_flame_chassis_0:0 "Early Flame AFV Chassis"
   IFV_flame_chassis_1:0 "Basic Flame AFV Chassis"
   IFV_flame_chassis_2:0 "Improved Flame AFV Chassis"
@@ -789,6 +841,12 @@ l_english:
 
   MBT_flame_chassis:0 "Flame MBT Chassis"
   MBT_flame_chassis_desc:0 "Flame MBT Chassis"
+  MBT_flame_equipment_0:0 "Early Flame MBT"
+  MBT_flame_equipment_1:0 "Basic Flame MBT"
+  MBT_flame_equipment_2:0 "Improved Flame MBT"
+  MBT_flame_equipment_3:0 "Advanced Flame MBT"
+  MBT_flame_equipment_4:0 "Semi-Modern Flame MBT"
+  MBT_flame_equipment_5:0 "Modern Flame MBT"
   MBT_flame_chassis_0:0 "Early Flame MBT Chassis"
   MBT_flame_chassis_1:0 "Basic Flame MBT Chassis"
   MBT_flame_chassis_2:0 "Improved Flame MBT Chassis"
@@ -1064,14 +1122,14 @@ l_english:
   NSB_MBT_1950_modules_1:0 "Main Gun Stabilizers"
   NSB_MBT_1950_modules_1_desc:0 "Gun stabilisers, capable of greatly reducing the instability of a weapon whilst the vehicle is moving, and enabling accurate fire on the move."
 
-  NSB_MBT_1950_modules_2:0 "Computerized Fire Control Systems"
-  NSB_MBT_1950_modules_2_desc:0 "Fire control systems, made to assist a vehicle crew in acquiring, aiming at and hitting enemy targets."
+  NSB_MBT_1950_modules_2:0 "Automatic Fire Suppression Systems"
+  NSB_MBT_1950_modules_2_desc:0 "Equipment for combating the outbreak of fires within a vehicle, reducing the harm it can inflict."
 
-  NSB_MBT_1960_modules_1:0 "Auto-Loaders"
-  NSB_MBT_1960_modules_1_desc:0 "Mechanical loading assistance systems made to remove the need for a loader within the tank."
+  NSB_MBT_1960_modules_1:0 "Remote Controlled Autocannons"
+  NSB_MBT_1960_modules_1_desc:0 "A small unmanned autocannon emplacement, remotely controlled by a crewman within the hull of the vehicle."
 
-  NSB_MBT_1960_modules_2:0 "Explosive Reactive Armour"
-  NSB_MBT_1960_modules_2_desc:0 "An advanced form of protection designed to protect against oncoming projectiles through its own detonation."
+  NSB_MBT_1960_modules_2:0 "Computerized Fire Control Systems"
+  NSB_MBT_1960_modules_2_desc:0 "Fire control systems, made to assist a vehicle crew in acquiring, aiming at and hitting enemy targets."
 
   NSB_IFV_1945_modules_1:0 "Smoke Emitters"
   NSB_IFV_1945_modules_1_desc:0 "Equipment to allow a vehicle to lay smoke in its path, granting visual cover to allied forces which may help in advancing."
@@ -1082,14 +1140,14 @@ l_english:
   NSB_IFV_1950_modules_1:0 "Dedicated Crew Heaters"
   NSB_IFV_1950_modules_1_desc:0 "Dedicated equipment for keeping the occupants of a vehicle warm and in a combat-ready condition."
 
-  NSB_IFV_1950_modules_2:0 "Automatic Fire Suppression Systems"
-  NSB_IFV_1950_modules_2_desc:0 "Equipment for combating the outbreak of fires within a vehicle, reducing the harm it can inflict."
+  NSB_IFV_1950_modules_2:0 "Enhanced Optical Equipment"
+  NSB_IFV_1950_modules_2_desc:0 "Integrated Night-Vision, Infra-Red and Thermal sighting equipment designed to improve visibility and target acquisition in low-light and high-debris combat environments."
 
-  NSB_IFV_1960_modules_1:0 "Remote Controlled Autocannons"
-  NSB_IFV_1960_modules_1_desc:0 "A small unmanned autocannon emplacement, remotely controlled by a crewman within the hull of the vehicle."
+  NSB_IFV_1960_modules_1:0 "Auto-Loaders"
+  NSB_IFV_1960_modules_1_desc:0 "Mechanical loading assistance systems made to remove the need for a loader within the tank."
 
-  NSB_IFV_1960_modules_2:0 "Nuclear, Biological, and Chemical Protection Systems"
-  NSB_IFV_1960_modules_2_desc:0 "Special protective measures designed to protect a vehicle's crew from even inhospitable environents."
+  NSB_IFV_1960_modules_2:0 "Specialized Anti-Armor Weaponry"
+  NSB_IFV_1960_modules_2_desc:0 "As Tank Armour continued to evolve during the Cold War, lighter vehicles and weapons platforms required the development of improved weaponry in order to maintain combat performance. Whether it be through the creation of modern high-velocity cannons, or by simple equipping such vehicles with missiles, the R&D departments of the once more proved humanity's ingenuity."
 
   NSB_artillery_MODULE:0 "Vehicular Weapons Development"
   NSB_artillery_MODULE_desc:0 "Development in weaponry for use within armoured vehicles, to compete with the ever-improving armour of foreign designs."
@@ -1213,7 +1271,7 @@ l_english:
   horse_equipment_2_desc:0 "Breakthroughs in magical engineering has greatly improved the design of these magical weapons. With the weapon deemed reliable, engineers are now free to solely focus on improving the weapon's performance in the battlefield."
   
   pegasi_equipment:0 "Pegasi Flight Suit"
-  pegasi_equipment_desc:0 "Independent pegasi batallions will serve as shock-troops intended to lead assaults against enemy positions in hopes of overrunning them before they can form a proper defense. Entire divisions of them can move in speeds matched only by motorized troops. They are also effective at taking out enemy air support if present in the battle."
+  pegasi_equipment_desc:0 "Independent pegasi battalions will serve as shock-troops intended to lead assaults against enemy positions in hopes of overrunning them before they can form a proper defense. Entire divisions of them can move in speeds matched only by motorized troops. They are also effective at taking out enemy air support if present in the battle."
 
   horse_tank_equipment:0 "Pony-Compatible Tanks"
   horse_tank_equipment_short:0 "Pony-Compatible Tank"

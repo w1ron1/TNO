@@ -1,26 +1,35 @@
 ﻿l_english:
  ### Country Names ###
- ARM: "Armenia"
+ ARM: "Republic of Armenia"
  ARM_DEF: "the Republic of Armenia"
  ARM_ADJ: "Armenian"
 
  ## Cosmetic Tags ##
- ARM_post_war: "Armenia"
- ARM_post_war_DEF: "the Second Republic of Armenia"
+ ARM_revolt: "Armenia"
+ ARM_revolt_DEF: "the Second Republic of Armenia"
+ 
+ ARM_turk: "Republic of Armenia"
+ ARM_turk_DEF: "the Republic of Armenia"
+ ARM_turk_ADJ: "Armenian"
+
+ ARM_revolt_win: "Armenia"
+ ARM_revolt_win_DEF: "the Second Republic of Armenia"
 
  ### Parties ###
  ARM_communist_party: "Hayki Vordinery"
  ARM_communist_party_long: "Hayki Vordinery"
  ARM_socialist_party: "HZK"
- ARM_socialist_party_long: "Hayastani Zhoghovrdakan Kusaktsuyun"
- ARM_progressivism_party: "HDK"
- ARM_progressivism_party_long: "Hayastani Demokratakan Kusaktsuyun"
- ARM_liberalism_party: "AZhM"
- ARM_liberalism_party_long: "Azgayin Zhoghovrdavarakan Miut'yun"
- ARM_conservatism_party: "HHS"
- ARM_conservatism_party_long: "Hayots Hamazgain Sharzhum"
- ARM_paternalism_party: "Dashnaktsutyun"
- ARM_paternalism_party_long: "Dashnaktsutyun"
+ ARM_socialist_party_long: "Hayastani Zhoghovrdakan Kusakts'ut'yun - Sots'ialistner"
+ ARM_progressivism_party: "HZK"
+ ARM_progressivism_party_long: "Hayastani Zhoghovrdakan Kusakts'ut'yun - Demokratner"
+ ARM_liberalism_party: "HHK"
+ ARM_liberalism_party_long: "Haykakan Hanrapetakan Kusakts'ut'yun - Rreformistner"
+ ARM_liberal_conservatism_party: "AMK"
+ ARM_liberal_conservatism_party_long: "Azgayin Miats'yal Kusakts'ut'yun"
+ ARM_conservatism_party: "AMK"
+ ARM_conservatism_party_long: "Azgayin Miats'yal Kusakts'ut'yun"
+ ARM_paternalism_party: "HHK"
+ ARM_paternalism_party_long: "Haykakan Hanrapetakan Kusakts'ut'yun"
  ARM_despotism_party: "Dashnaktsutyun"
  ARM_despotism_party_long: "Dashnaktsutyun"
  ARM_fascism_party: "Türk Intikam Tugayları"
@@ -28,21 +37,137 @@
  ARM_ultranationalism_party: "Dashnaktsutyun"
  ARM_ultranationalism_party_long: "Dashnaktsutyun"
 
+ ARM_transitional_government: "AZh"
+ ARM_transitional_government_long: "Hayastani Hanrapetut'yan Azgayin Zhoghov"
+ ARM_communisms_back_baby: "HKK"
+ ARM_communisms_back_baby_long: "Hayastani Komunistakan Kusakts'ut'yun"
+
  ### Characters ###
+ ARM_Parliament: "National Assembly of Armenia"
  ARM_Karen_Demirchyan: "Karen Demirchyan"
+ ARM_Stepan_Poghosyan: "Stepan Poghosyan"
+ ARM_Haykaz_Khachatryan: "Haykaz Khachatryan"
+ ARM_Gevork_Vartanyan: "Gevork Vartanyan"
  ARM_Marius_Yuzbashyan: "Marius Yuzbashyan"
- ARM_Petros_Poghosyan: "Petros Poghosyan"
- ARM_Arshavir_Shirakian: "Arshavir Shirakian"
- ARM_Gevork_Vartanyan: "Gevork Vartanian"
+ ARM_Petros_Poghosyan: "Petros Ter-Poghosyan"
+ ARM_Arshavir_Shirakian: "Arshavir Shirakyan"
+ ARM_Gourgen_Yanikian: "Gourgen Yanikyan"
+ ARM_Zakar_Tarver: "Ruben-Zakar Zakaryan"
+ ARM_Migirdic_Sellefyan: "Mkrtich Shelefyan"
 
  ## Leader Descs ##
  POLITICS_PETROS_POGHOSYAN_DESC: "No beast in human skin, no desolate Russian prison, no amount of guns, men and bullets could keep Petros Poghosyan from his beloved Armenia.\n\nWhen the Ottomans forced his countrymen to perish in the cruel desert heat, he struck back alongside his fellow patriots like an avenging angel of death, watering the earth with the blood of Djemal Pasha for his crimes. When the Soviets invaded Armenia, Petros was taken by those cruel Russian commissars and forced into the bitter arctic gulags in Vorkuta. Even the frozen chain fences of the Soviet Union could not hold him, and when the prisoners of Vorkuta took flight, Petros was free once more to return to beloved Armenia, a nation still in chains.\n\nThe avenging angel has wasted no time in taking up arms once more, linking back up with his fellow conspirators of ages past to plan the restoration of the Armenian nation and people. The coming war will be long and hard-fought, this Petros knows, and such petty concerns as ideology and faith matters little when the gun is to the head of an entire nation.\n\nWoe be to the Turkish oppressor, for forty years were not enough to rid them of Poghosyan, and now it is certain. §RNothing will ever be.§!"
  POLITICS_GEVORK_VARTANYAN_DESC: "The identity of the Armenian agent "Anri" has eluded Turkish forces since the end of the Second World War. The codename belonged to the leader of the Sons of Hayk, though the vast majority of the organization's own members knew no more than anyone else. At the culmination of decades of planning, as insurgent cells were activated across the mountains, forests, and towns of Armenia, this agent's true name was revealed to the world - Gevork Vartanyan.\n\nA mere sixteen years of age when he began working in Soviet intelligence, Vartanyan was responsible for the capture of hundreds of Axis agents. When Moscow fell, he reorganized his contacts in what was left of Soviet-Armenian intelligence into a clandestine insurgent organization - the Sons of Hayk. Where the Dashnaks chose to let their presence be known to the occupiers, the Sons of Hayk sought to maintain complete secrecy in their operations. Though Vartanyan's name was not known to the Armenian people, his deeds were, and when he finally cast off the veil of secrecy, his movement was met with overwhelming popular support.\n\nSo let his name now be known to both Armenian and Turk - the final phase of the operation has begun, and Armenia's liberation is at hand!"
+ POLITICS_MIGIRDIC_SELLEFYAN_DESC: "The king of tin cans rests on his throne, one not built on epics of Yore or romantic tales of national liberation but one created for him out of Turkish convenience.\n\nMkrtich Shelefyan is an Armenian dedicated to keep what remains of Armenian community in Turkey alive, and he would keep doing so in an alternate life. But with Armenia being placed under Turkish sphere, he was the most suitable choice to lead what is meant to be his ancestral homeland.\n\nAt the end of World War Two; Armenia remained restless, and İnönü needed a watchman. A name was slipped to the President, and a deal was made - Shelefyan would have his playground, and Armenia would not be a threat to Turkish interests, giving birth to a new President.\n\nHis Armenian Republican Party now commands the nation, a nominal sibling of its big brother party in Turkey. In reality, it is a vehicle for Shelefyan's interests and a cast of careerists, populists, and the scattered few pro-Turkey politicians. Each election is a box-ticking exercise for them, but if Armenia is to be free, something must give..."
+ POLITICS_ZAKAR_TARVER_DESC: "Looking at the Armenian Republican Party's past, one would be entirely forgiven for considering it an unredeemable monstrosity created out of a lust for power. But inside its mechanisms lie men like Ruben-Zakar Zakaryan, hungry for change. Like Shelefyan, he was once just a Turkish bureaucrat before his ascension to the highest echelons of the Armenian Republican Party, but that is where the similarities end.\n\nZakaryan once watched the ideals of his world crumble before his eyes. Armenian cooperation with Turkey had been hollowed out for corrupt authoritarianism as the nation withered away. His only solace was his faction of ardent reformists, slowly watching for an opportunity to strike down Shelefyan and his craven cronyism. Over time contact between the Turkish leadership and him blossomed, and a proposal was made.\n\nThe protests in Yerevan gave way to the catalyst of a united front against Shelefyan, and Ankara remained silent to his pleas. Zakaryan now presides over a new friendship between Turkey and Armenia, one of sincerity, free from foolish radicalism or corrupt opportunism. Anti-Turkish feelings will not go away overnight, but peace and liberty may finally soothe the pain of a nation."
 
  ### Ideas ###
+ ARM_Hayk_Defiant: "Hayk Defiant"
+ ARM_Hayk_Defiant_desc: "The Republic of Armenia gained its freedom - at what cost? Its lands are separated under the Turkish and German yokes, its people are disheartened and in despair, and their only homes are now under a democratic Republic only in the name.\n\nBut as Hayk slew the tyrant Bel with his arrow when all thought it was hopeless, the Armenian people must win peace and prosperity for its people, no matter the cost."
+ ARM_king_of_tin_cans: "King of Tin Cans"
+ ARM_king_of_tin_cans_desc: "Mkrtich Shelefyan is corruption incarnate. With his name ranging from one corruption scandal to another, many wonder how he became the President of Armenia. It has a simple answer - he's friendly to the Turkish regime. Ankara has agreed to turn a blind eye to Shelefyan if he brings a stable Armenia to the table, and even supplies him with campaign donations and assists him with other political actions, may they break the fairness of the elections.\n\nUnless legitimacy is restored, Armenia will not find peace."
+ ARM_armenian_development_initiative: "Armenian Development Initiative"
+ ARM_armenian_development_initiative_desc: "Because of the destruction the war brought upon on cities and towns of Armenia, Turkey has created a fund to reconstruct and improve the state until it can stand on its two feet. Yet, the fruits of the program have been picked away by corrupt politicians and Turkish companies.\n\nUnless Armenians make their case to Ankara, Armenia will not find prosperity."
+
  ARM_Fedayeen_Gather: "Fedayi, Gather Around!"
  ARM_Fedayeen_Gather_desc: "For too long have the people of Armenia suffered under the oppression of the Turk. We have been beaten down, chained, tortured, and killed by our oppressor, all in the name of some grand vision by a man long dead. Now, our people will gather, and we will take our revenge.\n\nOur brave fedayi gather, and make ready for war. It will be a glorious struggle, worthy of song and verse! As long as the people support us, we will never give up, never surrender, §Vnot until the very last drop of Armenian blood has been shed in the name of our homeland.§!"
  ARM_united_front: "United Front Of Aras"
- ARM_united_front_desc: "The Armenian people are not the only ones to have felt the displeasure of the Turk. Many of our Caucasian brothers and sisters have felt the lash as we have, and feel the same anger that we do towards our hated enemy. The Azeri in particular have joined with us in great numbers, and make their way to the front lines alongside us. Arm in arm, the many peoples of Caucasia will join together to finally make our shared dream a reality. We will be free."
+ ARM_united_front_desc: "The Armenian resistance has been divided into two main groups. In rural areas, the Dashnaktsutyun have found success waging a war of sabotage and assassinations against the Turks. In the cities, where the Turks' gaze remains ever vigilant, the Sons of Hayk have conducted an urban guerilla war against occupation. Though we may be deeply divided in ideology, we must set such differences aside to ensure the liberation of our shared nation. Arm in arm, the people of Armenia will join together to finally make our shared dream a reality. We will be free."
  ARM_Operation_Nemesis: "Operation: Nemesis"
  ARM_Operation_Nemesis_desc: "The Armenian government has come together for one thing, and one thing only: the complete and total liberation of the Armenian people from Turkey. Nothing else matters in the pursuit of this goal. They care not for good governance, for pittances like domestic policy or foreign relations. There is not time for such things. All must be swept aside in the name of freedom; they care not for what comes after. So long as they take their revenge, and the blood of their families never runs dry, all means will be justified in the end."
+
+ ARM_Collaboration_Regime: "Collaboration Regime"
+ ARM_Collaboration_Regime_desc: "After decades of subjugation under Soviet and Turkish yokes, reformists in Ankara have decided to grant self-government to the Armenian lands. Yet the people maintain their opposition to the Turkish rule, despite the fact that they are allowed to have their own words in governance."
+
+ ### Tooltips ###
+ ARM_sellefyan_replaced_tt: "§LMıgırdıç Şellefyan§! will be §Yreplaced§! with §MZakar Tarver§!."
+ ARM_sellefyan_kept_tt: "§LMıgırdıç Şellefyan§! will be §gkept§!."
+ ARM_sellefyan_resigns_tt: "§LMıgırdıç Şellefyan§! will §Yresign§! in favor of an §Ginterim government§!."
+ ARM_elections_incoming_tt: "§YNew elections§! are scheduled to take place §Ywithin a year§!."
+ 
+ ### Events ###
+ armenia.0.t: "Report on Armenia"
+ armenia.0.d: "In the aftermath of the war, our collaboration with the Axis powers yielded to us control over Armenia, an acquisition deemed strategic for our geopolitical location. However, our efforts in the area since then have been marked by numerous issues and evolving political dynamics.\n\nCHALLENGES\n\n1. Hostile Population: The Armenian populace harbors deep-seated resentment towards our regime due to alleged historical grievances and perceived interference.\n\n2. Guerrilla Warfare: Persistent insurgent activities pose a threat to our control.\n\n3. Geographic Challenges: Armenia's mountainous terrain is limited in natural resources and serves as an ideal environment for said guerrilla activities, further complicating pacification.\n\nSTRATEGY: In the 1950s, Turkey played a significant role in the establishment of the Armenian Republican Party, led by Mıgırdıç Şellefyan. Despite numerous corruption allegations, backing for Şellefyan and his government is sustained to maintain stability in the region and act as a liaison between our two nations. His continued compliance with Turkish interests has been a significant factor in this decision.\n\nEVOLVING SITUATION: As mentioned above, the Armenian Republican Party is marred by corruption scandals. Şellefyan's rule is growing increasingly unpopular among the Armenian populace, leading to heightened tensions. Public discontent is also on the rise due to demands for increased autonomy and self-governance, which has resulted in mounting protests and further challenges to Turkish interests. We find ourselves at a critical juncture in the occupation of Armenia."
+ armenia.0.a: "Continued on the next page."
+ 
+ armenia.100.t: ""
+ armenia.100.d: ""
+ armenia.100.a: ""
+ 
+ armenia.101.t: ""
+ armenia.101.d: "Other figures join Zarobyan"
+ armenia.101.a: ""
+ 
+ armenia.102.t: "Protests in Yerevan"
+ armenia.102.d: "In Turkey, the only time people hear about Armenia in the news is if there's a scandal. Şellefyan does something questionable, Armenians don't like it, they protest, the protests either get shut down or lose steam and life goes on. Or, that is how it usually goes. The way the calls came in this time, the numbers in the streets, and the things they're saying are problematic to say the least. It's no secret that the wellbeing of Armenia's citizens is not a concern to most politicians. The land is a prize that Turkey cherishes, but to maintain it has typically just meant headaches. Headaches that keep Şellefyan going.\n\nThe papers indicate he may have finally gone too far. The Yerevan international Airport, a project that has seen thousands of workers involved and millions in state resources has been troubled. The failure to procure replacement parts stifled the project early on, a worker was killed due to inability for a rescue team to access the site, and recently the project was put on hold after some workers striked due to payment issues. Everyone knew Şellefyan was taking kickbacks, but nobody, not even Ankara this time, knew just how much he'd taken.\n\nPeople rushed the city square immediately after seeing the numbers. Even some formerly apolitical Armenians have something to say, with crowds in the tens of thousands being reported. In every street and alleyway is someone shouting "Down with Şellefyan!" or "Finish the airport!" and we're concerned. Armenians aren't fond of the administration, and if we want to keep order then we need to be sure Şellefyan is on the same page. If not, their calls could go from "Down with Şellefyan!" to "Down with the Turks!" quick, and that is not something that we can allow."
+ armenia.102.a: "All of this over an airport."
+ 
+ armenia.103.t: ""
+ armenia.103.d: "Şellefyan refuses to bow them"
+ armenia.103.a: ""
+ 
+ armenia.104.t: ""
+ armenia.104.d: "Protests turn onto Şellefyan as well"
+ armenia.104.a: ""
+ 
+ armenia.105.t: "An offer"
+ armenia.105.d: "Some "influential" people ask Zakar Tarver to replace Şellefyan"
+ armenia.105.a: "sure, let's remove him"
+ armenia.105.b: "uuh, do we have to?"
+ 
+ armenia.106.t: ""
+ armenia.106.d: "Zakar Tarver takes over, promising elections within a year"
+ armenia.106.a: ""
+ 
+ armenia.107.t: ""
+ armenia.107.d: "Şellefyan goes crazy, Ankara is talking to him on phone, asking..."
+ armenia.107.a: "...to keep things under control"
+ armenia.107.b: "...to resign immediately"
+ 
+ armenia.108.t: "Şellefyan resigns"
+ armenia.108.d: "Armenian legislation takes over for now; preparing for elections"
+ armenia.108.a: ""
+ 
+ armenia.109.t: "Şellefyan goes even more crazy"
+ armenia.109.d: "Ankara has only one option left, the military."
+ armenia.109.a: "Arrest him swiftly, and make sure it's peaceful"
+ 
+ armenia.110.t: "TSK takeover"
+ armenia.110.d: "Şellefyan is arrested by military; Armenian legislation is left to assume the governance"
+ armenia.110.a: ""
+ 
+ armenia.111.t: "Meddling in elections?"
+ armenia.111.d: "You know, our guy Zakar Tarver is participating as well"
+ armenia.111.a: "support our guy to win"
+ armenia.111.b: "let things roll on its own"
+ 
+ armenia.112.t: "1966 Elections"
+ armenia.112.d: "hello mr gamer; since you're here, you will choose who wins.\n\nhint: choose Tarver"
+ armenia.112.a: "Zakar Tarver"
+ armenia.112.b: "Haykaz Khachatryan"
+ armenia.112.c: "Karen Demirchyan"
+ 
+ armenia.113.t: "Zakar Tarver won in Armenia"
+ armenia.113.d: "our guy won"
+ armenia.113.a: ""
+ 
+ armenia.114.t: "Haykaz Khachatryan won in Armenia"
+ armenia.114.d: "christian democrat guy won"
+ armenia.114.a: ""
+ 
+ armenia.115.t: "Karen Demirchyan won in Armenia"
+ armenia.115.d: "socialist guy won"
+ armenia.115.a: ""
+ 
+ armenia.116.t: "Third year of Tarver"
+ armenia.116.d: "Tarver says he won't run again"
+ armenia.116.a: ""
+ 
+ armenia.117.t: "Third year of Khachatryan"
+ armenia.117.d: "he's enjoying himself"
+ armenia.117.a: ""
+ 
+ armenia.118.t: "Third year of Demirchyan"
+ armenia.118.d: "he's enjoying himself"
+ armenia.118.a: ""
+ 

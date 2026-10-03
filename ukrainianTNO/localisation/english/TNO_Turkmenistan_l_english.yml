@@ -31,23 +31,13 @@
  ### Parties ###
  TRK_communist_party: "ТКП"
  TRK_communist_party_long: "Туркменська комуністична партія"
- TRK_socialist_party: "СПР"
- TRK_socialist_party_long: "Соціялістична партія робітників"
- TRK_progressivism_party: "ДУМСАК"
- TRK_progressivism_party_long: "Духовне управління мусульман Середньої Азії та Казахстану"
- TRK_liberalism_party: "РПТ"
- TRK_liberalism_party_long: "Республіканська партія Туркменістану"
- TRK_conservatism_party: "АПТ"
- TRK_conservatism_party_long: "Аграрна партія Туркменістану"
  TRK_paternalism_party: "ДУМСАК"
  TRK_paternalism_party_long: "Духовне управління мусульман Середньої Азії та Казахстану"
  TRK_despotism_party: "РПТ"
  TRK_despotism_party_long: "Республіканська партія Туркменістану"
- TRK_fascism_party: "НФП"
- TRK_fascism_party_long: "Національна фашистська партія"
+ TRK_national_socialism_party: "НКОТ"
+ TRK_national_socialism_party_long: "Національний комітет об'єднання Туркестану"
 
- TRK_Military_Coup: "ДПТ"
- TRK_Military_Coup_long: "Демократична партія Туркменістану"
  TRK_Power_Vacuum_name: "Вакуум влади"
 
  ### Characters ###

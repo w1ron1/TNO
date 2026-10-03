@@ -1,6 +1,6 @@
 ﻿l_english:
  #Country Names
- HOL:0 "Нідерланди"
+ HOL:0 "Нідерланди" #назву Нідерланди вже зайнято, не думаю, що цей рядок насправді використовується, але краще перестрахуватися #Насправді використовується, і початковий коментар більше не актуальний
  HOL_DEF:0 "Нідерланди"
  HOL_despotism:0 "Голландія"
  HOL_despotism_DEF:0 "Голландія"
@@ -44,8 +44,12 @@
  HOL_despotism_party_2:0 "НС"
  HOL_despotism_party_3:0 "РП"
  HOL_fascism_party:0 "НСР - М"
- HOL_national_socialism_party:0 "окупаційна влада"
- HOL_national_socialism_party_2:0 "НСР - Ф"
+ HOL_national_socialism_party:0 "ЦУЦ — Нідерланди"
+ HOL_national_socialism_party_long: "Цивільна окупаційна адміністрація в Нідерландах"
+ HOL_national_socialism_party_2:0 "НСБ-В"
+ HOL_national_socialism_party_2_long:0 "Націонал-соціялістичний рух (фолькісти)"
+ HOL_national_socialism_party_ss:0 "Нідерландська СС"
+ HOL_national_socialism_party_ss_long:0 "Нідерландська Шуцштаффель"
 
 HOL_communist_party_long:0 "Комуністична партія Нідерландів"
 HOL_socialist_party_long:0 "Пацифістська соціалістична партія"
@@ -61,8 +65,6 @@ HOL_despotism_party_long:0 "Націонал-соціалістичний рух
 HOL_despotism_party_2_long:0 "Нідерландський союз"
 HOL_despotism_party_3_long:0 "Реформаторська партія"
 HOL_fascism_party_long:0 "Націонал-соціалістичний рух (мусертисти)"
-HOL_national_socialism_party_long:0 "Німецька окупаційна влада в Нідерландах"
-HOL_national_socialism_party_long_2:0 "Націонал-соціалістичний рух (фьолькіш)"
 
  #IDEAS 
  HOL_busy_ports:0 "Завантажені порти"

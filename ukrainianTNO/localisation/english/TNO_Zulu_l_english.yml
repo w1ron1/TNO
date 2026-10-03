@@ -1,22 +1,24 @@
 ﻿l_english:
  ### Country Names ###
- ZUL: "Zulu-Xhosa Alliance"
- ZUL_DEF: "the Zulu-Xhosa Alliance"
- ZUL_ADJ: "Zulu"
+ ZUL: "Зулусько-ксоський альянс"
+ ZUL_DEF: "Зулусько-ксоський альянс"
+ ZUL_ADJ: "зулуськ"
 
  ### Parties ###
- ZUL_conservatism_party: "Inkatha Freedom Party"
- ZUL_conservatism_party_long: "Inkatha Freedom Party"
+ ZUL_conservatism_party: "ПСІ"
+ ZUL_conservatism_party_long: "Партія свободи Інката"
+ ZUL_socialist_party: "АНК"
+ ZUL_socialist_party_long: "Африканський національний конґрес"
 
  ### Characters ###
- ZUL_Mangosuthu_Buthelezi: "Mangosuthu Buthelezi"
+ ZUL_Mangosuthu_Buthelezi: "Манґосуту Бутелезі"
 
  ## Leader Descs ##
- POLITICS_MANGOSUTHU_BUTHELEZI_DESC: "The abject failure of the ANC to prevent a Boer takeover of South Africa proved to be the last straw for the organization's moderate faction. As the ANC's leaders were killed or exiled by Hertzog's regime, the ensuing power struggle for the organization's remnants was won by none other than Prince Mangosuthu Buthelezi.\n\nOfficially only the hereditary leader of the Buthelezi tribe, Prince Mangosuthu is the de facto leader of the Inkatha Freedom Party (IFP), the largest ANC splinter group. Mangosuthu and the chief ideolouges of the IFP are steadfast in their belief that the ANC's extremism was the root of its failure, and that only by cooperating with sympathetic white governments will racial parity be achieved. In spite of this moderation, the IFP's goals are no less radical than those of the ANC, and the backlash from the Boer's horrific treatment of South Africa's natives has only further convinced the tribal leaders who prop-up Mangosuthu's government that segregation has to end, one way or another.\n\nThe thin line the Prince has to walk between ideological radicalism and his pragmatic strategy is represented by the unstable alliance of tribes that make up Mangosuthu's political front. While it is little more than an informal arrangement upheld almost entirely by personal loyalty to Mangosuthu, at a disadvantage in industrial capacity and military experience, the alliance nevertheless carries with it the ANC's unbreakable spirit. This makes an arrangement with Viljoen's moderate whites all the more pressing, for should Mangosuthu prove unable to fulfill his promises of a negotiated end to segregation, the IFP's more extremist elements could gain the upper hand."
+ POLITICS_MANGOSUTHU_BUTHELEZI_DESC: "Цілковита нездатність АНК запобігти захопленню Південної Африки бурами стала останньою краплею для поміркованої фракції організації. Коли лідери АНК були вбиті або вигнані режимом Герцоґа, у боротьбі за залишки організації переміг ніхто інший, як принц Манґосуту Бутелезі.\n\nОфіційно лише спадковий лідер племені Бутелезі, принц Манґосуту де-факто очолює Партію свободи Інката (ПСІ), найбільшу уламкову групу АНК. Манґосуту та головні ідеологи ПСІ непохитно вірять, що екстремізм АНК був коренем його провалу і що лише співпраця зі співчутливими білими урядами дозволить досягти расової рівности. Попри цю поміркованість, цілі ПСІ не менш радикальні, ніж цілі АНК, а негативна реакція на жахливе поводження бурів із корінним населенням Південної Африки лише більше переконала племінних лідерів, які підтримують уряд Манґосуту, що сегрегація має припинитися, так чи інакше.\n\nТонка межа, якою принц мусить балансувати між ідеологічним радикалізмом і своєю прагматичною стратегією, представлена нестабільним альянсом племен, що складають політичний фронт Манґосуту. Хоча це не більше ніж неформальна домовленість, яка майже цілковито тримається на особистій відданості Манґосуту, а за промисловими потужностями та військовим досвідом альянс поступається, він усе ж несе в собі незламний дух АНК. Це робить домовленість із поміркованими білими Вільйоена ще нагальнішою, адже якщо Манґосуту виявиться нездатним виконати свої обіцянки щодо переговорного припинення сегрегації, радикальніші елементи ПСІ можуть отримати перевагу."
 
  ### Ideas ###
- ZUL_ifp_anc_split: "IFP-ANC Split"
- ZUL_ifp_anc_split_desc: "The ANC was built on alliance between radical and moderate native South Africans, one that has been shaky since its foundation. The inability to properly deal with the Boers was the final straw for this alliance, causing the ANC to splinter apart. The largest moderate faction, the IFP holds power, but the future can be finicky and only time will tell if the Zulu-Xhosa alliance will remain stable or suffer the same fate as its predeccesor."
+ ZUL_ifp_anc_split: "Розкол ПСІ—АНК"
+ ZUL_ifp_anc_split_desc: "АНК був побудований на альянсі радикальних і поміркованих корінних південноафриканців, який від самого заснування був нестабільним. Нездатність належним чином впоратися з бурами стала останньою краплею для цього альянсу, спричинивши розкол АНК. Найбільша поміркована фракція, ПСІ, утримує владу, але майбутнє може бути мінливим, і лише час покаже, чи залишиться зулусько-ксоський альянс стабільним, чи спіткає його та сама доля, що й його попередника."
 
- ZUL_anti_segregation_resurgence: "Anti-Segregation Resurgence"
- ZUL_anti_segregation_resurgence_desc: "The IFP has not always had the most radical view on segregation. During the days of the South African War, they were moderates, focusing more on cooperation with the white government. However, after the injustices experienced under the Volkstaat, the issue has been rejuvenated in importance, with a renewed anxiety felt by both the people and the government, that kind of injustice shall never occur again."
+ ZUL_anti_segregation_resurgence: "Відродження боротьби проти сегрегації"
+ ZUL_anti_segregation_resurgence_desc: "ПСІ не завжди мала найбільш радикальний погляд на сегрегацію. Під час Південноафриканської війни вони були поміркованими, зосереджуючись більше на співпраці з білим урядом. Однак після несправедливостей, яких вони зазнали під владою Фолькштаату, це питання знову набуло важливости, а серед народу й уряду відродилася тривога, що така несправедливість ніколи більше не повинна повторитися."

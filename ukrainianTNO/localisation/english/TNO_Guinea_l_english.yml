@@ -1,11 +1,9 @@
 ﻿l_english:
  ### Country Names ###
- SUS_socialist: "Ґвінея"
- SUS_socialist_DEF: "Соціалістична Республіка Ґвінея"
- SUS_progressivism: "Ґвінея"
- SUS_progressivism_DEF: "Республіка Ґвінея"
- SUS_paternalism: "Ґвінея"
- SUS_paternalism_DEF: "Республіка Ґвінея"
+ GUI: "Республіка Ґвінея"
+ GUI_DEF: "Республіка Ґвінея"
+ GUI_socialist: "Ґвінея"
+ GUI_socialist_DEF: "Народна революційна республіка Ґвінея"
  SUS_ADJ: "Ґвінейськ"
 
  ## Cosmetic Tags ##
@@ -32,13 +30,7 @@
  SUS_paternalism_party_long: "Збройні сили"
  SUS_despotism_party: "ПЄП"
  SUS_despotism_party_long: "Партія єдності та прогресу"
- SUS_fascism_party: "-"
- SUS_fascism_party_long: "-"
- SUS_national_socialism_party: "-"
- SUS_national_socialism_party_long: "-"
- SUS_ultranationalism_party: "-"
- SUS_ultranationalism_party_long: "-"
-
+ 
  ### Characters ###
  SUS_Ahmed_Sekou_Toure: "Ахмед Секу Туре"
  SUS_Ismael_Toure: "Ісмаель Туре"

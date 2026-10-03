@@ -1,13 +1,13 @@
 ﻿l_english:
- ### Country Names ###
- ADY: "Adygea"
- ADY_DEF: "Adygea"
- ADY_ADJ: "Adygean"
+ ### Назви країн ###
+ ADY: "Адигея"
+ ADY_DEF: "Адигея"
+ ADY_ADJ: "Адигейськ."
 
- ### Characters ###
- ADY_Lyubov_Lysenko: "Lyubov Lysenko"
- ADY_Boris_Galushkin: "Boris Galushkin"
- ADY_Pyotr_Stepanenko: "Pyotr Stepanenko"
+ ### Персонажі ###
+ ADY_Lyubov_Lysenko: "Любов Лисенко"
+ ADY_Boris_Galushkin: "Борис Галушкін"
+ ADY_Pyotr_Stepanenko: "Петро Степаненко"
 
- ## Leader Descs ##
- POLITICS_LYUBOV_LYSENKO_DESC: "Lyubov Kirillovna Lysenko is no stranger to suffering. When the drums of war beat and the Germans swarmed over the horizon, her father, brother, and husband were all drafted to serve their motherland in the Red Army. None of them would ever return. The Nazi occupiers rounded her and everyone else in her hometown up, forcing them to help dig a reservoir along the Kuban river with primitive tools, grueling hours, and no safety standards. She lost many of her friends in those years, but Lyubov persisted. When the reservoir was complete, the surviving worers were relocated to various sweatshops and mines along the Black Sea. Lyubov was frequently beaten and starved by the sadistic guards, but she persisted. Over the years, she had developed a reputation as someone who was very good at survival. Some even found it inspiring.\n\nWhen the Reichskommissar died and the guards were left scrambling, the workers in the camps and mines seized their chance and rose up. They rallied around the prisoners who they revered most. Some were war heroes, some were priests, some were inspiring politicians, and some were simple farmers admired for their inner strength. Lysenko soon found thousands of people, ragtag survivors like herself, flocking to her for advice and assistance. And like every other burden put on her shoulders in her life, Lysenko swears that she will persist as always."
+ ## Описи лідерів ##
+ POLITICS_LYUBOV_LYSENKO_DESC: "Любов Кирилівна Лисенко не з чуток знає, що таке страждання. Коли пролунали барабани війни, а німці заполонили обрій, її батька, брата та чоловіка призвали служити Батьківщині в Червоній армії. Ніхто з них більше не повернувся. Нацистські окупанти зігнали її та всіх інших мешканців її рідного міста, змусивши їх примітивними інструментами, виснажливою працею та без жодних норм безпеки копати водосховище вздовж річки Кубань. За ті роки вона втратила багатьох своїх друзів, але Любов вистояла. Коли водосховище було завершене, робітників, що вижили, перевели до різноманітних потогінних підприємств і шахт уздовж Чорного моря. Любов часто били та морили голодом охоронці садисти, але вона вистояла. Протягом років у неї склалася репутація людини, яка дуже добре вміє виживати. Дехто навіть вважав це натхненним прикладом.\n\nКоли Райхскомісар помер, а охоронці заметушилися, робітники таборів і шахт скористалися нагодою та повстали. Вони гуртувалися навколо в'язнів, яких найбільше шанували. Дехто був героями війни, дехто - священниками, дехто - харизматичними політиками, а дехто - простими фермерами, яких поважали за їхню внутрішню силу. Незабаром Лисенко побачила, як тисячі людей, таких самих обірваних до нитки вцілілих, як і вона сама, стікаються до неї по пораду та допомогу. І, як і з кожним іншим тягарем, покладеним на її плечі протягом життя, Лисенко присягається, що й надалі вистоюватиме, як завжди."

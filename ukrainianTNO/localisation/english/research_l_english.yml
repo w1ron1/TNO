@@ -13,6 +13,8 @@
  TECH_ALREADY_RESEARCHED_COST:0 "Already researched: $POINTS|0Y$ days\n"
  RESEARCH_NO_RESEARCH:0 "Unused"
  RESEARCH_RESEARCH:0 "Research"
+ RESEARCH_TAB_SLOTS: "Research Slots"
+ RESEARCH_TAB_FACILITIES: "Experimental Facilities"
  RESEARCH_DONE:0 "Researched"
  RESEARCH_TIME_TO_COMPLETE:0 "Research time: $TIME|H$"
  RESEARCH_IDEA_BONUS_ENTRY:0 "$IDEA$: $FACTOR|G=0%$"
@@ -22,6 +24,9 @@
  RESEARCH_REPLACE_TRANSFER:0 "\n$SAVED|H0$ day(s) of previously saved research will be transfereed to the new technology."
  RESEARCH_REPLACE_EXCLUSIVE_TITLE:0 "Replace Mutually Exclusive Research"
  RESEARCH_REPLACE_EXCLUSIVE_DESC:0 "Are you sure you want to research §Y$NEW_TECH$§! instead of §Y$OLD_TECH$§! and all its sub technologies?"
+ RESEARCH_REPLACE_MIO_TITLE: "Replace Design Team"
+ RESEARCH_MIO_XP_COST_DESC: "Assigning $ORG|H$ to $TECH|H$ will cost $COST$."
+ RESEARCH_MIO_XP_COST_DESC_REPLACE: "Assigning $ORG|H$ instead of $OLD_ORG|H$ to $TECH|H$ with cost $COST$."
  RESEARCH_EXCLUSIVE_INFO_TITLE_TOOLTIP:0 "§RThe technology is mutually exclusive with:§!"
  RESEARCH_DOCTRINE_EXCLUSIVE_INFO_TITLE_TOOLTIP:0 "§RThe doctrine is mutually exclusive with:§!"
  RESEARCH_EXCLUSIVE_INFO_DESC:0 "Mutually exclusive with"
@@ -152,15 +157,12 @@
  1960_RADAR_COMPLETE_EARLY_WARNING_SYSTEM_DESC:0 "§YRadar Stations§! in use gives you a §Gbetter chance at retaliation§! and a §Gbetter protection§! against missiles."
  AIR_ASSAULT_ATTACK_HELICOPTER_ADDON:0 "§WAdds Attack Helicopters to £GFX_unit_category_helicopter_icon_small Air Assault, at the expense of a higher cost.§!"
 
- excavation_tech_research:0 "Excavation"
- computing_tech_research:0 "Computing"
- construction_tech_research:0 "Construction"
- industry:0 "Industry"
-
  infantry_artillery_tech:0 "Infantry Weapons and Artillery"
  
  no_doctrine_chosen:0 "No Doctrine Selected"
  click_to_open_doctrine:0 "§GClick§! to open doctrines"
+
+ hidden_factory_on_map:0 "This feature has been disabled for this version of TNO"
  
 #### CATEGORIES ####
  air_doctrine:0 "Air Doctrine"
@@ -214,7 +216,7 @@
  land_doctrine:0 "Land Doctrine"
  cat_combined_operations:0 "Combined Operations"
  cat_maneuver_warfare:0 "Maneuver Warfare"
- cat_strategic_theorem:0 "Strategic Theorem"
+ cat_strategic_warfare:0 "Strategic Theorem"
  light_air:0 "Light Aircraft"
  light_fighter:0 "Fighter Aircraft"
  logistics_tech:0 "Logistics Technology"
@@ -249,13 +251,15 @@
 
  # Navy :^)
  naval_equipment:0 "Ships"
+ fs_tech:0 "Corvette Models"
+ ff_tech:0 "Frigate Models"
  dd_tech:0 "Destroyer Models"
  cl_tech:0 "Cruiser Models"
  ca_tech:0 "Cruiser Models"
  cv_tech:0 "Carrier Models"
  bb_tech:0 "Battleship Models"
  ss_tech:0 "Submarine Models"
- ssn_tech:0 "Nuclear submarine Models"
+ ssn_tech:0 "Nuclear Submarine Models"
  tp_tech:0 "Transport Models"
  naval_mines:0 "Mine Warfare Technologies"
  naval_minelaying:0 "Minelaying Technologies"
@@ -284,7 +288,7 @@
  ### Infantry Weapons ###
  ## Rifles ##
  basic_infantry_equipment:0 "Basic Infantry Equipment"
- basic_infantry_equipment_desc:0 "The most basic equipment necessary for fielding contemporary infantry, such as munitions containers, weapon maintenence kits, mess kits, and other essentials needed to keep our troops looking (at least somewhat) professional and proper."
+ basic_infantry_equipment_desc:0 "The most basic equipment necessary for fielding contemporary infantry, such as munitions containers, weapon maintenance kits, mess kits, and other essentials needed to keep our troops looking (at least somewhat) professional and proper."
  ## Rifles ##
 
  ## Unsure ##
@@ -434,10 +438,10 @@
  combat_support_equipment_2:0 "Improved Combat Support Equipment"
  combat_support_equipment_2_desc:0 "We have further innovated on our ration designs with a lightweight, yet calorie dense, ration contained in soft packaging, allowing soldiers to move more stealthily than carrying the old, heavy tin can wet rations."
 
- combat_support_equipment_3:0 "Advanced Combat Support Equipment"
+ combat_support_equipment_3:0 "Modern Combat Support Equipment"
  combat_support_equipment_3_desc:0 "Portable radio technology has evolved to allow every soldier to carry a lightweight transceiver capable of Single SideBand operation and NarrowBand Frequency Modulation, allowing every soldier to stay in touch with their commanders with ease."
 
- combat_support_equipment_4:0 "Modern Combat Support Equipment"
+ combat_support_equipment_4:0 "Advanced Combat Support Equipment"
  combat_support_equipment_4_desc:0 "The modern battlefield is as diverse as the optics needed to master it. Diversified designs allow for different units to use different sized optics with diferent features depending on their unique needs."
  ## Support Weapons ##
 
@@ -751,9 +755,9 @@
  military_infrastructure2_desc:0 "With the dust settling the days of wagons and living off the land are clearly over. The logistics system must fully rely on mechanical and standardized means of resupply and transport."
  military_infrastructure3:0 "Improved Military Infrastructure"
  military_infrastructure3_desc:0 "The shipping container offers tremendous advantages, especially when it comes to transporting, storing, and supplying our military. Adopting this new technology will provide tremendous logistical advantages."
- military_infrastructure4:0 "Advanced Military Infrastructure"
+ military_infrastructure4:0 "Modern Military Infrastructure"
  military_infrastructure4_desc:0 "Computers provide a tremendous benefit in quantifying and keeping track of our equipment. Adopting them, along with modern storage yards and bases will make logistics muchm ore simpler as war becomes more complicated."
- military_infrastructure5:0 "Modern Military Infrastructure"
+ military_infrastructure5:0 "Advanced Military Infrastructure"
  military_infrastructure5_desc:0 "Now that electronic communication has come into its own, there simply is no excuse for things not getting where they need to be. We will be able to ensure everything gets where it is needed, if we have it."
 
  ## Command and Control
@@ -791,9 +795,9 @@
  assault_weapons_3_desc:0 "Upgrading our flamethrower equipment in order to standardize aperture sizes and fuel tanks will make it easier to supply our flamethrower units with the proper fuel mixtures."
  assault_weapons_4:0 "Improved Assault Weapons"
  assault_weapons_4_desc:0 "Adding armor to the tanks of our flamethrowers will increase their durability and decrease the likelihood of a spontaneous combustion event if it is ruptured during combat."
- assault_weapons_5:0 "Advanced Assault Weapons"
+ assault_weapons_5:0 "Modern Assault Weapons"
  assault_weapons_5_desc:0 "Teaching our flamethrower units newly developed strategies to control the spread of their flame and improve overall combat effectiveness will allow them to be more thoroughly integrated into standard combat units."
- assault_weapons_6:0 "Modern Assault Weapons"
+ assault_weapons_6:0 "Advanced Assault Weapons"
  assault_weapons_6_desc:0 "Adapting our flamethrowers to use modern fuels and propellants will allow our units to fire for longer, with greater accuracy, and reduce the risk of accidents during flamethrower use."
 
  ## Recon Company
@@ -840,11 +844,11 @@
 
  ## Military Police / MP Company
  tech_military_police:0 "Military Police I"
- tech_military_police_desc:0 "Regular troops may be able to manage occupation for a short while, but they are first and foremost soldiers. Having dedicated military police will ensure we have people on the ground to respond to resistance and sabotage."
+ tech_military_police_desc:0 "From policing occupied areas, maintaining public order and handling traffic control. To preventing desertions and maintaining discipline among the rank and file soldiers during deployments all over the world, having dedicated Military Police elements deployed alongside our frontline forces will greatly simplify the process of any military campaign."
  tech_military_police2:0 "Military Police II"
- tech_military_police2_desc:0 "By engaging in regular police duties in occupied territories, such as traffic control and maintaining public order, our military police can minimize the chaos and confusion in which partisan movements thrive."
+ tech_military_police2_desc:0 "Ensuring our MPs undergo special training and making sure their kits benefit from the advancements made in communications technologies will help simplify the difficult task of maintaining order both at and behind the frontline."
  tech_military_police3:0 "Military Police III"
- tech_military_police3_desc:0 "Cooperating with local spy networks and informers established before occupation, our military police can proactively prepare for where resistance is likely to arise."
+ tech_military_police3_desc:0 "By teaching our MPs the customs and languages of the regions they will be deployed to - alongside ensuring proper integration with local collaborationist elements - we can drastically boost their effectiveness."
  tech_military_police4:0 "Military Police IV"
  tech_military_police4_desc:0 "Safely policing occupied territory is as much about returning to normalcy as it is about ruthlessly eliminating opposition. Our military police must ensure that this process starts early to protect soldiers and civilians alike."
  tech_military_police5:0 "Military Police V"
@@ -1711,8 +1715,8 @@
  shock_and_awe_desc:0 "Even a well-prepared enemy can be thrown off of their footing by an impressive enough display of firepower and force. By leveraging massed artillery fire, coordinated air strikes, and overwhelming numbers at the point of contact any enemy can be crushed.\n\n"
 
  ## Strategic Theorem
- strategic_theorem:0 "Strategic Theorem"
- strategic_theorem_desc:0 "Wars are unglamorous, but there is beauty in seeing well-planned, well-timed and well-performed operations unfold in real time. Our generals shall prioritize perfecting this art.\n\n"
+ strategic_warfare:0 "Strategic Theorem"
+ strategic_warfare_desc:0 "Wars are unglamorous, but there is beauty in seeing well-planned, well-timed and well-performed operations unfold in real time. Our generals shall prioritize perfecting this art.\n\n"
 
  prepared_defense:0 "Prepared Redoubt Systems"
  prepared_defense_desc:0 "Small, well-fortified redoubts will serve as early warning systems against incoming enemy attacks. If positioned at certain strategic positions, these redoubts can delay offensives for hours and even days.\n\n"
@@ -1755,12 +1759,10 @@
  # - Good dlc tho
 
  # Folder
- mtgnavalfolder:0 "Naval"
- mtgnavalfolder_desc:0 "Ships and submarines, and research new modules to customize your ships"
  naval_folder:0 "Naval"
  naval_folder_desc:0 "Ships and submarines, and research new modules to customize your ships"
- mtgnavalsupportfolder:0 "Naval Support"
- mtgnavalsupportfolder_desc:0 "Naval armaments and specialist naval equipment. Research new modules to customize your ships."
+ naval_support_folder:0 "Naval Support"
+ naval_support_folder_desc:0 "Naval armaments and specialist naval equipment. Research new modules to customize your ships."
 
  ## Headers / Section Titles ##
  NAVAL_TITLE_DESTROYERS:0 "DESTROYERS"
@@ -1970,9 +1972,9 @@
  # Light Batteries (Module)
  basic_light_battery:0 "Improved Light Battery"
  basic_light_battery_desc:0 "Despite the increasingly attractive options missile destroyers offer, light batteries remain valuable for ships dedicated to speed and agility without the need for precise weapons systems. Increased efficiency in loading systems and modernized emplacement designs can improve the rate-of-fire efficiency and range of this technology."
- improved_light_battery:0 "Advanced Light Battery"
+ improved_light_battery:0 "Modern Light Battery"
  improved_light_battery_desc:0 "Further improvements in the caliber of gun designs, and increased automation in the targeting of naval guns, promises to boost the effectiveness of naval bombardment, diversify their usage against aircraft, and further increase rate of fire."
- advanced_light_battery:0 "Modern Light Battery"
+ advanced_light_battery:0 "Advanced Light Battery"
  advanced_light_battery_desc:0 "As modernized ship designs move towards wholesale adoption of missile targeting, existing naval gun designs can be concentrated and reduced for maximum efficiency - with modern computing systems, 1 naval gun can take the place of 3."
  
  # Light Battery Shells (Modifier)
@@ -1984,9 +1986,9 @@
  # Medium Batteries (Module)
  basic_medium_battery:0 "Improved Medium Battery"
  basic_medium_battery_desc:0 "The early batteries of modern naval craft broke easily, and carried too little charge for the large guns to function quickly at all. Nonetheless, they represented the first step towards the dream of the long-lasting low-docking fleet."
- improved_medium_battery:0 "Advanced Medium Battery"
+ improved_medium_battery:0 "Modern Medium Battery"
  improved_medium_battery_desc:0 "The growing effectiveness of modern processor and resistor technology allowed for increasingly long lived and cheap batteries. This was accompanied in turn with longer-lasting naval artillery barrages."
- advanced_medium_battery:0 "Modern Medium Battery"
+ advanced_medium_battery:0 "Advanced Medium Battery"
  advanced_medium_battery_desc:0 "The digital age brought with it ever better batteries better fit for the ships they served. Guns were able to fire for hours, sometimes days without replacement."
  
  # Medium Battery Shells (Modifier)
@@ -1998,9 +2000,9 @@
  # Heavy Batteries (Module)
  basic_heavy_battery:0 "Improved Heavy Battery"
  basic_heavy_battery_desc:0 "By developing a more improved version of the heavy battery, we can improve our cruisers and battleships by providing with advanced firepower capabilities."
- improved_heavy_battery:0 "Advanced Heavy Battery"
+ improved_heavy_battery:0 "Modern Heavy Battery"
  improved_heavy_battery_desc:0 "New naval guns can carry vastly improved shells, and fire them at longer ranges than previous models. We can improve them with autoloaders and range-finding systems."
- advanced_heavy_battery:0 "Modern Heavy Battery"
+ advanced_heavy_battery:0 "Advanced Heavy Battery"
  advanced_heavy_battery_desc:0 "Mechanization of the auto-loading system, combined with computerized fire control, will drastically improve the lethality of our battleships, keeping them relevant in the age of modern warfare."
  
  # Heavy Battery Shells (Modifier)
@@ -2012,9 +2014,9 @@
  # Secondary Batteries (Module)
  basic_secondary_battery:0 "WW2 Era Secondary Batteries"
  basic_secondary_battery_desc:0 "Light cannons on capital ships back in the Second World War afforded them the ability to engage targets at close range and gave them a modicum of defense without relying on screening vessels."
- improved_secondary_battery:0 "Advanced Secondary Batteries"
+ improved_secondary_battery:0 "Modern Secondary Batteries"
  improved_secondary_battery_desc:0 "Single-purpose cannons were improved with auto-loaders and various improvements brought on by post-war analysis. These weapons would still be able to provide close range defense, now backed up by newer technology."
- dp_secondary_battery:0 "Modern Secondary Batteries"
+ dp_secondary_battery:0 "Advanced Secondary Batteries"
  dp_secondary_battery_desc:0 "Modern secondary batteries can be used for both surface engagements and anti-aircraft duty, by firing shells at enemy planes attempting to attack the ship, making them a backup to the ship's AA as well."
  ## Improvements - Armaments ##
  
@@ -2024,23 +2026,23 @@
  basic_torpedo_desc:0 "Torpedoes in WWII were notoriously unreliable due to inadequate testing. They detonated prematurely due to interference from the earth's magnetic field and faulty depth sensors and lacked the firepower to destroy ships directly."
  improved_ship_torpedo_launcher:0 "Improved Ship Torpedo Launcher"
  improved_ship_torpedo_launcher_desc:0 "Improved warheads and better motors give torpedoes greater maneuverability and strength, assuming that the submarine they launch out of is strong enough."
- advanced_ship_torpedo_launcher:0 "Advanced Ship Torpedo Launcher"
+ advanced_ship_torpedo_launcher:0 "Modern Ship Torpedo Launcher"
  advanced_ship_torpedo_launcher_desc:0 "Advances in propulsion allow torpedoes to travel through the water faster than ever before, reducing the chance of interception."
- modern_ship_torpedo_launcher:0 "Modern Ship Torpedo Launcher"
+ modern_ship_torpedo_launcher:0 "Advanced Ship Torpedo Launcher"
  modern_ship_torpedo_launcher_desc:0 "The use of frequency hopping allows torpedoes to hit their targets without the possibility of being jammed."
  
  # Torpedoes - Detonator/Type (Modifier)
  magnetic_detonator:0 "Advanced Detonator"
  magnetic_detonator_desc:0 "Modern detonators are less likely to mistrigger or fail to trigger and are better at hitting their targets."
- electric_torpedo:0 "Advanced Technical Designs"
+ electric_torpedo:0 "Modern Technical Designs"
  electric_torpedo_desc:0 "The application of advanced mathematics allows more explosives and technology to be fitted inside of each torpedo casing, raising the power of each individual unit."
- homing_torpedo:0 "Modern Torpedo Warfare Doctrine"
+ homing_torpedo:0 "Advanced Torpedo Warfare Doctrine"
  homing_torpedo_desc:0 "Modern torpedo warfare doctrine calls for the strategic use of torpedoes to destroy or disable ships and submarines while concealing one's own position and avoiding enemy weapons."
  
  # Damage Control (Modifier)
  damage_control_1:0 "WW2 Fire Fighting Methods"
  damage_control_1_desc:0 "We have inherited the techniques old sailors have used to keep their leaky ships afloat during the Second World War. Though time has marched past the battlefields of the North Sea and the South Pacific, its lessons remain essential learning today."
- damage_control_2:0 "Cold War Damage Control Doctrine"
+ damage_control_2:0 "Modern Damage Control Doctrine"
  damage_control_2_desc:0 "New eras demand new classes of naval ship, and with that new designs which render old techniques, if not obsolete, then at the very least obsolescent. We should update our damage control methods to take recent developments into account."
  damage_control_3:0 "Advanced Damage Control Theory"
  damage_control_3_desc:0 "The ship is like a body, and its sailors the blood which flow through its metal passageways. And like a body, all doctors must master every little part in order to treat its ails. If nothing else, our sailors shall be doctors of their beloved ships."
@@ -2048,7 +2050,7 @@
  # Fire Control Methods (Modifier)
  fire_control_methods_1:0 "WW2 Fire Control Methods"
  fire_control_methods_1_desc:0 "Sliding rules and range finders: old, but works as well as ever, if not as well as more modern designs."
- fire_control_methods_2:0 "Cold War Fire Control Doctrine"
+ fire_control_methods_2:0 "Modern Fire Control Doctrine"
  fire_control_methods_2_desc:0 "The 1960s heralds an age of breakneck developments in computational technology. Using more modern computers for our targeting solutions will allow for greater ranges with smaller CEPs at faster rates of fire."
  fire_control_methods_3:0 "Advanced Fire Control Theory"
  fire_control_methods_3_desc:0 "Imagine a gun that can hit a nickel thrice a salvo from thirty miles off the coast. That is what our latest computers promise."
@@ -2056,9 +2058,9 @@
  # Transports (Modifier)
  mtg_transport:0 "WW2 Landing Craft"
  mtg_transport_desc:0 "In the Second World War, the Americans used Higgins boats - riveted iron boats ten meters long carrying a ramp and a whole platoon - to ferry their men from ship to shore. We're using them today."
- mtg_landing_craft:0 "Advanced Landing Craft"
+ mtg_landing_craft:0 "Modern Landing Craft"
  mtg_landing_craft_desc:0 "The helicopter has changed how we conceive an amphibious assault. Instead of exposing our men to battery fire in lumbering tin cans, we can use a squadron of helicopters to deliver them to the coast in a fraction of the time."
- mtg_tank_landing_craft:0 "Modern Landing Craft"
+ mtg_tank_landing_craft:0 "Advanced Landing Craft"
  mtg_tank_landing_craft_desc:0 "New innovations in hovercraft technology have produced designs for fast transport ships which can carry as much material in tonnage as the lumbering troopships of Second World War antiquity."
  
  ## Mine Warfare (Modules)
@@ -2124,12 +2126,12 @@
  # Nuclear Reactor (Modifier)
  improved_carrier_nuclear_engine:0 "Nuclear Ship Reactor"
  improved_carrier_nuclear_engine_desc:0 "Onboard nuclear reactors allow for long periods of deployment, the only downside being the dangerous fuel, waste, and possibility of meltdown."
- advanced_carrier_nuclear_engine:0 "Advanced Reactor"
- advanced_carrier_nuclear_engine_desc:0 "Advanced reactors are more fuel efficient, produce more energy, and have more fail safes."
- early_modern_carrier_nuclear_engine:0 "Early-Modern Reactor"
+ advanced_carrier_nuclear_engine:0 "Early-Modern Reactor"
+ advanced_carrier_nuclear_engine_desc:0 "Modern reactors are more fuel efficient, produce more energy, and have more fail safes."
+ early_modern_carrier_nuclear_engine:0 "Modern Reactor"
  early_modern_carrier_nuclear_engine_desc:0 "Improvements in uranium enrichment processes allows for extended use of nuclear reactors beyond the capabilities of previous designs."
- modern_carrier_nuclear_engine:0 "Modern Reactor"
- modern_carrier_nuclear_engine_desc:0 "Modern nuclear reactors are defined by enormous energy output, remarkable efficiency, and a lessened tendency to explode."
+ modern_carrier_nuclear_engine:0 "Advanced Reactor"
+ modern_carrier_nuclear_engine_desc:0 "Advanced nuclear reactors are defined by enormous energy output, remarkable efficiency, and a lessened tendency to explode."
  ## Carriers ##
 
  ## Submarines ##
@@ -2150,9 +2152,9 @@
  transport_desc:0 "Ship designed solely for troop movement, without any defensive capabilities. Some of these are cruise liners and cargo ships commissioned to ferry the government's men."
  landing_craft:0 "Landing Craft"
  landing_craft_desc:0 "In the Second World War, the Americans used Higgins boats - riveted iron boats ten meters long carrying a ramp and a whole platoon - to ferry their men from ship to shore. We're using them today."
- tank_landing_craft:0 "Advanced Landing Craft"
+ tank_landing_craft:0 "Modern Landing Craft"
  tank_landing_craft_desc:0 "The helicopter has changed how we conceive an amphibious assault. Instead of exposing our men to battery fire in lumbering tin cans, we can use a squadron of helicopters to deliver them to the coast in a fraction of the time."
- landing_ship_dock:0 "Modern Landing Craft"
+ landing_ship_dock:0 "Advanced Landing Craft"
  landing_ship_dock_desc:0 "New innovations in hovercraft technology have produced designs for fast transport ships which can carry as much material in tonnage as the lumbering troopships of Second World War antiquity."
  ## Transport ##
  ### Non-MtG ###
@@ -2287,14 +2289,13 @@
 #### LIGHT AIRCRAFT FOLDER ####
  # Folder
  light_air_techs_folder:0 "Light Aircraft"
- light_air_techs_folder_desc:0 "Fighter, interceptor, CAS, multirole, and light stealth aircraft"
+ light_air_techs_folder_desc:0 "Fighter, interceptor, CAS, and multirole aircraft"
 
  # Headers / Section Titles
  AIR_TITLE_CAS:0 "CLOSE AIR SUPPORT"
  AIR_TITLE_FIGHTER:0 "FIGHTERS"
  AIR_TITLE_MULTI_ROLE:0 "MULTI-ROLE COMBAT AIRCRAFT"
  AIR_TITLE_INTERCEPTOR:0 "INTERCEPTORS"
- AIR_TITLE_STEALTH:0 "STEALTH"
 
  # Assorted
  jet_engines:0 "Jet Engines"
@@ -2312,12 +2313,12 @@
 #### HEAVY AIRCRAFT FOLDER ####
  # Folder
  air_techs_folder:0 "Heavy Aircraft"
- air_techs_folder_desc:0 "Tactical and strategic bombers, along with transport planes and heavy stealth aircraft"
+ air_techs_folder_desc:0 "Tactical and strategic bombers, along with transport planes"
 
  # Headers / Section Titles
  AIR_TITLE_TACTICAL:0 "TACTICAL BOMBERS"
  AIR_TITLE_STRATEGIC:0 "STRATEGIC BOMBERS"
- AIR_TITLE_TRANSPORT:0 "TRANSPORT PLANES"
+ AIR_TITLE_TRANSPORTS:0 "TRANSPORT PLANES"
  AIR_TITLE_SPY:0 "SPY PLANES"
 
  # Assorted
@@ -2329,8 +2330,6 @@
  improved_jet_engines_bombers_2_desc:0 "Aerial refueling is a game-changer for our operational capacity, but the trouble is that the operation's complexity practically begs for complications. Thankfully, we can improve on the original design. By creating drogues which easily fix into place and improving the positioning of the fuel intake, we can improve the efficiency and decrease the difficulty of this critical maneuver."
  heavy_stealth_research:0 "Large Scale Stealth Technologies"
  heavy_stealth_research_desc:0 "While the use of stealth design upon smaller aircraft certainly serves its purpose, the benefits of the technology if translated over to our bombers are unmistakeable. It will take some more ingenuity to get something as massive as a bomber to be invisible to radar, but through ingenious engineering and lessons from the past, we can create a bomber that can go through with precision strikes deep in enemy territory without ever being noticed."
- heavy_stealth_strat:0 "Stealth Strategic Bomber"
- heavy_stealth_tac:0 "Stealth Tactical Bomber"
 #### HEAVY AIRCRAFT FOLDER ####
 
 
@@ -2599,7 +2598,6 @@
 
  # Dummy stuff
  nuclear_reactors:0 "Nuclear Reactors"
- missile_silos:0 "Missile Silos"
  nuclear_weapons:0 "Nuclear Weapons"
  improved_warhead_production:0 "Improved Warhead Production"
  improved_warhead_production_2:0 "Improved Warhead Production"
@@ -2680,9 +2678,9 @@
  oil_processing_desc:0 "The last war taught how important fuel is. The new wave of aircraft and self-propelled equipment requires a far larger output, and the scientific world is ready to take the challenge."
  improved_oil_processing:0 "Improved Oil Processing"
  improved_oil_processing_desc:0 "Moving previously experimental methods for distillation to large-scale operations will provide higher yields at lower costs, allowing for greater expansion of the synthetic industry."
- advanced_oil_processing:0 "Advanced Oil Processing"
+ advanced_oil_processing:0 "Modern Oil Processing"
  advanced_oil_processing_desc:0 "New experimental purification techniques like hydrotreating can be used in oil manufacturing to greatly improve the final product, substantially increasing production rates and decreasing costs."
- modern_oil_processing:0 "Modern Oil Processing"
+ modern_oil_processing:0 "Advanced Oil Processing"
  modern_oil_processing_desc:0 "Our oil refineries can be further improved with new advanced oil processing methods like hydrocracking, alkylation, mercaptan oxidation and isomerization. Automatized processes and biological fuels will also increase efficiency and output."
  
  ## Rubber Processing
@@ -2690,9 +2688,9 @@
  rubber_processing_desc:0 "With rubber having become a staple of industry, large-scale processing of synthetic rubber is needed to reduce a nation's dependency on natural rubber."
  improved_rubber_processing:0 "Improved Rubber Processing"
  improved_rubber_processing_desc:0 "Large-scale production of synthetic rubber can be further improved and made cheaper with new automated processes to accelerate dehydrogenation reactions."
- advanced_rubber_processing:0 "Advanced Rubber Processing"
+ advanced_rubber_processing:0 "Modern Rubber Processing"
  advanced_rubber_processing_desc:0 "A general-purpose synthetic rubber recipe with improved processes such as dodecyl mercaptan polymerization modifiers will allow the nations with the means to afford it to expand synthetic rubber production."
- modern_rubber_processing:0 "Modern Rubber Processing"
+ modern_rubber_processing:0 "Advanced Rubber Processing"
  modern_rubber_processing_desc:0 "Fully-optimized and computer-checked polymerization processes will result in lower costs and higher output, projecting rubber production into the new age."
  
  ### Deprecated
@@ -2805,18 +2803,18 @@
  energy_technology_1_desc:0 "Energy is the single most important resource for any nation in the current era, being the lifeline by which all the vital processes which sustain both state and private enterprise are maintained. Modern processes for Coal and Oil production and processing generate several times the output of previous techniques, important both for industrializing nations struggling to escape their agrarian past and developed nations attempting to carve out their mark on the world. Output, more than efficiency, is the keyword of today - he who controls the power controls the world."
  energy_technology_2:0 "Improved Energy Production Technology"
  energy_technology_2_desc:0 "A virtual arms race has begun in the field of energy production, now more heavily in the field of oil processing than any other fuel. The petroleum industry has become both immensely profitable and extremely vital for materials science with the emergence of plastics, and has pioneered techniques that not only include extremely high-volume shipping of immense quantities of oil across the seas, but large-scale processing and destructive refinement that has steadily increased in power output to match the endless hunger of both civilian and military demands."
- energy_technology_3:0 "Advanced Energy Production Technology"
+ energy_technology_3:0 "Modern Energy Production Technology"
  energy_technology_3_desc:0 "It all came crashing down with the global oil crisis. With dramatic shocks to oil supply, the energy industry adapted as rapidly as it could towards maximum efficiency and alternative sources of energy, seeking to extract as much fuel as they possibly could from what supplies exist within their operational borders, as well as utilizing previously underused sectors. Natural gas, once burned off in gigantic flares at pump sites, has emerged as a modern champion - and techniques such as fracking, involving the internal shattering of deep bedrock formations with a fluid, have allowed previously untappable reserves to be accessed. The environmental cost of these new methods, however, is now a hotly contested debate."
- energy_technology_4:0 "Modern Energy Production Technology"
+ energy_technology_4:0 "Advanced Energy Production Technology"
  energy_technology_4_desc:0 "Computers and digitization have begun to emerge in this field as in many others to optimize and maximize the production cycle in previously unimaginable ways, and a new order has emerged from the ashes of the Oil Crisis. While the black gold remains the lifeblood of empires, Biofuels and increased use of non-combustion based sources have begun to radically reshape the way nations and consumers partake in the energy cycle. Increased popular demand for environmental protections has also emerged as a growingly severe side-effect of the more ruthless techniques of extraction now in common use. Global fuel consumption has skyrocketed nations previously dominated by other powers come into their own and carve out their own industries and demands. The future is anyone's game, now more than ever."
  
  nuclear_technology_1:0 "Nuclear Energy Technology"
  nuclear_technology_1_desc:0 "The most titanic conflicts ever witnessed in history came to an end in the previous decade with humanity finally reaching the atomic frontier and harnessing the power of the fundamental constituents of reality - and then proceeding to use this immense energy in acts of immense and unprecedented destruction. Out of this burning, lethally radioactive fallout emerged the New Order - and the Atomic Age. Now, peaceful applications of that wartime research are rapidly emerging, as the potential for limitless energy and a post-scarcity world have begun to capture the imagination of millions of people."
  nuclear_technology_2:0 "Improved Nuclear Energy Technology"
  nuclear_technology_2_desc:0 "Improvements in nuclear power have advanced steadily as prototypes of 'nuclear submarines' and other atomic-powered vehicles begin reaching the experimental production stage. Fusion, once dismissed as the sole domain of the stars, is now the ultimate goal of nuclear engineers, with reactors the size of megaprojects being proposed in an attempt to harness this seemingly inexhaustible source. The materials science required, however, still seems to be tantalizingly out of the grasp of current science."
- nuclear_technology_3:0 "Advanced Nuclear Energy Technology"
+ nuclear_technology_3:0 "Modern Nuclear Energy Technology"
  nuclear_technology_3_desc:0 "The Oil Crisis has provoked massive funding from both governments and private sources into the avenue of nuclear power, with fission reactors assuming increasingly important roles across the power grids of advanced nations. Though energy output has increased exponentially with the development of the technology, so has the waste produced - and nuclear waste remains a hazard for dozens of generations after it is created. Solutions to efficient waste disposal and maximising the output of energy with as little nuclear fuel as possible has become the driving force behind the current industry, with other concerns thrown to the wayside."
- nuclear_technology_4:0 "Modern Nuclear Energy Technology"
+ nuclear_technology_4:0 "Advanced Nuclear Energy Technology"
  nuclear_technology_4_desc:0 "As the crisis in fossil fuel supply eased, nuclear power has assumed less of a last-ditch role and become increasingly integrated and accepted as a standard component of the fuel grid. With fusion power remaining out of reach despite immense efforts to create a practical, net-gain reactor design, fission power has become by far the dominant field of both construction and research. Though occasional voices point to the potential safety dangers and apparent flaws in reactor design, nuclear energy as a percentage of output only seems to be increasing - and this trend is unlikely to change without some sort of radical reassessment of the technology."
 
  ### Unsure
@@ -2848,7 +2846,7 @@
  horse_upgrade_2:0 "Onhooves Equipment Improvements II"
  horse_upgrade_2_desc:0 "We have gathered enough experience throughout the Equine equipments' service to figure out errors and flaws within their design, improving them even further."
  horse_upgrade_split_2_1:0 "Over the Hills and Far Away"
- horse_upgrade_split_2_1_desc:0 "Ponies are gifted with four hooves, that's two more than the humans have. With this advantage, it allows for easier traversal of harsh terrains such as in the mountains, where human batallions struggle to move through."
+ horse_upgrade_split_2_1_desc:0 "Ponies are gifted with four hooves, that's two more than the humans have. With this advantage, it allows for easier traversal of harsh terrains such as in the mountains, where human battalions struggle to move through."
  horse_upgrade_split_2_2:0 "The Unstoppable Tide"
  horse_upgrade_split_2_2_desc:0 "We do not throw our ponies into the enemy lines. Instead, we tactically maneuver them so that they may quickly overrun enemy positions before they know what's coming."
  ### Infantry Branch ###
@@ -2867,7 +2865,7 @@
  
  ### Pegasi Branch ###
  horse_pegasi_1:0 "Pegasi Flight Suit"
- horse_pegasi_1_desc:0 "Independent pegasi batallions will serve as shock-troops intended to lead assaults against enemy positions in hopes of overrunning them before they can form a proper defense. Entire divisions of them can move in speeds matched only by motorized troops. They are also effective at taking out enemy air support if present in the battle."
+ horse_pegasi_1_desc:0 "Independent pegasi battalions will serve as shock-troops intended to lead assaults against enemy positions in hopes of overrunning them before they can form a proper defense. Entire divisions of them can move in speeds matched only by motorized troops. They are also effective at taking out enemy air support if present in the battle."
  horse_pegasi_1_tt:0 "§BPegasi does not require you to produce additional equipment other than equine rifles.§!"
  ### Pegasi Branch ###
  

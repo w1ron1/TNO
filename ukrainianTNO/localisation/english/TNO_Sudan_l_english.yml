@@ -6,6 +6,10 @@
  AYA_Aggrey_Jaden: "Еґрей Джайден"
  AZA_Joseph_Oduho: "Джозеф Одухо"
 
+ AZA_postwar: "Республіка Південний Судан"
+ AZA_postwar_DEF: "Республіка Південний Судан"
+ AZA_postwar_ADJ: "південносуданськ"
+
  #leader bios
 
  POLITICS_ISMAIL_AL_AZHARI_DESC: ""

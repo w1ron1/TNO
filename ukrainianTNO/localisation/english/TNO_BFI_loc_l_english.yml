@@ -127,7 +127,7 @@
  BFI_gui_action_button_5_issue_1_ITA_tt:0 "The world today is more global than it has ever been. Is it not expected, then, that global exchange should also reach into the cultural sphere? News of new spectacles releasing in Hollywood and exciting themes and techniques being previewed in Tokyo leaves our own audiences eager to embrace the Hollywood western and the hōga of Japan. Artists, filmmakers and writers from all over the world are welcome to make a name for themselves in the theatres of Rome, and sow the seeds of an international culture based in Italy."
  BFI_gui_action_button_5_issue_1_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Daily Political Power: §G+0.2§!\n  Improve Opinion: §G+50%§!"
 
- BFI_gui_action_button_6_issue_1_ITA_tt:0 "It is about time that we embraced the influx of foreign arts and culture that has arrived in Italy. De Sica, Rosselini, and Mazzucato are known around the world for their contributions to both Italian and international cinema. Equally, Italian audiences have been taken with the works of Coppola and Scorsese, Yasujiro Ozu and Akira Kurosawa. In commemorating this the long-awaited return of the Venice Film Festival will include a great component of international films, celebrating the artistic achievements of the world at large, and laying the grounds for a permanent international presence in Italy."
+ BFI_gui_action_button_6_issue_1_ITA_tt:0 "It is about time that we embraced the influx of foreign arts and culture that has arrived in Italy. De Sica, Rosselini, and Mazzucato are known around the world for their contributions to both Italian and international cinema. Equally, Italian audiences have been taken with the works of Coppola and Scorsese, Ozu Yasujirō and Kurosawa Akira. In commemorating this the long-awaited return of the Venice Film Festival will include a great component of international films, celebrating the artistic achievements of the world at large, and laying the grounds for a permanent international presence in Italy."
  BFI_gui_action_button_6_issue_1_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Daily Political Power: §G+0.3§!\n  Improve Opinion: §G+70%§!"
 
  # USA
@@ -135,19 +135,19 @@
  BFI_gui_action_button_1_issue_1_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_1_USA_tt:0 "While we remain skeptical about the value of cultural diplomacy, it couldn't hurt to reach for the low hanging fruit - a day or two dedicated for the negotiating teams to take a Roman holiday. Everyone likes being appreciated for who they are, rather than for what they bring to the table."
- BFI_gui_action_button_2_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Stability: §G+2.5%§!"
+ BFI_gui_action_button_2_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Stability: §G+2.5%§!"
 
  BFI_gui_action_button_3_issue_1_USA_tt:0 "Building bridges between our two countries and cultures is something that the private sector is best equipped to do. We'll propose setting up a few avenues for this to happen - encouraging film festivals, having the First Lady promote Italian literature - but nothing too dramatic."
- BFI_gui_action_button_3_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Stability: §G+2.5%§!\n  Daily Political Power: §G+0.05§!"
+ BFI_gui_action_button_3_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Stability: §G+2.5%§!\n  Daily Political Power: §G+0.05§!"
 
  BFI_gui_action_button_4_issue_1_USA_tt:0 "If we want the Italians to remain invested in their relationship with America, then we need to ensure that we are bound together by more than a common enemy. America owes much to the books and letters of humanism and Renaissance thought in Italy, and we hope that promoting a new exchange of culture and thinkers in our respective public spheres will be the first step in a long and durable friendship."
- BFI_gui_action_button_4_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Stability: §G+5%§!\n  Daily Political Power: §G+0.05§!\n§MAmerica§! will gain:\n  Stability: §G+5%§!"
+ BFI_gui_action_button_4_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Stability: §G+5%§!\n  Daily Political Power: §G+0.05§!\n§mAmerica§! will gain:\n  Stability: §G+5%§!"
 
  BFI_gui_action_button_5_issue_1_USA_tt:0 "Building a lasting, durable international relationship requires more than just time and money spent by diplomats in five-star hotels. It requires a genuine appreciation of the values and contributions made by each respective culture - a spark of chemistry to push the relationship along. This cannot be done instantly, but neither was Rome built in a day, so to speak - and we can certainly hurry the process along."
- BFI_gui_action_button_5_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Stability: §G+7.5%§!\n  Daily Political Power: §G+0.05§!\n§MAmerica§! will gain:\n  Stability: §G+5%§!"
+ BFI_gui_action_button_5_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Stability: §G+7.5%§!\n  Daily Political Power: §G+0.05§!\n§mAmerica§! will gain:\n  Stability: §G+5%§!"
 
  BFI_gui_action_button_6_issue_1_USA_tt:0 "We underestimated the degree to which America's cultural scene would take interest in our diplomatic overtures to Italy, and this is an opportunity too good to be missed. We've named Jack Valenti - president of the Motion Pictures Association of America - to lead a delegation of Italian-American artists and writers to meet with Italian cultural luminaries. Coppola, Scorsese, Robert H. De Niro - they all could have much to gain from working together with De Sica, Rosselini, and Mazzucato."
- BFI_gui_action_button_6_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Stability: §G+7.5%§!\n  Daily Political Power: §G+0.1§!\n§MAmerica§! will gain:\n  Stability: §G+5%§!\n  Daily Political Power: §G+0.05§!"
+ BFI_gui_action_button_6_issue_1_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Stability: §G+7.5%§!\n  Daily Political Power: §G+0.1§!\n§mAmerica§! will gain:\n  Stability: §G+5%§!\n  Daily Political Power: §G+0.05§!"
 
  # Japan
  BFI_gui_action_button_1_issue_1_JAP_tt:0 "The last time art of any aesthetic value came out of Italy was when the Caesars still ruled. Japanese money shall be spent on Japanese art for Japanese eyes, Japanese music for Japanese ears, and Japanese culture for the Japanese people. If the Italians want to dig up their lost cultural heritage and then toss it aside to make degenerate films, they must do it without our assistance."
@@ -170,7 +170,7 @@
 
  # Made in Italy
  # Italy
- BFI_gui_action_button_2_issue_2_ITA_tt:0 "Custom taxes, months of travel, and the accursed ebb and flow of market fashions: All great perils we must whether to even attempt to export Italy's signature products abroad. Ever since the disaster of Atlantropa, we have found that carefully controlling both supply and demand in our own markets was far safer than attempting forays into foreign ports. With enough faith and enough investments, this will continue without a hitch."
+ BFI_gui_action_button_2_issue_2_ITA_tt:0 "Custom taxes, months of travel, and the accursed ebb and flow of market fashions: All great perils we must whether to even attempt to export Italy's signature products abroad. Ever since the economic downturns of Ciano's reign, we have found that carefully controlling both supply and demand in our own markets was far safer than attempting forays into foreign ports. With enough faith and enough investments, this will continue without a hitch."
  BFI_gui_action_button_2_issue_2_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Resources to Market: §G-5%§!\n  Monthly Industrial Equipment: §R-0.5§!\n  Monthly Industrial Expertise: §R-0.5§!"
 
  BFI_gui_action_button_3_issue_2_ITA_tt:0 "A host of thriving international corporations have shown great interest in shouldering the great costs of international trade, and seem willing to let us share in their profits. From now on, we shall pursue a more moderate policy when it comes to International exports, negotiating lucrative deals with various corporations in order to offload luxury goods and create demand in struggling Italian markets."
@@ -179,7 +179,7 @@
  BFI_gui_action_button_4_issue_2_ITA_tt:0 "Italy's goods are clearly in demand abroad, and our own business representatives and economic experts have shown some desire in expanding to markets beyond those of Europe and the Mediterranean. We shall follow this current with cautious optimism, encouraging a positive trade balance with the world at large, while not neglecting the demands of our own markets!"
  BFI_gui_action_button_4_issue_2_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Resources to Market: §R+5%§!\n  Monthly Industrial Equipment: §G+0.5§!\n  Monthly Industrial Expertise: §G+0.5§!"
 
- BFI_gui_action_button_5_issue_2_ITA_tt:0 "Perhaps the calamity of Atlantropa is behind us. Perhaps, with aid from international powers and our own pool of savvy entrepreneurs and tradesmen, Italy can finally reclaim its ancient role as a center of global trade and prosperity. Through the Suez, a new lifeblood will spring forth, connecting Rome to an increasingly global world, and exporting Italy's finest products to distant shores."
+ BFI_gui_action_button_5_issue_2_ITA_tt:0 "Perhaps the economic woes of the 1950s are behind us. Perhaps, with aid from international powers and our own pool of savvy entrepreneurs and tradesmen, Italy can finally reclaim its ancient role as a center of global trade and prosperity. Through the Suez, a new lifeblood will spring forth, connecting Rome to an increasingly global world, and exporting Italy's finest products to distant shores."
  BFI_gui_action_button_5_issue_2_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Resources to Market: §R+10%§!\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Industrial Expertise: §G+1§!"
 
  BFI_gui_action_button_6_issue_2_ITA_tt:0 "There is no alternative, Italy's economy must be linked to that of the great powers as soon as it can afford it. Through offering subsidies to promising entrepreneurs and leveraging our control over the Italian economy, we shall mobilize our economic sectors towards serving far more lucrative markets in Tokyo and Washington. Italian brands will be synonymous with excellence, and Italy's prosperity will no doubt grow as we finally and fully embrace the wonders of the tertiary sector."
@@ -190,19 +190,19 @@
  BFI_gui_action_button_1_issue_2_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_2_USA_tt:0 "Although we still impose heavy tariffs and trade barriers on the import of Italian goods, some are beginning to appear on American shores. We would probably benefit if we exported to Italy, as well."
- BFI_gui_action_button_2_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+10%§!"
+ BFI_gui_action_button_2_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+10%§!"
 
  BFI_gui_action_button_3_issue_2_USA_tt:0 "Italian-American trade can be left to Italian and American firms individually. They know what's best and how much to import it, no need to step in any further."
- BFI_gui_action_button_3_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+10%§!\n  GDP Boost: §G+2%§!"
+ BFI_gui_action_button_3_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+10%§!\n  GDP Boost: §G+2%§!"
 
  BFI_gui_action_button_4_issue_2_USA_tt:0 "A good diplomatic relationship is most often established on the back of a good business relationship. If we wish to have a part in the new Italy, we will have to begin formalizing and expanding our trade relations."
- BFI_gui_action_button_4_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+20%§!\n  GDP Boost: §G+2%§!\n§MAmerica§! will gain:\n  GDP Boost: §G+1%§!"
+ BFI_gui_action_button_4_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+20%§!\n  GDP Boost: §G+2%§!\n§mAmerica§! will gain:\n  GDP Boost: §G+1%§!"
 
  BFI_gui_action_button_5_issue_2_USA_tt:0 "In order to fully realize the benefits of Italian-American trade, we have to do more than simply lower some tariffs. We should begin preparing to craft a real bilateral trade agreement with Rome."
- BFI_gui_action_button_5_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+40%§!\n  GDP Boost: §G+2%§!\n§MAmerica§! will gain:\n  GDP Boost: §G+2%§!"
+ BFI_gui_action_button_5_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+40%§!\n  GDP Boost: §G+2%§!\n§mAmerica§! will gain:\n  GDP Boost: §G+2%§!"
 
  BFI_gui_action_button_6_issue_2_USA_tt:0 "For all intents and purposes, the American and the Italian Empire are members of the economic bloc. Our goods flow freely between our two countries, and there is a genuine sense of mutual respect in that. Truly, this may be the beginning of a lucrative and fruitful trade relationship."
- BFI_gui_action_button_6_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+60%§!\n  GDP Boost: §G+2%§!\n§MAmerica§! will gain:\n  GDP Boost: §G+3%§!"
+ BFI_gui_action_button_6_issue_2_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Deal Opinion Factor: §G+60%§!\n  GDP Boost: §G+2%§!\n§mAmerica§! will gain:\n  GDP Boost: §G+3%§!"
 
  # Japan
  BFI_gui_action_button_1_issue_2_JAP_tt:0 "There is much more to the world than the tinpot trinkets pieced together in the factories dotted about the Italian peninsula. We have plenty of goods in the domestic markets across Asia, and to open the door to the flow of Italian products may disadvantage some of the competitors within the Empire and undermine the economic security we so desire."
@@ -245,19 +245,19 @@
  BFI_gui_action_button_1_issue_3_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_3_USA_tt:0 "Both American tourism in Italy and Italian tourism in America are fringe interests. Virtually all visits are arranged privately, and enjoyed mostly by the young and the adventurous, eager to take advantage of the slightly more open travel policies."
- BFI_gui_action_button_2_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!"
+ BFI_gui_action_button_2_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!"
 
  BFI_gui_action_button_3_issue_3_USA_tt:0 "There is now limited tour group activity in both countries, with some travel companies jumping in on the new market. People are still weary to discuss their trips to Italy or America on their returns home, however"
- BFI_gui_action_button_3_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Relationship with America: §G+2§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Relationship with Italy: §G+2§!"
+ BFI_gui_action_button_3_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Relationship with America: §G+2§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Relationship with Italy: §G+2§!"
 
  BFI_gui_action_button_4_issue_3_USA_tt:0 "More and more tourists from both countries are deciding to spend their holidays in each other's countries. In both America and Italy, small cottage industries have arisen to accommodate the influx of American and Italian tourists, and the trend is still going upward."
- BFI_gui_action_button_4_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n  Relationship with America: §G+5§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n  Relationship with Italy: §G+5§!"
+ BFI_gui_action_button_4_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n  Relationship with America: §G+5§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n  Relationship with Italy: §G+5§!"
 
  BFI_gui_action_button_5_issue_3_USA_tt:0 "American tourism in Italy and Italian tourism in America are reaching their maximum crescendos, with record numbers being recorded every month. Several tour groups, cruises, and hotels have been established to meet all of this new demand, with both industries witnessing substantial climbs."
- BFI_gui_action_button_5_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Relationship with America: §G+10§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Relationship with Italy: §G+10§!"
+ BFI_gui_action_button_5_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Relationship with America: §G+10§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Relationship with Italy: §G+10§!"
 
  BFI_gui_action_button_6_issue_3_USA_tt:0 "America and Italy are now mutual top choices for each nation's tourists. It is not at all uncommon to come across groups of Italian tourists in New York or American ones in Rome. There are no signs of these trends dying down, so pack your bags everyone!"
- BFI_gui_action_button_6_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+250§! §YMillion Dollars§!\n  Relationship with America: §G+10§!\n  GDP Boost: §G+2%§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+250§! §YMillion Dollars§!\n  Relationship with Italy: §G+10§!"
+ BFI_gui_action_button_6_issue_3_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+250§! §YMillion Dollars§!\n  Relationship with America: §G+10§!\n  GDP Boost: §G+2%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+250§! §YMillion Dollars§!\n  Relationship with Italy: §G+10§!"
 
  # Japan
  BFI_gui_action_button_1_issue_3_JAP_tt:0 "There are more pressing issues that concern the Japanese government than holiday destinations halfway across the globe. After all, from the snow-dusted mountains of Sapporo to the bustling city of Saigon, there are plenty of beautiful sights and scenes across the Co-Prosperity Sphere that our citizens have easy access to."
@@ -289,7 +289,7 @@
  BFI_gui_action_button_4_issue_4_ITA_tt:0 "We must admit that, while Italy's factories and businesses produce plenty to satisfy the demands of our people, they can not satisfy all of it. Great leaps in technology are being made in both Japan and America, and we would do well to encourage similar developments at home. We have decided to announce our interest in attracting the industrial giants of the world to share in Italy's wealth and markets, as a means of accelerating our progress to the international level."
  BFI_gui_action_button_4_issue_4_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Monthly Industrial Expertise: §G+1§!"
 
- BFI_gui_action_button_5_issue_4_ITA_tt:0 "Even if they may not have the best interests of our own nation at heart, the amount of sheer power and innovation concentrated in Multinational companies is enough of an incentive to overlook their rougher edges. Toyota, Nissan, Mitsubishi, Ford, IBM, and American Motors are all illustrious brands with serious weight to their name. Encouraging deals with the giants of modern industry is key to our policy. By offering moderate incentives, we hope to attract their products to our markets, and eventually allow for the creation of local factories and subsidiaries."
+ BFI_gui_action_button_5_issue_4_ITA_tt:0 "Even if they may not have the best interests of our own nation at heart, the amount of sheer power and innovation concentrated in Multinational companies is enough of an incentive to overlook their rougher edges. Toyota, Datsun, Mitsubishi, Ford, IBM, and American Motors are all illustrious brands with serious weight to their name. Encouraging deals with the giants of modern industry is key to our policy. By offering moderate incentives, we hope to attract their products to our markets, and eventually allow for the creation of local factories and subsidiaries."
  BFI_gui_action_button_5_issue_4_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Monthly Industrial Expertise: §G+1§!\n  GDP Boost: §G+2%§!"
 
  BFI_gui_action_button_6_issue_4_ITA_tt:0 "In our efforts to rapidly modernize Italy's Industry, we have decided to concede serious competitive advantages to foreign companies and governments in order to encourage exports and expansion towards Italy. This policy will soon place us at the center of the industrial scene, promoting Italy as a large and developed economy where firms and products can find massive demand and low barriers to their growth. Manufactured products, modern businesses, and industrial expertise will flood into Italy, lifting our economy upwards."
@@ -300,19 +300,19 @@
  BFI_gui_action_button_1_issue_4_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_4_USA_tt:0 "The industrial sector shouldn't be considered important to our efforts in Italy. Decades of high tariffs and a completely different approach to state interference has led to wildly divergent standards and practices, leaving precious little room for influence."
- BFI_gui_action_button_2_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+0.5§!"
+ BFI_gui_action_button_2_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+0.5§!"
 
  BFI_gui_action_button_3_issue_4_USA_tt:0 "The industrial sector is not the best candidate for us to expand our influence, but there might be opportunities worth pursuing. Decades of tariffs have led to a divergence in standards and practices which might be difficult to gap, but there is potential for profitable cooperation in certain sectors."
- BFI_gui_action_button_3_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+1§!\n§MAmerica§! will gain:\n  Miscellaneous Expenses: §R+50§! §YMillion Dollars§!"
+ BFI_gui_action_button_3_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+1§!\n§mAmerica§! will gain:\n  Miscellaneous Expenses: §R+50§! §YMillion Dollars§!"
 
  BFI_gui_action_button_4_issue_4_USA_tt:0 "The industrial sector should form part of our efforts in Italy. Italian corporations command great influence, and might be persuaded to work more closely with their American counterparts with the right incentives. If we could position ourselves as the preferred partner of Italian industry, it would be sure to help us in the larger battle for influence in the country."
- BFI_gui_action_button_4_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Industrial Expertise: §G+0.5§!\n§MAmerica§! will gain:\n  Miscellaneous Expenses: §R+50§! §YMillion Dollars§!\n  Monthly Industrial Expertise: §G+0.5§!"
+ BFI_gui_action_button_4_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Industrial Expertise: §G+0.5§!\n§mAmerica§! will gain:\n  Miscellaneous Expenses: §R+50§! §YMillion Dollars§!\n  Monthly Industrial Expertise: §G+0.5§!"
 
  BFI_gui_action_button_5_issue_4_USA_tt:0 "The industrial sector will be important in the ongoing battle for influence. Italian industrial giants are both influential in the country and open to American investment and know-how, and we have an excellent opportunity to position ourselves as the preferred partner for Italian industry, boosting our efforts in the ongoing influence battle against Japan."
- BFI_gui_action_button_5_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+1.5§!\n  Monthly Industrial Expertise: §G+1§!\n§MAmerica§! will gain:\n  Miscellaneous Expenses: §R+100§! §YMillion Dollars§!\n  Monthly Industrial Expertise: §G+1§!"
+ BFI_gui_action_button_5_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+1.5§!\n  Monthly Industrial Expertise: §G+1§!\n§mAmerica§! will gain:\n  Miscellaneous Expenses: §R+100§! §YMillion Dollars§!\n  Monthly Industrial Expertise: §G+1§!"
 
  BFI_gui_action_button_6_issue_4_USA_tt:0 "The image of industrial success has been a point of pride for Italy. The Italian industrial giants possess immense respect and influence, and crucially, an interest American know-how, investment and market access. Their preferred partner will have a very strong position in the ongoing battle for influence, and we should do everything in our power to make sure we're it."
- BFI_gui_action_button_6_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+2§!\n  Monthly Industrial Expertise: §G+1§!\n§MAmerica§! will gain:\n  Miscellaneous Expenses: §R+100§! §YMillion Dollars§!\n  Monthly Industrial Expertise: §G+1§!\n  GDP Boost: §G+1%§!"
+ BFI_gui_action_button_6_issue_4_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Industrial Equipment: §G+2§!\n  Monthly Industrial Expertise: §G+1§!\n§mAmerica§! will gain:\n  Miscellaneous Expenses: §R+100§! §YMillion Dollars§!\n  Monthly Industrial Expertise: §G+1§!\n  GDP Boost: §G+1%§!"
 
  # Japan
  BFI_gui_action_button_1_issue_4_JAP_tt:0 "With restrictive labor standards and manufacturing regulations across Italy, it is against our best interests to begin endeavors into the European markets. Not only would we be throwing money into a bottomless pit, we would be corrupting our own consumer economy with floods of cheap, tinpot goods. We will kindly step away, with a sincere and polite refusal."
@@ -355,19 +355,19 @@
  BFI_gui_action_button_1_issue_5_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_5_USA_tt:0 "Academia shouldn't be the main thrust of our efforts in Italy. The insularity of their University system is skeptical of our "interference", and the mismatch between history and present for our respective countries makes it difficult to discuss cooperation without stepping on toes."
- BFI_gui_action_button_2_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+0.5§!"
+ BFI_gui_action_button_2_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+0.5§!"
 
  BFI_gui_action_button_3_issue_5_USA_tt:0 "Academia is a poor candidate for the focus of our main efforts in Italy, but it could still play a part. Our top academic advisors have pointed out several fields they believe could benefit from cooperation with Italian counterparts, where both countries would stand to gain from cooperation."
- BFI_gui_action_button_3_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Monthly Academic Base: §G+0.5§!\n§MAmerica§! will gain:\n  Monthly Research Facilities: §G+0.5§!"
+ BFI_gui_action_button_3_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Monthly Academic Base: §G+0.5§!\n§mAmerica§! will gain:\n  Monthly Research Facilities: §G+0.5§!"
 
  BFI_gui_action_button_4_issue_5_USA_tt:0 "Italy possesses some of the most venerable institutions of higher learning in the world, and top researchers and academics in several fields. We, on our hand, have the best Universities on the planet, and the most generous budgets for research. The importance of science to both nations dictate that we should focus some of our efforts in the Academic sphere."
- BFI_gui_action_button_4_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1.5§!\n  Monthly Academic Base: §G+0.5§!\n§MAmerica§! will gain:\n  Monthly Research Facilities: §G+0.5§!\n  Daily Political Power: §G+0.05§!"
+ BFI_gui_action_button_4_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1.5§!\n  Monthly Academic Base: §G+0.5§!\n§mAmerica§! will gain:\n  Monthly Research Facilities: §G+0.5§!\n  Daily Political Power: §G+0.05§!"
 
  BFI_gui_action_button_5_issue_5_USA_tt:0 "Italy has a long and storied academic history and remains at the forefront of research in several fields. Establishing and strengthening ties between Academic circles in our nations will strengthen both our position as a beacon of scientific progress and our influence in Italy."
- BFI_gui_action_button_5_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1.5§!\n  Monthly Academic Base: §G+1§!\n§MAmerica§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Daily Political Power: §G+0.05§!"
+ BFI_gui_action_button_5_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1.5§!\n  Monthly Academic Base: §G+1§!\n§mAmerica§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Daily Political Power: §G+0.05§!"
 
  BFI_gui_action_button_6_issue_5_USA_tt:0 "Academia should be at the forefront of our efforts in Italy, should we aim for success in the battle for influence. The country's long and storied academic history places the Universities and students at the core of Italian self-perception, making the preferred partner for Academia likely to be the preferred partner for the country as a whole."
- BFI_gui_action_button_6_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+2§!\n  Monthly Academic Base: §G+1§!\n§MAmerica§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Daily Political Power: §G+0.1§!"
+ BFI_gui_action_button_6_issue_5_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+2§!\n  Monthly Academic Base: §G+1§!\n§mAmerica§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Daily Political Power: §G+0.1§!"
 
  # Japan
  BFI_gui_action_button_1_issue_5_JAP_tt:0 "We can have no plans in discussing with the Italians over matters of academia as long as it remains so closed off from the outside world. The Ministry of Popular Culture has left a legacy of closed doors and high walls around Italian institutions, particularly around educational facilities, and so our attention is better placed elsewhere."
@@ -379,7 +379,7 @@
  BFI_gui_action_button_3_issue_5_JAP_tt:0 "Coordination and cooperation is something that the universities best conduct themselves; after all, the very principle of their institutions is to educate and to share and research upon information. We will establish a few avenues for connections between academic facilities here in Japan with those in Italy by setting up conferences and forums for staff and researchers to communicate."
  BFI_gui_action_button_3_issue_5_JAP_delayed_tt:0 "If §GItaly§! joins the §YCo-Prosperity Sphere§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1§!\n§YJapan§! will gain:\n  Research Speed: §G+1%§!\n"
 
- BFI_gui_action_button_4_issue_5_JAP_tt:0 "If any partnership we have with the Italians can continue and last the test of time, let us make an effort in connecting our research and academic bases. By establishing official ties with Italian universities, we hope to connect Mediterrenean facilities with the scientific and cultural advancements of the East, and begin engaging in a public exchange of study, education, and material that can advance the friendships our two nations share."
+ BFI_gui_action_button_4_issue_5_JAP_tt:0 "If any partnership we have with the Italians can continue and last the test of time, let us make an effort in connecting our research and academic bases. By establishing official ties with Italian universities, we hope to connect Mediterranean facilities with the scientific and cultural advancements of the East, and begin engaging in a public exchange of study, education, and material that can advance the friendships our two nations share."
  BFI_gui_action_button_4_issue_5_JAP_delayed_tt:0 "If §GItaly§! joins the §YCo-Prosperity Sphere§!, §GItaly§! will gain:\n  Monthly Research Facilities: §G+1§!\n  Monthly Academic Base: §G+0.5§!\n§YJapan§! will gain:\n  Research Speed: §G+3%§!\n  Monthly Academic Base: §G+0.5§!\n"
 
  BFI_gui_action_button_5_issue_5_JAP_tt:0 "Italian academic institutions have begun opening their doors to professionals and experts across the globe, and we only see it fit that our universities involve themselves in the development of research across the Mediterranean nation. By committing staff and support in the education of Japanese language and history, as well as promoting sciences innovated in the East, we can expect to see dramatic improvements in the relationship we have with Rome as their academic base improves with our aid."
@@ -390,7 +390,7 @@
 
  # Agricultural Agreements
  # Italy
- BFI_gui_action_button_2_issue_6_ITA_tt:0 "One of the hallmarks of fascist economic policy was the pursuit of autarky - complete economic self-reliance. While the Battle for Grain in the interwar years eliminated Italy's agricultural trade deficit, these gains were completely reversed once the completion of Atlantropa destabilized Italy's climate, and Italy now imports much of its foodstuff from Egypt. While some argue that free trade with the United States and Japan could benefit Italy's agricultural sector, we will maintain protectionist policies for now."
+ BFI_gui_action_button_2_issue_6_ITA_tt:0 "One of the hallmarks of fascist economic policy was the pursuit of autarky - complete economic self-reliance. While the Battle for Grain in the interwar years eliminated Italy's agricultural trade deficit, these gains were completely lost in the decades following the creation of the Italian Empire, and Italy now imports much of its foodstuff from Egypt. While some argue that free trade with the United States and Japan could benefit Italy's agricultural sector, we will maintain protectionist policies for now."
  BFI_gui_action_button_2_issue_6_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Monthly Agriculture Methods: §R-2§!"
 
  BFI_gui_action_button_3_issue_6_ITA_tt:0 "We have concluded that liberalizing the trade of agricultural products is necessary, and have repealed some of the more onerous tariffs on agricultural imports. Already, American and Japanese brands of foodstuff are finding their way into Italy's grocery stores, and food prices have fallen slightly. However, most Italian farmers still prefer to sell their produce domestically."
@@ -402,7 +402,7 @@
  BFI_gui_action_button_5_issue_6_ITA_tt:0 "Our agricultural sector is undergoing a transformation following our signing of sweeping free trade agreements with the United States and Japan, which remove almost all barriers to the trade of agricultural products and promote the purchase of Italian goods. In addition, we have established import-export banks that will allow even our homesteaders to easily sell their produce to foreign markets."
  BFI_gui_action_button_5_issue_6_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Monthly Agriculture Methods: §G+1§!\n  Our §spoverty rate§! will begin to §Gimprove§!."
 
- BFI_gui_action_button_6_issue_6_ITA_tt:0 "Our agricultural free-trade policies have transformed Italy's agricultural sector. Italian farmers now sell their produce as far away as Chicago or Tokyo, foreign brands fill the shelves of Italian grocery stores while Italian brands fill American and Japanese supermarkets, and foreign capital has flooded into our agricultural enterprises, raising our agricultural production to pre-Atlantropa levels."
+ BFI_gui_action_button_6_issue_6_ITA_tt:0 "Our agricultural free-trade policies have transformed Italy's agricultural sector. Italian farmers now sell their produce as far away as Chicago or Tokyo, foreign brands fill the shelves of Italian grocery stores while Italian brands fill American and Japanese supermarkets, and foreign capital has flooded into our agricultural enterprises, raising our agricultural production to pre-Empire levels."
  BFI_gui_action_button_6_issue_6_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Monthly Agriculture Methods: §G+2§!\n  Our §spoverty rate§! will begin to §Grapidly improve§!"
 
  # USA
@@ -410,22 +410,22 @@
  BFI_gui_action_button_1_issue_6_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_6_USA_tt:0 "Agriculture could be a promising area of cooperation, if it wasn't for the differences in policy between the Italians and ourselves in the area. The Italians are much more concerned with protecting their own farmers than the potential benefits of closer ties, and there is little room to exert influence in this sphere of their society."
- BFI_gui_action_button_2_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!"
+ BFI_gui_action_button_2_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!"
 
  BFI_gui_action_button_3_issue_6_USA_tt:0 "Agriculture will not be the main front in this war for influence, it's too much of a hot button issue domestically for the Italians. Still, there should be a lot of room for fruitful cooperation if we can dodge the politics. There are opportunities here, but they might not be worth the price of investment."
- BFI_gui_action_button_3_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+0.5§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+75§! §YMillion Dollars§!"
+ BFI_gui_action_button_3_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+0.5§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+75§! §YMillion Dollars§!"
 
  BFI_gui_action_button_4_issue_6_USA_tt:0 "Agriculture should be a candidate for investment in the influence battle. The differences in climates and traditions between our countries mean there are plentiful opportunities for cooperation and profitable exchange, but protectionist attitudes and policies necessitate that we tread carefully."
- BFI_gui_action_button_4_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+1§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!"
+ BFI_gui_action_button_4_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+1§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!"
 
  BFI_gui_action_button_5_issue_6_USA_tt:0 "Agriculture will be an important front in the war for influence in Italy. American and Italian agriculture have different traditions, and even in modern times they are developing in different directions. This leaves a lot of potential for exchange, both of products and of knowledge. We should leverage that potential."
- BFI_gui_action_button_5_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+1.5§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+225§! §YMillion Dollars§!"
+ BFI_gui_action_button_5_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+1.5§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+225§! §YMillion Dollars§!"
 
  BFI_gui_action_button_6_issue_6_USA_tt:0 "Agriculture will be a decisive front in the war for influence in Italy. The Italians place their food traditions and farmers at the core of their identity, and whoever is established as their preferred partner will have a very strong position in the country."
- BFI_gui_action_button_6_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+2§!\n  Monthly Poverty Rate Decrease: §G+0.05%§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!"
+ BFI_gui_action_button_6_issue_6_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+2§!\n  Monthly Poverty Rate Decrease: §G+0.05%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!"
 
  # Japan
- BFI_gui_action_button_1_issue_6_JAP_tt:0 "Small Italian farms may look quaint on wine bottles, but the Mediterrenean climate is wholly unsuited to nutritious or pleasurable agricultural produce. The Japanese people are better off consuming foods grown locally."
+ BFI_gui_action_button_1_issue_6_JAP_tt:0 "Small Italian farms may look quaint on wine bottles, but the Mediterranean climate is wholly unsuited to nutritious or pleasurable agricultural produce. The Japanese people are better off consuming foods grown locally."
  BFI_gui_action_button_1_issue_6_JAP_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_6_JAP_tt:0 "The Sphere, especially China, produces a great deal of agricultural produce, mostly rice, with limited avenues by which to sell it. With the land of the Italians opened up to us, they will learn to enjoy the world's greatest, simplest, and most delicious grain over whatever it is they consider food."
@@ -434,10 +434,10 @@
  BFI_gui_action_button_3_issue_6_JAP_tt:0 "One of the biggest concerns over agricultural exchange is the spread of disease, invasive species, or subpar produce. Though we would never commit such an egregious error, the creation of an independent trade commission to regulate agricultural exchange between Japan and Italy would go a long way towards endearing the Italians."
  BFI_gui_action_button_3_issue_6_JAP_delayed_tt:0 "If §GItaly§! joins the §YCo-Prosperity Sphere§!, §GItaly§! will gain:\n  Monthly Population: §G+4%§!\n  Monthly Agricultural Methods: §G+0.5§!\n§YJapan§! will gain:\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n"
 
- BFI_gui_action_button_4_issue_6_JAP_tt:0 "The Italians consider productive agriculture to be a foundation of their national pride. In recent decades, with the damming of the Mediterrenean and the decline of trade, this foundation has become unstable. With a little Japanese Yen, each Italian farm will be remade into a cornucopia."
+ BFI_gui_action_button_4_issue_6_JAP_tt:0 "The Italians consider productive agriculture to be a foundation of their national pride. In recent decades, with the damming of the Mediterranean and the decline of trade, this foundation has become unstable. With a little Japanese Yen, each Italian farm will be remade into a cornucopia."
  BFI_gui_action_button_4_issue_6_JAP_delayed_tt:0 "If §GItaly§! joins the §YCo-Prosperity Sphere§!, §GItaly§! will gain:\n  Monthly Population: §G+6%§!\n  Monthly Agricultural Methods: §G+1§!\n§YJapan§! will gain:\n  Miscellaneous Income: §G+225§! §YMillion Dollars§!\n"
 
- BFI_gui_action_button_5_issue_6_JAP_tt:0 "Italian cuisine is almost totally unknown to the average Japanese citizen's palette. A new infusion of pastas, sauces, and Mediterrenean fruits could spark a firestorm of Italophilia among our people as well as understanding between our two governments."
+ BFI_gui_action_button_5_issue_6_JAP_tt:0 "Italian cuisine is almost totally unknown to the average Japanese citizen's palette. A new infusion of pastas, sauces, and Mediterranean fruits could spark a firestorm of Italophilia among our people as well as understanding between our two governments."
  BFI_gui_action_button_5_issue_6_JAP_delayed_tt:0 "If §GItaly§! joins the §YCo-Prosperity Sphere§!, §GItaly§! will gain:\n  Monthly Population: §G+8%§!\n  Monthly Agricultural Methods: §G+1.5§!\n§YJapan§! will gain:\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!\n  Monthly Agricultural Methods: §G+0.5§!\n"
 
  BFI_gui_action_button_6_issue_6_JAP_tt:0 "While arable land diminishes in Japan, Italian fields will never cease yielding golden bounty! Wine, new pastas, and olive oil will become a staple of the new Japanese diet!"
@@ -445,7 +445,7 @@
 
  # Politics of Petrol
  # Italy
- BFI_gui_action_button_2_issue_7_ITA_tt:0 "The discovery of vast oil reserves in our Middle Eastern holdings is what saved the Italian Empire from collapse after Atlantropa. Now, Italy dominates global oil markets, and our position has allowed us to mark up our oil prices beyond expected market rates. Some argue that this is unfair to consumers, but our control of the oil market grants us leverage over the superpowers. After all, where else are they going to get their fuel from?"
+ BFI_gui_action_button_2_issue_7_ITA_tt:0 "The discovery of vast oil reserves in our Middle Eastern holdings is what kept the Italian economy afloat during the Fifties. Now, Italy dominates global oil markets, and our position has allowed us to mark up our oil prices beyond expected market rates. Some argue that this is unfair to consumers, but our control of the oil market grants us leverage over the superpowers. After all, where else are they going to get their fuel from?"
  BFI_gui_action_button_2_issue_7_ITA_delayed_tt:0 "If §GItaly§! keeps its independence, §GItaly§! will gain:\n  Resources to Market: §G-5%§!"
 
  BFI_gui_action_button_3_issue_7_ITA_tt:0 "In order to earn goodwill with the United States and Japan, we have decided to reduce the price of the oil we sell to the OFN and Co-Prosperity Sphere to a more normal amount. This move has been praised by businesses and consumers alike, who stand to benefit from cheaper oil prices. However, we will still maintain tariffs on oil imports and restrictions on foreign investment in ENI."
@@ -465,19 +465,19 @@
  BFI_gui_action_button_1_issue_7_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_7_USA_tt:0 "Oil and gas are a poor choice of battleground in the influence battle. While the Italian oil industry and ENI is primarily a competitor for ours, and it couldn't hurt to explore the possibilities for cooperation between our respective sectors, it's unlikely to yield much influence."
- BFI_gui_action_button_2_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
+ BFI_gui_action_button_2_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
 
  BFI_gui_action_button_3_issue_7_USA_tt:0 "Oil and gas is unlikely to play a major role in the influence battle for Italy. For that, ENI guards their markets and knowledge too jealously. Still, there is some potential for cooperation and technological exchange between their great monopoly and our own industry giants. Carefully managed, that might yield us some influence."
- BFI_gui_action_button_3_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n§MAmerica§! will gain:\n  Fuel Gain per Oil: §G+4%§!"
+ BFI_gui_action_button_3_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n§mAmerica§! will gain:\n  Fuel Gain per Oil: §G+4%§!"
 
  BFI_gui_action_button_4_issue_7_USA_tt:0 "Oil and gas will be one of the fronts we should expect to contest in the ongoing battle for Italy. The industry is a vital component of both our nations' economies, and the current shortage of cooperation between our petroleum industry and theirs leaves us plenty of room to maneuver."
- BFI_gui_action_button_4_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+0.5§!\n§MAmerica§! will gain:\n  Fuel Gain per Oil: §G+8%§!"
+ BFI_gui_action_button_4_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+0.5§!\n§mAmerica§! will gain:\n  Fuel Gain per Oil: §G+8%§!"
 
  BFI_gui_action_button_5_issue_7_USA_tt:0 "Oil and gas should be a high priority in the influence battle for Italy. Vital for both the Italian economy and ours, the potential for cooperation and ties is still mostly unrealized. This leaves a lot of room for us now to scale up cooperation, which is sure to draw our countries closer."
- BFI_gui_action_button_5_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+400§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+0.5§!\n§MAmerica§! will gain:\n  Fuel Gain per Oil: §G+12%§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
+ BFI_gui_action_button_5_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+400§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+0.5§!\n§mAmerica§! will gain:\n  Fuel Gain per Oil: §G+12%§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
 
  BFI_gui_action_button_6_issue_7_USA_tt:0 "Oil and gas will be a vital front in the influence battle for Italy, and one we should be well placed to win. Between our two countries, we control a dominant share of the market for oil and gas, and the potential for mutually beneficial cooperation is truly staggering. Common projects, mutually owned subsidiaries, technological exchange, and sharing of refinery capabilities could prove both immensely profitable and decisive in securing Italy."
- BFI_gui_action_button_6_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+500§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+1§!\n§MAmerica§! will gain:\n  Fuel Gain per Oil: §G+16%§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  GDP Boost: §G+1%§!"
+ BFI_gui_action_button_6_issue_7_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Income: §G+500§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+1§!\n§mAmerica§! will gain:\n  Fuel Gain per Oil: §G+16%§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  GDP Boost: §G+1%§!"
 
  # Japan
  BFI_gui_action_button_1_issue_7_JAP_tt:0 "Japan has little need for Italian oil when we can find much of our own in the South China Sea. Any deal our country were to make with ENI would only serve to make the great Empire of Japan reliant upon Italy's failing colonial ventures in the Middle East, and that is not something we can abide. Now, as always, the safety and security of our own citizens comes first."
@@ -520,19 +520,19 @@
  BFI_gui_action_button_1_issue_8_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_8_USA_tt:0 "The Italian Empire emerged from the Second World War as a competitor, if not an ideological opponent like Germany, to the United States and its fledgling democratic alliance. Our differences were fortunately not so wide that Italy's growth was ever perceived as an existential threat, paving the way for a "relations reset" with the former Axis power. In commemoration, Washington has acknowledged Rome's territorial integrity."
- BFI_gui_action_button_2_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+15§!\n§MAmerica§! will gain:\n  Italy Opinion: §G+15§!"
+ BFI_gui_action_button_2_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+15§!\n§mAmerica§! will gain:\n  Italy Opinion: §G+15§!"
 
  BFI_gui_action_button_3_issue_8_USA_tt:0 "Germans to the north, Iberians to the west, Turks to the east; dysfunction at home and native revolts abroad. More than anything, "cornered rat" best characterizes Italy and her government as of [GetYear]. And much like cornered rats scurrying towards the first sight of safety, [ITA.GetLeader] has led his country towards America and its inviting arms. The Quirinal Palace stresses the pragmatic motives behind its dalliances with the West. We, on the other hand, sense an opening for more genuine sentiment to take root."
- BFI_gui_action_button_3_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+20§!\n  Stability: §G+5%§!\n§MAmerica§! will gain:\n  Italy Opinion: §G+20§!"
+ BFI_gui_action_button_3_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+20§!\n  Stability: §G+5%§!\n§mAmerica§! will gain:\n  Italy Opinion: §G+20§!"
 
  BFI_gui_action_button_4_issue_8_USA_tt:0 "Despite a contentious past, the United States and Italy have struck a cordial balance in each other's diplomatic affairs. Boundaries are being established and their few disputes resolved without issue. In the absence of noteworthy conflict, friendly dialogue between the two powers has increased to highs last seen in the interwar period."
- BFI_gui_action_button_4_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+30§!\n  Stability: §G+7.5%§!\n§MAmerica§! will gain:\n  Italy Opinion: §G+30§!\n  Italian-Americans will vote more like their Homeland."
+ BFI_gui_action_button_4_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+30§!\n  Stability: §G+7.5%§!\n§mAmerica§! will gain:\n  Italy Opinion: §G+30§!\n  Italian-Americans will vote more like their Homeland."
 
  BFI_gui_action_button_5_issue_8_USA_tt:0 "As relations warm between Rome and Washington, observers note that their respective foreign policies are rapidly reaching a confluence. Their mutual interests have not only grown, but in effect complemented the others' goals - containing the Reich for America, and preserving hegemony in the Mediterranean for Italy. OFN officials are preparing to exploit an unprecedented opportunity: a trustworthy partner with a dagger held right behind Germania's back."
- BFI_gui_action_button_5_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+30§!\n  Stability: §G+10%§!\n  Daily Political Power: §G+0.05§!\n§MAmerica§! will gain:\n  Italy Opinion: §G+30§!\n  Italian-Americans will vote more like their Homeland."
+ BFI_gui_action_button_5_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+30§!\n  Stability: §G+10%§!\n  Daily Political Power: §G+0.05§!\n§mAmerica§! will gain:\n  Italy Opinion: §G+30§!\n  Italian-Americans will vote more like their Homeland."
 
  BFI_gui_action_button_6_issue_8_USA_tt:0 "Twenty years ago, a man would face ridicule for predicting that America and Italy will become close allies. Twenty years from now, a generation of men will never know a time when America and Italy were anything but.\n\nTwenty years, it seems, is more than enough for a special relationship to bloom from historical enmity."
- BFI_gui_action_button_6_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+30§!\n  Stability: §G+10%§!\n  Daily Political Power: §G+0.1§!\n§MAmerica§! will gain:\n  Italy Opinion: §G+30§!\n  Stability: §G+5%§!\n  Italian-Americans will vote more like their Homeland."
+ BFI_gui_action_button_6_issue_8_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  USA Opinion: §G+30§!\n  Stability: §G+10%§!\n  Daily Political Power: §G+0.1§!\n§mAmerica§! will gain:\n  Italy Opinion: §G+30§!\n  Stability: §G+5%§!\n  Italian-Americans will vote more like their Homeland."
 
  # Japan
  BFI_gui_action_button_1_issue_8_JAP_tt:0 "What an insult it is, to imply that the Great Empire of Japan has any need or desire for the recognition of European powers! The Co-Prosperity Sphere exists not because Westerners believed in it, but in fact, in spite of their every insidious effort to destroy it! Despite our historical friendship with the Italians, we still have pride enough that we will not go mewling after them, begging for their approval. It is simply undignified."
@@ -575,19 +575,19 @@
  BFI_gui_action_button_1_issue_9_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_9_USA_tt:0 "American multinationals are starting to take a keener interest in the Italosphere, having sent business scouts to identify possible investment opportunities. No solid commitments have been made as of yet."
- BFI_gui_action_button_2_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-1%§!"
+ BFI_gui_action_button_2_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-1%§!"
 
  BFI_gui_action_button_3_issue_9_USA_tt:0 "There are now low levels of American investment present in the Italosphere, chiefly in the industrial areas in the north and center of the Italian metropole. Investment elsewhere in Italy or her subjects continues to lag behind."
- BFI_gui_action_button_3_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-3%§!\n§GItaly§! will gain:\n  Needed Consumer Goods §G+2§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
+ BFI_gui_action_button_3_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-3%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
 
  BFI_gui_action_button_4_issue_9_USA_tt:0 "All areas of the Italian mainland are now receiving a steady stream of American investment, the majority of which is being provided by American banking and industrial interests. Investment in the Italian colonies is still low, due to its higher risk."
- BFI_gui_action_button_4_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-5%§!\n  Monthly Industrial Equipment: §G+0.5§!\n§GItaly§! will gain:\n  Needed Consumer Goods §G+3§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!"
+ BFI_gui_action_button_4_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-5%§!\n  Monthly Industrial Equipment: §G+0.5§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!"
 
  BFI_gui_action_button_5_issue_9_USA_tt:0 "American investment in the Italian colonies is now growing, with American agricultural firms seeing the greatest returns. Investment levels have yet to make the mainland, however."
- BFI_gui_action_button_5_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-5%§!\n  Monthly Industrial Equipment: §G+0.5§!\n  GDP Boost: §G+2%§!\n§GItaly§! will gain:\n  Needed Consumer Goods §G+3§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+0.5§!"
+ BFI_gui_action_button_5_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-5%§!\n  Monthly Industrial Equipment: §G+0.5§!\n  GDP Boost: §G+2%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+0.5§!"
 
  BFI_gui_action_button_6_issue_9_USA_tt:0 "Across the entirety of the Italosphere, we are seeing record levels of American foreign investment. Italy is now one of the most competitive markets for American business interests, and many American business students are also pursuing minors in Italian."
- BFI_gui_action_button_6_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-5%§!\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Agricultural Methods: §G+0.5§!\n  GDP Boost: §G+2%§!\n§GItaly§! will gain:\n  Needed Consumer Goods §G+3§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Agricultural Methods: §G+0.5§!\n  GDP Boost: §G+1%§!"
+ BFI_gui_action_button_6_issue_9_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GThe Italosphere§! will gain:\n  Needed Consumer Goods: §G-5%§!\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Agricultural Methods: §G+0.5§!\n  GDP Boost: §G+2%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!\n  Monthly Industrial Equipment: §G+1§!\n  Monthly Agricultural Methods: §G+0.5§!\n  GDP Boost: §G+1%§!"
 
  # Japan
  BFI_gui_action_button_1_issue_9_JAP_tt:0 "Though the Italians could certainly use Japanese investment, the benefits that this would bring Japan are much more questionable. At least for the moment, Japan sees no reason to throw its money away on Italian businesses which would likely not even turn a profit. The Zaibatsu would be much more effective focusing on expanding and streamlining Japanese industry, as opposed to throwing away our cash to win dubiously friendly allies."
@@ -630,19 +630,19 @@
  BFI_gui_action_button_1_issue_10_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_10_USA_tt:0 "Serious discussion on encouraging affinity between the American and Italian defense apparatuses is limited to subcommittee hearings and think tank papers. Noticeable improvement from prior administrations' apathy on the matter, but one that has yet to meaningfully influence foreign policy on either side of the Atlantic."
- BFI_gui_action_button_2_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Defense: §G+2.5%§!\n  War Support: §G+2.5%§!"
+ BFI_gui_action_button_2_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Defense: §G+2.5%§!\n  War Support: §G+2.5%§!"
 
  BFI_gui_action_button_3_issue_10_USA_tt:0 "Rome and Washington's willingness to parlay have improved such that both President [USA.GetLeader] and Prime Minister [ITA.GetLeader] have agreed on establishing faster communications lines for high-level diplomatic exchanges. Hundreds of miles of undersea cables, underused in the years that followed the Second World War, are thus being repurposed to serve direct telegraph services between the White House and the Palazzio Chigi."
- BFI_gui_action_button_3_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Defense: §G+5%§!\n  War Support: §G+5%§!\n§MAmerica§! will gain:\n  War Support: §G5%§!"
+ BFI_gui_action_button_3_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Defense: §G+5%§!\n  War Support: §G+5%§!\n§mAmerica§! will gain:\n  War Support: §G5%§!"
 
  BFI_gui_action_button_4_issue_10_USA_tt:0 ""So wargame this: June '72, the Krauts toss an army group onto the passes in Tyrol and Friuli. Say half a million total, fully motorized and twelve or so Panzer divisions, notwithstanding paratroopers deployed at the forts along the border. Luftwaffe conducts SEAD and precision strikes north of the Po by plus-one, hoping for air superiority by plus-seven. You're Italy, what's next."\n\n"Kraut breaks past the Alps and it's a 500-mile dash from Venice to the Med; losing the mountain passes is a non-starter. I'd bleed the Germans dry in the mountains before withdrawing to the Veneto. That should give me six months before I consider terms of surrender."\n\n"Not even a stone's throw chance of winning?"\n\n"With the lubed-up war machine up north? I'd run out of bullets before they run out of men - or tanks."\n\n"Point. Now, suppose you had the 101st, 82nd and the 10th Mountain on standby, with REFORTA units inbound from CONUS. And suppose 3AF makes good on their promise to swat out every Stuka they spot...""
- BFI_gui_action_button_4_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Defense: §G+5%§!\n  War Support: §G+5%§!\n  Entrenchment: §G+3%§!\n  §Y1x§! §G50%§! Cost Reduction for: §YLand Doctrine§!\n§MAmerica§! will gain:\n  War Support: §G5%§!\n  §Y1x§! §G50%§! Cost Reduction for: §YLand Doctrine§!"
+ BFI_gui_action_button_4_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Defense: §G+5%§!\n  War Support: §G+5%§!\n  Entrenchment: §G+3%§!\n  §Y1x§! §G50%§! Cost Reduction for: §YLand Doctrine§!\n§mAmerica§! will gain:\n  War Support: §G5%§!\n  §Y1x§! §G50%§! Cost Reduction for: §YLand Doctrine§!"
 
  BFI_gui_action_button_5_issue_10_USA_tt:0 "Operational strategy adapts as allies are gained and lost through time. While Italy accommodates to its status as America's newest partner, the Pentagon in turn has begun accommodating Italy as a friendly factor in their contingency plans for Europe. The FAI will be pleased to receive assurances that Americans will fight alongside them come Apocalypse."
- BFI_gui_action_button_5_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Defense: §G+7.5%§!\n  War Support: §G+7.5%§!\n  Entrenchment: §G+5%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!\n§MAmerica§! will gain:\n  War Support: §G5%§!\n  Air Range: §G5%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!"
+ BFI_gui_action_button_5_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Defense: §G+7.5%§!\n  War Support: §G+7.5%§!\n  Entrenchment: §G+5%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!\n§mAmerica§! will gain:\n  War Support: §G5%§!\n  Air Range: §G5%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!"
 
  BFI_gui_action_button_6_issue_10_USA_tt:0 ""...Should conflict erupt between BLACK and OLIVE, BLUE shall elevate defense readiness conditions in all strategic assets in the contiguous United States and Iceland to FAST PACE. This may be succeeded by an ultimatum to BLACK demanding immediate withdrawal from OLIVE.\n\nIf no response is received within 72 hours, BLUE shall upgrade FAST PACE to COCKED PISTOL. All tasks outlined in this document are thence to be executed to their fullest extent...""
- BFI_gui_action_button_6_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Defense: §G+7.5%§!\n  War Support: §G+7.5%§!\n  Entrenchment: §G+10%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!\n§MAmerica§! will gain:\n  War Support: §G5%§!\n  Air Range: §G10%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!"
+ BFI_gui_action_button_6_issue_10_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Defense: §G+7.5%§!\n  War Support: §G+7.5%§!\n  Entrenchment: §G+10%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!\n§mAmerica§! will gain:\n  War Support: §G5%§!\n  Air Range: §G10%§!\n  §Y2x§! §G50%§! Cost Reduction for: §YLand Doctrine§!"
 
  # Japan
  BFI_gui_action_button_1_issue_10_JAP_tt:0 "With both American and German eyes locked on to every movement made by Rome, involving ourselves in the already complex arrangement of diplomatic invitations and standoffs will only bring us more trouble than it is worth. Let us not aggravate Germania from her doorstep, nor infuriate the Americans from across the seas; we can bide our time until a more opportune moment strikes."
@@ -685,19 +685,19 @@
  BFI_gui_action_button_1_issue_11_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_11_USA_tt:0 "At the moment, Italo-American weapons development is limited to sporadic appearances in private gun shows on both countries. Not worth headlines in committee meetings and studies - but America's gun community is learning the hidden virtues of the humble LF-59. Much the same could be said of Italian gun-owners and the venerable Garand."
- BFI_gui_action_button_2_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Research Speed: §G+5%§! for  §YInfantry Weapons§!"
+ BFI_gui_action_button_2_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Research Speed: §G+5%§! for  §YInfantry Weapons§!"
 
  BFI_gui_action_button_3_issue_11_USA_tt:0 "Excepting Germany and Japan, American defense contractors freely conduct business with countries around the world. Our thawing relations with the Italian Empire have led an assortment of companies such as Lockheed and Springfield Armory to utilize such freedom by opening communications avenues with Italy's omnipresent IRI. The future holds promise for shipyards and factories anticipating lucrative contracts beyond their side of the pond."
- BFI_gui_action_button_3_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
+ BFI_gui_action_button_3_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
 
  BFI_gui_action_button_4_issue_11_USA_tt:0 "Trust between our two powers has grown enough such that Congress has approved loosening American arms traffic regulations with Italy. The Empire may now purchase and produce stateside weapons designs while hurdling considerably less red tape than other nations do. In a show of goodwill, the Palazzio Ducale has offered our government similar privileges for Italian-made weaponry."
- BFI_gui_action_button_4_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!"
+ BFI_gui_action_button_4_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!"
 
  BFI_gui_action_button_5_issue_11_USA_tt:0 "Ever since the Manhattan Project's bittersweet conclusion, schematics for cutting-edge American weapons had been shielded from foreign eyes as the state secrets that they are. Nowadays a blueprint sketched in Detroit scarcely forgets a round trip to Modena and Naples before receiving its patent number back home. The marketplace of ideas has established itself on the interweaving ties between Italian and American weapons development; given time, we may yet witness Italo-American teams invent guns which last centuries without losing luster."
- BFI_gui_action_button_5_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!\n  Monthly Industrial Equipment: §G+0.5%§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!"
+ BFI_gui_action_button_5_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!\n  Monthly Industrial Equipment: §G+0.5%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!"
 
  BFI_gui_action_button_6_issue_11_USA_tt:0 "Whoever prophesied that a clash of civilizations invariably results in conflict need only glance at the United States' trans-Atlantic arms trade with the Italian Empire to be thoroughly disproven. Theirs had recovered ancient wisdom from centuries of decay; ours had created light and sound and brought man to the sky. Far from causing destruction, the confluence between these two pioneering cultures has constructed unprecedented highs and leaps in weapons development as a millennia-old science."
- BFI_gui_action_button_6_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!\n  §YInfantry Weapons§! Reliability: §G+10%§!\n  Monthly Industrial Equipment: §G+0.5%§!\n§MAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!\n  §YInfantry Weapons§! Reliability: §G+10%§!"
+ BFI_gui_action_button_6_issue_11_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!\n  §YInfantry Weapons§! Reliability: §G+10%§!\n  Monthly Industrial Equipment: §G+0.5%§!\n§mAmerica§! will gain:\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n  Research Speed: §G+10%§! for  §YInfantry Weapons§!\n  §YInfantry Weapons§! Soft Attack: §G+10%§!\n  §YInfantry Weapons§! Reliability: §G+10%§!"
 
  # Japan
  BFI_gui_action_button_1_issue_11_JAP_tt:0 "Italy has proven to be a strong and capable ally in the past, but opening agreements on arms sales is a step too far in the direction of confrontation with Germania. The two nations share a border, and we cannot afford to be implicated in any violent conflict between the rivalling powers."
@@ -740,19 +740,19 @@
  BFI_gui_action_button_1_issue_12_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_12_USA_tt:0 "Whether a trip to the flea market or a millions-dollar resource deal between two countries, every business transaction is founded upon two sides satisfying their wants by exchanging what they have. The same reciprocity guides our plans and hypotheticals for restarting trade with Italy; what, for instance, can America offer in exchange for Arabian crude? What can the Empire offer in exchange for GM trucks and corn from Iowa? Substantial policy they are not - but they are arrows in a quiver still, ready to be drawn at moment's notice."
- BFI_gui_action_button_2_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+15§!\n§MAmerica§! will gain:\n  Trade Opinion with Italy: §G+15§!"
+ BFI_gui_action_button_2_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+15§!\n§mAmerica§! will gain:\n  Trade Opinion with Italy: §G+15§!"
 
  BFI_gui_action_button_3_issue_12_USA_tt:0 "International commerce most resembles a river's course; much like how water bends and curves towards the path of least resistance, so too does trade flow past unreachable markets and settle on a welcoming inlet. The Second World War had made certain for decades that Italian goods would be met with tall, towering cliffs once they cross the Atlantic. But now the times are a-changing, and with it have cliffs begun crumbling pebble by pebble."
- BFI_gui_action_button_3_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+20§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n§MAmerica§! will gain:\n  Trade Opinion with Italy: §G+20§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
+ BFI_gui_action_button_3_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+20§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n§mAmerica§! will gain:\n  Trade Opinion with Italy: §G+20§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!"
 
  BFI_gui_action_button_4_issue_12_USA_tt:0 ""Italian-American relations have reached another milestone today as both countries sign legislation granting the other country most favored nation, or MFN status following high-level talks between Prime Minister [ITA.GetLeader] and President [USA.GetLeader]. This status entitles Recipient B to preferential or non-discriminatory treatment in bilateral trade negotiations with Granting Country A. In effect, MFNs mandatorily protects B from being placed at a disadvantage should other parties concurrently seek similar agreements from A...""
- BFI_gui_action_button_4_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+30§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n§MAmerica§! will gain:\n  Trade Opinion with Italy: §G+30§!\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!"
+ BFI_gui_action_button_4_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+30§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n  Miscellaneous Income: §G+50§! §YMillion Dollars§!\n§mAmerica§! will gain:\n  Trade Opinion with Italy: §G+30§!\n  Miscellaneous Income: §G+200§! §YMillion Dollars§!"
 
  BFI_gui_action_button_5_issue_12_USA_tt:0 "For the first time in decades, an Italian supertanker arrives in the Port of South Louisiana to offload sweet crude from the Arabian Gulf. Meanwhile, an American cargo freighter traversing the Gibraltar Dam charts a course not for the Suez Canal, but for its port of call Palermo. Children there enjoy their first ever bite of Hershey's chocolate; women here take generous sips of Campanian wine. Like in the Columbian Exchange of centuries past, mighty ships deliver the New World's wonders to the Old, and the Old World's to the New."
- BFI_gui_action_button_5_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+40§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n§MAmerica§! will gain:\n  Trade Opinion with Italy: §G+40§!\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!"
+ BFI_gui_action_button_5_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+40§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!\n  Miscellaneous Income: §G+100§! §YMillion Dollars§!\n§mAmerica§! will gain:\n  Trade Opinion with Italy: §G+40§!\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!"
 
  BFI_gui_action_button_6_issue_12_USA_tt:0 "It seems as if a free trade agreement would be the capstone that elevates our progress to a state beyond reversal or reproach. In truth it is little more than paper rendering into law what is already fact; never before in history have Americans and Italians been so free to acquire each other's wares. Tariffs are at their lowest in decades, tolls are trinket sums kept around for technicalities' sake, and travel between the two countries are growing with no signs of halting.\n\nStill, one can't deny the allure of symbolic gestures. By signing this compact, Columbia and Vittoria have thus declared for all time: yours are mine, and mine are yours."
- BFI_gui_action_button_6_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+60§!\n  Monthly Poverty Rate Decrease: §G+0.05%§!\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n§MAmerica§! will gain:\n  Trade Opinion with America: §G+60§!\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!"
+ BFI_gui_action_button_6_issue_12_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Trade Opinion with America: §G+60§!\n  Monthly Poverty Rate Decrease: §G+0.05%§!\n  Miscellaneous Income: §G+150§! §YMillion Dollars§!\n§mAmerica§! will gain:\n  Trade Opinion with America: §G+60§!\n  Miscellaneous Income: §G+300§! §YMillion Dollars§!\n  Monthly Poverty Rate Decrease: §G+0.025%§!"
 
  # Japan
  BFI_gui_action_button_1_issue_12_JAP_tt:0 "Our levels of trade with Italy are sufficient as they are currently; we can send over ambassadors and representatives, but only under strict orders that nothing serious is negotiated or signed. Our presence alongside trade is to show face, not to radically alter the state of inter-continental shipping."
@@ -795,19 +795,19 @@
  BFI_gui_action_button_1_issue_13_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_13_USA_tt:0 "We don't want to share nuclear technology, but if the Italians want to join the club of nations that can end the world in a heartbeat, they need to understand the risks involved. America has decades of expertise in planning civil defense protocols and ensuring continuity of government in a nuclear strike scenario - knowledge that could easily be shared with the Italians, freeing their resources to focus on weapons development."
- BFI_gui_action_button_2_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-50§! §YMillion Dollars§!"
+ BFI_gui_action_button_2_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-50§! §YMillion Dollars§!"
 
  BFI_gui_action_button_3_issue_13_USA_tt:0 "While we remain extremely reluctant to give the Italians broad access to our nuclear doctrine and technology, we need to demonstrate a minimum level of trust if we want to win the Italians over to the OFN. The Italian nuclear program is still in its infancy; they surely would have something to gain if we give them access to unclassified academic research on nuclear power generation and fuel cycle management. The Italians will just have to figure out the rest themselves."
- BFI_gui_action_button_3_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-50§! §YMillion Dollars§!\n  Research Speed: §G+1%§!"
+ BFI_gui_action_button_3_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-50§! §YMillion Dollars§!\n  Research Speed: §G+1%§!"
 
  BFI_gui_action_button_4_issue_13_USA_tt:0 "The integration of a nuclear weapons state into the OFN has consequences too monumental to be left to chance. It is in America - and the Free World's - best interests that Italian nuclear development and doctrine are steered on a predictable, managed path to ensure a credible and stable deterrent. We will propose dispatching senior scientific and military 'advisors' to the Italian government to facilitate approved transfers of nuclear technology, while securing an American seat at the table when Italy discusses how to deploy its nascent nuclear arsenal."
- BFI_gui_action_button_4_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-100§! §YMillion Dollars§!\n  Research Speed: §G+3%§!\n§MAmerica§! will gain:\n  Research Speed: §G+1%§!"
+ BFI_gui_action_button_4_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-100§! §YMillion Dollars§!\n  Research Speed: §G+3%§!\n§mAmerica§! will gain:\n  Research Speed: §G+1%§!"
 
  BFI_gui_action_button_5_issue_13_USA_tt:0 "With our growing commitment to supporting the Italian nuclear weapons program, it is in our best interest that we bring their arsenal to full readiness as quickly as possible. Given Italy's proximity to Germany - and its cramped, mountainous geography - a land-based deterrent will be limited in size and highly vulnerable to a first strike. We will provide to the Italians - at a reasonable price - submarine-launched ballistic missile technology, ensuring that they have a credible second strike capability from the Mediterranean."
- BFI_gui_action_button_5_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-100§! §YMillion Dollars§!\n  Research Speed: §G+5%§!\n  Monthly Research Facilities: §G+0.5§!\n§MAmerica§! will gain:\n  Research Speed: §G+3%§!\n  Monthly Research Facilities: §G+0.5§!"
+ BFI_gui_action_button_5_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-100§! §YMillion Dollars§!\n  Research Speed: §G+5%§!\n  Monthly Research Facilities: §G+0.5§!\n§mAmerica§! will gain:\n  Research Speed: §G+3%§!\n  Monthly Research Facilities: §G+0.5§!"
 
  BFI_gui_action_button_6_issue_13_USA_tt:0 "The Italians are determined to build a nuclear arsenal, come hell or high water - and we need to treat them with due respect. Wielding the power of atomic devastation in the service of freedom is a heavy responsibility, and should the Italians choose to join the OFN, we need to ensure that America and Italy are on the same page on all nuclear matters. The Italian nuclear command structure will be integrated - gradually, to weed out any German or Japanese spies - into the Single Integrated Operational Plan, our plan to fight and win a nuclear war."
- BFI_gui_action_button_6_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-150§! §YMillion Dollars§!\n  Research Speed: §G+5%§!\n  Monthly Research Facilities: §G+1§!\n§MAmerica§! will gain:\n  Research Speed: §G+5%§!\n  Monthly Research Facilities: §G+1§!"
+ BFI_gui_action_button_6_issue_13_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Miscellaneous Expenses: §G-150§! §YMillion Dollars§!\n  Research Speed: §G+5%§!\n  Monthly Research Facilities: §G+1§!\n§mAmerica§! will gain:\n  Research Speed: §G+5%§!\n  Monthly Research Facilities: §G+1§!"
 
  # Japan
  BFI_gui_action_button_1_issue_13_JAP_tt:0 "The Empire of Japan already has two great enemies that have learned to harvest the power of the atom for their own twisted ends. We do not need to risk a third, and Italy cannot be trusted not to become that very foe in the future. Naturally, we desire for our friends in Italy to become strong, able to stand up to those who would oppress them. But we do not trust them enough to share with them the Empire's greatest weapons, not yet. We hope they will understand why this information is precious."
@@ -850,19 +850,19 @@
  BFI_gui_action_button_1_issue_14_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_14_USA_tt:0 "It's best we take things slow. While we will eventually normalize military ties between Italy and the OFN, it would be unwise to expect our forces to work together immediately. We will formalize annual contact between the senior defense officials of the OFN and Italy to discuss commonalities in our threat outlook and to gradually unlock opportunities for greater cooperation."
- BFI_gui_action_button_2_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n§MAmerica§! will gain:\n  Experience Gain: §G+10%§!"
+ BFI_gui_action_button_2_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n§mAmerica§! will gain:\n  Experience Gain: §G+10%§!"
 
  BFI_gui_action_button_3_issue_14_USA_tt:0 "The militaries of the OFN and the Italians have much we could learn from each other, in time. If we envision a relationship lasting for decades, then we should ensure that the future stewards of these ties are well acquainted with each other. Junior officers and officer cadets will be offered opportunities to seek temporary postings within the Italian and OFN militaries - nothing with too much responsibility, but with enough exposure to make working together in the future easier."
- BFI_gui_action_button_3_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Army Organization: §G+2.5%§!\n§MAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Army Organization: §G+2.5%§!"
+ BFI_gui_action_button_3_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Division Organization: §G+2.5%§!\n§mAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Division Organization: §G+2.5%§!"
 
  BFI_gui_action_button_4_issue_14_USA_tt:0 "The United States conducts joint military exercises with almost all of its OFN partner nations on an annual basis - providing a regular opportunity for the armed forces of the OFN to learn from each other on a broad scale, beyond what can be achieved through person-to-person contacts. The Italians' experience in desert, counterinsurgency, and light infantry warfare - to say nothing of their conflict with Turkey - could provide meaningful lessons for the United States, and it would be wise for us to seek the Italians' expertise."
- BFI_gui_action_button_4_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Army Organization: §G+5%§!\n§MAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Army Organization: §G+5%§!"
+ BFI_gui_action_button_4_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Division Organization: §G+5%§!\n§mAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Division Organization: §G+5%§!"
 
  BFI_gui_action_button_5_issue_14_USA_tt:0 "It's one thing to run field exercises on the assumption that the Italians and the OFN will be working together in some hypothetical scenario. It's entirely another to get into the nuts and bolts of what such interoperability would actually mean - as that would be the first major commitment to integrating the Italians into the OFN military alliance on a permanent basis. If we are going to fight together, then we need to ensure seamless logistical integration - ensuring that both the OFN and the Italian militaries are supplied, and can supply each other, for as long as they have to."
- BFI_gui_action_button_5_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Army Organization: §G+5%§!\n  Division Attrition: §G-2.5%§!\n§MAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Army Organization: §G+5%§!\n  Division Attrition: §G-2.5%§!"
+ BFI_gui_action_button_5_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Division Organization: §G+5%§!\n  Division Attrition: §G-2.5%§!\n§mAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Division Organization: §G+5%§!\n  Division Attrition: §G-2.5%§!"
 
  BFI_gui_action_button_6_issue_14_USA_tt:0 "In times of conflict, we need all of the OFN members fighting under a unified command structure. Up until now, America was assumed to be the natural leader of the OFN, with no other country having the industrial or military capacity to credibly claim to be first among equals. With the introduction of the Italians, however, this will no longer be the case. If we are to credibly make the case to the Italians that we can and will protect them, then we need to invite Italy into the heart of OFN defense planning."
- BFI_gui_action_button_6_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Army Organization: §G+10%§!\n  Division Attrition: §G-5%§!\n  Monthly Military Professionalism: §G+1§!\n§MAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Army Organization: §G+5%§!\n  Division Attrition: §G-5%§!\n  Monthly Military Professionalism: §G+1§!"
+ BFI_gui_action_button_6_issue_14_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Division Organization: §G+10%§!\n  Division Attrition: §G-5%§!\n  Monthly Military Professionalism: §G+1§!\n§mAmerica§! will gain:\n  Experience Gain: §G+10%§!\n  Daily Army Experience: §G+0.02§!\n  Division Organization: §G+5%§!\n  Division Attrition: §G-5%§!\n  Monthly Military Professionalism: §G+1§!"
 
  # Japan
  BFI_gui_action_button_1_issue_14_JAP_tt:0 "The Imperial Japanese Army is called Japanese for a reason, and that reason is not because it protects Italy. Despite what many say, our Army and Navy are not political tools, to be bargained and bartered with to gain favor with one nation or another. Rather, the Japanese military is a vital, integral aspect of the soul of the Japanese nation. To try to integrate lesser Italian influences and military strategies into it would be a horrific crime against Japan, and cannot even be considered an option."
@@ -905,19 +905,19 @@
  BFI_gui_action_button_1_issue_15_USA_delayed_tt:0 ""
 
  BFI_gui_action_button_2_issue_15_USA_tt:0 "The CIA regards the wider world in two ways: thinly-veiled hostility for its superpowers, and naked opportunism for the rest. Rarely does one earn the Company's respect... and yet, if recent correspondences from Rome are to be believed, their SIM may be earning just that. The Italians' operatives are indeed up to par with our own, having been proven extensively by the hot sands of Egypt and Arabia. Langley could learn a thing or two about proper fieldwork from them."
- BFI_gui_action_button_2_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Encryption: §G+5%§!"
+ BFI_gui_action_button_2_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Encryption: §G+5%§!"
 
  BFI_gui_action_button_3_issue_15_USA_tt:0 "America's eyes in the dark accept only her best and brightest; unsurprisingly, those who do join her ranks would see their pride skirt dangerously close to hubris. SIGINT or HUMINT, they dare claim, the Company has everyone beat - except, as it seems, for their Italian peers. The Empire's cryptanalysts and field agents perform beyond what their meager resources suggest, earning them a rule-proving exception from Langley's notoriously demanding Director."
- BFI_gui_action_button_3_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Encryption: §G+4%§!\n  Decryption: §G+3%§!"
+ BFI_gui_action_button_3_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Encryption: §G+4%§!\n  Decryption: §G+3%§!"
 
  BFI_gui_action_button_4_issue_15_USA_tt:0 "Partnerships rarely form out of genuine interest in the intelligence community. Neither are they particularly renowned for being stable. Every would-be partner is worth only as much as the material they provide; the moment it runs out, the partnership fades like it never happened.\n\nYet as of late, Langley and the Piazza Dante imagine otherwise. Not that their bonds shouldn't be tied to reciprocal gain, far from it. But officials in both countries now entertain relations beyond informal tit-for-tats with increasing regularity - baby steps towards something new, if nothing else."
- BFI_gui_action_button_4_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Encryption: §G+3%§!\n  Decryption: §G+6%§!"
+ BFI_gui_action_button_4_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Encryption: §G+3%§!\n  Decryption: §G+6%§!"
 
  BFI_gui_action_button_5_issue_15_USA_tt:0 "The "Secret Affair", as observers have collectively named the CIA and SIM's ad hoc exchanges, have evolved at both a rate and direction even both sides' optimists failed to anticipate. Fluent Italian now echoes in the Pentagon's halls while American eyes sightsee the secrets lurking beneath the seven hills of Rome. The words these two agencies exchange have lost their barbs; mere posturing defines the image they present to unassuming outsiders. Idealism, it seems, nears triumph over the mercenary wisdom that had defined geopolitics since Machiavelli."
- BFI_gui_action_button_5_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Encryption: §G+2%§!\n  Decryption: §G+9%§!\n§MAmerica§! will gain:\n  European Encryption: §G-1§!"
+ BFI_gui_action_button_5_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Encryption: §G+2%§!\n  Decryption: §G+9%§!\n§mAmerica§! will gain:\n  European Encryption: §G-1§!"
 
  BFI_gui_action_button_6_issue_15_USA_tt:0 ""An American does the right thing after having done everything else; an Italian figures out the right thing first, then goes through every wrong thing available like a checklist. You can't find a better operator on Earth than the two paired together."\n\n-Richard M. Helms, Director of Central Intelligence"
- BFI_gui_action_button_6_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §BOFN§!, §GItaly§! will gain:\n  Encryption: §G+1%§!\n  Decryption: §G+12%§!\n§MAmerica§! will gain:\n  European Encryption: §G-1§!\n  CIA Expertise: §G+10§!"
+ BFI_gui_action_button_6_issue_15_USA_delayed_tt:0 "If §GItaly§! joins the §QOFN§!, §GItaly§! will gain:\n  Encryption: §G+1%§!\n  Decryption: §G+12%§!\n§mAmerica§! will gain:\n  European Encryption: §G-1§!\n  CIA Expertise: §G+10§!"
 
  # Japan
  BFI_gui_action_button_1_issue_15_JAP_tt:0 "We have no interest in revealing strategic intelligence to the Italians. Our deepest, darkest secrets are not worth the friendship of Italy, assuming they endear them to us at all."
@@ -959,8 +959,8 @@
  
  # Tooltips
  BFI_explanation_tooltip:0 "[BFI_explanation_sl_tooltip]"
- BFI_explanation_JAP_tooltip:0 "§GItalian§! democracy is a terrifying thing. After a few mistakes made by well meaning §rfascist§! leaders, the §GItalian§! people have recklessly thrown out the baby with the bathwater and embraced liberal democracy. §GItaly§! is guaranteed to §eflounder§! if they try this foolish democratic experiment by themselves. §GItaly§! needs to be guided by the firm hand of a former ally who only wants what's best for them, the §REmpire of Japan§!.\n\nThe §wBattle for Italy§! is a lot like an auction. The §GItalians§! announce an issue on which they would like to cooperate with a major power. This issue could be transoceanic tourism, agricultural exports, or even espionage. §RWe§! and the §MAmericans§!, in turn, bid with our political power to secure a favorable agreement with the §GItalians§!. If we consistently make large enough investments, we can push §GItaly§! into formally joining the §RSphere§!. This will give us access to a powerful military ally with control over an abundance of §wMiddle Eastern oil§!. More importantly, it will deny the same to the §MAmericans§!, choking them off of foreign oil. Depending on the issues §GItaly§! chooses, and our own investments in them, the benefits of §GItalian§! membership in the §RSphere§! will be quite dynamic.\n\nOf course, we can always tip the scales in this little auction. With a small political investment, our top diplomats in the Ministry of Foreign Affaird can sway the §GItalians§! to our perspective. For instance, by slandering §MAmerican§! manufacturing we could push §GItaly§! closer to the §RCo-Prosperity Sphere§!. Of course, the §MAmericans§! will likely pull the same stunts as well. We would be wise to spend as much as we can afford to get §GItaly§! on our side."
- BFI_explanation_USA_tooltip:0 "§GItalian§! democracy is a beautiful thing. After years of §rfascist§! oppression and mismanagement, the §GItalian§! people have thrown off Mussolini's shackles and embraced democracy. But §GItaly§! is also a very new democracy. The nation is guaranteed to §eflounder§! if they try and hack it on their own. §GItaly§! needs to be guided by the firm hand of an elder relative with two centuries of experience in liberal democracy, and his name is §MUncle Sam§!.\n\nThe §wBattle for Italy§! is a lot like an auction. The §GItalians§! announce an issue on which they would like to cooperate with a major power. This issue could be transoceanic tourism, agricultural exports, or even espionage. §MWe§! and the §RJapanese§!, in turn, bid with our political power to secure a favorable agreement with the §GItalians§!. If we consistently make large enough investments, we can push §GItaly§! into formally joining the §MOFN§!. This will give us access to a powerful military ally with control over an abundance of §wMiddle Eastern oil§!. More importantly, it will deny the same to the §RJapanese§!, choking them off of another supply of resources yet again. Depending on the issues §GItaly§! chooses, and our own investments in them, the benefits of §GItalian§! membership in the §MOFN§! will be quite dynamic.\n\nOf course, we can always tip the scales in this little auction. With a small political investment, our top diplomats in the US Information Agency can sway the §GItalians§! to our perspective. For instance, by slandering §RJapanese§! manufacturing we could push §GItaly§! closer to the §MOFN§!. Of course, the §RJapanese§! will likely pull the same stunts as well. We would be wise to spend as much as we can afford to get §GItaly§! on our side."
+ BFI_explanation_JAP_tooltip:0 "§GItalian§! democracy is a terrifying thing. After a few mistakes made by well meaning §rfascist§! leaders, the §GItalian§! people have recklessly thrown out the baby with the bathwater and embraced liberal democracy. §GItaly§! is guaranteed to §eflounder§! if they try this foolish democratic experiment by themselves. §GItaly§! needs to be guided by the firm hand of a former ally who only wants what's best for them, the §REmpire of Japan§!.\n\nThe §wBattle for Italy§! is a lot like an auction. The §GItalians§! announce an issue on which they would like to cooperate with a major power. This issue could be transoceanic tourism, agricultural exports, or even espionage. §RWe§! and the §mAmericans§!, in turn, bid with our political power to secure a favorable agreement with the §GItalians§!. If we consistently make large enough investments, we can push §GItaly§! into formally joining the §RSphere§!. This will give us access to a powerful military ally with control over an abundance of §wMiddle Eastern oil§!. More importantly, it will deny the same to the §mAmericans§!, choking them off of foreign oil. Depending on the issues §GItaly§! chooses, and our own investments in them, the benefits of §GItalian§! membership in the §RSphere§! will be quite dynamic.\n\nOf course, we can always tip the scales in this little auction. With a small political investment, our top diplomats in the Ministry of Foreign Affaird can sway the §GItalians§! to our perspective. For instance, by slandering §mAmerican§! manufacturing we could push §GItaly§! closer to the §RCo-Prosperity Sphere§!. Of course, the §mAmericans§! will likely pull the same stunts as well. We would be wise to spend as much as we can afford to get §GItaly§! on our side."
+ BFI_explanation_USA_tooltip:0 "§GItalian§! democracy is a beautiful thing. After years of §rfascist§! oppression and mismanagement, the §GItalian§! people have thrown off Mussolini's shackles and embraced democracy. But §GItaly§! is also a very new democracy. The nation is guaranteed to §eflounder§! if they try and hack it on their own. §GItaly§! needs to be guided by the firm hand of an elder relative with two centuries of experience in liberal democracy, and his name is §mUncle Sam§!.\n\nThe §wBattle for Italy§! is a lot like an auction. The §GItalians§! announce an issue on which they would like to cooperate with a major power. This issue could be transoceanic tourism, agricultural exports, or even espionage. §mWe§! and the §RJapanese§!, in turn, bid with our political power to secure a favorable agreement with the §GItalians§!. If we consistently make large enough investments, we can push §GItaly§! into formally joining the §mOFN§!. This will give us access to a powerful military ally with control over an abundance of §wMiddle Eastern oil§!. More importantly, it will deny the same to the §RJapanese§!, choking them off of another supply of resources yet again. Depending on the issues §GItaly§! chooses, and our own investments in them, the benefits of §GItalian§! membership in the §mOFN§! will be quite dynamic.\n\nOf course, we can always tip the scales in this little auction. With a small political investment, our top diplomats in the US Information Agency can sway the §GItalians§! to our perspective. For instance, by slandering §RJapanese§! manufacturing we could push §GItaly§! closer to the §mOFN§!. Of course, the §RJapanese§! will likely pull the same stunts as well. We would be wise to spend as much as we can afford to get §GItaly§! on our side."
  
  bfi_italy_pick_issue_activate_tt:0 "We have picked a §Ydiplomatic issue§!."
  bfi_italy_pick_issue_less_independent_tt:0 "If we fail to raise an issue §GItaly§! will become significantly §Rless independent!§!\n"
@@ -974,20 +974,20 @@
  BFI_USA_NPP_popularity_italians_increase_tt:0 "The £GFX_npp_texticon §ONPP§!'s popularity increases a bit, especially with Italian Americans.\n"
  BFI_USA_RD_popularity_italians_increase_tt:0 "The £GFX_rd_texticon §RRepublican§!-§BDemocrats'§! popularity increases a bit, especially with Italian Americans.\n"
  
- BFI_USA_increase_influence_dec_tt:0 "Increases §Mour§! influence."
+ BFI_USA_increase_influence_dec_tt:0 "Increases §mour§! influence."
  BFI_USA_anti_JAP_influence_issue_dec_tt:0 "Significantly decrease §YJapanese§! influence."
- BFI_USA_increase_independence_dec_tt:0 "Decreases both §Mour§! and §YJapanese§! Influence slightly, moderately increase §GItalian§! independence."
+ BFI_USA_increase_independence_dec_tt:0 "Decreases both §mour§! and §YJapanese§! Influence slightly, moderately increase §GItalian§! independence."
  BFI_USA_decrease_independence_dec_tt:0 "Significantly decreases §GItalian§! independence."
  
  BFI_JAP_increase_influence_dec_tt:0 "Increases §Your§! influence."
- BFI_JAP_anti_USA_influence_issue_dec_tt:0 "Significantly decrease §MAmerican§! influence."
- BFI_JAP_increase_independence_dec_tt:0 "Decreases both §MAmerican§! and §Your§! Influence slightly, moderately increase §GItalian§! independence."
+ BFI_JAP_anti_USA_influence_issue_dec_tt:0 "Significantly decrease §mAmerican§! influence."
+ BFI_JAP_increase_independence_dec_tt:0 "Decreases both §mAmerican§! and §Your§! Influence slightly, moderately increase §GItalian§! independence."
  BFI_JAP_decrease_independence_dec_tt:0 "Significantly decreases §GItalian§! independence."
  
- bfi_ITA_independence_issue_tt:0 "Decreases both §MAmerican§! and §YJapanese§! influence slightly, moderately increase §Gour§! independence."
- bfi_ITA_USA_influence_issue_tt:0 "Increases §MAmerican§! influence."
+ bfi_ITA_independence_issue_tt:0 "Decreases both §mAmerican§! and §YJapanese§! influence slightly, moderately increase §Gour§! independence."
+ bfi_ITA_USA_influence_issue_tt:0 "Increases §mAmerican§! influence."
  bfi_ITA_JAP_influence_issue_tt:0 "Increases §YJapanese§! influence."
- bfi_ITA_anti_USA_issue_tt:0 "Significantly decrease §MAmerican§! influence, slightly increases §Gour§! independence."
+ bfi_ITA_anti_USA_issue_tt:0 "Significantly decrease §mAmerican§! influence, slightly increases §Gour§! independence."
  bfi_ITA_anti_JAP_issue_tt:0 "Significantly decrease §YJapanese§! influence, slightly increases §Gour§! independence."
 
  bfi_no_importance_tt:0 "§Rno importance§!"
@@ -1010,7 +1010,7 @@
  bfi_influence_italy_mission_ITA:0 "Issue Negotiations"
  bfi_influence_italy_mission_ITA_desc:0 "Our Offer to the Italians is being drafted specified and debated in Rome. The Italians have chosen to give this issue [ITA.BFI_get_decisions_importance_level], which is level §Y[?ITA.bfi_negotiation_level]§!. They will not be able to choose this level again.\n\n[ITA.BFI_get_decisions_importance_effect_ITA]"
  bfi_influence_italy_mission_USA:0 "The American Proposal"
- bfi_influence_italy_mission_USA_desc:0 "The §MAmericans§! have chosen their proposal to Rome, and it's being drafted and sent to Rome. The American government has chosen to give this issue [USA.BFI_get_decisions_importance_level], which is level §Y[?USA.bfi_negotiation_level]§!.\n\n[USA.BFI_get_decisions_importance_effect_USA]"
+ bfi_influence_italy_mission_USA_desc:0 "The §mAmericans§! have chosen their proposal to Rome, and it's being drafted and sent to Rome. The American government has chosen to give this issue [USA.BFI_get_decisions_importance_level], which is level §Y[?USA.bfi_negotiation_level]§!.\n\n[USA.BFI_get_decisions_importance_effect_USA]"
  bfi_influence_italy_mission_JAP:0 "The Japanese Proposal"
  bfi_influence_italy_mission_JAP_desc:0 "The §YJapanese§! have chosen their proposal to Rome, and it's being drafted and sent to Rome. The Japanese government has chosen to give this issue [JAP.BFI_get_decisions_importance_level], which is level §Y[?JAP.bfi_negotiation_level]§!.\n\n[JAP.BFI_get_decisions_importance_effect_JAP]"
  
@@ -1098,7 +1098,7 @@
  BFI_USA_increase_independence_issue_3_dec:0 "Ease Visa Requirements for Italian Tourists"
  BFI_USA_increase_independence_issue_3_dec_desc:0 "Italians are no strangers to American shores, immigrating en masse to the New World and forming some of the most productive and populous inhabitants of the United States. But now, with the relaxation of visa requirements, Italians can see Lady Liberty in all her glory in a new way - as tourists. See the famous attractions of New York, Chicago, Washington D.C. - and return home with a considerably improved opinion of the ideals of liberty, freedom, and democracy."
  BFI_USA_decrease_independence_issue_3_dec:0 "Collaborate on Museums and Cultural Heritage Sites"
- BFI_USA_decrease_independence_issue_3_dec_desc:0 "The Italian American Museum in New York. Museo ItaloAmericano in San Francisco. The Casa Italia Chicago. The United States is filled with the vibrant addition of Italian culture into the melting pot of America. Now, all over Sicily and southern Italy, reciprocal establishments open -  funded by the generous and deep pockets of their friends across the pond. These organizations and museums hire many locals, teaching them English and the virtues of the United States (providing a considerable boost to the economies of those corners of Italy while they're at it)."
+ BFI_USA_decrease_independence_issue_3_dec_desc:0 "The Italian American Museum in New York. Museo ItaloAmericano in San Francisco. The Casa Italia Chicago. The United States is filled with the vibrant addition of Italian culture into the melting pot of America. Now, all over Sicily and southern Italy, reciprocal establishments open - funded by the generous and deep pockets of their friends across the pond. These organizations and museums hire many locals, teaching them English and the virtues of the United States (providing a considerable boost to the economies of those corners of Italy while they're at it)."
  
  # Issue 3 - JAP
  BFI_JAP_increase_influence_issue_3_dec:0 "Sponsor Japanese Tourism in Italy"
@@ -1162,7 +1162,7 @@
  BFI_USA_increase_independence_issue_5_dec:0 "Flatter Italian Academia"
  BFI_USA_increase_independence_issue_5_dec_desc:0 "As the home of Da Vinci and the Renaissance, and Galileo and the Scientific Method, Italy has a long and storied tradition as a bastion of science and progress. Playing to their pride in their academic history could be a good way to make some friends."
  BFI_USA_decrease_independence_issue_5_dec:0 "Common Effort for a Particle Collider"
- BFI_USA_decrease_independence_issue_5_dec_desc:0 "In addition to ourselves, Italy is one of the few countries with a working positron-electron collider, and they possess some of the foremost experts on the operation and construction of the devices. A group of top physicists have brought us a proposal for a joint effort to build a hadron collider, which they promise will yield breakthroughs in the field of particle physics." 
+ BFI_USA_decrease_independence_issue_5_dec_desc:0 "In addition to ourselves, Italy is one of the few countries with a working positron-electron collider, and they possess some of the foremost experts on the operation and construction of the devices. A group of top physicists have brought us a proposal for a joint effort to build a hadron collider, which they promise will yield breakthroughs in the field of particle physics."
  
  # Issue 5 - JAP
  BFI_JAP_increase_influence_issue_5_dec:0 "Encourage Italian Student Exchange"
@@ -1210,7 +1210,7 @@
  bfi_ITA_independence_issue_6_dec:0 "Lend Support to Italian Farmers"
  bfi_ITA_independence_issue_6_dec_desc:0 "While the reversal of fascist-era agricultural autarky may be an attractive set of policies, we must not neglect our domestic farmers, especially the smallholders, who would suffer the most from free-trade policies for agriculture. We will raise subsidies for Italian farmers, to blunt the impact of liberalization and prevent cheap foreign agricultural products from putting our smallholders out of business."
  bfi_ITA_USA_influence_issue_6_dec:0 "Open Agricultural Sector to America" 
- bfi_ITA_USA_influence_issue_6_dec_desc:0 "The United States has been a major agricultural exporter since the turn of the century, and their farmers on the Great Plains have plenty of experience with cultivating crops in arid and unstable climates - expertise well-suited for taming the post-Atlantropa Italian climate. We should cultivate ties with American agribusinesses by lowering barriers to the trade of agricultural products between Italy and the United States and ensuring that our farmers have access to American markets."
+ bfi_ITA_USA_influence_issue_6_dec_desc:0 "The United States has been a major agricultural exporter since the turn of the century, and their farmers on the Great Plains have plenty of experience with cultivating crops in arid and unstable climates - expertise well-suited for taming the climate of Italy's African possessions. We should cultivate ties with American agribusinesses by lowering barriers to the trade of agricultural products between Italy and the United States and ensuring that our farmers have access to American markets."
  bfi_ITA_anti_JAP_issue_6_dec:0 "Limit Japanese Investment into Agricultural Sector"
  bfi_ITA_anti_JAP_issue_6_dec_desc:0 "Despite Japanese promises that our domestic agriculture will not be threatened by Japanese investment, the Zaibatsu could pose a significant threat to our own colonial plantations. We cannot let them take over our Empire's farmlands. To protect it from the Zaibatsu, we will limit Japanese investment into our agricultural sector and maintain tariffs on key Japanese agricultural exports."
  bfi_ITA_JAP_influence_issue_6_dec:0 "Open Agricultural Sector to Japan"
@@ -1239,9 +1239,9 @@
  BFI_JAP_decrease_independence_issue_7_dec_desc:0 "If we want to get oil from the Italians, there are more direct ways to do so than purchasing it from local companies or the government. Zaibatsu can instead purchase resource extraction rights for certain portions of the Italian Empire. This will serve the dual purpose of providing us with many much needed resources, as well as allowing Japanese companies to get a coveted foothold in the Italian economy."
  
  # Issue 7 - Italy
- bfi_ITA_independence_issue_7_dec:0 "Increase subsidies for ENI"
+ bfi_ITA_independence_issue_7_dec:0 "Increase Subsidies for ENI"
  ITA_BFI_increased_subsidies_for_eni:0 "Increased Subsides for ENI"
- bfi_ITA_independence_issue_7_dec_desc:0 "Oil is the lifeblood of the Italian Empire, and losing our dominant market share of the oil trade would be an unmitigated disaster on the scale of Atlantropa. We must maintain ENI's preeminence at all costs, even if it means subsidising unprofitable ventures and turning a blind eye to wasteful spending. To prevent American or Japanese oil companies from establishing a foothold in our domains, we will raise subsidies for ENI."
+ bfi_ITA_independence_issue_7_dec_desc:0 "Oil is the lifeblood of the Italian Empire, and losing our dominant market share of the oil trade would be an unmitigated disaster on the scale of Germany's economic crash. We must maintain ENI's preeminence at all costs, even if it means subsidising unprofitable ventures and turning a blind eye to wasteful spending. To prevent American or Japanese oil companies from establishing a foothold in our domains, we will raise subsidies for ENI."
  bfi_ITA_USA_influence_issue_7_dec:0 "Cut Oil Rates for the OFN"
  ITA_BFI_lower_oil_rates:0 "Lower Oil Rates"
  bfi_ITA_USA_influence_issue_7_dec_desc:0 "While it lacks the global empire of Japan, the United States as a nation is unique in its vast, unceasing hunger for oil. Much of its population lives in suburbs and commutes using automobiles, and much of its freight is transported via truck. The American people would certainly benefit from cheaper oil, and we will earn their goodwill by lowering ENI's oil rates to the United States and other OFN members. This is an offer that the Americans can't refuse."
@@ -1265,7 +1265,7 @@
  
  # Issue 8 - JAP
  BFI_JAP_increase_influence_issue_8_dec:0 "Remind Them of Shared Struggles"
- BFI_JAP_increase_influence_issue_8_dec_desc:0 "Though we did not share many battlefields, the Italians and Japanese were certainly compatriots in the second World War. We shall remind the Italian people that we once fault together, and will fight together again. Like the Italians, the Japanese know what it is like to have one's culture divided and taken advantage of by foreign foes. And like the Italians, the Japanese know what it is like to rise again, strong and united, and defeat those oppressors."
+ BFI_JAP_increase_influence_issue_8_dec_desc:0 "Though we did not share many battlefields, the Italians and Japanese were certainly compatriots in the Second World War. We shall remind the Italian people that we once fault together, and will fight together again. Like the Italians, the Japanese know what it is like to have one's culture divided and taken advantage of by foreign foes. And like the Italians, the Japanese know what it is like to rise again, strong and united, and defeat those oppressors."
  BFI_JAP_anti_USA_influence_issue_8_dec:0 "Demonize the Yankee"
  BFI_JAP_anti_USA_influence_issue_8_dec_desc:0 "The American people have never been friends to Italy, and we cannot let Italy forget this. American guns and bombs killed innocent Italians in the Second World War, and the Americans would soon do so again, if ever given the chance. America has a long and storied history of hatred and fear towards those of Italian descent, and the oppression they have wreaked upon unsuspecting Catholics is well-known. We will remind Rome of this at every opportunity."
  BFI_JAP_increase_independence_issue_8_dec:0 "Recognize Italy's Strength"
@@ -1321,7 +1321,7 @@
  BFI_USA_increase_influence_issue_10_dec:0 "Encourage West Point-Rosso Maniero Exchange Programs"
  BFI_USA_increase_influence_issue_10_dec_desc:0 "Centuries of Italian military science can point their origins to the Nunziatella Military School in Naples. Having birthed many of the country's heroes in the last war, the famed Rossa Maniero is now set on nurturing those of the future. West Point has a lot to offer to, and a lot to learn from, engaging with their Italian counterparts' efforts to bring Italian warfare to the modern era."
  BFI_USA_anti_JAP_influence_issue_10_dec:0 "Formulate "East of Suez"-Oriented Contingency Plans"
- BFI_USA_anti_JAP_influence_issue_10_dec_desc:0 "Beyond the Gulf of Aden lies half of the Indian Ocean - a good 35 million square kilometers large - with adjacent islands, nations, resources and trade routes. Any conflict to protect their interests in such a vital, yet no less distant environment will leaved them disadvantaged. But not to worry: the Pentagon can offer a friendly boost, should Rome desire it. This will also consternate the Japanese, who will not want their inflence in the region."
+ BFI_USA_anti_JAP_influence_issue_10_dec_desc:0 "Beyond the Gulf of Aden lies half of the Indian Ocean - a good 35 million square kilometers large - with adjacent islands, nations, resources and trade routes. Any conflict to protect their interests in such a vital, yet no less distant environment will leaved them disadvantaged. But not to worry: the Pentagon can offer a friendly boost, should Rome desire it. This will also consternate the Japanese, who will not want their influence in the region."
  BFI_USA_increase_independence_issue_10_dec:0 "Invite Italian Observers to OFN Exercises"
  BFI_USA_increase_independence_issue_10_dec_desc:0 "One cannot speak of Italian martial skill without mentioning the generals which lend credence to the concept. And the list is as long as there are years between Giuseppe Garibaldi and Giovanni Messe. The US Army, and its OFN allies', stand to gain plenty of experience from warriors as renowned as the Italians."
  BFI_USA_decrease_independence_issue_10_dec:0 "Send Liaisons to the Forze Armate Italiane"
@@ -1346,8 +1346,8 @@
  bfi_ITA_anti_JAP_issue_10_dec_desc:0 "It is quite clear that the Japanese view us as nothing more than a base to increase their own influence from - in the scenario we are ever under direct attack, many raise doubts they would choose to muster significant forces to change the tides of an all-out German assault. Japan's influence in our strategic planning must be reduced, and our reliance on other, more reliable powers strengthened! We shall reduce our integration of military strategy with the Sphere, and aim our doctrinal work elsewhere."
  bfi_ITA_JAP_influence_issue_10_dec:0 "Push for Japanese Shared Planning"
  bfi_ITA_JAP_influence_issue_10_dec_desc:0 "How could we not favor Japan, one of our greatest allies since the war! For us to stand strong against the German menace, we shall conscript their help - they shall be mutually pleased with their newfound base to project power throughout Europe. We shall directly propose we further integrate our military strategy, such that in the worst-case scenario, we shall be prepared to fight as one!"
- bfi_ITA_anti_USA_issue_10_dec:0 "Exclude OFN Observers"
- bfi_ITA_anti_USA_issue_10_dec_desc:0 "The United States, although a massive power in their own right, have never been the most reliable of partners. Although much has changed since the Second World War, many raise the same concerns: Would they actually help us enough in the case of war? Their democratic institutions could delay help, to the point where we suffer the same fate of Britain. The United States' influence in our strategy shall be reduced, primarily by barring OFN observers access into our direct military affairs. Although this is a harsh step to take, it is one that many believe must be done to ensure our independence and security in the case of all-out war."
+ bfi_ITA_anti_USA_issue_10_dec:0 "Exclude OFN Partners"
+ bfi_ITA_anti_USA_issue_10_dec_desc:0 "The United States, although a massive power in their own right, have never been the most reliable of partners. Although much has changed since the Second World War, many raise the same concerns: Would they actually help us enough in the case of war? Their democratic institutions could delay help, to the point where we suffer the same fate of Britain. The United States' influence in our strategy shall be reduced, primarily by barring OFN partners access into our direct military affairs. Although this is a harsh step to take, it is one that many believe must be done to ensure our independence and security in the case of all-out war."
 
  # Issue 11 - USA
  BFI_USA_increase_influence_issue_11_dec:0 "Encourage Ties between Italian and American Defense Contractors"
@@ -1403,7 +1403,7 @@
  
  # Issue 12 - Italy
  bfi_ITA_independence_issue_12_dec:0 "Encourage Domestic Industry"
- bfi_ITA_independence_issue_12_dec_desc:0 "In spite of the potentially massive foreign inflow possible from the great powers, we must not forget our domestic industry. Having our commercial markets dominated by the East and the West is a scenario that we must avoid at all costs; when they control our markets, we are no better than a puppet, dangling by the string of our dependent industry. We shall invest a significant amount of capital into our domestic industry, financing new factories, equipment, and infrastructure. Although some may claim this is a waste of capital, it is the opposite -  we must protect our market's freedom from total foreign domination!"
+ bfi_ITA_independence_issue_12_dec_desc:0 "In spite of the potentially massive foreign inflow possible from the great powers, we must not forget our domestic industry. Having our commercial markets dominated by the East and the West is a scenario that we must avoid at all costs; when they control our markets, we are no better than a puppet, dangling by the string of our dependent industry. We shall invest a significant amount of capital into our domestic industry, financing new factories, equipment, and infrastructure. Although some may claim this is a waste of capital, it is the opposite - we must protect our market's freedom from total foreign domination!"
  bfi_ITA_USA_influence_issue_12_dec:0 "Encourage American Investment" 
  bfi_ITA_USA_influence_issue_12_dec_desc:0 "The Americans enjoy one of, if not the largest economies on Earth. Their businesses show a subtle eagerness to invest in our country, but many are driven off by our protectionist policies in place. With some political effort, we shall change this. In the aim of gaining access to their vast financial assets, we shall relax some of the more extreme American-centric policies, and allow for eased trade between our borders."
  bfi_ITA_anti_JAP_issue_12_dec:0 "Temper Japanese Eagerness"
@@ -1459,7 +1459,7 @@
  BFI_JAP_increase_influence_issue_14_dec:0 "Japanese Military Parades"
  BFI_JAP_increase_influence_issue_14_dec_desc:0 "The Italians, sharing a border with many enemies who would see their state vanquished, clearly want as much military power as they can get when selecting allies. Luckily for us, the Imperial Japanese Army is by far the strongest body of soldiers in the world. We must make this fact clear by demonstrating our unyielding, unstoppable might at every turn. By conducting a series of lavish, extravagant military parades, we will show our strength and power to the Italians."
  BFI_JAP_anti_USA_influence_issue_14_dec:0 "Remember American Incompetence"
- BFI_JAP_anti_USA_influence_issue_14_dec_desc:0 "The United States of America has a poor record in warfare, and that is something the Italians should be well aware of. America's minimal participation in the first World War, bloody stalemate in 1812, and their humiliating defeat against our glorious  Empire come to mind. How can the Italians expect to stand against the Germans, when America has already failed against them? In what possible way could America ever be a better ally than its conqueror in the East?"
+ BFI_JAP_anti_USA_influence_issue_14_dec_desc:0 "The United States of America has a poor record in warfare, and that is something the Italians should be well aware of. America's minimal participation in the first World War, bloody stalemate in 1812, and their humiliating defeat against our glorious Empire come to mind. How can the Italians expect to stand against the Germans, when America has already failed against them? In what possible way could America ever be a better ally than its conqueror in the East?"
  BFI_JAP_increase_independence_issue_14_dec:0 "Share Military Intelligence"
  BFI_JAP_increase_independence_issue_14_dec_desc:0 "When we cooperate with Italy, we will certainly be fighting against our numerous shared enemies. The Tokumusoukan have been gathering information on such enemies for a long time, and it would be a waste if we were unable to make full use of it in our future encounters. As such, as part of this military integration, we will begin to share the military intelligence of our enemies with Italy. This is putting a lot of trust in them, but it will give us both an advantage down the line."
  BFI_JAP_decrease_independence_issue_14_dec:0 "Incorporate Japanese Strategies"
@@ -1500,7 +1500,7 @@
  # Issue 15 - Italy
  bfi_ITA_independence_issue_15_dec:0 "Increase Funding for SIM"
  ITA_BFI_increased_SIM_funding:0 "Increased SIM funding"
- bfi_ITA_independence_issue_15_dec_desc:0 "The SIM has been an integral part of our government for decades, and to abrogate its duties to foreign intelligence agencies would be a betrayal of Italian interests. Therefore, we must increase funding for the SIM to allow it to maintain its competency alongside the CIA and KPT."
+ bfi_ITA_independence_issue_15_dec_desc:0 "The SIM has been an integral part of our government for decades, and to abrogate its duties to foreign intelligence agencies would be a betrayal of Italian interests. Therefore, we must increase funding for the SIM to allow it to maintain its competency alongside the CIA and Tokumusoukan."
  bfi_ITA_USA_influence_issue_15_dec:0 "Foster Ties with the CIA" 
  bfi_ITA_USA_influence_issue_15_dec_desc:0 "During the last war, the United States' Office of Strategic Services was one of the most effective components of the allied war effort, and the CIA carries that legacy on. Its reach extends across the globe, from Germania to Cape Town and New Delhi. Increased cooperation with the CIA would improve our ability to counter Germany's aggression on the world stage, and train our agents for a variety of theaters."
  bfi_ITA_anti_JAP_issue_15_dec:0 "Rebuke the Tokumusoukan"
@@ -1556,120 +1556,13 @@
  BFI_OFN_engines_of_war_3_desc:0 "Now that we are part of the OFN, the Americans have responded to our request for help with military production by offering us access to the immense resources and potential of their military-industrial complex. This has resulted in considerable information exchange and new ideas from across the pond, and is greatly improving our weapons' designs."
  BFI_OFN_engines_of_war_4_desc:0 "Now that we are part of the OFN, the Americans have responded to our request for help with military production by offering us access to the immense resources and potential of their military-industrial complex. This has resulted in considerable information exchange and new ideas from across the pond, and is greatly improving our weapons' designs."
  
- ## BATTLE FOR ITALY ##
- ITA_battle_for_italy:0 "The Battle for Italy"
- ITA_battle_for_italy_desc:0 "Ciano's reforms and the subsequent democratization, along with everything that followed, were carried out to save §GItaly§!. Yet our decision is also one with immense geopolitical implications.\n\nAcross the Atlantic, the §BUnited States of America§! salivates at the thought of a strong §BOFN§! ally on the German border. The §YJapanese Empire§!, meanwhile, sees an opportunity to extend their §YCo-Prosperity Sphere§! further than they ever dreamed.\n\nThe world watches to see who shall win the battle for §GItaly§!."
- USA_battle_for_Italy:0 "The Battle for Italy"
- USA_battle_for_Italy_desc:0 "We have watched the developments in §GItaly§! keenly, and with an increasing sense of surprise. This is an unprecedented opportunity to project the §BUnited States'§! influence to the German doorstep, should we be able to bring the young democracy into the §BOFN§!.\n\nYet the §YJapanese Empire§! lurks in the wings, wanting to claim such a rich prize for themselves. The Battle for §GItaly§! is before all else a battle of values, and we are determined to win it."
- JAP_battle_for_Italy:0 "The Battle for Italy"
- JAP_battle_for_Italy_desc:0 "Whilst §GItaly§! has long been far from our mind, recent events in that country have changed things. In departing from fascism, and letting their people vote, the §GItalians§! become a new battleground.\n\nThe §BUnited States§! has already begun its efforts to pull Italy into the §BOFN§!. Yet our offer to join the §YCo-Prosperity Sphere§! is better. Against §BDC's§! promises of democratic solidarity, we offer monetary gain; that, and the security of an alliance with the §YJapanese Empire§!."
-
-
- ##Italy's Side
- ita_appeal_to_jaabn_goods:0 "Appeal to Japanese Consumers"
- ita_appeal_to_USA_goods:0 "Appeal to American Markets"
- ita_support_domestic_italian_work:0 "Support Domestic Work"
- ITA_JAPAN_GOODS_APPEAL:0 "Appeal to Japanese Consumers"
- ITA_USA_GOODS_APPEAL:0 "Appeal to American Markets"
- ITA_HOME_LOVING_GOODS:0 "Support Domestic Work"
-
- ita_visit_national_diet:0 "Visit the National Diet"
- ita_visit_the_white_house:0 "Visit the White House"
- ita_campaign_at_home:0 "Campaign at Home"
- ITA_VISIT_THE_NAT_DIET:0 "Visit the National Diet"
- ITA_WHITE_HOUSE_VISIT:0 "Visit the White House"
- ITA_HOME_CAMPAIGN:0 "Campaign at Home"
-
- ita_bargaining_suez_JAPAN:0 "Flaunt the Suez to Japan"
- ita_bargaining_suez_USA:0 "Flaunt the Suez to the US"
- ita_build_up_the_suez:0 "Build Up the Suez"
- ITA_OFFER_SUEZ_TO_JAABN:0 "Flaunt the Suez to Japan"
- ITA_OFFER_SUEZ_TO_USA:0 "Flaunt the Suez to the US"
- ITA_ITALIAN_HELP_SUEZ:0 "Build Up the Suez"
-
- ita_recognize_Azad_Hind:0 "Recognize the Azad Hind Government"
- ita_recognize_Rep_Ind:0 "Affirm The Recognition of the Republic of India"
- ITA_ITALIAN_AZAD_HIND_LOVE:0 "Recognize the Azad Hind Government"
- ITA_ITALIAN_ROI_LOVE:0 "Affirm The Recognition of the Republic of India"
-
- ##US's Side
- USA_gib_Tex_oil_Italy:0 "Offer Texan Oil"
- USA_get_canada_sands_pour_Italy:0 "Utilize Canada's Alliance"
- USA_GIVE_ITALY_TEXAS_OIL:0 "Offer Texan Oil"
- USA_MAN_I_LOVE_CANADA:0 "Utilize Canada's Alliance"
-
- USA_Pres_visit_Italy:0 "Visit Rome"
- USA_Italy_PM_speak_in_congress:0 "Invite the PM to Speak in Congress"
- USA_MISTER_PRES_I_LOVE_U:0 "Visit Rome"
- USA_HAVE_ITALY_PM_IN_CONGRESS:0 "Invite the PM to Speak in Congress"
-
- USA_meet_with_Egypt:0 "Bring the Battle to Egypt"
- USA_I_LOVE_EGYPT:0 "Bring the Battle to Egypt"
-
- USA_Italy_support_BN:0 "Support the Blocchi Nazionali"
- USA_Italy_support_CD:0 "Support the Democrazia Cristiana"
- USA_Italy_support_FD:0 "Support the Fronte Democrazia"
- USA_SUPPORTS_THE_FD:0 "Support the Fronte Democrazia"
- USA_SUPPORTS_THE_CD:0 "Support the Democrazia Cristiana"
- USA_SUPPORTS_THE_BN:0 "Support the Blocchi Nazionali"
-
- USA_Atlantic_work_Italy:0 "Atlantic Exercises with Italy"
- USA_ATLANTIC_MIGHT_BE_HARD:0 "Atlantic Exercises with Italy"
-
- USA_epic_help_italy_navy:0 "Offer Naval Technology"
- USA_AID_ITALIAN_NAVY:0 "Offer Naval Technology"
-
- USA_turn_italy_against_FASH:0 "Turn Italians against Authoritarianism"
- USA_I_HATE_AUTHORIT_RUDE:0 "Turn Italians against Authoritarianism"
-
- USA_corruption_Ciano:0 "Offer Ciano Land"
- USA_publish_the_diaries:0 "Publish Ciano's Diaries"
- USA_CIANO_LAND_MISSION:0 "Offer Ciano Land"
- USA_DIARIES_ARE_OUT:0 "Publish Ciano's Diaries" 
-
- ##Jaabn's Side
- JAP_macnhu_oil_ita:0 "Offer Manchu Oil"
- JAP_indonesia_oil_ita:0 "Offer Indonesia Oil"
- JAP_MANCHU_OIL_WHITE_PEOPLE:0 "Offer Manchu Oil"
- JAP_INDONESIA_OIL_CRACKER:0 "Offer Indonesia Oil"
-
- JAP_PM_visit_rome:0 "Have the PM Visit Rome"
- JAP_ITA_PM_visit_diet:0 "Welcome Italy to the National Diet"
- JAP_TOUR_DA_ROME_THO:0 "Have the PM Visit Rome"
- JAP_GET_THEM_IN_DIET_THO:0 "Welcome Italy to the National Diet"
-
- JAP_meet_with_Egypt:0 "Bring the Battle to Egypt"
- JAP_BATTLE_EGYPT_WHITE_PEOPLE:0 "Bring the Battle to Egypt"
-
- JAP_Italy_support_FD:0 "Support the Fronte Democrazia"
- JAP_Italy_support_CD:0 "Support the Democrazia Cristiana"
- JAP_Italy_support_BN:0 "Support the Blocchi Nazionali"
- JAP_SUPPORTS_THE_FD:0 "Support the Fronte Democrazia"
- JAP_SUPPORTS_THE_CD:0 "Support the Democrazia Cristiana"
- JAP_SUPPORTS_THE_BN:0 "Support the Blocchi Nazionali"
-
- JAP_indian_work_Italy:0 "Naval Exercises in the Indian Ocean"
- JAP_INDIAN_OCEAN_WO_LOLGAMER:0 "Naval Exercises in the Indian Ocean"
-
- JAP_epic_help_italy_RUBBER:0 "Bargain with Rubber"
- JAP_RUBBER_FROM_JAPAN:0 "Bargain with Rubber"
-
- JAP_turn_italy_against_IMPUR:0 "Turn Italy Against Imperialism"
- JAP_ANTI_IMPERIALISM_ITALY:0 "Turn Italy Against Imperialism"
-
- JAP_give_ciano_upper_house_access:0 "Give Ciano Access to the Upper House"
- JAP_give_ciano_order_of_the_rising_sun:0 "Give Ciano the Order of the Rising Sun"
- JAP_UPPER_HOUSE_CIANO_BASED:0 "Give Ciano Access to the Upper House"
- JAP_RISING_SUN_CIANO:0 "Give Ciano the Order of the Rising Sun"
-
- 
 #Battle For Italy Events#
 
 BFI.19.t:0 "A Light in the Darkness" # ( Italy Event ) We're opening ourselves up to the world as a democracy! If foreign people want to come help us, come along, its great to be independent ! :)))
 BFI.19.d:0 "Now that authoritarianism is buried under Italy's soil, we must show ourselves to the world as we have become. In Europe Italy is a light in the darkness, a democracy among so many despots, and evidence that freedom is possible even in the shadow of the German Reich. If people of talent and energy from the world over should wish to come to this country and help build it anew, we will welcome them with open arms and a spirit of discovery. For it is not enough to bury Fascism. Now we must build everyday what it means to be independent and free, and reap the benefit from opening up to all those of goodwill. Whether this light will survive in so much darkness is another matter. But to have tried to build something beautiful is in the Italian spirit, and the whole world will see us do so."
 BFI.19.a:0 "A Renaissance dawns."
 
-BFI.1.t:0 "Offers from Rome" # ( Japan Event )Democratic Italy's appeal to Japan! Our former ally could serve us well in the cold war, footing in Europe and trade connections there.
+BFI.1.t:0 "Offers from Rome" # ( Japan Event )Democratic Italy's appeal to Japan! Our former ally could serve us well in the Cold War, footing in Europe and trade connections there.
 BFI.1.d:0 "In recent months following Italian democratization, we have been approached by Italian envoys with overtures of friendship and cooperation. While we have enjoyed warm relations with the Italians ever since their break with the Nazis in the '50s this latest development represents a golden opportunity to bring the Italian Empire firmly into our sphere.\n\nWith control over the Suez, dominance over the Mediterranean, and a Colonial Empire that stretches from Tunis to the Horn, Italy would make a valuable addition to the Co-Prosperity Sphere, turning the Sphere into a truly global organization. Furthermore, the effects of gaining an ally right on the borders of the Reich cannot be overstated. Every available effort should be made to bring the Italians into the Co-Prosperity Sphere, lest this opportunity slips from our grasp, or worse, fall into the hands of our enemies."
 BFI.1.a:0 "Get me the Ambassador!"
 
@@ -1706,15 +1599,15 @@ BFI.9.d:0 "Today will be remembered throughout history as the day the Italian Em
 BFI.9.a:0 "America was named after an Italian, after all"
 
 BFI.10.t:0 "Italy Joins the Free World" # ( USA Event ) Italy joins the OFN! Very nice for us!
-BFI.10.d:0 "Italian-American communities across the United States erupted in celebration today as Italy officially signed legislation to join the Organization of Free Nations as a member, despite immense Japanese pressure.\n\nWith this move the Italian people have struck a valiant blow in the OFN's efforts to contain the dual menaces of the Einheitspakt and the Japanese Co-Prosperity Sphere. The OFN has gained an important foothold in Europe, access to the Suez Canal, and access to some of the world's largest oil reserves in the Middle-East.\n\nWhile the Cold War is still far from won, there is still a widespread feeling among the population that things may finally be looking up for the forces of the Free World."
+BFI.10.d:0 "Italian-American communities across the United States erupted in celebration today as Italy officially signed legislation to join the Organization of Free Nations as a member, despite immense Japanese pressure.\n\nWith this move the Italian people have struck a valiant blow in the OFN's efforts to contain the dual menaces of the Einheitspakt and the Japanese Co-Prosperity Sphere. The OFN has gained an important foothold in Europe, access to the Suez Canal, and access to some of the world's largest oil reserves in the Middle East.\n\nWhile the Cold War is still far from won, there is still a widespread feeling among the population that things may finally be looking up for the forces of the Free World."
 BFI.10.a:0 "Another shining light in a sea of darkness."
 
 BFI.11.t:0 "Italy Aligns with America" # ( Japan Event ) Italy joins the OFN! FUCK
-BFI.11.d:0 "Tokyo in shock today as news broke out that Italy has officially joined the America-led Organization of Free Nations, despite the best efforts of the Sphere's diplomatic corps.\n\nWith Italy occupying an important position in the global cold war between the world's three superpowers, its loss to the OFN is a stinging slight that may carry major diplomatic repercussions for the Sphere going forwards..."
+BFI.11.d:0 "Tokyo in shock today as news broke out that Italy has officially joined the America-led Organization of Free Nations, despite the best efforts of the Sphere's diplomatic corps.\n\nWith Italy occupying an important position in the global Cold War between the world's three superpowers, its loss to the OFN is a stinging slight that may carry major diplomatic repercussions for the Sphere going forwards..."
 BFI.11.a:0 "Such an opportunity, slipped through our grasp"
 
 BFI.12.t:0 "Italy joins the Co-Prosperity Sphere" 
-BFI.12.d:0 "A massive shift in the global balance of power occurred today as Italy has officially signed the treaty bringing it into the Co-Prosperity Sphere.\nWhile many were perhaps betting on OFN winning the Battle for Italy due to its closer distance, it seems that the recent historical ties between Italy and Japan, as well as the need for an ally to protect Italy's vital Middle-Eastern interests, have won out over American lobbying and closer proximity.\n\nDespite the vast implications of this move, both nations could briefly forget their cares in revelry. Celebrations in Tokyo and Rome included the Japanese Prime-minister watching a special performance of Verdi's 'Otello', while in Italy officials were delighted to view a skillful display of Japanese 'Noh' theatre."
+BFI.12.d:0 "A massive shift in the global balance of power occurred today as Italy has officially signed the treaty bringing it into the Co-Prosperity Sphere.\nWhile many were perhaps betting on OFN winning the Battle for Italy due to its closer distance, it seems that the recent historical ties between Italy and Japan, as well as the need for an ally to protect Italy's vital Middle Eastern interests, have won out over American lobbying and closer proximity.\n\nDespite the vast implications of this move, both nations could briefly forget their cares in revelry. Celebrations in Tokyo and Rome included the Japanese Prime-minister watching a special performance of Verdi's 'Otello', while in Italy officials were delighted to view a skillful display of Japanese 'Noh' theatre."
 BFI.12.a:0 "Unlikely friends in the East"
 
 BFI.13.t:0 "Italy aligns with Japan" # ( USA Event ) Italy joins the CPS! FUCK
@@ -1722,7 +1615,7 @@ BFI.13.d:0 "Shock in Washington today as the Italian government has officially s
 BFI.13.a:0 "Damn..."
 
 BFI.14.t:0 "Co-Prosperity Sphere Gains Foothold in Europe" # ( Japan Event ) Italy joins the CPS! Very nice for us!
-BFI.14.d:0 "Celebrations broke out in cities across the Sphere today as Tokyo and Rome officially signed Italian entry into the Co-Prosperity Sphere\nWhile some analysts feared that Italy might instead join the America-led OFN, the Sphere's perseverance and close ties with Italy seem to have won the day.\n\nWith this move the Sphere's interests in the west are one step closer to being secure. The Sphere not only gains a large foothold on the Einheitspakt's very doorstep, it also guarantees the Sphere access to some of the world's most vital trade routes including the Suez Canal. Not to mention important Middle-Eastern oil supplies.\n\nThe announcement of the alliance has led to a small surge of "Italiamania" among the population, with Italian music records selling faster than stores can import them and language schools being inundated with requests for Italian lessons."
+BFI.14.d:0 "Celebrations broke out in cities across the Sphere today as Tokyo and Rome officially signed Italian entry into the Co-Prosperity Sphere\nWhile some analysts feared that Italy might instead join the America-led OFN, the Sphere's perseverance and close ties with Italy seem to have won the day.\n\nWith this move the Sphere's interests in the west are one step closer to being secure. The Sphere not only gains a large foothold on the Einheitspakt's very doorstep, it also guarantees the Sphere access to some of the world's most vital trade routes including the Suez Canal. Not to mention important Middle Eastern oil supplies.\n\nThe announcement of the alliance has led to a small surge of "Italiamania" among the population, with Italian music records selling faster than stores can import them and language schools being inundated with requests for Italian lessons."
 BFI.14.a:0 "They made the right choice."
 
 BFI.15.t:0 "Italy Maintains its Independence" # ( Italy Event ) We maintain diplomatic freedom! We aren't joining any faction!

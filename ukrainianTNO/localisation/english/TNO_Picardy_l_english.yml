@@ -1,40 +1,46 @@
 ﻿l_english:
  ## Country Names ##
- PIC:0 "Nouvel État Français"
- PIC_DEF:0 "Nouvel État Français"
- PIC_ADJ:0 "Français"
+ PIC:0 "Нова Французька держава"
+ PIC_DEF:0 "Нова Французька держава"
+ PIC_ADJ:0 "французьк"
 
  ## Party Names ##
- PIC_national_socialism_party:0 "33. SS-Div "Charlemagne""
- PIC_national_socialism_party_long:0 "33. Waffen-Grenadier-Division der SS "Charlemagne""
- PIC_ultranationalism_party:0 "33. SS-Div "Charlemagne""
- PIC_ultranationalism_party_long:0 "33. Waffen-Grenadier-Division der SS "Charlemagne""
+ PIC_national_socialism_party:0 "33. СС-дивізія «Шарлемань»"
+ PIC_national_socialism_party_long:0 "33. Ваффен-ґренадерська дивізія СС «Шарлемань»"
+ PIC_ultranationalism_party:0 "33. СС-дивізія «Шарлемань»"
+ PIC_ultranationalism_party_long:0 "33. Ваффен-ґренадерська дивізія СС «Шарлемань»"
 
  #German Post-Burgundy puppet
- GLC: "Paktkommission Frankreich"
- GLC_DEF: "die Hohe Paktkommission für Frankreich"
- GLC_despotism_party: "EfF"
- GLC_despotism_party_long: "Einheitspaktausschuss für Frankreich"
+ GLC: "Пакткомісія Франції"
+ GLC_DEF: "Вища Пакткомісія Франції"
+ GLC_ADJ: "Пакткомісія Франції"
+ GLC_despotism_party: "КПФ"
+ GLC_despotism_party_long: "Комітет Пакту Франції"
+ GLC_national_socialism_party: "КПФ"
+ GLC_national_socialism_party_long: "Комітет Пакту Франції"
+ GLC_socialist_party:0 "РРМ"
+ GLC_socialist_democrat_long:0 "Рух червоного маку"
 
- PIC_Christian_de_la_Maziere: "Christian de la Mazière"
+ PIC_Christian_de_la_Maziere: "Крістіан де ла Мазьєр"
  ## Ministers ##
- PIC_Rene_Binet:0 "René Binet"
- PIC_Rene_Binet_hog_desc: "§YHead of Government\nEsoteric Nazism§!"
- PIC_Marc_Augier:0 "Marc Augier"
- PIC_Marc_Augier_for_desc: "§YForeign Minister\nEsoteric Nazism§!"
- PIC_Jacques_Correze:0 "Jacques Corrèze"
- PIC_Jacques_Correze_eco_desc: "§YEconomy Minister\nEsoteric Nazism§!"
- PIC_Jean_Bassompierre:0 "Jean Bassompierre"
- PIC_Jean_Bassompierre_sec_desc: "§YSecurity Minister\nEsoteric Nazism§!"
+ PIC_Rene_Binet:0 "Рене Біне"
+ PIC_Rene_Binet_hog_desc: "§YГлава уряду\nНаціонал-соціялізм§!"
+ PIC_Marc_Augier:0 "Марк Ож'є"
+ PIC_Marc_Augier_for_desc: "§YМіністр закордонних справ\nНаціонал-соціялізм§!"
+ PIC_Jacques_Correze:0 "Жак Коррез"
+ PIC_Jacques_Correze_eco_desc: "§YМіністр економіки\nНаціонал-соціялізм§!"
+ PIC_Jean_Bassompierre:0 "Жан Басомп'єр"
+ PIC_Jean_Bassompierre_sec_desc: "§YМіністр безпеки\nНаціонал-соціялізм§!"
  
  ### Leader Bios ###
- POLITICS_CHRISTIAN_MAZIERE_DESC:0 "In the center of what was once France, the Charlemagne Division struggles to re-assert their control- but there is no doubt who they'll back when they regain their footing.\n\nChristian de la Mazière is an odd bird, one of the few men in Burgundy who pledges themselves to the Reichsführer more out of a personal loyalty than a belief or obligation. Once a soldier in the French Army, Mazière has spent the last two decades working his way up the ranks of the Charlemagne Division, the predominant French collaborator division in the Waffen-SS. It was here where he first met Heinrich Himmler, and a loyalty to a man that most found disturbing at best formed as he moved higher and higher, becoming Commander of the division just as the Ordensstaat was founded. For years now, he has worked side by side in pursuit of the Spartanist ideal, even as worries rose about Himmler's disgust for the French culture that Mazière loved.\n\nBefore he could truly reflect on those worries, however, everything changed. The Führer died, eventually replaced by Heydrich- a best case scenario, and Mazière celebrated as such. For a brief moment in time, all seemed like it would work out after all- that is, until the new Führer suddenly broke from what the SS believed, denouncing Himmler with ridiculous accusations of apocalyptic dreams, and everything changed again- not for the better.\n\nCharlemagne was caught off guard by the sudden flip, and it shows. Mazière watches as his men scramble to re-assert their control over cities they hadn't bothered to pay attention to for a year. Though the initial situation seems dire, he has no fear- he knows that the right side will win in the end, and the Spartanist dream will be back on track. With no question of where his loyalty lies, it's a matter of when, not if, his forces will rejoin Himmler's and march off to war."
- 
- POLITICS_CHRISTIAN_MAZIERE_COLLAPSE_DESC:0 "Standartenführer de la Mazière has long awaited this day - the day when the backstabbing swindler who calls himself Reichsführer would show his weakness. The purpose of the Charlemagne Division was to crush Judeo-Bolshevism, not serve a deluded, decrepit old mystic in the annihilation of their own people. That he was ever expected to do so was nothing short of an insult to the flower of French soldiery, who perished in the hundreds on the Eastern Front.\n\nPerhaps there are still good men in the Reich - Germans who would have comrades, rather than subjects - but that cannot be said for the Ordensstaat. Christian de la Mazière will take what is owed to the legion and more; first from the SS, then from the enemies of France. If Germany herself is among them, then so be it. As long as he lives to see Heinrich Himmler dangling from a noose beneath the Arc de Triomphe, he will be satisfied with his lot. Survival, with the promise of plunder and a purified France, is just a bonus."
- 
+ POLITICS_CHRISTIAN_MAZIERE_DESC:0 "У самому центрі того, що колись було Францією, дивізія «Шарлемань» намагається відновити свій контроль — але немає жодних сумнівів щодо того, кого вони підтримають, щойно знову стануть на ноги.\n\nКрістіан де ла Мазьєр — дивний птах, один із небагатьох людей у Бургундії, які присягають Рейхсфюреру радше через особисту відданість, ніж через віру чи обов'язок. Колись солдат французької армії, Мазьєр останні два десятиліття піднімався кар'єрними сходами дивізії «Шарлемань», головної французької колабораціоністської дивізії у Ваффен-СС. Саме тут він уперше зустрів Генріха Гіммлера, і в міру його просування нагору сформувалася відданість людині, яку більшість вважала щонайменше тривожною, а коли було засновано Орденсштаат, він став командиром дивізії. Протягом багатьох років він пліч-о-пліч працював над втіленням спартаністського ідеалу, навіть коли зростало занепокоєння через огиду Гіммлера до французької культури, яку Мазьєр любив.\n\nПерш ніж він зміг по-справжньому обміркувати ці побоювання, все змінилося. Фюрер помер, зрештою його замінив Гейдріх — найкращий із можливих сценаріїв, як це сприйняв Мазьєр, і він так само це й відсвяткував. На коротку мить здавалося, що зрештою все налагодиться — аж поки новий Фюрер раптом не відкинув те, у що вірили СС, звинувативши Гіммлера в безглуздих мареннях про апокаліпсис, і все знову змінилося — не на краще.\n\n«Шарлемань» була захоплена зненацька цим раптовим поворотом, і це видно. Мазьєр спостерігає, як його люди метушаться, намагаючись відновити контроль над містами, на які вони не звертали уваги цілий рік. Хоча початкова ситуація здається жахливою, він не боїться — він знає, що зрештою переможе правильна сторона, а спартаністська мрія знову стане на правильний шлях. Не маючи жодних сумнівів щодо того, де лежить його вірність, питання лише в тому, коли, а не чи приєднаються його сили до сил Гіммлера й вирушать на війну."
+
+ POLITICS_CHRISTIAN_MAZIERE_COLLAPSE_DESC:0 "Штандартенфюрер де ла Мазьєр давно чекав цього дня — дня, коли зрадливий шахрай, який називає себе Рейхсфюрером, покаже свою слабкість. Призначенням дивізії «Шарлемань» було знищити юдео-большевизм, а не служити одурілому, занепалому старому містикові в знищенні власного народу. Те, що від нього взагалі очікували такого, було не чим іншим, як образою для цвіту французького війська, який сотнями гинув на Східному фронті.\n\nМожливо, у Райху все ще є хороші люди — німці, які хотіли б мати товаришів, а не підданих, — але цього не можна сказати про Орденсштаат. Крістіан де ла Мазьєр забере те, що належить леґіону, і навіть більше; спочатку в СС, а потім у ворогів Франції. Якщо сама Німеччина опиниться серед них — нехай буде так. Поки він житиме, щоб побачити Генріха Гіммлера, який висітиме в петлі під Тріумфальною аркою, він буде задоволений своєю долею. Виживання з обіцянкою здобичі та очищеної Франції — лише приємний бонус."
+
  ## Ideas ##
- PIC_in_name_only:0 "In Name Only"
- PIC_in_name_only_desc:0 "Mazière's men bear the name of Charlemagne, but they are perceived by most Frenchmen as mere German bootlickers. He might see himself as the founder of a new France, but Mazière has a long way to go before his countrymen even consider showing respect."
+ PIC_in_name_only:0 "Лише в назві"
+ PIC_in_name_only_desc:0 "Люди Мазьєра носять ім'я Шарлеман, але більшість французів сприймає їх лише як німецьких підлабузників. Він може вважати себе засновником нової Франції, але Мазьєру ще далеко до того, щоб його співвітчизники бодай замислилися про виявлення поваги."
+
+ PIC_robber_barony:0 "Розбійницьке баронство"
+ PIC_robber_barony_desc:0 "Лідери «Шарлеман» — заможні люди, але не завдяки діловій хватці чи чесно заробленим винагородам. Їхні багатства майже повсюдно викрадені в інших. Хоча колись вони обмежувалися експропрійованою єврейською власністю, офіцери не гребують і менш патріотичними підприємствами..."
  
- PIC_robber_barony:0 "The Robber Barony"
- PIC_robber_barony_desc:0 "The leaders of Charlemagne are wealthy men, but not due to any business acumen or hard-earned rewards. Their riches are almost uniformly stolen from others. Though they once restricted themselves to expropriated Jewish property, the officers are not above less patriotic ventures..."

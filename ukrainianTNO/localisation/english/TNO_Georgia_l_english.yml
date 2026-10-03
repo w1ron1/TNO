@@ -1,28 +1,28 @@
 ﻿l_english:
  ### Country Names ###
- GEO: "Georgia"
- GEO_DEF: "Georgia"
- GEO_fascism: "Legionary Georgia"
- GEO_fascism_DEF: "Legionary Georgia"
- GEO_socialist: "Georgian Socialist Republic"
- GEO_socialist_DEF: "Georgian Socialist Republic"
- GEO_ADJ: "Georgian"
+ GEO: "Грузія"
+ GEO_DEF: "Грузія"
+ GEO_fascism: "Легіонерська Грузія"
+ GEO_fascism_DEF: "Легіонерська Грузія"
+ GEO_socialist: "Грузинська Соціялістична Республіка"
+ GEO_socialist_DEF: "Грузинська Соціялістична Республіка"
+ GEO_ADJ: "Грузинськ."
 
  ### Parties ###
- GEO_communist_party: "SKP - B"
- GEO_communist_party_long: "Sakartvelos Komunisturi Partia - Bolshevikebi"
- GEO_socialist_party: "SKP - M"
- GEO_socialist_party_long: "Sakartvelos Komunisturi Partia"
- GEO_fascism_party: "KL"
- GEO_fascism_party_long: "Kartuli Legioni"
- GEO_national_socialism_party: "KL"
- GEO_national_socialism_party_long: "Kartuli Legioni"
+ GEO_communist_party: "СКП — Б"
+ GEO_communist_party_long: "Комуністична партія Грузії — більшовики"
+ GEO_socialist_party: "СКП — М"
+ GEO_socialist_party_long: "Комуністична партія Грузії"
+ GEO_fascism_party: "КЛ"
+ GEO_fascism_party_long: "Грузинський легіон"
+ GEO_national_socialism_party: "КЛ"
+ GEO_national_socialism_party_long: "Грузинський легіон"
 
  ### Characters ###
- GEO_Shalva_Loladze: "Shalva Loladze"
- GEO_Givi_Javakhishvili: "Givi Javakhishvili"
+ GEO_Shalva_Loladze: "Шалва Лоладзе"
+ GEO_Givi_Javakhishvili: "Ґіві Джавахішвілі"
 
  ## Leader Descs ##
- POLITICS_SHALVA_LOLADZE_DESC: "Shalva Loladze has given everything he had to defend his homeland: his honor, his dignity, and his blood. When the Germans invaded the Soviet Union, he enlisted in the military, becoming a pilot in the Soviet Air Force. However, luck was not on his side, and he was shot down over occupied Ukraine. Faced with the choice between a Nazi prison camp and a position in the collaborator Georgian Legion, he gave in and chose the latter. The Legion's lower echelons were recruited from Georgian POWs resentful of their Soviet overlords or desperate to stay alive, but its leaders were a clique of generals and politicians from the defunct Democratic Republic of Georgia. Exiled from their homeland since the Soviet victory, they longed to return. When the war was over and the Reich was victorious, the Legion's wish was fulfilled. But rather than arrive as liberators, they were forced to serve as occupiers for their new German masters.\n\nAn ideological rift formed in the Legion between the old guard, who advocated for patience, and the younger generation, who preferred more direct action. When the West Russian War came and the Transcaucasian Soviet rose up, the Legion's commanders stayed faithful to the Reich; when the Germans inevitably came to restore order, they would reward the Georgians for their loyalty. That reward never came. And when the Katharinastadt lost its grip with Josias's death, the generals told their men to wait once more. The colonels, however, were tired of waiting. Shalva Loladze led the mutiny, arresting his commanding officers and shooting those who resisted. He rallied the Legion, who quickly deposed the German garrison, and the flag of Georgia once again flew over Tbilisi. Now, he would fight for no master but himself, and under no flag but that of his homeland."
- POLITICS_GIVI_JAVAKHISHVILI_DESC: "Givi Dmitrievich Javakhishvili was no soldier or fiery orator, but a mild-mannered bureaucrat who ran the committee overseeing the Georgian S.S.R.'s water pipe infrastructure. The partisans with whom he sheltered once Tblisi fell decried him as useless in building a resistance network, but he promised he had skills in a far more important task: building a government. Winning the war was all well and good, he insisted, but what is the point of winning a war if they were unfit to solidify their hold and restore order? Would the people not trust the side that offers survival and sustenance over chaos and poverty?\n\nAnd so, Javakhishvili began building contacts between other resistance cells. Not just soldiers, but also union leaders, scientists, accountants, teachers, anyone and everyone who could help prepare a new Georgian state. And what started out as a loose coalition of partisans gradually coalesced into something greater: the foundations of a shadow government, one that would be able to seize power and pick up right where the old bureaucracy left off.\n\nThey initially attempted to coordinate with the Transcaucasian Soviet during the West Russian War, but the Germans had managed to counterattack and reassert their control before any substantial cooperation could occur. So they went back under ground, bided their time, and waited for the next opportunity to strike. The death of Josias meant Javakhishvili's dreams were finally able to come to fruition. He and his allies launched their long-awaited uprising across the territories of the former Georgian S.S.R., overwhelming the collaborators and the beleaguered German garrison. And when the smoke cleared, his fledgling government was able to step right in and begin retaking the apparatuses of state. But though Javakhishvili promised he could build a state, it was implicit that he would have to win the war first. And now it is time for him to uphold all his promises."
+ POLITICS_SHALVA_LOLADZE_DESC: "Шалва Лоладзе віддав усе, що мав, на захист своєї батьківщини: свою честь, свою гідність і свою кров. Коли німці вторглися до Совєцького Союзу, він записався до війська, ставши пілотом Совєцьких Військово-повітряних сил. Однак удача була не на його боці, і його збили над окупованою Україною. Постаючи перед вибором між нацистським табором для військовополонених і посадою в колабораціоністському Грузинському легіоні, він здався й обрав останнє. Нижчі чини Легіону набиралися з грузинських військовополонених, які обурювалися совєцькими господарями або відчайдушно прагнули вижити, але його керівники були клікою генералів і політиків із колишньої Демократичної Республіки Грузія. Вигнані зі своєї батьківщини від часів совєцької перемоги, вони прагнули повернутися. Коли війна закінчилася, а Райх переміг, бажання Легіону здійснилося. Але замість того, щоб прибути як визволителі, вони були змушені служити окупантами своїм новим німецьким господарям.\n\nУ Легіоні утворився ідеологічний розкол між старою ґвардією, яка виступала за терпіння, та молодшим поколінням, яке віддавало перевагу більш рішучим діям. Коли почалася Західноросійська війна, а Закавказький Совєт повстав, командири Легіону залишилися вірними Райху; коли німці неминуче прийдуть відновити порядок, вони винагородять грузинів за їхню відданість. Ця винагорода так і не прийшла. А коли Катаріненштадт втратив контроль після смерті Йозіаса, генерали знову наказали своїм людям чекати. Однак полковники втомилися чекати. Шалва Лоладзе очолив заколот, заарештувавши своїх командирів і розстрілюючи тих, хто чинив опір. Він згуртував Легіон, який швидко скинув німецький гарнізон, і прапор Грузії знову замайорів над Тбілісі. Тепер він не служитиме жодному господареві, окрім себе, і жодному прапору, окрім прапора своєї батьківщини."
+ POLITICS_GIVI_JAVAKHISHVILI_DESC: "Ґіві Дмитрович Джавахішвілі не був ані солдатом, ані палким оратором, а лише лагідним бюрократом, який керував комітетом, що наглядав за інфраструктурою водогонів Грузинської РСР. Партизани, у яких він переховувався після падіння Тбілісі, називали його непотрібним у створенні мережі опору, але він запевняв, що має навички для значно важливішого завдання: побудови уряду. Виграти війну — це, звісно, добре, наполягав він, але який сенс перемагати у війні, якщо вони нездатні закріпити свою владу та відновити порядок? Хіба люди не довірятимуть більше тій стороні, яка пропонує виживання та засоби до існування, ніж хаос і бідність?\n\nІ так Джавахішвілі почав налагоджувати контакти між іншими осередками опору. Не лише солдатами, а й профспілковими лідерами, науковцями, бухгалтерами, учителями — усіма, хто міг допомогти підготувати нову грузинську державу. І те, що починалося як вільна коаліція партизанів, поступово перетворилося на щось більше: основи тіньового уряду, який зміг би захопити владу та продовжити роботу там, де зупинилася стара бюрократія.\n\nСпочатку вони намагалися координувати дії із Закавказьким Совєтом під час Західноросійської війни, але німцям вдалося контратакувати та відновити свій контроль, перш ніж могла відбутися будь-яка суттєва співпраця. Тож вони знову пішли в підпілля, чекали свого часу та чекали наступної можливости завдати удару. Смерть Йозіаса означала, що мрії Джавахішвілі нарешті могли здійснитися. Він та його союзники розпочали довгоочікуване повстання на територіях колишньої Грузинської РСР, розгромивши колабораціоністів і знесилений німецький гарнізон. І коли дим розсіявся, його уряд, що лише зароджувався, зміг одразу взятися до роботи та почати відновлювати державний апарат. Але хоча Джавахішвілі обіцяв, що зможе побудувати державу, було очевидно, що спочатку йому доведеться виграти війну. І тепер настав час виконати всі свої обіцянки."
  

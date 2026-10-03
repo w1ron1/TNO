@@ -1,27 +1,27 @@
 ﻿l_english:
  ### Country Names ###
- IRL: "Democratic Republic of Iran"
- IRL_DEF: "the Democratic Republic of Iran"
- IRL_ADJ: "Iranian"
+ IRL: "Демократична Республіка Іран"
+ IRL_DEF: "Демократична Республіка Іран"
+ IRL_ADJ: "Іранськ"
 
  ### Parties ###
- IRL_progressivism_party: "JMI"
- IRL_progressivism_party_long: "Jebhe-ye Melli-ye Irān"
- IRL_liberalism_party: "JMI"
- IRL_liberalism_party_long: "Jebhe-ye Melli-ye Irān"
- IRL_conservatism_party: "JMI"
- IRL_conservatism_party_long: "Jebhe-ye Melli-ye Irān"
+ IRL_progressivism_party: "НФІ"
+ IRL_progressivism_party_long: "Національний фронт Ірану"
+ IRL_liberalism_party: "НФІ"
+ IRL_liberalism_party_long: "Національний фронт Ірану"
+ IRL_conservatism_party: "НФІ"
+ IRL_conservatism_party_long: "Національний фронт Ірану"
 
  ### Characters ###
- IRL_Karim_Sanjabi: "Karim Sanjabi"
- IRL_Teymur_Bakhtiar: "Teymur Bakhtiar"
- IRL_Mohammad_Salimi: "Mohammad Salimi"
- IRL_Ali_Shahbazi: "Ali Shahbazi"
- IRL_Taghi_Riahi: "Taghi Riahi"
- IRL_Mohammad_Vali_Gharani: "Mohammad-Vali Gharani"
- IRL_Mehdi_Bazargan: "Mehdi Bazargan"
- IRL_Hassan_Pakravan: "Hassan Pakravan"
- IRL_Anvar_Khamei: "Anvar Khamei"
+ IRL_Karim_Sanjabi: "Карім Санджабі"
+ IRL_Teymur_Bakhtiar: "Теймур Бахтіяр"
+ IRL_Mohammad_Salimi: "Мохаммад Салімі"
+ IRL_Ali_Shahbazi: "Алі Шахбазі"
+ IRL_Taghi_Riahi: "Тагі Ріахі"
+ IRL_Mohammad_Vali_Gharani: "Мохаммад-Валі Ґарані"
+ IRL_Mehdi_Bazargan: "Мехді Базарґан"
+ IRL_Hassan_Pakravan: "Хассан Пакраван"
+ IRL_Anvar_Khamei: "Анвар Хамеї"
 
  ## Leader Descs ##
- POLITICS_KARIM_SANJABI_DESC: "Karim Sanjabi is not a man to give up quickly. An old guard of the democratic nationalists in Iran, his National Front party maintained a brave opposition to the Shah and suffered for it, with the reviled SAVAK taking increasingly harsh measures to crush the opposition. Sanjabi himself never gave up fighting for his dream of a strong, free Iran. It was his courage and determination which would make him de-facto leader of the pro-democratic underground in the country, turning into the burgeoning Democratic Republic of Iran at the outbreak of the Iranian Revolution.\n\nThe upheaval unleashed by the revolution brought opportunity, and the backing of a new friend on the other side of the world. Mobilising all of their contacts, Sanjabi's faction has called for assistance from the United States of America, making whatever promises were necessary to secure Washington's support. The fight will be difficult. But perhaps this association can turn the tide, and if so the sun may rise over a democratic Iran, one where its people are prosperous and free."
+ POLITICS_KARIM_SANJABI_DESC: "Карім Санджабі - не з тих, хто швидко здається. Старий гвардієць демократичних націоналістів Ірану, його партія «Національний фронт» чинила мужній опір шахові й зазнала за це переслідувань, адже ненависна САВАК вдавалася до дедалі жорсткіших заходів, щоб придушити опозицію. Сам Санджабі ніколи не припиняв боротьби за свою мрію про сильний, вільний Іран. Саме його мужність і рішучість зробили його фактичним лідером продемократичного підпілля країни, яке з початком Іранської революції перетворилося на зародок Демократичної Республіки Іран.\n\nПотрясіння, спричинені революцією, принесли нові можливості та підтримку нового друга на іншому боці світу. Мобілізувавши всі свої контакти, фракція Санджабі звернулася по допомогу до Сполучених Штатів Америки, давши всі необхідні обіцянки, щоб заручитися підтримкою Вашинґтона. Боротьба буде важкою. Але, можливо, цей союз здатен змінити перебіг подій, і тоді над демократичним Іраном зійде сонце - над Іраном, де його народ буде заможним і вільним."

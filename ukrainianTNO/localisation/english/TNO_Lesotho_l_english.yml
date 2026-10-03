@@ -1,25 +1,25 @@
 ﻿l_english:
  ### Country Names ###
- LTH_despotism: "Lesotho"
- LTH_despotism_DEF: "the Kingdom of Lesotho"
- LTH_despotism_ADJ: "Basotho"
+ LTH_despotism: "Лесото"
+ LTH_despotism_DEF: "Королівство Лесото"
+ LTH_despotism_ADJ: "басотськ."
  
  ### Parties ###
- LTH_despotism_party: "House of Moshoeshoe"
- LTH_despotism_party_long: "House of Moshoeshoe"
+ LTH_despotism_party: "Дім Мошоешо"
+ LTH_despotism_party_long: "Дім Мошоешо"
 
  ### Characters ###
- LTH_Moshoeshoe_II: "Moshoeshoe II" 
- LTH_Elias_Phisoana_Ramaema: "Elias Phisoana Ramaema"
- LTH_Justin_Lekhanya: "Justin Lekhanya"
+ LTH_Moshoeshoe_II: "Мошоешо II" 
+ LTH_Elias_Phisoana_Ramaema: "Еліас Фісоана Рамаема"
+ LTH_Justin_Lekhanya: "Джастін Леханья"
 
  ## Leader Descs ##
- POLITICS_MOSHOESHOE_II_DESC: "King of the Kingdom of Lesotho, Moshoeshoe II was born Constantine Bereng Seeiso, a descendant of Moshoeshoe I, the great founder of the nation. Educated at Roma College in Lesotho, from a young age he cooperated closely with the South African government, just as his stepmother, acting as his regent in the wake of his father's death, had before him. Granted full independence upon assuming the throne in 1960, he has so far competently led Lesotho in cooperation with the constitutional government."
+ POLITICS_MOSHOESHOE_II_DESC: "Король Королівства Лесото, Мошоешо II народився під ім'ям Костянтин Беренґ Сеїсо й був нащадком Мошоешо I, великого засновника нації. Навчаючись у коледжі Рома в Лесото, він з юного віку тісно співпрацював із урядом Південної Африки, так само як і його мачуха, яка виконувала обов'язки регентки після смерті його батька. Отримавши повну незалежність після сходження на престол у 1960 році, він досі компетентно керував Лесото у співпраці з конституційним урядом."
 
  ### Ideas ###
- LTH_south_african_kingdom: "South African Kingdom"
- LTH_south_african_kingdom_desc: "Lesotho has had a tumultuous history over the last few years. The Kingdom was at first anything but, independent in name only under South Africa, and reduced to another exploited province with the rise of the Afrikaaner Volkstaat. However, with the Volkstaat's collapse, Lesotho has reasserted itself as a proper nation and hopes to build a proper nation from the corpse of South Africa."
+ LTH_south_african_kingdom: "Південноафриканське королівство"
+ LTH_south_african_kingdom_desc: "За останні кілька років Лесото пережило бурхливу історію. Спочатку Королівство було чим завгодно, але не незалежним, маючи лише номінальну незалежність під владою Південної Африки, а з приходом Африканерського Фолькстату перетворилося на ще одну експлуатовану провінцію. Однак після краху Фолькстату Лесото знову утвердило себе як повноцінна нація й сподівається побудувати справжню державу з трупа Південної Африки."
 
- LTH_strong_anc_influence: "Strong ANC Influence"
- LTH_strong_anc_influence_desc: "After the South African War, the ANC was destroyed and split into factions. Many of the most influential and radical members fled to Lesotho, where they were granted refuge by Moshoeshoe II. While they may be grateful to the king for his protection while under the Volkstaat, the radicals are now a thorn in the side of the king."
+ LTH_strong_anc_influence: "Сильний вплив АНК"
+ LTH_strong_anc_influence_desc: "Після Південноафриканської війни АНК було знищено та розколото на фракції. Багато найвпливовіших і найрадикальніших членів утекли до Лесото, де Мошоешо II надав їм притулок. Хоча вони можуть бути вдячні королю за його захист під час правління Фолькстату, тепер радикали стали для короля кісткою в горлі."
  

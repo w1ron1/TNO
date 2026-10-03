@@ -1,22 +1,21 @@
 ﻿l_english:
  ### Country Names ###
- CMR: "Comoros"
- CMR_DEF: "the Union of the Comoros"
- CMR_ADJ: "Comorian"
- 
+ CMR: "Коморські Острови"
+ CMR_DEF: "Союз Коморських Островів"
+ CMR_ADJ: "Коморський"
+
  ### Parties ###
- CMR_communist_party: "FNU"
- CMR_communist_party_long: "Front National Uni"
- CMR_socialist_party: "FNU"
- CMR_socialist_party_long: "Front National Uni"
- CMR_liberalism_party: "RDPC"
- CMR_liberalism_party_long: "Rassemblement Démocratique du Peuple Comorien"
- CMR_conservatism_party: "UCP"
- CMR_conservatism_party_long: "Union Comorienne pour le Progrès"
- CMR_paternalism_party: "RDPC"
- CMR_paternalism_party_long: "Rassemblement Démocratique du Peuple Comorien"
+ CMR_communist_party: "ЄНФ"
+ CMR_communist_party_long: "Єдиний національний фронт"
+ CMR_socialist_party: "ЄНФ"
+ CMR_socialist_party_long: "Єдиний національний фронт"
+ CMR_liberalism_party: "ДРКП"
+ CMR_liberalism_party_long: "Демократичне об'єднання коморського народу"
+ CMR_conservatism_party: "КСП"
+ CMR_conservatism_party_long: "Коморський союз за прогрес"
+ CMR_paternalism_party: "ДРКП"
+ CMR_paternalism_party_long: "Демократичне об'єднання коморського народу"
 
  ### Characters ###
- CMR_Said_Mohamed_Jaffar: "Saïd Mohamed Jaffar"
- CMR_Ali_Soilih: "Saïd Ali Soilih M'Tsashiwa"
- 
+ CMR_Said_Mohamed_Jaffar: "Саїд Мохамед Джаффар"
+ CMR_Ali_Soilih: "Саїд Алі Сойліх М'Цашіва"

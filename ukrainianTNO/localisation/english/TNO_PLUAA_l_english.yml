@@ -1,18 +1,18 @@
 ﻿l_english:
  ### Country Names ###
- ANL: "PLUAA"
- ANL_DEF: "the Partido da Luta Unida Africana por Angola"
- ANL_ADJ: "Angolan"
+ ANL: "ПЛОЄА"
+ ANL_DEF: "Партія єдиної африканської боротьби за Анголу"
+ ANL_ADJ: "анґольськ"
 
  ## Cosmetic Tags ##
- AFR_USSR: "Union of African Socialist States"
- AFR_USSR_DEF: "the Union of African Socialist States"
- AFR_USSR_ADJ: "African"
+ AFR_USSR: "Союз африканських соціялістичних держав"
+ AFR_USSR_DEF: "Союз африканських соціялістичних держав"
+ AFR_USSR_ADJ: "африканськ"
 
  ### Parties ###
- ANL_communist_party: "PCA"
- ANL_communist_party_long: "Partido Comunista Angolano"
- ANL_socialist_party: "PLUAA"
- ANL_socialist_party_long: "Partido da Luta Unida Africana por Angola"
- ANL_progressivism_party: "MSA"
- ANL_progressivism_party_long: "Movimento Socialista Angolano"
+ ANL_communist_party: "КПА"
+ ANL_communist_party_long: "Комуністична партія Анґоли"
+ ANL_socialist_party: "ПЛОЄА"
+ ANL_socialist_party_long: "Партія єдиної африканської боротьби за Анголу"
+ ANL_progressivism_party: "СМА"
+ ANL_progressivism_party_long: "Соціялістичний рух Анґоли"

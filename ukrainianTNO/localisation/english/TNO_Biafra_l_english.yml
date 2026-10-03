@@ -1,17 +1,22 @@
 ﻿l_english:
  ### Country Names ###
- BFR: "Biafra"
- BFR_DEF: "the Republic of Biafra"
- BFR_ADJ: "Biafran"
+ BFR: "Біафра"
+ BFR_DEF: "Республіка Біафра"
+ BFR_ADJ: "Біафрськ."
 
  ### Parties ###
- BFR_paternalism_party: "NPB"
- BFR_paternalism_party_long: "National Party of Biafra"
- BFR_despotism_party: "BAF"
- BFR_despotism_party_long: "Biafra Armed Forces"
+ BFR_conservatism_party: "КПБ"
+ BFR_conservatism_party_long: "Консервативна партія Біафри"
+ BFR_paternalism_party: "НПБ"
+ BFR_paternalism_party_long: "Національна партія Біафри"
+ BFR_despotism_party: "ЗСБ"
+ BFR_despotism_party_long: "Збройні сили Біафри"
+ BFR_fascism_party: "МБС"
+ BFR_fascism_party_long: "Мережа безпеки Сходу"
 
  ### Characters ###
- BFR_Odumegwu_Ojukwu: "Chukwuemeka Odumegwu Ojukwu"
+ BFR_Odumegwu_Ojukwu: "Чуквуемека Одумегву Оджукву"
 
  ## Leader Descs ##
  POLITICS_OJUKWU_DESC: ""
+ 

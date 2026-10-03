@@ -10,8 +10,16 @@
  SLF_FEDERATION_ADJ: "Південноафриканськ"
  
  ### Parties ###
- SLF_despotism_party: "ПАФВ"
- SLF_despotism_party_long: "Південно-Африканський фронт визволення"
+ SLF_despotism_party: "Південноафриканський визвольний фронт"
+ SLF_despotism_party_long: "Південноафриканський визвольний фронт"
+ SLF_paternalism_party: "Південноафриканський визвольний фронт"
+ SLF_paternalism_party_long: "Південноафриканський визвольний фронт"
+ SLF_conservatism_party: "Південноафриканський визвольний фронт"
+ SLF_conservatism_party_long: "Південноафриканський визвольний фронт"
+ SLF_liberalism_party: "Південноафриканський визвольний фронт"
+ SLF_liberalism_party_long: "Південноафриканський визвольний фронт"
+ SLF_socialist_party: "АНК"
+ SLF_socialist_party_long: "Африканський національний конґрес"
 
  ### Characters ###
  SLF_Constand_Viljoen: "Констанд Вільюн"
