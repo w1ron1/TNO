@@ -12,8 +12,12 @@
  ### Parties ###
  SFG_despotism_party: "Зеєфертайдіґунґ Сімонстаун"
  SFG_despotism_long: "Зеєфертайдіґунґ Сімонстаун" 
+ SFG_paternalism_party: "Морська оборона Саймонстауна"
+ SFG_paternalism_party_long: "Морська оборона Саймонстауна" 
  SFG_national_socialism_party: "ОКЗА"
  SFG_national_socialism_party_long: "Оберкомандо Зюдафріка"
+ SFG_fascism_party: "ОКЗА"
+ SFG_fascism_party_long: "Оберкомандо Зюдафріка"
 
  ### Characters ###
  SFG_Wilhelm_Dommes: "Вільгельм Доммес"

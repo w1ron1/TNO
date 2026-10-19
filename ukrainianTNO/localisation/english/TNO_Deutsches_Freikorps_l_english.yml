@@ -3,18 +3,18 @@
  ###########
  ##PARTIES##
  ###########
- DFK_despotism_party:0 "Freikorps - Militaristen"
- DFK_despotism_party_long:0 "Deutsches Freikorps"
- DFK_ultranationalism_party:0 "Freikorps - Extremisten"
- DFK_ultranationalism_long:0 "Deutsches Freikorps" 
- DFK_national_socialism_party:0 "Baku Industrialists"
- DFK_national_socialism_party_long:0 "Baku Industrialists"
+ DFK_despotism_party:0 "Фрайкор - мілітаристи"
+ DFK_despotism_party_long:0 "Німецький фрайкор"
+ DFK_ultranationalism_party:0 "Фрайкор - екстремісти"
+ DFK_ultranationalism_long:0 "Німецький фрайкор"
+ DFK_national_socialism_party:0 "Промисловці Баку"
+ DFK_national_socialism_party_long:0 "Промисловці Баку"
  
  ################
  ##LEADER DESCS##
  ################
- POLITICS_OTTO_WEIDINGER_DESC:0 "The slave revolt has sown chaos and destruction across the Reich's eastern territories, but nowhere has been hit as hard as Kaukasia. A land famed for its brutal treatment of slave and native alike, the fires of rebellion burnt hot and fast here, shredding the old order in a furious maelstrom. The final vestige of German administration retreated to Baku, the heart of the Reich's oil production, and was forced to rely on corporate bought mercenaries to replace the shattered garrison. It was to be their undoing.\n\nOtto Weidinger is no bureaucrat. He is a soldier, plain and simple. An SS man turned mercenary, Weidinger has spent the better part of his life criss-crossing the east with his mercenary bands, aiding whatever buyer needed him for the right price. From putting down partisans to defending corporate holdings, Weidinger has seen it all- the quintessential mercenary, on par with Siegfried Müller. However, if there's one thing Weidinger has no experience in, it's running a nation. That's where the companies come in.\n\nWeidinger is nothing more than a figurehead for the real administrative powers- the companies. Oil companies, tungsten companies, all sorts of corporations have come together behind Schörner's promises of a return to the days of glory. Their influence over the Caucauses has ousted the pro-Germania government, placing Weidinger on top and giving him the power he needs to deal with these pesky slaves. Weidinger himself has no qualms with his situation- a fat paycheck and full control over the company soldiers in addition to his normal band would be enough for him without helping return Germany to its glory days. With the latter as well, this may as well be his dream gig- assuming he can maintain it."
- DFK_Otto_Weidinger:0 "Otto Weidinger"
+ POLITICS_OTTO_WEIDINGER_DESC:0 "Повстання рабів посіяло хаос і руйнування на східних територіях Райху, але ніде удар не був таким сильним, як на Кавказії. Земля, відома своїм жорстоким поводженням із рабами та місцевими жителями, швидко охопилася вогнями повстання, які шалено вирували, розриваючи старий порядок на шматки. Останній залишок німецької адміністрації відступив до Баку, серця нафтовидобутку Райху, і був змушений покластися на найманців, придбаних корпораціями, щоб замінити знищений гарнізон. Це стало їхньою погибеллю.\n\nОтто Вайдінґер - не бюрократ. Він солдат, і не більше. Есесівець, що став найманцем, Вайдінґер більшу частину свого життя перетинав схід уздовж і впоперек зі своїми загонами найманців, допомагаючи будь-якому замовникові, якому був потрібен, за відповідну ціну. Від придушення партизанів до захисту корпоративних володінь - Вайдінґер бачив усе; справжнісінький найманець, на рівні із Зіґфрідом Мюллером. Однак якщо є щось, у чому Вайдінґер зовсім не має досвіду, то це управління державою. І тут на допомогу приходять компанії.\n\nВайдінґер - не більше ніж ширма для справжньої адміністративної влади - компаній. Нафтові компанії, вольфрамові компанії та всілякі корпорації об'єдналися навколо обіцянок Шернера повернутися до часів слави. Їхній вплив на Кавказі усунув пронімецький уряд, поставивши Вайдінґера нагорі та надавши йому владу, необхідну для боротьби з цими набридливими рабами. Сам Вайдінґер не має нічого проти свого становища - товстої платні та повного контролю над солдатами компаній на додачу до його звичайного загону йому цілком вистачило б і без допомоги у поверненні Німеччині її колишньої слави. А якщо додати й останнє, це цілком може бути роботою його мрії - якщо він зможе її втримати."
+ DFK_Otto_Weidinger:0 "Отто Вайдінґер"
  #############
  ##MINISTERS##
  #############
@@ -23,10 +23,10 @@
  #########
  ##IDEAS##
  #########
- DFK_Funding_from_the_Shadows:0 "Funding from the Shadows"
- DFK_Funding_from_the_Shadows_desc:0 "From shadowy depths emerge pouches filled with coin, and Weidinger is more than happy to snatch them. In order to maintain their rule over Baku in the Caucasus, the Deutsches Freikorps is receiving secret funding from powerful corporations and the Marshal of Moskowien himself, Ferdinand Schörner."
- DFK_Band_of_Brothers:0 "Band of Brothers"
- DFK_Band_of_Brothers_desc:0 "Other than blood and heritage, the only thing that can bond men together is war. The Deutsches Freikorps are a band of mercenary soldiers who have fought alongside each other through thick and thin, bantering in hours of peace and falling before their brothers in times of battle. The Freikorps are united together by the flames of war, and nothing will break them apart."
- DFK_Rule_of_the_Mercenaries:0 "Rule of the Mercenaries"
- DFK_Rule_of_the_Mercenaries_desc:0 "Baku lies under the chaotic leadership of the Deutsches Freikorps, a band of vicious German mercenaries with no experience of state administration. Due to the nature of such a mercenary government Baku has become highly militarized, and its extreme instability - both socially and politically - is of no surprise to anyone."
+ DFK_Funding_from_the_Shadows:0 "Фінансування з тіней"
+ DFK_Funding_from_the_Shadows_desc:0 "Із темних глибин виринають торбинки, наповнені монетами, і Вайдінґер із радістю їх хапає. Щоб утримувати владу над Баку на Кавказі, Німецький фрайкор отримує таємне фінансування від могутніх корпорацій і самого маршала Московії, Фердинанда Шернера."
+ DFK_Band_of_Brothers:0 "Братерство"
+ DFK_Band_of_Brothers_desc:0 "Окрім крові та походження, єдине, що може об'єднати чоловіків, — це війна. Німецький фрайкор — це загін найманих солдатів, які разом пройшли крізь вогонь і воду, жартуючи у мирні години та падаючи перед своїми побратимами під час битви. Фрайкор об'єднаний полум'ям війни, і ніщо не зможе їх розлучити."
+ DFK_Rule_of_the_Mercenaries:0 "Правління найманців"
+ DFK_Rule_of_the_Mercenaries_desc:0 "Баку перебуває під хаотичним правлінням Німецького фрайкору — загону жорстоких німецьких найманців, які не мають жодного досвіду державного управління. Через природу такого найманського уряду Баку став надзвичайно мілітаризованим, а його крайня нестабільність — як соціальна, так і політична — ні для кого не є несподіванкою."
  

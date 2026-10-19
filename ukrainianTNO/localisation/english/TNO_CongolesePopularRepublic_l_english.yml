@@ -1,16 +1,16 @@
 ﻿l_english:
  ### Country Names ###
- CPR: "Popular Republic of the Congo"
- CPR_DEF: "the Popular Republic of the Congo"
- CPR_ADJ: "Congolese"
+ CPR: "Народна Республіка Конґо"
+ CPR_DEF: "Народна Республіка Конґо"
+ CPR_ADJ: "Конґолезьк."
 
  ### Parties ###
- CPR_communist_party: "PSA"
- CPR_communist_party_long: "Parti Solidaire Africain"
- CPR_socialist_party: "PSA"
- CPR_socialist_party_long: "Parti Solidaire Africain"
- CPR_progressivism_party: "PSA"
- CPR_progressivism_party_long: "Parti Solidaire Africain"
+ CPR_communist_party: "АСП"
+ CPR_communist_party_long: "Африканська партія солідарности"
+ CPR_socialist_party: "АСП"
+ CPR_socialist_party_long: "Африканська партія солідарности"
+ CPR_progressivism_party: "АСП"
+ CPR_progressivism_party_long: "Африканська партія солідарности"
 
  ### Characters ###
- CPR_Christophe_Gbenye: "Christophe Gbenye"
+ CPR_Christophe_Gbenye: "Крістоф Ґбеньє"

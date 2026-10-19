@@ -21,8 +21,8 @@
  ZAM_conservatism_party_long: "Об'єднана Демократична партія Замбії"
  ZAM_paternalism_party: "СОЗ"
  ZAM_paternalism_party_long: "Сили оборони Замбії"
- ZAM_despotism_party: "ОНПН - жорстка лінія"
- ZAM_despotism_party_long: "Об'єднана національна партія незалежності - прихильники жорсткої лінії"
+ ZAM_despotism_party: "СОЗ"
+ ZAM_despotism_party_long: "Сили оборони Замбії"
 
  ZBO_communist_party: "ОНПН"
  ZBO_communist_party_long: "Об'єднана національна партія незалежності"
@@ -30,6 +30,8 @@
  ZBO_socialist_party_long: "Об'єднана національна партія незалежності"
  ZBO_paternalism_party: "СОЗ"
  ZBO_paternalism_party_long: "Сили оборони Замбії"
+ ZBO_despotism_party: "СОЗ"
+ ZBO_despotism_party_long: "Сили оборони Замбії"
 
  ### Characters ###
  ZAM_Kenneth_Kaunda: "Кеннет Каунда"

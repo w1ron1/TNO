@@ -1,14 +1,14 @@
 ﻿l_english:
  ### Country Names ###
- BKV: "Bukavu"
- BKV_DEF: "the State of Bukavu"
- BKV_ADJ: "Bukavu"
+ BKV: "Буґаву"
+ BKV_DEF: "Держава Буґаву"
+ BKV_ADJ: "Буґавськ."
 
  ### Parties ###
- BKV_paternalism_party: "GSPCL - Pro-Mobutu"
- BKV_paternalism_party_long: "Gouvernement de Salut Public du Congo Libéré - Pro-Mobutu"
- BKV_despotism_party: "GSPCL - Pro-Schramme"
- BKV_despotism_party_long: "Gouvernement de Salut Public du Congo Libéré - Pro-Schramme"
+ BKV_paternalism_party: "УГПВК — Прихильники Мобуту"
+ BKV_paternalism_party_long: "Уряд громадського порятунку Вільного Конґо — Прихильники Мобуту"
+ BKV_despotism_party: "УГПВК — Прихильники Шрамме"
+ BKV_despotism_party_long: "Уряд громадського порятунку Вільного Конґо — Прихильники Шрамме"
 
  ### Characters ###
- BKV_Alexandre_Singa: "Alexandre Singa"
+ BKV_Alexandre_Singa: "Александр Сінґа"

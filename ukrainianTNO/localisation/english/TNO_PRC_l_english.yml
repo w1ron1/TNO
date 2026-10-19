@@ -1,42 +1,42 @@
-﻿l_english:
+l_english:
 
  ### Parties ###
- PRC_communist_party: "Krasnaya Armiya"
- PRC_communist_party_long: "Krasnaya Armiya"
- PRC_socialist_party: "Krasnaya Armiya"
- PRC_socialist_party_long: "Krasnaya Armiya"
+ PRC_communist_party: "Красная Армія"
+ PRC_communist_party_long: "Красная Армія"
+ PRC_socialist_party: "Красная Армія"
+ PRC_socialist_party_long: "Красная Армія"
  
  ### Leader Desc ###
- PRC_Aleksandr_Vasilevsky: "Aleksandr Vasilevsky" 
- POLITICS_ALEKSANDER_VASILEVSKY_DESC: "Aleksandr Mikhailovich Vasilevsky was the son of a Russian Orthodox priest and was expected to follow in his father's footsteps, but he was drawn to a military life and traded his seminarian's robes for a soldier's uniform. He fought in the Imperial Russian Army and rose through the ranks, but resigned his post during the October Revolution and spent much of the Russian Civil War commanding soldiers well behind the front lines. In the interwar years, he distinguished himself as a skilled organizer, and befriended other notable officers such as Alexander Yegorov, Mikhail Tukhachevsky, and Georgy Zhukov. When the Germans invaded, Vasilevsky was serving in Bukharin's general staff, and his ability to work well under pressure helped him rise through the ranks. But not even his skills could stop the evacuation of Moscow from degenerating into a mad stampede as soldiers, bureaucrats, and millions of civilians desperately fighting each other for a coveted safe passage out of the city.\n\nDetermined to help as much of the Red Army to survive as possible, Vasilevsky organized a semi-orderly retreat of the forces that escaped the Mozhaisk defense line and marched east, over the Urals. Their goal: the Mongolian People's Republic, where they could regroup and resume the offensive. But the opportunity never came, for the Japanese and their puppet state of Mengjiang had already invaded Ulaanbaatar and forced the remnants of the Mongolian Army into the steppes. Vasilevsky formed a tenuous alliance with the Mongolians, and the two armies set up a domain in western Mongolia and the former Tuvan People's Republic. They were isolated from the West Russian War, the Siberian War and the fall of the People's Republic of Western Siberia. They gladly avoided Yagoda's government in Irkutsk, fearful that he would label their retreat as cowardice and have them shot for treason. But despite having no allies, Vasilevsky is still determined to rally his men, draft the battle plans, and fight their way back home."
+ PRC_Aleksandr_Vasilevsky: "Алєксандр Васілєвскій" 
+ POLITICS_ALEKSANDER_VASILEVSKY_DESC: "Алєксандр Міхайловіч Васілєвскій був сином російського православного священника. Очікувалося також, що йому випаде наслідувати батька - але потягнуло його на житіє військове, і проміняв він семінарські ризи на воєнну форму. Воював у Російській імператорській армії та піднявся за званням, проте покинув своє місце служби після Жовтневої революції, і провів більшість Громадянської війни в Росії за командуванням військ далеко від ліній зіткнень. У міжвоєнні роки виділився, як досвідчений керівник та збратався з видатними офіцерами: Алєксандром Єґоровим, Міхаїлом Тухачєвскім і Ґеорґієм Жуковим. За вторгнення німців Васілєвскій служив у генеральному штабі Бухаріна, і його здібність добре працювати під тиском допомогла йому просунутися по службі. Та навіть його навички не змогли завадити евакуації Москви призвести до навіженої штурханини - солдати, урядовці й мільйони цивільних відчайдушно боролися між собою за завітний безпечний вихід із міста.\n\nНалаштований допомогти якнайбільшій кількості Червоної Армії вижити настільки, наскільки це можливо - Васілєвскій організував напівупорядкований відступ сил, що обійшли можайську лінію оборони й марширували на схід, крізь Урал. Їхньою ціллю була Монгольська Народна Республіка, де вони змогли б перегрупуватися й відновити наступ. Натомість можливість ніколи не настала: японці й їхня маріонеткова держава Менцзян вже увійшли до Улан-Батору, і змусили залишки монгольської армії втекти в степи. Васілєвскій сформував нестійкий союз із монголами, і дві армії здобули територію на заході Монголії й минулій Тувинській Народній Республіці. Там вони були відокремлені від Західноросійської війни, Сибірської війни й падіння Центральносибірської Народної Республіки. На щастя вони уникнули й уряду Яґоди в Іркутску; боячись за те, що він виставить їхню втечу, як боягузство, і розстріляє їх за зраду. Але незважаючи на відсутність союзників, Васілєвскій все ж рішуче готовий зібрати своїх людей, розробити плани боротьби, і вибороти їхній шлях додому."
 
 ### Ideas ###
-PRC_red_army_dynamic_modifier: "Red Army in Exile"
-PRC_red_army_dynamic_modifier_desc: "The People's Revolutionary Council was formed out of the scattered remnants of the Far Eastern Military District. The Mongolian People's Republic, which had been reduced to a Soviet puppet before the Great Patriotic War, suddenly found itself as the host of Red Army units stranded, and having lost their chain of command. Through a slow and complex process, the Mongolian government would slowly merge with the Russian military, and despite the invasion from Mengjiang, survive on the edge of the country. After years of hardships, the Red Army has survived Japan's facade of pan-Asianism, Yagoda's totalitarianism, and internal strife between its leaders. Now, the troops wonder if their eternal exile in Mongolia will ever end."
+PRC_red_army_dynamic_modifier: "Червона Армія в вигнанні"
+PRC_red_army_dynamic_modifier_desc: "Народно-революційну раду сформували з розкиданих осередків Далекосхідного Військового округу. Монгольська Народна Республіка, яка перед Вєлікою Отєчествєнною була обмежена до совєцької маріонетки, раптово виявилася притулком підрозділів Червоної Армії - покинутих і без свого командування. Через повільний та кропіткий процес, уряд Монголії почав поступово інтегруватися з російськими військовими; і вижив на краю своєї держави, незважаючи на вторгнення з Менцзяну. Після років скрути Червона Армія пережила японський фасад паназіатства, тоталітаризм Яґоди, і внутрішні незгоди між своїми командуючими. Тепер війська гадають, чи їхнє одвічне вигнання в Монголії колись закінчиться."
 
-PRC_factionalism: "Directional Disputes"
-PRC_factionalism_desc: "There are many arguments between the leading figures of the People's Revolutionary Council on policies of governance and what its ultimate goal is. That is to be expected, though, when the nation is controlled by a loose coalition of Russians and Mongols, that only have their wish for survival and adherence to socialist doctrine in common. These disagreements have often led to infighting within the ranks of the regime, and taking decisive action can be difficult without upsetting one faction or the other. However, if the People's Revolutionary Council wants to survive into the future, or even restore the Union, the disputes will have to be solved."
+PRC_factionalism: "Суперечки щодо курсу"
+PRC_factionalism_desc: "Є чимало сварок між очільними особами Народно-революційної ради щодо урядових заходів, та якою є їх кінцева мета. Утім, це очікувано - зважаючи на те, коли країна контролюється крихкою коаліцією росіян і монголів, що мають спільного лише в бажанні вижити й прихильності до доктрини соціялізму, ці чвари часто призводили до сутичок всередині режиму, і вжиття рішучих заходів без пригнічення однієї чи іншої сторони буває складним. Але якщо Народно-революційна рада бажає дожити до майбуття, або й навіть відновити Совєцький Союз - суперечки мусять бути вирішені."
 
-PRC_democratic_military: "Democratic Military"
-PRC_democratic_military_desc: "Soldiers in the Red Army elect their own officers, in order to move beyond the reactionary hierarchies that dominate militaries of old. However, this decision has had consequences. Soldiers won't elect officers for their qualifications and skill, and they won't elect officers who'll make the hard decisions when needed. They'll elect officers who are popular, who go easy on their men. This means that men often get promoted to positions that they are most certainly not qualified to hold."
+PRC_democratic_military: "Демократичні війська"
+PRC_democratic_military_desc: "Солдати Червоної Армії обирають власних офіцерів, аби позбавитися реакційних ієрархій, що панували в військах минулого. Проте таке рішення несе за собою наслідки. Військові не обиратимуть офіцерів за їх кваліфікацією та вміннями, що чинитимуть важкі рішення за необхідністю ситуації - вони оберуть офіцерів, які є популярними й щадитимуть своїх підлеглих. Це означає, що частіше всього посади займатимуть люди, які найбільше не мають навичок для них."
 
-PRC_preparation_for_war: "Prepared for War"
-PRC_preparation_for_war_desc: "The state's preparations have been completed, and all aspects of its economy have been tuned for wartime supply and production. Though its economic base is likely much smaller than those of its future enemies, this singular focus, and the very many optimizations made in its execution, should enable it to remain competitive, and engage on more equal ground."
+PRC_preparation_for_war: "Готові до війни"
+PRC_preparation_for_war_desc: Державні приготування було завершено, і всі сфери економіки країни переведено на виробництво та забезпечення на час війни. Нехай економічна база держави набагато менша за її майбутніх ворогів - цей окремий фокус і дуже багато оптимізації при його здійсненні, мусять зробити її конкуретноздатною й протистояти на більш рівних умовах."
 
  ### Characters ###
- PRC_Grigory_Shtern: "Grigory Shtern"
- PRC_Grigory_Shtern_hog_desc: "§YHead of Government\nBolshevism§!\n--------------\n"
- PRC_Ivan_Ivanov: "Ivan Ivanov"
- PRC_Ivan_Ivanov_for_desc: "§YForeign Minister\nBolshevism§!\n--------------\n"
- PRC_Jambyn_Batmonkh: "Jambyn Batmönkh"
- PRC_Jambyn_Batmonkh_eco_desc: "§YEconomy Minister\nBolshevism§!\n--------------\n"
- PRC_Jamiyangiin_Lkhagvasuren: "Jamiyangiin Lkhagvasuren"
- PRC_Jamiyangiin_Lkhagvasuren_sec_desc: "§YSecurity Minister\nBolshevism§!\n--------------\n"
+ PRC_Grigory_Shtern: "Ґріґорій Штерн"
+ PRC_Grigory_Shtern_hog_desc: "§YГолова уряду\nБольшевизм§!\n--------------\n"
+ PRC_Ivan_Ivanov: "Іван Іванов"
+ PRC_Ivan_Ivanov_for_desc: "§YМіністр зовнішніх справ\nБольшевизм§!\n--------------\n"
+ PRC_Jambyn_Batmonkh: "Джамбин Батмонх"
+ PRC_Jambyn_Batmonkh_eco_desc: "§YМіністр економіки\nБольшевизм§!\n--------------\n"
+ PRC_Jamiyangiin_Lkhagvasuren: "Джамьянґійр Лхаґвасурен"
+ PRC_Jamiyangiin_Lkhagvasuren_sec_desc: "§YМіністр внутрішніх справ\nБольшевизм§!\n--------------\n"
  
- PRC_Issa_Pliev: "Issa Pliev"
- PRC_Pavel_Batitsky: "Pavel Batitsky"
- PRC_Leonid_Brezhnev: "Leonid Brezhnev"
- PRC_Alexander_Oskin: "Alexander Oskin"
- PRC_Batyn_Dorzh: "Batyn Dorzh"
- PRC_Butochiyn_Tsog: "Butochiyn Tsog"
- PRC_Lodongiin_Dandar: "Lodongiin Dandar"
+ PRC_Issa_Pliev: "Ісса Плієв"
+ PRC_Pavel_Batitsky: "Павєл Батітскій"
+ PRC_Leonid_Brezhnev: "Лєонід Брєжнєв"
+ PRC_Alexander_Oskin: "Алєксандр Оскін"
+ PRC_Batyn_Dorzh: "Батин Дордж"
+ PRC_Butochiyn_Tsog: "Бутчійн Цоґ"
+ PRC_Lodongiin_Dandar: "Лодонґійн Дандар"

@@ -27,13 +27,11 @@
 
  ### Parties ###
  KYR_communist_party: "ККП"
- KYR_communist_party_long: "Кирґизька комуністична партія"
- KYR_socialist_party: "СБП"
- KYR_socialist_party_long: "Соціялістична Бостондук партія"
- KYR_liberalism_party: "КДР"
- KYR_liberalism_party_long: "Кирґизька демократична республіка"
- KYR_despotism_party: "ТУІР"
- KYR_despotism_party_long: "Тимчасовий уряд Ісламської Республіки"
+ KYR_communist_party_long: "Комуністична партія Киргизстану"
+ KYR_despotism_party: "КІР"
+ KYR_despotism_party_long: "Киргизстанський ісламський рух"
+ KYR_national_socialism_party: "КТЄК"
+ KYR_national_socialism_party_long: "Комітет єдності Туркестану"
 
  ### Characters ###
  KYR_Kaliynur_Usenbekov: "Усенбеков Калійнур"

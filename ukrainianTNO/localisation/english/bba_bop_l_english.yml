@@ -3,6 +3,7 @@
  BOP_TOOLTIP:1 "§FКлацніть, щоб керувати §Yдипломатією§! §Yглобальних конфліктів§! та вашим §Yрозвідувальним агентством§!.§!"
  BOP_TAB_BUTTON_tt:0 "[?Tab_v.GetTokenLocalizedKey]"
  TNO_GlobalConflicts_GUI_Title:0 "ГЛОБАЛЬНІ КОНФЛІКТИ"
+ TNO_AntarcticAfairs_GUI_Title:0 "АНТАРКТИЧНІ СПРАВИ"
  TNO_BoP_AddTab_tt:0 "§W[?TabName.GetTokenLocalizedKey]§! тепер доступна для використання в меню §Bзовнішньої політики§!.\n"
 
  # Dummy ideas

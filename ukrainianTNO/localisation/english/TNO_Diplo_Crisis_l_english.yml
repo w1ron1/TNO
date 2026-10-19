@@ -7,10 +7,10 @@
  CRISIS_WAR_WITH_USA:0 "§RThis will lead to war with the United States.§!\n"
  CRISIS_WAR_WITH_GER:0 "§RThis will lead to war with Germany.§!\n"
  CRISIS_WAR_WITH_JAP:0 "§RThis will lead to war with Japan.§!\n"
+ CRISIS_WAR_FINAL:0 "§VThis is the point of no return.§!\n"
  CRISIS_BEGIN:0 "A §YDiplomatic Crisis§! will begin...\n"
  CRISIS_ESCALATE:0 "\nOur §YDiplomatic Crisis§! will §Rescalate§!.\n"
  CRISIS_WITHDRAW:0 "\nWe will withdraw from our §YDiplomatic Crisis§!.\n"
-
 
 tension_diplo_crisis.1.t:0 "DEFCON 2"
 tension_diplo_crisis.1.desc:0 "The Bulletin of Atomic Scientists pushes the Doomsday clock ever closer to midnight.\n\nIn the Pentagon, the Joint Chiefs hasten their calls for action. The Generals and Admirals buckling under the pressure of increasingly heated arguments and increasingly little sleep.\n\nAt Air Force bases from Alaska to Arkansas, from Florida to Greenland, aircrews and maintenance personnel race to bring every available aircraft into serviceable condition, as men and missiles anxiously wait buried beneath the ground.\n\nIn the Skies above the frigid Arctic, tired crews keep their bombers aloft. The nuclear payloads within ensuring that no first strike will catch this leg of the nuclear triad flat-footed.\n\nAt sea, the Navy continues its watchful gaze, an armada of carriers, destroyers, and cruisers spread from the Cape of Good Hope to the frontlines in the North Sea.\n\nBeneath the ocean's waters, the Silent Service plays cat and mouse with their superpower opponents. Submarines faster, deadlier, and quieter than anything their forefathers could have imagined stalking the waters. The silent boomers of the Navy's ballistic missile submarines lurk even deeper, the ultimate insurance policy against any first strike.\n\nAbove it all stands the President, the Commander in Chief, overseeing a military machine that inches ever closer to war."

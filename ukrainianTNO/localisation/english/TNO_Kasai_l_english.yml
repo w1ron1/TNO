@@ -1,17 +1,22 @@
 ﻿l_english:
  ### Country Names ###
- KSI: "Sud-Kasaï"
- KSI_DEF: "Autonomous State of Sud-Kasaï"
- KSI_ADJ: "South Kasaian"
+ KSI: "Південне Касаї"
+ KSI_DEF: "Автономна держава Південне Касаї"
+ KSI_ADJ: "південнокасаїйськ"
 
  ### Parties ###
- KSI_communist_party: "PSA - Marxistes"
- KSI_communist_party_long: "Parti Solidaire Africain - Marxistes"
- KSI_socialist_party: "PSA - Pan-Africains"
- KSI_socialist_party_long: "Parti Solidaire Africain - Pan-Africains"
- KSI_paternalism_party: "PSA"
- KSI_paternalism_party_long: "Parti Solidaire Africain"
+ KSI_communist_party: "ПАС — марксисти"
+ KSI_communist_party_long: "Африканська партія солідарності — марксисти"
+ KSI_socialist_party: "ПАС — панафриканці"
+ KSI_socialist_party_long: "Африканська партія солідарності — панафриканці"
+ KSI_progressivism_party: "ПАС — помірковані"
+ KSI_progressivism_party_long: "Африканська партія солідарності — помірковані"
+ KSI_paternalism_party: "КОНАКАТ"
+ KSI_paternalism_party_long: "Конфедерація племінних об'єднань Катанґи"
+ KSI_despotism_party: "ЗС Катанґи"
+ KSI_despotism_party_long: "Збройні сили Катанґи"
 
  ## Characters ##
- KSI_Godefroid_Munongo: "Godefroid Munongo"
- KSI_Moise_Tshombe: "Moïse Tshombe"
+ KSI_Godefroid_Munongo: "Ґодфруа Мунонґо"
+ KSI_Moise_Tshombe: "Моїз Чомбе"
+ 

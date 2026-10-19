@@ -1,7 +1,7 @@
 ﻿l_english:
-  ESQ: "Essequibo Free State"
-  ESQ_DEF: "the Essequibo Free State"
-  ESQ_ADJ: "Essequibo"
+  ESQ: "Вільна держава Ессекібо"
+  ESQ_DEF: "Вільна держава Ессекібо"
+  ESQ_ADJ: "Ессекібськ."
 
 
   ## Parties ##
@@ -10,7 +10,7 @@
   ESQ_paternalism_party: "GAP"
   ESQ_paternalism_party_long: "GAP"
   ## Characters ##
-  ESQ_Valerie_Hart: "Valerie Hart"
+  ESQ_Valerie_Hart: "Валері Гарт"
 
   ## Leader Bios ##
   POLITICS_VALERIE_HART_DESC: ""

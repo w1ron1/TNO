@@ -56,7 +56,7 @@ USA_SAW_Send_More_Advisors_desc: "As the German war machine marches south, the f
 USA_SAW_Send_Lots_Of_Advisors: "Greatly Expand Ground Operations"
 USA_SAW_Send_Lots_Of_Advisors_desc: "This war is becoming increasingly important every day that we are over here. We need to expand our logistics capabilities even more, we need to bring more troops to join the fight no matter what.\n"
 
-USA_SAW_Capetown_evacuation: "Evacuate Capetown"
+USA_SAW_Capetown_evacuation: "Evacuate Cape Town"
 USA_SAW_Capetown_evacuation_desc: "We must hold while we evacuate all the personnel and all the assets, and burn all our records. The least we leave to the Germans, the better our chance of getting a foothold back in south Africa.\n"
  
 USA_SAW_toggle_infantry_equipment_shipments: "Toggle Infantry Equipment Shipments"
@@ -179,7 +179,7 @@ USC_status_progbar_tt: "§F§Y[USC.GetNameWithFlag]§!\n§FMandate Stability: [?
 
 warning_text_tt: "§FIn order to ensure the continued success of the mandates, their §YStability§! must remain at least §Y50%§!. Should it fall below this value there is a chance the mandates will begin to collapse, §Rbecoming increasingly more likely, the lower stability gets§!.§!"
 
-TNO_mandates_unstable: "§RWARNING LOW STABILITY§!"
+TNO_mandates_unstable: "§RUNSTABLE§!"
 TNO_mandates_stable: "§GSTABLE§!"
 
 TNO_mandates_increase_stability_tt: "Mandate Stability will §Gincrease§! by [?tempStability_tt|2%Y].\n"
@@ -313,7 +313,7 @@ USA_SAW_Inherited_Duty_tt: "§YWe must win this war at any cost.§!"
 USA_SAW_Recruitment_Surge: "Recruitment Surge"
 USA_SAW_Recruitment_Surge_desc: "Though South Africa is an ocean away from America, the endless flood of shocking photographs and news footage of burning bodies and crumbling cities have sparked an outpouring of sympathy and rage in the American public. Never since the Second World War has a war ignited such passion in the popular imagination - and if our people are willing to fight to defend the last hold of freedom in Africa, then the armed forces will find a place for them to serve."
 USA_SAW_Support_Allies: "Supporting Our Allies"
-USA_SAW_Support_Allies_desc: "As the last bastion of freedom in this dark world, it is our duty to defend democracy worldwide and protect the sovereignty of our smaller allies. The time has come again for the United States to lend a hand to a struggling democracy, our beleaguered allies in South Africa. We will begin making significant efforts to support their war effort in any way we can, sending over anything from boots and ballistic missiles to advisors and airstrikes. We must ensure that the soldiers and citizens of South Africa are healthy and well armed in order to combat the tide of Nazis overtaking the continent. If they must be last wall against the encroaching nazi threat, then we must join them on the ramparts."
+USA_SAW_Support_Allies_desc: "As the last bastion of freedom in this dark world, it is our duty to defend democracy worldwide and protect the sovereignty of our smaller allies. The time has come again for the United States to lend a hand to a struggling democracy, our beleaguered allies in South Africa. We will begin making significant efforts to support their war effort in any way we can, sending over anything from boots and ballistic missiles to advisors and airstrikes. We must ensure that the soldiers and citizens of South Africa are healthy and well armed in order to combat the tide of Nazis overtaking the continent. If they must be last wall against the encroaching Nazi threat, then we must join them on the ramparts."
 USA_SAW_Support_Allies_tt: "£GFX_decision_icon_small §F§YDecisions§! to supply our allies will be §Gunlocked§!.§!"
 USA_SAW_Expand_Media_Coverage: "Expand Media Coverage"
 USA_SAW_Expand_Media_Coverage_desc: "If there's anything we know for sure the American public likes, it's good old fashioned heroics, and an underdog fighting the vilest evil mankind has ever known is the very definition of heroic. In order to get the average American's support, we'll preach that narrative like the gospel. Already, the major news outlets have boots on the ground, covering the war from the front. We must encourage these endeavors, as they are exactly what we need to show the country the morality of our cause, be it through showing the horrors of the Nazi regime, the bravery of the common soldier, or who this war is striving to protect - the people of Africa. With enough eyes on Africa, we'll have the public demanding blood in no time."
@@ -339,7 +339,7 @@ USA_SAW_Order_Disorder_tt_2: "£GFX_decision_icon_small §F§YDecisions§! to su
 USA_SAW_Escalate_Air_War: "Escalate the Air War"
 USA_SAW_Escalate_Air_War_desc: "Our inability to control the skies was a decisive factor in our failure to force the last conflict to a successful conclusion. In the intervening decades, the power of aircraft has only grown. Where once stood the flying fortress of yore stands new, sleek strike jets able to deliver the bombloads of heavy bombers with higher speeds and with more precision.\n\nAt present, few would deny the advantage we possess over our German adversaries in the aerial battleground. We would be foolish to place the lives of our combat troops in greater danger while we possess the ability to destroy the enemy's capability to wage war from afar."
 USA_SAW_Monsoon_Rain: "Operation MONSOON"
-USA_SAW_Monsoon_Rain_desc: "The Nazis have an image of themselves as an empire utterly undefeatable, like Frankenstein's monster, the Fatherland sowed and stitched it's virulent Colonial fiefdom into something truly perverse and twisted, but much like Frankenstein, the stitches and seams of the Third Reich's colonial apparatus are right there in front of us; clearly visible and ripe for exploiting!\n\nThe centralized nature of Nazi logistics means that their supply lines are vulnerable from the air; our bombers can sow a little terror and discord of our own, striking at the heart of the Nazi war effort and sapping the supplies and moral of the enemy with hardly having to fire a shot!"
+USA_SAW_Monsoon_Rain_desc: "The Nazis have an image of themselves as an empire utterly undefeatable, like Frankenstein's monster, the Fatherland sowed and stitched it's virulent Colonial fiefdom into something truly perverse and twisted, but much like Frankenstein, the stitches and seams of the Third Reich's colonial apparatus are right there in front of us; clearly visible and ripe for exploiting!\n\nThe centralized nature of Nazi logistics means that their supply lines are vulnerable from the air; our bombers can sow a little terror and discord of our own, striking at the heart of the Nazi war effort and sapping the supplies and morale of the enemy with hardly having to fire a shot!"
 USA_SAW_Monsoon_Rain_tt: "£GFX_decision_icon_small §F§DOperation MONSOON§! will become §Gavailable§!.§!"
 USA_SAW_Support_Role: "A Supportive Role"
 USA_SAW_Support_Role_desc: "From the first Marine Corps experiments in close air support in the Central American jungle to the flying artillery of the German blitzkrieg, the ability of aircraft to turn the tide of battle has been demonstrated time and time again.\n\nOur involvement in South Africa lends itself well to the use of aircraft in tactical roles. The close coordination between ground and air allows our forces to wield a combat capability well in excess of their actual strength. We would be fools to squander this advantage."
@@ -349,16 +349,63 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
 ########################
 ### West African War ###
 ########################
-  solid_frontline: "Consolidated Frontline"
   USA_wac_desc_1: "The foothold of the Free World in West Africa is under threat! Under the guise of 'anti-colonialism', the Pan-African Liberation Front - little more than Japanese stooges playing up racial politics - is marching upon our old allies in Free France, as well as any fellow Africans who have spurned their home-grown version of imperialism.\n\nIt is our duty - and in our best interests - to stand against totalitarians, fascist or not. The American people are having difficulty grasping our justification for intervention, but that stems from ignorance of reality. If we fail to oppose those self-proclaimed crusaders, their oriental masters will dig cruel, greedy blades into the heart, soil, and soul of free Africa.\n\nWe have §Rescalated§! the war by §Y[?global.WAC_escalation]%§!.[GetUSAWACGarrisonActive]"
   USA_wac_desc_2: "The foothold of the Free World in West Africa is under threat! The French and their allies - old friends of ours - are beset on all sides by enemies of freedom. To the west and north: opportunists and the misguided, striking at the French for all manner of petty reasons. To the east: Japan's hypocritical puppets, the Pan-African Liberation Front. To the south: the great Atlantic, from which the OFN will arrive to defend its brothers-in-arms.\n\nThere is considerable domestic resistance to involving the USA in such a chaotic war, especially with the added complexity of a third side which is clearly not backed by our global enemies. Still, involve ourselves we must, for the sake of free nations everywhere. Whether or not they are stooges of fascists, the enemies of freedom are the enemies of America.\n\nWe have §Rescalated§! the war by §Y[?global.WAC_escalation]%§!.[GetUSAWACGarrisonActive]"
-  USA_wac_desc_homefront: "West Africa, to put it bluntly, is a complete and utter mess. We initially got into the war thinking it'd be a quick one. But as time passed, our Cameroonian foes proved our intuitions to be completely wrong, and the American public is starting to get wise to the inefficiencies of our sluggish military campaign.\n\nIf we let the American public grow any wearier of our campaign in West Africa, terrible consequences will befall our country.\n\nOur Current §OWar Discontent§! is §Y[?USA_WAC_WAR_Discontent]§!."
+  USA_wac_desc_homefront: "West Africa, to put it bluntly, is a complete and utter mess. We initially got into the war thinking it'd be a quick one. But as time passed, our Pan-African foes proved our intuitions to be completely wrong, and the American public is starting to get wise to the inefficiencies of our sluggish military campaign.\n\nIf we let the American public grow any wearier of our campaign in West Africa, terrible consequences will befall our country.\n\nOur Current §OWar Discontent§! is §Y[?USA_WAC_WAR_Discontent]§!."
   USA_wac_desc_garrison_text: "\nOur §nGarrison Strength§! is §Y[?USA_wac_garrison_strength]%§!."
 
-  USA_WAC_cameroon_capitulates: "Cameroon Surrenders"
-  USA_WAC_cameroon_capitulates_desc: "After a hard-fought offensive our side has managed to take control over the center of operations of the PALF, Douala. By holding it for enough time, the Cameroonians will see no choice but to accept surrendering to us."
+  #Missions
+  USA_WAC_FakeMission_1_Title: "§YSecure the Gulf of Guinea§!"
+  USA_WAC_FakeMission_1_Duration:0 "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Secure_Gulf_Of_Guinea|0] Days§!"
+  USA_WAC_empty_space_1: "$USA_WAC_FakeMission_1_Title$"
+  USA_WAC_empty_space_1_desc: "Our most important priority currently in the West African War is to deny supply to the PALF, which is currently mostly being delivered through a maritime route via the Gulf of Guinea and into Cameroonian ports.\n\nWhile we don't wish to directly intervene in the conflict yet and risk an escalation, we can trust that our Free French allies can, with their significant naval forces, block off this route if we provide enough support to them.\n\nThe §YGulf of Guinea Campaign§! is currently [GetWACGulfAdvantage]\n\n§FEffects if the §YGulf of Guinea§! is §Ysecured§!:§!\n$USA_WAC_secure_gulf_of_guinea_success_tt$\n$USA_increase_trust_in_government_medium_tt$\n§FEffects if the §YGulf of Guinea§! is §Ynot secured§!:§!\n$USA_WAC_secure_gulf_of_guinea_failure_tt$\n$USA_decrease_trust_in_government_medium_tt$"
+
+  USA_WAC_FakeMission_2_Title: "§nGarrisons§! §RWeaken§!"
+  USA_WAC_FakeMission_2_Duration:0 "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Garrisons_Weaken|0] Days§!"
+  USA_WAC_empty_space_2: "$USA_WAC_FakeMission_2_Title$"
+
+  USA_WAC_FakeMission_3_Title: "§ODiscontent§! §RRises§!"
+  USA_WAC_FakeMission_3_Duration:0 "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Discontent_Rises|0] Days§!"
+  USA_WAC_empty_space_3: "$USA_WAC_FakeMission_3_Title$"
+
+  USA_WAC_FakeMission_4_Title: "§Y[USA.GetWAC_Mission4_Title]§!"
+  USA_WAC_FakeMission_4_Duration:0 "§Y[USA.GetWAC_Mission4_Timer]§!"
+  USA_WAC_empty_space_4: "§Y[USA.GetWAC_Mission4_Title]§!"
+
+  ZZZ_WAC_Solidify_Front_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Solidify_Front|0] Days§!"
+  USA_WAC_solidify_front: "Frontlines Solidify"
+  USA_WAC_solidify_front_tt: "The fronts in West Africa will solidify."
+
+  ZZZ_WAC_Stabilize_Front_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Stabilize_Front|0] Days§!"
+  USA_WAC_stabilize_front: "Frontlines Stabilize"
+  USA_WAC_stabilize_front_tt: "The fronts in West Africa will stabilize."
+
+  USA_WAC_FakeMission_5_Title: "§Y[USA.GetWAC_Mission5_Title]§!"
+  USA_WAC_FakeMission_5_Duration:0 "§Y[USA.GetWAC_Mission5_Timer]§!"
+  USA_WAC_empty_space_5: "§Y[USA.GetWAC_Mission5_Title]§!"
+  USA_WAC_empty_space_5_desc: "[USA.GetWAC_Mission5_Desc]"
+
+  ZZZ_WAC_Preparing_Offensive_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Preparing_Offensive|0] Days§!"
+  ZZZ_WAC_Offensive_Ghana_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Ghana_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Benin_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Benin_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Yoruba_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Yoruba_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Douala_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Douala_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Mali_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Mali_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Guinea_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Guinea_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Wolofia_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Wolofia_Stagnate|0] Days§!"
+  ZZZ_WAC_Offensive_Burkina_Stagnate_Timer: "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Offensive_Burkina_Stagnate|0] Days§!"
+
+  USA_WAC_FakeMission_6_Title: "§YCameroon Surrenders§!"
+  USA_WAC_FakeMission_6_Duration:0 "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Cameroon_Capitulates|0] Days§!"
+  USA_WAC_empty_space_6: "$USA_WAC_FakeMission_6_Title$"
+  USA_WAC_empty_space_6_desc: "After a hard-fought offensive our side has managed to take control over the center of operations of the PALF, Douala. By holding it for enough time, the Cameroonians will see no choice but to accept surrendering to us.\n\n§YEffects in [?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Cameroon_Capitulates|0] Days:§!\n$USA_WAC_cameroon_capitulates_success_tt$\n$USA_increase_trust_in_government_large_tt$\n\n§YEffects if failed:§!\n$USA_WAC_cameroon_capitulates_failure_tt$\n$USA_decrease_trust_in_government_large_tt$"
   USA_WAC_cameroon_capitulates_success_tt: "§GCameroon will surrender.§!"
   USA_WAC_cameroon_capitulates_failure_tt: "§RThe War will continue...§!"
+
+  USA_WAC_FakeMission_7_Title: "§YCameroon Surrenders§!" #Necessary Duplicate, don't remove
+  USA_WAC_FakeMission_7_Duration:0 "§Y[?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Cameroon_Capitulates|0] Days§!"
+  USA_WAC_empty_space_7: "$USA_WAC_FakeMission_7_Title$"
+  USA_WAC_empty_space_7_desc: "After a hard-fought offensive our side has managed to take control over the center of operations of the PALF, Douala. By holding it for enough time, the Cameroonians will see no choice but to accept surrendering to us.\n\n§YEffects in [?ZZZ.days_mission_timeout@ZZZ_USA_WAC_Cameroon_Capitulates|0] Days:§!\n$USA_WAC_cameroon_capitulates_success_tt$\n$USA_increase_trust_in_government_large_tt$\n\n§YEffects if failed:§!\n$USA_WAC_cameroon_capitulates_failure_tt$\n$USA_decrease_trust_in_government_large_tt$"
 
   # Shipments
   USA_WAC_toggle_infantry_equipment_shipments: "Toggle Infantry Equipment Shipments"
@@ -381,14 +428,12 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   USA_WAC_heavy_weapons_target_large: "Send Heavy Weaponry to [FROM.GetFlag][FROM.GetName]"
 
   # Gulf of Guinea Campaign
-  USA_WAC_secure_gulf_of_guinea: "Secure the Gulf of Guinea"
   USA_WAC_secure_gulf_of_guinea_available_tt: "§YOur allies control the Gulf of Guinea.§!"
   USA_WAC_secure_gulf_of_guinea_failure_tt: "§RThe PALF will retain its supply line.§!"
   USA_WAC_secure_gulf_of_guinea_success_tt: "§GSphere aid to the PALF will be made significantly more difficult.§!"
-  USA_WAC_secure_gulf_of_guinea_desc: "Our immediate most important priority in the West African conflict is to deny supply to the PALF, which is currently mostly being delivered through a maritime route via the Gulf of Guinea and into Cameroonian ports.\n\nWhile we don't wish to directly intervene in the conflict yet and risk an escalation, we can trust that our Free French allies can, with their significant naval forces, block off this route if we provide enough support to them.\n\nThe §YGulf of Guinea Campaign§! is currently [GetWACGulfAdvantage]"
-  WAC_Gulf_Advantage_OFN: "going on the §mOFN's§! favor."
-  WAC_Gulf_Advantage_Sphere: "going on the §xSphere's§! favor."
-  WAC_Gulf_Advantage_none: "going on §Ynobody's§! favor."
+  WAC_Gulf_Advantage_OFN: "going in the §mOFN's§! favor."
+  WAC_Gulf_Advantage_Sphere: "going in the §xSphere's§! favor."
+  WAC_Gulf_Advantage_none: "going in §Ynobody's§! favor."
 
   WAC_OFN_increase_gulf_advantage_tt: "§YWill increase the§! §mOFN's§! §Yadvantage in the Gulf of Guinea Campaign.§!"
   WAC_OFN_increase_gulf_advantage_large_tt: "§YWill largely increase the§! §mOFN's§! §Yadvantage in the Gulf of Guinea Campaign.§!"
@@ -400,12 +445,15 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   WAC_Sphere_decrease_gulf_advantage_tt: "§YWill decrease the§! §xSphere's§! §Yadvantage in the Gulf of Guinea Campaign.§!"
   WAC_Sphere_decrease_gulf_advantage_large_tt: "§YWill largely decrease the§! §xSphere's§! §Yadvantage in the Gulf of Guinea Campaign.§!"
 
+  USA_WAC_toggle_gulf_of_guinea_decisions: "Toggle Gulf of Guinea Actions"
+  WAC_gulf_of_guinea_decisions_tt_1: "§YWill hide Gulf of Guinea decisions.§!"
+  WAC_gulf_of_guinea_decisions_tt_2: "§YWill show Gulf of Guinea decisions.§!"
   USA_WAC_infiltrate_ports: "Infiltrate Ports"
-  USA_WAC_infiltrate_ports_desc: "Our current presence in Central Africa via the Mandates allows us to infiltrate some commando units into Cameroon through our shared land border, with the purpose of gathering intel on naval movements and strength."
-  USA_WAC_infiltrate_ports_tt: "§GWe will be able to sabotage the buildup of Cameroonian ports.§!"
+  USA_WAC_infiltrate_ports_desc: "Our current presence in Central Africa via the Mandates allows us to infiltrate some commando units into the West African Union through our shared land border, with the purpose of gathering intel on naval movements and strength."
+  USA_WAC_infiltrate_ports_tt: "§GWe will be able to sabotage the buildup of the West African Union's ports.§!"
   USA_WAC_sabotage_construction: "Sabotage Port Construction"
-  USA_WAC_sabotage_construction_desc: "By using our infiltrated assets in the ports of the Cameroon we will sabotage and slow down the construction and buildup of new ports, this will buy us valuable time by preventing the Japanese from expanding their own operations in the area significantly."
-  USA_WAC_sabotage_construction_tt: "§GPort construction in Cameroon will be put behind schedule.§!"
+  USA_WAC_sabotage_construction_desc: "By using our infiltrated assets in the ports of the West African Union we will sabotage and slow down the construction and buildup of new ports, this will buy us valuable time by preventing the Japanese from expanding their own operations in the area significantly."
+  USA_WAC_sabotage_construction_tt: "§GPort construction in the West African Union will be put behind schedule.§!"
   USA_WAC_release_the_bearn: "Release the Béarn"
   USA_WAC_release_the_bearn_desc: "The Béarn aircraft carrier, which was interned in the French Caribbean after the Invasion of France and has since then been left mothballed in the West Indies, could instead be serving as a formidable tool in West Africa. After doing some maintenance and retrofitting its equipment, we shall release the Béarn for use by Free French naval forces."
   USA_WAC_provide_naval_intelligence: "Provide Naval Intelligence"
@@ -415,17 +463,17 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   USA_WAC_train_naval_bombers: "Train Naval Bombers"
 
   # Decisions
-  USA_WAC_solidify_front: "Frontlines Solidify"
   JAP_WAC_solidify_front: "Frontlines Solidify"
-  USA_WAC_stabilize_front: "Frontlines Consolidate"
-  USA_WAC_stabilize_front_tt: "§YThe fronts in West Africa will consolidate.§!"
-  USA_WAC_solidify_front_tt: "§YThe fronts in West Africa will solidify.§!"
-  USA_WAC_plan_offensive: "Plan Offensive"
+
+  USA_WAC_toggle_war_decisions: "Toggle Wartime Strategies"
+  WAC_war_decisions_tt_1: "§YWill hide wartime strategy decisions.§!"
+  WAC_war_decisions_tt_2: "§YWill show wartime strategy decisions.§!"
+  USA_WAC_plan_offensive: "Plan General Offensive"
   USA_WAC_expand_shipments: "Expand Military Shipments"
   USA_WAC_expand_shipments_tt: "§GWe'll be able to send larger shipments to our allies.§!"
   USA_swell_foreign_legion_WA: "Swell the French Foreign Legion"
   USA_swell_foreign_legion_WA_desc: "While we might be limited on our capacity to send troops to West Africa due to various circumstances, we can still circle around this problem by recruiting for, arming, and generally supporting the French Foreign Legion. We'll offer social security, subsidies, and other measures in order to attract veterans and volunteers into this elite troop."
-  USA_swell_foreign_legion_WA_tt: "§GThe French Foreign Legion will expand!§!"
+  USA_swell_foreign_legion_WA_tt: "§GThe French Foreign Legion will expand§!"
   USA_bombing_runs_WA: "Authorize Bombing Sorties"
   USA_send_military_advisors_WA: "Send Military Advisors"
   USA_Crank_Up_The_Draft_WA: "Crank Up the Draft"
@@ -434,9 +482,9 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   USA_ship_oil_WA: "Send Oil Shipments"
   USA_supply_air_force_WA: "Send the Flying Roosters"
   USA_egypt_intelligence_WA: "§YOperation Silent Sitatunga§!"
-  USA_egypt_intelligence_WA_desc: "Since the start of the conflict in West Africa, the situation on the Egyptian-Cameroonian border has been carefully monitored. Vis-a-vis their Egyptian intelligence contacts, our Italian allies are more than willing to provide us insight on Cameroonian troop movements and radio activity."
+  USA_egypt_intelligence_WA_desc: "Since the start of the conflict in West Africa, the situation on the border between Egypt and the Pan-Africans has been carefully monitored. Vis-a-vis their Egyptian intelligence contacts, our Italian allies are more than willing to provide us insight on Pan-African troop movements and radio activity."
   USA_coup_mali_WA: "§fOperation Leaping Drill§!"
-  USA_coup_mali_WA_desc: "The momentum with which the Pan-African Liberation Front has invaded the West African region has exposed a mortal flank of theirs: Moussa Traoré. With most of Mali's forces committed to the frontlines, their leadership could not afford a purge, allowing personalities like Traoré to expand their influence. This presents a golden opportunity that could prove a turning point, as, according to intelligence reports, Traoré and his followers are unhappy with their government bending the knee to Cameroon. If we were to spend our resources and part of our strength into propping up these dissidents, we could effectively strike Mali's Achilles' Heel and turn the tide on that front."
+  USA_coup_mali_WA_desc: "The momentum with which the Pan-African Liberation Front has invaded the West African region has exposed a mortal flank of theirs: Moussa Traoré. With most of Mali's forces committed to the frontlines, their leadership could not afford a purge, allowing personalities like Traoré to expand their influence. This presents a golden opportunity that could prove a turning point, as, according to intelligence reports, Traoré and his followers are unhappy with their government bending the knee to Union. If we were to spend our resources and part of our strength into propping up these dissidents, we could effectively strike Mali's Achilles' Heel and turn the tide on that front."
   USA_coup_mali_WA_tt: "§GA rebellion will be sparked in western Mali!§!"
   USA_make_television_appearance_about_the_war_WA: "Make Television Appearence About the War"
   USA_Domestic_No_Excuses_WA: "Limit Draft Exemptions"
@@ -446,12 +494,16 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   USA_In_The_WAC_WAR: "We have fully intervened in West Africa."
 
   # Offensives
+  USA_WAC_toggle_offensive_decisions: "Toggle Offensive Plans"
+  WAC_offensive_decisions_tt_1: "§YWill hide offensive plan decisions.§!"
+  WAC_offensive_decisions_tt_2: "§YWill show offensive plan decisions.§!"
+
   USA_WAC_preparing_offensive: "Logistics Saturated"
-  USA_WAC_preparing_offensive_desc: "Due to our logistics being directed towards a recent offensive, for the time being we can't begin planning for any new large scale offensive."
+  USA_WAC_preparing_offensive_desc: "Since our logistics have been recently directed towards a new offensive, we can't plan any more large-scale offensives in the meantime."
 
   WAC_logistics_not_saturated_tt: "Our logistics are not saturated."
   WAC_offensive_neighbor_state_tt: "Our allies border at least one state in the area."
-  
+
   USA_WAC_offensive_ghana: "Prepare Offensive into Ghana"
   USA_WAC_offensive_ghana_stagnate: "The Ghana Front Stagnates"
 
@@ -462,7 +514,7 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   USA_WAC_offensive_yoruba_stagnate: "The Yorubaland Front Stagnates"
 
   USA_WAC_offensive_douala: "Prepare Offensive into Douala"
-  USA_WAC_offensive_douala_desc: "We will prepare what is, hopefully, one final offensive in this war into Cameroonian territory. By taking and holding Douala, Cameroon will surely see any further resistance as futile and seek out peace. We must expect fierce resistance, however."
+  USA_WAC_offensive_douala_desc: "We will prepare what is, hopefully, one final offensive in this war into the territory of the West African Union. By taking and holding Douala, the West African Union will surely see any further resistance as futile and seek out peace. We must expect fierce resistance, however."
   USA_WAC_offensive_douala_stagnate: "The Douala Front Stagnates"
 
   USA_WAC_offensive_mali: "Prepare Offensive into Mali"
@@ -471,16 +523,15 @@ USA_SAW_Supreme_Excellence_desc: ""To fight and conquer in all our battles is no
   USA_WAC_offensive_guinea: "Prepare Offensive into Guinea"
   USA_WAC_offensive_guinea_stagnate: "The Guinea Front Stagnates"
 
-  USA_WAC_offensive_wolofia: "Prepare Offensive into Wolofia"
-  USA_WAC_offensive_wolofia_stagnate: "The Wolofia Front Stagnates"
+  USA_WAC_offensive_wolofia: "Prepare Offensive into Senegal"
+  USA_WAC_offensive_wolofia_stagnate: "The Senegal Front Stagnates"
 
-  USA_WAC_offensive_burkina: "Prepare Offensive into Mossiland"
-  USA_WAC_offensive_burkina_stagnate: "The Mossiland Front Stagnates"
+  USA_WAC_offensive_burkina: "Prepare Offensive into Haute-Volta"
+  USA_WAC_offensive_burkina_stagnate: "The Haute-Volta Front Stagnates"
 
 ### GARRISON STRENGTH EFFECTS
 USA_increase_garrison_strength_tt: "§F§nGarrison Strength§! §Gincreases§! by §Y[?tempWACGarrisonStrength_tt]%.§!§!"
 USA_decrease_garrison_strength_tt: "§F§nGarrison Strength§! §Rdecreases§! by §Y[?tempWACGarrisonStrength_tt]%.§!§!"
-
 USA_wac_garrison_strength_check_less_than_tt: "§F(§Y[USA.GetNameWithFlag]§!) Less than §Y[?tempGarrisonStr]%§! §nGarrison Strength§!. (Currently: §Y[?USA.USA_wac_garrison_strength]%§!)§!"
 
 ### MISSIONS
@@ -488,7 +539,6 @@ USA_WAC_garrisons_weaken: "§nGarrisons§! §RWeaken§!"
 USA_WAC_discontent_rises: "§ODiscontent§! §RRises§!"
 
 ### TOOLTIPS
-
 USA_WAC_WAR_Discontent_increase_slight_tt: "§ODiscontent§! with our intervention will §Rslightly increase§!."
 USA_WAC_WAR_Discontent_increase_somewhat_tt: "§ODiscontent§! with our intervention will §Jsomewhat increase§!."
 USA_WAC_WAR_Discontent_increase_tt: "§ODiscontent§! with our intervention will §Rincrease§!."
@@ -521,6 +571,9 @@ USA_WAC_increase_troop_restraint_trigger_tt: "§YTroop Restraint§! is less than
 USA_WAC_decrease_troop_restraint_trigger_tt: "§YTroop Restraint§! is more than §Y0%§! (Current: [?USA_WAC_troop_restraint|Y0%%])"
 USA_WAC_increase_troop_restraint_tt: "§YOur troops will be reined in.§!"
 USA_WAC_decrease_troop_restraint_tt: "§YOur troops will be let loose.§!"
+
+###MODIFIERS
+solid_frontline: "Consolidated Frontline"
 
 ###################################
 ### WEST AFRICAN RECONSTRUCTION ###
@@ -576,31 +629,22 @@ USA_WAFR_ongoing_corporate_interaction: "We are currently working with another c
 ###########################
 
 ## USA ##
-USA_CCW_desc: "Colombia lies in ruin; the fragile peace, the frozen war, that the nation has been in for the last decade has melted, and Colombians once again fight with blade and rifle for what they believe in. As the bearer of the Torch of Liberty, it is our responsibility to aid all of those that are aligned to freedom and democracy- and American interests. We have the opportunity to support the Colombian Revolutionary Union against both the fascists in New Granada and the authoritarians in the so-called legitimate government. We will make sure not to squander it."
+USA_CCW_desc: "Colombia lies in ruin; the fragile peace, the frozen war, that the nation has been in for the last decade has melted, and Colombians once again fight with blade and rifle for what they believe in. As the bearer of the Torch of Liberty, it is our responsibility to aid all of those that are aligned to freedom and democracy- and American interests. We have the opportunity to save Colombia from autocratic pretender state. We will make sure not to squander it."
 COL_double_interference_check: "Not: Someone is interfering with our efforts!"
 
 # Border Conflict Stage #
-USA_CLL_supply_forces: "Supply [CLL.GetFlag] URC Forces"
+USA_CLL_supply_forces: "Supply Aligned Colombian Armed Forces"
 USA_CLL_increase_air_support: "Increase Air Support"
-USA_CLL_increase_air_support_desc: "We will send planes and helicopters, along with pilots, to support our allies in the Colombian Revolutionary Union."
+USA_CLL_increase_air_support_desc: "We will send planes and helicopters, along with pilots, to support our allies in Colombia."
 USA_CLL_send_military_advisors: "Send American Military Advisors"
-USA_CLL_send_military_advisors_desc: "Our advisors- the best of the best- will be sent to aid the Colombian Revolutionary Union in their frequent border clashes against their enemies."
+USA_CLL_send_military_advisors_desc: "Our advisors- the best of the best- will be sent to aid our allies in Colombia in their frequent border clashes against their enemies."
 USA_CLL_send_engineers: "Send American Engineers"
-USA_CLL_send_engineers_desc: "We will send highly trained engineers to the Colombian Revolutionary Union in order to ensure victory against their enemies."
-USA_CLL_train_special_forces: "Train [CLL.GetFlag] URC Special Forces"
-USA_CLL_train_special_forces_desc: "Navy Seals, Green Berets, Army Rangers- all will be sent in order to train the troops of the Colombian Revolutionary Union- a special nation needs special forces."
+USA_CLL_send_engineers_desc: "We will send highly trained engineers to our allies in Colombia in order to ensure victory against their enemies."
+USA_CLL_train_special_forces: "Train Colombian Special Forces"
+USA_CLL_train_special_forces_desc: "Navy Seals, Green Berets, Army Rangers- all will be sent in order to train the troops of our allies in Colombia- a special nation needs special forces."
 USA_CLL_supply_cutoff_troops: "Supply Cutoff Troops"
-USA_CLL_supply_cutoff_troops_desc: "Despite being cut off from the rest of our ally's territory, we will supply URC troops in northern Colombia."
-USA_CLL_infiltrate_COL: "Infiltrate the [COL.GetFlag] [COL.GetAdjectiveCap] Government"
-USA_CLL_infiltrate_COL_desc: "We will send the FBI to infiltrate the Central Government and cut off any foreign support for two months."
-USA_CLL_infiltrate_CLC: "Infiltrate the [CLC.GetFlag] [CLC.GetAdjectiveCap] Government"
-USA_CLL_infiltrate_CLC_desc: "We will send the FBI to infiltrate New Granada and cut off any foreign support for two months."
+USA_CLL_supply_cutoff_troops_desc: "Despite being cut off from the rest of our ally's territory, we will supply allied troops in northern Colombia."
 USA_CLL_plant_mines: "Plant Mines in [FROM.GetName]"
-
-CLL_block_foreign_support: "Someone is interfering with our efforts!"
-CLL_active_infiltration: "We are currently infiltrating another faction."
-USA_CLL_infiltrate_COL_tt: "[COL.GetNameWithFlag] will be unable to receive foreign support for §Y60 days§!."
-USA_CLL_infiltrate_CLC_tt: "[CLC.GetNameWithFlag] will be unable to receive foreign support for §Y60 days§!."
 
 CLL_american_air_support: "American Air Support"
 CLL_military_advisors: "American Military Advisors"
@@ -611,11 +655,11 @@ CLL_air_supply: "American Air Supply"
 USA_CLL_equipment_shipments: "Equipment Shipments"
 USA_CLL_equipment_shipments_desc: "Despite losing access to the coastline, supplying Colombia's freedom fighters is still not impossible. We will send all the spare equipment we have to help their cause."
 USA_CLL_large_equipment_shipments: "Large Equipment Shipments"
-USA_CLL_large_equipment_shipments_desc: "Thanks to the valiant efforts of the freemen of Colombia in defending the ports of Atlantico, we can send all the equipment they need for the final preparations for the country's liberation."
+USA_CLL_large_equipment_shipments_desc: "Thanks to the valiant efforts of the free men of Colombia in securing a suitable port, we can send all the equipment they need for the final preparations for the country's liberation."
 USA_CLL_advanced_guerrilla_training: "Advanced Guerrilla Training"
-USA_CLL_advanced_guerrilla_training_desc: "Colombia's liberation is near, and the more people we can get to help in it, the better. So, with Atlantico successfully defended, we'll recruit volunteers from the region."
+USA_CLL_advanced_guerrilla_training_desc: "Colombia's liberation is near, and the more people we can get to help in it, the better. So, with Cartagena successfully defended, we'll recruit volunteers from the region."
 USA_CLL_civilian_recruitment: "Civilian Militia Recruitment"
-USA_CLL_civilian_recruitment_desc: "Colombia's liberation is near, and the more people we can get to help in it, the better. So, with Atlantico successfully defended, we'll recruit volunteers from the region."
+USA_CLL_civilian_recruitment_desc: "Colombia's liberation is near, and the more people we can get to help in it, the better. So, with Cartagena successfully defended, we'll recruit volunteers from the region."
 USA_CLL_jungle_infrastructure: "Fund Jungle Infrastructure"
 USA_CLL_jungle_infrastructure_desc: "To help the URC to prepare themselves better, we will fund infrastructure construction in the jungle-ridden area in southeast Colombia."
 USA_CLL_fortify_orinoco: "Fortify Orinoco Region"
@@ -623,7 +667,7 @@ USA_CLL_fortify_orinoco_desc: "We will build the necessary fortification in the 
 USA_CLL_fortify_amazon: "Fortify Amazon Region"
 USA_CLL_fortify_amazon_desc: "We will build the necessary fortification in the Amazon region to help the URC defend themselves."
 USA_CLL_fortify_caribbean: "Fortify Caribbean Region"
-USA_CLL_fortify_caribbean_desc: "We will build the necessary fortification in the Caribbean region to help the URC defend themselves."
+USA_CLL_fortify_caribbean_desc: "We will build the necessary fortification in the Caribbean region to help our allies defend themselves."
 
 
 USA_CLL_civilian_recruitment_tt: "We will recruit §Y4 Volunteer Divisions§! for the §Y[CLL.GetNameWithFlag]§!."
@@ -635,9 +679,9 @@ CLL_guerilla_training_desc: "Due to the vast topological and environmental diver
 
 # Civil War Stage #
 USA_CLL_send_volunteers: "Send Volunteers"
-USA_CLL_send_volunteers_desc: "Our Colombian brethren are embroiled in a brutal civil war. We will help the UCR's struggle for liberation by sending volunteers."
-USA_CLL_provide_loans_to_the_URC: "Provide Loans to the [CLL.GetFlag] URC"
-USA_CLL_provide_loans_to_the_URC_desc: "We will provide a series of loans to the URC to help keep them in the fight, Colombia must be free, and we have the money to pay for that freedom."
+USA_CLL_send_volunteers_desc: "Our Colombian friend are embroiled in a brutal civil war. It is our duty to aid them in this struggle for liberation by sending volunteers."
+USA_CLL_provide_loans_to_the_URC: "Provide Loans to the Colombia"
+USA_CLL_provide_loans_to_the_URC_desc: "We will provide a series of loans to our allies in Colombia to help keep them in the fight, Colombia must be free, and we have the money to pay for that freedom."
 USA_CLL_equipment_airlift: "Authorize Equipment Airlift"
 USA_CLL_equipment_airlift_desc: "Sadly, the UCR has lost access to the coast line. However, we can attempt to send equipment by using airlifts and flying over enemy territory. Beware, this is a risky decision and could backfire."
 USA_CLL_equipment_airlift_tt: "We will plan and excecute an §Yairlift§! over §Yenemy territory§! to §Y[CLL.GetNameWithFlag]§!."
@@ -655,28 +699,28 @@ COL_american_bombing_light: "Light American Bombing"
 COL_american_bombing_heavy: "Heavy American Bombing"
 
 USA_colombia.1.t: "Report on the Status of Colombia"
-USA_colombia.1.d: "TOP SECRET [GetDateText]\nFROM DIRK HOLDEN\nMEMORANDUM FOR THE PRESIDENT\n\n(TS) POSITION: The escalation of new skirmishes in Colombia suggests a full resumption of hostilities in the country. The particular area of fighting provides the potential to secure a port for military aid to our allies.\n\n(TS) SIGNIFICANCE: Full-scale warfare has broken out in northern Colombia between the government, the fascist state of New Granada, and our allies in the Colombian Revolutionary Union. Said department is home to a large port which would help supply our partners with material aid.\n\nSuch material aid would help them someday control the entirety of the country and establish a friendly regime in the state. Furthermore, the potential acquisition of the department and its port by New Granada, or the retention by the central government could prove advantageous to our enemies in Asia and Europe.\n\n(TS) COURSE OF ACTION: Additional armaments and supplies through friendly Venezuela are prepared for transportation to help our allies in their aim to secure control. Successful operations would allow for the discontinuation of the costly supply route for the more favorable port."
-USA_colombia.1.a: "FIDELITY, BRAVERY, INTEGRITY."
+USA_colombia.1.d: "TOP SECRET [?global.date.GetDateStringNoHourLong]\nFROM DIRK HOLDEN\nMEMORANDUM FOR THE PRESIDENT\n\n(TS) POSITION: The escalation of new skirmishes in Colombia suggests a full resumption of hostilities in the country. The particular area of fighting provides the potential to secure a port for military aid to our allies.\n\n(TS) SIGNIFICANCE: Full-scale warfare has broken out in northern Colombia. Said departments are home to the only Atlantic ports of the country which would help supply our partners with material aid.\n\nSuch material aid would help them someday control the entirety of the country and establish a friendly regime in the state. Furthermore, the potential acquisition of the departments and by a hostile force could prove advantageous to our enemies in Asia and Europe.\n\n(TS) COURSE OF ACTION: Additional armaments and supplies through friendly Venezuela are prepared for transportation to help our allies in their aim to secure control. Successful operations would allow for the discontinuation of the costly supply route for the more favorable port."
+USA_colombia.1.a: "AND YE SHALL KNOW THE TRUTH AND THE TRUTH SHALL MAKE YOU FREE."
 
 USA_colombia.2.t: "Report on the Colombian Civil War"
-USA_colombia.2.d: "TOP SECRET [GetDateText]\nFROM DIRK HOLDEN\nMEMORANDUM FOR THE PRESIDENT\n\n(TS) POSITION: Contacts in the URC have confirmed their acquisition of the port of Cartagena. This development puts us in a better situation to supply our allies.\n\n(TS) SIGNIFICANCE: After recent escalations over the last few days in the Civil War in Colombia, colloquially known as "La Violencia" Members of the Colombian Revolutionary Union or URC in the fighting have managed to gain control of northern Colombia and with it, its large port in Cartagena.\n\nCartagena, founded in the 16th century is home to modern docking and unloading facilities that prove more efficient than our current supply routes through Venezuela. This development presents a promising and advantageous situation for future operations in the country.\n\n(TS) ADDENDUM: With this new situation, further shipments and aid are prepared to be sent to the URC. In the case of even greater escalation, troop deployment is now possible through the port. Other new operations may present themselves to be available as a result of this development as the situation evolves."
-USA_colombia.2.a: "FIDELITY, BRAVERY, INTEGRITY."
+USA_colombia.2.d: "TOP SECRET [?global.date.GetDateStringNoHourLong]\nFROM DIRK HOLDEN\nMEMORANDUM FOR THE PRESIDENT\n\n(TS) POSITION: Contacts in Colombia have confirmed their acquisition of the port of Cartagena. This development puts us in a better situation to supply our allies.\n\n(TS) SIGNIFICANCE: After recent escalations over the last few days in the Civil War in Colombia, colloquially known as "La Violencia" our allied Government in Colombia has managed to secure control of the north and with it, its large port in Cartagena.\n\nCartagena, founded in the 16th century is home to modern docking and unloading facilities that prove more efficient than our current supply routes through Venezuela. This development presents a promising and advantageous situation for future operations in the country.\n\n(TS) ADDENDUM: With this new situation, further shipments and aid are prepared to be sent to our allies in Colombia. In the case of even greater escalation, troop deployment is now possible through the port. Other new operations may present themselves to be available as a result of this development as the situation evolves."
+USA_colombia.2.a: "AND YE SHALL KNOW THE TRUTH AND THE TRUTH SHALL MAKE YOU FREE."
 
 USA_colombia.3.t: "Report on the Colombian Civil War"
-USA_colombia.3.d: "TOP SECRET [GetDateText]\nFROM DIRK HOLDEN\nMEMORANDUM FOR THE PRESIDENT\n\n(TS) POSITION: Reports from inside the URC and from US Navy ships in the region conclusively indicate that the URC have lost the recent series of skirmishes in northern Colombia. With this loss, they have been forced to evacuate their foothold on the Guajira Peninsula and to flee across the border into Venezuela. The Venezuelan government has declared its intention to provide safe harbor to any civilians and URC personnel fleeing combat, which has boosted the waning morale among our allies.\n\n(TS) SIGNIFICANCE: These events are a serious detriment to our interests in the region, and are a major blow to the URC in the Colombian Civil War. The strategically critical port of Cartagena now lies beyond our allies' grasp, and their only holdout, however strong it may be, is now in the distant southern reaches of the country.\n\n(TS) ADDENDUM: Given the severity of this new situation, our strategy must be subjected to a sweeping reevaluation. I would advise immediate relief for URC troops in the Guajira Peninsula from the Panama-based naval command, as well as a rapid shift towards providing material and quality aid to their compatriots in the south via Venezuela. Destabilization efforts in other Colombian regimes should be ramped up as well to ensure exploitable openings arise within a reasonable time frame."
-USA_colombia.3.a: "FIDELITY, BRAVERY, INTEGRITY."
+USA_colombia.3.d: "TOP SECRET [?global.date.GetDateStringNoHourLong]\nFROM DIRK HOLDEN\nMEMORANDUM FOR THE PRESIDENT\n\n(TS) POSITION: Reports from our contacts in Colombia and US Navy ships in the region conclusively indicate that our allies have lost the recent series of skirmishes in northern Colombia. With this loss, they have been forced to evacuate their foothold in the North flee to southern strongholds. The Venezuelan government has declared its intention to provide safe harbor to any civilians fleeing the country, which has boosted the waning morale among our allies.\n\n(TS) SIGNIFICANCE: These events are a serious detriment to our interests in the region, and are a major blow to our allies in the Colombian Civil War. The strategically critical port of Cartagena now lies beyond our allies' grasp, and our only land route, though secure, now lies in the distant southern reaches of the country.\n\n(TS) ADDENDUM: Given the severity of this new situation, our strategy must be subjected to a sweeping reevaluation. I would advise immediate relief for remaining military holds in the North from the Panama-based naval command, as well as a rapid shift towards providing material and quality aid to their compatriots in the south via Venezuela. Destabilization efforts in other Colombian regimes should be ramped up as well to ensure exploitable openings arise within a reasonable time frame."
+USA_colombia.3.a: "AND YE SHALL KNOW THE TRUTH AND THE TRUTH SHALL MAKE YOU FREE."
 
 
 USA_colombia.4.t: "Operation Success"
-USA_colombia.4.d: "At 18:00 Hours, Special Agent Persian Dawn, real name (REDACTED) confirmed that the airlift operation to the Organization of Free Nations aligned freedom fighters was fully successful.\n\nSpecial Agent Persian Dawn will return to the American base in (REDACTED) at 23:00 Hours. Debriefing will take place, as well as planning follow up missions.\n\nOrganization of Free Nations aligned freedom fighters in the Colombian Revolutionary Union have been given four crates of modern M16 Weapons platforms, along with three crates of miscellaneous firearms.\n\nThe operation took place at (REDACTED) in (REDACTED).\n\nThe Bureau's contacts in (REDACTED), including Irish Morning, real name (REDACTED), have reported that the arms have made their way to (REDACTED) central command.\n\nFollow up operations are likely. Please see (REDACTED) for further instructions.\n\nThis memo is for internal use in the Federal Bureau of Investigation of the United States of America and allied nations only, under penalty of treason."
+USA_colombia.4.d: "At 18:00 Hours, Agent Persian Dawn, real name (REDACTED) confirmed that the airlift operation to the Organization of Free Nations aligned freedom fighters was fully successful.\n\nAgent Persian Dawn will return to the American base in (REDACTED) at 23:00 Hours. Debriefing will take place, as well as planning follow up missions.\n\nOrganization of Free Nations aligned freedom fighters in the Colombia have been given four crates of modern M16 Weapons platforms, along with three crates of miscellaneous firearms.\n\nThe operation took place at (REDACTED) in (REDACTED).\n\nThe Agency's contacts in (REDACTED), including Irish Morning, real name (REDACTED), have reported that the arms have made their way to (REDACTED) central command.\n\nFollow up operations are likely. Please see (REDACTED) for further instructions.\n\nThis memo is for internal use in the Central Intelligence Agency of the United States of America and allied nations only, under penalty of treason."
 USA_colombia.4.a: "Allies and friends."
 
 USA_colombia.5.t: "Operation Failure"
-USA_colombia.5.d: "At 19:00 Hours, Special Agent Persian Dawn, real name (REDACTED) confirmed that the airlift operation to the Organization of Free Nations aligned freedom fighters was aborted due to a variety of conditions, including enemy scouts, hazardous weather conditions, or equipment failure.\n\nSpecial Agent Persian Dawn will attempt to return to the American base in (REDACTED) at 23:00 Hours. Debriefing will take place, as well as planning follow up missions and replacement missions.\n\nOrganization of Free Nations aligned freedom fighters in the Colombian Revolutionary Union were to be given four crates of modern M16 Weapons platforms, along with three crates of miscellaneous firearms.\n\nThese crates are still in our hands - the operation can be attempted at a later date with minimal cost.\n\nThe attempted operation took place at (REDACTED) in (REDACTED).\n\nThe Bureau's contacts in (REDACTED), including Irish Morning, real name (REDACTED), have reported that the central command of (REDACTED) is disappointed in our failure.\n\nFollow up and replacement operations are likely. Please see (REDACTED) for further instructions.\n\nThis memo is for internal use in the Federal Bureau of Investigation of the United States of America and allied nations only, under penalty of treason."
+USA_colombia.5.d: "At 19:00 Hours, Agent Persian Dawn, real name (REDACTED) confirmed that the airlift operation to the Organization of Free Nations aligned freedom fighters was aborted due to a variety of conditions, including enemy scouts, hazardous weather conditions, or equipment failure.\n\nAgent Persian Dawn will attempt to return to the American base in (REDACTED) at 23:00 Hours. Debriefing will take place, as well as planning follow up missions and replacement missions.\n\nOrganization of Free Nations aligned freedom fighters in the Colombia were to be given four crates of modern M16 Weapons platforms, along with three crates of miscellaneous firearms.\n\nThese crates are still in our hands- the operation can be attempted at a later date with minimal cost.\n\nThe attempted operation took place at (REDACTED) in (REDACTED).\n\nThe Agency's contacts in (REDACTED), including Irish Morning, real name (REDACTED), have reported that the central command of (REDACTED) is disappointed in our failure.\n\nFollow up and replacement operations are likely. Please see (REDACTED) for further instructions.\n\nThis memo is for internal use in the Central Intelligence Agency of the United States of America and allied nations only, under penalty of treason."
 USA_colombia.5.a: ""Shouldn't these names be redacted fully?""
 
 USA_colombia.6.t: "Operation Failure"
-USA_colombia.6.d: "At 18:00 Hours, Special Agent Persian Dawn, real name (REDACTED) failed to report to Bureau contacts about the success of his mission. Utilizing footage from spy planes, we have obtained confirmation that Special Agent Persian Dawn's plane was shot down at approximately (REDACTED) while flying over (REDACTED).\n\nSpecial Agent Persian Dawn's location is currently unknown, but the worst is feared. Organization of Free Nations aligned freedom fighters in the Colombian Revolutionary Union were to be given four crates of modern M16 Weapons platforms, along with three crates of miscellaneous firearms.\n\nThe current whereabouts of these arms are unknown, but are most likely destroyed or in enemy hands - if this operation is to be attempted again, the FBI will need to procure new weapons.\n\nThe attempted operation took place at (REDACTED) in (REDACTED).\n\nThe Bureau's contacts in (REDACTED), including Irish Morning, real name (REDACTED), have reported that the central command of (REDACTED) is disappointed in our failure.\n\nFollow up and replacement operations are likely. Please see (REDACTED) for further instructions.\n\nThis memo is for internal use in the Federal Bureau of Investigation of the United States of America and allied nations only, under penalty of treason."
+USA_colombia.6.d: "At 18:00 Hours, Agent Persian Dawn, real name (REDACTED) failed to report to Agency contacts about the success of his mission. Utilizing footage from spy planes, we have obtained confirmation that Agent Persian Dawn's plane was shot down at approximately (REDACTED) while flying over (REDACTED).\n\nAgent Persian Dawn's location is currently unknown, but the worst is feared. The Agency's contacts in (REDACTED), including Agent Irish Morning, real name (REDACTED), have expressed disappointment in the failure of the operation.\n\nOrganization of Free Nations aligned freedom fighters in the Colombia were to be given four crates of modern M16 Weapons platforms, along with three crates of miscellaneous firearms.\n\nThe current whereabouts of these arms are unknown, but are most likely destroyed or in enemy hands- if this operation is to be attempted again, the CIA will need to procure new weapons.\n\nThe attempted operation took place at (REDACTED) in (REDACTED).\n\nThe Agency's contacts in (REDACTED), including Irish Morning, real name (REDACTED), have reported that the central command of (REDACTED) is disappointed in our failure.\n\nFollow up and replacement operations are likely. Please see (REDACTED) for further instructions.\n\nThis memo is for internal use in the Central Intelligence Agency of the United States of America and allied nations only, under penalty of treason."
 USA_colombia.6.a: ""Shouldn't these names be redacted fully?""
 
 USA_COL_civil_war_countdown: "Impending Civil War"
@@ -692,7 +736,7 @@ USA_FrenchReclamation_Decision_SupportCrossChannelSupplyLines: "Support Cross-Ch
 USA_FrenchReclamation_Decision_SupportCrossChannelSupplyLines_desc: "Islands in the English Channel can work together as a single supply node, which is the key part of our Cross-Channel supply lines."
 USA_FrenchReclamation_Decision_SupportTransAlpineSupplyLines: "Support Trans-Alpine Supply Lines"
 USA_FrenchReclamation_Decision_SupportTransAlpineSupplyLines_desc: "The mountains, though dangerous at times, are also where people may find themselves a refuge. By deploying more supply specialists and providing them safe and relatively comfy living conditions there, we can ensure the supplies go to the ones in need more efficiently."
-USA_FrenchReclamation_Decision_SupportTransPyreneesSupplyLines: "Support Trans-Purenees Supply Lines"
+USA_FrenchReclamation_Decision_SupportTransPyreneesSupplyLines: "Support Trans-Pyrenees Supply Lines"
 USA_FrenchReclamation_Decision_SupportTransPyreneesSupplyLines_desc: "The mountains, though dangerous at times, are also where people may find themselves a refuge. By deploying more supply specialists and providing them safe and relatively comfy living conditions there, we can ensure the supplies go to the ones in need more efficiently."
 USA_FrenchReclamation_Decision_SendInfantryEquipmentShipments: "Send Infantry Equipment Shipments"
 USA_FrenchReclamation_Decision_SendInfantryEquipmentShipments_desc: "They are undoubtedly brave, but even the best equipment they can get are in poor condition and whether it can last long is rather questionable. We shall send infantry equipment to prevent them from unanticipatedly becoming defenceless in battle."
@@ -708,7 +752,7 @@ USA_FrenchReclamation_Decision_USA_ExploitContactsInTheGovernment_desc: "As the 
 USA_FrenchReclamation_Decision_USA_GatherSupportFromMainlandLoyalists: "Gather Support from Mainland Loyalists"
 USA_FrenchReclamation_Decision_USA_RecruitMainlanders: "Recruit Mainlanders"
 USA_FrenchReclamation_Decision_USA_RecruitMainlanders_desc: "Freedom still lies at the hearts of some brave mainlanders, ready to show hospitality wholeheartedly to anyone who stand against the collaborationists."
-USA_FrenchReclamation_Decision_USA_MeetWithGenerals: "Meet With Generals"
+USA_FrenchReclamation_Decision_USA_MeetWithGenerals: "Meet with Generals"
 USA_FrenchReclamation_Decision_USA_MeetWithGenerals_desc: "The generals of Free France are having a burning desire to rain death upon their enemies. We can make it happen."
 
 #######################
@@ -834,6 +878,7 @@ TNO_HCW_freezing_involvement_tt: "§FWe §Rare§! currently temporarily freezing
 TNO_HCW_freezing_involvement_no_tt: "§FWe are §Gnot§! currently temporarily freezing our §GInvolvement§!.§!\n"
 USA_HCW_ppln_tick_bonus_1_tt: "§F§JViolence§! in Haiti is §Gbelow§! §Y33%§!§!\n"
 USA_HCW_ppln_tick_bonus_2_tt: "§F§JViolence§! in Haiti is §Gbelow§! §Y55%§!§!\n"
+USA_HCW_PPLN_Uprising_tt: "\n§FDue to the §JViolence§! in Haiti, the PPLN will seize the opportunity to §Rrise up§! at any moment§!!"
 
 decision_trigger_HAI_involvement_dynamic: "§F§GInvolvement§! is below §Y[?tt_involvement_check]§!§!\n"
 decision_trigger_HAI_violence_dynamic: "§F§JViolence§! is below §Y[?tt_violence_check]§!§!\n"
@@ -881,8 +926,8 @@ USA_HCW_send_weapons_shipment_desc: "The Haitian security apparatus is reliant u
 USA_HCW_promote_freedom_fighters: "Promote Freedom Fighters"
 USA_HCW_promote_freedom_fighters_desc: "The campaign to stem the PPLN's popularity should highlight pro-government heroes and delegitimize their call for liberation. The Port-au-Prince government may gain support at home by propagandizing sympathetic martyrs and sustaining pro-intervention arguments in the United States."
     # Build Up
-USA_HCW_rennovate_guantanamo: "Rennovate Guantanamo"
-USA_HCW_rennovate_guantanamo_desc: "The American naval concession at Guantanamo Bay, Cuba, is the hub of OFN power projection in the Caribbean basin. Expanding its facilities will increase US material support for Haiti's armed forces and expand naval and air operations on the island."
+USA_HCW_renovate_guantanamo: "Renovate Guantanamo"
+USA_HCW_renovate_guantanamo_desc: "The American naval concession at Guantanamo Bay, Cuba, is the hub of OFN power projection in the Caribbean basin. Expanding its facilities will increase US material support for Haiti's armed forces and expand naval and air operations on the island."
 USA_HCW_expand_ramey_AFB: "Expand Ramey AFB"
 USA_HCW_expand_ramey_AFB_desc: "Puerto Rico's Ramey Air Force Base is home to a diverse profile of air operations, including bomber fleets, air supply operations, and a contingent of air interceptors. Expanding the base's facilities will increase American air resources supporting Haiti's government."
 USA_HCW_increase_military_deployments: "Increase Military Deployments in §Y[?HAI_selected_State.GetName]§!"
@@ -903,7 +948,7 @@ USA_HCW_deploy_the_second_bomb_wing_desc: "The USAF 2nd Bomb Wing operates 15 B-
 USA_HCW_greatly_support_security_forces: "Greatly Support Security Forces"
 USA_HCW_greatly_support_security_forces_desc: "Previous aid to Haiti's counter-insurgency has proven insufficient, and we must increase aid for the multinational security forces. Increases to air and naval support and a flurry of new equipment are sure to make an impact on Haiti's civil war."
 USA_HCW_contingency_tactics: "Contingency Tactics"
-USA_HCW_contingency_tactics_desc: " Winning the Haitian Civil War requires adapting to the partisan nature of warfare and creating contingencies to guide soldiers' actions. Lessons from previous engagements will inform our forces' ability to destroy the rebels."
+USA_HCW_contingency_tactics_desc: "Winning the Haitian Civil War requires adapting to the partisan nature of warfare and creating contingencies to guide soldiers' actions. Lessons from previous engagements will inform our forces' ability to destroy the rebels."
 USA_HCW_bunker_down: "§YBunker Down§!"
 USA_HCW_bunker_down_desc: "Whereas previous efforts focused on eliminating the PPLN insurgency throughout Haiti, political polarization has made our current approach impractical. Instead, our forces will prioritize building strong points of government influence where US-Haitian troops will launch a definitive anti-PPLN extermination campaign."
     USA_HCW_change_war_priorities: "§RThis will change our priorities in the war, making withdrawl impossible and set Haiti on the course for massive escalation so that we may draw the rebels out.§!"
@@ -981,34 +1026,34 @@ USA_HAI_Intense_Naval_Bombardment: "Heavy American Naval Bombardment"
 ##############################
 USA_proxy_war_homefront_GUI: "Homefront"
 
-USA_SAW_increase_manpower_timer: "Peacetime Manpower Recovery"
+USA_SAW_increase_manpower_timer: "Manpower Recovers..."
 USA_SAW_decrease_manpower_timer: "Manpower Continues to Deplete..."
-USA_WAC_discontent_declines: "Discontent Dissipates"
-USA_WAC_discontent_declines_desc: "The long term public opposition to our intervention in West Africa remains. Though in time the public will move on, until they do we must continue to bear the negative effects of this discontent."
+USA_WAC_discontent_declines: "Discontent Dissipates..."
+USA_WAC_discontent_declines_desc: "The long term public opposition to our intervention in West Africa remains. The public will move on eventually; until then, we must continue to bear the negative effects of their discontent."
 USA_WAC_discontent_is_gone_tt: "§ODiscontent§! has dissipated."
 USA_SAW_reduce_hawkishness: "Hawkishness Withers..."
 USA_Homefront_buy_commpower: "Divert Attention to the Military"
 
-USA_service_manpower_pulse_positive_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Gincreases§! by §Y1.5%§!.§!"
-USA_service_manpower_pulse_negative_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Rdecreases§! by §Y[?USA.USA_homefront_total_manpower_depletion|1]%§!.§!"
+USA_service_manpower_pulse_positive_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Gincreases§! by §Y1.5%§!.§!"
+USA_service_manpower_pulse_negative_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Rdecreases§! by §Y[?USA.USA_homefront_total_manpower_depletion|1]%§!.§!"
 
 #This is why they call it Tooltip Theory. —KingOfPandas
 TNO_US_proxy_war_home_front_title: "The Home Front"
 TNO_US_proxy_war_home_front_service_manpower_title: "Service Manpower"
-USA_hawkishness_tt: "£GFX_USA_hawkishness §PHawkishness§! is currently at §Y[?USA_hawkishness]§!.§!"
-USA_optics_tt: "£GFX_USA_optics §fOptics§! is currently at §Y[?USA_optics]§!, granting the following effects:\n\nWar Support: [USA_optics_display]\nRecruitable Population Factor: [USA_optics_display]§!"
-USA_trust_in_government_tt: "£GFX_USA_trust_in_government §MTrust in Government§! is currently at §Y[?USA_trust_in_government]§!, granting the following effects:\n\nStability: [USA_trust_in_government_display]\nWeekly Stability: [USA_trust_in_government_display_2]\nPolitical Power Gain: [USA_trust_in_government_display]§!"
-USA_troop_morale_tt: "£GFX_USA_troop_morale §nTroop Morale§! is currently at §Y[?USA_troop_morale]§!, granting the following effects:\n\nPlanning Speed: §R[?USA_troop_morale_display]%§!\nRecovery Rate: §R[?USA_troop_morale_display]%§!\nArmy Experience Gain: §R[?USA_troop_morale_display]%§!\nEncryption: §R[?USA_troop_morale_display]%§!\nMonthly Army Professionalism: §R[?USA_troop_morale_calc_2]§!§!"
-USA_homefront_pw_tt: "§FIf we are to continue are campaigns to ensure the OFN and the Free World can continue §Gdefend itself§! and §yliberate the oppressed people of the world§!, it is paramount that the American people be on board with our efforts. Public support directly affects the ability of our troops to perform work. That is to say, if the public is happy, our troops are happy. £GFX_USA_troop_morale §nTroop Morale§! represents the way our boys on the ground, seas, and skies, feel about the engagements they're in, and how they think the public sees them. It is paramount they know they public is behind them, lest they perform poorly, or worse, §xtake their frustration out on others§!. £GFX_USA_trust_in_government §MTrust in Government§! represents the public's ability in their generals' and leaders' ability to see through these conflicts to completion with minimal losses for our troops. £GFX_USA_optics §fOptics§! represents how well our conflicts abroad are being portrayed, and the effect it has on its perception back home. £GFX_USA_hawkishness §PHawkishness§! how supportive the public is of sending our boys overseas to fight for freedom and fight tyranny wherever it apepars. £GFX_USA_service_manpower_fufillment §jService Manpower Fufillment§! represents our ability to ensure we have enough manpower in the field to successfully complete our operations. Expanding operations and increasing the scope of our existing operations will §Rcause this number to decline§!, §xjerpordizing our ability to ensure victory for our forces§!; it must be kept as high as possible at all times. £GFX_USA_trust_in_government §MTrust in Government§!, £GFX_USA_optics §fOptics§!, and £GFX_USA_hawkishness §PHawkishness§! all determine £GFX_USA_troop_morale §nTroop Morale§!. We must not let any of them fall too low, §xor we risk very serious consequences on the battlefield§!.§!"
-USA_service_manpower_fullfillment_tt: "£GFX_USA_service_manpower_fufillment §jService Manpower Fufillment§! is currently at §Y[?USA_service_manpower_fufillment|1]%§!, granting the following effects:\n\nDivision Attrition: [USA_service_manpower_fufillment_display]\nReinforce Rate: [USA_service_manpower_fufillment_display_2]\nArmy Attack Factor: [USA_service_manpower_fufillment_display_2]\nArmy Defense Factor: [USA_service_manpower_fufillment_display_2]\nOrganization Loss While Moving: [USA_service_manpower_fufillment_display]"
+USA_hawkishness_tt: "£GFX_USA_hawkishness §PHawkishness§! is currently at §Y[?USA_hawkishness|0%%]§!.§!"
+USA_optics_tt: "£GFX_USA_optics §fOptics§! is currently at §Y[?USA_optics|0%%]§!, granting the following effects:\n\nWar Support: [USA_optics_display]\nRecruitable Population Factor: [USA_optics_display]§!"
+USA_trust_in_government_tt: "£GFX_USA_trust_in_government §MTrust in Government§! is currently at §Y[?USA_trust_in_government|0%%]§!, granting the following effects:\n\nStability: [USA_trust_in_government_display]\nWeekly Stability: [USA_trust_in_government_display_2]\nPolitical Power Gain: [USA_trust_in_government_display]§!"
+USA_troop_morale_tt: "£GFX_USA_troop_morale §nTroop Morale§! is currently at [?USA_troop_morale|Y0%%], granting the following effects:\n\nPlanning Speed: [?USA_troop_morale_display|+%%]\nRecovery Rate: [?USA_troop_morale_display|+%%]\nArmy Experience Gain: [?USA_troop_morale_display|+%%]\nEncryption: [?USA_troop_morale_display|+%%]\nMonthly Army Professionalism: [?USA_troop_morale_calc_2|+]"
+USA_homefront_pw_tt: "§FIf we are to continue are campaigns to ensure the OFN and the Free World can continue §Gdefend itself§! and §yliberate the oppressed people of the world§!, it is paramount that the American people be on board with our efforts. Public support directly affects the ability of our troops to perform work. That is to say, if the public is happy, our troops are happy. £GFX_USA_troop_morale §nTroop Morale§! represents the way our boys on the ground, seas, and skies, feel about the engagements they're in, and how they think the public sees them. It is paramount they know they public is behind them, lest they perform poorly, or worse, §xtake their frustration out on others§!. £GFX_USA_trust_in_government §MTrust in Government§! represents the public's ability in their generals' and leaders' ability to see through these conflicts to completion with minimal losses for our troops. £GFX_USA_optics §fOptics§! represents how well our conflicts abroad are being portrayed, and the effect it has on its perception back home. £GFX_USA_hawkishness §PHawkishness§! how supportive the public is of sending our boys overseas to fight for freedom and fight tyranny wherever it apepars. £GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! represents our ability to ensure we have enough manpower in the field to successfully complete our operations. Expanding operations and increasing the scope of our existing operations will §Rcause this number to decline§!, §xjerpordizing our ability to ensure victory for our forces§!; it must be kept as high as possible at all times. £GFX_USA_trust_in_government §MTrust in Government§!, £GFX_USA_optics §fOptics§!, and £GFX_USA_hawkishness §PHawkishness§! all determine £GFX_USA_troop_morale §nTroop Morale§!. We must not let any of them fall too low, §xor we risk very serious consequences on the battlefield§!.§!"
+USA_service_manpower_fullfillment_tt: "£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! is currently at §Y[?USA_service_manpower_fulfillment|1]%§!, granting the following effects:\n\nDivision Attrition: [USA_service_manpower_fulfillment_display]\nReinforce Rate: [USA_service_manpower_fulfillment_display_2]\nDivision Attack Factor: [USA_service_manpower_fulfillment_display_2]\nDivision Defense Factor: [USA_service_manpower_fulfillment_display_2]\nOrganization Loss While Moving: [USA_service_manpower_fulfillment_display]"
 USA_trust_in_government_display_positive: "§G+[?USA_trust_in_government_display]%§!"
 USA_trust_in_government_display_negative: "§R[?USA_trust_in_government_display]%§!"
 USA_trust_in_government_display_positive_2: "§G+[?USA_trust_in_government_display_2]%§!"
 USA_trust_in_government_display_negative_2: "§R[?USA_trust_in_government_display_2]%§!"
 USA_optics_display_positive: "§G+[?USA_optics_display]%§!"
 USA_optics_display_negative: "§R[?USA_optics_display]%§!"
-USA_service_manpower_fufillment_negative: "§R+[?USA_service_manpower_fufillment_display]%§!"
-USA_service_manpower_fufillment_negative_2: "§R-[?USA_service_manpower_fufillment_display]%§!"
+USA_service_manpower_fulfillment_negative: "§R+[?USA_service_manpower_fulfillment_display]%§!"
+USA_service_manpower_fulfillment_negative_2: "§R-[?USA_service_manpower_fulfillment_display]%§!"
 
 USA_increase_trust_in_government_small_tt: "§F£GFX_USA_trust_in_government §MTrust in Government§! §Gincreases§! by a §gsmall§! amount.§!\n"
 USA_increase_trust_in_government_medium_tt: "§F£GFX_USA_trust_in_government §MTrust in Government§! §Gincreases§! by a §dmoderate§! amount.§!\n"
@@ -1037,31 +1082,32 @@ USA_decrease_hawkishness_large_tt: "§F£GFX_USA_hawkishness §PHawkishness§! �
 USA_increase_hawkishness_tt: "§F£GFX_USA_hawkishness §PHawkishness§! §Gincreases§! by [GetHawkishnessLevel] amount.§!\n"
 USA_decrease_hawkishness_tt: "§F£GFX_USA_hawkishness §PHawkishness§! §Rdecreases§! by [GetHawkishnessLevel] amount.§!\n"
 
-USA_increase_service_manpower_fufillment_small_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Gincreases§! by a §gsmall§! amount.§!\n"
-USA_increase_service_manpower_fufillment_medium_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Gincreases§! by a §dmoderate§! amount.§!\n"
-USA_increase_service_manpower_fufillment_large_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Gincreases§! by a §Wlarge§! amount.§!\n"
-USA_decrease_service_manpower_fufillment_small_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Rdecreases§! by a §gsmall§! amount.§!\n"
-USA_decrease_service_manpower_fufillment_medium_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Rdecreases§! by a §dmoderate§! amount.§!\n"
-USA_decrease_service_manpower_fufillment_large_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Rdecreases§! by a §Wlarge§! amount.§!\n"
-USA_increase_manpower_fullfillment_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Gincreases§! by §Y[?tempManpower_tt|2]%§! amount.§!\n"
-USA_decrease_manpower_fullfillment_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! §Rdecreases§! by §Y[?tempManpower_tt|2]%§! amount.§!\n"
+USA_increase_service_manpower_fulfillment_small_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Gincreases§! by a §gsmall§! amount.§!\n"
+USA_increase_service_manpower_fulfillment_medium_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Gincreases§! by a §dmoderate§! amount.§!\n"
+USA_increase_service_manpower_fulfillment_large_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Gincreases§! by a §Wlarge§! amount.§!\n"
+USA_decrease_service_manpower_fulfillment_small_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Rdecreases§! by a §gsmall§! amount.§!\n"
+USA_decrease_service_manpower_fulfillment_medium_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Rdecreases§! by a §dmoderate§! amount.§!\n"
+USA_decrease_service_manpower_fulfillment_large_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Rdecreases§! by a §Wlarge§! amount.§!\n"
+USA_increase_manpower_fullfillment_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Gincreases§! by §Y[?tempManpower_tt|2]%§! amount.§!\n"
+USA_decrease_manpower_fullfillment_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! §Rdecreases§! by §Y[?tempManpower_tt|2]%§! amount.§!\n"
 
-USA_increase_service_manpower_depletion_rate_small_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y0.5%§!.§!\n"
-USA_increase_service_manpower_depletion_rate_medium_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y1%§!.§!\n"
-USA_increase_service_manpower_depletion_rate_large_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y1.5%§!.§!\n"
-USA_increase_service_manpower_depletion_rate_2_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y2%§!.§!\n"
-USA_increase_service_manpower_depletion_rate_3_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y3%§!.§!\n"
+USA_increase_service_manpower_depletion_rate_small_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y0.5%§!.§!\n"
+USA_increase_service_manpower_depletion_rate_medium_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y1%§!.§!\n"
+USA_increase_service_manpower_depletion_rate_large_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y1.5%§!.§!\n"
+USA_increase_service_manpower_depletion_rate_2_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y2%§!.§!\n"
+USA_increase_service_manpower_depletion_rate_3_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y3%§!.§!\n"
 
-USA_decrease_service_manpower_depletion_rate_small_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y0.5%§!.§!\n"
-USA_decrease_service_manpower_depletion_rate_medium_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y1%§!.§!\n"
-USA_decrease_service_manpower_depletion_rate_large_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y1.5%§!.§!\n"
-USA_decrease_service_manpower_depletion_rate_2_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y2%§!.§!\n"
-USA_decrease_service_manpower_depletion_rate_3_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y3%§!.§!\n"
+USA_decrease_service_manpower_depletion_rate_small_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y0.5%§!.§!\n"
+USA_decrease_service_manpower_depletion_rate_medium_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y1%§!.§!\n"
+USA_decrease_service_manpower_depletion_rate_large_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y1.5%§!.§!\n"
+USA_decrease_service_manpower_depletion_rate_2_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y2%§!.§!\n"
+USA_decrease_service_manpower_depletion_rate_3_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y3%§!.§!\n"
 
-USA_increase_manpower_depletion_rate_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y[?tempManpowerRate_tt|2]%§! amount.§!\n"
-USA_decrease_manpower_depletion_rate_tt: "§F£GFX_USA_service_manpower_fufillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y[?tempManpowerRate_tt|2]%§! amount.§!\n"
+USA_increase_manpower_depletion_rate_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Rincreases§! by §Y[?tempManpowerRate_tt|2]%§! amount.§!\n"
+USA_decrease_manpower_depletion_rate_tt: "§F£GFX_USA_service_manpower_fulfillment §jService Manpower Fulfillment§! depletion §Gdecreases§! by §Y[?tempManpowerRate_tt|2]%§! amount.§!\n"
 
 USA_homefront_has_active_proxy_tt: "We have a §Ylarge scale deployment§! abroad."
+USA_homefront_has_active_proxy_tt_NOT: "We no longer have a §Ylarge scale deployment§! abroad."
 USA_homefront_effects: "§YThe Home Front§! Effect"
 
 USA_homefront_small: "§gsmall§!"

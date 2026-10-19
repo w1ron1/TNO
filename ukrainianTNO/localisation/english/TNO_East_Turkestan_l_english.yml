@@ -2,29 +2,29 @@
 
  ### Parties ###
 
- ETR_fascism_party:0 "Turkic Liberation Group"
- ETR_fascism_party_long:0 "Turkic Liberation Group"
- ETR_national_socialism_party:0 "Pan-Turkic League"
- ETR_national_socialism_party_long:0 "Pan-Turkic League"
- ETR_despotism_party:0 "Turkic Revolutionary Party"
- ETR_despotism_party_long:0 "Turkic Revolutionary Party"
+ ETR_fascism_party:0 "Тюркська визвольна група"
+ ETR_fascism_party_long:0 "Тюркська визвольна група"
+ ETR_national_socialism_party:0 "Пантюркська ліга"
+ ETR_national_socialism_party_long:0 "Пантюркська ліга"
+ ETR_despotism_party:0 "Тюркська революційна партія"
+ ETR_despotism_party_long:0 "Тюркська революційна партія"
 
  POLITICS_ISA_YUSUF_ALPTEKIN_DESC:0 ""
 
  ### Events ###
 
- etr.1.t:0 "The Black Wolf"
- etr.1.d:0 "Despite his age, Muhammad Amin Bughra has not lost his fire. The old man raised the flag of the First Uprising up high on the mosques of Kashgar, preaching to the masses that Allah willed the Turks to unite again under one banner, that all of Central Asia was to be, one day, dominated by the Turks once again. He told the story of the glory of the First Uprising and the tales told to Turkic children across the world, reigniting the fires of Pan-Turkism within the populace. No longer, he said, would the Turkic peoples be oppressed under their overlords.\n\nIt was time to take action, to take back the homeland."
- etr.1.a:0 "Mashallah!"
+ etr.1.t:0 "Чорний вовк"
+ etr.1.d:0 "Попри свій вік, Мухаммад Амін Бугра не втратив свого вогню. Старий чоловік високо підняв прапор Першого повстання над мечетями Кашґара, проповідуючи масам, що Аллах волів, аби тюрки знову об'єдналися під одним прапором, що вся Центральна Азія одного дня знову буде під владою тюрків. Він розповідав про славу Першого повстання та історії, які тюркські діти чують по всьому світу, знову розпалюючи вогонь пантюркізму серед населення. Більше, казав він, тюркські народи не будуть пригноблені своїми сюзеренами.\n\nНастав час діяти, час повернути собі батьківщину."
+ etr.1.a:0 "Машаллах!"
 
- etr.2.t:0 "The Second East Turkestan Republic"
- etr.2.d:0 "It has been over a decade since the Second East Turkestan Republic was created. In a revolution dubbed Liberation Day in 1946, Isa Yusuf Alptekin and a number of influential revolutionaries declared independence in Kashgar.\n\nNow, after many years, the ETR is stuck in a perpetual war with the Chinese province of Xinjiang, with frequent skirmishes and battles. Zhang Zhizhong cannot hold out forever, and he is growing old, as well as the leaders of the ETR. One day, one faction will eventually win and declare a new age for Xinjiang, and that day is coming soon..."
- etr.2.a:0 "Inshallah!"
+ etr.2.t:0 "Друга Східнотуркестанська Республіка"
+ etr.2.d:0 "Минуло понад десятиліття відтоді, як було створено Другу Східнотуркестанську Республіку. Під час революції, названої Днем визволення у 1946 році, Іса Юсуф Альптекін і низка впливових революціонерів проголосили незалежність у Кашґарі.\n\nТепер, після багатьох років, СТР загрузла у вічній війні з китайською провінцією Сіньцзян, що супроводжується частими сутичками та битвами. Чжан Чжичжун не може триматися вічно, і він старіє, як і лідери СТР. Одного дня одна з фракцій зрештою переможе й проголосить нову еру для Сіньцзяну, і цей день уже наближається..."
+ etr.2.a:0 "Іншаллах!"
 
- etr.3.t:0 "The Raid of Aksu"
- etr.3.d:0 "Another day, another raid. This time, a devastating one. Our forces have struck the Chinese garrison of Aksu City once again, almost forcing down their defenses. A sandstorm, however, and the arrival of reinforcements from the East, have forced us to retreat."
- etr.3.a:0 "We'll come again..."
+ etr.3.t:0 "Рейд на Аксу"
+ etr.3.d:0 "Ще один день, ще один рейд. Цього разу — спустошливий. Наші сили знову завдали удару по китайському гарнізону міста Аксу, майже зламавши його оборону. Однак піщана буря та прибуття підкріплень зі Сходу змусили нас відступити."
+ etr.3.a:0 "Ми повернемося знову..."
 
- etr.4.t:0 "Muhammad Amin Bughra Speaks"
- etr.4.d:0 "The old Pan-Turkic Jadidist Muhammad Amin Bughra, a veteran of the first uprising and held in high regards by the current government, has spoken in front of a large crowd in Kashgar. He has endorsed the movement of the new ETR, and calls for a unification of all the Turks, from Eastern Europe to Central Asia. His rousing speech inspired many, and his message of Pan-Turkism reached ears all across Kashgar and Khotan."
- etr.4.a:0 "Inspiring!"
+ etr.4.t:0 "Мухаммад Амін Бугра виступає"
+ etr.4.d:0 "Старий пантюркістський джадидист Мухаммад Амін Бугра, ветеран першого повстання, якого нинішній уряд глибоко шанує, виступив перед великим натовпом у Кашґарі. Він підтримав рух нової СТР і закликав до об'єднання всіх тюрків — від Східної Європи до Центральної Азії. Його запальна промова надихнула багатьох, а його послання пантюркізму пролунало по всьому Кашґару та Хотану."
+ etr.4.a:0 "Надихає!"

@@ -1,25 +1,34 @@
 ﻿l_english:
  ### Country Names ###
- CDL: "Carnarvon Defense League"
- CDL_DEF: "the Carnarvon Defense League"
- CDL_ADJ: "South African"
+ CDL: "Ліга оборони Карнарвона"
+ CDL_DEF: "Ліга оборони Карнарвона"
+ CDL_ADJ: "Південноафриканськ."
 
  ### Parties ###
- CDL_conservatism_party: "Carnarvon Defense League"
- CDL_conservatism_party_long: "Carnarvon Defense League"
+ CDL_conservatism_party: "Ліга оборони Карнарвона"
+ CDL_conservatism_party_long: "Ліга оборони Карнарвона"
+ CDL_liberalism_party: "Ліга оборони Карнарвона"
+ CDL_liberalism_party_long: "Ліга оборони Карнарвона"
+ CDL_progressivism_party: "Ліга оборони Карнарвона"
+ CDL_progressivism_party_long: "Ліга оборони Карнарвона"
+ CDL_socialist_party: "АНК"
+ CDL_socialist_party_long: "Африканський національний конгрес"
+ CDL_communist_party: "ПАКП/АНК-Е"
+ CDL_communist_party_long: "Південноафриканська комуністична партія/Африканський національний конгрес — Екстремісти"
 
  ### Characters ###
- CDL_Beyers_Naude: "Beyers Naudé"
- CDL_Joe_Slovo: "Joe Slovo"
- CDL_Thabo_Mbeki: "Thabo Mbeki"
- CDL_Nelson_Mandela: "Nelson Mandela"
+ CDL_Beyers_Naude: "Бейерс Науде"
+ CDL_Joe_Slovo: "Джо Слово"
+ CDL_Thabo_Mbeki: "Табо Мбекі"
+ CDL_Nelson_Mandela: "Нельсон Мандела"
 
  ## Leader Descs ##
- POLITICS_BEYERS_NAUDE_DESC: "Peace at any cost is the official doctrine of the Carnarvon Defense League, and of its leader.\n\nWhile Beyers Naudé himself was a segregationist long ago, the extremist attitudes of his fellow Boers, and the religious conviction of many ANC members, convinced the theologian that he was rooting for the wrong side. By the time of the Cape Town massacre, the cleric had established connections with underground ANC leaders, something which earned him the ire of Hertzog's secret policemen. Nevertheless, Naudé refused to go into hiding and continued to publicly criticize the government, an act that greatly increased the ANC's opinion of him.\n\nOnce Malan's coup set off Connie Mulder's rebellion in Cape Town, Naudé's allies, white and black, seized control of the Northern Cape from the rapidly collapsing Boer security forces. Naudé's deeply religious understanding of South Africa resulted in his calls for a restoration of the pre-war constitution, an end to segregation, co-operation between blacks and whites, expelling the Germans, and a federated structure for South Africa. His vision for a reconstructed South Africa convinced just about every major faction that Naudé was their natural ally.\n\nHowever, neither Mulder, nor Viljoen, nor Buthelezi could have predicted the establishment of the Carnarvon Defense League as a neutral zone. Armed to the teeth, Naudé has made it clear that the League will guarantee a safe place for those who wish to evade further suffering from war. Whether the League will weather the storm and remain intact is an open question, but Naudé's position as the most idealistic of contestants for the future of South Africa is already secured."
+ POLITICS_BEYERS_NAUDE_DESC: "Мир будь-якою ціною — офіційна доктрина Ліги оборони Карнарвона та її лідера.\n\nХоча сам Бейерс Науде колись був прихильником сегрегації, екстремістські погляди його побратимів-бурів та релігійні переконання багатьох членів АНК переконали богослова, що він підтримував не ту сторону. На час різанини в Кейптауні священнослужитель уже встановив зв'язки з підпільними лідерами АНК, що викликало гнів таємної поліції Герцоґа. Попри це, Науде відмовився переховуватися й продовжив публічно критикувати уряд, що значно покращило ставлення АНК до нього.\n\nКоли переворот Малана спровокував повстання Конні Малдера в Кейптауні, союзники Науде, як білі, так і чорні, захопили контроль над Північнокапською провінцією у військ бурської безпеки, які стрімко розпадалися. Глибоко релігійне розуміння Науде Південної Африки призвело до його закликів відновити довоєнну конституцію, покласти край сегрегації, налагодити співпрацю між чорними та білими, вигнати німців та створити федеративну структуру Південної Африки. Його бачення реконструйованої Південної Африки переконало практично кожну велику фракцію в тому, що Науде є їхнім природним союзником.\n\nОднак ні Малдер, ні Вільйоен, ні Бутелезі не могли передбачити створення Ліги оборони Карнарвона як нейтральної зони. Озброєний до зубів, Науде чітко дав зрозуміти, що Ліга гарантуватиме безпечне місце для тих, хто бажає уникнути подальших страждань від війни. Чи переживе Ліга бурю та залишиться цілісною — відкрите питання, але позиція Науде як найбільш ідеалістичного претендента на майбутнє Південної Африки вже забезпечена."
 
  ### Ideas ###
- CDL_political_refuge: "Political Refuge"
- CDL_political_refuge_desc: "The Carnavon Defense League has been, more than anything, a refuge for political refugees. After the creation of the Volkstaat, the political rights of almost everyone were crushed and repressed without any regard. Despite this, some continued to speak out against the Volkstaat's oppression, the foremost of them being Beyers Naudé, who built and protect a circle of other dissidents around him. Now, Naudé finds himself continuing his work, leading a diverse group, ranging from socialists to conservatives, all with the common goal of just surviving."
+ CDL_political_refuge: "Політичний притулок"
+ CDL_political_refuge_desc: "Ліга оборони Карнарвона була, перш за все, притулком для політичних біженців. Після створення Фолькстату політичні права майже всіх були безжально придушені та обмежені. Попри це, деякі продовжували виступати проти гноблення з боку Фолькстату, і найвизначнішим серед них був Бейерс Науде, який створив та захищав коло інших дисидентів навколо себе. Тепер Науде продовжує свою роботу, очолюючи різноманітну групу — від соціялістів до консерваторів, — усіх об'єднаних спільною метою просто вижити."
 
- CDL_haven_of_south_africa: "The Haven in the Civil War"
- CDL_haven_of_south_africa_desc: "Unlike the other political entities that have risen out of the collapse of the Volkstaat, the defense league is not concerned with uniting the territories surrounding it in the Second South African Civil War. Instead, it is merely focused on self-defense, working as a neutral zone for the refugees of the civil war around them."
+ CDL_haven_of_south_africa: "Прихисток у громадянській війні"
+ CDL_haven_of_south_africa_desc: "На відміну від інших політичних утворень, що виникли після розпаду Фолькстату, Ліга оборони не зацікавлена в об'єднанні територій навколо себе під час Другої південноафриканської громадянської війни. Натомість вона зосереджена виключно на самообороні, слугуючи нейтральною зоною для біженців від громадянської війни навколо неї."
+ 

@@ -39,6 +39,11 @@ l_english:
  ## Carriers
  carrier:0 "Carrier"
  carrier_desc:0 "A capital ship able to carry wings of powerful carrier capable aircraft into battle. Also useful as a floating airfield you can position off the coast of your enemy."
+
+### Categories
+screen_ship:0 "Screens"
+capital_ship:0 "Capital Ships"
+
 #### Generic ####
 
 #### Man the Guns ####
@@ -49,15 +54,15 @@ l_english:
   ship_hull_very_light_1:2 "Early Corvette Hull"
   ship_hull_very_light_1_desc:0 "Although utilized as easily-built patrol and convoy escort vessels, these ships, dating from the Second World War, have been surpassed, performing as little more than glorified artifacts from a long-gone age."
   ship_hull_very_light_2:2 "Basic Corvette Hull"
-  ship_hull_very_light_2_desc:0 "Emerging in the wake of the cold war between the three superpowers, the corvette has now become a mainstay of navies worldwide, as the naval powers move towards smaller and more maneuverable fleets."
+  ship_hull_very_light_2_desc:0 "Emerging in the wake of the Cold War between the three superpowers, the corvette has now become a mainstay of navies worldwide, as the naval powers move towards smaller and more maneuverable fleets."
   ship_hull_very_light_3:2 "Improved Corvette Hull"
-  ship_hull_very_light_3_desc:0 "As the cold war went on without an end in sight, the corvette had become somewhat of a multi-role smaller frigates that are affordable for smaller navies. The superpowers still use these, of course, though in support of larger, greater capital ships."
+  ship_hull_very_light_3_desc:0 "As the Cold War went on without an end in sight, the corvette had become somewhat of a multi-role smaller frigates that are affordable for smaller navies. The superpowers still use these, of course, though in support of larger, greater capital ships."
   ship_hull_very_light_4:2 "Advanced Corvette Hull"
   ship_hull_very_light_4_desc:0 "Incorporating advancements such as greater hull capacity at the expense of heft, the corvettes of the 70s had become a formidable vessel on their own right. Capable of fast-attack and other such tactics, these are dangerous - if they can get close."
   ship_hull_very_light_5:2 "Semi-Modern Corvette Hull"
   ship_hull_very_light_5_desc:0 "In the twilight years of the Cold War, as the powers settle into their places in the world, the corvette has found itself a new role - offshore patrol. Too little to go up against destroyers, they now serve as deterrents against nuclear submarines."
   ship_hull_very_light_6:2 "Modern Corvette Hull"
-  ship_hull_very_light_6_desc:0 "The cold war is over; the great confrontation between the superpowers have ended. With the use of navy reduced worldwide, the corvette has become ever more popular, as a method for nations to defend the coastal sections of their territory."
+  ship_hull_very_light_6_desc:0 "The Cold War is over; the great confrontation between the superpowers have ended. With the use of navy reduced worldwide, the corvette has become ever more popular, as a method for nations to defend the coastal sections of their territory."
  ### Corvettes ###
 
  ### Frigates ###
@@ -73,9 +78,9 @@ l_english:
   ship_hull_more_light_4:2 "Advanced Frigate Hull"
   ship_hull_more_light_4_desc:0 "Equipped with both the means to fight threats from over and under the seas, the frigates of the 70s have essentially become ocean escorts - ocean-worthy ships bigger than a corvette, but smaller than a destroyer."
   ship_hull_more_light_5:2 "Semi-Modern Frigate Hull"
-  ship_hull_more_light_5_desc:0 "As the cold war winds down, and the powers withdraw to their respective spheres of power, the frigate has become a versatile vessel. Designed as a threat to anything over and under the seas, when they act in support of other major vessels, they are dangerous."
+  ship_hull_more_light_5_desc:0 "As the Cold War winds down, and the powers withdraw to their respective spheres of power, the frigate has become a versatile vessel. Designed as a threat to anything over and under the seas, when they act in support of other major vessels, they are dangerous."
   ship_hull_more_light_6:2 "Modern Frigate Hull"
-  ship_hull_more_light_6_desc:0 "With the definitive end of the cold war, the frigate has been equipped with electronic countermeasures against missile guidance systems, making them a weak, if cheap ocean-going vessels for the new powers that rise from the ashes."
+  ship_hull_more_light_6_desc:0 "With the definitive end of the Cold War, the frigate has been equipped with electronic countermeasures against missile guidance systems, making them a weak, if cheap ocean-going vessels for the new powers that rise from the ashes."
  ### Frigates ###
 
  ### Destroyers ###

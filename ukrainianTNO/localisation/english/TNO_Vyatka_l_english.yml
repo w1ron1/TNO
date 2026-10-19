@@ -1,35 +1,8 @@
 ﻿l_english:
  ### Country Names ###
- VYT_communist: "Vyatka"
- VYT_communist_DEF: "Vyatka"
- VYT_socialist: "Vyatka"
- VYT_socialist_DEF: "Vyatka"
- VYT_progressivism: "Vyatka"
- VYT_progressivism_DEF: "Vyatka"
- VYT_liberalism: "Vyatka"
- VYT_liberalism_DEF: "the Principality of Vyatka"
- VYT_conservatism: "Vyatka"
- VYT_conservatism_DEF: "the Principality of Vyatka"
- VYT_paternalism: "Vyatka"
- VYT_paternalism_DEF: "the Principality of Vyatka"
- VYT_despotism: "Vyatka"
- VYT_despotism_DEF: "the Principality of Vyatka"
- VYT_fascism: "Vyatka"
- VYT_fascism_DEF: "Vyatka"
- VYT_national_socialism: "Vyatka"
- VYT_national_socialism_DEF: "Vyatka"
- VYT_ultranationalism: "Vyatka"
- VYT_ultranationalism_DEF: "Vyatka"
- VYT_communist_ADJ: "Vyatka"
- VYT_socialist_ADJ: "Vyatka"
- VYT_progressivism_ADJ: "Vyatka"
- VYT_liberalism_ADJ: "Vyatka"
- VYT_conservatism_ADJ: "Vyatka"
- VYT_paternalism_ADJ: "Vyatka"
- VYT_despotism_ADJ: "Vyatka"
- VYT_fascism_ADJ: "Vyatka"
- VYT_national_socialism_ADJ: "Vyatka"
- VYT_ultranationalism_ADJ: "Vyatka"
+ VYT: "Vyatka"
+ VYT_DEF: "the Principality of Vyatka"
+ VYT_ADJ: "Vyatka"
 
  ### Party Names ###
  VYT_communist_party: "ZRF"
@@ -40,6 +13,8 @@
  VYT_progressivism_party_long: "Rossiyskoye Narodnoye Dvizheniye"
  VYT_liberalism_party: "K-D"
  VYT_liberalism_party_long: "Konstitutsionno-Demokraticheskaya Partiya"
+ VYT_liberal_conservatism_party: "K-D"
+ VYT_liberal_conservatism_party_long: "Konstitutsionno-Demokraticheskaya Partiya"
  VYT_conservatism_party: "VNS"
  VYT_conservatism_party_long: "Vserossiyskiy Natsional'nyy Soyuz"
  VYT_paternalism_party: "NTS"
@@ -66,28 +41,28 @@
  VYT_Vladimir_Kharzhevsky_hog: "Vladimir Kharzhevsky"
  VYT_Vladimir_Kharzhevsky_hog_desc: "§YHead of Government\nAristocratic Conservatism§!\n--------------\n§LA veteran of both World Wars, Russian Civil War, and the West Russian War, Vladimir Kharzhevsky now sits at the right hand of the Tsar himself. Serving with Pytor Wrangel's front as a major general and commander of the Drozdovsky Division, he fled with Wrangel with his men into exile after their evacuation from Crimea, Vladimir bounced around Europe throughout the 20s and 30s aimlessly. He only truly gained a calling when Tsar Vladimir III proclaimed himself Tsar and agreed to work with the Germans. Moving to Germany, he soon sent an offer to the ROVS and was promptly reappointed as a major general and the newly revived Drozdovsky Regiment.\n\nVladimir served the Tsar faithfully, fighting with the ROVS and their German masters for over a decade. He even formed a close personal relationship with his monarch, becoming one of his closest political advisors. When the ROVS moved to break with the German lines and seize Vyatka during the tail end of the West Russian War the head of the ROVS, Alexei Aleksandrovich von Lampe, resigned from command due to his disagreeing of breaking relations with the Germans. This left Vladimir has the easy choice to succeed Alexei as leader of the ROVS and by extension, de facto Head of Government of the newly formed Principality of Vyatka.\n\nNow Vladimir sits at his Tsar's side, dispensing advise to his friend. Vladimir also finds himself exasperated at the bickering of the émigré factions, but whatever may happen with them, the Tsar will always have an ally in his most trusted friend.§!"
  VYT_Roman_Gul: "Roman Gul"
- VYT_Roman_Gul_for_desc: "§YForeign Minister\nLiberal Democracy§!\n--------------\n§LCan someone be both a White émigré and a liberal at the same time? Enter Roman Borisovich Gul, a veteran of both the First World War and the Russian Civil War who fought with Lavr Kornilov's Shock Regiment during the First Kuban Campaign, Gul emigrated to Berlin and became a liberal writer. This drew the ire of the Reich when they rose to power during the 1930s, and he was quickly thrown into a concentration camp for his writings. He barely escaped with his life from Germany into France and became the writer for several liberal émigré magazines. When the Germans successfully invaded France in 1941, Gul was forced into hiding to avoid being captured by the Germans, working in a glass factory and taking a new identity.\n\nWhen the Tsar officially gave his support to the Germans, Roman smelt an opportunity. Taking a gamble, Roman sent Tsar Vladimir a letter stating that in exchange for the Reich giving him a pardon, he would become the ROVS's propaganda minister. Appealing to the Germans, the Reich begrudgingly granted the Tsar's request and Roman became the propaganda minister for the entire ROVS.\n\nHowever, Roman never truly abandoned his liberal ideals nor his hatred to the vile Germans. When the opportunity presented itself for the Tsarists to break with the Germans and attempt to form their own state, Roman was a fierce advocate for it. When they finally took Vyatka, Roman and other like-minded émigrés reformed the old liberal monarchist Kadets, and has now become the most prominent liberal reformer in Vyatka with him having an ever fierce rivalry with the more reactionary factions. Time will tell if Vyatka will follow Gul's path, or if he will be left in the dust.§!"
+ VYT_Roman_Gul_for_desc: "§YForeign Minister\nOligarchic Liberalism§!\n--------------\n§LCan someone be both a White émigré and a liberal at the same time? Enter Roman Borisovich Gul, a veteran of both the First World War and the Russian Civil War who fought with Lavr Kornilov's Shock Regiment during the First Kuban Campaign, Gul emigrated to Berlin and became a liberal writer. This drew the ire of the Reich when they rose to power during the 1930s, and he was quickly thrown into a concentration camp for his writings. He barely escaped with his life from Germany into France and became the writer for several liberal émigré magazines. When the Germans successfully invaded France in 1941, Gul was forced into hiding to avoid being captured by the Germans, working in a glass factory and taking a new identity.\n\nWhen the Tsar officially gave his support to the Germans, Roman smelt an opportunity. Taking a gamble, Roman sent Tsar Vladimir a letter stating that in exchange for the Reich giving him a pardon, he would become the ROVS's propaganda minister. Appealing to the Germans, the Reich begrudgingly granted the Tsar's request and Roman became the propaganda minister for the entire ROVS.\n\nHowever, Roman never truly abandoned his liberal ideals nor his hatred to the vile Germans. When the opportunity presented itself for the Tsarists to break with the Germans and attempt to form their own state, Roman was a fierce advocate for it. When they finally took Vyatka, Roman and other like-minded émigrés reformed the old liberal monarchist Kadets, and has now become the most prominent liberal reformer in Vyatka with him having an ever fierce rivalry with the more reactionary factions. Time will tell if Vyatka will follow Gul's path, or if he will be left in the dust.§!"
  VYT_Evgeny_Messner: "Evgeny Messner"
  VYT_Evgeny_Messner_sec_desc: "§YSecurity Minister\nAristocratic Conservatism§!\n--------------\n§L§!"
 
  #LibDem
- VYT_Roman_Gul_hog_desc: "§YHead of Government\nLiberal Democracy§!\n--------------\n§L§!"
+ VYT_Roman_Gul_hog_desc: "§YHead of Government\nOligarchic Liberalism§!\n--------------\n§L§!"
  VYT_Boris_Pryanishnikov: "Boris Pryanishnikov"
- VYT_Boris_Pryanishnikov_for_desc: "§YForeign Minister\nNational Liberalism§!\n--------------\n§L§!"
+ VYT_Boris_Pryanishnikov_for_desc: "§YForeign Minister\nOligarchic Liberalism§!\n--------------\n§L§!"
  VYT_Igor_Birman: "Igor Birman"
- VYT_Igor_Birman_eco_desc: "§YEconomy Minister\nLiberal Democracy§!\n--------------\n§L§!"
+ VYT_Igor_Birman_eco_desc: "§YEconomy Minister\nOligarchic Liberalism§!\n--------------\n§L§!"
  VYT_Nikolay_Rumyantsev: "Nikolay Rumyantsev"
- VYT_Nikolay_Rumyantsev_sec_desc: "§YSecurity Minister\nLiberal Democracy§!\n--------------\n§L§!"
+ VYT_Nikolay_Rumyantsev_sec_desc: "§YSecurity Minister\nOligarchic Liberalism§!\n--------------\n§L§!"
  
  #ConDem
  VYT_Vasily_Shulgin: "Vasily Shulgin"
- VYT_Vasily_Shulgin_hog_desc: "§YHead of Government\nChristian Democracy§!\n--------------\n§L§!"
+ VYT_Vasily_Shulgin_hog_desc: "§YHead of Government\nOligarchic Conservatism§!\n--------------\n§L§!"
  VYT_Alexander_Kazembek: "Alexander Kazembek"
- VYT_Alexander_Kazembek_for_desc: "§YForeign Minister\nChristian Democracy§!\n--------------\n§L§!"
+ VYT_Alexander_Kazembek_for_desc: "§YForeign Minister\nOligarchic Conservatism§!\n--------------\n§L§!"
  VYT_Boris_Izhboldin: "Boris Izhboldin"
- VYT_Boris_Izhboldin_eco_desc: "§YEconomy Minister\nChristian Democracy§!\n--------------\n§L§!"
+ VYT_Boris_Izhboldin_eco_desc: "§YEconomy Minister\nOligarchic Conservatism§!\n--------------\n§L§!"
  VYT_Vladimir_Kharzhevsky: "Vladimir Kharzhevsky"
- VYT_Vladimir_Kharzhevsky_sec_desc: "§YSecurity Minister\nChristian Democracy§!\n--------------\n§L§!"
+ VYT_Vladimir_Kharzhevsky_sec_desc: "§YSecurity Minister\nOligarchic Conservatism§!\n--------------\n§L§!"
 
  #AuthDem
  VYT_Aleksandr_Solzhenitsyn: "Aleksandr Solzhenitsyn"
@@ -99,16 +74,16 @@
 
  #Special
  VYT_Boris_Smyslovsky: "Boris Smyslovsky"
- VYT_Boris_Smyslovsky_sec_desc: "§YSecurity Minister\n§!\n--------------\n§L§!"
+ VYT_Boris_Smyslovsky_sec_desc: "§YSecurity Minister\nPaternalistic Conservatism§!\n--------------\n§L§!"
 
  #Post-Onega Collapse
- VYT_Nikolay_Rumyantsev_hog_desc: "§YHead of Government\nLiberal Democracy§!\n--------------\n§L§!"
+ VYT_Nikolay_Rumyantsev_hog_desc: "§YHead of Government\nOligarchic Liberalism§!\n--------------\n§L§!"
  VYT_Leonid_Makerov: "Leonid Makerov"
- VYT_Leonid_Makerov_desc: "§YForeign Minister\nPaternalistic Conservatism§!\n--------------\n§L§!"
+ VYT_Leonid_Makerov_desc: "§YForeign Minister\nOligarchic Conservatism§!\n--------------\n§L§!"
  VYT_Nikolay_Pauzin: "Nikolay Pauzin"
- VYT_Nikolay_Pauzin_eco_desc: "§YEconomy Minister\nPaternalistic Conservatism§!\n--------------\n§L§!"
+ VYT_Nikolay_Pauzin_eco_desc: "§YEconomy Minister\nOligarchic Conservatism§!\n--------------\n§L§!"
  VYT_Georgey_Zagainov: "Georgiy Zagaynov"
- VYT_Georgey_Zagainov_sec_desc: "§YSecurity Minister\nLiberal Democracy§!\n--------------\n§L§!"
+ VYT_Georgey_Zagainov_sec_desc: "§YSecurity Minister\nOligarchic Liberalism§!\n--------------\n§L§!"
  
  # Generals
  VYT_Nikolay_Fyodorov: "Nikolay Fyodorov"
@@ -121,7 +96,6 @@
  VYT_Vladimir_Vygran: "Vladimir Vygran"
  VYT_Igor_Sakharov: "Igor Sakharov"
  VYT_Vladimir_Granitov: "Vladimir Granitov"
-# VYT_Vladimir_Kharzhevsky: "Vladimir Kharzhevsky" #duplicate loc key
  
  ### Leader Traits ###
  the_rightful_heir: "The Rightful Heir"
@@ -149,7 +123,7 @@
  VYT_imperial_detachment_idea_desc: "The Tsar's decision to preserve that intangible aspect of character critical to his role as a monarch, as well as to focus on matters of state rather than matters of publicity, has resulted in his personal withdrawal from many events, even as his person remains in the minds of all those present. While this is no doubt reassuring to many, who can be secure in the knowledge that their Tsar is fixing problems before they become apparent to society at large, making his position known to the public through functionaries does require additional efforts to be made."
 
  VYT_kirov_vodka: "Vyatka Vodka"
- VYT_kirov_vodka_desc: "The Vyatka distilleries are in full operation, producing enormous quantities of high-quality spirits that can be consumed at home, exported abroad, or used in medical and military settings as a high-quality antiseptic. Although it might seem humorous to some, vodka is a Russian staple, and with thoughts of an united motherland accompanying every bottle consumed, all are inspired to work harder and waste less in pursuit of the dream of unification."
+ VYT_kirov_vodka_desc: "The Vyatka distilleries are in full operation, producing enormous quantities of high-quality spirits that can be consumed at home, exported abroad, or used in medical and military settings as a high-quality antiseptic. Although it might seem humorous to some, vodka is a Russian staple, and with thoughts of a united motherland accompanying every bottle consumed, all are inspired to work harder and waste less in pursuit of the dream of unification."
 
  VYT_modern_age_okhrana: "A Modern Age Okhrana"
  VYT_modern_age_okhrana_desc: "The Tsar has wisely reconstituted the Okhrana, the Imperial intelligence and counter-revolutionary police force. With resources so dedicated, and with the knowledge that they shield the state from enemies both foreign and domestic, they will act to improve the state's cryptographic capabilities as well as minimize the operations of bandit and partisan strikes on its forces. In addition, and through the sharing of obtained information, they will also serve to better the tactical dispositions of military commanders in the field."
@@ -230,7 +204,7 @@
  VYT_revitalizing_the_russian_spirit_desc: "Efforts by the All-Russian National Union to remind the people of the spirit of Imperial trust that once pervaded the Empire have been successful. Already the state is observing an increase in self-sacrifice, dedication to hard work, and trust in the Tsar's government that has not been seen for decades."
 
  VYT_tsars_golden_purse_idea: "The Tsar's Golden Purse"
- VYT_tsars_golden_purse_idea_desc: "Personal investments, by the Tsar himself, in state industrial endeavors has had significant impact. Financed improvements have led to a direct and observable increase in economic efficiency and raw industral output. Though this cannot last forever, it is an exceptional boon for the near future."
+ VYT_tsars_golden_purse_idea_desc: "Personal investments, by the Tsar himself, in state industrial endeavors has had significant impact. Financed improvements have led to a direct and observable increase in economic efficiency and raw industrial output. Though this cannot last forever, it is an exceptional boon for the near future."
 
  VYT_ural_drive_program: "Ural Drive Program"
  VYT_ural_drive_program_desc: "The Ural Drive Program, focused on reconnecting the isolated communities and lands around the Urals to each other, has allowed for the application of considerable funds, attention, and other resources to infrastructure construction efforts across the state, greatly increasing their speed."
@@ -980,7 +954,7 @@
  VYT_redraw_municipal_borders_desc: "Our government, ably led by Prime Minister Shulgin, has already done much to bring peace and prosperity to the Empire while also ensuring the existence of a strong central administration. However, our control is far from secured, and this threatens to undo all the progress we have made.\n\nAn opportunity to address this has arisen during an upcoming review of voter districts. By adjusting the borders of certain districts, we can ensure a significant electoral advantage for the foreseeable future while also ensuring that democracy in Russia is preserved in full."
  
  VYT_work_programs_for_little_russians: "Work Programs for Little Russians"
- VYT_work_programs_for_little_russians_desc: "The 'Little Russians' are a large Ukranian minority who exist within our borders, comprised of those who have lived here for generations as well as those who have arrived after fleeing Nazi tyranny. Many have faced severe economic hardship for many years, and this state of affairs cannot be allowed to continue.\n\nAll Russians deserve gainful and appropriate employment, and the Little Russians are no exception. A specialized work program will ensure they are offered this opportunity, and prove to our many detractors that we care for the needs of the many varied minorities within our territory."
+ VYT_work_programs_for_little_russians_desc: "The 'Little Russians' are a large Ukrainian minority who exist within our borders, comprised of those who have lived here for generations as well as those who have arrived after fleeing Nazi tyranny. Many have faced severe economic hardship for many years, and this state of affairs cannot be allowed to continue.\n\nAll Russians deserve gainful and appropriate employment, and the Little Russians are no exception. A specialized work program will ensure they are offered this opportunity, and prove to our many detractors that we care for the needs of the many varied minorities within our territory."
  
  VYT_settler_incentives: "Settler Incentives"
  VYT_settler_incentives_desc: "Although our initiatives to expand the Empire's industrial base continue to show positive results, they have also resulted in a severe labor shortage which threatens to undo much of the progress made. Using previous successes as examples, it has been suggested that we promote the internal resettlement of Russians from areas where work is sparse to areas where industry is expanding, primarily within Tatarstan and Bashkiria.\n\nSuch a drive will not only act to reduce the pressure on labor within these lands, but will also encourage the practice of Russian culture and general assimilation among the present minorities. Laudable goals both, indeed."

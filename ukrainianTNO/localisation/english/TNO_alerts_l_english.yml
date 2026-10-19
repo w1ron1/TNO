@@ -1,6 +1,6 @@
 ﻿l_english:
 TNO_alert_tooltip: "§Y[Get_TNO_alert_name]§!"
-TNO_alert_desc: "§B[Get_TNO_alert_description]§!\n[!alert_click]\n§GRight-click to dismiss§!"
+TNO_alert_desc: "§B[Get_TNO_alert_description]§!\n[!alert_click]\n§GПравий клік, щоб закрити§!"
 
 TNO_alert_name_missing: "Ім'я не вказано"
 TNO_alert_desc_missing: "Опис відсутній"
@@ -8,39 +8,45 @@ TNO_alert_desc_missing: "Опис відсутній"
 ### ALERTS ###
 ## GENERAL ##
 Alert_UnallocatedPU: "Вільні виробничі одиниці"
-Alert_UnallocatedPU_Desc: "У вас є вільні виробничі одиниці, які можна використати."
+Alert_UnallocatedPU_Desc: "У нас є вільні §Gвиробничі одиниці§!, які можна розподілити."
 
 Alert_LostPU: "Втрачені виробничі одиниці"
-Alert_LostPU_Desc: "У зв'язку зі змінами в нашій економіці ви втратили виробничі одиниці порівняно з минулим місяцем. Можливо, ви захочете змінити свій розподіл."
+Alert_LostPU_Desc: "Через зміни в нашій економіці ми втратили §Gвиробничі одиниці§! порівняно з минулим місяцем. Ми можемо змінити їхній розподіл."
 
 Alert_FiscalCrisis: "Фіскальна криза на порозі"
-Alert_FiscalCrisis_Desc: "Фіскальна криза неминуча, оскільки наш борг досяг неприйнятного рівня.\nЦя фіскальна криза почнеться приблизно через §Y[?Months_Till_Fiscal]§!§B місяців."
+Alert_FiscalCrisis_Desc: "Фіскальна криза неминуча, оскільки наш борг досяг неприйнятного рівня.\n§RФіскальна криза почнеться приблизно через §Y[?Months_Till_Fiscal]§! §Bмісяців§!.§!"
 
 Alert_HighTension: "Висока напруженість між наддержавами"
-Alert_HighTension_Desc: "Наша напруженість з протилежною наддержавою §Rперевищує 90!§!"
+Alert_HighTension_Desc: "Наша напруженість із протилежною наддержавою §Rперевищує 90!§!"
 
-Alert_CGEmpty: "Дефіцит споживчих товарів!" 
-Alert_CGEmpty_Desc: "§Yзапаси§! споживчих товарів §Rпорожні§!\n"
+Alert_CGEmpty: "Дефіцит споживчих товарів!"
+Alert_CGEmpty_Desc: "Наші запаси §Yспоживчих товарів§! §Rпорожні.§!\n"
 
 Alert_Proxy_War_Active: "Глобальний(і) конфлікт(и) активний(і)"
-Alert_Proxy_War_Active_Desc: "У нас активні глобальний(і) конфлікт(и). Перевірте вкладку §YЗовнішня політика§! яка доступна у вкладці політика країни."
+Alert_Proxy_War_Active_Desc: "У нас активні глобальний(і) конфлікт(и). Перевірте вкладку §YЗовнішня політика§!, доступну через меню політики країни."
 
 Alert_CreditRating_Improved: "Кредитний рейтинг поліпшено"
 Alert_CreditRating_Improved_Desc: "Наш кредитний рейтинг покращився до [GetCreditRatingValue], що передбачає нижчі відсоткові ставки та вищу стелю боргу!"
 
 Alert_CreditRating_Degraded: "Кредитний рейтинг погіршився"
-Alert_CreditRating_Degraded_Desc: "Наш кредит погіршився до [GetCreditRatingValue], що спричиняє вищі відсоткові ставки та нижчу стелю боргу!"
+Alert_CreditRating_Degraded_Desc: "Наш кредитний рейтинг погіршився до [GetCreditRatingValue], що спричиняє вищі відсоткові ставки та нижчу стелю боргу!"
+
+Alert_Lacking_Power: "Загальнонаціональні відключення електроенергії"
+Alert_Lacking_Power_Desc: "Нам бракує достатньої кількості §Yелектроенергії мережі§!, щоб повністю використовувати наші §Gвиробничі одиниці§!.\n\nМи повинні генерувати більше §Yелектроенергії мережі§!, будуючи електростанції за допомогою §Gцивільних заводів§!, знижуючи §Oцивільне споживання§! у меню виробничих одиниць або знеструмлюючи деякі наші штати, натиснувши іконку §YПеремкнути електропостачання§! у меню інформації про штат.\n\nВикористання §Yполітики Центрального банку§! «Увімкнути електроенергію» також може допомогти покращити нашу ситуацію."
+
+Alert_Balanced_Power: "Загальнонаціональні відключення електроенергії на порозі"
+Alert_Balanced_Power_Desc: "За нашого поточного рівня §Yзростання ВВП§! ми рухаємося до §Rзагальнонаціональних відключень електроенергії§! протягом наступних 6 §Bмісяців§!.\n\nЩоб запобігти цьому, ми повинні генерувати більше §Yелектроенергії мережі§!, будуючи більше електростанцій за допомогою §Gцивільних заводів§!, знижуючи §Oцивільне споживання§! у меню виробничих одиниць або знеструмлюючи деякі наші штати, натиснувши іконку §YПеремкнути електропостачання§! у меню інформації про штат.\n\nВикористання §Yполітики Центрального банку§! «Увімкнути електроенергію» також може допомогти покращити нашу ситуацію."
 
 ## REICH ##
 # Bormann alerts
-Alert_KartenhausAction: "Доступна взаємодія з Картенхаусом"
-Alert_KartenhausAction_Desc: "Тепер ми можемо зробити ще одну акцію, спрямовану на одну з груп спеціальних інтересів."
+Alert_KartenhausAction: "Доступні взаємодії з Картенхаусом"
+Alert_KartenhausAction_Desc: "Тепер ми можемо здійснити ще одну акцію, спрямовану на одну з груп спеціальних інтересів."
 
 # Britain alerts
 Alert_SCO_ArmedForces_Paranoia: "Підозріла активність Збройних сил"
-Alert_SCO_ArmedForces_Paranoia_Desc: "Збройні сили Шотландії ведуть підозрілу діяльність, використовуйте меню «Рішення» для взаємодії з ситуацією."
+Alert_SCO_ArmedForces_Paranoia_Desc: "Збройні сили Шотландії ведуть підозрілу діяльність, використовуйте меню «Рішення» для взаємодії із ситуацією."
 
-Alert_ENG_Election: "Виборча діяльність доступна"
+Alert_ENG_Election: "Доступна виборча акція"
 Alert_ENG_Election_Desc: "Тепер ми можемо проводити політичну агітацію перед виборами."
 
 Alert_BRI_ChaosThreshold: "Поріг §RХаосу§! досягнуто"
@@ -48,78 +54,112 @@ Alert_BRI_ChaosThreshold_Desc: "Наш рівень Хаосу досяг нов
 
 # Ukraine alerts
 Alert_UKR_BreadBasket_GovControl: "Низький рівень державного контролю"
-Alert_UKR_BreadBasket_GovControl_Desc: "Повстанцям вдалося встановити контроль над більшістю територій у наступному(их) регіоні(ах)"
+Alert_UKR_BreadBasket_GovControl_Desc: "Повстанцям вдалося встановити більшість контролю над наступним(ими) регіоном(ами):"
 Alert_UKR_Breadbasket_GovControl_entry: "- §Y[?UKR_bb_map_array^temp_govcontrol_idx.GetName]§! ([?check_resistance_control:resistance_control^0|%%R0])"
 
 Alert_UKR_BreadBasket_ConsCycle: "Закінчення циклу споживання"
 Alert_UKR_BreadBasket_ConsCycle_Desc: "Цикл споживання незабаром закінчиться."
 
-Alert_UKR_BreadBasket_ActionAvailable: "Акція(ї) «Хлібниці» діє(ють)"
-Alert_UKR_BreadBasket_ActionAvailable_Desc: "У «Хлібниці» діє акція."
+Alert_UKR_BreadBasket_ActionAvailable: "Доступна акція «Хлібниці»"
+Alert_UKR_BreadBasket_ActionAvailable_Desc: "У «Хлібниці» доступна акція."
 
 Alert_UKR_BreadBasket_DecisiveRegionWarning: "Опозиційна група підбадьорена"
-Alert_UKR_BreadBasket_DecisiveRegionWarning_Desc: "Опозиційна група в «житниці» здобула достатній контроль у свойому вирішальному(их) регіоні(ах), що погіршує наслідки кожного циклу активності."
+Alert_UKR_BreadBasket_DecisiveRegionWarning_Desc: "Опозиційна група в «житниці» зібрала достатній контроль у своєму вирішальному(их) регіоні(ах), що погіршує наслідки кожного §eциклу активності§!."
 
 ## OFN ##
 # US alerts
-Alert_US_Election: "Кампанія доступна"
-Alert_US_Election_Desc: "Тепер ми можемо проводити передвиборчу кампанію, використовуючи ГІК щоб вибрати регіон, на якому ми хочемо зосередитися."
+Alert_US_Election: "Доступна кампанія"
+Alert_US_Election_Desc: "Тепер ми можемо проводити передвиборчу кампанію, використовуючи ГІК, щоб вибрати регіон, на якому ми хочемо зосередитися."
 
 ## LATAM ##
+# LATAM alerts
+Alert_LATAM_AndeanTreaty: "Доступні переговори щодо Трансандського договору"
+Alert_LATAM_AndeanTreaty_Desc: "Тепер ми можемо ухвалити рішення в новому раунді переговорів щодо Трансандського договору.\nВідкрийте інтерфейс глобальних конфліктів, щоб ухвалити рішення."
+
+Alert_LATAM_Mining_Wars: "Доступна акція у Війнах за видобуток"
+Alert_LATAM_Mining_Wars_Desc: "Тепер ми можемо ухвалити рішення у Війнах за видобуток.\nВідкрийте інтерфейс глобальних конфліктів, щоб ухвалити рішення."
+
+Alert_LATAM_Cayenne_Referendum: "Доступні рішення щодо референдуму в Каєнні"
+Alert_LATAM_Cayenne_Referendum_Desc: "Тепер ми можемо ухвалити рішення щодо референдуму в Каєнні.\nВідкрийте інтерфейс глобальних конфліктів, щоб ухвалити рішення."
+
+Alert_LATAM_Bush_War: "Доступна акція у Бушівській війні"
+Alert_LATAM_Bush_War_Desc: "Тепер ми можемо ухвалити рішення у Бушівській війні.\nВідкрийте інтерфейс глобальних конфліктів, щоб ухвалити рішення."
+
+Alert_LATAM_SACW_Tensions_Cooling: "Напруженість Південноамериканської холодної війни спала"
+Alert_LATAM_SACW_Tensions_Cooling_Desc: "Ефекти напруженості [GetSAColdWarTensionLevel] такі:\n[GetSAColdWarTensionLevelEffects]"
+
+Alert_LATAM_SACW_Tensions_Heating: "Напруженість Південноамериканської холодної війни зросла"
+Alert_LATAM_SACW_Tensions_Heating_Desc: "Ефекти напруженості [GetSAColdWarTensionLevel] такі:\n[GetSAColdWarTensionLevelEffects]"
+
+Alert_LATAM_SACW_Victory_Level_Change: "Рівень перемоги у Південноамериканській холодній війні змінився"
+Alert_LATAM_SACW_Victory_Level_Change_Desc: "Наразі ми маємо [GetSACWCWSPercentage] — §Yефекти§! цього такі:\n[GetSACWCWSPercentageEffects]"
+
 # Brazil alerts
-Alert_BRA_SenadoVoting: "Кампанія у Сенаті доступна"
-Alert_BRA_SenadoVoting_Desc: "Тепер ми можемо провести ще одну кампанію на виборах до Сенату."
+Alert_BRA_SenadoVoting: "Доступна кампанія в Сенаті"
+Alert_BRA_SenadoVoting_Desc: "Тепер ми можемо провести ще одну кампанію у виборах до Сенату."
 
 Alert_BRA_PresVoting: "Доступна президентська кампанія"
 Alert_BRA_PresVoting_Desc: "Тепер ми можемо провести ще одну кампанію в президентських перегонах."
 
 Alert_BRA_PLVoting: "Голосування в Сенаті активне"
-Alert_BRA_PLVoting_Desc: "[BRA_pl_current_bill] знаходиться на голосуванні в Сенаті, скористайтеся меню «Рішення», щоб домовитися про голосування."
+Alert_BRA_PLVoting_Desc: "[BRA_pl_current_bill] зараз виноситься на голосування в Сенаті, скористайтеся меню «Рішення», щоб домовитися про голоси."
 
-Alert_BRA_Development: "Указ про розвиток доступний"
-Alert_BRA_Development_Desc: "Тепер ми можемо прийняти ще один указ про розвиток."
+Alert_BRA_Development: "Доступний указ про розвиток"
+Alert_BRA_Development_Desc: "Тепер ми можемо ухвалити ще один указ про розвиток."
 
 Alert_MEX_Project: "Проєкт доступний"
 Alert_MEX_Project_Desc: "§gМи можемо розпочати роботу над новими проєктами у наступних напрямках§! §Y[?MEX_region_project_alert_array^num]§! §g[GetMEXEconProjectAlertRegions]: §!"
 Alert_MEX_Project_entry: "- §g[GetMEXEconRegionName]§!"
 
+Alert_MEX_Debt: "Рівень боргу на порозі"
+Alert_MEX_Debt_Desc: "§gНаступний(і) регіон(и) використовує(ють) 90% або більше своєї боргової спроможності: §!"
+Alert_MEX_Debt_entry: "- §g[GetMEXEconRegionName]§!"
+
 ## MEDITERRANEAN ##
 # Italy alerts
-Alert_GreatGame: "Новий великий ігровий поворот"
-Alert_GreatGame_Desc: "Розпочався новий Великий ігровий поворот, використовуйте меню «Рішення», щоб маніпулювати ситуацією на свою користь."
+Alert_GreatGame: "Новий хід Великої гри"
+Alert_GreatGame_Desc: "Розпочався новий хід Великої гри, використовуйте меню «Рішення», щоб маніпулювати ситуацією на свою користь."
 
 # Iberia alerts
-Alert_AAS_Resources: "AAS Resources Available"
+Alert_AAS_Resources: "Доступні ресурси AAS"
+Alert_AAS_Resources_Desc: "AAS отримала нові ресурси для знищення сепаратистської загрози, використовуйте екран AAS, щоб керувати ними."
 
-Alert_AAS_Resources_Desc: "The AAS has new resources to crush the separatist menace, use the AAS screen to manage them."
+Alert_IBR_Wars_request_accepted: "Запит на допомогу прийнято"
+Alert_IBR_Wars_request_accepted_Desc: "[?alert_data.GetNameWithFlag] прийняла та надіслала наш запит на допомогу.\nТепер ми можемо зробити ще один запит на допомогу."
+Alert_IBR_Wars_request_rejected: "Запит на допомогу відхилено"
+Alert_IBR_Wars_request_rejected_Desc: "[?alert_data.GetNameWithFlag] відхилила наш запит на допомогу.\nТепер ми можемо зробити ще один запит на допомогу."
 
 ## MIDDLE EAST ##
 
 ## AFRICA ##
 
-Alert_AAS_Resources_Desc: "The AAS has new resources to crush the separatist men
-
 ## RUSSIA ##
 # Smuta alerts
-Alert_RUS_Smuta_Chaos: "Критичний рівень £smuta_chaos §RЦивільний Хаос§!!"
-Alert_RUS_Smuta_Chaos_Desc: "У нас є більш ніж §Y250§! £smuta_chaos §RЦивільногу хасосу§! у £smuta §fСмуті§!! Це позбавляє нас можливості вибирати рішення про розширення, навіть якщо у нас достатньо запасів."
+Alert_RUS_Smuta_Chaos: "Критичний рівень £smuta_chaos §RЦивільного Хаосу§!!"
+Alert_RUS_Smuta_Chaos_Desc: "У нас понад §Y250§! £smuta_chaos §RЦивільного Хаосу§! у £smuta §fкатегорії рішень «Смута»§!!\nЦе не дозволяє нам атакувати інших §fКонкурентів§!, навіть якщо у нас достатньо припасів."
 
-Alert_RUS_Smuta_Supplies: "£smuta_supplies §sВійськові припаси§! Зібрано"
-Alert_RUS_Smuta_Supplies_Desc: "Понад §Y80%§! £smuta_supplies §sВійськових припасів§! у £smuta §fСмуті§!! Що дає нам можливість обирати рішення щодо розширення, якщо вони будуть доступні."
+Alert_RUS_Smuta_Supplies: "£smuta_supplies §sВійськові припаси§! накопичено"
+Alert_RUS_Smuta_Supplies_Desc: "У нас понад §Y80%§! £smuta_supplies §sВійськових припасів§! у £smuta §fкатегорії рішень «Смута»§!!\nЦе дозволяє нам атакувати інших §fКонкурентів§!."
 
 Alert_RUS_Smuta_War: "Чутки про напад!"
-Alert_RUS_Smuta_War_Desc: "Сусідний §fКонкурент§! почав готувати §Rвійну§! проти нас. Ми не знаємо що це за §fКонкурент§!."
+Alert_RUS_Smuta_War_Desc: "Сусідній §fКонкурент§! почав готувати §Rвійну§! проти нас. Ми не знаємо, який саме §fКонкурент§! це робить."
 
 ## ASIA ##
 # Guangdong alerts
 Alert_GNG_LegCo_Bill: "Законопроєкт на голосуванні у §SLegCo§!"
 Alert_GNG_LegCo_Bill_Desc: "§FНаразі ми голосуємо за [GNG_legco_bill_tooltip_dynamic_current] [GNG_get_legco_current_bill_tooltip]§! у £GNG_legco_texticon §SЗаконодавчій раді§!.§!"
 
-Alert_GNG_Product_Cycle: "§YПродуктивчий цикл§! у дії"
-Alert_GNG_Product_Cycle_Desc: "§FНаразі ми субсидуємо §m[GNG_products_current_product_title]§! від [GNG_get_product_cycle_company].§!"
+Alert_GNG_Product_Cycle: "§YЦикл виробництва§! активний"
+Alert_GNG_Product_Cycle_Desc: "§FНаразі ми субсидуємо §m[GNG_products_current_product_title]§! компанії [GNG_get_product_cycle_company].§!"
 
-Alert_GNG_Economy_Check_Soon: "§YЕкономічна перевірка§! §RНезабаром§!"
-Alert_GNG_Economy_Check_Soon_Desc: "§FМенш ніж за §Yдва місяці§!, ми повинні мати §YіВВП§! у розмірі §Y[?GNG_GDP_Goal|2]B§!.§!"
+Alert_GNG_Economy_Check_Soon: "§YЕкономічна перевірка§! §Rнезабаром§!"
+Alert_GNG_Economy_Check_Soon_Desc: "§FМенш ніж за §Yдва місяці§!, ми повинні мати §YВВП§! у розмірі §Y[?GNG_GDP_Goal|2]B§!.§!"
 
-Alert_GNG_PTRG: "§YГТДП§! Активне"
-Alert_GNG_PTRG_Desc: "§FНаразі §YГТДП§! §Yактивно в службі§!.§!"
+Alert_GNG_PTRG: "§YГТДП§! активно"
+Alert_GNG_PTRG_Desc: "§F§YГТДП§! наразі §Yактивне на службі§!.§!"
+
+## ANTARCTICA ##
+Alert_ODF_Task_Forces: "Інформація про оперативні групи"
+Alert_ODF_Task_Forces_Desc: "У нас є [?Antarctic_Intelligence_Agents_Free] оперативних груп, доступних для використання в ГІК системи «Сітка».\n"
+Alert_ODF_Low_Stat: "Низький показник"
+Alert_ODF_Low_Stat_Desc: "Один із наших показників (мілітаризація, легітимність або постачання) нижчий за 25.\n"

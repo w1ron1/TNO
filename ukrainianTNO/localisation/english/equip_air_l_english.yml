@@ -375,25 +375,7 @@ l_english:
   cv_mca_equipment_2:0 "Modern Multirole CV"
   cv_mca_equipment_2_desc:0 "Our improvements in multi-role land based aircraft can be applied to our naval air arm as well. Newer electronics and avionics will make our naval aircraft capable of any task we give them."
   cv_mca_equipment_2_short:0 "Modern MCA CV"
- ### Multi-Role Combat Aircraft ###
-
- ### Stealth Fighter ###
-  light_stealth_equipment:0 "Stealth Fighter"
-  light_stealth:0 "Stealth Fighter"
-  light_stealth_equipment_desc:0 "Stealth Fighter"
-  
-  # 1980
-  light_stealth_equipment_1:0 "Semi-Modern Stealth Fighter"
-  light_stealth_equipment_1_desc:0 "By utilizing new flight computer designs, as well as new advancements in radiation-absorbing materials, we may now design a light aircraft that is virtually undetectable to any radar scan. As most early-warning and aircraft detection systems are based off of radar, this aircraft will be able to perform missions virtually unseen."
-  light_stealth_equipment_1_short:0 "Semi-Modern Stealth Fighter"
-
-  # 1990
-  light_stealth_equipment_2:0 "Modern Stealth Fighter"
-  light_stealth_equipment_2_desc:0 "Previously, due to their angular, non-aerodynamic shape, our stealth fighters have been limited to subsonic speeds, but through new advancements in technology, we will be able to construct stealthy fighter aircraft easily on par with their most advanced, non-stealth counterparts."
-  light_stealth_equipment_2_short:0 "Modern Stealth Fighter"
- ### Stealth Fighter ###
-#### Light Aircraft ####
-
+ 
 #|=======================================================|#
 #| #       #  #########  #########  #       #  #       # |#
 #| #       #  #          #       #  #       #  #       # |#
@@ -518,34 +500,6 @@ l_english:
   jet_tac_bomber_equipment_5:0 "Modern Jet Tactical Bomber"
   jet_tac_bomber_equipment_5_desc:0 "The addition of advanced new technology allows these large and unwieldy planes actually have a chance of returning to their bases alive. Coupled with improvements in stealth technology, it will help to reduce the cost of replenishing our fleet, and keep the fire raining down."
   jet_tac_bomber_equipment_5_short:0 "Modern Jet Tactical Bomber"
- ### Tactical Bomber ###
- 
- ### Stealth Bombers ###
-  tac_stealth_equipment:0 "Stealth Tactical Bomber"
-  tac_stealth_equipment_desc:0 "Stealth Tactical Bomber"
-  strat_stealth_equipment:0 "Stealth Strategic Bomber"
-  strat_stealth_equipment_desc:0 "Stealth Strategic Bomber"
- 
-  # 1980 - Tactical
-  tac_stealth_equipment_1:0 "Semi-Modern Stealth Tactical Bomber"
-  tac_stealth_equipment_1_desc:0 "Using a combination of reduced acoustic, infrared, visual, and radar signatures to avoid detection, these tactical bombers are designed as supporting aircraft in areas with dense anti-aircraft defenses."
-  tac_stealth_equipment_1_short:0 "Semi-Modern Stealth Tactical Bomber"
-
-  # 1990 - Tactical
-  tac_stealth_equipment_2:0 "Modern Stealth Tactical Bomber"
-  tac_stealth_equipment_2_desc:0 "Various improvements to the methods of concealment has made this aircraft more versatile and more effective in executing precision strikes against targets that possess greater anti-aircraft measures."
-  tac_stealth_equipment_2_short:0 "Modern Stealth Tactical Bomber"
-
-  # 1980 - Strategic
-  strat_stealth_equipment_1:0 "Semi-Modern Stealth Strategic Bomber"
-  strat_stealth_equipment_1_desc:0 "While the reputation of Strategic Air Bombers is certainly not one of subtlety and stealth, the time has come to make it possible. With prototypes of radar jamming systems and resistant designs already showing promise, we have a chance to build a fleet of invisible and undetectable planes to strike terror into the hearts of our enemies."
-  strat_stealth_equipment_1_short:0 "Semi-Modern Stealth Strategic Bomber"
-
-  # 1990 - Strategic
-  strat_stealth_equipment_2:0 "Modern Stealth Strategic Bomber"
-  strat_stealth_equipment_2_desc:0 "The bomber that may fly over the enemy's capital, sight unseen, until it drops its payload and dispersals back into the darkness has been long regarded as science fiction myth. Until now, that is."
-  strat_stealth_equipment_2_short:0 "Modern Stealth Strategic Bomber"
- ### Stealth Bombers ###
 
  ### Transport Planes ###
   transport_plane_equipment:0 "Transport Plane"

@@ -1,13 +1,13 @@
 ﻿l_english:
  ### Country Names ###
- BMB: "Bemba Kingdom"
- BMB_DEF: "the Bemba Kingdom"
- BMB_ADJ: "BaBemba"
- 
+ BMB: "Королівство Бемба"
+ BMB_DEF: "Королівство Бемба"
+ BMB_ADJ: "Бабембськ."
+
  ### Parties ###
- BMB_despotism_party: "33rd Citimukulu"
- BMB_despotism_party_long: "33rd Citimukulu"
+ BMB_despotism_party: "33-й Читімукулу"
+ BMB_despotism_party_long: "33-й Читімукулу"
 
  ### Characters ###
- BMB_Kafula_Musungu_Citimukulu_XXXIV: "Kafula Musungu Citimukulu XXXIV"
+ BMB_Kafula_Musungu_Citimukulu_XXXIV: "Кафула Мусунґу Читімукулу XXXIV"
  

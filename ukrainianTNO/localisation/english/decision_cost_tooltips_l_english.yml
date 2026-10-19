@@ -1,51 +1,112 @@
 ﻿l_english:
 
- decision_cost_cp_dynamic: "£command_power §Y[?t_cp_check]§!"
- decision_cost_cp_dynamic_blocked: "£command_power §R[?t_cp_check]§!"
+ decision_cost_army_xp_dynamic: "£army_experience [?t_army_xp|Y0]"
+ decision_cost_army_xp_dynamic_blocked: "£army_experience [?t_army_xp|R0]"
+ decision_cost_army_xp_dynamic_tooltip: "§FIt costs £army_experience [?t_army_xp|Y0] to take this decision§!"
 
- decision_cost_cp_pp_dynamic: "£command_power §Y[?t_cp_check]§! £political_power_texticon §Y[?t_pp_check]§!"
- decision_cost_cp_pp_dynamic_blocked: "£command_power §R[?t_cp_check]§! £political_power_texticon §R[?t_pp_check]§!"
+ decision_cost_navy_xp_dynamic: "£navy_experience [?t_navy_xp|Y0]"
+ decision_cost_navy_xp_dynamic_blocked: "£navy_experience [?t_navy_xp|R0]"
+ decision_cost_navy_xp_dynamic_tooltip: "§FIt costs £navy_experience [?t_navy_xp|Y0] to take this decision§!"
 
- decision_cost_cp_inf_eq_dynamic: "£command_power §Y[?t_cp_check]§! £weapon_icon §Y[?t_inf_eq_check]§!"
- decision_cost_cp_inf_eq_dynamic_blocked: "£command_power §R[?t_cp_check]§! £weapon_icon §R[?t_inf_eq_check]§!"
+ decision_cost_air_xp_dynamic: "£air_experience [?t_air_xp|Y0]"
+ decision_cost_air_xp_dynamic_blocked: "£air_experience [?t_air_xp|R0]"
+ decision_cost_air_xp_dynamic_tooltip: "§FIt costs £air_experience [?t_air_xp|Y0] to take this decision§!"
 
- decision_cost_pp_inf_eq_dynamic: "£political_power_texticon §Y[?t_pp_check]§! £weapon_icon §Y[?t_inf_eq_check]§!"
- decision_cost_pp_inf_eq_dynamic_blocked: "£political_power_texticon §R[?t_pp_check]§! £weapon_icon §R[?t_inf_eq_check]§!"
+ decision_cost_cp_dynamic: "£command_power [?t_cp_check|Y0]"
+ decision_cost_cp_dynamic_blocked: "£command_power [?t_cp_check|R0]"
+ decision_cost_cp_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0] to take this decision§!"
 
- decision_cost_pp_m_dynamic: "£political_power_texticon §Y[?t_pp_check]§! §Y$$[?t_m_check]M§!"
- decision_cost_pp_m_dynamic_blocked: "£political_power_texticon §R[?t_pp_check]§! §R$$[?t_m_check]M§!"
+ decision_cost_cp_pp_dynamic: "£command_power [?t_cp_check|Y0] £political_power_texticon [?t_pp_check|Y0]"
+ decision_cost_cp_pp_dynamic_blocked: "£command_power [?t_cp_check|R0] £political_power_texticon [?t_pp_check|R0]"
+ decision_cost_cp_pp_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0] and £political_power_texticon [?t_pp_check|Y0] to take this decision§!"
+
+ decision_cost_cp_inf_eq_dynamic: "£command_power [?t_cp_check|Y0] £weapon_icon [?t_inf_eq_check|Y0]"
+ decision_cost_cp_inf_eq_dynamic_blocked: "£command_power [?t_cp_check|R0] £weapon_icon [?t_inf_eq_check|R0]"
+ decision_cost_cp_inf_eq_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0] and £weapon_icon [?t_inf_eq_check|Y0] to take this decision§!"
+
+ decision_cost_pp_inf_eq_dynamic: "£political_power_texticon [?t_pp_check|Y0] £weapon_icon [?t_inf_eq_check|Y0]"
+ decision_cost_pp_inf_eq_dynamic_blocked: "£political_power_texticon [?t_pp_check|R0] £weapon_icon [?t_inf_eq_check|R0]"
+ decision_cost_pp_inf_eq_dynamic_tooltip: "§FIt costs £political_power_texticon [?t_pp_check|Y0] and £weapon_icon [?t_inf_eq_check|Y0] to take this decision§!"
+
+ decision_cost_pp_m_dynamic: "£political_power_texticon [?t_pp_check|Y0] §Y$$[?t_m_check]M§!"
+ decision_cost_pp_m_dynamic_blocked: "£political_power_texticon [?t_pp_check|R0] §R$$[?t_m_check]M§!"
+ decision_cost_pp_m_dynamic_tooltip: "§FIt costs £political_power_texticon [?t_pp_check|Y0] and §Y$$[?t_m_check]M§! to take this decision§!"
 
  decision_cost_m_dynamic: "§Y$$[?t_m_check]M§!"
  decision_cost_m_dynamic_blocked: "§R$$[?t_m_check]M§!"
+ decision_cost_m_dynamic_tooltip: "§FIt costs §Y$$[?t_m_check]M§! to take this decision§!"
 
- decision_cost_inf_eq_dynamic: "£weapon_icon §Y[?t_inf_eq_check]§!"
- decision_cost_inf_eq_dynamic_blocked: "£weapon_icon §R[?t_inf_eq_check]§!"
+ decision_cost_cp_m_dynamic: "£command_power [?t_cp_check|Y0] §Y$$[?t_m_check]M§!"
+ decision_cost_cp_m_dynamic_blocked: "£command_power [?t_cp_check|R0] §R$$[?t_m_check]M§!"
+ decision_cost_cp_m_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0] and §Y$$[?t_m_check]M§! to take this decision§!"
 
- decision_cost_PP_infiltration_cp: "£command_power §Y[?PPI_infiltration_cost]§!"
- decision_cost_PP_infiltration_cp_blocked: "£command_power §R[?PPI_infiltration_cost]§!"
+ decision_cost_cp_pp_m_dynamic: "£command_power [?t_cp_check|Y0] £political_power_texticon [?t_pp_check|Y0] §Y$$[?t_m_check]M§!"
+ decision_cost_cp_pp_m_dynamic_blocked: "£command_power [?t_cp_check|R0] £political_power_texticon [?t_pp_check|R0] §R$$[?t_m_check]M§!"
+ decision_cost_cp_pp_m_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0], £political_power_texticon [?t_pp_check|Y0], and §Y$$[?t_m_check]M§! to take this decision§!"
 
- decision_cost_PP_counteract_cp: "£command_power §Y[?PPI_counteract_cost]§!"
- decision_cost_PP_counteract_cp_blocked: "£command_power §R[?PPI_counteract_cost]§!"
+ decision_cost_inf_eq_dynamic: "£weapon_icon [?t_inf_eq_check|Y0]"
+ decision_cost_inf_eq_dynamic_blocked: "£weapon_icon [?t_inf_eq_check|R0]"
+ decision_cost_inf_eq_dynamic_tooltip: "§FIt costs £weapon_icon [?t_inf_eq_check|Y0] to take this decision§!"
+
+ decision_cost_convoys_dynamic: "£GFX_convoy_texticon [?t_convoy_check|Y0]"
+ decision_cost_convoys_dynamic_blocked: "£GFX_convoy_texticon [?t_convoy_check|R0]"
+ decision_cost_convoys_dynamic_tooltip: "§FIt costs £GFX_convoy_texticon [?t_convoy_check|Y0] to take this decision§!"
+
+ decision_cost_cp_convoys_dynamic: "£command_power [?t_cp_check|Y0] £GFX_convoy_texticon [?t_convoy_check|Y0]"
+ decision_cost_cp_convoys_dynamic_blocked: "£command_power [?t_cp_check|R0] £GFX_convoy_texticon [?t_convoy_check|R0]"
+ decision_cost_cp_convoys_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0] and £GFX_convoy_texticon [?t_convoy_check|Y0] to take this decision§!"
+
+ decision_cost_cp_pp_convoys_dynamic: "£command_power [?t_cp_check|Y0] £political_power_texticon [?t_pp_check|Y0] £GFX_convoy_texticon [?t_convoy_check|Y0]"
+ decision_cost_cp_pp_convoys_dynamic_blocked: "£command_power [?t_cp_check|R0] £political_power_texticon [?t_pp_check|R0] £GFX_convoy_texticon [?t_convoy_check|R0]"
+ decision_cost_cp_pp_convoys_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0], £political_power_texticon [?t_pp_check|Y0], and £GFX_convoy_texticon [?t_convoy_check|Y0] to take this decision§!"
+
+ decision_cost_cp_pp_inf_eq_dynamic: "£command_power [?t_cp_check|Y0] £political_power_texticon [?t_pp_check|Y0] £weapon_icon [?t_inf_eq_check|Y0]"
+ decision_cost_cp_pp_inf_eq_dynamic_blocked: "£command_power [?t_cp_check|R0] £political_power_texticon [?t_pp_check|R0] £weapon_icon [?t_inf_eq_check|R0]"
+ decision_cost_cp_pp_inf_eq_dynamic_tooltip: "§FIt costs £command_power [?t_cp_check|Y0], £political_power_texticon [?t_pp_check|Y0], and £weapon_icon [?t_inf_eq_check|Y0] to take this decision§!"
+
+ decision_cost_PP_infiltration_cp: "£command_power [?PPI_infiltration_cost|Y0]"
+ decision_cost_PP_infiltration_cp_blocked: "£command_power [?PPI_infiltration_cost|R0]"
+ decision_cost_PP_infiltration_cp_tooltip: "§FIt costs £command_power [?PPI_infiltration_cost|Y0] to take this decision§!"
+
+ decision_cost_PP_counteract_cp: "£command_power [?PPI_counteract_cost|Y0]"
+ decision_cost_PP_counteract_cp_blocked: "£command_power [?PPI_counteract_cost|R0]"
+ decision_cost_PP_counteract_cp_tooltip: "§FIt costs £command_power [?PPI_counteract_cost|Y0] to take this decision§!"
 
  decision_cost_2_cp_5_pp: "£command_power §Y2§! £political_power_texticon §Y5§!"
  decision_cost_2_cp_5_pp_blocked: "£command_power §R2§! £political_power_texticon §R5§!"
+ decision_cost_2_cp_5_pp_tooltip: "§FIt costs £command_power §Y2§! and £political_power_texticon §Y5§! to take this decision§!"
 
  decision_cost_3_cp: "£command_power §Y3§!"
  decision_cost_3_cp_blocked: "£command_power §R3§!"
+ decision_cost_3_cp_tooltip: "§FIt costs £command_power §Y3§! to take this decision§!"
 
  decision_cost_5_cp: "£command_power §Y5§!"
  decision_cost_5_cp_blocked: "£command_power §R5§!"
+ decision_cost_5_cp_tooltip: "§FIt costs £command_power §Y5§! to take this decision§!"
+
+ decision_cost_5_cp_50_sup_eq: "£command_power §Y5§! £support_eq_texticon §Y50§!"
+ decision_cost_5_cp_50_sup_eq_blocked: "£command_power §R5§! £support_eq_texticon §R50§!"
+ decision_cost_5_cp_50_sup_eq_tooltip: "§FIt costs £command_power §Y5§! and £support_eq_texticon §Y50§! to take this decision§!"
+
+ decision_cost_5_cp_100_inf_eq_50_sup_eq: "£command_power §Y5§! £weapon_icon §Y100§! £support_eq_texticon §Y50§!"
+ decision_cost_5_cp_100_inf_eq_50_sup_eq_blocked: "£command_power §R5§! £weapon_icon §R100§! £support_eq_texticon §R50§!"
+ decision_cost_5_cp_100_inf_eq_50_sup_eq_tooltip: "§FIt costs £command_power §Y5§!, £weapon_icon §Y100§!, and £support_eq_texticon §Y50§! to take this decision§!"
+
  decision_cost_5_cp_35_pp_1000_inf_eq: "£command_power §Y5§! £political_power_texticon §Y35§! £weapon_icon §Y1000§!"
  decision_cost_5_cp_35_pp_1000_inf_eq_blocked: "£command_power §R5§! £political_power_texticon §R35§! £weapon_icon §R1000§!"
+ decision_cost_5_cp_35_pp_1000_inf_eq_tooltip: "§FIt costs £command_power §Y5§!, £political_power_texticon §Y35§!, and £weapon_icon §Y1000§! to take this decision§!"
 
  decision_cost_10_pp_500_inf_eq: "£political_power_texticon §Y10§! £weapon_icon §Y500§!"
  decision_cost_10_pp_500_inf_eq_blocked: "£political_power_texticon §R10§! £weapon_icon §R500§!"
+ decision_cost_10_pp_500_inf_eq_tooltip: "§FIt costs £political_power_texticon §Y10§! and £weapon_icon §Y500§! to take this decision§!"
 
  decision_cost_10_cp: "£command_power §Y10§!"
  decision_cost_10_cp_blocked: "£command_power §R10§!"
+ decision_cost_10_cp_tooltip: "§FIt costs £command_power §Y10§! to take this decision§!"
 
  decision_cost_15_cp: "£command_power §Y15§!"
  decision_cost_15_cp_blocked: "£command_power §R15§!"
+ decision_cost_15_cp_tooltip: "§FIt costs £command_power §Y15§! to take this decision§!"
  decision_cost_15_cp_5_pp: "£command_power §Y15§! £political_power_texticon §Y5§!"
  decision_cost_15_cp_5_pp_blocked: "£command_power §R15§! £political_power_texticon §R5§!"
  decision_cost_15_cp_35_pp_500_inf_eq: "£command_power §Y15§! £political_power_texticon §Y35§! £weapon_icon §Y500§!"
@@ -53,24 +114,28 @@
 
  decision_cost_4_cp_120_inf_eq: "£command_power §Y4§! £weapon_icon §Y120§!" # TODO add a dynamic one
  decision_cost_4_cp_120_inf_eq_blocked: "£command_power §R4§! £weapon_icon §R120§!"
- decision_cost_5_cp_250_inf_eq: "£command_power §Y5§! £weapon_icon §Y250§!" # TODO add a dynamic one
+ decision_cost_5_cp_100_inf_eq_10_m: "£command_power §Y5§! §Y$$10M§! £weapon_icon §Y100§!"
+ decision_cost_5_cp_100_inf_eq_10_m_blocked: "£command_power §R5§! §R$$10M§! £weapon_icon §R100§!"
+ decision_cost_5_cp_250_inf_eq: "£command_power §Y5§! £weapon_icon §Y100§!" # TODO add a dynamic one
  decision_cost_5_cp_250_inf_eq_blocked: "£command_power §R5§! £weapon_icon §R250§!"
+ decision_cost_5_cp_750_inf_eq: "£command_power §Y5§! £weapon_icon §Y750§!"
+ decision_cost_5_cp_750_inf_eq_blocked: "£command_power §R5§! £weapon_icon §R750§!"
+ decision_cost_5_cp_1000_inf_eq: "£command_power §Y5§! £weapon_icon §Y1000§!"
+ decision_cost_5_cp_1000_inf_eq_blocked: "£command_power §R5§! £weapon_icon §R1000§!"
  decision_cost_10_cp_500_inf_eq: "£command_power §Y10§! £weapon_icon §Y500§!"
  decision_cost_10_cp_500_inf_eq_blocked: "£command_power §R10§! £weapon_icon §R500§!"
  decision_cost_10_cp_750_inf_eq: "£command_power §Y10§! £weapon_icon §Y750§!"
  decision_cost_10_cp_750_inf_eq_blocked: "£command_power §R10§! £weapon_icon §R750§!"
  decision_cost_10_cp_1000_inf_eq: "£command_power §Y10§! £weapon_icon §Y1000§!"
  decision_cost_10_cp_1000_inf_eq_blocked: "£command_power §R10§! £weapon_icon §R1000§!"
+ decision_cost_10_cp_2000_inf_eq: "£command_power §Y10§! £weapon_icon §Y2000§!"
+ decision_cost_10_cp_2000_inf_eq_blocked: "£command_power §R10§! £weapon_icon §R2000§!"
  decision_cost_15_cp_2000_inf_eq: "£command_power §Y15§! £weapon_icon §Y2000§!"
  decision_cost_15_cp_2000_inf_eq_blocked: "£command_power §R15§! £weapon_icon §R2000§!"
  decision_cost_25_cp_750_inf_eq: "£command_power §Y25§! £weapon_icon §Y750§!"
  decision_cost_25_cp_750_inf_eq_blocked: "£command_power §R25§! £weapon_icon §R750§!"
  decision_cost_15_cp_150_at: "£command_power §Y15§! £weapon_icon §Y150§!"
  decision_cost_15_cp_150_at_blocked: "£command_power §R15§! £weapon_icon §R150§!"
- decision_cost_5_cp_1000_inf_eq: "£command_power §Y5§! £weapon_icon §Y1000§!"
- decision_cost_5_cp_1000_inf_eq_blocked: "£command_power §R5§! £weapon_icon §R1000§!"
- decision_cost_10_cp_2000_inf_eq: "£command_power §Y10§! £weapon_icon §Y2000§!"
- decision_cost_10_cp_2000_inf_eq_blocked: "£command_power §R10§! £weapon_icon §R2000§!"
 
  decision_cost_20_cp: "£command_power §Y20§!"
  decision_cost_20_cp_blocked: "£command_power §R20§!"
@@ -238,6 +303,9 @@
 
  decision_cost_5_m_15_pp: "§Y$$5M§! £political_power_texticon §Y15§!"
  decision_cost_5_m_15_pp_blocked: "§R$$5M§! £political_power_texticon §R15§!"
+ 
+ decision_cost_50_m_10_pp: "§Y$$50M§! £political_power_texticon §Y10§!"
+ decision_cost_50_m_10_pp_blocked: "§R$$50M§! £political_power_texticon §R10§!"
 
  decision_cost_50_m_15_pp: "§Y$$50M§! £political_power_texticon §Y15§!"
  decision_cost_50_m_15_pp_blocked: "§R$$50M§! £political_power_texticon §R15§!"
@@ -247,6 +315,9 @@
 
  decision_cost_25_m_10_cp: "§Y$$25M§! £command_power §Y10§!"
  decision_cost_25_m_10_cp_blocked: "§R$$25M§! £command_power §R10§!"
+
+ decision_cost_50_m_10_cp: "§Y$$50M§! £command_power §Y10§!"
+ decision_cost_50_m_10_cp_blocked: "§R$$50M§! £command_power §R10§!"
 
  decision_cost_25_pp_10_m: "§Y$$10M§! £political_power_texticon §Y25§!"
  decision_cost_25_pp_10_m_blocked: "§R$$10M§! £political_power_texticon §R25§!"
@@ -307,6 +378,9 @@
 
  decision_cost_10_pp_30_m: "§Y$$30M§! £political_power_texticon §Y10§!"
  decision_cost_10_pp_30_m_blocked: "§R$$30M§! £political_power_texticon §R10§!"
+ 
+ decision_cost_10_pp_250_m: "§Y$$250M§! £political_power_texticon §Y10§!"
+ decision_cost_10_pp_250_m_blocked: "§R$$250M§! £political_power_texticon §R10§!"
 
  decision_cost_50_pp_50_m: "§Y$$50M§! £political_power_texticon §Y50§!"
  decision_cost_50_pp_50_m_blocked: "§R$$50M§! £political_power_texticon §R50§!"
@@ -326,8 +400,14 @@
  decision_cost_15_pp: "£political_power_texticon §Y15§!"
  decision_cost_15_pp_blocked: "£political_power_texticon §R15§!"
 
+ decision_cost_20_pp: "£political_power_texticon §Y20§!"
+ decision_cost_20_pp_blocked: "£political_power_texticon §R20§!"
+
  decision_cost_25_pp: "£political_power_texticon §Y25§!"
  decision_cost_25_pp_blocked: "£political_power_texticon §R25§!"
+
+ decision_cost_30_pp: "£political_power_texticon §Y30§!"
+ decision_cost_30_pp_blocked: "£political_power_texticon §R30§!"
 
  decision_cost_50_pp: "£political_power_texticon §Y50§!"
  decision_cost_50_pp_blocked: "£political_power_texticon §R50§!"
@@ -336,19 +416,17 @@
  decision_cost_100_pp_blocked: "£political_power_texticon §R100§!"
 
  # Decision costs
- decision_cost_250_inf: "£weapon_icon §Y250§!"
- decision_cost_250_inf_blocked: "£weapon_icon §R250§!"
- decision_cost_500_inf: "£weapon_icon §Y500§!"
- decision_cost_500_inf_blocked: "£weapon_icon §R500§!"
- decision_cost_1000_inf: "£weapon_icon §Y1000§!"
- decision_cost_1000_inf_blocked: "£weapon_icon §R1000§!"
+ decision_cost_250_inf_eq: "£weapon_icon §Y250§!"
+ decision_cost_250_inf_eq_blocked: "£weapon_icon §R250§!"
+ decision_cost_500_inf_eq: "£weapon_icon §Y500§!"
+ decision_cost_500_inf_eq_blocked: "£weapon_icon §R500§!"
+ decision_cost_1000_inf_eq: "£weapon_icon §Y1000§!"
+ decision_cost_1000_inf_eq_blocked: "£weapon_icon §R1000§!"
+ decision_cost_2500_inf_eq: "£weapon_icon §Y2500§!"
+ decision_cost_2500_inf_eq_blocked: "£weapon_icon §R2500§!"
 
- decision_cost_5_cp_750_inf: "£command_power §Y5§! £weapon_icon §Y750§!"
- decision_cost_5_cp_750_inf_blocked: "£command_power §R5§! £weapon_icon §R750§!"
-
- decision_cost_10_cp_750_inf: "£command_power §Y10§! £weapon_icon §Y750§!"
- decision_cost_10_cp_750_inf_blocked: "£command_power §R10§! £weapon_icon §R750§!"
-
+ decision_cost_100_sup: "£support_eq_texticon §Y100§!"
+ decision_cost_100_sup_blocked: "£support_eq_texticon §R100§!"
  decision_cost_250_sup: "£support_eq_texticon §Y250§!"
  decision_cost_250_sup_blocked: "£support_eq_texticon §R250§!"
  decision_cost_1000_sup: "£support_eq_texticon §Y1000§!"
@@ -382,8 +460,8 @@
  decision_cost_500_motorized: "£motorized_texticon §Y500§!"
  decision_cost_500_motorized_blocked: "£motorized_texticon §R500§!"
 
- decision_cost_600_artillery: "£artillery_texticon §Y600§!"
- decision_cost_600_artillery_blocked: "£artillery_texticon §R600§!"
+ decision_cost_600_artillery: "£artillery_eq_texticon §Y600§!"
+ decision_cost_600_artillery_blocked: "£artillery_eq_texticon §R600§!"
 
  decision_cost_10_convoys: "£GFX_convoy_texticon §Y10§!"
  decision_cost_10_convoys_blocked: "£GFX_convoy_texticon §R10§!"
@@ -426,11 +504,13 @@
  decision_cost_1000_million_blocked: "§R$$1BM§!"
  decision_cost_1500_million: "§Y$$1.5B§!"
  decision_cost_1500_million_blocked: "§R$$1.5B§!"
- decision_cost_2000_million:0 "§Y$$2.000M§!"
- decision_cost_2000_million_blocked: "§R$$2000M§!"
- decision_cost_2500_million:0 "§Y$$2.500M§!"
- decision_cost_2500_million_blocked: "§R$$2500M§!"
-
+ decision_cost_2000_million: "§Y$$2B§!"
+ decision_cost_2000_million_blocked: "§R$$2B§!"
+ decision_cost_2500_million: "§Y$$2.5B§!"
+ decision_cost_2500_million_blocked: "§R$$2.5B§!"
+ decision_cost_5000_million: "§Y$$5B§!"
+ decision_cost_5000_million_blocked: "§Y$$5B§!"
+ 
  decision_cost_100_million_25_cp: "§Y$$100M§! £command_power §Y25§!"
  decision_cost_100_million_25_cp_blocked: "§R$$100M§! £command_power §R25§!"
  decision_cost_10_million_5_cp: "§Y$$10M§! £command_power §Y5§!"
@@ -447,14 +527,32 @@
  decision_cost_50_million_5_cp_blocked: "§R$$50M§! £command_power §R5§!"
  decision_cost_50_million_25_cp: "§Y$$50M§! £command_power §Y25§!"
  decision_cost_50_million_25_cp_blocked: "§R$$50M§! £command_power §R25§!"
+ decision_cost_100_million_10_cp: "§Y$$100M§! £command_power §Y10§!"
+ decision_cost_100_million_10_cp_blocked: "§R$$100M§! £command_power §R10§!"
  decision_cost_100_million_50_cp: "§Y$$100M§! £command_power §Y50§!"
  decision_cost_100_million_50_cp_blocked: "§R$$100M§! £command_power §R50§!"
 
 
  decision_cost_100_million_15_pp: "§Y$$100M§! £political_power_texticon §Y15§!"
  decision_cost_100_million_15_pp_blocked: "§R$$100M§! £political_power_texticon §R15§!"
+ decision_cost_25_million_20_pp: "§Y$$25M§! £political_power_texticon  §Y20§!"
+ decision_cost_25_million_20_pp_blocked: "§R$$25M§! £political_power_texticon  §R20§!"
  decision_cost_150_million_20_pp: "§Y$$150M§! £political_power_texticon §Y20§!"
  decision_cost_150_million_20_pp_blocked: "§R$$150M§! £political_power_texticon §R20§!"
+ decision_cost_20_million_25_pp: "§Y$$20M§! £political_power_texticon  §Y20§!"
+ decision_cost_20_million_25_pp_blocked: "§Y$$20M§! £political_power_texticon  §Y20§!"
+ decision_cost_50_million_15_pp: "§Y$$50M§! £political_power_texticon  §Y15§!"
+ decision_cost_50_million_15_pp_blocked: "§Y$$50M§! £political_power_texticon  §Y15§!"
+ decision_cost_50_million_20_pp: "§Y$$50M§! £political_power_texticon  §Y20§!"
+ decision_cost_50_million_20_pp_blocked: "§Y$$50M§! £political_power_texticon  §Y20§!"
+ decision_cost_50_million_40_pp: "§Y$$50M§! £political_power_texticon  §Y40§!"
+ decision_cost_50_million_40_pp_blocked: "§Y$$50M§! £political_power_texticon  §Y40§!"
+ decision_cost_100_million_20_pp: "§Y$$100M§! £political_power_texticon  §Y20§!"
+ decision_cost_100_million_20_pp_blocked: "§Y$$100M§! £political_power_texticon  §Y20§!"
+ decision_cost_100_million_40_pp: "§Y$$100M§! £political_power_texticon  §Y40§!"
+ decision_cost_100_million_40_pp_blocked: "§Y$$100M§! £political_power_texticon  §Y40§!"
+ decision_cost_10_million_15_pp: "§Y$$10M§! £political_power_texticon  §Y15§!"
+ decision_cost_10_million_15_pp_blocked: "§Y$$10M§! £political_power_texticon  §Y15§!"
 
  decision_cost_5_army_xp: "£army_experience §Y5§!"
  decision_cost_5_army_xp_blocked: "£army_experience §R5§!"
@@ -477,6 +575,9 @@
  decision_cost_15_army_xp_15_pp_blocked: "£army_experience §R15§! £political_power_texticon §R15§!"
  decision_cost_25_army_xp_15_pp: "£army_experience §Y25§! £political_power_texticon §Y15§!"
  decision_cost_25_army_xp_15_pp_blocked: "£army_experience §R25§! £political_power_texticon §R15§!"
+
+ decision_cost_500_inf_eq_5_army_xp: "£weapon_icon §Y500§! £army_experience §Y5§!"
+ decision_cost_500_inf_eq_5_army_xp_blocked: "£weapon_icon §R500§! £army_experience §R5§!"
 
  decision_cost_100_army_xp_25_cp: "£army_experience §Y100§! £command_power §Y25§!"
  decision_cost_100_army_xp_25_cp_blocked: "£army_experience §R100§! £command_power §R25§!"
@@ -540,15 +641,40 @@
  decision_cost_1_intern_radicalism: " £GFX_DoctorsStrike_interns §Y1§!"
  decision_cost_3_intern_radicalism: " £GFX_DoctorsStrike_interns §Y3§!"
  decision_cost_5_intern_radicalism: " £GFX_DoctorsStrike_interns §Y5§!"
- decision_cost_1_doctor_intern_radicalism_blocked: " £GFX_DoctorsStrike_doctors £GFX_DoctorsStrike_interns §Y1§!"
- decision_cost_3_doctor_intern_radicalism_blocked: " £GFX_DoctorsStrike_doctors £GFX_DoctorsStrike_interns §Y3§!"
- decision_cost_5_doctor_intern_radicalism_blocked: " £GFX_DoctorsStrike_doctors £GFX_DoctorsStrike_interns §Y5§!"
- decision_cost_1_doctor_radicalism_blocked: " £GFX_DoctorsStrike_doctors §Y1§!"
- decision_cost_3_doctor_radicalism_blocked: " £GFX_DoctorsStrike_doctors §Y3§!"
- decision_cost_5_doctor_radicalism_blocked: " £GFX_DoctorsStrike_doctors §Y5§!"
- decision_cost_1_intern_radicalism_blocked: " £GFX_DoctorsStrike_interns §Y1§!"
- decision_cost_3_intern_radicalism_blocked: " £GFX_DoctorsStrike_interns §Y3§!"
- decision_cost_5_intern_radicalism_blocked: " £GFX_DoctorsStrike_interns §Y5§!"
+ decision_cost_1_doctor_intern_radicalism_blocked: " £GFX_DoctorsStrike_doctors £GFX_DoctorsStrike_interns §R1§!"
+ decision_cost_3_doctor_intern_radicalism_blocked: " £GFX_DoctorsStrike_doctors £GFX_DoctorsStrike_interns §R3§!"
+ decision_cost_5_doctor_intern_radicalism_blocked: " £GFX_DoctorsStrike_doctors £GFX_DoctorsStrike_interns §R5§!"
+ decision_cost_1_doctor_radicalism_blocked: " £GFX_DoctorsStrike_doctors §R1§!"
+ decision_cost_3_doctor_radicalism_blocked: " £GFX_DoctorsStrike_doctors §R3§!"
+ decision_cost_5_doctor_radicalism_blocked: " £GFX_DoctorsStrike_doctors §R5§!"
+ decision_cost_1_intern_radicalism_blocked: " £GFX_DoctorsStrike_interns §R1§!"
+ decision_cost_3_intern_radicalism_blocked: " £GFX_DoctorsStrike_interns §R3§!"
+ decision_cost_5_intern_radicalism_blocked: " £GFX_DoctorsStrike_interns §R5§!"
+
+ # Indian Civil War-specific
+ decision_cost_1_india_stability: "[IND.GetFlag] £stability_texticon §Y1%§!"
+ decision_cost_2_india_stability: "[IND.GetFlag] £stability_texticon §Y2%§!"
+ decision_cost_3_india_stability: "[IND.GetFlag] £stability_texticon §Y3%§!"
+ decision_cost_4_india_stability: "[IND.GetFlag] £stability_texticon §Y4%§!"
+ decision_cost_5_india_stability: "[IND.GetFlag] £stability_texticon §Y5%§!"
+
+ decision_cost_1_india_stability_blocked: "[IND.GetFlag] £stability_texticon §R1%§!"
+ decision_cost_2_india_stability_blocked: "[IND.GetFlag] £stability_texticon §R2%§!"
+ decision_cost_3_india_stability_blocked: "[IND.GetFlag] £stability_texticon §R3%§!"
+ decision_cost_4_india_stability_blocked: "[IND.GetFlag] £stability_texticon §R4%§!"
+ decision_cost_5_india_stability_blocked: "[IND.GetFlag] £stability_texticon §R5%§!"
+
+ decision_cost_1_azad_hind_stability: "[AZH.GetFlag] £stability_texticon §Y1%§!"
+ decision_cost_2_azad_hind_stability: "[AZH.GetFlag] £stability_texticon §Y2%§!"
+ decision_cost_3_azad_hind_stability: "[AZH.GetFlag] £stability_texticon §Y3%§!"
+ decision_cost_4_azad_hind_stability: "[AZH.GetFlag] £stability_texticon §Y4%§!"
+ decision_cost_5_azad_hind_stability: "[AZH.GetFlag] £stability_texticon §Y5%§!"
+
+ decision_cost_1_azad_hind_stability_blocked: "[AZH.GetFlag] £stability_texticon §R1%§!"
+ decision_cost_2_azad_hind_stability_blocked: "[AZH.GetFlag] £stability_texticon §R2%§!"
+ decision_cost_3_azad_hind_stability_blocked: "[AZH.GetFlag] £stability_texticon §R3%§!"
+ decision_cost_4_azad_hind_stability_blocked: "[AZH.GetFlag] £stability_texticon §R4%§!"
+ decision_cost_5_azad_hind_stability_blocked: "[AZH.GetFlag] £stability_texticon §R5%§!"
 
  ########################################
  # |====| Dynamic Decision Costs |====| #
@@ -569,8 +695,8 @@
  decision_cost_N_cp: "£command_power [?N|Y0]"
  decision_cost_N_cp_blocked: "£command_power [?N|R0]"
 
- decision_cost_N_artillery: "£artillery_texticon [?N|Y0]"
- decision_cost_N_artillery_blocked: "£artillery_texticon [?N|R0]"
+ decision_cost_N_artillery: "£artillery_eq_texticon [?N|Y0]"
+ decision_cost_N_artillery_blocked: "£artillery_eq_texticon [?N|R0]"
 
  decision_cost_N_men: "£manpower_texticon [?N|Y0]"
  decision_cost_N_men_blocked: "£manpower_texticon [?N|R0]"

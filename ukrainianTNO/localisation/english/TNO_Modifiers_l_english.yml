@@ -32,6 +32,7 @@
 
  production_units_to_GDP_ratio_modifier:0 "£tt_prod_unit Модифікатор співвідношення виробничих одиниць до ВВП"
  free_production_units_modifier:0 "Free£tt_prod_unit Виробничі одиниць"
+ production_units_use:0 "£tt_prod_unit використання виробничих одиниць"
  consumer_goods_production_factor:0 "Фактор виробництва споживчих товарів"
  inflation_rate_modifier:0 "Модифікатор темпів інфляції"
  interest_rate_modifier:0 "Модифікатор відсоткової ставки"

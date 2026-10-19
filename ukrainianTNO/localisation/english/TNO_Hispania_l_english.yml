@@ -1,26 +1,26 @@
 ﻿l_english:
  RMN:0 "LEGIO IX HISPANIA"
- RMN_DEF:0 "the LEGIO IX HISPANIA"
- RMN_ADJ:0 "Roman"
+ RMN_DEF:0 "LEGIO IX HISPANIA"
+ RMN_ADJ:0 "Римськ"
 
  ### Characters ###
- RMN_Agrippa_Plautius_Nigrinus: "Agrippa Plautius Nigrinus"
- RMN_Numerius_Trebellius_Voteporix: "Numerius Trebellius Voteporix"
- RMN_Septimus_Trebatius_Laurentius: "Septimus Trebatius Laurentius"
- RMN_Quintus_Nigilius_Buccio: "Quintus Nigilius Buccio"
- RMN_Paullus_Pupius_Tuticanus: "Paullus Pupius Tuticanus"
- RMN_Adeodatus_Iovita_Manlius: "Legatus Adeodatus Iovita Manlius"
+ RMN_Agrippa_Plautius_Nigrinus: "Агріппа Плавцій Ніґрін"
+ RMN_Numerius_Trebellius_Voteporix: "Нумерій Требеллій Вотепорікс"
+ RMN_Septimus_Trebatius_Laurentius: "Септімус Требацій Лаврентій"
+ RMN_Quintus_Nigilius_Buccio: "Квінт Нігілій Буцціо"
+ RMN_Paullus_Pupius_Tuticanus: "Павлл Пупій Тутікан"
+ RMN_Adeodatus_Iovita_Manlius: "Легат Адеодат Йовіта Манлій"
  
  ### National Focus Tree ###
  
  ##### LEADER DESCRIPTIONS #####
- POLITICS_LEGION_ADEODATUS_IOVITA_MANLIUS:0 "The Legate was awarded the grass crown for saving his Legion from sure destruction in Galatia many years ago. Once this was his pride, a true mark of honor, and a sign of greatness and glory.\n\nNow however, the wreath lays on his head ever heavier, as he realizes this was not the mark of greatness but one of shame. For the man who damned his Legion to eternity.\n\nHe has claimed a thousand victories, a thousand triumphs, and a thousand worlds. Endless places that defied explanation and refused to bow to what was once thought to be the laws of man have now bowed before him. None can claim that he is not truly great, that he is not truly the greatest conqueror of all of eternity.\n\nBut he is not the Imperator. He is not the Caesar. He is not Augustus. He does not wish to rule dominion, he wishes to see Rome again. To see green eyes that once stared into his, and those who he once dreamed of raising strong. He dreams of a day where he may grow old with those eyes, and where he may one day find peace.\n\nAs the whispers grow louder and the darkness of the abyss over which his Legion treads grows darker, it becomes clearer with every time he rises again from what he had prayed was death that peace will never find him again. He is damned.\n\nAnd so are those who stand against him."
+ POLITICS_LEGION_ADEODATUS_IOVITA_MANLIUS:0 "Легата було нагороджено трав'яним вінцем за порятунок свого легіону від неминучої загибелі в Галатії багато років тому. Колись це було його гордістю, справжнім знаком честі та символом величі й слави.\n\nТепер же він дедалі важче відчуває вагу вінця на своїй голові, усвідомлюючи, що це був не знак величі, а знак ганьби. Бо саме він прирік свій легіон на вічність.\n\nВін здобув тисячу перемог, тисячу тріумфів і тисячу світів. Безкінечні місця, що не піддавалися поясненню й відмовлялися коритися тому, що колись вважалося законами людства, тепер схилилися перед ним. Ніхто не може стверджувати, що він не є справді великим, що він не є найвеличнішим завойовником за всю вічність.\n\nАле він не Імператор. Він не Цезар. Він не Авґуст. Він не бажає правити володіннями, він хоче знову побачити Рим. Побачити зелені очі, що колись дивилися в його очі, і тих, кого він колись мріяв виховати сильними. Він мріє про день, коли зможе постаріти поруч із цими очима, і коли одного дня зможе знайти спокій.\n\nУ міру того як шепіт стає гучнішим, а темрява безодні, над якою ступає його легіон, стає дедалі чорнішою, з кожним разом, коли він знову постає з того, що, як він молився, було смертю, стає дедалі очевидніше: спокій більше ніколи його не знайде. Він приречений.\n\nІ так само приречені ті, хто постає проти нього."
  
  ###PARTIES###
- RMN_despotism_party:0 "Legion Loyalists"
- RMN_despotism_party_long:0 "Legion Loyalists"
+ RMN_despotism_party:0 "Лоялісти легіону"
+ RMN_despotism_party_long:0 "Лоялісти легіону"
 
  ### Events ###
 ### Ideas ###
-RMN_conquest_of_the_realms:0 "Conquest of the Realms"
-RMN_conquest_of_the_realms_desc:0 "On and on they march. From world to world. From lands of endless metal and flying chariots to lands left turned to ash and dust by the anger of the Gods. The Legion of the undying has seen many worlds, have seen many times, and have conquered each and every one.\n\nWith every conquest they have become stronger, and with every domination their thirst for freedom from the torment of victory has grown. Release, however, eludes them, and so they conquer. On and on until the end of all time.\n\nBut what lurks in the darkness?"
+RMN_conquest_of_the_realms:0 "Завоювання світів"
+RMN_conquest_of_the_realms_desc:0 "Вони йдуть далі й далі. Від світу до світу. Від земель із незкінечними металами та літаючими колісницями до земель, перетворених гнівом богів на попіл і пил. Легіон безсмертних бачив багато світів, бачив багато часів і завоював кожен із них.\n\nЗ кожним завоюванням вони ставали сильнішими, а з кожним підкоренням їхня жага звільнитися від мук перемоги зростала. Однак визволення вислизає від них, і тому вони завойовують. Ідуть далі й далі, аж до кінця всього часу.\n\nАле що ховається в темряві?"

@@ -1,27 +1,11 @@
 ﻿l_english:
  ### Country Names ###
- MLI_ultranationalism: "Malian State"
- MLI_ultranationalism_DEF: "the Malian State"
- MLI_national_socialism: "Malian State"
- MLI_national_socialism_DEF: "the Malian State"
- MLI_fascism: "Malian State"
- MLI_fascism_DEF: "the Malian State"
- MLI_despotism: "Malian State"
- MLI_despotism_DEF: "the Malian State"
- MLI_paternalism: "Malian State"
- MLI_paternalism_DEF: "the Malian State"
- MLI_conservatism: "Republic of Mali"
- MLI_conservatism_DEF: "the Republic of Mali"
- MLI_liberal_conservatism: "Republic of Mali"
- MLI_liberal_conservatism_DEF: "the Republic of Mali"
- MLI_liberalism: "Republic of Mali"
- MLI_liberalism_DEF: "the Republic of Mali"
- MLI_progressivism: "Republic of Mali"
- MLI_progressivism_DEF: "the Republic of Mali"
- MLI_socialist: "Mali Socialist Republic"
+ MLI: "Republic of Mali"
+ MLI_DEF: "the Republic of Mali"
+ MLI_socialist: "Socialist Republic of Mali"
  MLI_socialist_DEF: "the Socialist Republic of Mali"
- MLI_communist: "Mali Socialist Republic"
- MLI_communist_DEF: "the Mali Socialist Republic"
+ MLI_communist: "Socialist Republic of Mali"
+ MLI_communist_DEF: "the Socialist Republic of Mali"
  MLI_ADJ: "Malian"
 
  ## Cosmetic Tags ##
@@ -64,7 +48,7 @@
  MLI_Guediouma_Samake: "Guediouma Samake"
 
  ## Leader Descs ##
- POLITICS_MODIBO_KEITA_DESC: "If one was to tread through the various fiefdoms of West Africa, the state of Mali would be seen as rather quiet and ordinary, the people seeming less repressed than the various others. This is the nation of Modibo Keïta, a man trapped between the strength of his morals, but the danger of radical beliefs in a place as unstable as West Africa.\n\nBorn in a neighbourhood of Bamako, Keïta could claim ancestors in the founders of the Mali Empire, but he was never an advocate for wild expansionism. Instead, Keïta found his home in socialist groups across French West Africa, uniting many across Mali in the quest for Malian freedom and properity.\n\nHe ran into a roadblock in this noble goal with the German Victory over France. As Charles de Gaulle's forces secured what it could of West Africa, Keïta stayed in open revolt against the French, creating his own Militias and mobilising against de Gaulle's army, much to their chagrin. And then, the bombs began dropping. The French were not only pushed out of Mali, but pushed to the Ivory Coast, and Keïta maintained what control he had... at least when they weren't afraid to step outside on a clear day for the planes dropping fire from the sky. At this point, the militias were a melting pot of everyone wishing for any kind of Malian autonomy. Islamists, Socialists, Liberals, Fascists, everyone rubbing up against eachother. Fights constantly erupted between various members in the Malian State to the point of farce. Keïta's constant progressive reforms to the maintenance of the state didn't help, as it simply made the more conservative militiamen angry.\n\nThen, one day, the bombs stopped, and ironically, while the chaos in the desert silenced, the chaos in the state only became more aggressive. The dissident Moussa Traoré has united the Islamist militiamen into a stable army, and has siezed the city of Kayes as his own. It seems that a battle for the future of Mali has begun, and Modibo Keïta is leading his armies into the future."
+ POLITICS_MODIBO_KEITA_DESC: "If one was to tread through the various fiefdoms of West Africa, the state of Mali would be seen as rather quiet and ordinary, the people seeming less repressed than the various others. This is the nation of Modibo Keïta, a man trapped between the strength of his morals, but the danger of radical beliefs in a place as unstable as West Africa.\n\nBorn in a neighbourhood of Bamako, Keïta could claim ancestors in the founders of the Mali Empire, but he was never an advocate for wild expansionism. Instead, Keïta found his home in socialist groups across French West Africa, uniting many across Mali in the quest for Malian freedom and properity.\n\nHe ran into a roadblock in this noble goal with the German Victory over France. As Charles de Gaulle's forces secured what it could of West Africa, Keïta stayed in open revolt against the French, creating his own Militias and mobilising against de Gaulle's army, much to their chagrin. The French were not only pushed out of Mali, but pushed to the Ivory Coast, and Mali was free. Back then, the militias were a melting pot of everyone wishing for any kind of Malian autonomy. Islamists, Socialists, Democrats and Nationalists, all working for the same cause. Now that the dust has settled, the many groups within Mali turned their gaze inwards. Fights constantly erupt between various members in the Malian State to the point of farce. Keïta's constant progressive reforms to the maintenance of the state didn't help, as it simply made the more conservative militiamen angry.\n\nThe dissident Moussa Traoré has united the Islamist militiamen into a stable army, and has seized the city of Kayes as his own. It seems that a battle for the future of Mali has begun, and Modibo Keïta is leading his armies into the future."
 
  ## Minister Descs ##
  MLI_Modibo_Keita_hog_desc: "§YHead of Government\nPaternalism§!\n--------------\n"
