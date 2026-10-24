@@ -527,7 +527,6 @@
  #Tasmania
  VICTORY_POINTS_2189: "Гобарт"
  VICTORY_POINTS_12645: "Лонсестон"
- VICTORY_POINTS_5181: "Лонсестон"
  VICTORY_POINTS_5181: "Девонпорт"
  VICTORY_POINTS_10665: "Берні"
  #Victoria
@@ -659,7 +658,6 @@
  VICTORY_POINTS_8239: "Гуарапуава"
  VICTORY_POINTS_14601: "Франциско-Бельтран"
  VICTORY_POINTS_17415: "Маринга"
- VICTORY_POINTS_17415: "Лондрина"
  VICTORY_POINTS_2109: "Лондріна"
  VICTORY_POINTS_17817: "Кампу-Моран"
  #Pernambuco
@@ -2548,6 +2546,7 @@
  VICTORY_POINTS_11560: "Майнц"
  VICTORY_POINTS_589: "Дармштадт"
  VICTORY_POINTS_3398: "Гаґен"
+ #VICTORY_POINTS_3398: "Люденшайд" #2 VPs in same province
  VICTORY_POINTS_6535: "Гамм"
  VICTORY_POINTS_11360: "Емден"
  VICTORY_POINTS_18138: "Ольденбурґ"
@@ -2638,7 +2637,6 @@
  VICTORY_POINTS_18130: "Мьонхенґладбах"
  VICTORY_POINTS_15834: "Нойс"
  VICTORY_POINTS_9547: "Зіґен"
- VICTORY_POINTS_3398: "Люденшайд"
  VICTORY_POINTS_9443: "Падерборн"
  VICTORY_POINTS_6570: "Леверкузен"
  VICTORY_POINTS_18140: "Дюрен"
@@ -3847,19 +3845,18 @@
  VICTORY_POINTS_10071_cog: "Лісала-Сіка"
  VICTORY_POINTS_10071_ktg: "Шраммевілль"
  VICTORY_POINTS_10951: "Джолу"
- VICTORY_POINTS_12719: "Бондо"
+ VICTORY_POINTS_12719: "Рафаї"
  VICTORY_POINTS_12975: "Пуент-Нуар"
  VICTORY_POINTS_12975_ger: "Шварце-Шпітце"
  VICTORY_POINTS_12975_cog: "Нджинджі"
- VICTORY_POINTS_13376: "Кінду-Порт-Емпен"
-#VICTORY_POINTS_13376_ger: "Кінду-Емпаїн-Гафен"#feels kind of off, hold for now
+ VICTORY_POINTS_13376: "Кінду"
  VICTORY_POINTS_13376_ger: "Емпайнгафен"
  VICTORY_POINTS_13376_colonial: "Кінду-Порт-Емпен"
  VICTORY_POINTS_13378: "Куртсдорф"
  VICTORY_POINTS_13378_ger: "Куртсдорф"
- VICTORY_POINTS_13384: "Еріхсдорф"
+ VICTORY_POINTS_13384: "Бені"
  VICTORY_POINTS_13384_ger: "Еріхсдорф"
- VICTORY_POINTS_13386: "Стенлівілль"
+ VICTORY_POINTS_13386: "Кісанґані"
  VICTORY_POINTS_13386_ger: "Стенліштадт"
  VICTORY_POINTS_13386_colonial: "Стенлівіль"
  VICTORY_POINTS_13816: "Елізабетвіль"
@@ -4413,6 +4410,8 @@
  VICTORY_POINTS_8058: "Каеді"
  VICTORY_POINTS_8058_mau: "Кайхайді"
  VICTORY_POINTS_14218: "Кіффа"
+ VICTORY_POINTS_14218_mau: "Аль-Кіфа"
+ VICTORY_POINTS_14203: "Селібабі"
  ##Rio de Oro##
  VICTORY_POINTS_15354: "Лааюн"
  VICTORY_POINTS_15354_spa: "Ель-Аюн"
@@ -5478,7 +5477,6 @@
  #South Sulawesi
  VICTORY_POINTS_7598: "Маджене"
  VICTORY_POINTS_19201: "Парепаре"
- VICTORY_POINTS_19214: "Палопо"є
  VICTORY_POINTS_19214: "Палопо"
  VICTORY_POINTS_19266: "Бантаенг"
  VICTORY_POINTS_19272: "Ватампоне"
@@ -7163,7 +7161,6 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_4543: "Окленд"
  VICTORY_POINTS_7887: "Гамілтон"
  VICTORY_POINTS_4718: "Роторуа"
- VICTORY_POINTS_4718: "Тауранґа"
  VICTORY_POINTS_12664: "Тауранґа"
  VICTORY_POINTS_4804: "Палмерстон-Норт"
  VICTORY_POINTS_1801: "Нейпір"
@@ -7769,6 +7766,7 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_7765_yak: "Олуохуме"
  VICTORY_POINTS_7765_pony: "Фоальокмінск"
  #Russian Wastes - Far East
+ VICTORY_POINTS_blank: " "
  VICTORY_POINTS_5880: "Омолонь"
  VICTORY_POINTS_5880_omo: "Омолоон"
  VICTORY_POINTS_5880_pony: "Понілон"
@@ -8118,9 +8116,6 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_1291: "Алор-Сетар"
  VICTORY_POINTS_19032: "Сунгай-Петані"
  VICTORY_POINTS_7329: "Кота-Бару"
- ###Trarza###
- VICTORY_POINTS_14218_mau: "Аль-Кіфа"
- VICTORY_POINTS_14203: "Селібабі"
  ###Trucial States###
  VICTORY_POINTS_19159: "Лампанґ"
  VICTORY_POINTS_19159_tha: "Нахон-Лампанґ"
@@ -8330,7 +8325,6 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_6826: "Кіркук"
  VICTORY_POINTS_6826_tur: "Керкюк"
  VICTORY_POINTS_6826_kur: "Керкук"
- VICTORY_POINTS_6826_irq: "Каркук
  VICTORY_POINTS_6826_irq: "Каркюк"
  VICTORY_POINTS_15758: "Ханакін"
  VICTORY_POINTS_15758_tur: "Ханекін"
@@ -9177,6 +9171,7 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_2050_yor: "Еко"
  VICTORY_POINTS_12731: "Ібадан"
  VICTORY_POINTS_12731_yor: "Їбадан"
+
  #Argentine Antarctica
  VICTORY_POINTS_17591: "База «Мельхіор»"
  VICTORY_POINTS_17591_spa: "Басе-«Мельхіор»"
@@ -9197,9 +9192,9 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_17809: "База «Примавера»"
  VICTORY_POINTS_17809_spa: "Басе-«Прімавера»"
  VICTORY_POINTS_17811: "База «Сан-Мартін»"
+ VICTORY_POINTS_17811_spa: "Басе-«Сан-Мартін»"
  
  #Chilean Antarctica
- VICTORY_POINTS_17811_spa: "Басе-«Сан-Мартін»"
  VICTORY_POINTS_17585: "База «Мачу-Пікчу»"
  VICTORY_POINTS_17666: "База «Капітан Артуро Прат»"
  VICTORY_POINTS_17666_spa_aac: "Басе наваль «Капітан Артуро Прат»"
@@ -9214,32 +9209,30 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_17805: "База «Навал-Презіденте Едуардо Крус-Коке»"
  VICTORY_POINTS_17805_spa: "Басе-«Наваль-Презіденте Едуардо Крус-Коке»"
  VICTORY_POINTS_17813: "База «Карвахаль»"
-
- # Uruguayan Antarctica
  VICTORY_POINTS_17813_spa_aac: "Басе-«Тенієнте-Луїс-Карвахаль-Вільярроель»"
  VICTORY_POINTS_17813_spa_aaa: "Басе-«Бельґрано»"
  VICTORY_POINTS_17813_spa_aaa_eng: "База «Бельграно»"
  VICTORY_POINTS_20003: "База «Мальдонадо»"
  VICTORY_POINTS_20004: "База «Квадра»"
  VICTORY_POINTS_20005: "База «Окампо»"
- VICTORY_POINTS_17798: ""
 
- # Brazilian Antarctica
+
+ # Uruguayan Antarctica
+ VICTORY_POINTS_17798: " "
  VICTORY_POINTS_17798_aav_eng: "База «Артігас»"
  VICTORY_POINTS_17798_aav: "Баcе-«Артігас»"
+ 
+ # Brazilian Antarctica
  VICTORY_POINTS_17654: ""
- VICTORY_POINTS_17800_aav_eng: "Антарктична наукова станція «Руперто Еліхірібехеті»"
- VICTORY_POINTS_17800_aav: "Естасьйон сієнтіфіка антартіка «Руперто Еліхірібехеті»"
- VICTORY_POINTS_17800_aar: "«Кріосфера-1»"
-
- #Japanese Antarctica
  VICTORY_POINTS_17654_aar: "Басе-«Енріке Арістідеш Гільєм»"
  VICTORY_POINTS_17654_aar_eng: "База «Енріке Арістідеш Гільєм»"
+
+ #Japanese Antarctica
  VICTORY_POINTS_17688: "Станція «Шьова»"
- 
- #SS Antarctica
  VICTORY_POINTS_17688_jap: "Шьова-кічі"
  VICTORY_POINTS_17688_aao: "Станція «Коммодоре Метью Перрі»"
+
+ #SS Antarctica
  VICTORY_POINTS_17772: "Беґергайм"
  
  #Neuschwabenland
@@ -9258,6 +9251,9 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_17799: "Фільхнер-штаціон"
  VICTORY_POINTS_17799_aao: "База «Чарлі»"
  VICTORY_POINTS_17800: "Меморіальна застава Паулю Йозефу Ґьоббельсу"
+ VICTORY_POINTS_17800_aav_eng: "Антарктична наукова станція «Руперто Еліхірібехеті»"
+ VICTORY_POINTS_17800_aav: "Естасьйон сієнтіфіка антартіка «Руперто Еліхірібехеті»"
+ VICTORY_POINTS_17800_aar: "«Кріосфера-1»"
  VICTORY_POINTS_17800_aao: "База «Ґрамма»"
  VICTORY_POINTS_17804: "Фюрер-штаціон"
  VICTORY_POINTS_17804_aao: "База «Альфа»"
@@ -9265,11 +9261,11 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_17807_aav_eng: "Південна дослідна станція «Ектор Боміо»"
  VICTORY_POINTS_17807_aav: "Естасьйон сієнтіфіка сюр «Ектор Боміо»"
  VICTORY_POINTS_17810: "Штютцпункт «Ґеорґ фон Ноймаєр»"
- 
- #OFN Antarctica
  VICTORY_POINTS_17810_aav: "Басе-«Рубен Варела»"
  VICTORY_POINTS_17810_aav_eng: "База «Рубен Варела»"
  VICTORY_POINTS_17810_aao: "База «Фокс»"
+ 
+ #OFN Antarctica
  VICTORY_POINTS_17612: "Порт-Дуфек"
  VICTORY_POINTS_17724: "База «Схід»"
  VICTORY_POINTS_17724_spa: "Басе-Есте"
@@ -9283,11 +9279,12 @@ VICTORY_POINTS_12371_ins: "Сукарнопура"
  VICTORY_POINTS_17815: "Станція «Джордж Андерсон-молодший»"
  
  #Italian Antarctica
- VICTORY_POINTS_17689: "Станція «Ґаліндез»"
-
- #Antartic Interior
+ VICTORY_POINTS_17689: " "
  VICTORY_POINTS_17689_spa: "Естасьйон-«Ґаліндез»"
  VICTORY_POINTS_17689_spa_eng: "Станція «Ґаліндез»"
  VICTORY_POINTS_17689_aai: "Стаціоне «Імператоре Умберто ІІ»"
  VICTORY_POINTS_17689_aai_eng: "Станція «Імператор Умберто ІІ»"
+
+ #Antarctic Interior
  VICTORY_POINTS_17684: " "
+ 
