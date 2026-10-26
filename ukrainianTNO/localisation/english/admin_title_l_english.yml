@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 # Textbox 
 admin_title_textbox_tt: "[AdminTitle_Textbox_AssocRegion_Filter][AdminTitle_Textbox_AssocRegion_Desc_Filter][AdminTitle_Textbox_AssocRegion_2_Desc_Filter][AdminTitle_Textbox_Divider][AdminTitle_Textbox_AdminTitle_Filter][AdminTitle_Textbox_AdminTitle_Desc_Filter][AdminTitle_Textbox_Divider_2][AdminTitle_Textbox_SubAdminTitle_Filter][AdminTitle_Textbox_SubAdminTitle_Desc_Filter][AdminTitle_Textbox_Divider_3][AdminTitle_Textbox_State_Desc_Filter]"
 admin_title_textbox_divider: "\n\n"
@@ -19,23 +19,23 @@ admin_title_textbox_1_assoc_region_1_admin_region_tt: "§F§Y[THIS.GetName]§! �
 admin_title_textbox_assoc_region_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_AssocRegion_Desc]§!"
 admin_title_textbox_assoc_region_2_desc: "\n---------------------\n§L[AdminTitle_Textbox_Get_AssocRegion_2_Desc]§!"
 
-admin_title_textbox_sub_admin_title_tt: "§F[AdminTitle_Textbox_Show_State_Name_SubAdminTitle] складений із менших адміністративних одиниць, що називаються §Y[AdminTitle_Textbox_Get_SubAdminTitle]§!.§!§F"
+admin_title_textbox_sub_admin_title_tt: "§F[AdminTitle_Textbox_Show_State_Name_SubAdminTitle] складається з менших адміністративних одиниць, що називаються §Y[AdminTitle_Textbox_Get_SubAdminTitle]§!.§!§F"
 admin_title_textbox_sub_admin_title_no_subdivisions_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_SubAdminTitle_Desc]§!"
 admin_title_textbox_sub_admin_title_and_subdivisions_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_SubDivisions]\n\n[AdminTitle_Textbox_Get_SubAdminTitle_Desc]§!"
 admin_title_textbox_sub_admin_title_only_subdivisions_desc_tt: "\n---------------------\n§L[AdminTitle_Textbox_Get_SubDivisions]§!"
-sub_admin_title_text_box_2_subdivisions_tt: "§Y[THIS.GetName]§! складає в собі [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] від §Y[AdminTitle_Textbox_Get_SubDivision_1]§! і §Y[AdminTitle_Textbox_Get_SubDivision_2]§!."
-sub_admin_title_text_box_3_subdivisions_tt: "§Y[THIS.GetName]§! складає в собі [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] від §Y[AdminTitle_Textbox_Get_SubDivision_1]§!, §Y[AdminTitle_Textbox_Get_SubDivision_2]§! і §Y[AdminTitle_Textbox_Get_SubDivision_3]§!."
-sub_admin_title_text_box_4_subdivisions_tt: "§Y[THIS.GetName]§! складає в собі [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] від §Y[AdminTitle_Textbox_Get_SubDivision_1]§!, §Y[AdminTitle_Textbox_Get_SubDivision_2]§!, §Y[AdminTitle_Textbox_Get_SubDivision_3]§! і §Y[AdminTitle_Textbox_Get_SubDivision_4]§!."
+sub_admin_title_text_box_2_subdivisions_tt: "§Y[THIS.GetName]§! вміщує в собі [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] від §Y[AdminTitle_Textbox_Get_SubDivision_1]§! і §Y[AdminTitle_Textbox_Get_SubDivision_2]§!."
+sub_admin_title_text_box_3_subdivisions_tt: "§Y[THIS.GetName]§! вміщує в собі [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] від §Y[AdminTitle_Textbox_Get_SubDivision_1]§!, §Y[AdminTitle_Textbox_Get_SubDivision_2]§! і §Y[AdminTitle_Textbox_Get_SubDivision_3]§!."
+sub_admin_title_text_box_4_subdivisions_tt: "§Y[THIS.GetName]§! вміщує в собі [AdminTitle_Textbox_Get_SubAdminTitle_Lowercase] від §Y[AdminTitle_Textbox_Get_SubDivision_1]§!, §Y[AdminTitle_Textbox_Get_SubDivision_2]§!, §Y[AdminTitle_Textbox_Get_SubDivision_3]§! і §Y[AdminTitle_Textbox_Get_SubDivision_4]§!."
 
 adjust_admin_title_tt: "Змінює цю адміністративну назву на §Y[AdminTitle_Get_Temp_AdminTitle]§!"
 adjust_assoc_region_tt: "Змінює цей основний асоційований регіон на §Y[AdminTitle_Get_Temp_AssocRegion]§!"
 adjust_assoc_region_2_tt: "Змінює цей другорядно асоційований регіон на §Y[AdminTitle_Get_Temp_AssocRegion_2]§!"
-adjust_sub_admin_title_tt: "Змінює цю суб-адміністративну назву на §Y[AdminTitle_Get_Temp_SubAdminTitle]§!"
+adjust_sub_admin_title_tt: "Змінює цю субадміністративну назву на §Y[AdminTitle_Get_Temp_SubAdminTitle]§!"
 
 clear_admin_title_tt: "Бвльше не матиме адміністративну назву §Y[AdminTitle_Textbox_Get_AdminTitle]§!"
 clear_assoc_region_tt: "Більше не буде асоціюватися з §Y[AdminTitle_Textbox_Get_AssocRegion]§! [AdminTitle_Get_Temp_AssocRegion_Type]"
 clear_assoc_region_2_tt: "Більше не буде асоціюватися з §Y[AdminTitle_Textbox_Get_AssocRegion_2]§! [AdminTitle_Get_Temp_AssocRegion_2_Type]"
-clear_sub_admin_title_tt: "Більше не матиме суб-адміністративну назву §Y[AdminTitle_Textbox_Get_SubAdminTitle]§!"
+clear_sub_admin_title_tt: "Більше не матиме субадміністративну назву §Y[AdminTitle_Textbox_Get_SubAdminTitle]§!"
 
 admin_title_textbox_region_tt: "регіон"
 
