@@ -34,3 +34,5 @@
  TERRAIN_COMBAT_WIDTH_COMB:0 "Ширина фронту: $VALUE|0Y$ (додаткові атаки: $ADD|0Y$)"
  TERRAIN_COMBAT_WIDTH:0 "Combat width: $VALUE|0Y$"
  TERRAIN_ADDITIONAL_WIDTH:0 "Ширина фронту за кожен додатковий напрям: $VALUE|=0Y$"
+ eastern_europe:0 "Східна Європа"
+ gangetic_plain:0 "Гангська рівнина"
