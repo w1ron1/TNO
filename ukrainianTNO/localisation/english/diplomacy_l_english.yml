@@ -1,7 +1,7 @@
 ﻿l_english:
  DIPLO_POSITIVE:0 "За: $VAL|G$"
  DIPLO_NEGATIVE:0 "Проти: $VAL|R$"
- GOOD_BAD_RATIO:0 "Для прийняття потрібно принаймні на $THRESHOLD|Y$ причин(у) §Gза§! більше, ніж §Rпроти§!.\nПоточне співвідношення: $RATIO|Y$"
+ GOOD_BAD_RATIO:0 "Для прийняття потрібно принаймні на $THRESHOLD|Y$ причин(у) §Gза§! більше, ніж §Rпроти§!. Поточне співвідношення: $RATIO|Y$."
  DIPLOMACY_STAGE_COUP_ALREADY_IDEOLOGY:0 "Їхня ідеологія — $IDE$, тож переворот не потрібен."
  BPPR_INFO:0 "Дипломати ($WHO$): $VAL$"
  DIPLOMACY_JOIN_FACTION_NOT_LEADER_OF_FACTION:0 "Держава $COUNTRY|U$ не є лідером альянсу $FACTION$."
@@ -38,7 +38,7 @@
  DIPLOMACY_PEACE_PROPOSAL_ACTION_DESC:1 "Умовно здатися цій країні.\nВони отримають $AMOUNT|%H$ максимально доступних балів конференції."
  DIPLOMACY_PEACE_PROPOSAL_DESC:1 "Умовна капітуляція\n$AMOUNT$"
  DIPLOMACY_PEACE_PROPOSAL_MUST_BE_LOSING:0 "У нас немає прогресу капітуляції"
- DIPLOMACY_PEACE_PROPOSAL_REQUEST_DESC:2 "Держава $COUNTRY|H$ пропонує капітуляцію.\nМи отримаємо $AMOUNT|%H$ максимально доступних балів конференції."
+ DIPLOMACY_PEACE_PROPOSAL_REQUEST_DESC:2 "Держава $COUNTRY|UH$ пропонує капітуляцію.\nМи отримаємо $AMOUNT|%H$ максимально доступних балів конференції."
  DIPLOMACY_MESSAGE_ACTION_TITLE:0 "Повідомлення від держави $COUNTRY$"
  DIPLOMACY_MESSAGE_TIMED_WARGOAL_FINISH_DESC:0 "Виправдання захоплення області $STATE|H$ державою $OWNER|H$ виконано"
  DIPLOMACY_MESSAGE_TIMED_WARGOAL_FINISH_TITLE:0 "Виправдання цілі війни виконано"
@@ -195,7 +195,7 @@
  DIPLOMACY_NONAGGRESSIONPACT:0 "Пакт про ненапад"
  DIPLOMACY_NONAGGRESSIONPACT_TITLE:0 "Пакт про ненапад"
  DIPLOMACY_NONAGGRESSIONPACT_DESC:0 "Пообіцяти не оголошувати війну один одному."
- DIPLOMACY_NONAGGRESSIONPACT_REQUEST_DESC:1 "Держава $COUNTRY|Y$ хоче підписати з нам пакт про ненапад."
+ DIPLOMACY_NONAGGRESSIONPACT_REQUEST_DESC:1 "Держава $COUNTRY|UY$ хоче підписати з нам пакт про ненапад."
  DIPLOMACY_NONAGGRESSIONPACT_ACTION_DESC:0 "Пообіцяти не оголошувати війну один одному."
  DIPLOMACY_REVOKE_NONAGGRESSIONPACT_TITLE:0 "Розірвати пакт про ненапад"
  DIPLOMACY_REVOKE_NONAGGRESSIONPACT_DESC:0 "Розірвати наш пакт про ненапад"
@@ -724,17 +724,20 @@
  SEND_EXP_MUST_BE_IN_SAME_FACTION:0 "Щоб надіслати експедиційний корпус, ми мусимо входити в той самий альянс."
  DIPLOMACY_REQUEST_EXP_FORCE_TITLE:0 "Попросити війська"
  DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "Попросити у держави-маріонетки контроль над рядом дивізій. Оскільки ви маєте сильний вплив на їх уряд, вони обов'язково схвалять запит."
+
  REQUEST_EXP_NOT_AI:0 "Ви можете просити експедиційні війська тільки від держав, контрольованих ШІ."
  REQUEST_EXP_MUST_BE_IN_SAME_FACTION:0 "Вони не є членом того ж альянсу, що й Ви."
  REQUEST_EXP_NOT_SHARING_WAR:0 "Надсилання експедиційних військ вважається актом війни й не може бути здійснене державою, яка не воює."
  REQUEST_EXP_WE_ARE_NOT_AT_WAR:0 "Ви мусите бути у стані війни, щоб отримувати експедиційні війська."
  REQUEST_EXP_NOT_A_MASTER:0 "Як маріонетка, вони можуть надсилати експедиційні війська тільки в метрополію."
  REQUEST_EXP_NOT_LEADER:0 "Ви не є лідером альянсу."
+
  REQUEST_EXP_TOO_MANY_EXP_FORCES:1 "Цей запит перевищує їхній ліміт експедиційних військ"
  REQUEST_EXP_COUDLNT_FIND_UNITS_SUITABLE:1 "Вони вважають, що в них немає достатньо військ, які підходять для цього наказу"
  REQUEST_EXP_COUDLNT_NO_ORDERS_TO_EVALUATE:0 "У цьому запиті немає наказів для оцінки"
  REQUEST_EXP_KILLING_MY_EXPEDITIONARIES:1 "Вони зазнали багато втрат під нашим командуванням"
  REQUEST_EXP_WE_NEED_OUR_FORCES:1 "Їхні війська потрібні їм деінде"
+
  REQUEST_EXPEDITIONARY_FORCES_DESC:0 "Попросити контроль над $COUNT|H$ дивізіями держави $TARGET|H$."
  REQUEST_SLIDER:0 "$VAL$"
  DIPLOMACY_WARGOAL_ADDED:1 "Держава $COUNTRY|H$ додала нову ціль війни: "
@@ -918,7 +921,6 @@
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE:0 "Перейняти лідерство в альянсі"
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC:0 "Перейняти лідерство в альянсі $FACTION|H$."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_DESC:0 "Перейняти лідерство в альянсі $FACTION|H$."
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COST_DESC:0 "Перейняття коштуватиме £pol_power $COST|Y$, а інші члени не зможуть переймати лідерство наступні $COOLDOWN|Y$ дн."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECIPIENT_DESC:0 "Держава $COUNTRY$ перейняла лідерство в альянсі $FACTION$."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC:0 "Держава $COUNTRY$ перейняла лідерство в альянсі $FACTION$."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER:0 "Щоб перевершити нинішнього лідера та його суб'єктів за кількістю задіяних людських ресурсів, нам і нашим суб'єктам потрібно $NEEDED|*Y$ од. задіяних людських ресурсів, але зараз у нас"
@@ -1212,6 +1214,7 @@
  FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH:1 "$COUNTRY|UY$ не хоче давати нам більше людських ресурсів: "
  FOREIGN_MANPOWER_REASON_COOLDOWN:0 "Держава $COUNTRY|UY$ нещодавно виділяла нам людські ресурси. Новий запит вона прийме не раніше ніж $DATE|H$: "
  DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT:0 "Надіслати $MANPOWER|H$ од. людських ресурсів державі $COUNTRY|H$."
+
  DIPLOMACY_SPYMASTER_TITLE:0 "Перейняти статус керівника розвідмережі"
  DIPLOMACY_SPYMASTER_ACTION_DESC:0 "Вони є поточним §Hкерівником розвідмережі§! нашого альянсу.\nПопросіть у них зробити Вас новим §Hкерівником розвідмережі§!."
  DIPLOMACY_SPYMASTER_REQUEST_DESC:0 "Держава $COUNTRY|Y$ хоче стати нашим §Hкерівником розвідмережі§!."
@@ -1247,9 +1250,12 @@
  embargo_initiator_desc:0 "$COUNTRY|H$ утримує інші держави під ембарґо"
  embargo_initiator_extended_desc:1 "$COUNTRY1|Y$ утримує державу $COUNTRY2|Y$ під ембарґо"
  refused_sanctions_modifier:0 "Відмовилися вводити ембарґо"
+
  DR_DISTANCE_BETWEEN_CAPITALS:0 "Відстань (зменшується напруженістю): "
  DW_VERY_LIKELY_JOIN_FACTION:0 " - $COUNTRY|H$ може приєднатися до альянсу $FACTION|H$."
  POSSIBLE_FACTION_INVITES:0 "Якщо ми оголосимо війну:"
+
+
  DIPLOMACY_CONDITIONAL_SURRENDER_POINT_FRACTION:0 "Вони отримають $VALUE|%H$ максимально доступних балів конференції."
  DR_COMPARED_DEPLOYED_MANPOWER:0 "Розгорнуті людські ресурси порівняно з нами: "
  DR_CONDITIONAL_SURRENDER_WORLD_THREAT_SCALED:0 "Поточна глобальна напруженість: "
@@ -1258,3 +1264,6 @@
  DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL:0 "Власний прогрес капітуляції: "
  DR_CONDITIONAL_SURRENDER_MINOR_WAR:0 "Конфлікт малих націй: "
  embargo_relation_tt:0 "Ембарґо зашкодить відносинам між двома країнами."
+
+# ===== Рядки з UA, яких немає в EN (перенесено в кінець) =====
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COST_DESC:0 "Перейняття коштуватиме £pol_power $COST|Y$, а інші члени не зможуть переймати лідерство наступні $COOLDOWN|Y$ дн."
